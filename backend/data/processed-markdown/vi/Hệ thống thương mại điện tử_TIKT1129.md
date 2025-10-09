@@ -1,0 +1,251 @@
+|  |  |
+| --- | --- |
+| BỘ GIÁO DỤC VÀ ĐÀO TẠO  **TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  **Độc lập – Tự do – Hạnh phúc** |
+|  |  |
+| **ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN**  **(Detailed Course Syllabus)** | |
+| (*Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024*) | |
+
+# 1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)
+
+|  |  |
+| --- | --- |
+| - Tên học phần (tiếng Việt): | **Hệ thống Thương mại điện tử** |
+| - Tên học phần (tiếng Anh) | **Electronic Commerce Systems** |
+| - Mã số học phần | **TIKT1129** |
+| - Trình độ đào tạo | **Đại học** |
+| - Số tín chỉ | **3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)** |
+| + Số tiết lý thuyết | **25** |
+| + Số tiết thảo luận/thực hành  + Số tiết tự học | **20**  **90** |
+| - Các học phần tiên quyết: | **Hệ thống thông tin quản lý; Mạng và Truyền thông** |
+
+# 2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)
+
+Khoa/Viện quản lý: **Khoa Hệ thống thông tin quản lý**
+
+Địa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân
+
+Giảng viên giảng dạy:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **TT** | **Họ và tên** | **Số điện thoại** | **Email** |
+| 1 | ThS. Phạm Văn Minh | 0965509888 | pvminh@neu.edu.vn |
+| 2 | ThS. Đỗ Đức Thọ | 0913521589 | thodd@neu.edu.vn |
+| 1 | ThS. Trần Dũng Khánh | 0919900084 | kan@neu.edu.vn |
+| 2 | ThS. Trần Thanh Hải | 0903466090 | haitt@neu.edu.vn |
+| 4 | ThS. Phùng Tiến Hải | 0903216863 | phungtienhai@neu.edu.vn |
+
+# 3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)
+
+Học phần Hệ thống thương mại điện tử trang bị cho sinh viên kiến thức cơ bản về thương mại điện tử: lợi ích, nền tảng, các mô hình, các hình thức ứng dụng, cơ sở hạ tầng để phát triển thương mại điện tử, thanh toán điện tử, an toàn trong giao dịch thương mại điện tử, các văn bản pháp luật liên quan đến thương mại điện tử của Việt Nam, xây dựng giải pháp thương mại điện tử cho doanh nghiệp; đồng thời học phần cũng cung cấp cho người học kiến thức cơ bản về những công nghệ hỗ trợ cho các mô hình hoạt động thương mại điện tử.
+
+4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, **REFERENCE BOOKS, AND SOFTWARES)**
+
+## Giáo trình:
+
+[1]. Trần Văn Hòe, Giáo trình thương mại điện tử căn bản, NXB Đại học KTQD, (2015).
+
+## Bài giảng:
+
+[1] Bộ môn Tin học kinh tế, Bài giảng Hệ thống thương mại điện tử
+
+## Tài liệu khác
+
+[2] Nguyễn Văn Hồng (2015), Giáo trình thương mại điện tử căn bản, NXB Bách khoa
+
+[3] Nguyễn Văn Hùng, Phan Quan Việt (2019), Giáo trình Thương mại điện tử, NXB Tài chính
+
+[4] Phạm Quang Hiển, Trần Tường Thụy, Phạm Quang Huy, Lập Trình Hệ Thống Thương Mại Điện Tử, NXB Thanh niên
+
+[5] Efraim Turban, Jae K. Lee, David King, Ting Peng Liang, Deborrah Turban, Electronic Commerce: A Managerial Perspective 2010, Prentice Hall, 6th edition, October 22, 2009
+
+**Phần mềm sử dụng: Word Press**
+
+# 5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)
+
+**Bảng 1. Mục tiêu học phần**
+
+| **Mã /Code** | **Mô tả**  **mục tiêu học phần (CG)** | **CĐR (PLO) của CTĐT** |
+| --- | --- | --- |
+| **[1]** | **[2]** | **[3]** |
+| CG1 | Sinh viên hiểu và áp dụng được quy trình phát triển hệ thống thương mại điện tử. Triển khai thực hiện phát triển hệ thống thương mại điện tử cho doanh nghiệp. Xác định được các biện pháp đảm bảo an ninh, an toàn thông tin trong hoạt động thương mại điện tử | PLO1.4.3 |
+| CG2 | Sinh viên có kỹ năng sử dụng các công cụ trợ giúp xây dựng hệ thống thương mại điện tử như: ngôn ngữ lập trình web và hệ quản trị cơ sở dữ liệu dùng trong các ứng dụng web; có kiến thức và kinh nghiệm về lập trình bảo mật trong các hệ thống thương mại điện tử. Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển hệ thống thương mại điện tử. | PLO2.2.1  PLO2.2.2 |
+| CG3 | Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý. | PLO3.1.1  PLO3.1.2  PLO3.2.3 |
+
+# 6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)
+
+**Bảng 2. Chuẩn đầu ra học phần (CLO)**
+
+| **Mục tiêu** | **CLOs** | **Mô tả CLOs** | **Mức độ đạt được** |
+| --- | --- | --- | --- |
+| **[1]** | **[2]** | **[3]** | **[4]** |
+| CG1 | CLO1.1 | Hiểu rõ các thuật ngữ liên quan các loại hình thương mại điện tử, có khả năng ứng dụng được trong thực tiễn. | 2 |
+| CLO1.2 | Hiểu và giải thích được các phương tiện, hình thức giao dịch và loại hình thương mại điện tử | 3 |
+| CLO1.3 | Hiểu và sử dụng các công cụ tin học trợ giúp cho việc bảo đảm an ninh, an toàn trong thương mại điện tử | 4 |
+| CLO1.4 | Triển khai, vận hành hệ thống thương mại điện tử cho doanh nghiệp. | 4 |
+| CLO1.5 | Hiểu và sử dụng thành thạo công cụ tin học trợ giúp cho hoạt động thương mại tại doanh nghiệp. | 4 |
+| CG2 | CLO2.1 | Làm chủ các công nghệ, kỹ thuật để phát triển, vận hành và quản trị các ứng dụng web. Vận dụng được những nguyên tắc cơ bản của quy trình phát triển phần mềm vào phân tích, thiết kế, lập trình, xây dựng hệ thống thương mại điện tử | 4 |
+| CLO2.2 | Có kỹ năng tư duy hệ thống và mô hình hóa; có kỹ năng tự tìm hiểu, đọc tài liệu, cập nhật kiến thức chuyên môn liên quan đến thương mại điện tử. | 4 |
+| CG3 | CLO3.1 | Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. | 4 |
+| CLO3.2 | Có năng lực tổ chức hoạt động nhóm. | 4 |
+| CLO3.3 | Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý. | 4 |
+
+# 7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)
+
+## 7.1. Đánh giá học phần
+
+| **Hình thức đánh giá** | **Nội dung đánh giá trong PLO** | **Thời điểm** | **CLOs** | **Công cụ và tiêu chí đánh giá** | **Tỷ lệ (%)** | **CĐR của CTĐT** |
+| --- | --- | --- | --- | --- | --- | --- |
+| **[1]** | **[2]** | **[3]** | **[4]** | **[5]** | **[6]** | **[7]** |
+| Chuyên cần | Ý thức | Tuần 1-15 | CLO1.1  CLO1.2  CLO1.3  CLO1.4  CLO1.5  CLO2.1  CLO2.2 | Phụ lục 2  Rubric 1 | 10% | PLO 1.3  PLO 1.4  PLO 2.6  PLO 3.1  PLO 3.2 |
+| Năng lực |
+| Thái độ:  - Thái độ học tập trên lớp  - Trả lời câu hỏi trên lớp  - Trả lời các câu hỏi thảo luận |
+| Đánh giá quá trình | **Bài tập nhóm**/kiểm tra (phân tích tình huống)  Chủ đề (giảng viên đưa ra bài tập tình huống)  Nội dung giải quyết (kết hợp với phần mềm ứng dụng)  Mỗi nhóm trình bày: 15 phút và sẽ được tính 20% | Tuần 5 | CLO1.1  CLO1.2  CLO1.3  CLO1.4  CLO2.2 | Phụ lục 2  Rubric 2 | 40% | PLO 1.3  PLO 1.4  PLO 3.1 |
+| **Bài tập nhóm**  Chia mỗi nhóm từ 4-6 sinh viên  Lựa chọn tình huống  Xác định vấn đề trong doanh nghiệp, xác định dữ liệu đầu vào, thông tin đầu ra và công cụ xử lý.  Triển khai thực hiện phát triển ứng dụng website thương mại điện tử.  Mỗi nhóm trình bày: 15 phút; sẽ được tính 20% | Tuần 12 | CLO3.1  CLO3.2  CLO1.2  CLO1.3  CLO1.4 | Phụ lục 2  Rubric 3 | PLO 1.3  PLO 1.4  PLO 1.5  PLO 3.1 |
+| Đánh giá cuối kỳ | **Bài thi cuối kỳ**  Thời lượng 60 phút. Toàn bộ nội dung học phần.  Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử)  Không có thi lại.. | Lịch thi học phần | CLO1.1  CLO1.2  CLO1.3  CLO1.4 | Thi trắc nghiệm khách quan trên máy tính | 50% |  |
+
+## 7.2. Ma trận đề thi (Phụ lục 1)
+
+## 7.3. Các Rubrics (Phụ lục 2)
+
+# 8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)
+
+**Bảng 4. Kế hoạch và nội dung giảng dạy**
+
+| **Tuần** | **Nội dung** | **Tài liệu đọc** | **Hoạt động dạy và học** | **Đánh giá** | **CLOs** |
+| --- | --- | --- | --- | --- | --- |
+| **[1]** | **[2]** | **[3]** | **[4]** | **[5]** | **[6]** |
+| 1 | **Lecture 1**  ***Bài mở đầu***  Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT | Đề cương học phần | **Giảng viên**  Hướng dẫn đọc tài liệu  Hướng dẫn tìm tài liệu  Đặt ra yêu cầu học tập  Giới thiệu học phần |  | CLO1.1 |
+| **Chương 1: Tổng quan về thương mại điện tử**  1.1. Giới thiệu về Internet và World Wide Web  1.2. Tổng quan về ứng dụng thương mại điện tử  1.3. Các khái niệm về thương mại điện tử  1.4 Lợi ích và những hạn chế thương mại điện tử | [1] Chương 1  [2] Chương 1  [3] Chương 1 | **Giảng viên**  Dạy lý thuyết theo nội dung slide  **Sinh viên**  Học ở nhà: đọc trước tài liệu chương 1  Chia nhóm  Thảo luận về Internet, thương mại điện tử và vai trò của thương mại điện tử trong nền kinh tế số  Thảo luận về một số mô hình thương mại điện tử điển hình (amazon, ebay, alibaba, thegioididong, shopee…) | CLO1.1 |
+| 2 | Chương 1.  1.5. Các căn cứ pháp lý của hoạt động thương mại điện tử  1.6. Các phương tiện của thương mại điện tử  1.7. Các hình thức giao dịch thương mại điện tử | [1] Chương 1  [2] Chương 2  [3] Chương 2 | Dạy lý thuyết  Học ở nhà: đọc trước tài liệu chương 1  Chia nhóm  Thảo luận về các phương tiện của thương mại điện tử | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3 |
+| 3 | **Seminar 1**  Tóm tắt lại kiến thức đã học tại buổi Lecture 1  Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1  Hướng dẫn làm bài tập lớn số 1: Nghiên cứu về một công ty thương mại điện tử điển hình. | [1] Chương 1  [2] Chương 1  [3] Chương 1 | **Giảng viên:**  - Nhắc lại một số vấn đề lý thuyết  - Hướng dẫn trả lời câu hỏi  - Hướng dẫn thảo luận  - Chữa bài tập chương 1  **Sinh viên:**  - Đọc trước tài liệu  - Theo dõi giảng viên chữa bài tập  -Tham gia thảo luận về các mô hình thương mại điện tử điển hình | - Điểm danh  - Trả lời câu hỏi, thảo luận trong Seminar 1  (mức độ tham gia; tương tác; chất lượng câu trả lời)  + Đánh giá quá trình:  + Trả lời câu hỏi trên lớp  - Làm bài tập, thảo luận |  |
+| 4 | **Lecture 2**  ***Chương 2: Giao dịch điện tử***  2.1. Hợp đồng điện tử | [1] Chương 2  [2] Chương 3  [3] Chương 3 | Dạy lý thuyết  Học ở nhà: đọc trước tài liệu chương 2  Thảo luận về hợp đồng điện tử; so sánh hợp đồng điện tử và hợp đồng truyền thống; và một số điểm cần lưu ý khi sử dụng hợp đồng điện tử. | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài kiểm tra cá nhân  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3 |
+| Chương 2.  2.2. Thanh toán điện tử | [1] Chương 2  [2] Chương 3  [5] Chương 3 | Học ở nhà: đọc trước tài liệu chương 2  Thảo luận về tổng quan thanh toán điện tử. Một số hình thức thanh toán điện tử phổ biến. | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3 |
+| Chương 2.  2.3. Chữ ký số và dịch vụ chứng thực chữ ký số | [1] Chương 3  [4] Chương 1,2, | Dạy lý thuyết  Học ở nhà: đọc trước tài liệu Chương 2 và các tài liệu liên quan  Thảo luận về điều kiện đảm bảo của chữ ký điện tử. | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3 |
+| 5 | **Seminar 2**  - Tóm tắt lại kiến thức chương 2 đã học tại buổi Lecture 2  - Thảo luận về các ví dụ, câu hỏi của Seminar 2  - Hướng dẫn thực hành ký kết một số hợp đồng điện tử  - Hướng dẫn thực thành thanh toán điện tử  Hướng dẫn sử dụng chữ ký điện tử | [1] Chương 2  [2] Chương 3  [3] Chương 2, 3 | **Giảng viên:**  - Nhắc lại một số nội dung lý thuyết  - Hướng dẫn trả lời câu hỏi  - Hướng dẫn thực hành  - Chữa bài tập thực hành  **Sinh viên:**  - Đọc trước tài liệu  - Theo dõi các bước thực hành  - Làm bài thực hành  - Tham gia thảo luận  - Tham gia chữa bài tập thực hành | - Điểm danh  - Trả lời câu hỏi thuộc nội dung Seminar 2  - Làm bài tập thực hành | CLO1.2  CLO2.2 |
+| 6 | **Lecture 3**  ***Chương 3: Marketing điện tử***  3.1. Tổng quan về Marketing điện tử  3.2. Ứng dụng Marketing điện tử trong doanh nghiệp | [1] Chương 3  [4] Chương 3 | Dạy lý thuyết  Học ở nhà: đọc trước tài liệu Chương 3 và các tài liệu liên quan  Thảo luận về Marketing điện tử, các phương tiện Marketing điện tử điển hình hiện nay | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3  CLO2.1 |
+| 7 | **Seminar 3**  Tóm tắt lại kiến thức đã học tại buổi Lecture 3 về chương 3 – Marketing điện tử.  Thảo luận về các ví dụ, câu hỏi của Seminar 3  Thực hành Marketing điện tử trên website điển hình. | [1] Chương 4  [2] Chương 4  [3] Chương 4,5 | **Giảng viên:**  - Nhắc lại một số nội dung lý thuyết  - Hướng dẫn trả lời câu hỏi  - Hướng dẫn thực hành  Chữa bài tập thực hành  **Sinh viên:**  - Đọc trước tài liệu  - Theo dõi các bước thực hành  - Làm bài thực hành  - Tham gia thảo luận  - Tham gia chữa bài tập thực hành | - Điểm danh  - Trả lời câu hỏi thuộc nội dung Seminar 3  - Làm bài tập thực hành | CLO1.2  CLO1.3  CLO2.1 |
+| 8 | **Lecture 4**  ***Chương 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử***  4.1 Tổng quan về an toàn và phòng tránh rủi ro trong Thương mại điện tử  4.2 Rủi ro chính trong thương mại điện tử  4.3 Xây dựng kế hoạch an ninh cho thương mại điện tử | [1] Chương 4  [5] Chương 1,2 | **Giảng viên**  - Giảng lý thuyết theo nội dung slide  - Giới thiệu ví dụ trong slide  - Hướng dẫn đọc giáo trình, tài liệu tham khảo  - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 4  **Sinh viên**  - Đọc trước các tài liệu chương 4 và các tài liệu tham khảo liên quan  - Xem trước các ví dụ, làm bài tập được yêu cầu về thực hành về bảo mật thông tin trong giao dịch thương mại điện tử |  |  |
+| 8 | **Seminar 4**  - Tóm tắt lại kiến thức đã học tại buổi Lecture 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử  - Thảo luận về các ví dụ, câu hỏi của Seminar 4  - Thảo luận bài tập tình huống |  | **Giảng viên:**  Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi thuộc chương 4- Rủi ro và phòng tránh rủi ro trong thương mại điện tử.  **Sinh viên:**  Thảo luận về phân tích tình hình để xác định các rủi ro và biện pháp phòng tránh rủi ro trong thương mại điện tử.  Thực hành một số biện pháp bảo mật thông tin cá nhân, bảo mật các giao dịch điện tử. | - Điểm danh  - Trả lời câu hỏi thuộc nội dung Seminar 4 | CLO1.1  CLO1.2  CLO1.3  CLO2.2 |
+| 9 | **Lecture 5**  ***Chương 5: Ứng dụng thương mại điện tử trong doanh nghiệp***  5.1. Xây dựng hệ thống thương mại điện tử trong doanh nghiệp  5.2. Triển khai hệ thống thương mại điện tử trong doanh nghiệp  5.3. Xây dựng kế hoạch kinh doanh điện tử  5.4 Xây dựng website và quản lý website thương mại điện tử | [1] Chương 5  [5] Chương 1,2 | Dạy lý thuyết  Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu tham khảo liên quan  Thảo luận về website thương mại điện tử, các công cụ thực hiện xây dựng và quản trị website. | Đánh giá quá trình:  Trả lời câu hỏi trên lớp  Bài thi cuối kỳ | CLO1.1  CLO1.2  CLO1.3  CLO2.1 |
+| 10  11  12 | **Seminar 5**  - Tóm tắt lại kiến thức đã học tại buổi Lecture 5: Chương 5 - Ứng dụng thương mại điện tử trong doanh nghiệp  - Thảo luận về các ví dụ, câu hỏi của Seminar 5  Thực hành xây dựng một website thương mại điện tử bằng Word press.  Hướng dẫn làm bài tập nhóm số 2.  Các nhóm thuyết trình bài tập nhóm theo yêu cầu. | [1] Chương 5  [2] Chương 5  [3] Chương 7,8 | **Giảng viên:**  - Nhắc lại một số nội dung lý thuyết  - Hướng dẫn trả lời câu hỏi  - Hướng dẫn thực hành theo nhóm  - Chữa bài tập thực hành  **Sinh viên:**  - Đọc trước tài liệu  - Theo dõi các bước thực hành  - Làm bài thực hành thiết kế website bằng word press | - Điểm danh  - Trả lời câu hỏi thuộc nội dung Seminar 5  - Làm bài tập lớn số 2 (Rubric 2) | CLO1.2  CLO1.3  CLO2.1  CLO2.2 |
+| 13 | **Lecture 6**  ***Chương 6: Luật điều chỉnh thương mại điện tử***  6.1. Khái quát khung pháp lý về thương mại điện tử trên thế giới  6.2. Khung pháp lý về thương mại điện tử trong khu vực  6.3. Khung pháp lý về thương mại điện tử ở Việt Nam | [1] Chương 6  [2] Chương 6  [3] Chương 9, 10 | **Giảng viên**  - Giảng lý thuyết theo nội dung slide  - Giới thiệu ví dụ trong slide  - Hướng dẫn đọc giáo trình, tài liệu tham khảo  - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 6  **Sinh viên**  - Đọc trước các tài liệu  - Xem trước các ví dụ, làm bài tập được yêu cầu |  | CLO1.4  CLO1.5 |
+| 14 | **Seminar 6**  - Tóm tắt lại kiến thức đã học tại buổi Lecture 6  - Thảo luận về các ví dụ, câu hỏi của Seminar 6  - Thảo luận bài tập tình huống trong giao dịch thương mại điện tử. | [1] Chương 6  [2] Chương 6  [3] Chương 9, 10 | **Giảng viên:**  - Nhắc lại một số nội dung lý thuyết  - Hướng dẫn trả lời câu hỏi  - Hướng dẫn thực hành theo nhóm  **Sinh viên:**  - Đọc trước tài liệu  - Theo dõi các bước thực hành  - Làm bài thực hành  - Tham gia thảo luận theo nhóm  - Tham gia chữa bài tập thực hành theo nhóm | - Điểm danh  - Trả lời câu hỏi trong Seminar 6 | CLO1.4  CLO1.5  CLO2.2  CLO3.1  CLO3.2 |
+| 15 | Thuyết trình bài tập nhóm (phát triển Website thương mại điện tử)  Ôn tập  Tổng kết |  | Nhóm thuyết trình  Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm  Hỏi đáp | Đánh giá điểm của nhóm | CLO1.4  CLO3.1  CLO3.2 |
+
+# 9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)
+
+Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.
+
+**10.** **QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)**
+
+## 10.1. Quy định về điều kiện thi kết thúc học phần
+
+* Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).
+* Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.
+
+## 10.2. Quy định về tham dự lớp học
+
+* Học viên có trách nhiệm tham dự đầy đủ các buổi học.
+* Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.
+
+## 10.3. Quy định về hành vi lớp học
+
+* Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.
+* Ghi chép đầy đủ, tham gia trả lời câu hỏi.
+* Đọc trước tài liệu được yêu cầu.
+* Làm các bài tập về nhà.
+* Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.
+* Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.
+
+## 10.4. Quy định về nộp bài tập nhóm
+
+* Người học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).
+* Sau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.
+
+# 11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024.
+
+|  |  |
+| --- | --- |
+| **TRƯỞNG KHOA**  **TS. Nguyễn Thị Bạch Tuyết** | **HIỆU TRƯỞNG**  **GS.TS. Phạm Hồng Chương** |
+
+# PHỤ LỤC
+
+## Phụ lục 1. MA TRẬN ĐỀ THI
+
+* Trọng số trong điểm học phần: 50%
+* Hình thức: Thi trắc nghiệm viết trên máy
+* Thời gian: 45 phút
+* Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm.
+
+**Ma trận đề thi trắc nghiệm:**
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Nội dung** | **CLO** | **Nhớ** | **Hiểu** | **Vận dụng** | **Tổng** |
+| Chương 1 | 1.1 | 3 | 3 | 4 | 10 |
+| Chương 2 | 1.2 | 2 | 4 | 4 | 10 |
+| Chương 3 | 1.3 | 2 | 3 | 3 | 8 |
+| Chương 4 | 1.4 | 2 | 3 | 3 | 8 |
+| Chương 5 | 1.6 | 1 | 2 | 3 | 6 |
+| Chương 6 | 1.4 | 2 | 4 | 3 | 8 |
+| **Tổng số câu** | | **12** | **18** | **20** | **50** |
+| **Tỷ trọng** | | **25%** | **35%** | **45%** | **100%** |
+
+## Phụ lục 2. CÁC RUBRICS
+
+**Rubric 1. Đánh giá điểm chuyên cần**
+
+* Trọng số trong điểm học phần: 10%
+* Đánh giá qua 8 buổi seminar
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Số buổi vắng (điểm danh)** | **Tham gia thảo luận (GV seminar đánh giá)** | | | |
+| **Rất tích cực** | **Tích cực** | **Có tham gia** | **Không tham gia** |
+| **0** | 10, 10+ | 9 | 8 | 7 |
+| **1** | 9, 10 | 8 | 7 | 6 |
+| **2** | 8, 9 | 7 | 6 | 5 |
+| **> 2** | 0 điểm, học lại | | | |
+
+\* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.
+
+Tiêu chí đánh giá tham gia thảo luận
+
+| **Rất tích cực** | **Tích cực** | **Có tham gia** | **Không tham gia** |
+| --- | --- | --- | --- |
+| * Xung phong trả lời, chữa bài tập từ hai lần trở lên; * Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; * Đề xuất các vấn đề, chủ đề mới; * Hoạt động nổi bật khác. | * Xung phong trả lời câu hỏi; * Xung phong chữa bài tập; * Đặt câu hỏi thảo luận với lớp; * Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; * Trả lời tốt về bài tập nhóm. | * Trả lời câu hỏi do giảng viên yêu cầu trả lời; * Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; * Có phát biểu ý kiến; * Có trả lời về bài tập nhóm. | * Không trả lời câu hỏi; * Không trình bày đáp án bài tập; * Không tham gia tương tác. |
+
+**Rubric 2. Đánh giá thuyết trình theo nhóm**
+
+* Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)
+* Đánh giá qua kết quả theo nhóm
+
+| **Tiêu chí** | **Trọng số (%)** | **Tốt**  **8.5 – 10 điểm** | **Khá**  **6.5 – 8.4 điểm** | **Trung bình**  **4.0 – 6.4 điểm** | **Kém**  **0 – 3.9 điểm** |
+| --- | --- | --- | --- | --- | --- |
+| **Nội dung** | **10** | Phong phú hơn yêu cầu | Đầy đủ theo yêu cầu | Khá đầy đủ, còn thiếu 1 nội dung quan trọng | Thiếu nhiều nội dung quan trọng |
+| **20** | Chính xác, khoa học | Khá chính xác, khoa học, còn vài sai sót nhỏ | Tương đối chính xác, khoa học, còn 1 sai sót quan trọng | Thiếu chính xác, khoa học, nhiều sai sót quan trọng |
+| **Cấu trúc và tính trực quan** | **10** | Cấu trúc bài và slides rất hợp lý | Cấu trúc bài và slides khá hợp lý | Cấu trúc bài và slides tương đối hợp lý | Cấu trúc bài và slides chưa hợp lý |
+| **10** | Rất trực quan và thẩm mỹ | Khá trực quan và thẩm mỹ | Tương đối trực quan và thẩm mỹ | Ít/Không trực quan và thẩm mỹ |
+| **Kỹ năng trình bày** | **10** | Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục | Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục | Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng | Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng |
+| **Tương tác cử chỉ** | **10** | Tương tác bằng mắt và cử chỉ tốt | Tương tác bằng mắt và cử chỉ khá tốt | Có tương tác bằng mắt, cử chỉ nhưng chưa tốt | Không tương tác bằng mắt và cử chỉ |
+| **Quản lý thời gian** | **10** | Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống | Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống. | Hoàn thành đúng thời gian, không linh hoạt theo tình huống. | Quá giờ |
+| **Trả lời câu hỏi** | **10** | Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng | Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được | Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được | Không trả lời được đa số câu hỏi đặt đúng |
+| **Sự phối hợp trong nhóm** | **10** | Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời | Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ | Nhóm ít phối hợp trong khi báo cáo và trả lời | Không thề hiện sự kết nối trong nhóm |
+
+**Rubric 3. Đánh giá thuyết trình theo nhóm**
+
+* Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)
+* Đánh giá qua kết quả theo nhóm
+
+| **Tiêu chí** | **Trọng số (%)** | **Tốt**  **8.5 – 10 điểm** | **Khá**  **6.5 – 8.4 điểm** | **Trung bình**  **4.0 – 6.4 điểm** | **Kém**  **0 – 3.9 điểm** |
+| --- | --- | --- | --- | --- | --- |
+| **Nội dung** | **10** | Phong phú hơn yêu cầu | Đầy đủ theo yêu cầu | Khá đầy đủ, còn thiếu 1 nội dung quan trọng | Thiếu nhiều nội dung quan trọng |
+| **20** | Chính xác, khoa học | Khá chính xác, khoa học, còn vài sai sót nhỏ | Tương đối chính xác, khoa học, còn 1 sai sót quan trọng | Thiếu chính xác, khoa học, nhiều sai sót quan trọng |
+| **Cấu trúc và tính trực quan** | **10** | Cấu trúc bài và slides rất hợp lý | Cấu trúc bài và slides khá hợp lý | Cấu trúc bài và slides tương đối hợp lý | Cấu trúc bài và slides chưa hợp lý |
+| **10** | Rất trực quan và thẩm mỹ | Khá trực quan và thẩm mỹ | Tương đối trực quan và thẩm mỹ | Ít/Không trực quan và thẩm mỹ |
+| **Kỹ năng trình bày** | **10** | Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục | Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục | Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng | Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng |
+| **Tương tác cử chỉ** | **10** | Tương tác bằng mắt và cử chỉ tốt | Tương tác bằng mắt và cử chỉ khá tốt | Có tương tác bằng mắt, cử chỉ nhưng chưa tốt | Không tương tác bằng mắt và cử chỉ |
+| **Quản lý thời gian** | **10** | Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống | Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống. | Hoàn thành đúng thời gian, không linh hoạt theo tình huống. | Quá giờ |
+| **Trả lời câu hỏi** | **10** | Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng | Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được | Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được | Không trả lời được đa số câu hỏi đặt đúng |
+| **Sự phối hợp trong nhóm** | **10** | Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời | Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ | Nhóm ít phối hợp trong khi báo cáo và trả lời | Không thề hiện sự kết nối trong nhóm |
