@@ -1,0 +1,103 @@
+{
+  "id": "EP17.CNTT1190",
+  "filename": "Service Oriented Software Development_EP17.CNTT1190.docx",
+  "language": "en",
+  "subject_name": "Service Oriented Software Development_EP17.CNTT1190",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "COURSE SYLLABUS",
+        "(Issued attached Decision of NEU’s President,           ,            , 2023)"
+      ]
+    },
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "English Title: Service Oriented Software Development",
+        "Code: CNTT1190",
+        "Level Of Education: Undergraduate",
+        "Type Of Education: Full-Time",
+        "Credits: 3",
+        "Credit hours for teaching and learning activities:",
+        "+ Lecture: 20 hrs",
+        "+ Presentation and Discussion: 5 hrs",
+        "+ Exercise and discussion: 23 hrs",
+        "+ Self-study: 99 hrs.",
+        "Prerequisite course(s): CNTT1128, TIKT1130.",
+        "Faculty conducting the course: Information Technology, Suite 1310, Building A1, National Economics University, 207 Giai Phong str., Hai Ba Trung dist., Ha Noi, Vietnam.",
+        "Lecturers: Dr. Phạm Minh Hoàn, tel: 0949263666, email: hoanpm@neu.edu.vn",
+        "Dr. Lưu Minh Tuấn, tel: 0904143460, email: tuanlm@neu.edu.vn",
+        "Kind of the course:"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "The module provides knowledge about service-oriented software development concepts, architecture, methods and tools so that students can apply them to practical problems during their studies as well as after graduation. In the first part, the module introduces an overview of service-oriented software development and techniques in service-oriented software development. The next part introduces the service-oriented architecture model and foundation, principles and properties of service-oriented software systems. The module also provides details about the platform, technology, process and how to develop Web services: SOAP and RESTful. Finally, the module also provides knowledge about the system life cycle, system building strategies, service-oriented modeling approach and basic steps to build a service-oriented system."
+      ]
+    },
+    {
+      "heading": "Required textbooks:",
+      "content": [
+        "[1] Mario-Leander Reimer (2018), Building RESTful Web Services with Java EE 8, Packt Publishing.",
+        "[2]. Robert Daigneau (2011), Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web services, Addison-Wesley Professional."
+      ]
+    },
+    {
+      "heading": "Other references:",
+      "content": [
+        "[3] Leonard Richarson, Mike Amundsen (2013), RESTfull Web APIs, O'Reilly Media."
+      ]
+    },
+    {
+      "heading": "4. COURSE OBJECTIVES",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "* Assessment methods:",
+        "- Grading: 10",
+        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.",
+        "* Assessment summary:",
+        "Table 6. Course assessment"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8. Lesson Plan for the course",
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements",
+        "Students are required to fully take part in class lectures and activities.",
+        "Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.",
+        "9.2. In-class Behavior Requirements",
+        "The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.",
+        "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
+        "Cellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration.",
+        "9.3. Requirements for in-class behaviour",
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "COURSE SYLLABUS \n(Issued attached Decision of NEU’s President,           ,            , 2023)\n1. COURSE INFORMATION\nEnglish Title: Service Oriented Software Development\nCode: CNTT1190\nLevel Of Education: Undergraduate\nType Of Education: Full-Time\nCredits: 3\nCredit hours for teaching and learning activities: \n+ Lecture: 20 hrs\n+ Presentation and Discussion: 5 hrs\n+ Exercise and discussion: 23 hrs\n+ Self-study: 99 hrs. \nPrerequisite course(s): CNTT1128, TIKT1130. \nFaculty conducting the course: Information Technology, Suite 1310, Building A1, National Economics University, 207 Giai Phong str., Hai Ba Trung dist., Ha Noi, Vietnam. \nLecturers: Dr. Phạm Minh Hoàn, tel: 0949263666, email: hoanpm@neu.edu.vn \n                   Dr. Lưu Minh Tuấn, tel: 0904143460, email: tuanlm@neu.edu.vn\nKind of the course:\n2. COURSE DESCRIPTIONS\nThe module provides knowledge about service-oriented software development concepts, architecture, methods and tools so that students can apply them to practical problems during their studies as well as after graduation. In the first part, the module introduces an overview of service-oriented software development and techniques in service-oriented software development. The next part introduces the service-oriented architecture model and foundation, principles and properties of service-oriented software systems. The module also provides details about the platform, technology, process and how to develop Web services: SOAP and RESTful. Finally, the module also provides knowledge about the system life cycle, system building strategies, service-oriented modeling approach and basic steps to build a service-oriented system.\n3. LEARNING RESOURCES\nRequired textbooks:\n[1] Mario-Leander Reimer (2018), Building RESTful Web Services with Java EE 8, Packt Publishing.\n[2]. Robert Daigneau (2011), Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web services, Addison-Wesley Professional.\nOther references: \n[3] Leonard Richarson, Mike Amundsen (2013), RESTfull Web APIs, O'Reilly Media.\n4. COURSE OBJECTIVES\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Course assessment\n7. COURSE OUTLINE\n8. LESSON PLAN\nTable 8. Lesson Plan for the course\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\n9.2. In-class Behavior Requirements\nThe course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:26.214772",
+  "source_file": "backend\\data\\raw\\en\\Service Oriented Software Development_EP17.CNTT1190.docx",
+  "content_length": 3821
+}

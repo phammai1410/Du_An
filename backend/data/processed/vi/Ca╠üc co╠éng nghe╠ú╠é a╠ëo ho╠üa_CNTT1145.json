@@ -1,0 +1,169 @@
+{
+  "id": "CNTT1145",
+  "filename": "Ca╠üc co╠éng nghe╠ú╠é a╠ëo ho╠üa_CNTT1145.docx",
+  "language": "vi",
+  "subject_name": "Ca╠üc co╠éng nghe╠ú╠é a╠ëo ho╠üa_CNTT1145",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định số 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tCác công nghệ ảo hóa",
+        "Tên học phần (tiếng Anh):\tVirtualization Technologies",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1145",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết:",
+        "CNTT1110; CNTT1112"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "content": [
+        "(Management Faculty and Teachers)",
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Các công nghệ ảo hóa là học phần cung cấp kiến thức về: Tổ chức và chức năng của hypervisor; Nguyên lý hoạt động và chức năng của các loại công nghệ ảo hóa như ảo hóa hệ thống, mô phỏng máy, các trình quản lý tài nguyên ảo; Các khái niệm về ảo hóa tài nguyên chung: bộ nhớ ảo, CPU ảo, hệ điều hành trừu tượng; Máy ảo cơ bản và bối cảnh lịch sử. Yêu cầu chính thức cho các máy ảo; Ảo hóa toàn bộ hệ thống: các máy ảo loại I và II, ảo hóa song song, ảo hóa thiết bị; Ảo hóa trong thực tế: quản lý tài nguyên ảo, di chuyển trực tiếp, lưu trữ bộ nhớ, chống lỗi.",
+        "Học phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực trung tâm dữ liệu ảo hóa. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.",
+        "Nội dung chính:",
+        "Khái niệm ảo hóa, các loại ảo hóa",
+        "Hypervisor loại 1, loại 2",
+        "Máy ảo, các tài nguyên trong máy ảo",
+        "Lập lịch CPU cho máy ảo",
+        "Quản lý bộ nhớ",
+        "Ảo hóa mạng",
+        "Quản lý lưu trữ",
+        "Trung tâm dữ liệu ảo hóa"
+      ]
+    },
+    {
+      "heading": "4.1. Giáo trình",
+      "content": [
+        "[1] Mathew Portnoy (2016) Virtualization Essentials, Sybex."
+      ]
+    },
+    {
+      "heading": "4.2. Tài liệu tham khảo",
+      "content": [
+        "[2] Jim Smith & Ravi Nair. Virtual Machines: Versatile Platforms for Systems and Proesses, 1st edition, Morgan Kaufmann, 2005."
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+        "Đọc trước tài liệu được yêu cầu;",
+        "Làm các bài tập về nhà;",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "content": [
+        "Tháng 6 năm 2024."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên giấy",
+        "Thời gian: 90 phút",
+        "Số câu hỏi: 5 câu. Mỗi câu 0,25 điểm",
+        "Ma trận đề thi (tự luận):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubrics 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 7 buổi seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "CLO của đánh giá chuyên cần",
+        "Rubrics 2. Đánh giá bài tập lớn",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tCác công nghệ ảo hóa \nTên học phần (tiếng Anh):\tVirtualization Technologies \nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1145\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \nCNTT1110; CNTT1112\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY \n(Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tCác công nghệ ảo hóa là học phần cung cấp kiến thức về: Tổ chức và chức năng của hypervisor; Nguyên lý hoạt động và chức năng của các loại công nghệ ảo hóa như ảo hóa hệ thống, mô phỏng máy, các trình quản lý tài nguyên ảo; Các khái niệm về ảo hóa tài nguyên chung: bộ nhớ ảo, CPU ảo, hệ điều hành trừu tượng; Máy ảo cơ bản và bối cảnh lịch sử. Yêu cầu chính thức cho các máy ảo; Ảo hóa toàn bộ hệ thống: các máy ảo loại I và II, ảo hóa song song, ảo hóa thiết bị; Ảo hóa trong thực tế: quản lý tài nguyên ảo, di chuyển trực tiếp, lưu trữ bộ nhớ, chống lỗi.\nHọc phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực trung tâm dữ liệu ảo hóa. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.\nNội dung chính:\nKhái niệm ảo hóa, các loại ảo hóa\nHypervisor loại 1, loại 2\nMáy ảo, các tài nguyên trong máy ảo\nLập lịch CPU cho máy ảo\nQuản lý bộ nhớ\nẢo hóa mạng\nQuản lý lưu trữ\nTrung tâm dữ liệu ảo hóa\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Mathew Portnoy (2016) Virtualization Essentials, Sybex.\n4.2. Tài liệu tham khảo\n[2] Jim Smith & Ravi Nair. Virtual Machines: Versatile Platforms for Systems and Proesses, 1st edition, Morgan Kaufmann, 2005.\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không). \nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)\nTháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 90 phút\nSố câu hỏi: 5 câu. Mỗi câu 0,25 điểm\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 7 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nCLO của đánh giá chuyên cần\nRubrics 2. Đánh giá bài tập lớn\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nĐánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
+  "created_at": "2025-10-03T00:04:20.802934",
+  "source_file": "backend\\data\\raw\\vi\\Ca╠üc co╠éng nghe╠ú╠é a╠ëo ho╠üa_CNTT1145.docx",
+  "content_length": 4702
+}

@@ -1,0 +1,95 @@
+{
+  "id": "CNTT1112E",
+  "filename": "Computer Architecture_CNTT1112E.docx",
+  "language": "en",
+  "subject_name": "Computer Architecture_CNTT1112E",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "COURSE SYLLABUS",
+        "(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)"
+      ]
+    },
+    {
+      "heading": "2. DEPARTMENT IN CHARGE OF INSTRUCTION",
+      "content": [
+        "Department: Department of Information Technology",
+        "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
+        "Lecturer:"
+      ]
+    },
+    {
+      "heading": "3. COURSE DESCRIPTIONS",
+      "content": [
+        "This module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.",
+        "The course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education."
+      ]
+    },
+    {
+      "heading": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "content": [
+        "Course books:",
+        "[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.",
+        "Reference books:",
+        "[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041."
+      ]
+    },
+    {
+      "heading": "5. COURSE GOALS",
+      "content": [
+        "Table 5.1. Course Objectives"
+      ]
+    },
+    {
+      "heading": "6. COURSE LEARNING OUTCOMES",
+      "content": [
+        "Table 6.1. Course Learning Outcomes"
+      ]
+    },
+    {
+      "heading": "7. COURSE ASSESSMENT",
+      "content": [
+        "Table 7.1. Course assessment"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson plan"
+      ]
+    },
+    {
+      "heading": "9.1. Regulations on conditions for the end-of-course exam",
+      "content": [
+        "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Rules for attending classes",
+      "content": [
+        "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
+        "Students will be added points for each construction speech, which can be compensated for attendance points and test scores."
+      ]
+    },
+    {
+      "heading": "9.3. Regulations on classroom behavior",
+      "content": [
+        "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
+        "Absolutely do not make noise, affecting others during the learning process.",
+        "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
+        "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)\n1. GENERAL INFORMATION\n2. DEPARTMENT IN CHARGE OF INSTRUCTION \nDepartment: Department of Information Technology \nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\n3. COURSE DESCRIPTIONS\nThis module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.\nThe course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse books:\n[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.\nReference books: \n[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.\n5. COURSE GOALS\nTable 5.1. Course Objectives\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. LESSON PLAN\nTable 8.1. Lesson plan\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Regulations on conditions for the end-of-course exam\nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Rules for attending classes\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Regulations on classroom behavior\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+  "created_at": "2025-10-03T00:04:24.601939",
+  "source_file": "backend\\data\\raw\\en\\Computer Architecture_CNTT1112E.docx",
+  "content_length": 3076
+}

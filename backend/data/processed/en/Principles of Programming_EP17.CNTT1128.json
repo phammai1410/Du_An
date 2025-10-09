@@ -1,0 +1,117 @@
+{
+  "id": "EP17.CNTT1128",
+  "filename": "Principles of Programming_EP17.CNTT1128.docx",
+  "language": "en",
+  "subject_name": "Principles of Programming_EP17.CNTT1128",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "Title: Principles of Programming                                      Code: EP17.CNTT1128E",
+        "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+        "Credit hours for teaching and learning activities:",
+        "Lecture: 30 hrs",
+        "Exercises on class: 15 hrs",
+        "Exercise and discussion (Tutor): 15 hrs",
+        "Self-study: 90 hrs.",
+        "Parallel course(s): None",
+        "Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics",
+        "Department conducting the course:",
+        "Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
+        "Lecturers:",
+        "PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn",
+        "MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn",
+        "PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn",
+        "MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn",
+        "MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn",
+        "PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn",
+        "PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn",
+        "MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn",
+        "PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn",
+        "Kind of the course:",
+        "Course language: In English"
+      ]
+    },
+    {
+      "heading": "2.  COURSE DESCRIPTIONS",
+      "content": [
+        "This course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.",
+        "The course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "Course Book(s):",
+        "[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)",
+        "Reference Book(s):",
+        "[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House",
+        "[3] Applied C: An Introduction and More. McGraw – Hill Higher Education",
+        "Software(s):",
+        "[1] Visual Studio Code",
+        "[2] Code::Blocks"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4.1. Course Goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES",
+      "content": [
+        "Table 5.1. Course learning outcomes"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "Table 6.1. Course assessment"
+      ]
+    },
+    {
+      "heading": "7. COURSE OUTLINE",
+      "content": [
+        "Table 7.1. Course outline"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "9.1. Requirements for taking final /terminal exams",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Requirements for attending classes",
+      "content": [
+        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "9.3. Requirements for in-class behaviour",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\nTitle: Principles of Programming                                      Code: EP17.CNTT1128E\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities: \nLecture: 30 hrs\nExercises on class: 15 hrs\nExercise and discussion (Tutor): 15 hrs\nSelf-study: 90 hrs. \nParallel course(s): None \nPrerequisite course(s): Introduction of Information Technology, Discrete Mathematics\nDepartment conducting the course:  \nFaculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers: \nPhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\nMA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn \nPhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\nMA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\t\nMA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\t\nPhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\nPhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\t\nMA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn\nPhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\nKind of the course: \nCourse language: In English                 \n2.  COURSE DESCRIPTIONS\nThis course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.\n The course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.\n3. LEARNING RESOURCES\nCourse Book(s):\n[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)\nReference Book(s): \n[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House\n[3] Applied C: An Introduction and More. McGraw – Hill Higher Education \nSoftware(s):\n[1] Visual Studio Code\n[2] Code::Blocks\n4. COURSE GOALS\nTable 4.1. Course Goals\n5. COURSE LEARNING OUTCOMES\nTable 5.1. Course learning outcomes\n6. COURSE ASSESSMENT\nTable 6.1. Course assessment\n7. COURSE OUTLINE\nTable 7.1. Course outline\n8. LESSON PLAN\nTable 8. Lesson plan for the course\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:26.083970",
+  "source_file": "backend\\data\\raw\\en\\Principles of Programming_EP17.CNTT1128.docx",
+  "content_length": 3815
+}

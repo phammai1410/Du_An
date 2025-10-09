@@ -1,0 +1,110 @@
+{
+  "id": "EP17.CNTT11109",
+  "filename": "Software Design and Architecture_EP17.CNTT11109.docx",
+  "language": "en",
+  "subject_name": "Software Design and Architecture_EP17.CNTT11109",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Software Design and Architecture Code: CNTT11109",
+        "* Credits: 3 (45)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 25 hrs.",
+        "+ Exercises in class: 10 hrs.",
+        "+ Presentation and Discussion: 10 hrs.",
+        "+ Self-study: 60 hrs.",
+        "* Parallel course(s):",
+        "* Prerequisite course(s): CNTT1128",
+        "* Department conducting the course:",
+        "+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+        "+ Lecturers:",
+        "1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
+        "2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn",
+        "* The course:",
+        "* Course language: \tIn English",
+        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.",
+        "The course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.",
+        "Students will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "* Textbooks/Lecture Notes:",
+        "Software Architecture in Practice by Len Bass, 2013, Pearson Education",
+        "Software Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014",
+        "Clean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.",
+        "* Additional references:",
+        "Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.",
+        "* Software Tool",
+        "Integrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse",
+        "Version Control Systems such as Git, SVN",
+        "UML Modeling Tools like Visual Paradigm, Lucid chart",
+        "Continuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI",
+        "Collaboration Tools like Slack, Microsoft Teams"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "Table 6. Assessment summary"
+      ]
+    },
+    {
+      "heading": "7. LESSON PLAN",
+      "content": [
+        "Table 7.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "8.1. Requirements for taking final /terminal exams.",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "8.2. Requirements for attending classes.",
+      "content": [
+        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.",
+        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "8.3. Requirements for in-class behavior",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
+        "Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: Software Design and Architecture Code: CNTT11109\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1128\n* Department conducting the course: \n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS \nThis course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.\nThe course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.\nStudents will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development.\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \nSoftware Architecture in Practice by Len Bass, 2013, Pearson Education\nSoftware Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014\nClean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.\n* Additional references:\nDesign Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.\n* Software Tool\nIntegrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse\nVersion Control Systems such as Git, SVN\nUML Modeling Tools like Visual Paradigm, Lucid chart\nContinuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI\nCollaboration Tools like Slack, Microsoft Teams\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:26.277478",
+  "source_file": "backend\\data\\raw\\en\\Software Design and Architecture_EP17.CNTT11109.docx",
+  "content_length": 4183
+}

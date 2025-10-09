@@ -1,0 +1,181 @@
+{
+  "id": "CNTT1178",
+  "filename": "Kie╠é╠ëm thu╠¢╠ë va╠Ç ─æa╠ëm ba╠ëo cha╠é╠üt lu╠¢o╠¢╠úng pha╠é╠Çn me╠é╠Çm_CNTT1178.docx",
+  "language": "vi",
+  "subject_name": "Kie╠é╠ëm thu╠¢╠ë va╠Ç ─æa╠ëm ba╠ëo cha╠é╠üt lu╠¢o╠¢╠úng pha╠é╠Çn me╠é╠Çm_CNTT1178",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tKiểm thử và đảm bảo chất lượng phần mềm",
+        "Tên học phần (tiếng Anh):\tSoftware Testing and Quality Assurrance",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1178",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết:",
+        "CNTT1116, CNTT1131"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Khóa học nhằm cung cấp cho sinh viên kiến thức về chất lượng phần mềm, kiểm thử phần mềm, quy trình kiểm thử và các kỹ thuật cơ bản trong thiết kế và cài đặt kiểm thử, đồng thời giúp sinh viên phát triển khả năng thiết kế kiểm thử và đánh giá hiệu quả kiểm thử một phần mềm cụ thể trong thực tế. Ngoài ra, khóa học còn cung cấp sự hiểu biết và cách sử dụng một số công cụ quản lý lỗi, công cụ kiểm tra tự động hóa.",
+        "Nội dung khóa học bao gồm:",
+        "• Tổng quan về kiểm thử phần mềm",
+        "• Kiểm thử trong quá trình phát triển phần mềm",
+        "• Kế hoạch kiểm thử",
+        "• Thiết kế ca kiểm thử",
+        "• Phương pháp và kỹ thuật kiểm thử",
+        "• Thực hiện kiểm thử bằng các công cụ",
+        "• Quản lý lỗi",
+        "Khóa học còn nhằm mục đích rèn luyện cho người học kỹ năng tư duy, khả năng tự nghiên cứu kiến thức, công nghệ để kiểm thử phần mềm bằng cách làm việc độc lập cũng như theo nhóm. Học sinh sẽ được chia thành các nhóm để tìm hiểu sâu về các phương pháp và kỹ thuật kiểm thử, từ đó có thể trình bày ứng dụng các giải pháp trong kiểm thử một sản phẩm phần mềm cụ thể."
+      ]
+    },
+    {
+      "heading": "4.1. Giáo trình",
+      "content": [
+        "Glenford J Myer et.al, (2012), The Art of Software Testing, 3rd, John Wiley & Sons, Inc.",
+        "Paul Ammann & Jeff Offutt, (2016), Introduction to Software Testing, Cambridge Press.",
+        "[Phạm Ngọc Hùng, Trương Anh Hoàng và Đặng Văn Hưng (2014). Giáo trình kiểm thử phần mềm, Đại học Quốc Gia",
+        "Thạc Bình Cường (2011) Kiểm thử và đảm bảo chất lượng phần mềm, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội."
+      ]
+    },
+    {
+      "heading": "4.2. Tài liệu tham khảo",
+      "content": [
+        "[5] Andreas Spillner, Tilo Linz, Hans Schaefer (2021) Software Testing Foundations.  A Study Guide for the Certified Tester Exam. 4th Edition",
+        "[6] Panagiotis Leloudas; Introduction to Software Testing: A Practical Guide to Testing, Design, Automation, and Execution. Apress (2023). ISBN-13 (electronic): 978-1-4842-9514-4",
+        "[7] Naik, K., & Tripathy, P. (2011). Software testing and quality assurance: theory and practice. John Wiley & Sons."
+      ]
+    },
+    {
+      "heading": "4.3. Phần mềm",
+      "content": [
+        "- Nunit",
+        "- .net framework"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+        "Đọc trước tài liệu được yêu cầu;",
+        "Làm các bài tập về nhà;",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "content": [
+        "Tháng 6 năm 2024."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên giấy",
+        "Thời gian: 75 phút",
+        "Số câu hỏi: 4 câu. Tất cả các câu hỏi đều ở mức Vận dụng. Cơ cấu điểm các câu được cho theo bảng dưới đây"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubrics 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 8 buổi seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "CLO của đánh giá chuyên cần",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+        "Rubrics 3. Đánh giá bài tập lớn",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tKiểm thử và đảm bảo chất lượng phần mềm \nTên học phần (tiếng Anh):\tSoftware Testing and Quality Assurrance\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1178\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \nCNTT1116, CNTT1131\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nKhóa học nhằm cung cấp cho sinh viên kiến thức về chất lượng phần mềm, kiểm thử phần mềm, quy trình kiểm thử và các kỹ thuật cơ bản trong thiết kế và cài đặt kiểm thử, đồng thời giúp sinh viên phát triển khả năng thiết kế kiểm thử và đánh giá hiệu quả kiểm thử một phần mềm cụ thể trong thực tế. Ngoài ra, khóa học còn cung cấp sự hiểu biết và cách sử dụng một số công cụ quản lý lỗi, công cụ kiểm tra tự động hóa.\nNội dung khóa học bao gồm:\n• Tổng quan về kiểm thử phần mềm\n• Kiểm thử trong quá trình phát triển phần mềm\n• Kế hoạch kiểm thử\n• Thiết kế ca kiểm thử\n• Phương pháp và kỹ thuật kiểm thử\n• Thực hiện kiểm thử bằng các công cụ\n• Quản lý lỗi\nKhóa học còn nhằm mục đích rèn luyện cho người học kỹ năng tư duy, khả năng tự nghiên cứu kiến thức, công nghệ để kiểm thử phần mềm bằng cách làm việc độc lập cũng như theo nhóm. Học sinh sẽ được chia thành các nhóm để tìm hiểu sâu về các phương pháp và kỹ thuật kiểm thử, từ đó có thể trình bày ứng dụng các giải pháp trong kiểm thử một sản phẩm phần mềm cụ thể. \n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\nGlenford J Myer et.al, (2012), The Art of Software Testing, 3rd, John Wiley & Sons, Inc.\nPaul Ammann & Jeff Offutt, (2016), Introduction to Software Testing, Cambridge Press.\n[Phạm Ngọc Hùng, Trương Anh Hoàng và Đặng Văn Hưng (2014). Giáo trình kiểm thử phần mềm, Đại học Quốc Gia\nThạc Bình Cường (2011) Kiểm thử và đảm bảo chất lượng phần mềm, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.\n4.2. Tài liệu tham khảo\n[5] Andreas Spillner, Tilo Linz, Hans Schaefer (2021) Software Testing Foundations.  A Study Guide for the Certified Tester Exam. 4th Edition\n[6] Panagiotis Leloudas; Introduction to Software Testing: A Practical Guide to Testing, Design, Automation, and Execution. Apress (2023). ISBN-13 (electronic): 978-1-4842-9514-4\n[7] Naik, K., & Tripathy, P. (2011). Software testing and quality assurance: theory and practice. John Wiley & Sons.\n4.3. Phần mềm\n- Nunit\n- .net framework\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không). \nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)\nTháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 75 phút\nSố câu hỏi: 4 câu. Tất cả các câu hỏi đều ở mức Vận dụng. Cơ cấu điểm các câu được cho theo bảng dưới đây\nPhụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 8 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nCLO của đánh giá chuyên cần\nRubric 2. Đánh giá bài kiểm tra cá nhân \nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%) \nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn. \nRubrics 3. Đánh giá bài tập lớn\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nĐánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
+  "created_at": "2025-10-03T00:04:21.581209",
+  "source_file": "backend\\data\\raw\\vi\\Kie╠é╠ëm thu╠¢╠ë va╠Ç ─æa╠ëm ba╠ëo cha╠é╠üt lu╠¢o╠¢╠úng pha╠é╠Çn me╠é╠Çm_CNTT1178.docx",
+  "content_length": 5572
+}

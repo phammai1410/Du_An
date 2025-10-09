@@ -1,0 +1,194 @@
+{
+  "id": "CNTT1177",
+  "filename": "Ho╠úc ma╠üy_CNTT1177.docx",
+  "language": "vi",
+  "subject_name": "Ho╠úc ma╠üy_CNTT1177",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tHọc máy",
+        "Tên học phần (tiếng Anh):\tMachine Learning",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1177",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết:",
+        "Đại số",
+        "Lý thuyết xác suất và thống kê toán",
+        "Cơ sở lập trình",
+        "Cấu trúc dữ liệu và giải thuật",
+        "Trí tuệ nhân tạo"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Học phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực học máy đó là các thuật toán, kỹ thuật cài đặt và đánh giá hiệu năng của hệ thống học máy bao gồm tổng quan về học máy và công cụ hỗ trợ lập trình để giải quyết bài toán học máy trên máy tính; các phương pháp học có giám sát; các phương pháp học không giám sát; đánh giá hiệu năng các hệ thống học máy bao gồm các kỹ thuật đánh giá, vấn đề lựa chọn tham số, đánh giá, lựa chọn mô hình và các tiêu chí đánh giá hiệu năng hệ thống học máy.",
+        "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các bài toán về học máy trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
+        "Nội dung chính:",
+        "Tổng quan chung về học máy",
+        "Ngôn ngữ lập trình Python và các thư viện hỗ trợ",
+        "Các kỹ thuật hồi quy trong học máy có giám sát",
+        "Các kỹ thuật phân lớp trong học máy có giám sát",
+        "Mạng nơ ron nhân tạo và kỹ thuật học sâu",
+        "Các kỹ thuật giảm chiều dữ liệu trong học máy không giám sát",
+        "Các kỹ thuật phân cụm dữ liệu trong học máy không giám sát",
+        "Kỹ thuật học máy bán giám sát và học máy tăng cường",
+        "Các kỹ thuật đánh giá hiệu năng các phương pháp học máy",
+        "Lựa chọn tham số và mô hình đánh giá hiệu năng",
+        "Các tiêu chí đánh giá hiệu năng các hệ thống học máy"
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] Hoàng Xuân Huấn (2015), Giáo trình Học máy, Trường Đại học công nghệ, Đại học Quốc gia Hà Nội.",
+        "Tài liệu khác:",
+        "[2] E. Alpaydın (2010), Introduction to Machine Learning, Massachusetts Institute of Technology (Second Edition).",
+        "4.2. Tài liệu tham khảo",
+        "[3] Thân Quang Khoát (2017), Bài giảng môn học máy, Viện CNTT & truyền thông - Đại học Bách khoa Hà Nội.",
+        "[4] Chris Mellish (1997), Machine learning, Department of Artificial Intelligence - University of Edinburgh.",
+        "[5] Tom M. Mitchell (1997), Machine learning, McGraw-Hill.",
+        "4.3. Phần mềm",
+        "[6]  Python. https://www.python.org/",
+        "[7]  Pandas. https://pandas.pydata.org/",
+        "[8]  Matplotlib. https://matplotlib.org/",
+        "[9]  Seaborn. https://seaborn.pydata.org/",
+        "[10] Scikit-learn. https://scikit-learn.org/",
+        "[11] Tensorflow. https://www.tensorflow.org/",
+        "[12] PyTorch. https://pytorch.org/",
+        "[13] Keras. https://keras.io/"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập nhóm",
+      "content": [
+        "Người học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm."
+      ]
+    },
+    {
+      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "content": [
+        "PHỤ LỤC"
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên giấy",
+        "Thời gian: 90 phút",
+        "Số câu hỏi: 5 câu. Mỗi câu 2 điểm.",
+        "Ma trận đề thi (tự luận):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi seminar",
+        "* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).",
+        "Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng của sinh viên, trong đó: Cuối Lecture 1 các câu hỏi đánh giá đến mức “Phân tích”. Cuối Lecture 2, 3, 4, 5, 6 các câu hỏi đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”, “Đánh giá”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4 ở mức độ khó hơn để đánh giá khả năng “Phân tích” của sinh viên.",
+        "Rubric 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).",
+        "Sinh viên được gợi ý một số chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô hình sử dụng các kỹ thuật học máy, học sâu và các phương pháp đánh giá hiệu năng của các hệ thống học máy (tự chọn bộ dữ liệu thử nghiệm) để giải quyết các bài toán trong thực tế. Ví dụ:",
+        "Xây dựng và đánh giá hiệu năng các mô hình: Hồi quy tuyến tính, Ridge, LASSO; k-NN để dự đoán giá bất động sản.",
+        "Xây dựng và đánh giá hiệu năng của các mô hình sử dụng kỹ thuật cây quyết định (ID3, C4.5, CART, rừng nẫu nhiên), máy véc tơ hỗ trợ (SVM) để phân lớp khách hàng trong ngân hàng.",
+        "Xây dựng và đánh giá hiệu năng của mô hình sử dụng kỹ thuật phân lớp dựa trên xác suất Naïve Bayes để phân lớp khách hàng trong du lịch.",
+        "Xây dựng và đánh giá hiệu năng của mô hình phân cụm K-means và giảm chiều dữ liệu bằng kỹ thuật phân tích thành phần chính (PCA) để xác định giá bán bất động sản.",
+        "Xây dựng và đánh giá hiệu năng của mô hình thực hiện phân cụm khách hàng của ngân hàng bằng phương pháp phân cụm K-means và giảm chiều dữ liệu bằng kỹ thuật PCA.",
+        "Nghiên cứu xây dựng các mô hình và đánh giá hiệu năng của mô hình phân loại văn bản trong xử lý ngôn ngữ tự nhiên sử dụng các kỹ thuật phân lớp: SVM, cây quyết định,….",
+        "Bên cạnh các chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tHọc máy \nTên học phần (tiếng Anh):\tMachine Learning\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1177\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \nĐại số\nLý thuyết xác suất và thống kê toán\nCơ sở lập trình\nCấu trúc dữ liệu và giải thuật\nTrí tuệ nhân tạo\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực học máy đó là các thuật toán, kỹ thuật cài đặt và đánh giá hiệu năng của hệ thống học máy bao gồm tổng quan về học máy và công cụ hỗ trợ lập trình để giải quyết bài toán học máy trên máy tính; các phương pháp học có giám sát; các phương pháp học không giám sát; đánh giá hiệu năng các hệ thống học máy bao gồm các kỹ thuật đánh giá, vấn đề lựa chọn tham số, đánh giá, lựa chọn mô hình và các tiêu chí đánh giá hiệu năng hệ thống học máy.\nHọc phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các bài toán về học máy trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\nTổng quan chung về học máy\nNgôn ngữ lập trình Python và các thư viện hỗ trợ\nCác kỹ thuật hồi quy trong học máy có giám sát\nCác kỹ thuật phân lớp trong học máy có giám sát\nMạng nơ ron nhân tạo và kỹ thuật học sâu\nCác kỹ thuật giảm chiều dữ liệu trong học máy không giám sát\nCác kỹ thuật phân cụm dữ liệu trong học máy không giám sát\nKỹ thuật học máy bán giám sát và học máy tăng cường\nCác kỹ thuật đánh giá hiệu năng các phương pháp học máy\nLựa chọn tham số và mô hình đánh giá hiệu năng\nCác tiêu chí đánh giá hiệu năng các hệ thống học máy\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Hoàng Xuân Huấn (2015), Giáo trình Học máy, Trường Đại học công nghệ, Đại học Quốc gia Hà Nội.\nTài liệu khác: \n[2] E. Alpaydın (2010), Introduction to Machine Learning, Massachusetts Institute of Technology (Second Edition).\n4.2. Tài liệu tham khảo\n[3] Thân Quang Khoát (2017), Bài giảng môn học máy, Viện CNTT & truyền thông - Đại học Bách khoa Hà Nội.\n[4] Chris Mellish (1997), Machine learning, Department of Artificial Intelligence - University of Edinburgh.\n[5] Tom M. Mitchell (1997), Machine learning, McGraw-Hill.  \n4.3. Phần mềm\n[6]  Python. https://www.python.org/\n[7]  Pandas. https://pandas.pydata.org/\n[8]  Matplotlib. https://matplotlib.org/\n[9]  Seaborn. https://seaborn.pydata.org/\n[10] Scikit-learn. https://scikit-learn.org/\n[11] Tensorflow. https://www.tensorflow.org/\n[12] PyTorch. https://pytorch.org/\n[13] Keras. https://keras.io/\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (Phụ lục 1)\n7.3. Các Rubrics (Phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập nhóm\nNgười học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 90 phút\nSố câu hỏi: 5 câu. Mỗi câu 2 điểm.\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng của sinh viên, trong đó: Cuối Lecture 1 các câu hỏi đánh giá đến mức “Phân tích”. Cuối Lecture 2, 3, 4, 5, 6 các câu hỏi đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”, “Đánh giá”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4 ở mức độ khó hơn để đánh giá khả năng “Phân tích” của sinh viên.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).\nSinh viên được gợi ý một số chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô hình sử dụng các kỹ thuật học máy, học sâu và các phương pháp đánh giá hiệu năng của các hệ thống học máy (tự chọn bộ dữ liệu thử nghiệm) để giải quyết các bài toán trong thực tế. Ví dụ:\nXây dựng và đánh giá hiệu năng các mô hình: Hồi quy tuyến tính, Ridge, LASSO; k-NN để dự đoán giá bất động sản.\nXây dựng và đánh giá hiệu năng của các mô hình sử dụng kỹ thuật cây quyết định (ID3, C4.5, CART, rừng nẫu nhiên), máy véc tơ hỗ trợ (SVM) để phân lớp khách hàng trong ngân hàng.\nXây dựng và đánh giá hiệu năng của mô hình sử dụng kỹ thuật phân lớp dựa trên xác suất Naïve Bayes để phân lớp khách hàng trong du lịch.\nXây dựng và đánh giá hiệu năng của mô hình phân cụm K-means và giảm chiều dữ liệu bằng kỹ thuật phân tích thành phần chính (PCA) để xác định giá bán bất động sản.\nXây dựng và đánh giá hiệu năng của mô hình thực hiện phân cụm khách hàng của ngân hàng bằng phương pháp phân cụm K-means và giảm chiều dữ liệu bằng kỹ thuật PCA.\nNghiên cứu xây dựng các mô hình và đánh giá hiệu năng của mô hình phân loại văn bản trong xử lý ngôn ngữ tự nhiên sử dụng các kỹ thuật phân lớp: SVM, cây quyết định,….\nBên cạnh các chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:",
+  "created_at": "2025-10-03T00:04:21.423512",
+  "source_file": "backend\\data\\raw\\vi\\Ho╠úc ma╠üy_CNTT1177.docx",
+  "content_length": 7389
+}

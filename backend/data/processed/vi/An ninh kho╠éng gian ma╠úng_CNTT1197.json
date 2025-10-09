@@ -1,0 +1,136 @@
+{
+  "id": "CNTT1197",
+  "filename": "An ninh kho╠éng gian ma╠úng_CNTT1197.docx",
+  "language": "vi",
+  "subject_name": "An ninh kho╠éng gian ma╠úng_CNTT1197",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tAn ninh không gian mạng",
+        "Tên học phần (tiếng Anh):\tCybersecurity",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1197",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết:",
+        "Mạng máy tính và truyền số liệu"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số",
+        "Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Học phần An ninh không gian mạng cung cấp cho sinh viên những kiến thức cơ bản trong việc bảo vệ hệ thống thông tin và hệ thống mạng. Học phần giới thiệu các khái niệm và ý nghĩa của an ninh mạng, nhấn mạnh vào việc bảo vệ thông tin quan trọng và ngăn chặn các mối đe dọa từ bên trong và bên ngoài mạng; Tập trung vào các kỹ thuật nền tảng như mã hóa, mật mã khóa công khai, xác thực và chữ ký số. Những kiến thức này là cơ bản để hiểu về cách thông tin được bảo vệ và truyền tải an toàn trên mạng. Các kỹ thuật đánh giá an toàn mạng cũng được giới thiệu để sinh viên có thể đánh giá và xác định các lỗ hổng trong hệ thống mạng. Điều này bao gồm phân tích và kiểm tra tính an toàn của mạng từ các góc độ khác nhau. Bên cạnh đó, sinh viên cũng sẽ tìm hiểu về các hình thức tấn công mạng phổ biến như tấn công mật khẩu, tấn công giả mạo địa chỉ IP, chiếm quyền máy chủ, tấn công từ chối dịch vụ và tấn công cổng sau. Việc hiểu biết về các loại tấn công này giúp sinh viên nhận biết và phòng tránh hiệu quả.Ngoài ra, học phần cung cấp một số giải pháp an toàn mạng như chính sách an ninh IP, hệ thống tường lửa, hệ thống IDS/IPS và bảo mật mạng không dây. Những giải pháp này giúp tăng cường khả năng phòng thủ của hệ thống mạng trước các mối đe dọa từ bên ngoài và bên trong.",
+        "Học phần rèn luyện kỹ năng tư duy, kỹ năng sử dụng các công cụ để nhận biết, phân tích, giải quyết các vấn đề liên quan đến an toàn, bảo mật thông tin mạng. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự nghiên cứu của sinh viên.",
+        "Nội dung chính:",
+        "Học phần cung cấp cho sinh viên những kiến thức sau đây:",
+        "Giới thiệu chung về an ninh mạng;",
+        "Các kỹ thuật bảo mật: mã hóa, mật mã khóa công khai, xác thực, chữ ký số",
+        "Các kỹ thuật đánh giá an toàn mạng",
+        "Một số hình thức tấn công mạng: tấn công mật khẩu, tấn công giả mạo địa chỉ IP, chiếm quyền máy chủ, tấn công từ chối dịch vụ, tấn công cổng sau",
+        "Một số giải pháp an ninh mạng: chính sách an ninh IP, hệ thống tường lửa, hệ thống IDS/IPS, bảo mật mạng không dây"
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] William Stallings (2017), Cryptography and Network Security: Principles and Practice, Seventh\nEdition, Pearson.",
+        "[2] Nguyễn Thị Thanh Vân, Huỳnh Nguyên Chính (2023), Giáo trình an ninh mạng, Nhà xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh.",
+        "4.2. Tài liệu tham khảo",
+        "[3] EC-Council (2022), “Certified Ethical Hacker”, version 12, Study Slides, EC-Council.",
+        "4.3. Phần mềm",
+        "[4] Phần mềm phân tích mạng Wireshark"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+        "Đọc trước tài liệu được yêu cầu;",
+        "Làm các bài tập về nhà;",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tAn ninh không gian mạng \nTên học phần (tiếng Anh):\tCybersecurity\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1197\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \nMạng máy tính và truyền số liệu\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\nĐịa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần An ninh không gian mạng cung cấp cho sinh viên những kiến thức cơ bản trong việc bảo vệ hệ thống thông tin và hệ thống mạng. Học phần giới thiệu các khái niệm và ý nghĩa của an ninh mạng, nhấn mạnh vào việc bảo vệ thông tin quan trọng và ngăn chặn các mối đe dọa từ bên trong và bên ngoài mạng; Tập trung vào các kỹ thuật nền tảng như mã hóa, mật mã khóa công khai, xác thực và chữ ký số. Những kiến thức này là cơ bản để hiểu về cách thông tin được bảo vệ và truyền tải an toàn trên mạng. Các kỹ thuật đánh giá an toàn mạng cũng được giới thiệu để sinh viên có thể đánh giá và xác định các lỗ hổng trong hệ thống mạng. Điều này bao gồm phân tích và kiểm tra tính an toàn của mạng từ các góc độ khác nhau. Bên cạnh đó, sinh viên cũng sẽ tìm hiểu về các hình thức tấn công mạng phổ biến như tấn công mật khẩu, tấn công giả mạo địa chỉ IP, chiếm quyền máy chủ, tấn công từ chối dịch vụ và tấn công cổng sau. Việc hiểu biết về các loại tấn công này giúp sinh viên nhận biết và phòng tránh hiệu quả.Ngoài ra, học phần cung cấp một số giải pháp an toàn mạng như chính sách an ninh IP, hệ thống tường lửa, hệ thống IDS/IPS và bảo mật mạng không dây. Những giải pháp này giúp tăng cường khả năng phòng thủ của hệ thống mạng trước các mối đe dọa từ bên ngoài và bên trong.  \n    Học phần rèn luyện kỹ năng tư duy, kỹ năng sử dụng các công cụ để nhận biết, phân tích, giải quyết các vấn đề liên quan đến an toàn, bảo mật thông tin mạng. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự nghiên cứu của sinh viên.\nNội dung chính:\n\tHọc phần cung cấp cho sinh viên những kiến thức sau đây:\nGiới thiệu chung về an ninh mạng;\nCác kỹ thuật bảo mật: mã hóa, mật mã khóa công khai, xác thực, chữ ký số\nCác kỹ thuật đánh giá an toàn mạng\nMột số hình thức tấn công mạng: tấn công mật khẩu, tấn công giả mạo địa chỉ IP, chiếm quyền máy chủ, tấn công từ chối dịch vụ, tấn công cổng sau\nMột số giải pháp an ninh mạng: chính sách an ninh IP, hệ thống tường lửa, hệ thống IDS/IPS, bảo mật mạng không dây\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] William Stallings (2017), Cryptography and Network Security: Principles and Practice, Seventh\nEdition, Pearson.\n[2] Nguyễn Thị Thanh Vân, Huỳnh Nguyên Chính (2023), Giáo trình an ninh mạng, Nhà xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh.\n4.2. Tài liệu tham khảo\n[3] EC-Council (2022), “Certified Ethical Hacker”, version 12, Study Slides, EC-Council.\n4.3. Phần mềm\n[4] Phần mềm phân tích mạng Wireshark\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không). \nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+  "created_at": "2025-10-03T00:04:20.540978",
+  "source_file": "backend\\data\\raw\\vi\\An ninh kho╠éng gian ma╠úng_CNTT1197.docx",
+  "content_length": 5111
+}

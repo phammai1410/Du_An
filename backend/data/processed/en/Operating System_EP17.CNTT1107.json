@@ -1,0 +1,108 @@
+{
+  "id": "EP17.CNTT1107",
+  "filename": "Operating System_EP17.CNTT1107.docx",
+  "language": "en",
+  "subject_name": "Operating System_EP17.CNTT1107",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: OPERATING SYSTEM",
+        "* Code: CNTT1107",
+        "* Credits: 03 (45 hours)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 25 hrs",
+        "+ Exercises on class: 10 hrs",
+        "+ Presentation and Discussion: 10 hrs",
+        "+ Exercise and discussion: 10 hrs",
+        "+ Field work: ....... hrs",
+        "+ Self-study: 10 hrs.",
+        "* Parallel course(s): None",
+        "* Prerequisite course(s): CNTT1116",
+        "* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)",
+        "+ Lecturers:",
+        "1. Nguyen Trung Kien, MSc. Tel: 0988740189    Email: kiennt@neu.edu.vn",
+        "2. Dang Minh Quan  PhD.      Tel: 0974821967 Email: quandm@neu.edu.vn",
+        "* Kind of the course:",
+        "* Course language: \tIn English",
+        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "The operating systems course is intended as a general introduction to the techniques used to deploy operating systems, the types of system software involved, and the historical development of operating systems. This course consists of: (1) Operating system function, structure, service (2) Process and Thread management (states, creation, synchronization, and communication); Process scheduling (short-term, long-term, medium-term); prevent, avoid and overcome deadlocks; (3) Main memory management; virtual memory management (swapping, paging, segmentation, and page replacement algorithms); (4) Mass storage and disk management; (5) File system structure and implementation; (6) I/O devices and peripheral;  (7) Protection and Security."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "* Text Books: Abraham Silberschatz, Peter B. Galvin, Greg Gagne; Operating System Concepts; 10th Edition, Wiley.",
+        "* Additional references:"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "* Assessment methods:",
+        "- Grading: 10",
+        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.",
+        "* Assessment summary:",
+        "Table 6. Assessment summary",
+        "* Rubrics:",
+        "Rubric 1: Participant",
+        "Rubric 2: Individual tests",
+        "Rubric 3: Group works",
+        "Rubric 4: Final exam"
+      ]
+    },
+    {
+      "heading": "7. COURSE OUTLINE",
+      "content": [
+        "Table 7. Course outline"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "9. COURSE REQUIREMENT & EXPECTATION",
+      "content": [
+        "9.1. Requirements for taking final /terminal exams",
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+        "9.2. Requirements for attending classes",
+        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+        "9.3. Requirements for in-class behaviour",
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: OPERATING SYSTEM      \n* Code: CNTT1107\n* Credits: 03 (45 hours)\n* Credit hours for teaching and learning activities: \n+ Lecture: 25 hrs\n+ Exercises on class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Exercise and discussion: 10 hrs\n+ Field work: ....... hrs \n+ Self-study: 10 hrs.\n* Parallel course(s): None\n* Prerequisite course(s): CNTT1116                  \n* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)\n+ Lecturers: \n1. Nguyen Trung Kien, MSc. Tel: 0988740189    Email: kiennt@neu.edu.vn\n2. Dang Minh Quan  PhD.      Tel: 0974821967 Email: quandm@neu.edu.vn\n* Kind of the course: \n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University\t \n2. COURSE DESCRIPTIONS \nThe operating systems course is intended as a general introduction to the techniques used to deploy operating systems, the types of system software involved, and the historical development of operating systems. This course consists of: (1) Operating system function, structure, service (2) Process and Thread management (states, creation, synchronization, and communication); Process scheduling (short-term, long-term, medium-term); prevent, avoid and overcome deadlocks; (3) Main memory management; virtual memory management (swapping, paging, segmentation, and page replacement algorithms); (4) Mass storage and disk management; (5) File system structure and implementation; (6) I/O devices and peripheral;  (7) Protection and Security.\n3. LEARNING RESOURCES \n* Text Books: Abraham Silberschatz, Peter B. Galvin, Greg Gagne; Operating System Concepts; 10th Edition, Wiley.\n* Additional references: \n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics: \nRubric 1: Participant\nRubric 2: Individual tests\nRubric 3: Group works\nRubric 4: Final exam \n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:25.970864",
+  "source_file": "backend\\data\\raw\\en\\Operating System_EP17.CNTT1107.docx",
+  "content_length": 3780
+}

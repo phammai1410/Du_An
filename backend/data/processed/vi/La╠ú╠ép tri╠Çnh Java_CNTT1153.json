@@ -1,0 +1,173 @@
+{
+  "id": "CNTT1153",
+  "filename": "La╠ú╠ép tri╠Çnh Java_CNTT1153.docx",
+  "language": "vi",
+  "subject_name": "La╠ú╠ép tri╠Çnh Java_CNTT1153",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tLập trình Java",
+        "Tên học phần (tiếng Anh):\tJava Programming",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1153",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết: Cơ sở lập trình (CNTT1128), Lập trình hướng đối tượng (CNTT1131)"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Lập trình Java là một ngôn ngữ lập trình quan trọng của những người làm việc trong lĩnh vực công nghệ thông tin. Học phần cung cấp các kiến thức căn bản về lập trình trong Java như hướng đối tượng, tính kế thừa, xử lý vào ra, đa luồng và sử dụng các thư viện để xây dựng giao diện người dùng.",
+        "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan đến Java bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp sử dụng Java để giải quyết vấn đề trong lĩnh vực Công nghệ thông tin.",
+        "Nội dung chính:",
+        "- Tổng quan về ngôn ngữ lập trình Java",
+        "- Biến, hẳng và các kiểu dữ liệu",
+        "- Cấu trúc điều khiển và mảng",
+        "- Phương thức và xử lý ngoại lệ",
+        "- Lập trình hướng đối tượng",
+        "- Lập trình tổng quát",
+        "- Dòng dữ liệu vào/ra",
+        "- Lập trình đa luồng",
+        "- Lambda và Stream API"
+      ]
+    },
+    {
+      "heading": "4.1. Giáo trình",
+      "content": [
+        "[1] Phạm Xuân Lâm (2024), Giáo trình Lập trình Java, Nhà xuất bản Đại học Kinh tế quốc dân.",
+        "[2] Introduction to Programming Using Java – 9th David J. Eck"
+      ]
+    },
+    {
+      "heading": "4.2. Tài liệu tham khảo",
+      "content": [
+        "[3] Iuliana Cosmina (2018), Java for Absolute Beginners, Apress",
+        "[4]  Raoul-Gabriel Urma (2014), Java 8 in Action: Lambdas, Streams, and functional-style programming, Maning"
+      ]
+    },
+    {
+      "heading": "4.3. Phần mềm",
+      "content": [
+        "[5] IntelliJ IDEA",
+        "[6] Visual Studio Code"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên máy",
+        "Thời gian: 75 phút",
+        "Số câu hỏi: 5 câu",
+        "Ma trận đề thi (tự luận):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubrics 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi Seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận:",
+        "Rubrics 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Tương tự phụ lục 1 (Ma trận đề thi)",
+        "Rubrics 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Sinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến Lập trình Java, viết các chương trình minh hoạ và báo cáo trước lớp."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tLập trình Java \nTên học phần (tiếng Anh):\tJava Programming\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1153\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Cơ sở lập trình (CNTT1128), Lập trình hướng đối tượng (CNTT1131)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nLập trình Java là một ngôn ngữ lập trình quan trọng của những người làm việc trong lĩnh vực công nghệ thông tin. Học phần cung cấp các kiến thức căn bản về lập trình trong Java như hướng đối tượng, tính kế thừa, xử lý vào ra, đa luồng và sử dụng các thư viện để xây dựng giao diện người dùng.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan đến Java bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp sử dụng Java để giải quyết vấn đề trong lĩnh vực Công nghệ thông tin.\nNội dung chính:\n\t- Tổng quan về ngôn ngữ lập trình Java\n\t- Biến, hẳng và các kiểu dữ liệu\n\t- Cấu trúc điều khiển và mảng\n\t- Phương thức và xử lý ngoại lệ\n\t- Lập trình hướng đối tượng\n\t- Lập trình tổng quát\n\t- Dòng dữ liệu vào/ra\n\t- Lập trình đa luồng\n\t- Lambda và Stream API\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Phạm Xuân Lâm (2024), Giáo trình Lập trình Java, Nhà xuất bản Đại học Kinh tế quốc dân.\n[2] Introduction to Programming Using Java – 9th David J. Eck\n4.2. Tài liệu tham khảo\n\t[3] Iuliana Cosmina (2018), Java for Absolute Beginners, Apress\n\t[4]  Raoul-Gabriel Urma (2014), Java 8 in Action: Lambdas, Streams, and functional-style programming, Maning\n4.3. Phần mềm\n\t[5] IntelliJ IDEA\n\t[6] Visual Studio Code\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên máy\nThời gian: 75 phút\nSố câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi Seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận:\nRubrics 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nTương tự phụ lục 1 (Ma trận đề thi)\nRubrics 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến Lập trình Java, viết các chương trình minh hoạ và báo cáo trước lớp.",
+  "created_at": "2025-10-03T00:04:21.960077",
+  "source_file": "backend\\data\\raw\\vi\\La╠ú╠ép tri╠Çnh Java_CNTT1153.docx",
+  "content_length": 4870
+}

@@ -1,0 +1,175 @@
+{
+  "id": "CNTT1114",
+  "filename": "Ma╠úng ma╠üy ti╠ünh va╠Ç truye╠é╠Çn so╠é╠ü lie╠ú╠éu_CNTT1114.docx",
+  "language": "vi",
+  "subject_name": "Ma╠úng ma╠üy ti╠ünh va╠Ç truye╠é╠Çn so╠é╠ü lie╠ú╠éu_CNTT1114",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tMạng máy tính và truyền số liệu",
+        "Tên học phần (tiếng Anh):\tComputer Network and Data Communication",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1114",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116)"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Mạng máy tính và truyền số liệu là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về mạng máy tính và truyền số liệu: kiến trúc mạng, các giao thức truyền thông; Các kỹ thuật truyền số liệu: các phương pháp mã hóa điều chế, phát hiện lỗi và sửa lỗi, điều khiển truyền số liệu; Các yếu tố cơ bản và các thiết bị mạng LAN; Các kỹ thuật mạng diện rộng; Giao thức TCP/IP và các dịch vụ mạng Internet phổ biến.",
+        "Học phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống mạng máy tính. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về hệ thống mạng máy tính và truyền số liệu trong thực tế.",
+        "Nội dung chính:",
+        "- Kiến trúc phân tầng và các mô hình mạng",
+        "- Các loại kênh truyền",
+        "- Các kỹ thuật mã hóa, điều chế",
+        "- Các kỹ thuật phát hiện lỗi và sửa lỗi",
+        "- Điều khiển truyền số liệu",
+        "- Các kỹ thuật mạng cục bộ - LAN",
+        "- Các kỹ thuật mạng diện rộng - WAN",
+        "- Giao thức TCP, UDP, IP",
+        "- Địa chỉ IPv4, IP6.",
+        "- Chia các mạng con theo FLSM, VLSM.",
+        "- Mạng Internet và một số ứng dụng"
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] Hồ Đắc Phương (2014), Giáo trình nhập môn mạng máy tính, NXB Giáo dục Việt Nam.",
+        "4.2. Tài liệu tham khảo",
+        "[2] Vương Đạo Vy (2006), Mạng truyền dữ liệu, NXB Đại học Quốc gia HN.",
+        "[3] William Stallings (2010), Data and Computer Communications (Tenth Edition), Pearson Prentice Hall.",
+        "4.3. Phần mềm",
+        "[4] Cisco Packet Tracer"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+        "Thời gian: 60 phút",
+        "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
+        "Ma trận đề thi (trắc nghiệm):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên.",
+        "Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+        "Rubric 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Sinh viên được gợi ý một số chủ đề nghiên cứu, cập nhật công nghệ mới. Ví dụ các công nghệ, các chuẩn, kỹ thuật, tiêu chuẩn kỹ thuật, thiết bị, mô hình, giải pháp, xu hướng phát triển,… trong các lĩnh vực:",
+        "Thông tin quang",
+        "Thông tin di động",
+        "Thông tin vệ tinh",
+        "Kết nối mạng Internet",
+        "Điện toán đám mây",
+        "Internet of Things (IoT)",
+        "An toàn và bảo mật thông tin trên mạng",
+        "Bên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tMạng máy tính và truyền số liệu \nTên học phần (tiếng Anh):\tComputer Network and Data Communication\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1114\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin \nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội \nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tMạng máy tính và truyền số liệu là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về mạng máy tính và truyền số liệu: kiến trúc mạng, các giao thức truyền thông; Các kỹ thuật truyền số liệu: các phương pháp mã hóa điều chế, phát hiện lỗi và sửa lỗi, điều khiển truyền số liệu; Các yếu tố cơ bản và các thiết bị mạng LAN; Các kỹ thuật mạng diện rộng; Giao thức TCP/IP và các dịch vụ mạng Internet phổ biến. \n\tHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống mạng máy tính. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về hệ thống mạng máy tính và truyền số liệu trong thực tế.\nNội dung chính:\n\t- Kiến trúc phân tầng và các mô hình mạng\n\t- Các loại kênh truyền \n\t- Các kỹ thuật mã hóa, điều chế\n\t- Các kỹ thuật phát hiện lỗi và sửa lỗi\n\t- Điều khiển truyền số liệu\n\t- Các kỹ thuật mạng cục bộ - LAN\n\t- Các kỹ thuật mạng diện rộng - WAN\n\t- Giao thức TCP, UDP, IP\n\t- Địa chỉ IPv4, IP6. \n- Chia các mạng con theo FLSM, VLSM.\n\t- Mạng Internet và một số ứng dụng\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Hồ Đắc Phương (2014), Giáo trình nhập môn mạng máy tính, NXB Giáo dục Việt Nam.\n4.2. Tài liệu tham khảo\n[2] Vương Đạo Vy (2006), Mạng truyền dữ liệu, NXB Đại học Quốc gia HN. \n[3] William Stallings (2010), Data and Computer Communications (Tenth Edition), Pearson Prentice Hall.\n4.3. Phần mềm\n[4] Cisco Packet Tracer\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên. \nBài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý một số chủ đề nghiên cứu, cập nhật công nghệ mới. Ví dụ các công nghệ, các chuẩn, kỹ thuật, tiêu chuẩn kỹ thuật, thiết bị, mô hình, giải pháp, xu hướng phát triển,… trong các lĩnh vực:\nThông tin quang\nThông tin di động\nThông tin vệ tinh\nKết nối mạng Internet\nĐiện toán đám mây\nInternet of Things (IoT)\nAn toàn và bảo mật thông tin trên mạng\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:",
+  "created_at": "2025-10-03T00:04:22.530744",
+  "source_file": "backend\\data\\raw\\vi\\Ma╠úng ma╠üy ti╠ünh va╠Ç truye╠é╠Çn so╠é╠ü lie╠ú╠éu_CNTT1114.docx",
+  "content_length": 5647
+}

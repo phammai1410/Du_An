@@ -1,0 +1,139 @@
+{
+  "id": "EP17.CNTT1119",
+  "filename": "Website Design and Programming_EP17.CNTT1119.docx",
+  "language": "en",
+  "subject_name": "Website Design and Programming_EP17.CNTT1119",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Website design and programming Code: CNTT1119",
+        "* Credits: 3 (45)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 25 hrs",
+        "+ Exercises in class: 10 hrs",
+        "+ Presentation and Discussion: 10 hrs",
+        "+ Self-study: 60 hrs",
+        "* Parallel course(s):",
+        "* Prerequisite course(s): CNTT1128",
+        "* Department conducting the course:",
+        "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+        "+ Lecturers:",
+        "1. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
+        "2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn",
+        "* The course:",
+        "* Course language: \tIn English",
+        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "This course introduces the concept of websites, various web architecture models, and methods for designing, building, and deploying a website. Additionally, it guides students through the complete step-by-step process of developing an e-commerce website with commonly used features using one of the popular web programming languages such as C#, Java, JavaScript, or PHP.",
+        "The content includes the following:",
+        "Basic of Website",
+        "Concepts of Web architecture and Web services",
+        "Designing, Developing, and Deploying a website",
+        "Steps for building an e-commerce website.",
+        "Design a website.",
+        "Overview of Website design",
+        "Principles of HTML",
+        "CSS",
+        "Building a website",
+        "Fundamentals of Programming Languages",
+        "Basic Syntax",
+        "Working with method",
+        "Working with Files",
+        "Principles of Object-Oriented Programming (OOP)",
+        "Working with basic web controls",
+        "Working with Validation controls",
+        "Working with Sessions",
+        "Working with Data controls",
+        "Working with Databases",
+        "Working with MVC Model",
+        "Working with Web API"
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "Based on the programming language used for teaching web development in each class, the following resources can be utilized:"
+      ]
+    },
+    {
+      "heading": "Textbooks/Lecture Notes:",
+      "content": [
+        "[1] Pro C# 10 with .NET 6, Foundational Principles and Practices in Programming Andrew Troelsen, Phil Japikse 2022 A. Troelsen and P. Japikse, https://doi.org/10.1007/978-1-4842-7869-7"
+      ]
+    },
+    {
+      "heading": "Additional references:",
+      "content": [
+        "[2]. Randy Connolly (2009) Core Internet Application Development with ASP.NET 2.0.",
+        "[3]. Dion Hinchcliffe, Duane Nickul, James Governor (2009) Web 2.0 Architectures",
+        "[4] Introduction to Programming Using Java – 5th David J. Eck",
+        "[5] Thinking in Java 2nd Edition (2000) – Bruce Eckel (Practice – Hall)",
+        "[6]. Luke Welling and Laura Thomson (2009) PHP and MySQL Web Development—Fourth Edition. Addison-Wesley.",
+        "[7] The Joy of PHP Programming: A Beginner’s Guide (2012) – by Alan Forbes",
+        "[8] PHP & MySQL Novice to Ninja – by Kevin Yank",
+        "* Software(s)",
+        "Web development Environment such as: Visual studio.NET 2022, PHP, Java…"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "Table 6. Assessment summary"
+      ]
+    },
+    {
+      "heading": "7. LESSON PLAN",
+      "content": [
+        "Table 7.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "8.1. Requirements for taking final /terminal exams.",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "8.2. Requirements for attending classes.",
+      "content": [
+        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "8.3. Requirements for in-class behavior",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: Website design and programming Code: CNTT1119\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises in class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs\n* Parallel course(s): \n* Prerequisite course(s): CNTT1128\n* Department conducting the course: \n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University \n2. COURSE DESCRIPTIONS \nThis course introduces the concept of websites, various web architecture models, and methods for designing, building, and deploying a website. Additionally, it guides students through the complete step-by-step process of developing an e-commerce website with commonly used features using one of the popular web programming languages such as C#, Java, JavaScript, or PHP.\nThe content includes the following:\nBasic of Website\nConcepts of Web architecture and Web services\nDesigning, Developing, and Deploying a website\nSteps for building an e-commerce website.\nDesign a website.\nOverview of Website design\nPrinciples of HTML\nCSS\nBuilding a website\nFundamentals of Programming Languages\nBasic Syntax\nWorking with method\nWorking with Files\nPrinciples of Object-Oriented Programming (OOP)\nWorking with basic web controls\nWorking with Validation controls\nWorking with Sessions\nWorking with Data controls\nWorking with Databases\nWorking with MVC Model\nWorking with Web API\n3. LEARNING RESOURCES \nBased on the programming language used for teaching web development in each class, the following resources can be utilized:\nTextbooks/Lecture Notes: \n[1] Pro C# 10 with .NET 6, Foundational Principles and Practices in Programming Andrew Troelsen, Phil Japikse 2022 A. Troelsen and P. Japikse, https://doi.org/10.1007/978-1-4842-7869-7\nAdditional references:\n[2]. Randy Connolly (2009) Core Internet Application Development with ASP.NET 2.0.\n[3]. Dion Hinchcliffe, Duane Nickul, James Governor (2009) Web 2.0 Architectures\n[4] Introduction to Programming Using Java – 5th David J. Eck\n[5] Thinking in Java 2nd Edition (2000) – Bruce Eckel (Practice – Hall)\n[6]. Luke Welling and Laura Thomson (2009) PHP and MySQL Web Development—Fourth Edition. Addison-Wesley.\n[7] The Joy of PHP Programming: A Beginner’s Guide (2012) – by Alan Forbes\n[8] PHP & MySQL Novice to Ninja – by Kevin Yank\n* Software(s)\nWeb development Environment such as: Visual studio.NET 2022, PHP, Java…\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:26.481959",
+  "source_file": "backend\\data\\raw\\en\\Website Design and Programming_EP17.CNTT1119.docx",
+  "content_length": 4422
+}

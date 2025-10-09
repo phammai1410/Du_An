@@ -1,0 +1,127 @@
+{
+  "id": "EP17.TIKT1130",
+  "filename": "Database Theory_EP17.TIKT1130.docx",
+  "language": "en",
+  "subject_name": "Database Theory_EP17.TIKT1130",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Database Theory\t\t\t\tCode: EP17.TIKT1130",
+        "* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 23 hrs",
+        "+ Exercises, Presentation and Discussion: 22 hrs",
+        "+ Self-study: 90 hrs.",
+        "* Parallel course(s): None",
+        "* Prerequisite course(s): Introduction to Information Technology",
+        "* Department conducting the course:",
+        "+ Faculty: School of Information Technology and Digital Economics",
+        "+ Department: Economics Informatics",
+        "+ Lecturers:",
+        "1. Nguyen Thi Bach Tuyet\tTel: 0904267880\tEmail: tuyetnb@neu.edu.vn",
+        "2. Pham Van Minh\t\tTel: 0965509888\tEmail: pvminh@neu.edu.vn",
+        "3. Tong Thi Minh Ngoc\tTel: 0913002241\tEmail: ngoctm@neu.edu.vn",
+        "* Kind of the course:",
+        "* Course language: In English",
+        "* Meeting hour: University’s schedule"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "Databases course provides students majoring in Information System, Computer Science, Information Technology, Statistical Economics, Data Science, Business Analysis,... with basic knowledge on database and data model, on database design and analysis theory as the foundation for later specialized subjects; orient students to database administration and knowledge to make use of database using different tools.",
+        "Development of applications in management: Operations of management programming are part of the data mining process with specific tools.",
+        "Course contents:",
+        "Basic concepts of database and data model.",
+        "Relational data model.",
+        "Integrity constraints on the relational data model.",
+        "Some database mining languages such as: relational algebra, SQL, etc.",
+        "Theory on designing relational database.",
+        "Question optimization problem.",
+        "Data security and integrity."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "* Text Books/Lecture Notes:",
+        "[1] Nguyen Trung Tuan (2022), Database, National Economics University Publishing House.",
+        "[2] Jeffrey Ullman (2002), Database Systems, Prentice Hall, ISBN 0-13-031995-3",
+        "* Additional references:",
+        "[3] David C. Roberts (2024), Introduction to Databases - A Focus on Practical Solutions: Third Edition, Jada Press, ISBN – 13: 979-8985508512",
+        "[4] Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Independently published, ISBN-13: 979-8396779563"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "* Assessment methods:",
+        "- Grading: 10",
+        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+        "* Assessment summary:",
+        "Table 6. Assessment summary",
+        "* Rubrics:",
+        "Rubric 1: Participant",
+        "Rubric 2: Midterm exam",
+        "Rubric 3: Group Presentation",
+        "Rubric 4: Final exam"
+      ]
+    },
+    {
+      "heading": "7. COURSE OUTLINE",
+      "content": [
+        "Table 7. Course outline"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "9.1. Requirements for taking final /terminal exams",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Requirements for attending classes",
+      "content": [
+        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "9.3. Requirements for in-class behaviour",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: Database Theory\t\t\t\tCode: EP17.TIKT1130\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities:\n+ Lecture: 23 hrs\n+ Exercises, Presentation and Discussion: 22 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None\n* Prerequisite course(s): Introduction to Information Technology\n* Department conducting the course: \n+ Faculty: School of Information Technology and Digital Economics\n+ Department: Economics Informatics\n+ Lecturers:\n1. Nguyen Thi Bach Tuyet\tTel: 0904267880\tEmail: tuyetnb@neu.edu.vn\n2. Pham Van Minh\t\tTel: 0965509888\tEmail: pvminh@neu.edu.vn \n3. Tong Thi Minh Ngoc\tTel: 0913002241\tEmail: ngoctm@neu.edu.vn\n* Kind of the course:\n* Course language: In English                \n* Meeting hour: University’s schedule\n2. COURSE DESCRIPTIONS \nDatabases course provides students majoring in Information System, Computer Science, Information Technology, Statistical Economics, Data Science, Business Analysis,... with basic knowledge on database and data model, on database design and analysis theory as the foundation for later specialized subjects; orient students to database administration and knowledge to make use of database using different tools.\nDevelopment of applications in management: Operations of management programming are part of the data mining process with specific tools.\nCourse contents:\nBasic concepts of database and data model.\nRelational data model.\nIntegrity constraints on the relational data model.\nSome database mining languages such as: relational algebra, SQL, etc.\nTheory on designing relational database.\nQuestion optimization problem.\nData security and integrity.\n3. LEARNING RESOURCES \n* Text Books/Lecture Notes:\n[1] Nguyen Trung Tuan (2022), Database, National Economics University Publishing House.\n[2] Jeffrey Ullman (2002), Database Systems, Prentice Hall, ISBN 0-13-031995-3\n* Additional references: \n[3] David C. Roberts (2024), Introduction to Databases - A Focus on Practical Solutions: Third Edition, Jada Press, ISBN – 13: 979-8985508512\n[4] Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Independently published, ISBN-13: 979-8396779563\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics: \nRubric 1: Participant\n\tRubric 2: Midterm exam\nRubric 3: Group Presentation\nRubric 4: Final exam\n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:24.963614",
+  "source_file": "backend\\data\\raw\\en\\Database Theory_EP17.TIKT1130.docx",
+  "content_length": 4218
+}

@@ -1,0 +1,102 @@
+{
+  "id": "EP17.CNTT1199",
+  "filename": "Software and Database Security_EP17.CNTT1199.docx",
+  "language": "en",
+  "subject_name": "Software and Database Security_EP17.CNTT1199",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Software and Database Security Code: CNTT1211",
+        "* Credits: 3 (45)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 25 hrs.",
+        "+ Exercises in class: 10 hrs.",
+        "+ Presentation and Discussion: 10 hrs.",
+        "+ Self-study: 60 hrs.",
+        "* Parallel course(s):",
+        "* Prerequisite course(s): CNTT1128",
+        "* Department conducting the course:",
+        "+ Faculty: School of Information Technology and Digital Economics; Room 13.11, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)",
+        "+ Department: Department of Information Technology",
+        "+ Lecturers:",
+        "1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
+        "2. PhD Nguyen Trung Tuan \tTel: 0904335056\tEmail: tuannt@neu.edu.vn",
+        "* The course:",
+        "* Course language: \tIn English",
+        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "The software and database security module equips students with comprehensive knowledge, tools, processes, and methods essential for establishing robust security measures within software and database systems. Emphasizing a foundational approach, it covers fundamental concepts, methodologies, and practical application scenarios. Specifically, students will receive guidance in database management aimed at safeguarding data integrity, minimizing risks such as leakage, tampering, and destruction. Additionally, the module delves into fundamental security management techniques pertinent to databases, encompassing access control, user administration, and rights management. Furthermore, it explores methods to bolster software application security and addresses challenges associated with accessing and manipulating databases from applications. Moreover, the module introduces procedures for formulating security policies, implementing continuous monitoring practices, and maintaining proactive security stances."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "* Textbooks/Lecture Notes:",
+        "[1] R. Sarma Danturthi (2024), Database and Application Security: A Practitioner's Guide, Addison-Wesley Professional, ISBN: 9780138073725.",
+        "* Additional references:",
+        "* Software Tool",
+        "Integrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "Table 6. Assessment summary"
+      ]
+    },
+    {
+      "heading": "7. LESSON PLAN",
+      "content": [
+        "Table 7.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "8.1. Requirements for taking final /terminal exams.",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "8.2. Requirements for attending classes.",
+      "content": [
+        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.",
+        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "8.3. Requirements for in-class behavior",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
+        "Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: Software and Database Security Code: CNTT1211\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1128\n* Department conducting the course: \n+ Faculty: School of Information Technology and Digital Economics; Room 13.11, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)\n+ Department: Department of Information Technology\n+ Lecturers: \n1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. PhD Nguyen Trung Tuan \tTel: 0904335056\tEmail: tuannt@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS \nThe software and database security module equips students with comprehensive knowledge, tools, processes, and methods essential for establishing robust security measures within software and database systems. Emphasizing a foundational approach, it covers fundamental concepts, methodologies, and practical application scenarios. Specifically, students will receive guidance in database management aimed at safeguarding data integrity, minimizing risks such as leakage, tampering, and destruction. Additionally, the module delves into fundamental security management techniques pertinent to databases, encompassing access control, user administration, and rights management. Furthermore, it explores methods to bolster software application security and addresses challenges associated with accessing and manipulating databases from applications. Moreover, the module introduces procedures for formulating security policies, implementing continuous monitoring practices, and maintaining proactive security stances.\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \n[1] R. Sarma Danturthi (2024), Database and Application Security: A Practitioner's Guide, Addison-Wesley Professional, ISBN: 9780138073725.\n* Additional references:\n* Software Tool\nIntegrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:26.250414",
+  "source_file": "backend\\data\\raw\\en\\Software and Database Security_EP17.CNTT1199.docx",
+  "content_length": 3860
+}

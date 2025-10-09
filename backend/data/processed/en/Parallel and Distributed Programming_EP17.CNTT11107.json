@@ -1,0 +1,110 @@
+{
+  "id": "EP17.CNTT11107",
+  "filename": "Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "language": "en",
+  "subject_name": "Parallel and Distributed Programming_EP17.CNTT11107",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "COURSE SYLLABUS",
+        "(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)",
+        "Program name : Bachelor of Software Engineering"
+      ]
+    },
+    {
+      "heading": "1. GENERAL INFORMATION",
+      "content": [
+        "- Title:\tParallel and Distributed programming",
+        "- Course number:\tEP17.CNTT11107",
+        "- Type of course\tIn-depth knowledge",
+        "- Number of credits\t3",
+        "+ Theory hours\t30",
+        "+ Discuss/Practice hours",
+        "+ Self-study hours       \t15",
+        "90",
+        "- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114"
+      ]
+    },
+    {
+      "heading": "2. DEPARTMENT AND TEACHER",
+      "content": [
+        "Faculty: Information Technology",
+        "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
+        "Lecturer:"
+      ]
+    },
+    {
+      "heading": "3. COURSE DESCRIPTIONS",
+      "content": [
+        "Parallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.",
+        "The course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education."
+      ]
+    },
+    {
+      "heading": "4. LEARNING RESOURCES",
+      "content": [
+        "Course books:",
+        "[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.",
+        "Reference books:",
+        "[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann"
+      ]
+    },
+    {
+      "heading": "5. COURSE GOALS",
+      "content": [
+        "Table 5.1. Course Objectives"
+      ]
+    },
+    {
+      "heading": "6. COURSE LEARNING OUTCOMES",
+      "content": [
+        "Table 6.1. Course Learning Outcomes"
+      ]
+    },
+    {
+      "heading": "7. COURSE ASSESSMENT",
+      "content": [
+        "Table 7.1. Course assessment"
+      ]
+    },
+    {
+      "heading": "8. TEACHING PLAN",
+      "content": [
+        "Table 8.1. Lesson plan"
+      ]
+    },
+    {
+      "heading": "9.1. Requirements for taking final/terminal exams",
+      "content": [
+        "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Requirements for attending classes",
+      "content": [
+        "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
+        "Students will be added points for each construction speech, which can be compensated for attendance points and test scores."
+      ]
+    },
+    {
+      "heading": "9.3. Requirements for in-class behavior",
+      "content": [
+        "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
+        "Absolutely do not make noise, affecting others during the learning process.",
+        "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
+        "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)\nProgram name : Bachelor of Software Engineering\n1. GENERAL INFORMATION\n- Title:\tParallel and Distributed programming\n- Course number:\tEP17.CNTT11107\n- Type of course\tIn-depth knowledge\n- Number of credits\t3 \n                         + Theory hours\t30\n+ Discuss/Practice hours\n                     + Self-study hours       \t15\n90\n- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114\n2. DEPARTMENT AND TEACHER \nFaculty: Information Technology \nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\n3. COURSE DESCRIPTIONS\nParallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.\nThe course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES\nCourse books:\n[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.\nReference books: \n[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann\n5. COURSE GOALS\nTable 5.1. Course Objectives\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. TEACHING PLAN\nTable 8.1. Lesson plan\n9. CLASS REGULATION\n9.1. Requirements for taking final/terminal exams \nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Requirements for attending classes\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+  "created_at": "2025-10-03T00:04:26.001871",
+  "source_file": "backend\\data\\raw\\en\\Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "content_length": 3551
+}

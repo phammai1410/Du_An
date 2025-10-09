@@ -1,0 +1,131 @@
+{
+  "id": "CNTT11100",
+  "filename": "Blockchain va ung dung_CNTT11100.docx",
+  "language": "vi",
+  "subject_name": "Blockchain va ung dung_CNTT11100",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tBlockchain và ứng dụng",
+        "Tên học phần (tiếng Anh):\tBlockchain and Application",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT11100",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết:"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số",
+        "Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Học phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.",
+        "Nội dung chính:",
+        "Giới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống.",
+        "Kiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.",
+        "Phát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.",
+        "Ứng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.",
+        "Các vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử."
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.",
+        "[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.",
+        "4.2. Tài liệu tham khảo",
+        "4.3. Phần mềm"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+        "Đọc trước tài liệu được yêu cầu;",
+        "Làm các bài tập về nhà;",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tBlockchain và ứng dụng \nTên học phần (tiếng Anh):\tBlockchain and Application\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT11100\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\nĐịa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.\nNội dung chính:\nGiới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống. \nKiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.\nPhát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.\nỨng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.\nCác vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.\n[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.\n4.2. Tài liệu tham khảo\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không). \nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+  "created_at": "2025-10-03T00:04:20.713359",
+  "source_file": "backend\\data\\raw\\vi\\Blockchain va ung dung_CNTT11100.docx",
+  "content_length": 4916
+}

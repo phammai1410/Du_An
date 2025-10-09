@@ -1,0 +1,75 @@
+{
+  "id": "TOKT11122E",
+  "filename": "Time Series Analysis and Forecasting_TOKT11122E.docx",
+  "language": "en",
+  "subject_name": "Time Series Analysis and Forecasting_TOKT11122E",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "- Title: \t\t\t\tTime Series Analysis and Forecasting",
+        "- Course number:\t\t\tTOKT11122E",
+        "- Type of course:\t\t\tCompulsory",
+        "- Credits:\t\t                      3",
+        "+ Lecture\t\t\t\t30 hours",
+        "+ Tutorial \t\t\t15 hours",
+        "+ Self-study\t\t\t90 hours",
+        "- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108"
+      ]
+    },
+    {
+      "heading": "2. DEPARTMENT AND INSTRUCTOR",
+      "content": [
+        "Department: Mathematical Economics",
+        "Address: Suite 1105, Building A1, NEU",
+        "Instructor:",
+        "TBD,"
+      ]
+    },
+    {
+      "heading": "3. COURSE DESCRIPTION",
+      "content": [
+        "This course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts."
+      ]
+    },
+    {
+      "heading": "Main textbook",
+      "content": [
+        "[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.",
+        "[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.",
+        "[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing."
+      ]
+    },
+    {
+      "heading": "Others",
+      "content": [
+        "[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.",
+        "[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.",
+        "[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.",
+        "[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.",
+        "[8] https://online.stat.psu.edu/stat510/"
+      ]
+    },
+    {
+      "heading": "9. CLASS REGULATION",
+      "content": [
+        "Ensure at least 80% attendance in the class.",
+        "Achieve a participant score of 5.0 or higher.",
+        "Must join projects",
+        "Actively contribute to the lesson.",
+        "Engage with the textbook and complete projects.",
+        "Avoid eating or using cell phones during class.",
+        "Use of laptops and iPads is permitted only for practice and calculation purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n- Title: \t\t\t\tTime Series Analysis and Forecasting\n- Course number:\t\t\tTOKT11122E  \n- Type of course:\t\t\tCompulsory\t \n- Credits:\t\t                      3 \n+ Lecture\t\t\t\t30 hours\n+ Tutorial \t\t\t15 hours\n+ Self-study\t\t\t90 hours\n- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108\n2. DEPARTMENT AND INSTRUCTOR\nDepartment: Mathematical Economics \nAddress: Suite 1105, Building A1, NEU\nInstructor: \nTBD, \n3. COURSE DESCRIPTION\nThis course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts.\n4. LEARNING RESOURCE\nMain textbook\n[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.\n[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.\n[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing. \nOthers\n[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.\n[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.\n[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.\n[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.\n[8] https://online.stat.psu.edu/stat510/\n5. COURSE OBJECTIVES\n6. COURSE LEARNING OUTCOME\n7. COURSE ASSESSMENT\n8. TEACHING PLAN\n9. CLASS REGULATION\nEnsure at least 80% attendance in the class. \nAchieve a participant score of 5.0 or higher.\nMust join projects \nActively contribute to the lesson. \nEngage with the textbook and complete projects. \nAvoid eating or using cell phones during class. \nUse of laptops and iPads is permitted only for practice and calculation purposes.",
+  "created_at": "2025-10-03T00:04:26.411339",
+  "source_file": "backend\\data\\raw\\en\\Time Series Analysis and Forecasting_TOKT11122E.docx",
+  "content_length": 2735
+}

@@ -1,0 +1,176 @@
+{
+  "id": "CNTT1154",
+  "filename": "Ma╠úng ke╠é╠üt no╠é╠üi va╠ún va╠ú╠ét_CNTT1154.docx",
+  "language": "vi",
+  "subject_name": "Ma╠úng ke╠é╠üt no╠é╠üi va╠ún va╠ú╠ét_CNTT1154",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định số 628/QĐ-/ĐHKTQD ngày 18 tháng 6 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tMạng kết nối vạn vật",
+        "Tên học phần (tiếng Anh):\tInternet of Things",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1154",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Mạng máy tính và truyền số liệu (CNTT1114)"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Mạng kết nối vạn vật (IoT) là học phần tự chọn nằm trong khối kiến thức chuyên sâu của ngành Công nghệ thông tin. Học phần này trình bày các nền tảng (nền tảng phần cứng và phần mềm ứng dụng); các cơ chế xử lý tín hiệu, biểu diễn tín hiệu cảm biến; khả năng giao tiếp với các thiết bị qua các giao thức truyền thông; hệ điều hành mạng các đối tượng thông minh và hướng dẫn xây dựng chương trình ứng dụng IoT.",
+        "Học phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến xây dựng, lập trình và triển khai hệ thống IoT trong thực tế. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề ứng dụng mạng kết nối vạn vật trong thực tế.",
+        "Nội dung chính:",
+        "- Một số công nghệ nền tảng của IoT",
+        "- Một số dịch vụ và ứng dụng IoT",
+        "- Một số loại cảm biến và cơ cấu chấp hành",
+        "- Thu thập và xử lý dữ liệu từ cảm biến",
+        "- Các kiến trúc mạng IoT",
+        "- Định tuyến trong mạng tổn hao năng lượng thấp",
+        "- Các giao thức truyền thông trong IoT",
+        "- Lập trình với các loại cảm biến thông dụng",
+        "- Lập trình hiển thị và điều khiển các cơ cấu chấp hành",
+        "- Lập trình điều khiển qua mạng"
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] Lê Mỹ Hà, Phạm Quang Huy (2019), “Lập trình IoT với Arduino”, Nhà xuất bản Thanh Niên.",
+        "4.2. Tài liệu tham khảo",
+        "[2] Jean-Philippe Vasseur and Adam Dunkels (2010), “Interconnecting Smart Objects with IP – The Next Internet”, Morgan Kaufmann Publisher.",
+        "[3] International Telecommunication Union - ITU (2005), “The Internet of Things”",
+        "[4] Mansaf Alam, Kashish Ara Shakil, Samiya Khan (2020), “Internet of Things (IoT) Concepts and Applications”, Springer.",
+        "4.3. Phần mềm",
+        "[5] Arduino IDE"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+        "Thời gian: 60 phút",
+        "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
+        "Ma trận đề thi (trắc nghiệm):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Bài kiểm tra cá nhân gồm 40 câu hỏi – 50 phút; mỗi câu 0,25 điểm.",
+        "Rubric 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Sinh viên được gợi ý một số chủ đề phát triển ứng dụng IoT, ví dụ:",
+        "Hệ thống điều khiển thiết bị điện từ xa",
+        "Hệ thống Đo quan trắc môi trường từ xa",
+        "Hệ thống điểm danh tự động",
+        "Hệ thống nhà thông minh",
+        "Hệ thống gửi xe thông minh",
+        "Hệ thống cảnh báo cháy nổ",
+        "Hệ thống cảnh báo ngã ở người già",
+        "Hệ thống giám sát trẻ từ xa",
+        "Hệ thống giám sát và chăm sóc cây trồng",
+        "Bên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ-/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tMạng kết nối vạn vật \nTên học phần (tiếng Anh):\tInternet of Things\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1154\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Mạng máy tính và truyền số liệu (CNTT1114)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tMạng kết nối vạn vật (IoT) là học phần tự chọn nằm trong khối kiến thức chuyên sâu của ngành Công nghệ thông tin. Học phần này trình bày các nền tảng (nền tảng phần cứng và phần mềm ứng dụng); các cơ chế xử lý tín hiệu, biểu diễn tín hiệu cảm biến; khả năng giao tiếp với các thiết bị qua các giao thức truyền thông; hệ điều hành mạng các đối tượng thông minh và hướng dẫn xây dựng chương trình ứng dụng IoT.\n\tHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến xây dựng, lập trình và triển khai hệ thống IoT trong thực tế. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề ứng dụng mạng kết nối vạn vật trong thực tế.\nNội dung chính:\n\t- Một số công nghệ nền tảng của IoT\n\t- Một số dịch vụ và ứng dụng IoT\n\t- Một số loại cảm biến và cơ cấu chấp hành\n\t- Thu thập và xử lý dữ liệu từ cảm biến\n\t- Các kiến trúc mạng IoT\n\t- Định tuyến trong mạng tổn hao năng lượng thấp\n\t- Các giao thức truyền thông trong IoT\n\t- Lập trình với các loại cảm biến thông dụng\n\t- Lập trình hiển thị và điều khiển các cơ cấu chấp hành\n\t- Lập trình điều khiển qua mạng\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Lê Mỹ Hà, Phạm Quang Huy (2019), “Lập trình IoT với Arduino”, Nhà xuất bản Thanh Niên.\n4.2. Tài liệu tham khảo\n[2] Jean-Philippe Vasseur and Adam Dunkels (2010), “Interconnecting Smart Objects with IP – The Next Internet”, Morgan Kaufmann Publisher.\n[3] International Telecommunication Union - ITU (2005), “The Internet of Things” \n[4] Mansaf Alam, Kashish Ara Shakil, Samiya Khan (2020), “Internet of Things (IoT) Concepts and Applications”, Springer.\n4.3. Phần mềm\n[5] Arduino IDE\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nBài kiểm tra cá nhân gồm 40 câu hỏi – 50 phút; mỗi câu 0,25 điểm.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý một số chủ đề phát triển ứng dụng IoT, ví dụ: \nHệ thống điều khiển thiết bị điện từ xa\nHệ thống Đo quan trắc môi trường từ xa\nHệ thống điểm danh tự động\nHệ thống nhà thông minh\nHệ thống gửi xe thông minh\nHệ thống cảnh báo cháy nổ\nHệ thống cảnh báo ngã ở người già\nHệ thống giám sát trẻ từ xa\nHệ thống giám sát và chăm sóc cây trồng\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:",
+  "created_at": "2025-10-03T00:04:22.470667",
+  "source_file": "backend\\data\\raw\\vi\\Ma╠úng ke╠é╠üt no╠é╠üi va╠ún va╠ú╠ét_CNTT1154.docx",
+  "content_length": 5732
+}

@@ -1,0 +1,164 @@
+{
+  "id": "CNTT1165",
+  "filename": "Thie╠é╠üt ke╠é╠ü WEB_CNTT1165.docx",
+  "language": "vi",
+  "subject_name": "Thie╠é╠üt ke╠é╠ü WEB_CNTT1165",
+  "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tThiết kế Web",
+        "Tên học phần (tiếng Anh):\tWeb Design",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1165",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết: Cơ sở lập trình"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Học phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web.",
+        "Đồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.",
+        ".",
+        "Nội dung chính:",
+        "Tổng quan về thiết kế và lập trình Web",
+        "Ngôn ngữ đánh dấu siêu văn bản HTML",
+        "Định dạng phong cách Web với CSS",
+        "Thiết kế bố cục Web và Web đáp ứng",
+        "Ngôn ngữ Javascript",
+        "Sử dụng CSS Framework, Javascript Framework"
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "content": [
+        "4.1. Giáo trình",
+        "[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.",
+        "[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.",
+        "Tài liệu khác",
+        "[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)",
+        "4.3. Phần mềm",
+        "[4] Visual Studio Code",
+        "[5] Figma"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên máy",
+        "Thời gian: 75 phút",
+        "Số câu hỏi: 5 câu. Mỗi câu 2 điểm",
+        "Ma trận đề thi (tự luận):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+        "Rubric 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Sinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:",
+        "Thiết kế trang web bán hàng trực tuyến",
+        "Thiết kế trang web tin tức hoặc blog",
+        "Thiết kế trang web về âm nhạc",
+        "Thiết kế trang web cho phim ảnh và giải trí",
+        "Thiết kế trang web về du lịch",
+        "Thiết kế trang web giáo dục",
+        "Thiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế",
+        "…",
+        "Bên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tThiết kế Web \nTên học phần (tiếng Anh):\tWeb Design\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1165\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Cơ sở lập trình\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web. \nĐồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.\n.\nNội dung chính:\nTổng quan về thiết kế và lập trình Web\nNgôn ngữ đánh dấu siêu văn bản HTML\nĐịnh dạng phong cách Web với CSS\nThiết kế bố cục Web và Web đáp ứng\nNgôn ngữ Javascript\nSử dụng CSS Framework, Javascript Framework\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.\n[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.\nTài liệu khác\n[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)\n4.3. Phần mềm\n[4] Visual Studio Code\n[5] Figma\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên máy\nThời gian: 75 phút\nSố câu hỏi: 5 câu. Mỗi câu 2 điểm\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:\nThiết kế trang web bán hàng trực tuyến\nThiết kế trang web tin tức hoặc blog\nThiết kế trang web về âm nhạc\nThiết kế trang web cho phim ảnh và giải trí\nThiết kế trang web về du lịch\nThiết kế trang web giáo dục\nThiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế\n…\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
+  "created_at": "2025-10-03T00:04:23.538927",
+  "source_file": "backend\\data\\raw\\vi\\Thie╠é╠üt ke╠é╠ü WEB_CNTT1165.docx",
+  "content_length": 5324
+}

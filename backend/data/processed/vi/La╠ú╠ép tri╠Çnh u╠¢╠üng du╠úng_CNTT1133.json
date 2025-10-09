@@ -1,0 +1,170 @@
+{
+  "id": "CNTT1133",
+  "filename": "La╠ú╠ép tri╠Çnh u╠¢╠üng du╠úng_CNTT1133.docx",
+  "language": "vi",
+  "subject_name": "La╠ú╠ép tri╠Çnh u╠¢╠üng du╠úng_CNTT1133",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Detailed Course Syllabus)",
+        "(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)"
+      ]
+    },
+    {
+      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "content": [
+        "Tên học phần (tiếng Việt): \tLập trình Ứng dụng",
+        "Tên học phần (tiếng Anh):\tApplication Programming",
+        "Trình độ đào tạo \t\tĐại học",
+        "Mã học phần: \t\t\tCNTT1133",
+        "Số tín chỉ: \t\t\t03",
+        "Số giờ trên lớp:\t45",
+        "Số giờ tự học:\t\t105",
+        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+        "Các học phần tiên quyết: Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIHT1101)"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "content": [
+        "Học phần mang lại những kiến thức cơ bản về lập trình trên Windows, giúp cho sinh viên nắm bắt được phương pháp lập trình và sử dụng các công cụ của ngôn ngữ lập trình hướng đối tượng đặc biệt là tiếp cận tìm hiểu các bài toán có tính ứng dụng. Sinh viên tìm hiểu cụ thể ngôn ngữ lập trình C#, giới thiệu các điều khiển, ngoài ra còn kết hợp với một hệ quản trị cơ sở dữ liệu để tạo ra các ứng dụng bài toán quản lý cụ thể.",
+        "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về phương pháp lập trình trên Windows Forms bằng cách làm việc độc lập và làm việc nhóm xây dựng thành các dự án nhỏ. Người học có kỹ năng xây dựng các ứng dụng thực tế áp dụng với cơ sở dữ liệu phù hợp.",
+        "Nội dung chính:",
+        "- Tổng quan về ngôn ngữ lập trình C# và Net Framework",
+        "- Làm việc với các loại Biến, Hằng và các kiểu dữ liệu thông dụng trong C#.",
+        "- Làm việc với giao diện chính và lập trình với các điều khiển có sẵn và điều khiển nâng cao.",
+        "- Lập trình kết nối với hệ quản trị cơ sở dữ liệu, xử lý dữ liệu cho bài toán cụ thể.",
+        "- Lập trình áp dụng với các chức năng tìm kiếm.",
+        "- Lập trình kết nối tạo Báo cáo với cơ sở dữ liệu."
+      ]
+    },
+    {
+      "heading": "4.1. Giáo trình",
+      "content": [
+        "[1] Phương Lan, Phạm Hữu Khang (2002). Kỹ thuật lập trình ứng dụng C#, Nhà xuất bản Lao động – Xã hội",
+        "[2] Andrew Troelsen Phil Japikse (2022) Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming, Eleventh Edition"
+      ]
+    },
+    {
+      "heading": "4.2. Tài liệu tham khảo",
+      "content": [
+        "[3]. Robert J. Oberg (2001), Introduction to C# Using .NET, Prentice Hall PTR",
+        "[4]. Michael Stiefel, Robert J. Oberg, Michael Steifel, Robert J. Oberg (2001), Application Development Using C# and .NET, Prentice Hall Professional Technical Reference"
+      ]
+    },
+    {
+      "heading": "4.3. Phần mềm",
+      "content": [
+        "[5] Visual Studio.NET 2022",
+        "[6] Hệ quản trị cơ sở dữ liệu SQL Server 2022",
+        "[7] Crystal Report for .Net 05.06.2023"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "content": [
+        "Bảng 4. Kế hoạch và nội dung dạy học"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "10.4. Quy định về nộp bài tập lớn",
+      "content": [
+        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Tự luận trên máy",
+        "Thời gian: 90 phút",
+        "Số câu hỏi: 5 câu",
+        "Ma trận đề thi (tự luận):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubrics 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 9 buổi Seminar.",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận:",
+        "Rubrics 2. Đánh giá bài kiểm tra cá nhân",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Rubrics 3. Đánh giá bài tập nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Sinh viên sẽ được giao nghiên cứu một bài toán ứng dụng cụ thể có sử dụng C# và hệ quản trị SQL Server, lập trình viết chương trình và báo cáo trước lớp."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628/QĐ-ĐHKTQD ngày 18 tháng 06 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tLập trình Ứng dụng\nTên học phần (tiếng Anh):\tApplication Programming\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1133\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIHT1101)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần mang lại những kiến thức cơ bản về lập trình trên Windows, giúp cho sinh viên nắm bắt được phương pháp lập trình và sử dụng các công cụ của ngôn ngữ lập trình hướng đối tượng đặc biệt là tiếp cận tìm hiểu các bài toán có tính ứng dụng. Sinh viên tìm hiểu cụ thể ngôn ngữ lập trình C#, giới thiệu các điều khiển, ngoài ra còn kết hợp với một hệ quản trị cơ sở dữ liệu để tạo ra các ứng dụng bài toán quản lý cụ thể. \nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về phương pháp lập trình trên Windows Forms bằng cách làm việc độc lập và làm việc nhóm xây dựng thành các dự án nhỏ. Người học có kỹ năng xây dựng các ứng dụng thực tế áp dụng với cơ sở dữ liệu phù hợp.\nNội dung chính:\n\t- Tổng quan về ngôn ngữ lập trình C# và Net Framework\n\t- Làm việc với các loại Biến, Hằng và các kiểu dữ liệu thông dụng trong C#.\n\t- Làm việc với giao diện chính và lập trình với các điều khiển có sẵn và điều khiển nâng cao.\n\t- Lập trình kết nối với hệ quản trị cơ sở dữ liệu, xử lý dữ liệu cho bài toán cụ thể.\n\t- Lập trình áp dụng với các chức năng tìm kiếm.\n\t- Lập trình kết nối tạo Báo cáo với cơ sở dữ liệu.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Phương Lan, Phạm Hữu Khang (2002). Kỹ thuật lập trình ứng dụng C#, Nhà xuất bản Lao động – Xã hội \n[2] Andrew Troelsen Phil Japikse (2022) Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming, Eleventh Edition\n4.2. Tài liệu tham khảo\n[3]. Robert J. Oberg (2001), Introduction to C# Using .NET, Prentice Hall PTR\n[4]. Michael Stiefel, Robert J. Oberg, Michael Steifel, Robert J. Oberg (2001), Application Development Using C# and .NET, Prentice Hall Professional Technical Reference\n4.3. Phần mềm\n[5] Visual Studio.NET 2022\n\t[6] Hệ quản trị cơ sở dữ liệu SQL Server 2022\n\t[7] Crystal Report for .Net 05.06.2023\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên máy\nThời gian: 90 phút\nSố câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi Seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận:\nRubrics 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nRubrics 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên sẽ được giao nghiên cứu một bài toán ứng dụng cụ thể có sử dụng C# và hệ quản trị SQL Server, lập trình viết chương trình và báo cáo trước lớp.",
+  "created_at": "2025-10-03T00:04:22.169911",
+  "source_file": "backend\\data\\raw\\vi\\La╠ú╠ép tri╠Çnh u╠¢╠üng du╠úng_CNTT1133.docx",
+  "content_length": 5292
+}

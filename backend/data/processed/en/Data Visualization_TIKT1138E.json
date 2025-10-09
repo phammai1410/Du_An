@@ -1,0 +1,117 @@
+{
+  "id": "TIKT1138E",
+  "filename": "Data Visualization_TIKT1138E.docx",
+  "language": "en",
+  "subject_name": "Data Visualization_TIKT1138E",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "DETAILED COURSE SYLLABUS",
+        "(Decision of NEU...................., ...../...../ 2021)"
+      ]
+    },
+    {
+      "heading": "2. LECTURER’S INFORMATION",
+      "content": [
+        "Full name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD",
+        "Address: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong",
+        "Road, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:"
+      ]
+    },
+    {
+      "heading": "3. COURSE DESCRIPTIONS",
+      "content": [
+        "Học phần Trực quan hóa dữ liệu trong kinh doanh cung cấp các kiến thức và kỹ năng tư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu trực quan. Dữ liệu trực quan là dữ liệu được tổ chức, sắp xếp và được truyền vào đó tiếng nói, màu sắc dưới các dạng dashboard giúp các nhà quản lý dễ dàng có cái nhìn từ toàn cảnh đến chi tiết về vấn đề cần giải quyết để đưa ra quyết định nhanh chóng và chính xác. Học phần gồm hai nội dung chính: (1) các kiến thức nền tảng về tư duy phân tích, ra quyết định định hướng dữ liệu và nguyên tắc kể chuyện bằng dữ liệu; (2) các ứng dụng trong trực quan hóa dữ liệu. Nội dung thứ hai tập trung hướng dẫn sử dụng hai phần mềm Power BI và Tableau (kết hợp với ngôn ngữ lập trình Python (hoặc R) để khai phá sâu dữ liệu lớn). Học phần được giảng dạy theo định hướng ứng dụng nên trong toàn bộ chương trình đều được minh họa bằng các bài tập tình huống thực tế trong các lĩnh vực y tế, giáo dục, kinh doanh, ngân hàng, tài chính, kế toán, bảo hiểm, thống kê, du lịch …",
+        "Các nội dung chính của học phần:",
+        "Tư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu.",
+        "Tự động hóa quy trình trích xuất dữ liệu từ nhiều nền tảng và ghép tất cả các phần lại với nhau để phân tích sâu hơn, cung cấp các chỉ số tài chính kinh doanh toàn diện trong thời gian thực và rút ngắn thời gian xử lý (sử dụng Power Query).",
+        "Kết nối dữ liệu và xây dựng mô hình dữ liệu (sử dụng Power Query)",
+        "Tư duy thiết kế dashboard chuyên nghiệp, lựa chọn biểu đồ, màu sắc và bố cục phù hợp với mục tiêu (sử dụng phần mềm Power BI và Tableau).",
+        "Kể chuyện bằng dữ liệu phục vụ việc phân tích, khám phá dữ liệu để bước vào \"Thế giới dữ liệu\"",
+        "Phân tích dữ liệu đa chiều (sử dụng phần mềm Power BI, Tableau và ngôn ngữ lập trình R, Python)..",
+        "Xuất bản báo cáo đa chiều lên môi trường mạng để sử dụng trên các thiết bị di động (sử dụng Power BI Service - dịch vụ điện toán đám mây).",
+        "The Data Visualization in Business course provides the knowledge and skills of analytical thinking and logical reasoning in solving business problems and problems using visual data. Visual data is data that is organized, arranged, and is transmitted into it with voice and colors in the form of dashboards to help managers easily have a view from the whole to the details of the problem to be solved. Make quick and accurate decisions. The module consists of two main contents: (1) foundational knowledge of analytical thinking, data-driven decision making and principles of data storytelling; (2) applications in data visualization. The second content focuses on how to use Power BI and Tableau software (in combination with Python (or R) programming language for deep mining of big data). The course is taught application-oriented, so the entire program is illustrated with real-life case exercises in the fields of health, education, business, banking, finance, accounting, Insurance, statistics, travel…",
+        "The main contents of the course:",
+        "- Analytical thinking and logical reasoning in solving business problems and problems with data.",
+        "Automate the process of extracting data from multiple platforms and stitching it all together for deeper analysis, providing comprehensive business financial metrics in real time and shortening processing times. management (using Power Query).",
+        "- Connect data and build data models (using Power Query)",
+        "- Professional dashboard design thinking, choosing charts, colors and layouts suitable for goals (using Power BI and Tableau software).",
+        "- Storytelling with data for data analysis and discovery to enter the \"Data World\"",
+        "- Multidimensional data analysis (using Power BI software, Tableau and R programming languages)..",
+        "- Publish multi-dimensional reports to a network environment for use on mobile devices (using Power BI Service - a cloud computing service)."
+      ]
+    },
+    {
+      "heading": "Course Book(s):",
+      "content": [
+        "KieranHealy (2019), DataVisualization A Practical Introduction, Princeton University Press"
+      ]
+    },
+    {
+      "heading": "Reference Book(s):",
+      "content": [
+        "Andy Kirk (2012), Data Visualization: a successful design process, Packt Publishing Ltd.",
+        "Bùi Việt Hà (2020), Python cơ bản, NXB Đại học Quốc gia Hà Nội",
+        "John Wiley & Sons (2014), Data Visualization For Dummies, Published simultaneously in Canada",
+        "Joshua N. Milligan (2019), Learning Tableau: Tools for Business Intelligence, data prep, and visual analytics, 3rd Edition, Packt.",
+        "Lyndy Ryan (2018), Visual Data Storytelling with Tableau, Pearson Education",
+        "Matt Allington (2018), Supercharge Power BI Power Bi Is Better When You Learn to Write Dax 3rd Edition, Holy Macro! Books United States"
+      ]
+    },
+    {
+      "heading": "Software(s):",
+      "content": [
+        "[8] Microsoft Excel; SQL Server; Microsoft Power BI; Tableau; R (or Python)"
+      ]
+    },
+    {
+      "heading": "5. COURSE GOALS",
+      "content": [
+        "Table 5.1. Course Learning Outcomes"
+      ]
+    },
+    {
+      "heading": "6. COURSE LEARNING OUTCOMES",
+      "content": [
+        "Table 6.1. Course learning outcomes"
+      ]
+    },
+    {
+      "heading": "7. COURSE ASSESSMENT",
+      "content": [
+        "Table 7.1. Course assessment"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson Plan"
+      ]
+    },
+    {
+      "heading": "9.1. Attendance Requirements",
+      "content": [
+        "Students are required to fully take part in class lectures and activities.",
+        "Students are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam."
+      ]
+    },
+    {
+      "heading": "9.2. In-class Behavior Requirements",
+      "content": [
+        "The course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.",
+        "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
+        "Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "DETAILED COURSE SYLLABUS \n(Decision of NEU...................., ...../...../ 2021)\n1. GENERAL INFORMATION\n2. LECTURER’S INFORMATION\nFull name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD \nAddress: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:\n3. COURSE DESCRIPTIONS\nHọc phần Trực quan hóa dữ liệu trong kinh doanh cung cấp các kiến thức và kỹ năng tư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu trực quan. Dữ liệu trực quan là dữ liệu được tổ chức, sắp xếp và được truyền vào đó tiếng nói, màu sắc dưới các dạng dashboard giúp các nhà quản lý dễ dàng có cái nhìn từ toàn cảnh đến chi tiết về vấn đề cần giải quyết để đưa ra quyết định nhanh chóng và chính xác. Học phần gồm hai nội dung chính: (1) các kiến thức nền tảng về tư duy phân tích, ra quyết định định hướng dữ liệu và nguyên tắc kể chuyện bằng dữ liệu; (2) các ứng dụng trong trực quan hóa dữ liệu. Nội dung thứ hai tập trung hướng dẫn sử dụng hai phần mềm Power BI và Tableau (kết hợp với ngôn ngữ lập trình Python (hoặc R) để khai phá sâu dữ liệu lớn). Học phần được giảng dạy theo định hướng ứng dụng nên trong toàn bộ chương trình đều được minh họa bằng các bài tập tình huống thực tế trong các lĩnh vực y tế, giáo dục, kinh doanh, ngân hàng, tài chính, kế toán, bảo hiểm, thống kê, du lịch … \nCác nội dung chính của học phần:\nTư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu. \nTự động hóa quy trình trích xuất dữ liệu từ nhiều nền tảng và ghép tất cả các phần lại với nhau để phân tích sâu hơn, cung cấp các chỉ số tài chính kinh doanh toàn diện trong thời gian thực và rút ngắn thời gian xử lý (sử dụng Power Query).\nKết nối dữ liệu và xây dựng mô hình dữ liệu (sử dụng Power Query)\nTư duy thiết kế dashboard chuyên nghiệp, lựa chọn biểu đồ, màu sắc và bố cục phù hợp với mục tiêu (sử dụng phần mềm Power BI và Tableau).\nKể chuyện bằng dữ liệu phục vụ việc phân tích, khám phá dữ liệu để bước vào \"Thế giới dữ liệu\" \nPhân tích dữ liệu đa chiều (sử dụng phần mềm Power BI, Tableau và ngôn ngữ lập trình R, Python).. \nXuất bản báo cáo đa chiều lên môi trường mạng để sử dụng trên các thiết bị di động (sử dụng Power BI Service - dịch vụ điện toán đám mây).\nThe Data Visualization in Business course provides the knowledge and skills of analytical thinking and logical reasoning in solving business problems and problems using visual data. Visual data is data that is organized, arranged, and is transmitted into it with voice and colors in the form of dashboards to help managers easily have a view from the whole to the details of the problem to be solved. Make quick and accurate decisions. The module consists of two main contents: (1) foundational knowledge of analytical thinking, data-driven decision making and principles of data storytelling; (2) applications in data visualization. The second content focuses on how to use Power BI and Tableau software (in combination with Python (or R) programming language for deep mining of big data). The course is taught application-oriented, so the entire program is illustrated with real-life case exercises in the fields of health, education, business, banking, finance, accounting, Insurance, statistics, travel…\nThe main contents of the course:\n- Analytical thinking and logical reasoning in solving business problems and problems with data.\nAutomate the process of extracting data from multiple platforms and stitching it all together for deeper analysis, providing comprehensive business financial metrics in real time and shortening processing times. management (using Power Query).\n- Connect data and build data models (using Power Query)\n- Professional dashboard design thinking, choosing charts, colors and layouts suitable for goals (using Power BI and Tableau software).\n- Storytelling with data for data analysis and discovery to enter the \"Data World\"\n- Multidimensional data analysis (using Power BI software, Tableau and R programming languages)..\n- Publish multi-dimensional reports to a network environment for use on mobile devices (using Power BI Service - a cloud computing service).\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse Book(s):\nKieranHealy (2019), DataVisualization A Practical Introduction, Princeton University Press\nReference Book(s): \nAndy Kirk (2012), Data Visualization: a successful design process, Packt Publishing Ltd.\nBùi Việt Hà (2020), Python cơ bản, NXB Đại học Quốc gia Hà Nội\nJohn Wiley & Sons (2014), Data Visualization For Dummies, Published simultaneously in Canada\nJoshua N. Milligan (2019), Learning Tableau: Tools for Business Intelligence, data prep, and visual analytics, 3rd Edition, Packt.\nLyndy Ryan (2018), Visual Data Storytelling with Tableau, Pearson Education\nMatt Allington (2018), Supercharge Power BI Power Bi Is Better When You Learn to Write Dax 3rd Edition, Holy Macro! Books United States\nSoftware(s):\n[8] Microsoft Excel; SQL Server; Microsoft Power BI; Tableau; R (or Python)\n5. COURSE GOALS\nTable 5.1. Course Learning Outcomes\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course learning outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. LESSON PLAN\nTable 8.1. Lesson Plan\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.\n9.2. In-class Behavior Requirements\nThe course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.",
+  "created_at": "2025-10-03T00:04:24.848336",
+  "source_file": "backend\\data\\raw\\en\\Data Visualization_TIKT1138E.docx",
+  "content_length": 6100
+}

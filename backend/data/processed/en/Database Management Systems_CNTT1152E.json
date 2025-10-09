@@ -1,0 +1,116 @@
+{
+  "id": "CNTT1152E",
+  "filename": "Database Management Systems_CNTT1152E.docx",
+  "language": "en",
+  "subject_name": "Database Management Systems_CNTT1152E",
+  "title": "1. COURSE INFORMATION",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Database Management Systems",
+        "* Code: CNTT1152E",
+        "* Credits: 3 (45 hours)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 30 hrs.",
+        "+ Exercises on class: 20 hrs.",
+        "+ Presentation and Discussion: 20hrs.",
+        "+ Self-study: 50 hrs.",
+        "* Parallel course(s):",
+        "* Prerequisite course(s): CNTT1128, CNTT1131",
+        "* Department conducting the course:",
+        "+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+        "PhD. Nguyễn Trung Tuấn, Tel: 0913537768, Email: tuannt@neu.edu.vn",
+        "MSc. Tống Thị Minh Ngọc, Tel: 0913002241, Email: ngoctm@neu.edu.vn",
+        "* Kind of the course:",
+        "* Course language: \tIn English",
+        "* Meeting hour:"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "This course provides basic knowledge about methods and skills to create data, search and exploit data, and perform administrative operations on the system. The database management use Microsoft SQL Server will be used as a tool to illustrate and simulate the problems that will be presented because it is a relatively complete database management system. The function of a database management to act as a data server. Write SQL commands to create databases, create tables, insert/update/delete/retrieve rows in a common database management system.",
+        "This course, student learn about constraints, learn about how to create a constraint, types of constraints, and difference between unique, not null and primary key constraints. Student learn about types of SQL Statements, Databases in SQL Server. How to create a database, datatypes in SQL Server, and about DDL Statements, DML Statements. Learn how to create a stored procedure and difference between stored procedure and table, advantages of procedures and about types of parameters"
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "Required textbooks:",
+        "Concepts of Database Management, Eighth Edition Philip J. Pratt and Mary Z. Last (2015)",
+        "ProT-SQL 2022: Toward Speed, Scalability, and Standardization for SQL Server Developers, Elizabeth Noble (2022)",
+        "Other references",
+        "Tool MicroSoft SQL Server",
+        "https://www.w3schools.com/sql/default.asp",
+        "https://learn.microsoft.com/en-us/sql/sql-server",
+        "Hệ Quản trị cơ sở dữ liệu SQL Server, Nguyễn Trung Tuấn, Đại học kinh tế Quốc dân"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "Table 6. Assessment summary",
+        "* Rubrics:",
+        "Rubric 1: Participant",
+        "Rubric 2: Individual tests",
+        "Rubric 3: Group works",
+        "Rubric 4: Final exam"
+      ]
+    },
+    {
+      "heading": "7. COURSE OUTLINE",
+      "content": [
+        "Table 7. Course outline"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "9.1. Requirements for taking final /terminal exams",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Requirements for attending classes",
+      "content": [
+        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "9.3. Requirements for in-class behaviour",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. COURSE INFORMATION\n* Title: Database Management Systems\n* Code: CNTT1152E\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities: \n+ Lecture: 30 hrs.\n+ Exercises on class: 20 hrs.\n+ Presentation and Discussion: 20hrs.\n+ Self-study: 50 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1128, CNTT1131\n* Department conducting the course: \n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\nPhD. Nguyễn Trung Tuấn, Tel: 0913537768, Email: tuannt@neu.edu.vn\nMSc. Tống Thị Minh Ngọc, Tel: 0913002241, Email: ngoctm@neu.edu.vn\n* Kind of the course:\n* Course language: \tIn English                 \n* Meeting hour:\t \n2. COURSE DESCRIPTIONS \nThis course provides basic knowledge about methods and skills to create data, search and exploit data, and perform administrative operations on the system. The database management use Microsoft SQL Server will be used as a tool to illustrate and simulate the problems that will be presented because it is a relatively complete database management system. The function of a database management to act as a data server. Write SQL commands to create databases, create tables, insert/update/delete/retrieve rows in a common database management system.\nThis course, student learn about constraints, learn about how to create a constraint, types of constraints, and difference between unique, not null and primary key constraints. Student learn about types of SQL Statements, Databases in SQL Server. How to create a database, datatypes in SQL Server, and about DDL Statements, DML Statements. Learn how to create a stored procedure and difference between stored procedure and table, advantages of procedures and about types of parameters\n3. LEARNING RESOURCES \nRequired textbooks:\nConcepts of Database Management, Eighth Edition Philip J. Pratt and Mary Z. Last (2015)\nProT-SQL 2022: Toward Speed, Scalability, and Standardization for SQL Server Developers, Elizabeth Noble (2022)\n     Other references\nTool MicroSoft SQL Server\nhttps://www.w3schools.com/sql/default.asp\nhttps://learn.microsoft.com/en-us/sql/sql-server\nHệ Quản trị cơ sở dữ liệu SQL Server, Nguyễn Trung Tuấn, Đại học kinh tế Quốc dân\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n* Rubrics: \nRubric 1: Participant\nRubric 2: Individual tests\nRubric 3: Group works\nRubric 4: Final exam \n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:24.884332",
+  "source_file": "backend\\data\\raw\\en\\Database Management Systems_CNTT1152E.docx",
+  "content_length": 4051
+}

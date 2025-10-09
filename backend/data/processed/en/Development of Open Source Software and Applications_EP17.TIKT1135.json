@@ -1,0 +1,118 @@
+{
+  "id": "EP17.TIKT1135",
+  "filename": "Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "language": "en",
+  "subject_name": "Development of Open Source Software and Applications_EP17.TIKT1135",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "Cours name: Development of Open Source Software and Applications"
+      ]
+    },
+    {
+      "heading": "1. COURSE INFORMATION",
+      "content": [
+        "* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135",
+        "* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)",
+        "* Credit hours for teaching and learning activities:",
+        "+ Lecture: 25 hrs",
+        "+ Exercises, Presentation and Discussion: 20 hrs",
+        "+ Self-study: 90 hrs.",
+        "* Parallel course(s): None.",
+        "* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming",
+        "* Faculty conducting the course: Management Information System",
+        "+ Lecturers:",
+        "1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn",
+        "2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn",
+        "3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn",
+        "* Kind of the course:",
+        "* Course language: \tIn English",
+        "* Meeting hour: University’s schedule"
+      ]
+    },
+    {
+      "heading": "2. COURSE DESCRIPTIONS",
+      "content": [
+        "The course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems."
+      ]
+    },
+    {
+      "heading": "3. LEARNING RESOURCES",
+      "content": [
+        "* Text Books/Lecture Notes:",
+        "[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023",
+        "* Additional references:",
+        "[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6",
+        "[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7",
+        "[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5",
+        "[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013"
+      ]
+    },
+    {
+      "heading": "4. COURSE GOALS",
+      "content": [
+        "Table 4. Course goals"
+      ]
+    },
+    {
+      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "content": [
+        "Table 5. Course learning outcomes (CLOs)"
+      ]
+    },
+    {
+      "heading": "6. COURSE ASSESSMENT",
+      "content": [
+        "* Assessment methods:",
+        "- Grading: 10",
+        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+        "* Assessment summary:",
+        "Table 6. Assessment summary"
+      ]
+    },
+    {
+      "heading": "7. COURSE OUTLINE",
+      "content": [
+        "Table 7. Course outline"
+      ]
+    },
+    {
+      "heading": "8. LESSON PLAN",
+      "content": [
+        "Table 8.1. Lesson plan for the course"
+      ]
+    },
+    {
+      "heading": "9.1. Requirements for taking final /terminal exams",
+      "content": [
+        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
+      ]
+    },
+    {
+      "heading": "9.2. Requirements for attending classes",
+      "content": [
+        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
+      ]
+    },
+    {
+      "heading": "9.3. Requirements for in-class behaviour",
+      "content": [
+        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "Cours name: Development of Open Source Software and Applications\n1. COURSE INFORMATION\n* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities: \n+ Lecture: 25 hrs\n+ Exercises, Presentation and Discussion: 20 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming\n* Faculty conducting the course: Management Information System\n+ Lecturers: \n1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn\n2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn\n3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn\t\n* Kind of the course: \n* Course language: \tIn English                 \n* Meeting hour: University’s schedule\t \n2. COURSE DESCRIPTIONS\t\nThe course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.\t\n3. LEARNING RESOURCES \n* Text Books/Lecture Notes: \n[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023 \n* Additional references: \n[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\n[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+  "created_at": "2025-10-03T00:04:25.046331",
+  "source_file": "backend\\data\\raw\\en\\Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "content_length": 4360
+}
