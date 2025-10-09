@@ -1,0 +1,131 @@
+{
+  "id": "TIKT1130",
+  "filename": "Cơ sở dữ liệu_TIKT1130.docx",
+  "language": "vi",
+  "subject_name": "Co╠¢ so╠¢╠ë du╠¢╠â lie╠ú╠éu_TIKT1130",
+  "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý: Khoa Hệ thống thông tin quản lý",
+        "Địa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân",
+        "Giảng viên giảng dạy:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "content": [
+        "Học phần cơ sở dữ liệu cung cấp cho sinh viên ngành Khoa học máy tính, ngành Công nghệ thông tin, ngành Hệ thống thông tin quản lý, Thống kê kinh tế, Khoa học dữ liệ, Phân tích kinh doanh… kiến thức cơ bản về cơ sở dữ liệu và các mô hình dữ liệu, về lý thuyết phân tích thiết kế cơ sở dữ liệu làm nền tảng cho các môn học chuyên sâu của ngành và chuyên ngành sau này. Định hướng sinh viên đến việc quản trị cơ sở dữ liệu và các kiến thức nhằm khai thác cơ sở dữ liệu với những công cụ khác nhau.",
+        "Phát triển các ứng dụng trong quản lý: Các thao tác của lập trình quản lý là một phần của quá trình khai thác dữ liệu bằng những công cụ cụ thể.",
+        "Nội dung của học phần cơ sở dữ liệu bao gồm: (1) Các khái niệm cơ bản về cơ sở dữ liệu, các mô hình dữ liệu; (2) Mô hình dữ liệu quan hệ; (3) Lý thuyết thiết kế CSDL quan hệ  và ràng buộc toàn vẹn trên mô hình dữ liệu quan hệ; (4) Một số ngôn ngữ khai thác cơ sở dữ liệu như: đại số quan hệ, SQL,…; (5) Vấn đề tối ưu hoá câu hỏi và (6) An toàn và toàn vẹn dữ liệu."
+      ]
+    },
+    {
+      "heading": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "content": [
+        "Giáo trình: Đang xuất bản",
+        "[1] TS. Nguyễn Trung Tuấn (2021), Giáo trình Cơ sở dữ liệu, Nhà xuất bản Đại học Kinh tế Quốc dân Hà Nội",
+        "Bài giảng:",
+        "[2] Bộ môn Tin học kinh tế (2020), Bài giảng Cơ sở dữ liệu",
+        "Tài liệu khác",
+        "[3] Nguyễn Kim Anh (2004), Nguyên lý các hệ quản trị cơ sở dữ liệu, Nhà xuất bản Đại học Quốc Gia Hà Nội",
+        "[4] Jeffrey Ullman, Nguyên lý các hệ cơ sở dữ liệu và cơ sở tri thức, NXB Thống kê",
+        "Phần mềm sử dụng: MS SQL Server"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1. Đánh giá học phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+      "content": [
+        "Bảng 4. Kế hoạch và Nội dung giảng dạy"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+      "content": [
+        "10.1. Quy định về điều kiện thi kết thúc học phần",
+        "Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+        "10.2. Quy định về tham dự lớp học",
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+        "10.3. Quy định về hành vi lớp học",
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+        "10.4. Quy định về nộp bài tập nhóm",
+        "Người học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+        "Sau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm."
+      ]
+    },
+    {
+      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024.",
+      "content": [
+        "PHỤ LỤC"
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Thi trắc nghiệm viết trên giấy",
+        "Thời gian:  45 phút",
+        "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm.",
+        "Ma trận đề thi trắc nghiệm:"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 8 buổi seminar",
+        "* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân lần 1",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Đánh giá qua kết quả làm bài kiểm tra theo hình thức thực hành",
+        "Tổng số câu hỏi: 4 câu, mỗi câu 0,25 điểm.",
+        "Thời gian: 45 phút",
+        "Rubric 3. Đánh giá thuyết trình theo nhóm",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Đánh giá qua kết quả theo nhóm"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers) \nKhoa/Viện quản lý: Khoa Hệ thống thông tin quản lý\nĐịa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên giảng dạy:\n3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS) \nHọc phần cơ sở dữ liệu cung cấp cho sinh viên ngành Khoa học máy tính, ngành Công nghệ thông tin, ngành Hệ thống thông tin quản lý, Thống kê kinh tế, Khoa học dữ liệ, Phân tích kinh doanh… kiến thức cơ bản về cơ sở dữ liệu và các mô hình dữ liệu, về lý thuyết phân tích thiết kế cơ sở dữ liệu làm nền tảng cho các môn học chuyên sâu của ngành và chuyên ngành sau này. Định hướng sinh viên đến việc quản trị cơ sở dữ liệu và các kiến thức nhằm khai thác cơ sở dữ liệu với những công cụ khác nhau.\nPhát triển các ứng dụng trong quản lý: Các thao tác của lập trình quản lý là một phần của quá trình khai thác dữ liệu bằng những công cụ cụ thể. \nNội dung của học phần cơ sở dữ liệu bao gồm: (1) Các khái niệm cơ bản về cơ sở dữ liệu, các mô hình dữ liệu; (2) Mô hình dữ liệu quan hệ; (3) Lý thuyết thiết kế CSDL quan hệ  và ràng buộc toàn vẹn trên mô hình dữ liệu quan hệ; (4) Một số ngôn ngữ khai thác cơ sở dữ liệu như: đại số quan hệ, SQL,…; (5) Vấn đề tối ưu hoá câu hỏi và (6) An toàn và toàn vẹn dữ liệu.\n4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)\nGiáo trình: Đang xuất bản\n[1] TS. Nguyễn Trung Tuấn (2021), Giáo trình Cơ sở dữ liệu, Nhà xuất bản Đại học Kinh tế Quốc dân Hà Nội\nBài giảng: \n[2] Bộ môn Tin học kinh tế (2020), Bài giảng Cơ sở dữ liệu\nTài liệu khác\n[3] Nguyễn Kim Anh (2004), Nguyên lý các hệ quản trị cơ sở dữ liệu, Nhà xuất bản Đại học Quốc Gia Hà Nội\n[4] Jeffrey Ullman, Nguyên lý các hệ cơ sở dữ liệu và cơ sở tri thức, NXB Thống kê\nPhần mềm sử dụng: MS SQL Server\n5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)\nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)\n7.1. Đánh giá học phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (Phụ lục 1)\n7.3. Các Rubrics (Phụ lục 2)\n8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)\nBảng 4. Kế hoạch và Nội dung giảng dạy\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)\n10.1. Quy định về điều kiện thi kết thúc học phần \nSinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10). \nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập nhóm\nNgười học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm viết trên giấy\nThời gian:  45 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm.\nMa trận đề thi trắc nghiệm:\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 8 buổi seminar\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân lần 1\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nĐánh giá qua kết quả làm bài kiểm tra theo hình thức thực hành\nTổng số câu hỏi: 4 câu, mỗi câu 0,25 điểm. \nThời gian: 45 phút\nRubric 3. Đánh giá thuyết trình theo nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nĐánh giá qua kết quả theo nhóm",
+  "created_at": "2025-10-03T00:04:21.015421",
+  "source_file": "backend\\data\\raw\\vi\\Cơ sở dữ liệu_TIKT1130.docx",
+  "content_length": 4526
+}

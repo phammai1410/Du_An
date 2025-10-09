@@ -1,0 +1,140 @@
+{
+  "id": "CNTT1128",
+  "filename": "Cơ sở lập trình_CNTT1128.docx",
+  "language": "vi",
+  "subject_name": "Co╠¢ so╠¢╠ë la╠ú╠ép tri╠Çnh_CNTT1128",
+  "title": "Nội dung",
+  "degree": "",
+  "instructor": "",
+  "tags": [],
+  "sections": [
+    {
+      "heading": "Nội dung",
+      "content": [
+        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
+        "(Ban hành kèm theo quyết định 628 QĐ-ĐHKTQD, ngày 18 tháng 06 năm 2024)"
+      ]
+    },
+    {
+      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "content": [
+        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+        "Địa chỉ:  P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+        "Giảng viên giảng dạy học phần:"
+      ]
+    },
+    {
+      "heading": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "content": [
+        "Học phần nằm trong khối kiến thức cơ sở ngành của ngành Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin,…. Học phần cũng là điều kiện học trước của học phần Lập trình hướng đối tượng và Lập trình nâng cao. Học phần này cung cấp những kiến thức cơ bản để làm quen với phương pháp, tư duy lập trình và giải các bài toán trên máy tính cụ thể là: các cấu trúc lập trình căn bản; Một số giải thuật cơ bản; Các cấu trúc dữ liệu,…  Các ví dụ được minh họa bằng ngôn ngữ lập trình C.",
+        "Học phần rèn luyện cho người học có kỹ năng lập trình cơ bản trên máy tính thông qua ngôn ngữ lập trình C. Đồng thời rèn luyện khả năng nghiên cứu, phân tích, thiết kế các môđun chức năng. Ngoài ra học phần trang bị cho người học kiến thức, kỹ năng và năng lực cần thiết để vận dụng tư duy và kiến thức đã học trong việc nghiên cứu các môn lập trình tiếp theo có liên quan trong chương trình đào tạo.",
+        "Nội dung chính:",
+        "Những vấn đề cơ bản của lập trình",
+        "Một sô giải thuật cơ bản",
+        "Các kiểu dữ liệu cơ bản trong C",
+        "Vào ra dữ liệu trong C",
+        "Các cấu trúc lập trình cơ bản",
+        "Hàm trong C",
+        "Con trỏ trong C",
+        "Làm việc với tệp trong C",
+        "Kiểu dữ liệu cấu trúc trong C",
+        "4. TÀI LIỆU HỌC TẬP (Learning Resources: Course Books, Reference Books, and Softwares)",
+        "Giáo trình:",
+        "[1]. Pham Văn Ất (2020) Kỹ thuật lập trình C căn bản và nâng cao, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.",
+        "[2]  Quách Tuấn Ngọc. Ngôn ngữ lập trình C (2003). Nhà XB Thống kê",
+        "[3]  Aptech (2004). Elementary Programming with C",
+        "[4] Bài giảng môn Cơ sở lập trình, Bộ môn CNTT - Đại học KTQD.",
+        "[5]. Applied C: An Introduction and More. McGraw – Hill Higher Education",
+        "Tài liệu khác:",
+        "Phần mềm:",
+        "[5]. Ngôn ngữ lập trình C (DevC++/Code Blocks/C Free/ Borland C/ hoặc onlinegdb.com)"
+      ]
+    },
+    {
+      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "content": [
+        "Bảng 1. Mục tiêu học phần"
+      ]
+    },
+    {
+      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "content": [
+        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
+      ]
+    },
+    {
+      "heading": "7.1 Cơ cấu điểm thành phần",
+      "content": [
+        "Bảng 3. Đánh giá học phần"
+      ]
+    },
+    {
+      "heading": "8. KẾ HOẠCH GIẢNG DẠY (Lesson Plan)",
+      "content": [
+        "Bảng 8.1. Kế hoạch giảng dạy"
+      ]
+    },
+    {
+      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "content": [
+        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
+      ]
+    },
+    {
+      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "content": [
+        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
+      ]
+    },
+    {
+      "heading": "10.2. Quy định về tham dự lớp học",
+      "content": [
+        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
+      ]
+    },
+    {
+      "heading": "10.3. Quy định về hành vi trong lớp học",
+      "content": [
+        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+        "Đọc trước tài liệu được yêu cầu.",
+        "Làm các bài tập về nhà.",
+        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
+      ]
+    },
+    {
+      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "content": [
+        "Trọng số trong điểm học phần: 50%",
+        "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+        "Thời gian: 60 phút",
+        "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
+        "Ma trận đề thi (trắc nghiệm):"
+      ]
+    },
+    {
+      "heading": "Phụ lục 2. CÁC RUBRICS",
+      "content": [
+        "Rubric 1. Đánh giá điểm chuyên cần",
+        "Trọng số trong điểm học phần: 10%",
+        "Đánh giá qua 06 buổi seminar và 01 buổi lecture cuối",
+        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+        "Tiêu chí đánh giá tham gia thảo luận",
+        "Rubric 2. Đánh giá bài kiểm tra cá nhân thứ nhất",
+        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+        "Bài kiểm tra cá nhân số một là bài kiểm tra khả năng lập trình của sinh viên sau khi hoàn thành xong chương 7. Bài này được thiết kế dưới dạng một bài tập tổng hợp đánh giá mức độ hiểu và vận dụng các kiến thức được học từ các chương trước đặt biệt là chương 4, 5, 6.",
+        "Rubric 3. Đánh giá bài kiểm tra cá nhân thứ hai",
+        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+        "Bài kiểm tra cá nhân số 2 là bài kiểm tra trắc nghiệm với 50 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra này sẽ có các câu hỏi tương tự như bài thi cuối kì (tương tự như trong phụ lục 1-Ma trận đề thi Trắc nghiệm)"
+      ]
+    }
+  ],
+  "tables": [],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Ban hành kèm theo quyết định 628 QĐ-ĐHKTQD, ngày 18 tháng 06 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ:  P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\n3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)\n\tHọc phần nằm trong khối kiến thức cơ sở ngành của ngành Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin,…. Học phần cũng là điều kiện học trước của học phần Lập trình hướng đối tượng và Lập trình nâng cao. Học phần này cung cấp những kiến thức cơ bản để làm quen với phương pháp, tư duy lập trình và giải các bài toán trên máy tính cụ thể là: các cấu trúc lập trình căn bản; Một số giải thuật cơ bản; Các cấu trúc dữ liệu,…  Các ví dụ được minh họa bằng ngôn ngữ lập trình C.\n Học phần rèn luyện cho người học có kỹ năng lập trình cơ bản trên máy tính thông qua ngôn ngữ lập trình C. Đồng thời rèn luyện khả năng nghiên cứu, phân tích, thiết kế các môđun chức năng. Ngoài ra học phần trang bị cho người học kiến thức, kỹ năng và năng lực cần thiết để vận dụng tư duy và kiến thức đã học trong việc nghiên cứu các môn lập trình tiếp theo có liên quan trong chương trình đào tạo.\nNội dung chính: \nNhững vấn đề cơ bản của lập trình\nMột sô giải thuật cơ bản\nCác kiểu dữ liệu cơ bản trong C\nVào ra dữ liệu trong C\nCác cấu trúc lập trình cơ bản\nHàm trong C\nCon trỏ trong C\nLàm việc với tệp trong C\nKiểu dữ liệu cấu trúc trong C\n4. TÀI LIỆU HỌC TẬP (Learning Resources: Course Books, Reference Books, and Softwares)\nGiáo trình:\n[1]. Pham Văn Ất (2020) Kỹ thuật lập trình C căn bản và nâng cao, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.\n[2]  Quách Tuấn Ngọc. Ngôn ngữ lập trình C (2003). Nhà XB Thống kê\n[3]  Aptech (2004). Elementary Programming with C \n[4] Bài giảng môn Cơ sở lập trình, Bộ môn CNTT - Đại học KTQD.\n[5]. Applied C: An Introduction and More. McGraw – Hill Higher Education\nTài liệu khác: \nPhần mềm:\n       [5]. Ngôn ngữ lập trình C (DevC++/Code Blocks/C Free/ Borland C/ hoặc onlinegdb.com)\t\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1 Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2 Ma trận đề thi (phụ lục 1)\n7.3 Các rubrics (phụ lục 2)\n8. KẾ HOẠCH GIẢNG DẠY (Lesson Plan)\nBảng 8.1. Kế hoạch giảng dạy\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 06 buổi seminar và 01 buổi lecture cuối\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân thứ nhất\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nBài kiểm tra cá nhân số một là bài kiểm tra khả năng lập trình của sinh viên sau khi hoàn thành xong chương 7. Bài này được thiết kế dưới dạng một bài tập tổng hợp đánh giá mức độ hiểu và vận dụng các kiến thức được học từ các chương trước đặt biệt là chương 4, 5, 6.\nRubric 3. Đánh giá bài kiểm tra cá nhân thứ hai\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nBài kiểm tra cá nhân số 2 là bài kiểm tra trắc nghiệm với 50 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra này sẽ có các câu hỏi tương tự như bài thi cuối kì (tương tự như trong phụ lục 1-Ma trận đề thi Trắc nghiệm)",
+  "created_at": "2025-10-03T00:04:21.060821",
+  "source_file": "backend\\data\\raw\\vi\\Cơ sở lập trình_CNTT1128.docx",
+  "content_length": 5020
+}
