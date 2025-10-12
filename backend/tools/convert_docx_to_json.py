@@ -1,5 +1,6 @@
 import hashlib
 import os
+import sys
 import json
 import re
 import unicodedata
@@ -31,6 +32,20 @@ if load_dotenv:
 DEFAULT_CHUNK_WORD_TARGET = 180
 DEFAULT_CHUNK_WORD_MAX = 240
 DEFAULT_CHUNK_MIN_WORDS = 60
+
+
+def _ensure_utf8_stdio() -> None:
+    """Force UTF-8 output to avoid Windows codepage errors."""
+    for stream_name in ("stdout", "stderr"):
+        stream = getattr(sys, stream_name, None)
+        if stream and hasattr(stream, "reconfigure"):
+            try:
+                stream.reconfigure(encoding="utf-8")
+            except (ValueError, LookupError):
+                pass
+
+
+_ensure_utf8_stdio()
 
 
 def _int_env(name: str, default: int) -> int:

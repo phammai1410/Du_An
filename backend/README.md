@@ -31,6 +31,8 @@ python tools/convert_docx_to_json.py
 
 Sau khi chạy, chương trình sẽ báo cáo số lượng tệp đã xử lý/thay đổi và các tệp bị bỏ qua vì không đổi nội dung.
 
+> Script tự cấu hình `stdout`/`stderr` ở chế độ UTF-8, do đó không cần đặt thủ công `PYTHONIOENCODING`. Nếu chạy trong môi trường không hỗ trợ `reconfigure` (ví dụ container tối giản), hãy đặt `PYTHONIOENCODING=utf-8` trước khi gọi script để tránh lỗi khi in tiếng Việt.
+
 ## Cấu trúc JSON đầu ra
 Mỗi tệp JSON xuất ra chứa các trường chính:
 
