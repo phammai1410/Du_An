@@ -2,4 +2,6 @@
 python-docx
 python-dotenv
 requests
-
+numpy
+tqdm
+faiss-cpu

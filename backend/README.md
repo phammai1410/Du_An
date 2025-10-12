@@ -1,51 +1,94 @@
-# Bộ chuyển đổi DOCX → JSON cho RAG
+# Bộ công cụ xử lý dữ liệu RAG
 
-Tệp `tools/convert_docx_to_json.py` chịu trách nhiệm biến đổi nội dung tài liệu `.docx` thành dữ liệu JSON đã được chuẩn hóa để phục vụ pipeline truy xuất tri thức (RAG). Script tự động quét các tài liệu trong thư mục nguồn, bóc tách nội dung, phân đoạn theo ngữ cảnh và lưu lại kèm manifest theo dõi phiên bản.
+Bộ script trong `backend/tools/` đảm nhận toàn bộ vòng đời biến đổi tài liệu DOCX → JSON → vector và kiểm thử trả lời RAG. Dưới đây là mô tả vai trò từng file và cách vận hành.
 
-- **Nguồn dữ liệu:** `data/raw/<ngôn_ngữ>/` (mặc định hỗ trợ `en`, `vi`).
-- **Thư mục đầu ra:** `data/processed-json/<ngôn_ngữ>/`.
-- **Manifest:** `data/processed-json/_manifest.json` lưu băm MD5 nhằm bỏ qua các tệp không thay đổi và dọn dẹp json lỗi thời.
+## `convert_docx_to_json.py`
+Chức năng:
+- Quét tự động toàn bộ DOCX trong `backend/data/raw/<ngôn_ngữ>/` (mặc định `vi`, `en`).
+- Tính MD5 từng tệp, so sánh với `_manifest.json` để bỏ qua tài liệu không đổi.
+- Chuẩn hóa văn bản: tách đoạn, nhận diện heading, chuyển bảng thành chuỗi `hàng | cột`, phát hiện danh sách.
+- Gom nội dung thành các `chunk` mục tiêu 180 từ (tối đa 240, tối thiểu 60), lưu breadcrumb/headings/phạm vi block phục vụ truy hồi.
+- Ghi JSON đầu ra vào `backend/data/processed-json/<ngôn_ngữ>/` kèm metadata (`doc_id`, `course_code`, `outline`, `stats`, `full_text`…).
 
-## Các bước xử lý chính
-- Tính băm MD5 để phát hiện thay đổi nội dung DOCX.
-- Đọc tuần tự từng khối nội dung (đoạn văn, bảng) và chuyển thành văn bản thuần; bảng được ghép thành chuỗi dạng `hàng | cột`.
-- Nhận diện tiêu đề theo cấp (Heading 1…6) nhằm xây dựng `outline` và đường dẫn tiêu đề cho từng đoạn.
-- Gom nhóm nội dung thành các `chunk` mục tiêu 180 từ (tối đa 240, tối thiểu 60) để phục vụ truy vấn RAG.
-- Ghi toàn bộ dữ liệu (metadata, thống kê, outline, chunks, full_text) vào tệp JSON tương ứng.
-
-## Yêu cầu môi trường
-- Python 3.10+ (khuyến nghị cùng phiên bản đã dùng cho dự án).
-- Thư viện `python-docx` dùng để đọc tài liệu Microsoft Word.
-- Thư viện `python-dotenv` (tùy chọn, nhưng cần nếu muốn script tự đọc cấu hình trong `.env`).
+Tham số chunk có thể chỉnh trong `.env` (`CHUNK_WORD_TARGET`, `CHUNK_WORD_MAX`, `CHUNK_MIN_WORDS`). Chạy:
 
 ```powershell
-pip install python-docx python-dotenv
+python backend/tools/convert_docx_to_json.py
 ```
 
-## Cách chạy script
-Thực thi từ thư mục `backend/` để các đường dẫn tương đối hoạt động chính xác:
+## `build_index.py`
+Mục tiêu: dựng vector index từ các JSON đã xử lý, tối ưu cho RAG.
+
+Điểm nổi bật:
+- Đọc từng chunk trong JSON (ưu tiên trường `chunks`, fallback sang `sections` với phương pháp cắt legacy).
+- Bỏ qua chunk quá ngắn (`--min-words`) và gắn nhãn `length_category` (short/medium/long) dựa vào `--short-threshold`, `--long-threshold` để gợi ý chiều dài câu trả lời.
+- Ghép thêm ngữ cảnh (`course_name`, `course_code`, đường dẫn heading) vào text trước khi embed để truy vấn “đúng trọng tâm”.
+- Gọi LocalAI `/v1/embeddings` theo batch (mặc định lấy cấu hình từ `.env`: `EMBEDDING_MODEL`, `INDEX_BATCH_SIZE`, `INDEX_EMBED_TIMEOUT`…).
+- Chuẩn hóa L2 vector và lưu chỉ mục FAISS (`index.faiss`) hoặc brute-force (`vectors.npy`) tùy `--backend`/`VECTOR_INDEX_BACKEND`.
+- Xuất `meta.jsonl` chứa metadata mỗi chunk và `index_manifest.json` ghi lại cấu hình, tổng vector, ngôn ngữ, thời gian tạo. Tuỳ chọn `--save-chunks` giúp lưu thêm `chunks.jsonl` (text + meta) hỗ trợ debug/answer.
+
+Ví dụ dựng index:
 
 ```powershell
-python tools/convert_docx_to_json.py
+python backend/tools/build_index.py --batch-size 32 --langs vi en
 ```
 
-Sau khi chạy, chương trình sẽ báo cáo số lượng tệp đã xử lý/thay đổi và các tệp bị bỏ qua vì không đổi nội dung.
+Muốn kiểm tra trước khi embed: thêm `--dry-run`.
 
-> Script tự cấu hình `stdout`/`stderr` ở chế độ UTF-8, do đó không cần đặt thủ công `PYTHONIOENCODING`. Nếu chạy trong môi trường không hỗ trợ `reconfigure` (ví dụ container tối giản), hãy đặt `PYTHONIOENCODING=utf-8` trước khi gọi script để tránh lỗi khi in tiếng Việt.
+## `search_index.py`
+Tiện ích CLI để kiểm tra nhanh kết quả truy hồi.
 
-## Cấu trúc JSON đầu ra
-Mỗi tệp JSON xuất ra chứa các trường chính:
+- Nhận query văn bản, embed qua LocalAI, tìm top-k vector từ index FAISS hoặc brute-force theo manifest.
+- In ra từng kết quả dạng JSON gồm `score`, `filename`, `section_heading`, `chunk_id`, `language`, `length_category`…
+- Không gọi mô hình chat, không trả về nội dung chunk → thích hợp kiểm thử xem truy vấn có bám đúng tài liệu hay không.
 
-- `doc_id`, `language`, `course_name`, `course_variant`, `course_code`
-- `source_filename`, `source_relpath`, `source_hash`, `source_modified`
-- `processed_at` (thời gian xử lý), `stats` (số khối, số từ, số bảng…)
-- `outline` (danh sách tiêu đề), `chunks` (danh sách đoạn nội dung đã cắt)
-- `full_text` (nội dung văn bản đầy đủ)
+Ví dụ:
 
-Các tệp JSON trong thư mục đầu ra có thể dùng trực tiếp cho bước nạp dữ liệu vào hệ thống chỉ mục hoặc cơ sở tri thức.
+```powershell
+python backend/tools/search_index.py "Instructor of Data Structures"
+```
 
-## Tuỳ chỉnh thêm
-- Điều chỉnh hằng số `CHUNK_WORD_TARGET`, `CHUNK_WORD_MAX`, `CHUNK_MIN_WORDS` thông qua biến môi trường hoặc file `.env` (ví dụ trong `backend/.env`) để phù hợp với chiến lược cắt đoạn của bạn.
-- Thêm ngôn ngữ mới bằng cách bổ sung mã vào hằng số `LANGUAGES` và tạo thư mục nguồn tương ứng trong `data/raw/`.
+## `answer_rag.py`
+Pipeline RAG hoàn chỉnh kết nối truy hồi và sinh câu trả lời.
 
-Việc cập nhật script hoặc cấu trúc dữ liệu nên đi kèm cập nhật README này để đảm bảo nhóm dễ dàng nắm được cách vận hành công cụ.
+- Thực hiện truy hồi giống `search_index.py`, sau đó cố gắng lấy lại nội dung chunk (ưu tiên `chunks.jsonl`; nếu không có sẽ tái dựng từ JSON nguồn).
+- Định dạng mỗi context kèm citation `[i]` và in ra mục `--- Retrieved Contexts ---` để quan sát.
+- Nếu không dùng `--show-only`, script chọn mô hình chat (theo `--chat-model` hoặc tự động từ `/v1/models`), gửi prompt gồm câu hỏi + context và tạo đáp án ở cùng ngôn ngữ câu hỏi.
+- Kết quả gồm phần “Answer” và danh sách nguồn để đưa lên UI hoặc log.
+
+Ví dụ:
+
+```powershell
+python backend/tools/answer_rag.py "Tên giảng viên của học phần Cấu trúc dữ liệu là gì?"
+```
+
+Tham số hữu ích: `--k` (số context), `--max-context-chars` (giới hạn dung lượng gửi cho chat), `--temperature`.
+
+---
+
+## Thiết lập môi trường
+
+File `python-libraries.txt` tổng hợp các thư viện cần dùng (ví dụ `python-docx`, `requests`, `numpy`, `tqdm`, `faiss-cpu`). Cài đặt:
+
+```powershell
+pip install -r python-libraries.txt
+```
+
+Điều chỉnh `.env` trong thư mục `backend/` để cấu hình thống nhất cho pipeline:
+
+```env
+CHUNK_WORD_TARGET=150
+CHUNK_WORD_MAX=220
+CHUNK_MIN_WORDS=40
+EMBEDDING_MODEL=granite-embedding-107m-multilingual
+LOCALAI_BASE_URL=http://localhost:8080/v1
+VECTOR_INDEX_BACKEND=faiss
+INDEX_BATCH_SIZE=32
+INDEX_MIN_CHUNK_WORDS=40
+INDEX_SHORT_WORD_THRESHOLD=120
+INDEX_LONG_WORD_THRESHOLD=220
+INDEX_EMBED_TIMEOUT=120
+LOCALAI_CHAT_MODEL=...
+```
+
+Sau mỗi lần cập nhật cấu trúc JSON hoặc logic xử lý, hãy đồng bộ README để đội phát triển dễ theo dõi luồng công việc.*** End Patch
