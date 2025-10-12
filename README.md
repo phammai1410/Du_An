@@ -1,37 +1,53 @@
 # Khoa_Luan
 
-## Thiet lap moi truong Python
-1. Tao moi truong ao tai thu muc goc:
+## 🌐 Giới thiệu
+Dự án phục vụ xây dựng và vận hành hệ thống RAG cho khóa luận. Thư mục `backend/tools` tập trung các tiện ích Python để chuyển đổi dữ liệu nguồn, xây chỉ mục vector và chạy truy vấn thử nghiệm.
+
+## 🚀 Thiết lập môi trường Python
+1. Tạo môi trường ảo tại thư mục gốc:
    ```powershell
    python -m venv .venv
    ```
-2. Kich hoat moi truong ao (PowerShell):
+2. Kích hoạt môi trường ảo (PowerShell):
    ```powershell
    .\.venv\Scripts\Activate.ps1
    ```
-   *Neu dung Command Prompt, su dung `.\.venv\Scripts\activate.bat`.*
-3. Cai thu vien tu danh sach `python-libraries.txt`:
+   *Nếu dùng Command Prompt, hãy thay bằng `.\.venv\Scripts\activate.bat`.*
+3. Cài đặt thư viện từ danh sách `python-libraries.txt`:
    ```powershell
    pip install -r python-libraries.txt
    ```
 
-## Chay cong cu Python trong `backend/tools`
-- Chay truc tiep tu thu muc goc, vi du:
-  ```powershell
-  python backend\tools\ten_script.py
-  ```
-- Co the xem them tham so bang `python backend\tools\ten_script.py --help` (neu script ho tro).
+> 💡 Giữ môi trường ảo luôn mở khi thao tác với các script Python để đảm bảo dùng đúng phiên bản thư viện.
 
-## Ba script quan trong
-- `convert_docx_to_json.py`: chuyen tai lieu DOCX trong `backend/data/raw` sang JSON da xu ly.
+## 🛠️ Chạy công cụ Python trong `backend/tools`
+- Thực thi trực tiếp từ thư mục gốc của dự án, ví dụ:
+  ```powershell
+  python backend\tools\ten_script.py --help
+  ```
+- Mỗi script đều hỗ trợ tham số dòng lệnh; chạy kèm `--help` để xem chi tiết cách sử dụng.
+
+## 📚 Ba script quan trọng
+
+### `convert_docx_to_json.py`
+- **Chức năng:** Chuyển các tệp DOCX trong `backend/data/raw` sang JSON đã tiền xử lý, phục vụ quá trình xây index.
+- **Lệnh chạy:**
   ```powershell
   python backend\tools\convert_docx_to_json.py
   ```
-- `build_index.py`: tao vector index tu du lieu JSON. Dieu chinh duong dan hoac cau hinh neu can.
+
+### `build_index.py`
+- **Chức năng:** Tạo vector index từ dữ liệu JSON đã xử lý, hỗ trợ nhiều backend như FAISS hoặc tìm kiếm tuyến tính.
+- **Lệnh chạy:**
   ```powershell
   python backend\tools\build_index.py --data-dir backend/data/processed-json --out-dir backend/data/index
   ```
-- `answer_rag.py`: dat cau hoi RAG sau khi da co index; truyen cau hoi o cuoi lenh.
+
+### `answer_rag.py`
+- **Chức năng:** Đặt câu hỏi RAG dựa trên index hiện có và trả về câu trả lời kèm trích dẫn nguồn.
+- **Lệnh chạy:**
   ```powershell
-  python backend\tools\answer_rag.py "cau hoi cua ban"
+  python backend\tools\answer_rag.py "câu hỏi của bạn"
   ```
+
+> 📎 Điều chỉnh lại các tham số như `--data-dir`, `--out-dir`, `--model` hoặc `--base-url` theo cấu hình thực tế trước khi chạy trên môi trường production.
