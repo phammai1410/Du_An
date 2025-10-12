@@ -1,75 +1,255 @@
 {
-  "id": "TOKT11122E",
-  "filename": "Time Series Analysis and Forecasting_TOKT11122E.docx",
+  "doc_id": "en-tokt11122e",
   "language": "en",
-  "subject_name": "Time Series Analysis and Forecasting_TOKT11122E",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Time Series Analysis and Forecasting",
+  "course_variant": "",
+  "course_code": "TOKT11122E",
+  "source_filename": "Time Series Analysis and Forecasting_TOKT11122E.docx",
+  "source_relpath": "data\\raw\\en\\Time Series Analysis and Forecasting_TOKT11122E.docx",
+  "source_hash": "083012abcdb7e9a64fbdf9b62d3e43df",
+  "source_modified": "2025-10-11T10:42:50.613497+00:00",
+  "processed_at": "2025-10-12T13:02:26.222911+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "- Title: \t\t\t\tTime Series Analysis and Forecasting",
-        "- Course number:\t\t\tTOKT11122E",
-        "- Type of course:\t\t\tCompulsory",
-        "- Credits:\t\t                      3",
-        "+ Lecture\t\t\t\t30 hours",
-        "+ Tutorial \t\t\t15 hours",
-        "+ Self-study\t\t\t90 hours",
-        "- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. DEPARTMENT AND INSTRUCTOR",
-      "content": [
-        "Department: Mathematical Economics",
-        "Address: Suite 1105, Building A1, NEU",
-        "Instructor:",
-        "TBD,"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. DEPARTMENT AND INSTRUCTOR"
     },
     {
-      "heading": "3. COURSE DESCRIPTION",
-      "content": [
-        "This course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTION"
     },
     {
-      "heading": "Main textbook",
-      "content": [
-        "[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.",
-        "[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.",
-        "[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCE"
     },
     {
-      "heading": "Others",
-      "content": [
-        "[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.",
-        "[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.",
-        "[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.",
-        "[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.",
-        "[8] https://online.stat.psu.edu/stat510/"
-      ]
+      "sequence": 5,
+      "level": 2,
+      "title": "Main textbook"
     },
     {
-      "heading": "9. CLASS REGULATION",
-      "content": [
-        "Ensure at least 80% attendance in the class.",
-        "Achieve a participant score of 5.0 or higher.",
-        "Must join projects",
-        "Actively contribute to the lesson.",
-        "Engage with the textbook and complete projects.",
-        "Avoid eating or using cell phones during class.",
-        "Use of laptops and iPads is permitted only for practice and calculation purposes."
-      ]
+      "sequence": 6,
+      "level": 2,
+      "title": "Others"
+    },
+    {
+      "sequence": 7,
+      "level": 1,
+      "title": "5. COURSE OBJECTIVES"
+    },
+    {
+      "sequence": 8,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOME"
+    },
+    {
+      "sequence": 9,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
+    },
+    {
+      "sequence": 10,
+      "level": 1,
+      "title": "8. TEACHING PLAN"
+    },
+    {
+      "sequence": 11,
+      "level": 1,
+      "title": "9. CLASS REGULATION"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n- Title: \t\t\t\tTime Series Analysis and Forecasting\n- Course number:\t\t\tTOKT11122E  \n- Type of course:\t\t\tCompulsory\t \n- Credits:\t\t                      3 \n+ Lecture\t\t\t\t30 hours\n+ Tutorial \t\t\t15 hours\n+ Self-study\t\t\t90 hours\n- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108\n2. DEPARTMENT AND INSTRUCTOR\nDepartment: Mathematical Economics \nAddress: Suite 1105, Building A1, NEU\nInstructor: \nTBD, \n3. COURSE DESCRIPTION\nThis course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts.\n4. LEARNING RESOURCE\nMain textbook\n[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.\n[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.\n[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing. \nOthers\n[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.\n[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.\n[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.\n[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.\n[8] https://online.stat.psu.edu/stat510/\n5. COURSE OBJECTIVES\n6. COURSE LEARNING OUTCOME\n7. COURSE ASSESSMENT\n8. TEACHING PLAN\n9. CLASS REGULATION\nEnsure at least 80% attendance in the class. \nAchieve a participant score of 5.0 or higher.\nMust join projects \nActively contribute to the lesson. \nEngage with the textbook and complete projects. \nAvoid eating or using cell phones during class. \nUse of laptops and iPads is permitted only for practice and calculation purposes.",
-  "created_at": "2025-10-03T00:04:26.411339",
-  "source_file": "backend\\data\\raw\\en\\Time Series Analysis and Forecasting_TOKT11122E.docx",
-  "content_length": 2735
+  "stats": {
+    "paragraphs": 28,
+    "headings": 11,
+    "tables": 6,
+    "chunks": 11,
+    "words": 1444
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-tokt11122e#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued with Decision number            /QĐ-ĐHKTQD  by NEU’s President,               2024) | COURSE SYLLABUS (Issued with Decision number            /QĐ-ĐHKTQD  by NEU’s President,               2024)",
+      "word_count": 41,
+      "char_count": 349,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#002",
+      "text": "- Title: \t\t\t\tTime Series Analysis and Forecasting\n- Course number:\t\t\tTOKT11122E\n- Type of course:\t\t\tCompulsory\n- Credits:\t\t                      3\n+ Lecture\t\t\t\t30 hours\n+ Tutorial \t\t\t15 hours\n+ Self-study\t\t\t90 hours\n- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108",
+      "word_count": 35,
+      "char_count": 267,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 12
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#003",
+      "text": "Department: Mathematical Economics\nAddress: Suite 1105, Building A1, NEU\nInstructor:\n- TBD,",
+      "word_count": 12,
+      "char_count": 91,
+      "heading_path": [
+        "2. DEPARTMENT AND INSTRUCTOR"
+      ],
+      "primary_heading": "2. DEPARTMENT AND INSTRUCTOR",
+      "breadcrumbs": "2. DEPARTMENT AND INSTRUCTOR",
+      "position": {
+        "order": 3,
+        "start_block": 13,
+        "end_block": 18
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#004",
+      "text": "This course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts.",
+      "word_count": 148,
+      "char_count": 1045,
+      "heading_path": [
+        "3. COURSE DESCRIPTION"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTION",
+      "breadcrumbs": "3. COURSE DESCRIPTION",
+      "position": {
+        "order": 4,
+        "start_block": 19,
+        "end_block": 20
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#005",
+      "text": "[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.\n[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.\n[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing.",
+      "word_count": 33,
+      "char_count": 243,
+      "heading_path": [
+        "4. LEARNING RESOURCE",
+        "Main textbook"
+      ],
+      "primary_heading": "Main textbook",
+      "breadcrumbs": "4. LEARNING RESOURCE > Main textbook",
+      "position": {
+        "order": 5,
+        "start_block": 22,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#006",
+      "text": "[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.\n[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.\n[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.\n[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.\n[8] https://online.stat.psu.edu/stat510/",
+      "word_count": 68,
+      "char_count": 529,
+      "heading_path": [
+        "4. LEARNING RESOURCE",
+        "Others"
+      ],
+      "primary_heading": "Others",
+      "breadcrumbs": "4. LEARNING RESOURCE > Others",
+      "position": {
+        "order": 6,
+        "start_block": 26,
+        "end_block": 31
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#007",
+      "text": "No. | Description | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | Understand the background of time series analysis, highlighting its core concepts and applications in stock market, finance, economics, and related fields. | 2.2 | 3\nG2 | Understand the process of collecting, manipulating, and conducting time series analysis with Python, from data preprocessing to model application, using libraries like pandas and NumPy on real-world datasets. | 1.4 2.2 | 3\nG3 | Master time series analysis skills to effectively apply and analyze strategies like SMA, EMA, RSI, and MACD. | 2.3 | 3\nG4 | Understand and expand on basic time series concepts by applying forecasting methods, such as ARIMA, SARIMA, GARCH. | 1.6 2.1 | 3\nG5 | Foster teamwork and collaborative problem-solving in projects to sharpen time series analysis skills, while emphasizing ethical data use, forecasting accuracy, and the societal impacts of predictive modeling. | 2.3 2.4 | 3\nG6 | The course contributes to the development of the ability to self-study, work independently, work in groups, take personal responsibility and partly responsible for the group | 2.4, 3.1 | 3",
+      "word_count": 189,
+      "char_count": 1132,
+      "heading_path": [
+        "5. COURSE OBJECTIVES"
+      ],
+      "primary_heading": "5. COURSE OBJECTIVES",
+      "breadcrumbs": "5. COURSE OBJECTIVES",
+      "position": {
+        "order": 7,
+        "start_block": 32,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#008",
+      "text": "Obj | CLO | Description | Level\n[1] | [2] | [3] | [4]\nG1 | 1.1 | Understand the fundamental concepts and components of time series data, including trend, seasonality, cyclicity, and noise, and the significance of time series analysis in stock market, and other fields. | 3\nG1 | 1.2 | Grasp the role of Python in time series analysis, including the use of key libraries such as pandas, NumPy, Matplotlib, and statsmodels for data manipulation, visualization, and statistical analysis. | 3\nG2 | 2.1 | Master techniques to collect stock data from Viet Nam and United Stated markets. | 3\nG2 | 2.2 | Learn the process of performing exploratory data analysis on time series data using Python to identify underlying patterns, trends, and anomalies. | 3\nG3 | 3.1 | Understand the methods for making time series data stationary and the importance of stationarity in time series forecasting | 3\nG3 | 3.2 | Master time series analysis skills to effectively apply and analyze strategies like SMA, EMA, RSI, and MACD. | 3\nG4 | 4.1 | Acquire the ability to model and forecast time series data using various statistical techniques, such as ARIMA, SARIMA, and understand the application of these models in Python. | 3\nG5 | 5.1 | Develop practical skills through hands-on projects and case studies, applying time series analysis techniques to real-world datasets in fields such as finance, economics, and environmental science. | 3\nG5 | 5.2 | Enhance problem-solving and critical thinking skills by analyzing and interpreting time series analysis results, making predictions, and providing actionable insights. | 3\nG6 | 6.1 | Develop the ability to self-study, work independently | 4\nG6 | 6.2 | Develop the capacity to take personal responsibility and partial responsibility towards the group | 4",
+      "word_count": 300,
+      "char_count": 1779,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOME"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOME",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOME",
+      "position": {
+        "order": 8,
+        "start_block": 34,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#009",
+      "text": "Type of Assessment | Content | Week | CLO | Tools and Criteria assessment | Contribution to grade %\n[1] | [2] | [3] | [4] | [5] | [6]\nHomework | Theory and Programming Practices | Weekly or Bi-Weekly assignements | 6.1 6.2 | Tools: - Online plattforms (LMS, Canvas, Moodle, Google forms) - Online compilers: Python, - Other compilers: PyCharm, Jupyter Notebook, Visual Studio Code, etc. Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 20%\nMidterm Exam | Paper-based Test | 10th week | 1.1- 3.3 | Tools: - Paper, online test Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 30%\nFinal Exam | Group project report. | 15th week | 1.1-5.2 | Tools: - Presentation, documents Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 50%",
+      "word_count": 146,
+      "char_count": 923,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 9,
+        "start_block": 37,
+        "end_block": 38
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#010",
+      "text": "Week | Content | Required readings text | CLO | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Course Introduction Introduction to Time Series Analysis and Forecasting course 1.2. Group project requirements for the course. 1.3. Setup working environment by installing Anaconda Python and Jupyter 1.4.  Time Series Concepts and Python | Syllabus Configure working environment [3] Chapter 1 | 1.1 1.2 6.1 6.2 | Lectures and individual exercises | Discuss\n2-3 | Lecture 2.  NumPy, Pandas and Its Applications for Time Series Analysis 2.1. Review NumPy 2.2. Review Pandas 2.3. Explain and implement indicators in stock market by Python 2.4. Exercises | [2] Chapter 4, 5 | 1.1 1.2 2.1 3.1 3.2 6.1 6.2 | Lectures and individual exercises | Discuss\n4-5 | Lecture 3. Exploratory Time Series Data Analysis 3.1. Partial Autocorrelation Functions 3.2. White Noise Test 3.3. Simple Time Series Compositions 3.4. Time Series Decomposition and Smoothing | [5] Chapter 2 | - | Lectures and individual exercises | Discuss\n6-7 | Lecture 4. Stationary Time Series Models 4.1. Backshift Operator, Differencing, and Stationarity Test 4.2. Moving Average Models 4.3. Autoregressive Models 4.4. Autoregressive Moving Average Models 4.5. Time Series Analysis with Statsmodels 4.6. Exercises and Implementations | [5] Chapter 3 | 1.2 3.1 6.1 6.2 | Lectures and individual exercises | Discuss\n8-9 | Lecture 5. ARMA and ARIMA Modeling and Forecasting 5.1 Model Building Problems 5.2. Estimation Methods 5.3. Order Determination 5.4. Diagnosis of Models 5.5. Forecasting 5.6. Exercises and Implementations | [1] Chapter 2 [5] Chapter 4 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n10 | Midterm Exam | - | 1.*- 4.* | Revision and Midterm 1 | Homework and Midterm 1\n11-12 | Lecture 6. Nonstationary Time Series Models 6.1. The Box-Jenkins Method 6.2. SARIMA Model Building 6.3. REGARMA Models | [5] Chapter 5 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n13-14 | Lecture 7. Financial Time Series and Related Models 7.1. Stylized Facts of Financial Time Series 7.2. GARCH Models 7.3. Other Extensions | [5] Chapter 6 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n15 | Group project report | Presentation | 1.*- 5.* | Groups submit reports. Lecturer evaluates reports | Assessment sheet with the following criterium: (i) Content; (ii); (iii) Time; (iv) Cross-evaluation",
+      "word_count": 399,
+      "char_count": 2419,
+      "heading_path": [
+        "8. TEACHING PLAN"
+      ],
+      "primary_heading": "8. TEACHING PLAN",
+      "breadcrumbs": "8. TEACHING PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 39,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#011",
+      "text": "- Ensure at least 80% attendance in the class.\n- Achieve a participant score of 5.0 or higher.\n- Must join projects\n- Actively contribute to the lesson.\n- Engage with the textbook and complete projects.\n- Avoid eating or using cell phones during class.\n- Use of laptops and iPads is permitted only for practice and calculation purposes.\nFaculty Dean PhD Nguyen Manh The | NEU’s President Prof. PhD Pham Hong Chuong",
+      "word_count": 73,
+      "char_count": 414,
+      "heading_path": [
+        "9. CLASS REGULATION"
+      ],
+      "primary_heading": "9. CLASS REGULATION",
+      "breadcrumbs": "9. CLASS REGULATION",
+      "position": {
+        "order": 11,
+        "start_block": 42,
+        "end_block": 52
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued with Decision number            /QĐ-ĐHKTQD  by NEU’s President,               2024) | COURSE SYLLABUS (Issued with Decision number            /QĐ-ĐHKTQD  by NEU’s President,               2024)\n1. COURSE INFORMATION\n- Title: \t\t\t\tTime Series Analysis and Forecasting\n- Course number:\t\t\tTOKT11122E\n- Type of course:\t\t\tCompulsory\n- Credits:\t\t                      3\n+ Lecture\t\t\t\t30 hours\n+ Tutorial \t\t\t15 hours\n+ Self-study\t\t\t90 hours\n- Prerequisite:    \t\t\tEP15.TOKT1105, EP15.TOKT11108\n2. DEPARTMENT AND INSTRUCTOR\nDepartment: Mathematical Economics\nAddress: Suite 1105, Building A1, NEU\nInstructor:\n- TBD,\n3. COURSE DESCRIPTION\nThis course provides an introduction to time series analysis, highlighting its applications in the stock market and includes setting up Anaconda Python and Jupyter. Starting with NumPy, students will learn about arrays, indexing, and operations, applying these to create stock market indicators such as SMA, EMA, MACD, and RSI through hands-on exercises. The focus then shifts to Pandas for data handling and analysis, teaching students about Series, DataFrames, and data visualization, with practical exercises on stock market data. Students will explore visualizing financial time series and delve into advanced analysis with Statsmodels, covering error, trend, and seasonality decomposition. The curriculum includes forecasting models, from basics to complex concepts like ARIMA, SARIMA, and GARCH models, complemented by code-along sessions. By the course's end, students understand how to apply time series in analyzing and forecasting stock market trends with Python's powerful libraries, ready to apply these skills in financial contexts.\n4. LEARNING RESOURCE\nMain textbook\n[1] Gebhard Kirchgässner, Jürgen Wolters (2013), Introduction to Modern Time Series Analysis, Springer.\n[2] Wes McKinney (2022), Python for Data Analysis, O’Reilly Media.\n[3] Eryk Lewinson (2022), Python for Finance Cookbook, Packt Publishing.\nOthers\n[4] Tarek A. Atwan (2022), Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation, Packt Publishing.\n[5] Changquan Huang and Alla Petukhina (2022), Applied Time Series Analysis and Forecasting with Python, Springer.\n[6] Ben Auffarth (2021), Machine Learning for Time-Series with Python, Packt Publishing.\n[7] Francesca Lazzeri (2020), Machine Learning for Time Series Forecasting with Python, Wiley.\n[8] https://online.stat.psu.edu/stat510/\n5. COURSE OBJECTIVES\nNo. | Description | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | Understand the background of time series analysis, highlighting its core concepts and applications in stock market, finance, economics, and related fields. | 2.2 | 3\nG2 | Understand the process of collecting, manipulating, and conducting time series analysis with Python, from data preprocessing to model application, using libraries like pandas and NumPy on real-world datasets. | 1.4 2.2 | 3\nG3 | Master time series analysis skills to effectively apply and analyze strategies like SMA, EMA, RSI, and MACD. | 2.3 | 3\nG4 | Understand and expand on basic time series concepts by applying forecasting methods, such as ARIMA, SARIMA, GARCH. | 1.6 2.1 | 3\nG5 | Foster teamwork and collaborative problem-solving in projects to sharpen time series analysis skills, while emphasizing ethical data use, forecasting accuracy, and the societal impacts of predictive modeling. | 2.3 2.4 | 3\nG6 | The course contributes to the development of the ability to self-study, work independently, work in groups, take personal responsibility and partly responsible for the group | 2.4, 3.1 | 3\n6. COURSE LEARNING OUTCOME\nObj | CLO | Description | Level\n[1] | [2] | [3] | [4]\nG1 | 1.1 | Understand the fundamental concepts and components of time series data, including trend, seasonality, cyclicity, and noise, and the significance of time series analysis in stock market, and other fields. | 3\nG1 | 1.2 | Grasp the role of Python in time series analysis, including the use of key libraries such as pandas, NumPy, Matplotlib, and statsmodels for data manipulation, visualization, and statistical analysis. | 3\nG2 | 2.1 | Master techniques to collect stock data from Viet Nam and United Stated markets. | 3\nG2 | 2.2 | Learn the process of performing exploratory data analysis on time series data using Python to identify underlying patterns, trends, and anomalies. | 3\nG3 | 3.1 | Understand the methods for making time series data stationary and the importance of stationarity in time series forecasting | 3\nG3 | 3.2 | Master time series analysis skills to effectively apply and analyze strategies like SMA, EMA, RSI, and MACD. | 3\nG4 | 4.1 | Acquire the ability to model and forecast time series data using various statistical techniques, such as ARIMA, SARIMA, and understand the application of these models in Python. | 3\nG5 | 5.1 | Develop practical skills through hands-on projects and case studies, applying time series analysis techniques to real-world datasets in fields such as finance, economics, and environmental science. | 3\nG5 | 5.2 | Enhance problem-solving and critical thinking skills by analyzing and interpreting time series analysis results, making predictions, and providing actionable insights. | 3\nG6 | 6.1 | Develop the ability to self-study, work independently | 4\nG6 | 6.2 | Develop the capacity to take personal responsibility and partial responsibility towards the group | 4\n7. COURSE ASSESSMENT\nType of Assessment | Content | Week | CLO | Tools and Criteria assessment | Contribution to grade %\n[1] | [2] | [3] | [4] | [5] | [6]\nHomework | Theory and Programming Practices | Weekly or Bi-Weekly assignements | 6.1 6.2 | Tools: - Online plattforms (LMS, Canvas, Moodle, Google forms) - Online compilers: Python, - Other compilers: PyCharm, Jupyter Notebook, Visual Studio Code, etc. Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 20%\nMidterm Exam | Paper-based Test | 10th week | 1.1- 3.3 | Tools: - Paper, online test Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 30%\nFinal Exam | Group project report. | 15th week | 1.1-5.2 | Tools: - Presentation, documents Criteria: - Content Mastery; Problem-Solving Skills; Critical Thinking; Application of Knowledge; Time management | 50%\n8. TEACHING PLAN\nWeek | Content | Required readings text | CLO | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Course Introduction Introduction to Time Series Analysis and Forecasting course 1.2. Group project requirements for the course. 1.3. Setup working environment by installing Anaconda Python and Jupyter 1.4.  Time Series Concepts and Python | Syllabus Configure working environment [3] Chapter 1 | 1.1 1.2 6.1 6.2 | Lectures and individual exercises | Discuss\n2-3 | Lecture 2.  NumPy, Pandas and Its Applications for Time Series Analysis 2.1. Review NumPy 2.2. Review Pandas 2.3. Explain and implement indicators in stock market by Python 2.4. Exercises | [2] Chapter 4, 5 | 1.1 1.2 2.1 3.1 3.2 6.1 6.2 | Lectures and individual exercises | Discuss\n4-5 | Lecture 3. Exploratory Time Series Data Analysis 3.1. Partial Autocorrelation Functions 3.2. White Noise Test 3.3. Simple Time Series Compositions 3.4. Time Series Decomposition and Smoothing | [5] Chapter 2 | - | Lectures and individual exercises | Discuss\n6-7 | Lecture 4. Stationary Time Series Models 4.1. Backshift Operator, Differencing, and Stationarity Test 4.2. Moving Average Models 4.3. Autoregressive Models 4.4. Autoregressive Moving Average Models 4.5. Time Series Analysis with Statsmodels 4.6. Exercises and Implementations | [5] Chapter 3 | 1.2 3.1 6.1 6.2 | Lectures and individual exercises | Discuss\n8-9 | Lecture 5. ARMA and ARIMA Modeling and Forecasting 5.1 Model Building Problems 5.2. Estimation Methods 5.3. Order Determination 5.4. Diagnosis of Models 5.5. Forecasting 5.6. Exercises and Implementations | [1] Chapter 2 [5] Chapter 4 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n10 | Midterm Exam | - | 1.*- 4.* | Revision and Midterm 1 | Homework and Midterm 1\n11-12 | Lecture 6. Nonstationary Time Series Models 6.1. The Box-Jenkins Method 6.2. SARIMA Model Building 6.3. REGARMA Models | [5] Chapter 5 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n13-14 | Lecture 7. Financial Time Series and Related Models 7.1. Stylized Facts of Financial Time Series 7.2. GARCH Models 7.3. Other Extensions | [5] Chapter 6 | 3.1 4.1 6.1 6.2 | Lectures and individual exercises | Discuss\n15 | Group project report | Presentation | 1.*- 5.* | Groups submit reports. Lecturer evaluates reports | Assessment sheet with the following criterium: (i) Content; (ii); (iii) Time; (iv) Cross-evaluation\n9. CLASS REGULATION\n- Ensure at least 80% attendance in the class.\n- Achieve a participant score of 5.0 or higher.\n- Must join projects\n- Actively contribute to the lesson.\n- Engage with the textbook and complete projects.\n- Avoid eating or using cell phones during class.\n- Use of laptops and iPads is permitted only for practice and calculation purposes.\nFaculty Dean PhD Nguyen Manh The | NEU’s President Prof. PhD Pham Hong Chuong"
 }

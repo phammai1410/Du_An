@@ -1,129 +1,305 @@
 {
-  "id": "EP17.CNTT1157",
-  "filename": "Mobile Applications Development_EP17.CNTT1157.docx",
+  "doc_id": "en-ep17-cntt1157",
   "language": "en",
-  "subject_name": "Mobile Applications Development_EP17.CNTT1157",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Mobile Applications Development",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1157",
+  "source_filename": "Mobile Applications Development_EP17.CNTT1157.docx",
+  "source_relpath": "data\\raw\\en\\Mobile Applications Development_EP17.CNTT1157.docx",
+  "source_hash": "a213185b540ca4ca617a8e6cf47c0f26",
+  "source_modified": "2025-10-11T10:42:50.602948+00:00",
+  "processed_at": "2025-10-12T13:02:25.177427+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Mobile Applications Development\tCode: CNTT1157",
-        "* Credits: 3 (45)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 25 hrs.",
-        "+ Exercises in class: 10 hrs.",
-        "+ Presentation and Discussion: 10 hrs.",
-        "+ Self-study: 60 hrs.",
-        "* Parallel course(s):",
-        "* Prerequisite course(s): CNTT1131, CNTT1116",
-        "* Department conducting the course:",
-        "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
-        "+ Lecturers:",
-        "1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn",
-        "2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
-        "* The course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "The course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.",
-        "Course content includes:",
-        "Overview of mobile programming",
-        "Development tools",
-        "Components of a mobile application",
-        "Mobile User Interface (UI)",
-        "Store data online/offline.",
-        "Multitasking and asynchronous processing",
-        "Build applications based on device features.",
-        "Learn and use APIs.",
-        "Application testing and distribution",
-        "The course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.",
-        "Applications will be developed during the learning process through lessons and group exercises:",
-        "Calculator: Application that can perform basic math operations.",
-        "Notes: Application for taking notes and managing tasks.",
-        "Clock: Create a simple clock application.",
-        "Unit Converter: Application that supports measurement and unit conversion.",
-        "Weather: Displays weather forecast information",
-        "Health: Record user steps",
-        "Quiz: Display the quiz and check the player's answer.",
-        "Expensify: Track personal income and expenditure.",
-        "Book: Book management and reading application.",
-        "Music Player: A simple music player.",
-        "Cooking: Displays cooking recipes.",
-        "Vocab: The application supports learning vocabulary"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "* Textbooks/Lecture Notes:",
-        "Le Hoang Son (2018) Android programming, Nhà xuất bản xây dựng",
-        "Unlocking Android, W. Frank Ableson, Charlie Collins, Robinsen",
-        "* Additional references:",
-        "Professional Android Application Development, Reto Meier",
-        "Swift Programming: The Big Nerd Ranch Guide",
-        "iOS Programming: The Big Nerd Ranch Guide",
-        "Creating Mobile Apps with Xamarin. Forms Book First Edition",
-        "Learning React Native: Building Native Mobile Apps with JavaScript"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. LESSON PLAN",
-      "content": [
-        "Table 7.1. Lesson plan for the course"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. LESSON PLAN"
     },
     {
-      "heading": "8.1. Requirements for taking final /terminal exams.",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "8.2. Requirements for attending classes.",
-      "content": [
-        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than three times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "8.1. Requirements for taking final /terminal exams."
     },
     {
-      "heading": "8.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "8.2. Requirements for attending classes."
+    },
+    {
+      "sequence": 11,
+      "level": 2,
+      "title": "8.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n* Title: Mobile Applications Development\tCode: CNTT1157\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1131, CNTT1116\n* Department conducting the course: \n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\t \n2. COURSE DESCRIPTIONS \nThe course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.\nCourse content includes:\nOverview of mobile programming\nDevelopment tools\nComponents of a mobile application\nMobile User Interface (UI)\nStore data online/offline.\nMultitasking and asynchronous processing\nBuild applications based on device features.\nLearn and use APIs.\nApplication testing and distribution\nThe course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.\nApplications will be developed during the learning process through lessons and group exercises:\nCalculator: Application that can perform basic math operations.\nNotes: Application for taking notes and managing tasks.\nClock: Create a simple clock application.\nUnit Converter: Application that supports measurement and unit conversion.\nWeather: Displays weather forecast information\nHealth: Record user steps\nQuiz: Display the quiz and check the player's answer.\nExpensify: Track personal income and expenditure.\nBook: Book management and reading application.\nMusic Player: A simple music player.\nCooking: Displays cooking recipes.\nVocab: The application supports learning vocabulary\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \nLe Hoang Son (2018) Android programming, Nhà xuất bản xây dựng\nUnlocking Android, W. Frank Ableson, Charlie Collins, Robinsen\n* Additional references:\nProfessional Android Application Development, Reto Meier\nSwift Programming: The Big Nerd Ranch Guide\niOS Programming: The Big Nerd Ranch Guide\nCreating Mobile Apps with Xamarin. Forms Book First Edition\nLearning React Native: Building Native Mobile Apps with JavaScript\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than three times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:25.877020",
-  "source_file": "backend\\data\\raw\\en\\Mobile Applications Development_EP17.CNTT1157.docx",
-  "content_length": 4684
+  "stats": {
+    "paragraphs": 62,
+    "headings": 11,
+    "tables": 7,
+    "chunks": 14,
+    "words": 1510
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt1157#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering",
+      "word_count": 50,
+      "char_count": 383,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#002",
+      "text": "* Title: Mobile Applications Development\tCode: CNTT1157\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1131, CNTT1116\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:",
+      "word_count": 89,
+      "char_count": 611,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 19
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#003",
+      "text": "Foundation | Foundation | Fundamental (x) | Fundamental (x)\nCompulsory | Elective | Compulsory | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+      "word_count": 37,
+      "char_count": 237,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 19,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#004",
+      "text": "The course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.\nCourse content includes:\n- Overview of mobile programming\n- Development tools\n- Components of a mobile application\n- Mobile User Interface (UI)\n- Store data online/offline.\n- Multitasking and asynchronous processing\n- Build applications based on device features.\n- Learn and use APIs.\n- Application testing and distribution\nThe course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.\nApplications will be developed during the learning process through lessons and group exercises:\n- Calculator: Application that can perform basic math operations.",
+      "word_count": 182,
+      "char_count": 1235,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#005",
+      "text": "- Notes: Application for taking notes and managing tasks.\n- Clock: Create a simple clock application.\n- Unit Converter: Application that supports measurement and unit conversion.\n- Weather: Displays weather forecast information\n- Health: Record user steps\n- Quiz: Display the quiz and check the player's answer.\n- Expensify: Track personal income and expenditure.\n- Book: Book management and reading application.\n- Music Player: A simple music player.\n- Cooking: Displays cooking recipes.\n- Vocab: The application supports learning vocabulary",
+      "word_count": 80,
+      "char_count": 542,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 5,
+        "start_block": 38,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#006",
+      "text": "* Textbooks/Lecture Notes:\n- Le Hoang Son (2018) Android programming, Nhà xuất bản xây dựng\n- Unlocking Android, W. Frank Ableson, Charlie Collins, Robinsen\n* Additional references:\n- Professional Android Application Development, Reto Meier\n- Swift Programming: The Big Nerd Ranch Guide\n- iOS Programming: The Big Nerd Ranch Guide\n- Creating Mobile Apps with Xamarin. Forms Book First Edition\n- Learning React Native: Building Native Mobile Apps with JavaScript",
+      "word_count": 70,
+      "char_count": 461,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 6,
+        "start_block": 51,
+        "end_block": 60
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#007",
+      "text": "Table 4. Course goals\nGoals | Goals Description | Proficiency scale\nG1 | The course provides fundamental knowledge about mobile application development, enabling students to understand programming principles and apply it to develop software for mobile devices. Students can analyze, design, program, test, and distribute mobile applications through application stores. | 3-4\nG2 | The course helps students develop communication, presentation, report writing, and time management skills. It provides practical training in professional skills necessary for mobile application development. | 3U\nG3 | The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics. | 3",
+      "word_count": 109,
+      "char_count": 789,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 7,
+        "start_block": 61,
+        "end_block": 63
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#008",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understanding how mobile app works on mobile devices, classifying and practicing several types of mobile applications, and exploring methods for mobile application development. | I\nG1 | CLO1.2 | Applying fundamental programming techniques for mobile application development. | T\nG1 | CLO1.3 | Applying testing techniques, assessing quality, and performance to apps, distribute app to app stores | U\nG2 | CLO2.1 | Having the skills to search, gather, synthesize, analyze, and present information to solve problems related to mobile apps developing. | U\nG2 | CLO2.2 | Having the ability to coordinate and collaborate to solve group assignments, ensuring the team completes tasks according to schedule. | U\nG2 | CLO2.3 | Having the skills to use tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Having the ability to self-study and research relevant to complete assigned tasks. | U\nG3 | CLO3.2 | Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities. | U\nG3 | CLO3.3 | Understanding the responsibilities in task execution, maintaining professional ethics in tasks related to mobile developing. | U",
+      "word_count": 218,
+      "char_count": 1357,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 8,
+        "start_block": 64,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#009",
+      "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | -\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 9\nGroup project (20%): Group production. Group presentation | CLO1.x CLO2.x CLO3.x | 40% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.x CLO2.x CLO3.x | 50% | As scheduled",
+      "word_count": 103,
+      "char_count": 681,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 9,
+        "start_block": 67,
+        "end_block": 70
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#010",
+      "text": "Table 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Install development environment | Course outline | CLO1.1 CLO 2. x CLO 3. x | Introduction to course Announce classroom rules. Instructions for installing the IDE | Participant Individual tests Group works\n2-3 | Chapter 1. Overview of mobile programming • Basic concepts of mobile application development • Main components of mobile applications • Application lifecycle | [1] Chapter 1 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n4-5 | Chapter 2. Building the user interface • User Interface (UI) • Layouts • Views | [1] Chapter 2 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n6-7 | Chapter 3. Data storage • File storage • Working with assets • Working with preferences • SQLite database | 1] Chapter 3 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n8-11 | Chapter 4. Advanced programming • Advanced UI • Asynchronous processing • Multimedia content • Sensors and Location • APIs | 1] Chapter 4 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n12-13 | Chapter 5. Application development and distribution • Test the application • Application distribution | [1] Chapter 5 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n14-15 | Group Presentation | [1] Chapter 1-5 | CLO1.x CLO1.x CLO3.x | Report and answer questions | Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation\n- | Final exam | [1] Chapter 1-5 | CLO1.x CLO2.x | Students take exams according to given schedule | Computer-based practical examination",
+      "word_count": 336,
+      "char_count": 2039,
+      "heading_path": [
+        "7. LESSON PLAN"
+      ],
+      "primary_heading": "7. LESSON PLAN",
+      "breadcrumbs": "7. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 71,
+        "end_block": 72
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#011",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams."
+      ],
+      "primary_heading": "8.1. Requirements for taking final /terminal exams.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams.",
+      "position": {
+        "order": 11,
+        "start_block": 75,
+        "end_block": 76
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#012",
+      "text": "- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than three times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 109,
+      "char_count": 647,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes."
+      ],
+      "primary_heading": "8.2. Requirements for attending classes.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes.",
+      "position": {
+        "order": 12,
+        "start_block": 77,
+        "end_block": 80
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#013",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 89,
+      "char_count": 526,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 13,
+        "start_block": 81,
+        "end_block": 85
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1157#014",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 14,
+        "start_block": 85,
+        "end_block": 86
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\n1. COURSE INFORMATION\n* Title: Mobile Applications Development\tCode: CNTT1157\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1131, CNTT1116\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:\nFoundation | Foundation | Fundamental (x) | Fundamental (x)\nCompulsory | Elective | Compulsory | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS\nThe course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.\nCourse content includes:\n- Overview of mobile programming\n- Development tools\n- Components of a mobile application\n- Mobile User Interface (UI)\n- Store data online/offline.\n- Multitasking and asynchronous processing\n- Build applications based on device features.\n- Learn and use APIs.\n- Application testing and distribution\nThe course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.\nApplications will be developed during the learning process through lessons and group exercises:\n- Calculator: Application that can perform basic math operations.\n- Notes: Application for taking notes and managing tasks.\n- Clock: Create a simple clock application.\n- Unit Converter: Application that supports measurement and unit conversion.\n- Weather: Displays weather forecast information\n- Health: Record user steps\n- Quiz: Display the quiz and check the player's answer.\n- Expensify: Track personal income and expenditure.\n- Book: Book management and reading application.\n- Music Player: A simple music player.\n- Cooking: Displays cooking recipes.\n- Vocab: The application supports learning vocabulary\n3. LEARNING RESOURCES\n* Textbooks/Lecture Notes:\n- Le Hoang Son (2018) Android programming, Nhà xuất bản xây dựng\n- Unlocking Android, W. Frank Ableson, Charlie Collins, Robinsen\n* Additional references:\n- Professional Android Application Development, Reto Meier\n- Swift Programming: The Big Nerd Ranch Guide\n- iOS Programming: The Big Nerd Ranch Guide\n- Creating Mobile Apps with Xamarin. Forms Book First Edition\n- Learning React Native: Building Native Mobile Apps with JavaScript\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | Proficiency scale\nG1 | The course provides fundamental knowledge about mobile application development, enabling students to understand programming principles and apply it to develop software for mobile devices. Students can analyze, design, program, test, and distribute mobile applications through application stores. | 3-4\nG2 | The course helps students develop communication, presentation, report writing, and time management skills. It provides practical training in professional skills necessary for mobile application development. | 3U\nG3 | The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics. | 3\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understanding how mobile app works on mobile devices, classifying and practicing several types of mobile applications, and exploring methods for mobile application development. | I\nG1 | CLO1.2 | Applying fundamental programming techniques for mobile application development. | T\nG1 | CLO1.3 | Applying testing techniques, assessing quality, and performance to apps, distribute app to app stores | U\nG2 | CLO2.1 | Having the skills to search, gather, synthesize, analyze, and present information to solve problems related to mobile apps developing. | U\nG2 | CLO2.2 | Having the ability to coordinate and collaborate to solve group assignments, ensuring the team completes tasks according to schedule. | U\nG2 | CLO2.3 | Having the skills to use tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Having the ability to self-study and research relevant to complete assigned tasks. | U\nG3 | CLO3.2 | Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities. | U\nG3 | CLO3.3 | Understanding the responsibilities in task execution, maintaining professional ethics in tasks related to mobile developing. | U\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | -\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 9\nGroup project (20%): Group production. Group presentation | CLO1.x CLO2.x CLO3.x | 40% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.x CLO2.x CLO3.x | 50% | As scheduled\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Install development environment | Course outline | CLO1.1 CLO 2. x CLO 3. x | Introduction to course Announce classroom rules. Instructions for installing the IDE | Participant Individual tests Group works\n2-3 | Chapter 1. Overview of mobile programming • Basic concepts of mobile application development • Main components of mobile applications • Application lifecycle | [1] Chapter 1 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n4-5 | Chapter 2. Building the user interface • User Interface (UI) • Layouts • Views | [1] Chapter 2 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n6-7 | Chapter 3. Data storage • File storage • Working with assets • Working with preferences • SQLite database | 1] Chapter 3 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n8-11 | Chapter 4. Advanced programming • Advanced UI • Asynchronous processing • Multimedia content • Sensors and Location • APIs | 1] Chapter 4 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n12-13 | Chapter 5. Application development and distribution • Test the application • Application distribution | [1] Chapter 5 | CLO1.1 CLO1.2 CLO 2.x CLO 3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n14-15 | Group Presentation | [1] Chapter 1-5 | CLO1.x CLO1.x CLO3.x | Report and answer questions | Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation\n- | Final exam | [1] Chapter 1-5 | CLO1.x CLO2.x | Students take exams according to given schedule | Computer-based practical examination\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\n- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than three times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

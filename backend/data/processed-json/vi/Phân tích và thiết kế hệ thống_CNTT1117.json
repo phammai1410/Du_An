@@ -1,169 +1,473 @@
 {
-  "id": "CNTT1117",
-  "filename": "Phân tích và thiết kế hệ thống_CNTT1117.docx",
+  "doc_id": "vi-cntt1117",
   "language": "vi",
-  "subject_name": "Pha╠én ti╠üch va╠Ç thie╠é╠üt ke╠é╠ü he╠ú╠é tho╠é╠üng_CNTT1117",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Phân tích và thiết kế hệ thống",
+  "course_variant": "",
+  "course_code": "CNTT1117",
+  "source_filename": "Phân tích và thiết kế hệ thống_CNTT1117.docx",
+  "source_relpath": "data\\raw\\vi\\Phân tích và thiết kế hệ thống_CNTT1117.docx",
+  "source_hash": "d7dab470b5e66d604049f38b18915810",
+  "source_modified": "2025-10-11T10:42:50.650552+00:00",
+  "processed_at": "2025-10-12T13:02:31.341023+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tPhân tích và thiết kế hệ thống",
-        "Tên học phần (tiếng Anh):\tSystem Analysis and Design",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1117",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIKT1130)"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Công nghệ thông tin",
-        "Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Phân tích thiết kế hệ thống là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về phân tích thiết kế hệ thống và phân tích thiết kế hướng đối tượng: Hệ thống, hệ thống thông tin, vòng đời phát triển hệ thống, đội ngũ phát triển hệ thống, phương pháp phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; Khảo sát hệ thống và xác lập dự án phát triển hệ thống; Mô hình hóa yêu cầu nghiệp vụ, yêu cầu chức năng, mô hình hóa cấu trúc và hành vi của hệ thống; Thiết kế kiến trúc, thiết kế giao diện người dùng và thiết kế lớp và dữ liệu.",
-        "Học phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về phát triển hệ thống theo phương pháp hướng đối tượng trong thực tế.",
-        "Nội dung chính:",
-        "- Tổng quan về Hệ thống, phương pháp phát triển hệ thống, phân tích thiết kế hệ thống",
-        "- Ngôn ngữ mô hình hóa thống nhất UML, quy trình phát triển phần mềm",
-        "- Khảo sát hệ thống và xác lập dự án phát triển hệ thống",
-        "- Phân tích chức năng",
-        "- Phân tích cấu trúc",
-        "- Phân tích hành vi",
-        "- Thiết kế kiến trúc",
-        "- Thiết kế giao diện",
-        "- Thiết kế chi tiết lớp và cơ sở dữ liệu"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1]. Dennis – Wixom – Tegarden (2020), System Analysis and Design: An Object-Oriented Approach with UML, Wiley.",
-        "[2]. Nguyễn Văn Ba (2008), Phát triển hệ thống hướng đối tượng với UML 2.0 và C++, NXB Đại học Quốc gia HN.",
-        "4.2. Tài liệu tham khảo",
-        "[3]. Nguyễn Văn Ba (2006) Phân tích và thiết kế HTTT, Nhà xuất bản Đại Học Quốc Gia.",
-        "[4]. Kenneth E. Kendall Julie E. Kendall (2020), Systems analysis and design, Pearson.",
-        "[5]. Dennis – Wixom – Roth (2020), System Analysis and Design, John Wiley & Sons, Inc.",
-        "4.3. Phần mềm",
-        "[7] Visual paradigm",
-        "[8] figma.com"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân/ nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Tự luận trên giấy",
-        "Thời gian: 75 phút",
-        "Số câu hỏi: 5 câu",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua 9 buổi seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-        "- \tHình thức: Tự luận trên giấy",
-        "Thời gian: 75 phút",
-        "Số câu hỏi: 4 câu",
-        "Ma trận đề kiểm tra (tự luận):",
-        "Rubric 3. Đánh giá bài tập nhóm",
-        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 18,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 19,
+      "level": 1,
+      "title": "PHỤ LỤC"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 21,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tPhân tích và thiết kế hệ thống \nTên học phần (tiếng Anh):\tSystem Analysis and Design\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1117\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIKT1130)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nPhân tích thiết kế hệ thống là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về phân tích thiết kế hệ thống và phân tích thiết kế hướng đối tượng: Hệ thống, hệ thống thông tin, vòng đời phát triển hệ thống, đội ngũ phát triển hệ thống, phương pháp phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; Khảo sát hệ thống và xác lập dự án phát triển hệ thống; Mô hình hóa yêu cầu nghiệp vụ, yêu cầu chức năng, mô hình hóa cấu trúc và hành vi của hệ thống; Thiết kế kiến trúc, thiết kế giao diện người dùng và thiết kế lớp và dữ liệu.  \nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về phát triển hệ thống theo phương pháp hướng đối tượng trong thực tế.\nNội dung chính:\n\t- Tổng quan về Hệ thống, phương pháp phát triển hệ thống, phân tích thiết kế hệ thống\n- Ngôn ngữ mô hình hóa thống nhất UML, quy trình phát triển phần mềm\t\n\t- Khảo sát hệ thống và xác lập dự án phát triển hệ thống\n\t- Phân tích chức năng\n- Phân tích cấu trúc\n- Phân tích hành vi\n- Thiết kế kiến trúc\n- Thiết kế giao diện\t\n\t- Thiết kế chi tiết lớp và cơ sở dữ liệu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1]. Dennis – Wixom – Tegarden (2020), System Analysis and Design: An Object-Oriented Approach with UML, Wiley.\n[2]. Nguyễn Văn Ba (2008), Phát triển hệ thống hướng đối tượng với UML 2.0 và C++, NXB Đại học Quốc gia HN.\n4.2. Tài liệu tham khảo\n[3]. Nguyễn Văn Ba (2006) Phân tích và thiết kế HTTT, Nhà xuất bản Đại Học Quốc Gia.\n[4]. Kenneth E. Kendall Julie E. Kendall (2020), Systems analysis and design, Pearson.\n[5]. Dennis – Wixom – Roth (2020), System Analysis and Design, John Wiley & Sons, Inc.\n4.3. Phần mềm\n[7] Visual paradigm\n[8] figma.com\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân/ nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 75 phút\nSố câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- \tHình thức: Tự luận trên giấy\nThời gian: 75 phút\nSố câu hỏi: 4 câu\nMa trận đề kiểm tra (tự luận):\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-  "created_at": "2025-10-03T00:04:22.811047",
-  "source_file": "backend\\data\\raw\\vi\\Phân tích và thiết kế hệ thống_CNTT1117.docx",
-  "content_length": 5467
+  "stats": {
+    "paragraphs": 72,
+    "headings": 21,
+    "tables": 12,
+    "chunks": 21,
+    "words": 5206
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1117#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 286,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 5
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#002",
+      "text": "- Tên học phần (tiếng Việt): \tPhân tích và thiết kế hệ thống\n- Tên học phần (tiếng Anh):\tSystem Analysis and Design\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1117\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIKT1130)",
+      "word_count": 90,
+      "char_count": 420,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 6,
+        "end_block": 15
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#003",
+      "text": "- Khoa/Viện quản lý học phần: Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Trần Thị Mỹ Diệp | diepttm@neu.edu.vn\n2 | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n3 | TS. Nguyễn Ngọc Tuấn | tuannn@neu.edu.vn",
+      "word_count": 70,
+      "char_count": 342,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 16,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#004",
+      "text": "Phân tích thiết kế hệ thống là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về phân tích thiết kế hệ thống và phân tích thiết kế hướng đối tượng: Hệ thống, hệ thống thông tin, vòng đời phát triển hệ thống, đội ngũ phát triển hệ thống, phương pháp phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; Khảo sát hệ thống và xác lập dự án phát triển hệ thống; Mô hình hóa yêu cầu nghiệp vụ, yêu cầu chức năng, mô hình hóa cấu trúc và hành vi của hệ thống; Thiết kế kiến trúc, thiết kế giao diện người dùng và thiết kế lớp và dữ liệu.\nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về phát triển hệ thống theo phương pháp hướng đối tượng trong thực tế.",
+      "word_count": 221,
+      "char_count": 1025,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 22,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#005",
+      "text": "Nội dung chính:\n- Tổng quan về Hệ thống, phương pháp phát triển hệ thống, phân tích thiết kế hệ thống\n- Ngôn ngữ mô hình hóa thống nhất UML, quy trình phát triển phần mềm\n- Khảo sát hệ thống và xác lập dự án phát triển hệ thống\n- Phân tích chức năng\n- Phân tích cấu trúc\n- Phân tích hành vi\n- Thiết kế kiến trúc\n- Thiết kế giao diện\n- Thiết kế chi tiết lớp và cơ sở dữ liệu",
+      "word_count": 86,
+      "char_count": 373,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 24,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#006",
+      "text": "4.1. Giáo trình\n[1]. Dennis – Wixom – Tegarden (2020), System Analysis and Design: An Object-Oriented Approach with UML, Wiley.\n[2]. Nguyễn Văn Ba (2008), Phát triển hệ thống hướng đối tượng với UML 2.0 và C++, NXB Đại học Quốc gia HN.\n4.2. Tài liệu tham khảo\n[3]. Nguyễn Văn Ba (2006) Phân tích và thiết kế HTTT, Nhà xuất bản Đại Học Quốc Gia.\n[4]. Kenneth E. Kendall Julie E. Kendall (2020), Systems analysis and design, Pearson.\n[5]. Dennis – Wixom – Roth (2020), System Analysis and Design, John Wiley & Sons, Inc.\n4.3. Phần mềm\n[7] Visual paradigm\n[8] figma.com",
+      "word_count": 103,
+      "char_count": 566,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 35,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học những kiến thức tổng quan về: hệ thống, hệ thống thông tin, phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; các nguồn khảo sát, kĩ thuật thu thập thông tin, xác định yêu cầu, mô hinh hóa yêu cầu, phân tích về chức năng với biểu đồ use case, phân tích về cấu trúc với biểu đồ lớp, phân tích về hành vi với biểu đồ trình tự; thiết kế kiến trúc hệ thống, thiết kế giao diện người dùng với figma, thiết kế chi tiết lớp và dữ liệu với hệ quản trị cơ sở dữ liệu quan hệ. Học phần giúp sinh viên hiểu kiến thức cơ bản về phân tích thiết kế hướng đối tượng và vận dụng vào phân tích thiết kế các bài toán thực tế | -\nCG2 | Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Học phần giúp người học có kỹ năng phân tích thiết kế hệ thống hướng đối tượng; và rèn luyện kĩ năng này thông qua các bài toán thực tế. | -\nCG3 | Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội. | -",
+      "word_count": 311,
+      "char_count": 1384,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 46,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Trình bày được các kiến thức về hệ thống, vòng đời phát triển hệ thống, phương pháp phát triển hệ thống, đội ngũ và công cụ phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML | 2\nCG1 Kiến thức | CLO1.2 | Trình bày được và áp dụng các phương pháp khảo sát thu thập, tổng hợp yêu cầu, từ đó đề xuất giải pháp phát triển hệ thống và hoạch định dự án phát triển hệ thống | 3\nCG1 Kiến thức | CLO1.3 | Vận dụng được kĩ thuật phân tích hướng đối tượng: Mô hình hóa được quy trình nghiệp vụ và yêu cầu chức năng, mô hình hóa cấu trúc hệ thống qua biểu đồ lớp, mô hình hóa hành vi qua biểu trình trình tự và giao tiếp | 3\nCG1 Kiến thức | CLO1.4 | Vận dụng được kĩ thuật thiết kế hướng đối tượng: Thiết kế được kiến trúc tổng thể qua biểu đồ gói, biểu đồ thành phần và biểu đồ triển khai, Thiết kế giao diện người dùng với figma, thiết kế chi tiết các tầng. | 3\nCG2 Kỹ năng | CLO2.1 | Tìm kiếm, thu thập, tổng hợp, phân tích, trình bày vấn đề liên quan đến phân tích thiết kế hệ thống nói chung một cách thành thạo | 3\nCG2 Kỹ năng | CLO2.2 | Phối hợp để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định. | 2\nCG2 Kỹ năng | CLO2.3 | Phân tích hệ thống hướng đối tượng, thiết kế hệ thống hướng đối tượng với ngôn ngữ mô hình hóa thống nhất UML và quy trình phát triển phần mềm RUP một cách thành thạo | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 3",
+      "word_count": 447,
+      "char_count": 1959,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 50,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân (tự luận) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm (thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Thi tự luận (Toàn bộ nội dung học) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 179,
+      "char_count": 691,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 55,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#010",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Đề cương học phần CHƯƠNG 1 TỔNG QUAN VỀ PHÂN TÍCH THIẾT KẾ HỆ THỐNG 1.1 Khái niệm hệ thống và hệ thống thông tin 1.2 Vòng đời phát triển hệ thống 1.3 Phương pháp phát triển hệ thống 1.4 Ngôn ngữ mô hình hóa thống nhất UML 1.5 Quy trình phát triển phần mềm | Đề cương học phần [1] Chương 1 [3] Chương 1 [4] Chương 1 [2] Chương 2 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide. - Giảng lý thuyết theo nội dung bài giảng/slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubric Sinh viên; - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.1 2.1 2.2 3.1\n2 | Seminar 1 Giới thiệu về đội ngũ phát triển hệ thống - Thảo luận trách nhiệm và yêu cầu với từng vị trí trong đội phát triển HT - Giới thiệu và làm quen với ngôn ngữ mô hình hóa thống nhất UML: một số biểu đồ thông dụng - Thảo luận về quy trình phát triển phần mềm RUP | [1] Chương 1 [2] Chương 2 | Giảng viên: - Nhắc lại một số lý thuyết - Demo giao diện visual paradigm và một số biểu đồ UML thông dụng - Nêu vấn đề và thảo luận cùng sinh viên Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành | - Điểm danh - Tham gia thảo luận - Trả lời câu hỏi | 1.1 2.1 2.2 3.1\n3 | Lecture 2 CHƯƠNG 2 KHẢO SÁT HỆ THỐNG VÀ XÂY DỰNG TÀI LIỆU TỔNG QUAN HỆ THỐNG 2.1 Mục tiêu 2.2 Phương pháp khảo sát 2.3 Xây dựng tài liệu tổng quan hệ thống 2.4 Hoạch định dự án phát triển hệ thống | [1] Chương 2 [1] Chương 3 [3] Chương 2 [2] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu các bài toán + tài liệu liên quan Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.2 2.1 2.2 2.3 3.1\n4 | Seminar 2 - Thực hành phương pháp khảo sát: Phỏng vấn - Tài liệu hóa các thông tin thu thập - Khởi tạo dự án phát triển HT | [1] Chương 2 [1] Chương 3 [3] Chương 2 [2] Chương 3 | Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn thực hành phương pháp phỏng vấn - Hướng dẫn tài liệu hóa thông tin thu được - Lấy ví dụ về khởi tạo dự án Sinh viên: - Đọc tài liệu trước - Theo dõi các bước hướng dẫn - Thực hiện phỏng vấn bạn cùng lớp - Làm bài tập theo yêu cầu cầu của giảng viên - Tham gia chữa bài | - Điểm danh - Kết quả phỏng vấn - Tham gia làm bài và chữa bài | 1.2 2.1 2.2 2.3 3.1\n5 | Lecture 3 CHƯƠNG 3 PHÂN TÍCH HỆ THỐNG HƯỚNG ĐỐI TƯỢNG - Giới thiệu về phân tích hướng đối tượng 3.1 Mô hình hóa quy trình nghiệp vụ và yêu cầu chức năng - Mục tiêu - Mô hình hóa nghiệp vụ - Mô hình hóa yêu cầu chức năng | [1] Chương 2 [1] Chương 4 [3] Chương 2 [2] Chương 3 [5] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.3 2.2 2.3 3.1\n6 | Seminar 3 - Thực hành mô hình hóa nghiệp vụ với biểu đồ hoạt động - Thực hành mô hình hóa yêu cầu chức năng với biểu đồ ca sử dụng - Tạo nhóm và hướng dẫn triển khai bài tập nhóm: thành viên + đề tài | - | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn: + Mô hình hóa nghiệp vụ với biểu đồ hoạt động + Mô hình hóa yêu cầu chức năng với biểu đồ ca sử dụng - Nêu các vấn đề cần lưu ý - Tạo nhóm và danh sách nhóm - Hướng dẫn triển khai bài tập nhóm Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập thực hành - Tham gia chữa bài - Chia nhóm và thảo luận đề tài của nhóm | - Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả mô hình hóa nghiệp vụ, mô hình hóa chức năng - Danh sách nhóm và tên đề tài dự kiến | 1.x 2.x 3.x\n7 | Lecture 4 3.2 Mô hình hóa cấu trúc hệ thống - Đối tượng và lớp - Phát hiện các lớp lĩnh vực - Phát hiện các lớp tham gia ca sử dụng 3.3 Mô hình hóa hành vi hệ thống - Mô hình hóa sự tương tác - Đổi chiếu và chỉnh sửa mô hình cấu trúc và tương tác | [1] Chương 5 [2] Chương 4 [5] Chương 5 [1] Chương 6 [2] Chương 5 [5] Chương 6 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Theo dõi bài giảng - Làm bài tập được yêu cầu | - | 1.3 2.1 2.2 2.3 3.1\n8 | Seminar 4 - Thực hành mô hình hóa cấu trúc hệ thống với: + Biểu đồ lớp lĩnh vực + Biểu đồ lớp tham gia vào ca sử dụng - Thực hành mô hình hóa hành vi/ tương tác với: + Biểu đô trình tự + Biểu đồ giao tiếp - Đối chiếu và chỉnh sửa các mô hình cấu trúc và tương tác | [1] Chương 5 [2] Chương 4 [5] Chương 5 [1] Chương 6 [2] Chương 5 [5] Chương 6 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn xây dựng: + Biểu đồ lớp + Biểu đồ lớp tham gia ca sử dụng + Biểu đồ trình tự - Điều chỉnh các mô hình - Nêu các vấn đề cần lưu ý Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả biểu đồ lớp, biểu đồ trình tự. | 1.3 2.1 2.2 2.3 3.1\n9 | Lecture 5 CHƯƠNG 4 THIẾT KẾ HỆ THỐNG HƯỚNG ĐỐI TƯỢNG - Giới thiệu về thiết kế hướng đối tượng 4.1 Thiết kế kiến trúc tổng thể - Phân rã hệ thống thành hệ thống con - Mô tả các thành phần vật lí của hệ thống - Bố trí các thành phần khả thi vào các nút phần cứng 4.2 Thiết kế giao diện người dùng - Mô tả giao diện - Làm nguyên mẫu - Nguyên tắc và quy trình thiết kế giao diện - Thiết kế đầu vào/ đầu ra | [1] Chương 7 [5] Chương 10 [1] Chương 10 [2] Chương 6 [5] Chương 8 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thiết kế kiến trúc, thiết kế giao diện - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Theo dõi bài giảng - Làm bài tập được yêu cầu | - | 1.1 2.1 3.1\n10 | Seminar 5 - Thực hành với UML + Phân rã hệ thống thành hệ thống con với biểu đồ gói + Mô tả các thành phần vật lí của hệ thống với biểu đồ thành phần + Bố trí các thành phần khả thi vào các nút phần cứng với biểu đồ triển khai - Thực hành thiết kế giao diện với figma + Thiết kế đầu vào + Thiết kế đầu ra | [1] Chương 7 [5] Chương 10 [1] Chương 10 [2] Chương 6 [5] Chương 8 | Giảng viên: - Hướng dẫn thực hành với: + Biểu đồ gói + Biểu đồ thành phần + Biểu đồ triển khai - Hướng dẫn thiết kế giao diện Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập được yêu cầu | Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả biểu đồ gói, biểu đồ thành phần, biểu đồ triển khai, giao diện hệ thống. | 1.4 2.1 2.2 3.1\n11 | Lecture 6 4.3 Thiết kế đối tượng, lớp và dữ liệu + Quy trình thiết kế + Thiết kế chi tiết từng tầng + Thiết kế cơ sở dữ liệu - Hướng dẫn bài tập nhóm | [1] Chương 11 [2] Chương 6 [5] Chương 9 | Giảng viên: - Giảng lý thuyết - Demo trên phần mềm về thiết kế chi tiết từng tầng - Hướng dẫn làm bài tập nhóm và trao đổi vấn đề gặp phải khi làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Trao đổi các vấn đề khi thực hiện bài tập nhóm - Làm bài tập được yêu cầu | - | 1.4 2.1 2.2 3.1\n12 | Seminar 6 - Chữa bài tập và thực hành về thiết kế chi tiết + Thiết kế chi tiết cho từng tầng + Thiết kế cơ sở dữ liệu với hệ quản trị cơ sở dữ liệu quan hệ - Thực hiện phân tích và thiết kế hướng đối tượng theo bài toán giảng viên giao | [1] Chương 7, 10, 11 [2] Chương 6 [5] Chương 8, 9, 10 | Giảng viên: - Tổng kết lại kiến thức - Hướng dẫn thực hành phân tích thiết kế hệ thống hướng đối tượng - Hướng dẫn cách làm và nộp bài tập nhóm Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập được yêu cầu - Triển khai bài tập nhóm | - Điểm danh - Trả lời câu hỏi - Kết quả thiết kế chi tiết cho từng tầng + cơ sở dữ liệu theo mô hình quan hệ | 1.3 1.4 2.1 2.2 3.1\n13 | Seminar 7 - Tổng kết lại kiến thức phân tích thiết kế hệ thống hướng đối tượng - Bài kiểm tra cá nhân | - | Giảng viên: - Tổng kết kiến thức phân tích hướng đối tượng: + Chức năng + Cấu trúc + Hành vi - Tổng kết kiến thức thiết kế hướng đối tượng + Kiến trúc + Giao diện + Cơ sở dữ liệu - Giới thiệu Rubic 2 - Coi kiểm tra lấy điểm 20% Sinh viên - Đọc tài liệu - Tham gia thảo luận - Làm bài kiểm tra cá nhân | - Điểm danh - Trả lời câu hỏi - Bài kiểm tra cá nhân | 1.x 2.x 3.x\n14 | Seminar 8 - Trình bày bài tập nhóm | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Giới thiệu Rubric 3 - Đặt câu hỏi cho các nhóm Sinh viên: - Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi cho các nhóm Sinh viên: - Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên giấy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3 1.4",
+      "word_count": 2158,
+      "char_count": 8962,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 10,
+        "start_block": 62,
+        "end_block": 63
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#011",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 11,
+        "start_block": 66,
+        "end_block": 67
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#012",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 12,
+        "start_block": 69,
+        "end_block": 71
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#013",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 72,
+        "end_block": 74
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#014",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 75,
+        "end_block": 81
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#015",
+      "text": "- Người học không nộp bài cá nhân/ nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 34,
+      "char_count": 150,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 15,
+        "start_block": 82,
+        "end_block": 85
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#016",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
+      "word_count": 15,
+      "char_count": 71,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 16,
+        "start_block": 87,
+        "end_block": 89
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#017",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.3 | 2.5 | - | - | 1 | 1\nCâu 2 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 3 | 1.3 | 2.5 | - | - | 1 | 1\nCâu 4 | 1.4 | 1.5 | - | - | 1 | 1\nCâu 5 | 1.4 | 1.5 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | 5 | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | - | 100% | 100%",
+      "word_count": 170,
+      "char_count": 512,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 17,
+        "start_block": 91,
+        "end_block": 98
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#018",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 166,
+      "char_count": 654,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 18,
+        "start_block": 99,
+        "end_block": 105
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#019",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+      "word_count": 183,
+      "char_count": 748,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 105,
+        "end_block": 109
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#020",
+      "text": "- \tHình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 4 câu\nMa trận đề kiểm tra (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2.0 | - | 1 | - | 1\nCâu 2 | 1.2 | 1.0 | - | 1 | - | 1\nCâu 3 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 4 | 1.3 | 3.0 | - | - | 1 | 1\nCâu 5 | 1.4 | 2.0 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | - | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | 40% | 60% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 183,
+      "char_count": 574,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 110,
+        "end_block": 117
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#021",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Phân tích thiết kế hướng đối tượng | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về phân tích thiết kế hướng đối tượng và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về phân tích thiết kế hướng đối tượng, có khả năng mô hình hóa qua các biểu đồ UML linh hoạt và chính xác | Có kiến thức cơ bản về Phân tích thiết kế hướng đối tượng nhưng cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Phân tích thiết kế hướng đối tượng cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng mô hình hóa hệ thống\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các phân tích thiết kế HT sáng tạo và đa dạng, mô hình hóa bằng ngôn ngữ ULM linh hoạt đa dạng. | Tạo ra các phân tích thiết kế HT đa dạng và độc đáo tuy không xuất sắc như ở mức độ giỏi. | Có khả năng tạo ra các phân tích thiết kế HT cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng phân tích thiết kế HT, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các biểu đồ và tài liệu phân tích thiết kế phức tạp và độc đáo, chất lượng cao. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc tạo ra các biểu đồ và tài liệu phân tích thiết kế, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 525,
+      "char_count": 2183,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 118,
+        "end_block": 118
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tPhân tích và thiết kế hệ thống\n- Tên học phần (tiếng Anh):\tSystem Analysis and Design\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1117\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Cơ sở lập trình (CNTT1128), Cơ sở dữ liệu (TIKT1130)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Trần Thị Mỹ Diệp | diepttm@neu.edu.vn\n2 | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n3 | TS. Nguyễn Ngọc Tuấn | tuannn@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nPhân tích thiết kế hệ thống là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về phân tích thiết kế hệ thống và phân tích thiết kế hướng đối tượng: Hệ thống, hệ thống thông tin, vòng đời phát triển hệ thống, đội ngũ phát triển hệ thống, phương pháp phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; Khảo sát hệ thống và xác lập dự án phát triển hệ thống; Mô hình hóa yêu cầu nghiệp vụ, yêu cầu chức năng, mô hình hóa cấu trúc và hành vi của hệ thống; Thiết kế kiến trúc, thiết kế giao diện người dùng và thiết kế lớp và dữ liệu.\nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về phát triển hệ thống theo phương pháp hướng đối tượng trong thực tế.\nNội dung chính:\n- Tổng quan về Hệ thống, phương pháp phát triển hệ thống, phân tích thiết kế hệ thống\n- Ngôn ngữ mô hình hóa thống nhất UML, quy trình phát triển phần mềm\n- Khảo sát hệ thống và xác lập dự án phát triển hệ thống\n- Phân tích chức năng\n- Phân tích cấu trúc\n- Phân tích hành vi\n- Thiết kế kiến trúc\n- Thiết kế giao diện\n- Thiết kế chi tiết lớp và cơ sở dữ liệu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1]. Dennis – Wixom – Tegarden (2020), System Analysis and Design: An Object-Oriented Approach with UML, Wiley.\n[2]. Nguyễn Văn Ba (2008), Phát triển hệ thống hướng đối tượng với UML 2.0 và C++, NXB Đại học Quốc gia HN.\n4.2. Tài liệu tham khảo\n[3]. Nguyễn Văn Ba (2006) Phân tích và thiết kế HTTT, Nhà xuất bản Đại Học Quốc Gia.\n[4]. Kenneth E. Kendall Julie E. Kendall (2020), Systems analysis and design, Pearson.\n[5]. Dennis – Wixom – Roth (2020), System Analysis and Design, John Wiley & Sons, Inc.\n4.3. Phần mềm\n[7] Visual paradigm\n[8] figma.com\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học những kiến thức tổng quan về: hệ thống, hệ thống thông tin, phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML; các nguồn khảo sát, kĩ thuật thu thập thông tin, xác định yêu cầu, mô hinh hóa yêu cầu, phân tích về chức năng với biểu đồ use case, phân tích về cấu trúc với biểu đồ lớp, phân tích về hành vi với biểu đồ trình tự; thiết kế kiến trúc hệ thống, thiết kế giao diện người dùng với figma, thiết kế chi tiết lớp và dữ liệu với hệ quản trị cơ sở dữ liệu quan hệ. Học phần giúp sinh viên hiểu kiến thức cơ bản về phân tích thiết kế hướng đối tượng và vận dụng vào phân tích thiết kế các bài toán thực tế | -\nCG2 | Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến phân tích thiết kế hệ thống và phân tích thiết kế hệ thống hướng đối tượng. Học phần giúp người học có kỹ năng phân tích thiết kế hệ thống hướng đối tượng; và rèn luyện kĩ năng này thông qua các bài toán thực tế. | -\nCG3 | Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Trình bày được các kiến thức về hệ thống, vòng đời phát triển hệ thống, phương pháp phát triển hệ thống, đội ngũ và công cụ phát triển hệ thống, quy trình phát triển phần mềm, ngôn ngữ mô hình hóa thống nhất UML | 2\nCG1 Kiến thức | CLO1.2 | Trình bày được và áp dụng các phương pháp khảo sát thu thập, tổng hợp yêu cầu, từ đó đề xuất giải pháp phát triển hệ thống và hoạch định dự án phát triển hệ thống | 3\nCG1 Kiến thức | CLO1.3 | Vận dụng được kĩ thuật phân tích hướng đối tượng: Mô hình hóa được quy trình nghiệp vụ và yêu cầu chức năng, mô hình hóa cấu trúc hệ thống qua biểu đồ lớp, mô hình hóa hành vi qua biểu trình trình tự và giao tiếp | 3\nCG1 Kiến thức | CLO1.4 | Vận dụng được kĩ thuật thiết kế hướng đối tượng: Thiết kế được kiến trúc tổng thể qua biểu đồ gói, biểu đồ thành phần và biểu đồ triển khai, Thiết kế giao diện người dùng với figma, thiết kế chi tiết các tầng. | 3\nCG2 Kỹ năng | CLO2.1 | Tìm kiếm, thu thập, tổng hợp, phân tích, trình bày vấn đề liên quan đến phân tích thiết kế hệ thống nói chung một cách thành thạo | 3\nCG2 Kỹ năng | CLO2.2 | Phối hợp để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định. | 2\nCG2 Kỹ năng | CLO2.3 | Phân tích hệ thống hướng đối tượng, thiết kế hệ thống hướng đối tượng với ngôn ngữ mô hình hóa thống nhất UML và quy trình phát triển phần mềm RUP một cách thành thạo | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 3\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân (tự luận) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm (thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Thi tự luận (Toàn bộ nội dung học) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Đề cương học phần CHƯƠNG 1 TỔNG QUAN VỀ PHÂN TÍCH THIẾT KẾ HỆ THỐNG 1.1 Khái niệm hệ thống và hệ thống thông tin 1.2 Vòng đời phát triển hệ thống 1.3 Phương pháp phát triển hệ thống 1.4 Ngôn ngữ mô hình hóa thống nhất UML 1.5 Quy trình phát triển phần mềm | Đề cương học phần [1] Chương 1 [3] Chương 1 [4] Chương 1 [2] Chương 2 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide. - Giảng lý thuyết theo nội dung bài giảng/slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubric Sinh viên; - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.1 2.1 2.2 3.1\n2 | Seminar 1 Giới thiệu về đội ngũ phát triển hệ thống - Thảo luận trách nhiệm và yêu cầu với từng vị trí trong đội phát triển HT - Giới thiệu và làm quen với ngôn ngữ mô hình hóa thống nhất UML: một số biểu đồ thông dụng - Thảo luận về quy trình phát triển phần mềm RUP | [1] Chương 1 [2] Chương 2 | Giảng viên: - Nhắc lại một số lý thuyết - Demo giao diện visual paradigm và một số biểu đồ UML thông dụng - Nêu vấn đề và thảo luận cùng sinh viên Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành | - Điểm danh - Tham gia thảo luận - Trả lời câu hỏi | 1.1 2.1 2.2 3.1\n3 | Lecture 2 CHƯƠNG 2 KHẢO SÁT HỆ THỐNG VÀ XÂY DỰNG TÀI LIỆU TỔNG QUAN HỆ THỐNG 2.1 Mục tiêu 2.2 Phương pháp khảo sát 2.3 Xây dựng tài liệu tổng quan hệ thống 2.4 Hoạch định dự án phát triển hệ thống | [1] Chương 2 [1] Chương 3 [3] Chương 2 [2] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu các bài toán + tài liệu liên quan Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.2 2.1 2.2 2.3 3.1\n4 | Seminar 2 - Thực hành phương pháp khảo sát: Phỏng vấn - Tài liệu hóa các thông tin thu thập - Khởi tạo dự án phát triển HT | [1] Chương 2 [1] Chương 3 [3] Chương 2 [2] Chương 3 | Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn thực hành phương pháp phỏng vấn - Hướng dẫn tài liệu hóa thông tin thu được - Lấy ví dụ về khởi tạo dự án Sinh viên: - Đọc tài liệu trước - Theo dõi các bước hướng dẫn - Thực hiện phỏng vấn bạn cùng lớp - Làm bài tập theo yêu cầu cầu của giảng viên - Tham gia chữa bài | - Điểm danh - Kết quả phỏng vấn - Tham gia làm bài và chữa bài | 1.2 2.1 2.2 2.3 3.1\n5 | Lecture 3 CHƯƠNG 3 PHÂN TÍCH HỆ THỐNG HƯỚNG ĐỐI TƯỢNG - Giới thiệu về phân tích hướng đối tượng 3.1 Mô hình hóa quy trình nghiệp vụ và yêu cầu chức năng - Mục tiêu - Mô hình hóa nghiệp vụ - Mô hình hóa yêu cầu chức năng | [1] Chương 2 [1] Chương 4 [3] Chương 2 [2] Chương 3 [5] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.3 2.2 2.3 3.1\n6 | Seminar 3 - Thực hành mô hình hóa nghiệp vụ với biểu đồ hoạt động - Thực hành mô hình hóa yêu cầu chức năng với biểu đồ ca sử dụng - Tạo nhóm và hướng dẫn triển khai bài tập nhóm: thành viên + đề tài | - | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn: + Mô hình hóa nghiệp vụ với biểu đồ hoạt động + Mô hình hóa yêu cầu chức năng với biểu đồ ca sử dụng - Nêu các vấn đề cần lưu ý - Tạo nhóm và danh sách nhóm - Hướng dẫn triển khai bài tập nhóm Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập thực hành - Tham gia chữa bài - Chia nhóm và thảo luận đề tài của nhóm | - Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả mô hình hóa nghiệp vụ, mô hình hóa chức năng - Danh sách nhóm và tên đề tài dự kiến | 1.x 2.x 3.x\n7 | Lecture 4 3.2 Mô hình hóa cấu trúc hệ thống - Đối tượng và lớp - Phát hiện các lớp lĩnh vực - Phát hiện các lớp tham gia ca sử dụng 3.3 Mô hình hóa hành vi hệ thống - Mô hình hóa sự tương tác - Đổi chiếu và chỉnh sửa mô hình cấu trúc và tương tác | [1] Chương 5 [2] Chương 4 [5] Chương 5 [1] Chương 6 [2] Chương 5 [5] Chương 6 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Theo dõi bài giảng - Làm bài tập được yêu cầu | - | 1.3 2.1 2.2 2.3 3.1\n8 | Seminar 4 - Thực hành mô hình hóa cấu trúc hệ thống với: + Biểu đồ lớp lĩnh vực + Biểu đồ lớp tham gia vào ca sử dụng - Thực hành mô hình hóa hành vi/ tương tác với: + Biểu đô trình tự + Biểu đồ giao tiếp - Đối chiếu và chỉnh sửa các mô hình cấu trúc và tương tác | [1] Chương 5 [2] Chương 4 [5] Chương 5 [1] Chương 6 [2] Chương 5 [5] Chương 6 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn xây dựng: + Biểu đồ lớp + Biểu đồ lớp tham gia ca sử dụng + Biểu đồ trình tự - Điều chỉnh các mô hình - Nêu các vấn đề cần lưu ý Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả biểu đồ lớp, biểu đồ trình tự. | 1.3 2.1 2.2 2.3 3.1\n9 | Lecture 5 CHƯƠNG 4 THIẾT KẾ HỆ THỐNG HƯỚNG ĐỐI TƯỢNG - Giới thiệu về thiết kế hướng đối tượng 4.1 Thiết kế kiến trúc tổng thể - Phân rã hệ thống thành hệ thống con - Mô tả các thành phần vật lí của hệ thống - Bố trí các thành phần khả thi vào các nút phần cứng 4.2 Thiết kế giao diện người dùng - Mô tả giao diện - Làm nguyên mẫu - Nguyên tắc và quy trình thiết kế giao diện - Thiết kế đầu vào/ đầu ra | [1] Chương 7 [5] Chương 10 [1] Chương 10 [2] Chương 6 [5] Chương 8 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thiết kế kiến trúc, thiết kế giao diện - Demo trên phần mềm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Theo dõi bài giảng - Làm bài tập được yêu cầu | - | 1.1 2.1 3.1\n10 | Seminar 5 - Thực hành với UML + Phân rã hệ thống thành hệ thống con với biểu đồ gói + Mô tả các thành phần vật lí của hệ thống với biểu đồ thành phần + Bố trí các thành phần khả thi vào các nút phần cứng với biểu đồ triển khai - Thực hành thiết kế giao diện với figma + Thiết kế đầu vào + Thiết kế đầu ra | [1] Chương 7 [5] Chương 10 [1] Chương 10 [2] Chương 6 [5] Chương 8 | Giảng viên: - Hướng dẫn thực hành với: + Biểu đồ gói + Biểu đồ thành phần + Biểu đồ triển khai - Hướng dẫn thiết kế giao diện Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập được yêu cầu | Điểm danh - Trả lời câu hỏi - Làm bài tập thực hành: kết quả biểu đồ gói, biểu đồ thành phần, biểu đồ triển khai, giao diện hệ thống. | 1.4 2.1 2.2 3.1\n11 | Lecture 6 4.3 Thiết kế đối tượng, lớp và dữ liệu + Quy trình thiết kế + Thiết kế chi tiết từng tầng + Thiết kế cơ sở dữ liệu - Hướng dẫn bài tập nhóm | [1] Chương 11 [2] Chương 6 [5] Chương 9 | Giảng viên: - Giảng lý thuyết - Demo trên phần mềm về thiết kế chi tiết từng tầng - Hướng dẫn làm bài tập nhóm và trao đổi vấn đề gặp phải khi làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Trao đổi các vấn đề khi thực hiện bài tập nhóm - Làm bài tập được yêu cầu | - | 1.4 2.1 2.2 3.1\n12 | Seminar 6 - Chữa bài tập và thực hành về thiết kế chi tiết + Thiết kế chi tiết cho từng tầng + Thiết kế cơ sở dữ liệu với hệ quản trị cơ sở dữ liệu quan hệ - Thực hiện phân tích và thiết kế hướng đối tượng theo bài toán giảng viên giao | [1] Chương 7, 10, 11 [2] Chương 6 [5] Chương 8, 9, 10 | Giảng viên: - Tổng kết lại kiến thức - Hướng dẫn thực hành phân tích thiết kế hệ thống hướng đối tượng - Hướng dẫn cách làm và nộp bài tập nhóm Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Làm bài tập được yêu cầu - Triển khai bài tập nhóm | - Điểm danh - Trả lời câu hỏi - Kết quả thiết kế chi tiết cho từng tầng + cơ sở dữ liệu theo mô hình quan hệ | 1.3 1.4 2.1 2.2 3.1\n13 | Seminar 7 - Tổng kết lại kiến thức phân tích thiết kế hệ thống hướng đối tượng - Bài kiểm tra cá nhân | - | Giảng viên: - Tổng kết kiến thức phân tích hướng đối tượng: + Chức năng + Cấu trúc + Hành vi - Tổng kết kiến thức thiết kế hướng đối tượng + Kiến trúc + Giao diện + Cơ sở dữ liệu - Giới thiệu Rubic 2 - Coi kiểm tra lấy điểm 20% Sinh viên - Đọc tài liệu - Tham gia thảo luận - Làm bài kiểm tra cá nhân | - Điểm danh - Trả lời câu hỏi - Bài kiểm tra cá nhân | 1.x 2.x 3.x\n14 | Seminar 8 - Trình bày bài tập nhóm | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Giới thiệu Rubric 3 - Đặt câu hỏi cho các nhóm Sinh viên: - Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi cho các nhóm Sinh viên: - Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên giấy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3 1.4\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân/ nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.3 | 2.5 | - | - | 1 | 1\nCâu 2 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 3 | 1.3 | 2.5 | - | - | 1 | 1\nCâu 4 | 1.4 | 1.5 | - | - | 1 | 1\nCâu 5 | 1.4 | 1.5 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | 5 | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | - | 100% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- \tHình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 4 câu\nMa trận đề kiểm tra (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2.0 | - | 1 | - | 1\nCâu 2 | 1.2 | 1.0 | - | 1 | - | 1\nCâu 3 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 4 | 1.3 | 3.0 | - | - | 1 | 1\nCâu 5 | 1.4 | 2.0 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | - | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | 40% | 60% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Phân tích thiết kế hướng đối tượng | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về phân tích thiết kế hướng đối tượng và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về phân tích thiết kế hướng đối tượng, có khả năng mô hình hóa qua các biểu đồ UML linh hoạt và chính xác | Có kiến thức cơ bản về Phân tích thiết kế hướng đối tượng nhưng cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Phân tích thiết kế hướng đối tượng cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng mô hình hóa hệ thống\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các phân tích thiết kế HT sáng tạo và đa dạng, mô hình hóa bằng ngôn ngữ ULM linh hoạt đa dạng. | Tạo ra các phân tích thiết kế HT đa dạng và độc đáo tuy không xuất sắc như ở mức độ giỏi. | Có khả năng tạo ra các phân tích thiết kế HT cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng phân tích thiết kế HT, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các biểu đồ và tài liệu phân tích thiết kế phức tạp và độc đáo, chất lượng cao. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc tạo ra các biểu đồ và tài liệu phân tích thiết kế, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
 }

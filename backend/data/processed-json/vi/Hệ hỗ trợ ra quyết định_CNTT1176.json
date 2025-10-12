@@ -1,160 +1,456 @@
 {
-  "id": "CNTT1176",
-  "filename": "Hệ hỗ trợ ra quyết định_CNTT1176.docx",
+  "doc_id": "vi-cntt1176",
   "language": "vi",
-  "subject_name": "He╠ú╠é ho╠é╠â tro╠¢╠ú ra quye╠é╠üt ─æi╠únh_CNTT1176",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Hệ hỗ trợ ra quyết định",
+  "course_variant": "",
+  "course_code": "CNTT1176",
+  "source_filename": "Hệ hỗ trợ ra quyết định_CNTT1176.docx",
+  "source_relpath": "data\\raw\\vi\\Hệ hỗ trợ ra quyết định_CNTT1176.docx",
+  "source_hash": "f254f46a00083f9bfbaa4de24eb1430e",
+  "source_modified": "2025-10-11T10:42:50.625947+00:00",
+  "processed_at": "2025-10-12T13:02:27.767902+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tHệ hỗ trợ ra quyết định",
-        "Tên học phần (tiếng Anh):\tDecision Support System",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1176",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Trí tuệ nhân tạo (CNTT1140)"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310 – P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực HHTRQĐ; Tổng quan về HHTRQĐ: Các khái niệm về HHTRQĐ, kiến trúc chung của HHTRQĐ, các mức công nghệ, phạm vi ứng dụng và xu hướng phát triển của HHTRQĐ; Ra quyết định và môi trường ra quyết định như: Môi trường ra quyết định, phương thức hoạt động lấy dữ liệu, tri thức ra quyết định và mô hình tác tử ra quyết định trong quản lý; Các thành phần của HHTRQĐ bao gồm: Hệ con quản trị dữ liệu, hệ con quản trị mô hình, hệ con quản trị tri thức, hệ con quản trị & tạo sinh hội thoại và người sử dụng trong HHTRQĐ; Mô hình và mô hình hóa như: Các mô hình định lượng, cơ sở mô hình & quản trị mô hình; Giao diện HHTRQĐ cho phép người sử dụng tương tác mềm dẻo giữa người và máy tính như: các thành phần và yêu cầu của giao diện người sử dụng. Các phương pháp được đưa ra là dùng menu, ngôn ngữ lệnh, hỏi & trả lời, tương tác biểu mẫu, ngôn ngữ tự nhiên, thao tác đối tượng; Các công cụ, môi trường thường được sử dụng cho giao diện là: Môi trường đồ họa, các kỹ thuật đa phương tiện, kỹ thuật siêu phương tiện, tương tác trực quan, hiện thực ảo và xử lý ngôn ngữ tự nhiên; Xây dựng HHTRQĐ như: Sử dụng bộ tạo sinh HHTRQĐ, sử dụng các công cụ chuyên dụng hoặc lập trình cho các bài toán giải quyết các tình huống đặc thù; Các giai đoạn của qúa trình phát triển HHTRQĐ; Tiếp theo là bộ tạo sinh HHTRQĐ và HHTRQĐ được phát triển bởi nhóm và cá nhân người sử dụng.",
-        "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về Hệ hỗ trợ ra quyết định bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng xây dựng hệ hỗ trợ ra quyết định cho một ứng dụng thực tế.",
-        "Nội dung chính:",
-        "- Tổng quan về hệ hỗ trợ ra quyết định",
-        "- Ra quyết định và mội trường ra quyết định",
-        "- Các thành phần cơ bản của hệ hỗ trợ ra quyết định",
-        "- Mô hình hóa và quản trị mô hình",
-        "- Giao diện hệ hỗ trợ ra quyết định",
-        "- Xây dựng hệ  hỗ trợ ra quyết định"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] Trần Đình Khang (2016), Hệ trợ giúp quyết định, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.",
-        "[2] V.Sauter (1997). Decision Support Systems. John Wiley & Sons.",
-        "4.2. Tài liệu tham khảo",
-        "[3] Efraim Turban, Jay E. Aronson, and Ting-Peng Liang (2005). Decision Support Systems and Intelligent Systems (7th Edition). Prentice Hall",
-        "[4] George M. Marakas (2003). Decision Support Systems in the 21st century (2nd edn.) Pearson Education",
-        "4.3. Phần mềm"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Tự luận trên giấy",
-        "Thời gian: 90 phút",
-        "Số câu hỏi: 5 câu",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua 9 buổi seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-        "Tương tự phụ lục 1 (Ma trận đề thi)",
-        "Rubric 3. Đánh giá bài tập nhóm",
-        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 18,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 19,
+      "level": 1,
+      "title": "PHỤ LỤC"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 21,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tHệ hỗ trợ ra quyết định \nTên học phần (tiếng Anh):\tDecision Support System\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1176\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Trí tuệ nhân tạo (CNTT1140)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 – P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tHọc phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực HHTRQĐ; Tổng quan về HHTRQĐ: Các khái niệm về HHTRQĐ, kiến trúc chung của HHTRQĐ, các mức công nghệ, phạm vi ứng dụng và xu hướng phát triển của HHTRQĐ; Ra quyết định và môi trường ra quyết định như: Môi trường ra quyết định, phương thức hoạt động lấy dữ liệu, tri thức ra quyết định và mô hình tác tử ra quyết định trong quản lý; Các thành phần của HHTRQĐ bao gồm: Hệ con quản trị dữ liệu, hệ con quản trị mô hình, hệ con quản trị tri thức, hệ con quản trị & tạo sinh hội thoại và người sử dụng trong HHTRQĐ; Mô hình và mô hình hóa như: Các mô hình định lượng, cơ sở mô hình & quản trị mô hình; Giao diện HHTRQĐ cho phép người sử dụng tương tác mềm dẻo giữa người và máy tính như: các thành phần và yêu cầu của giao diện người sử dụng. Các phương pháp được đưa ra là dùng menu, ngôn ngữ lệnh, hỏi & trả lời, tương tác biểu mẫu, ngôn ngữ tự nhiên, thao tác đối tượng; Các công cụ, môi trường thường được sử dụng cho giao diện là: Môi trường đồ họa, các kỹ thuật đa phương tiện, kỹ thuật siêu phương tiện, tương tác trực quan, hiện thực ảo và xử lý ngôn ngữ tự nhiên; Xây dựng HHTRQĐ như: Sử dụng bộ tạo sinh HHTRQĐ, sử dụng các công cụ chuyên dụng hoặc lập trình cho các bài toán giải quyết các tình huống đặc thù; Các giai đoạn của qúa trình phát triển HHTRQĐ; Tiếp theo là bộ tạo sinh HHTRQĐ và HHTRQĐ được phát triển bởi nhóm và cá nhân người sử dụng.\n\tHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về Hệ hỗ trợ ra quyết định bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng xây dựng hệ hỗ trợ ra quyết định cho một ứng dụng thực tế.\nNội dung chính:\n\t- Tổng quan về hệ hỗ trợ ra quyết định\n\t- Ra quyết định và mội trường ra quyết định\n\t- Các thành phần cơ bản của hệ hỗ trợ ra quyết định\n\t- Mô hình hóa và quản trị mô hình\n\t- Giao diện hệ hỗ trợ ra quyết định\n\t- Xây dựng hệ  hỗ trợ ra quyết định\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Trần Đình Khang (2016), Hệ trợ giúp quyết định, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.\n[2] V.Sauter (1997). Decision Support Systems. John Wiley & Sons.\n4.2. Tài liệu tham khảo\n[3] Efraim Turban, Jay E. Aronson, and Ting-Peng Liang (2005). Decision Support Systems and Intelligent Systems (7th Edition). Prentice Hall\n[4] George M. Marakas (2003). Decision Support Systems in the 21st century (2nd edn.) Pearson Education\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 90 phút\nSố câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nTương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-  "created_at": "2025-10-03T00:04:21.190692",
-  "source_file": "backend\\data\\raw\\vi\\Hệ hỗ trợ ra quyết định_CNTT1176.docx",
-  "content_length": 5801
+  "stats": {
+    "paragraphs": 63,
+    "headings": 21,
+    "tables": 11,
+    "chunks": 20,
+    "words": 4104
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1176#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 55,
+      "char_count": 289,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#002",
+      "text": "- Tên học phần (tiếng Việt): \tHệ hỗ trợ ra quyết định\n- Tên học phần (tiếng Anh):\tDecision Support System\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1176\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Trí tuệ nhân tạo (CNTT1140)",
+      "word_count": 83,
+      "char_count": 385,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 – P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Minh Hoàn | hoanpm@neu.edu.vn\n2 | TS. Lưu Minh Tuấn | tuanlm@neu.edu.vn",
+      "word_count": 62,
+      "char_count": 294,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#004",
+      "text": "Học phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực HHTRQĐ; Tổng quan về HHTRQĐ: Các khái niệm về HHTRQĐ, kiến trúc chung của HHTRQĐ, các mức công nghệ, phạm vi ứng dụng và xu hướng phát triển của HHTRQĐ; Ra quyết định và môi trường ra quyết định như: Môi trường ra quyết định, phương thức hoạt động lấy dữ liệu, tri thức ra quyết định và mô hình tác tử ra quyết định trong quản lý; Các thành phần của HHTRQĐ bao gồm: Hệ con quản trị dữ liệu, hệ con quản trị mô hình, hệ con quản trị tri thức, hệ con quản trị & tạo sinh hội thoại và người sử dụng trong HHTRQĐ; Mô hình và mô hình hóa như: Các mô hình định lượng, cơ sở mô hình & quản trị mô hình; Giao diện HHTRQĐ cho phép người sử dụng tương tác mềm dẻo giữa người và máy tính như: các thành phần và yêu cầu của giao diện người sử dụng. Các phương pháp được đưa ra là dùng menu, ngôn ngữ lệnh, hỏi & trả lời, tương tác biểu mẫu, ngôn ngữ tự nhiên, thao tác đối tượng; Các công cụ, môi trường thường được sử dụng cho giao diện là: Môi trường đồ họa, các kỹ thuật đa phương tiện, kỹ thuật siêu phương tiện, tương tác trực quan, hiện thực ảo và xử lý ngôn ngữ tự nhiên; Xây dựng HHTRQĐ như: Sử dụng bộ tạo sinh HHTRQĐ, sử dụng các công cụ chuyên dụng hoặc lập trình cho các bài toán giải quyết các tình huống đặc thù; Các giai đoạn của qúa trình phát triển HHTRQĐ; Tiếp theo là bộ tạo sinh HHTRQĐ và HHTRQĐ được phát triển bởi nhóm và cá nhân người sử dụng.",
+      "word_count": 307,
+      "char_count": 1435,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#005",
+      "text": "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về Hệ hỗ trợ ra quyết định bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng xây dựng hệ hỗ trợ ra quyết định cho một ứng dụng thực tế.\nNội dung chính:\n- Tổng quan về hệ hỗ trợ ra quyết định\n- Ra quyết định và mội trường ra quyết định\n- Các thành phần cơ bản của hệ hỗ trợ ra quyết định\n- Mô hình hóa và quản trị mô hình\n- Giao diện hệ hỗ trợ ra quyết định\n- Xây dựng hệ  hỗ trợ ra quyết định",
+      "word_count": 117,
+      "char_count": 491,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 25,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#006",
+      "text": "4.1. Giáo trình\n[1] Trần Đình Khang (2016), Hệ trợ giúp quyết định, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.\n[2] V.Sauter (1997). Decision Support Systems. John Wiley & Sons.\n4.2. Tài liệu tham khảo\n[3] Efraim Turban, Jay E. Aronson, and Ting-Peng Liang (2005). Decision Support Systems and Intelligent Systems (7th Edition). Prentice Hall\n[4] George M. Marakas (2003). Decision Support Systems in the 21st century (2nd edn.) Pearson Education\n4.3. Phần mềm",
+      "word_count": 77,
+      "char_count": 462,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 35,
+        "end_block": 44
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp những kiến thức cơ bản và chuyên sâu trong lĩnh vực HHTRQĐ như: Ra quyết định và môi trường ra quyết định, các thành phần của HHTRQĐ, mô hình & mô hình hóa, giao diện HHTRQĐ và xây dựng HHTRQĐ. Những kiến thức này sẽ giúp cho sinh viên có được nền tảng cần thiết để đi sâu và có thể giải quyết các vấn đề liên quan trong thực tế. | -\nCG2 | Học phần đào tạo người học kỹ năng nghiên cứu, phân tích, tổng hợp, giải quyết và đánh giá các bài toán thực tế. | -\nCG3 | Học phần tăng cường cho người học khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
+      "word_count": 171,
+      "char_count": 746,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 45,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 | CLO1.1 | Vận dụng thích hợp kiến thức cơ bản và chuyên sâu về ra quyết đinh, môi trường ra quyết định, hệ hỗ trợ ra quyết định. Thiết kế kiến trúc của hệ hỗ trợ ra quyết định. | 3\nCG1 | CLO1.2 | Mô hình hóa và quản trị mô hình hệ hỗ trợ ra quyết định. | 3\nCG1 | CLO1.3 | Thiết kế giao diện và xây dựng hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.1 | Thực hiện thành thạo phân tích, thiết kế và xây dựng hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.2 | Thực hiện thành thạo mô hình hóa và thiết kế mô hình cho hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.3 | Xây dựng hệ hỗ trợ ra quyết định. | 3\nCG3 | CLO3.1 | Tuân thủ tự học tập, tự tìm hiểu tài liệu hoặc làm việ theo nhóm để hoàn thành các bài học và bài tập được giao. | 2\nCG3 | CLO3.2 | Tuân theo kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 2",
+      "word_count": 242,
+      "char_count": 988,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 50,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 176,
+      "char_count": 664,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 56,
+        "end_block": 60
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#010",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1. Tổng quan về hệ hỗ trợ ra quyết đinh 1.1. Lược sử các hệ thống thông tin 1.2. Hệ hỗ trợ ra quyết định | [1] Chương 1 [2] Chương 1 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung bài giảng/slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Sinh viên; - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n2 | Lecture 2 Chương 2. Ra quyết định và môi trường ra quyết định 2.1. Môi trường ra quyết định 2.2. Phương thức hoạt động lấy dữ liệu, tri thức ra quyết định | [1] Chương 2 [2] Chương 2 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n3 | Seminar 1 Phân tích môi trường hệ hỗ trợ ra quyết định Phương thức hoạt động lấy dữ liệu, tri thức ra quyết định. | [1] Chương 2 [2] Chương 2 | Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | 1.x 2.x 3.x\n4 | Lecture 3 Chương 3. Các thành phần cơ bản của hệ hỗ trợ ra quyết định 3.1. Hệ con quản trị dữ liệu 3.2. Hệ con quản trị mô hình 3.3. Hệ con quản trị tri thức 3.4. Hệ con quản trị và tạo sinh hội thoại 3.5. Người sử dụng trong HHTRQĐ | [2] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n5 | Seminar 2 Cấu trúc của hệ hỗ trợ ra quyết định | [2] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | 1.x 2.x 3.x\n6 | Lecture 4 Chương 4. Mô hình hóa và quản trị mô hình 4.1. Khái niệm mô hình 4.2. Các mô hình định lượng 4.3. Cơ sở mô hình và quản trị mô hình | [1] Chương 3 [2] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n7 | Seminar 3 Mô hình định lượng | [1] Chương 3 [2] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n8 | Seminar 4 Cơ sở mô hình và quản trinh mô hình | [1] Chương 3 [2] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n9 | Lecture 5 Chương 5. Giao diện hệ hỗ trợ ra quyết định 5.1. Tổng quản về giao diện người sử dụng 5.2. Các phương pháp 5.3. Công cụ và môi trường | [1] Chương 4 [2] Chương 5 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n10 | Seminar 5 Xây dựng giao diện hệ hỗ trợ ra quyết định | [1] Chương 4 [2] Chương 5 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 5 | 1.x 2.x 3.x\n11 | Lecture 6 Chương 6. Xây dựng hệ hỗ trợ ra quyết định 6.1. Các quan điểm và chiến lược phát triển hệ thống 6.2. Phương pháp xây dựng hệ thống 6.3. Quá trình thiết kế hệ thống 6.4. Quá trình phát triển hệ thống 6.5. Bộ sinh hệ thống 6.6. Hệ thống phát triển bởi nhóm và cá nhân | [1] Chương 5 [2] Chương 6 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n12 | Seminar 6 Xây dựng hệ hỗ trợ ra quyết định - Thiết kế mô hình - Xây dựng hệ con quản trị cơ sở dữ liệu - Xây dựng hệ con quản trị tri thức - Xây dựng hệ con quản trị và tạo sinh hội thoại | [1] Chương 5 [2] Chương 6 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 6 | 1.x 2.x 3.x\n13 | Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%) | - | Giảng viên: - Tổng kết lại kiến thức - Cung cấp bài kiểm tra - Hướng dẫn cách làm/nộp bài Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Tham gia làm bài kiểm tra | - Điểm danh - Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 - Trình bày bài tập nhóm (20%) | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi Sinh viên: - Trình bày bài tập nhóm - Trả lời câu hỏi liên quan | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm thi cuối kỳ | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi Sinh viên: - Trình bày bài tập nhóm - Trả lời các câu hỏi liên quan | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên giấy | Phụ lục 1: Ma trận đề thi | -",
+      "word_count": 1376,
+      "char_count": 5703,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 10,
+        "start_block": 64,
+        "end_block": 66
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#011",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 11,
+        "start_block": 69,
+        "end_block": 70
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#012",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 12,
+        "start_block": 72,
+        "end_block": 74
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#013",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 75,
+        "end_block": 77
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#014",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 78,
+        "end_block": 84
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#015",
+      "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 35,
+      "char_count": 151,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 15,
+        "start_block": 85,
+        "end_block": 88
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#016",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
+      "word_count": 15,
+      "char_count": 70,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 16,
+        "start_block": 90,
+        "end_block": 92
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#017",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | - | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 1.2 | - | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 3 | 1.2 1.3 | - | - | - | - | -\na. | 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 4 | 1.2 1.3 | - | - | - | - | -\na. | 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.3 | - | - | - | - | -\na. | 1.3 | 1 | - | 1 | - | 1\nb. | 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | - | 5 | 5 | 10\nTổng số điểm | - | 10 | - | 5 | 5 | -\nTỷ trọng | - | 100% | - | 50% | 50% | 100%",
+      "word_count": 312,
+      "char_count": 843,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 17,
+        "start_block": 94,
+        "end_block": 99
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#018",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 166,
+      "char_count": 654,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 18,
+        "start_block": 102,
+        "end_block": 108
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#019",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+      "word_count": 183,
+      "char_count": 748,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 108,
+        "end_block": 111
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#020",
+      "text": "- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ hỗ trợ ra quyết định | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Hệ hỗ trợ ra quyết định và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Hệ hỗ trợ ra quyết định, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 516,
+      "char_count": 2144,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 112,
+        "end_block": 116
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tHệ hỗ trợ ra quyết định\n- Tên học phần (tiếng Anh):\tDecision Support System\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1176\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Trí tuệ nhân tạo (CNTT1140)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 – P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Minh Hoàn | hoanpm@neu.edu.vn\n2 | TS. Lưu Minh Tuấn | tuanlm@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần trang bị cho sinh viên những kiến thức cơ bản và chuyên sâu về lĩnh vực HHTRQĐ; Tổng quan về HHTRQĐ: Các khái niệm về HHTRQĐ, kiến trúc chung của HHTRQĐ, các mức công nghệ, phạm vi ứng dụng và xu hướng phát triển của HHTRQĐ; Ra quyết định và môi trường ra quyết định như: Môi trường ra quyết định, phương thức hoạt động lấy dữ liệu, tri thức ra quyết định và mô hình tác tử ra quyết định trong quản lý; Các thành phần của HHTRQĐ bao gồm: Hệ con quản trị dữ liệu, hệ con quản trị mô hình, hệ con quản trị tri thức, hệ con quản trị & tạo sinh hội thoại và người sử dụng trong HHTRQĐ; Mô hình và mô hình hóa như: Các mô hình định lượng, cơ sở mô hình & quản trị mô hình; Giao diện HHTRQĐ cho phép người sử dụng tương tác mềm dẻo giữa người và máy tính như: các thành phần và yêu cầu của giao diện người sử dụng. Các phương pháp được đưa ra là dùng menu, ngôn ngữ lệnh, hỏi & trả lời, tương tác biểu mẫu, ngôn ngữ tự nhiên, thao tác đối tượng; Các công cụ, môi trường thường được sử dụng cho giao diện là: Môi trường đồ họa, các kỹ thuật đa phương tiện, kỹ thuật siêu phương tiện, tương tác trực quan, hiện thực ảo và xử lý ngôn ngữ tự nhiên; Xây dựng HHTRQĐ như: Sử dụng bộ tạo sinh HHTRQĐ, sử dụng các công cụ chuyên dụng hoặc lập trình cho các bài toán giải quyết các tình huống đặc thù; Các giai đoạn của qúa trình phát triển HHTRQĐ; Tiếp theo là bộ tạo sinh HHTRQĐ và HHTRQĐ được phát triển bởi nhóm và cá nhân người sử dụng.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về Hệ hỗ trợ ra quyết định bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng xây dựng hệ hỗ trợ ra quyết định cho một ứng dụng thực tế.\nNội dung chính:\n- Tổng quan về hệ hỗ trợ ra quyết định\n- Ra quyết định và mội trường ra quyết định\n- Các thành phần cơ bản của hệ hỗ trợ ra quyết định\n- Mô hình hóa và quản trị mô hình\n- Giao diện hệ hỗ trợ ra quyết định\n- Xây dựng hệ  hỗ trợ ra quyết định\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Trần Đình Khang (2016), Hệ trợ giúp quyết định, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.\n[2] V.Sauter (1997). Decision Support Systems. John Wiley & Sons.\n4.2. Tài liệu tham khảo\n[3] Efraim Turban, Jay E. Aronson, and Ting-Peng Liang (2005). Decision Support Systems and Intelligent Systems (7th Edition). Prentice Hall\n[4] George M. Marakas (2003). Decision Support Systems in the 21st century (2nd edn.) Pearson Education\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp những kiến thức cơ bản và chuyên sâu trong lĩnh vực HHTRQĐ như: Ra quyết định và môi trường ra quyết định, các thành phần của HHTRQĐ, mô hình & mô hình hóa, giao diện HHTRQĐ và xây dựng HHTRQĐ. Những kiến thức này sẽ giúp cho sinh viên có được nền tảng cần thiết để đi sâu và có thể giải quyết các vấn đề liên quan trong thực tế. | -\nCG2 | Học phần đào tạo người học kỹ năng nghiên cứu, phân tích, tổng hợp, giải quyết và đánh giá các bài toán thực tế. | -\nCG3 | Học phần tăng cường cho người học khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 | CLO1.1 | Vận dụng thích hợp kiến thức cơ bản và chuyên sâu về ra quyết đinh, môi trường ra quyết định, hệ hỗ trợ ra quyết định. Thiết kế kiến trúc của hệ hỗ trợ ra quyết định. | 3\nCG1 | CLO1.2 | Mô hình hóa và quản trị mô hình hệ hỗ trợ ra quyết định. | 3\nCG1 | CLO1.3 | Thiết kế giao diện và xây dựng hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.1 | Thực hiện thành thạo phân tích, thiết kế và xây dựng hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.2 | Thực hiện thành thạo mô hình hóa và thiết kế mô hình cho hệ hỗ trợ ra quyết định. | 3\nCG2 | CLO2.3 | Xây dựng hệ hỗ trợ ra quyết định. | 3\nCG3 | CLO3.1 | Tuân thủ tự học tập, tự tìm hiểu tài liệu hoặc làm việ theo nhóm để hoàn thành các bài học và bài tập được giao. | 2\nCG3 | CLO3.2 | Tuân theo kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 2\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1. Tổng quan về hệ hỗ trợ ra quyết đinh 1.1. Lược sử các hệ thống thông tin 1.2. Hệ hỗ trợ ra quyết định | [1] Chương 1 [2] Chương 1 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung bài giảng/slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Sinh viên; - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n2 | Lecture 2 Chương 2. Ra quyết định và môi trường ra quyết định 2.1. Môi trường ra quyết định 2.2. Phương thức hoạt động lấy dữ liệu, tri thức ra quyết định | [1] Chương 2 [2] Chương 2 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n3 | Seminar 1 Phân tích môi trường hệ hỗ trợ ra quyết định Phương thức hoạt động lấy dữ liệu, tri thức ra quyết định. | [1] Chương 2 [2] Chương 2 | Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | 1.x 2.x 3.x\n4 | Lecture 3 Chương 3. Các thành phần cơ bản của hệ hỗ trợ ra quyết định 3.1. Hệ con quản trị dữ liệu 3.2. Hệ con quản trị mô hình 3.3. Hệ con quản trị tri thức 3.4. Hệ con quản trị và tạo sinh hội thoại 3.5. Người sử dụng trong HHTRQĐ | [2] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n5 | Seminar 2 Cấu trúc của hệ hỗ trợ ra quyết định | [2] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | 1.x 2.x 3.x\n6 | Lecture 4 Chương 4. Mô hình hóa và quản trị mô hình 4.1. Khái niệm mô hình 4.2. Các mô hình định lượng 4.3. Cơ sở mô hình và quản trị mô hình | [1] Chương 3 [2] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n7 | Seminar 3 Mô hình định lượng | [1] Chương 3 [2] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n8 | Seminar 4 Cơ sở mô hình và quản trinh mô hình | [1] Chương 3 [2] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n9 | Lecture 5 Chương 5. Giao diện hệ hỗ trợ ra quyết định 5.1. Tổng quản về giao diện người sử dụng 5.2. Các phương pháp 5.3. Công cụ và môi trường | [1] Chương 4 [2] Chương 5 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n10 | Seminar 5 Xây dựng giao diện hệ hỗ trợ ra quyết định | [1] Chương 4 [2] Chương 5 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 5 | 1.x 2.x 3.x\n11 | Lecture 6 Chương 6. Xây dựng hệ hỗ trợ ra quyết định 6.1. Các quan điểm và chiến lược phát triển hệ thống 6.2. Phương pháp xây dựng hệ thống 6.3. Quá trình thiết kế hệ thống 6.4. Quá trình phát triển hệ thống 6.5. Bộ sinh hệ thống 6.6. Hệ thống phát triển bởi nhóm và cá nhân | [1] Chương 5 [2] Chương 6 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.x 2.x 3.x\n12 | Seminar 6 Xây dựng hệ hỗ trợ ra quyết định - Thiết kế mô hình - Xây dựng hệ con quản trị cơ sở dữ liệu - Xây dựng hệ con quản trị tri thức - Xây dựng hệ con quản trị và tạo sinh hội thoại | [1] Chương 5 [2] Chương 6 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 6 | 1.x 2.x 3.x\n13 | Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%) | - | Giảng viên: - Tổng kết lại kiến thức - Cung cấp bài kiểm tra - Hướng dẫn cách làm/nộp bài Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Tham gia làm bài kiểm tra | - Điểm danh - Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 - Trình bày bài tập nhóm (20%) | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi Sinh viên: - Trình bày bài tập nhóm - Trả lời câu hỏi liên quan | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm thi cuối kỳ | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm - Đặt câu hỏi Sinh viên: - Trình bày bài tập nhóm - Trả lời các câu hỏi liên quan | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên giấy | Phụ lục 1: Ma trận đề thi | -\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | - | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 1.2 | - | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 3 | 1.2 1.3 | - | - | - | - | -\na. | 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 4 | 1.2 1.3 | - | - | - | - | -\na. | 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.3 | - | - | - | - | -\na. | 1.3 | 1 | - | 1 | - | 1\nb. | 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | - | 5 | 5 | 10\nTổng số điểm | - | 10 | - | 5 | 5 | -\nTỷ trọng | - | 100% | - | 50% | 50% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ hỗ trợ ra quyết định | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Hệ hỗ trợ ra quyết định và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Hệ hỗ trợ ra quyết định, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
 }

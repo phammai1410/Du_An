@@ -1,164 +1,490 @@
 {
-  "id": "CNTT1165",
-  "filename": "Thiết kế WEB_CNTT1165.docx",
+  "doc_id": "vi-cntt1165",
   "language": "vi",
-  "subject_name": "Thie╠é╠üt ke╠é╠ü WEB_CNTT1165",
-  "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Thiết kế WEB",
+  "course_variant": "",
+  "course_code": "CNTT1165",
+  "source_filename": "Thiết kế WEB_CNTT1165.docx",
+  "source_relpath": "data\\raw\\vi\\Thiết kế WEB_CNTT1165.docx",
+  "source_hash": "1604e3288cfbb9098cf2e08b423fd01a",
+  "source_modified": "2025-10-11T10:42:50.654112+00:00",
+  "processed_at": "2025-10-12T13:02:31.948597+00:00",
+  "outline": [
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tThiết kế Web",
-        "Tên học phần (tiếng Anh):\tWeb Design",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1165",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết: Cơ sở lập trình"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web.",
-        "Đồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.",
-        ".",
-        "Nội dung chính:",
-        "Tổng quan về thiết kế và lập trình Web",
-        "Ngôn ngữ đánh dấu siêu văn bản HTML",
-        "Định dạng phong cách Web với CSS",
-        "Thiết kế bố cục Web và Web đáp ứng",
-        "Ngôn ngữ Javascript",
-        "Sử dụng CSS Framework, Javascript Framework"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.",
-        "[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.",
-        "Tài liệu khác",
-        "[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)",
-        "4.3. Phần mềm",
-        "[4] Visual Studio Code",
-        "[5] Figma"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Tự luận trên máy",
-        "Thời gian: 75 phút",
-        "Số câu hỏi: 5 câu. Mỗi câu 2 điểm",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua 9 buổi seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-        "Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
-        "Rubric 3. Đánh giá bài tập nhóm",
-        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-        "Sinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:",
-        "Thiết kế trang web bán hàng trực tuyến",
-        "Thiết kế trang web tin tức hoặc blog",
-        "Thiết kế trang web về âm nhạc",
-        "Thiết kế trang web cho phim ảnh và giải trí",
-        "Thiết kế trang web về du lịch",
-        "Thiết kế trang web giáo dục",
-        "Thiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế",
-        "…",
-        "Bên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
+    },
+    {
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 18,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 19,
+      "level": 1,
+      "title": "PHỤ LỤC"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 21,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tThiết kế Web \nTên học phần (tiếng Anh):\tWeb Design\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1165\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Cơ sở lập trình\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web. \nĐồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.\n.\nNội dung chính:\nTổng quan về thiết kế và lập trình Web\nNgôn ngữ đánh dấu siêu văn bản HTML\nĐịnh dạng phong cách Web với CSS\nThiết kế bố cục Web và Web đáp ứng\nNgôn ngữ Javascript\nSử dụng CSS Framework, Javascript Framework\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.\n[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.\nTài liệu khác\n[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)\n4.3. Phần mềm\n[4] Visual Studio Code\n[5] Figma\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên máy\nThời gian: 75 phút\nSố câu hỏi: 5 câu. Mỗi câu 2 điểm\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:\nThiết kế trang web bán hàng trực tuyến\nThiết kế trang web tin tức hoặc blog\nThiết kế trang web về âm nhạc\nThiết kế trang web cho phim ảnh và giải trí\nThiết kế trang web về du lịch\nThiết kế trang web giáo dục\nThiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế\n…\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
-  "created_at": "2025-10-03T00:04:23.538927",
-  "source_file": "backend\\data\\raw\\vi\\Thiết kế WEB_CNTT1165.docx",
-  "content_length": 5324
+  "stats": {
+    "paragraphs": 72,
+    "headings": 21,
+    "tables": 12,
+    "chunks": 22,
+    "words": 4598
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1165#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus) | ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024) | (Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)",
+      "word_count": 80,
+      "char_count": 377,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#002",
+      "text": "- Tên học phần (tiếng Việt): \tThiết kế Web\n- Tên học phần (tiếng Anh):\tWeb Design\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1165\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Cơ sở lập trình",
+      "word_count": 71,
+      "char_count": 308,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 13
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Xuân Lâm | lampx@neu.edu.vn\n2 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn",
+      "word_count": 63,
+      "char_count": 298,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 14,
+        "end_block": 19
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#004",
+      "text": "Học phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web.\nĐồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.",
+      "word_count": 205,
+      "char_count": 921,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 20,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#005",
+      "text": ".\nNội dung chính:\n- Tổng quan về thiết kế và lập trình Web\n- Ngôn ngữ đánh dấu siêu văn bản HTML\n- Định dạng phong cách Web với CSS\n- Thiết kế bố cục Web và Web đáp ứng\n- Ngôn ngữ Javascript\n- Sử dụng CSS Framework, Javascript Framework",
+      "word_count": 52,
+      "char_count": 236,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 22,
+        "end_block": 30
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#006",
+      "text": "4.1. Giáo trình\n[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.\n[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.\nTài liệu khác\n[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)\n4.3. Phần mềm\n[4] Visual Studio Code\n[5] Figma",
+      "word_count": 52,
+      "char_count": 321,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 31,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp các kiến thức chuyên sâu về: Ngôn ngữ siêu văn bản đánh dấu - HTML; Định dạng HTML với CSS; Ngôn ngữ lập trình JavaScript. | -\nCG2 | Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp về thiết kế Web. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
+      "word_count": 122,
+      "char_count": 516,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 40,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Trình bày được được cách thức hoạt động của mạng máy tính, các giao thức mạng, kiến trúc Client-Server và Website. Mô tả được các công nghệ Web, phân loại được các loại ứng dụng Web. | 2\nCG1 Kiến thức | CLO1.2 | Áp dụng thành thạo các kỹ thuật để thiết kế được giao diện Web có đáp ứng với công cụ HTML và CSS. | 3\nCG1 Kiến thức | CLO1.3 | Áp dụng thành thạo các kỹ thuật với Javascript để xây dựng ứng dụng Web hoàn chỉnh. | 3\nCG2 Kỹ năng | CLO2.1 | Thi hành được các đoạn mã lệnh và bài tập giáo viên thực hiện trên lớp. | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến thiết kế Web. | 3\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2",
+      "word_count": 315,
+      "char_count": 1366,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 44,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% (trắc nghiệm) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% (nghiên cứu, thiết kế Web, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (lập trình trên máy tính) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 190,
+      "char_count": 745,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 48,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#010",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | L[2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1: Tổng quan về thiết kế Web và lập trình Web 1.1. Ứng dụng Web 1.2. Thiết kế Web tĩnh 1.3. HTML, CSS, Javascript 1.4. Lập trình Web động 1.5. Các vấn đề khi thiết kế Web 1.6. Công cụ phát triển Web | [1] Chương 1 | Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết | - | 1.1 1.2\n2 | Seminar 1 Câu hỏi lý thuyết về chương 1 Thực hành: sử dụng Chrome DevTools và và hiểu các tính năng cơ bản của nó như Elements, Console, Sources, và Network | [1] Chương 1 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành | 1.1 1.2 2.2 3.1\n3 | Lecture 2 Chương 2. Ngôn ngữ đánh dấu văn bản HTML 2.1. Giới thiệu HTML 2.2. Cấu trúc của một tài liệu HTML 2.3. Các thẻ HTML cơ bản 2.4. Các thẻ HTML nâng cao | [1] Chương 1,2,3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.1 1.2\n4 | Seminar 2 Câu hỏi lý thuyết chương 2 Thực hành: Tạo web với các thẻ HTML cơ bản Tạo web với các thẻ HTML nâng cao Tạo form | [1] Chương 1,2,3 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành | 1.1 1.2 2.1 2.2 3.1 3.2\n5 | Lecture 3 Chương 3. Định dạng phong cách Web với CSS 3.1. Giới thiệu CSS 3.2. Các quy tắc CSS 3.3. Các Selector 3.4. Các thuộc tính CSS cơ bản | [1] Chương 4,5,7, 9-14 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2\n6 | Seminar 3 Câu hỏi lý thuyết chương 3. Thực hành: Sử dụng các thuộc tính CSS phổ biến cho Web. Thuộc tính CSS cho các phần tử đặc biệt. | [2] Chương 4,5,7, 9-14 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành | 1.1 1.2 2.1 2.2 3.1 3.2\n7 | Lecture 4 Chương 4: Thiết kế bố cục Web và Web đáp ứng 4.1. Sử dụng Float 4.2. Sử dụng Grid 4.3. Sử dụng Flexbox 4.4. Sử dụng Framework | [1] Chương 6,8 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2\n8 | Seminar 4 Câu hỏi lý thuyết chương 4 Thực hành: Thiết kế bố cục Web và Web đáp ứng sử dụng Float, Grid, Flexbox | [1] Chương 6,8 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.1 3.2\n9 | Lecture 5 Chương 5: Ngôn ngữ Javascript 5.1. Căn bản về Javascript 5.2. Cú pháp lập trình 5.3. Javascript căn bản 5.4. Lập trình hướng đối tượng 5.5. Lập trình với HTML DOM 5.6. Lập trình với JSON 5.7. Lập trình AJAX | [1] Chương 15 [2] Chương 10,16 [3] Chương 6 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2 1.3\n10 | Seminar 5 Câu hỏi lý thuyết chương 5 Thực hành: Lập trình với HTML DOM Lập trình với JSON Viết mã JS để xác thực các trường thông tin trên form trước khi submit. | [1] Chương 15 [2] Chương 10,16 [3] Chương 6 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.2\n11 | Lecture 6 Chương 6. Các công cụ hỗ trợ 6.1. Emmet 6.2. Github 6.3. Bootstrap 6.4 jQuery 6.5 Sass | [2] Chương 18 [3] Chương 7,8 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2 1.3\n12 | Seminar 6 Câu hỏi lý thuyết chương 6 Thực hành: Sử dụng các công cụ đã được giới thiệu | [2] Chương 18 [3] Chương 7,8 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.1 3.2\n13 | Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân | - | Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân | Điểm danh Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 Trình bày bài tập nhóm | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài thi cuối kỳ | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3",
+      "word_count": 1388,
+      "char_count": 6186,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 10,
+        "start_block": 55,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#011",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 11,
+        "start_block": 61,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#012",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 12,
+        "start_block": 64,
+        "end_block": 66
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#013",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 67,
+        "end_block": 69
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#014",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 70,
+        "end_block": 76
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#015",
+      "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 35,
+      "char_count": 151,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 15,
+        "start_block": 77,
+        "end_block": 80
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#016",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
+      "word_count": 15,
+      "char_count": 71,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 16,
+        "start_block": 82,
+        "end_block": 84
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#017",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên máy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu. Mỗi câu 2 điểm\n- Ma trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 4 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 5 | 5 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 329,
+      "char_count": 909,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 17,
+        "start_block": 86,
+        "end_block": 91
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#018",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 166,
+      "char_count": 654,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 18,
+        "start_block": 94,
+        "end_block": 100
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#019",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+      "word_count": 203,
+      "char_count": 875,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 100,
+        "end_block": 103
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#020",
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1, 1.2 | 3 | 3 | 2 | 8\nLecture 2 | 1.1, 1.2 | 2 | 4 | 2 | 8\nLecture 3 | 1.1, 1.2 | 3 | 4 | 3 | 10\nLecture 4 | 1.1, 1.2 | 2 | 3 | 3 | 8\nLecture 5 | 1.1, 1.2, 1.3 | 3 | 4 | 3 | 10\nLecture 6 | 1.1, 1.2, 1.3 | 2 | 2 | 2 | 6\nTổng số câu hỏi | - | 15 | 20 | 15 | 50\nTỷ trọng | - | 30% | 50% | 30% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:\n- Thiết kế trang web bán hàng trực tuyến\n- Thiết kế trang web tin tức hoặc blog\n- Thiết kế trang web về âm nhạc",
+      "word_count": 182,
+      "char_count": 632,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 104,
+        "end_block": 111
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#021",
+      "text": "- Thiết kế trang web cho phim ảnh và giải trí\n- Thiết kế trang web về du lịch\n- Thiết kế trang web giáo dục\n- Thiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế\n- …\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
+      "word_count": 84,
+      "char_count": 361,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 112,
+        "end_block": 119
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1165#022",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nThiết kế và giao diện | 1.x 2.x 3.x | 20% | Tthiết kế một giao diện đẹp, chuyên nghiệp và hiện đại, phản ánh được mục đích và nội dung của website. | Thiết kế một giao diện trực quan, dễ sử dụng và phù hợp với mục tiêu của website. | Thiết kế một giao diện đơn giản, không rõ ràng hoặc không phản ánh được mục đích của website. | Giao diện không phù hợp hoặc không hấp dẫn.\nChức năng và tương tác | 1.x 2.x 3.x | 15% | Tích hợp các chức năng và tương tác động mạnh mẽ và linh hoạt, cung cấp trải nghiệm người dùng tốt. | Tích hợp các chức năng và tương tác cơ bản, đảm bảo website hoạt động một cách đáng tin cậy. | Tích hợp các chức năng và tương tác hạn chế, không đảm bảo trải nghiệm người dùng tốt. | Không tích hợp các chức năng và tương tác hoặc chức năng không hoạt động đúng cách.\nResponsive design | 1.x 2.x 3.x | 20% | Tạo ra một website có responsive design hoàn hảo, hiển thị tốt trên các thiết bị khác nhau và các kích thước màn hình. | Tạo ra một website có responsive design tương đối tốt, hiển thị khá tốt trên các thiết bị khác nhau. | Tạo ra một website có responsive design cơ bản, nhưng có thể gặp một số vấn đề trên các thiết bị khác nhau. | Không tạo ra responsive design hoặc responsive design không hoạt động đúng cách.\nTối ưu hóa hiệu suất | 1.x 2.x 3.x | 5% | Tối ưu hóa hiệu suất của website, giảm thiểu thời gian tải trang và tăng trải nghiệm người dùng. | Thực hiện một số biện pháp tối ưu hóa hiệu suất, nhưng có thể còn một số cải thiện cần được thực hiện. | Không tối ưu hóa hiệu suất của website hoặc hiệu suất của website không được cải thiện. | Không chú trọng đến tối ưu hóa hiệu suất của website.\nTương thích trình duyệt | 1.x 2.x 3.x | 10% | Đảm bảo website hoạt động tốt trên các trình duyệt phổ biến như Chrome, Firefox, Safari và Edge. | Đảm bảo website hoạt động tốt trên các trình duyệt phổ biến như Chrome và Firefox. | Đảm bảo website hoạt động tốt trên một số trình duyệt nhưng có thể gặp vấn đề trên các trình duyệt khác. | Không đảm bảo website hoạt động tốt trên các trình duyệt hoặc website chỉ hoạt động trên một số trình duyệt cụ thể.\nMã nguồn và cấu trúc | 1.x 2.x 3.x | 10% | Viết mã nguồn sạch sẽ, dễ hiểu và dễ bảo trì, tuân thủ các nguyên tắc của HTML, CSS và JavaScript. | Viết mã nguồn tương đối sạch sẽ và tuân thủ các nguyên tắc cơ bản của HTML, CSS và JavaScript. | Viết mã nguồn cơ bản, có thể không tuân thủ các nguyên tắc của HTML, CSS và JavaScript. | Viết mã nguồn không cấu trúc hoặc không tuân thủ các nguyên tắc của HTML, CSS và JavaScript.\nTính sáng tạo và độc đáo | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website. Website có điểm nhấn riêng và thu hút người dùng. | Thể hiện một số tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website. | Thiết kế một website không có tính sáng tạo và độc đáo, chủ yếu là sự sao chép hoặc mô phỏng. | Không thể hiện tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website.\nTrình bày báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp. | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi. | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic.",
+      "word_count": 835,
+      "char_count": 3776,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 119,
+        "end_block": 119
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus) | ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024) | (Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tThiết kế Web\n- Tên học phần (tiếng Anh):\tWeb Design\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1165\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Cơ sở lập trình\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Xuân Lâm | lampx@neu.edu.vn\n2 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần này nhằm cung cấp kiến thức về các thành phần quan trọng trong việc thiết kế web hiện đại. Sinh viên được hướng dẫn về ngôn ngữ siêu văn bản đánh dấu HTML, bao gồm cú pháp cơ bản và nâng cao, cùng với cách tạo cấu trúc nội dung của trang web. Đồng thời, họ sẽ tiếp cận với CSS để định dạng và thiết kế giao diện trực quan, sử dụng các thuộc tính và kỹ thuật chia layout để tạo ra trang web linh hoạt và thân thiện với người dùng trên mọi thiết bị. Ngoài ra, sinh viên sẽ khám phá ngôn ngữ lập trình JavaScript và cách sử dụng nó để làm cho trang web trở nên tương tác và động đại. Họ sẽ học về xử lý sự kiện, thao tác với DOM, và tạo ra các hiệu ứng và tính năng động, từ đó nâng cao trải nghiệm người dùng và tính tương tác của trang web.\nĐồng thời, học phần cũng nhấn mạnh vào việc phát triển kỹ năng tư duy và khả năng tự học của sinh viên trong lĩnh vực thiết kế web thông qua các dự án và thực hành thực tế.\n.\nNội dung chính:\n- Tổng quan về thiết kế và lập trình Web\n- Ngôn ngữ đánh dấu siêu văn bản HTML\n- Định dạng phong cách Web với CSS\n- Thiết kế bố cục Web và Web đáp ứng\n- Ngôn ngữ Javascript\n- Sử dụng CSS Framework, Javascript Framework\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Anne Boehm Zak Ruvalcaba (2018) Murach’s HTML5 and CSS3, Murack.\n[2] Minnick, C. and Holland, E. (2015). Coding with JavaScript for dummies. John Wiley & Sons.\nTài liệu khác\n[3] Lập trình HTML, CSS và JavaScript trên VnCodelab (https://www.vncodelab.com)\n4.3. Phần mềm\n[4] Visual Studio Code\n[5] Figma\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp các kiến thức chuyên sâu về: Ngôn ngữ siêu văn bản đánh dấu - HTML; Định dạng HTML với CSS; Ngôn ngữ lập trình JavaScript. | -\nCG2 | Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp về thiết kế Web. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Trình bày được được cách thức hoạt động của mạng máy tính, các giao thức mạng, kiến trúc Client-Server và Website. Mô tả được các công nghệ Web, phân loại được các loại ứng dụng Web. | 2\nCG1 Kiến thức | CLO1.2 | Áp dụng thành thạo các kỹ thuật để thiết kế được giao diện Web có đáp ứng với công cụ HTML và CSS. | 3\nCG1 Kiến thức | CLO1.3 | Áp dụng thành thạo các kỹ thuật với Javascript để xây dựng ứng dụng Web hoàn chỉnh. | 3\nCG2 Kỹ năng | CLO2.1 | Thi hành được các đoạn mã lệnh và bài tập giáo viên thực hiện trên lớp. | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến thiết kế Web. | 3\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% (trắc nghiệm) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% (nghiên cứu, thiết kế Web, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (lập trình trên máy tính) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | L[2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1: Tổng quan về thiết kế Web và lập trình Web 1.1. Ứng dụng Web 1.2. Thiết kế Web tĩnh 1.3. HTML, CSS, Javascript 1.4. Lập trình Web động 1.5. Các vấn đề khi thiết kế Web 1.6. Công cụ phát triển Web | [1] Chương 1 | Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết | - | 1.1 1.2\n2 | Seminar 1 Câu hỏi lý thuyết về chương 1 Thực hành: sử dụng Chrome DevTools và và hiểu các tính năng cơ bản của nó như Elements, Console, Sources, và Network | [1] Chương 1 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành | 1.1 1.2 2.2 3.1\n3 | Lecture 2 Chương 2. Ngôn ngữ đánh dấu văn bản HTML 2.1. Giới thiệu HTML 2.2. Cấu trúc của một tài liệu HTML 2.3. Các thẻ HTML cơ bản 2.4. Các thẻ HTML nâng cao | [1] Chương 1,2,3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.1 1.2\n4 | Seminar 2 Câu hỏi lý thuyết chương 2 Thực hành: Tạo web với các thẻ HTML cơ bản Tạo web với các thẻ HTML nâng cao Tạo form | [1] Chương 1,2,3 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành | 1.1 1.2 2.1 2.2 3.1 3.2\n5 | Lecture 3 Chương 3. Định dạng phong cách Web với CSS 3.1. Giới thiệu CSS 3.2. Các quy tắc CSS 3.3. Các Selector 3.4. Các thuộc tính CSS cơ bản | [1] Chương 4,5,7, 9-14 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2\n6 | Seminar 3 Câu hỏi lý thuyết chương 3. Thực hành: Sử dụng các thuộc tính CSS phổ biến cho Web. Thuộc tính CSS cho các phần tử đặc biệt. | [2] Chương 4,5,7, 9-14 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành | 1.1 1.2 2.1 2.2 3.1 3.2\n7 | Lecture 4 Chương 4: Thiết kế bố cục Web và Web đáp ứng 4.1. Sử dụng Float 4.2. Sử dụng Grid 4.3. Sử dụng Flexbox 4.4. Sử dụng Framework | [1] Chương 6,8 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2\n8 | Seminar 4 Câu hỏi lý thuyết chương 4 Thực hành: Thiết kế bố cục Web và Web đáp ứng sử dụng Float, Grid, Flexbox | [1] Chương 6,8 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.1 3.2\n9 | Lecture 5 Chương 5: Ngôn ngữ Javascript 5.1. Căn bản về Javascript 5.2. Cú pháp lập trình 5.3. Javascript căn bản 5.4. Lập trình hướng đối tượng 5.5. Lập trình với HTML DOM 5.6. Lập trình với JSON 5.7. Lập trình AJAX | [1] Chương 15 [2] Chương 10,16 [3] Chương 6 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2 1.3\n10 | Seminar 5 Câu hỏi lý thuyết chương 5 Thực hành: Lập trình với HTML DOM Lập trình với JSON Viết mã JS để xác thực các trường thông tin trên form trước khi submit. | [1] Chương 15 [2] Chương 10,16 [3] Chương 6 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.2\n11 | Lecture 6 Chương 6. Các công cụ hỗ trợ 6.1. Emmet 6.2. Github 6.3. Bootstrap 6.4 jQuery 6.5 Sass | [2] Chương 18 [3] Chương 7,8 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1 1.2 1.3\n12 | Seminar 6 Câu hỏi lý thuyết chương 6 Thực hành: Sử dụng các công cụ đã được giới thiệu | [2] Chương 18 [3] Chương 7,8 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 1.2 1.3 2.1 2.2 3.1 3.2\n13 | Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân | - | Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân | Điểm danh Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 Trình bày bài tập nhóm | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài thi cuối kỳ | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên máy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu. Mỗi câu 2 điểm\n- Ma trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 4 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 5 | 5 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.\nNội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1, 1.2 | 3 | 3 | 2 | 8\nLecture 2 | 1.1, 1.2 | 2 | 4 | 2 | 8\nLecture 3 | 1.1, 1.2 | 3 | 4 | 3 | 10\nLecture 4 | 1.1, 1.2 | 2 | 3 | 3 | 8\nLecture 5 | 1.1, 1.2, 1.3 | 3 | 4 | 3 | 10\nLecture 6 | 1.1, 1.2, 1.3 | 2 | 2 | 2 | 6\nTổng số câu hỏi | - | 15 | 20 | 15 | 50\nTỷ trọng | - | 30% | 50% | 30% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý thiết kế Website với các chủ đề ví dụ:\n- Thiết kế trang web bán hàng trực tuyến\n- Thiết kế trang web tin tức hoặc blog\n- Thiết kế trang web về âm nhạc\n- Thiết kế trang web cho phim ảnh và giải trí\n- Thiết kế trang web về du lịch\n- Thiết kế trang web giáo dục\n- Thiết kế trang web portfolio cho nghệ sĩ hoặc nhà thiết kế\n- …\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất thiết kế website khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nThiết kế và giao diện | 1.x 2.x 3.x | 20% | Tthiết kế một giao diện đẹp, chuyên nghiệp và hiện đại, phản ánh được mục đích và nội dung của website. | Thiết kế một giao diện trực quan, dễ sử dụng và phù hợp với mục tiêu của website. | Thiết kế một giao diện đơn giản, không rõ ràng hoặc không phản ánh được mục đích của website. | Giao diện không phù hợp hoặc không hấp dẫn.\nChức năng và tương tác | 1.x 2.x 3.x | 15% | Tích hợp các chức năng và tương tác động mạnh mẽ và linh hoạt, cung cấp trải nghiệm người dùng tốt. | Tích hợp các chức năng và tương tác cơ bản, đảm bảo website hoạt động một cách đáng tin cậy. | Tích hợp các chức năng và tương tác hạn chế, không đảm bảo trải nghiệm người dùng tốt. | Không tích hợp các chức năng và tương tác hoặc chức năng không hoạt động đúng cách.\nResponsive design | 1.x 2.x 3.x | 20% | Tạo ra một website có responsive design hoàn hảo, hiển thị tốt trên các thiết bị khác nhau và các kích thước màn hình. | Tạo ra một website có responsive design tương đối tốt, hiển thị khá tốt trên các thiết bị khác nhau. | Tạo ra một website có responsive design cơ bản, nhưng có thể gặp một số vấn đề trên các thiết bị khác nhau. | Không tạo ra responsive design hoặc responsive design không hoạt động đúng cách.\nTối ưu hóa hiệu suất | 1.x 2.x 3.x | 5% | Tối ưu hóa hiệu suất của website, giảm thiểu thời gian tải trang và tăng trải nghiệm người dùng. | Thực hiện một số biện pháp tối ưu hóa hiệu suất, nhưng có thể còn một số cải thiện cần được thực hiện. | Không tối ưu hóa hiệu suất của website hoặc hiệu suất của website không được cải thiện. | Không chú trọng đến tối ưu hóa hiệu suất của website.\nTương thích trình duyệt | 1.x 2.x 3.x | 10% | Đảm bảo website hoạt động tốt trên các trình duyệt phổ biến như Chrome, Firefox, Safari và Edge. | Đảm bảo website hoạt động tốt trên các trình duyệt phổ biến như Chrome và Firefox. | Đảm bảo website hoạt động tốt trên một số trình duyệt nhưng có thể gặp vấn đề trên các trình duyệt khác. | Không đảm bảo website hoạt động tốt trên các trình duyệt hoặc website chỉ hoạt động trên một số trình duyệt cụ thể.\nMã nguồn và cấu trúc | 1.x 2.x 3.x | 10% | Viết mã nguồn sạch sẽ, dễ hiểu và dễ bảo trì, tuân thủ các nguyên tắc của HTML, CSS và JavaScript. | Viết mã nguồn tương đối sạch sẽ và tuân thủ các nguyên tắc cơ bản của HTML, CSS và JavaScript. | Viết mã nguồn cơ bản, có thể không tuân thủ các nguyên tắc của HTML, CSS và JavaScript. | Viết mã nguồn không cấu trúc hoặc không tuân thủ các nguyên tắc của HTML, CSS và JavaScript.\nTính sáng tạo và độc đáo | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website. Website có điểm nhấn riêng và thu hút người dùng. | Thể hiện một số tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website. | Thiết kế một website không có tính sáng tạo và độc đáo, chủ yếu là sự sao chép hoặc mô phỏng. | Không thể hiện tính sáng tạo và độc đáo trong thiết kế giao diện và tính năng của website.\nTrình bày báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp. | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi. | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
 }

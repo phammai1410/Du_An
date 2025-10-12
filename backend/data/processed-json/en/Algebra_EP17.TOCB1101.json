@@ -1,118 +1,294 @@
 {
-  "id": "EP17.TOCB1101",
-  "filename": "Algebra_EP17.TOCB1101.docx",
+  "doc_id": "en-ep17-tocb1101",
   "language": "en",
-  "subject_name": "Algebra_EP17.TOCB1101",
-  "title": "1. GENERAL INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Algebra",
+  "course_variant": "",
+  "course_code": "EP17.TOCB1101",
+  "source_filename": "Algebra_EP17.TOCB1101.docx",
+  "source_relpath": "data\\raw\\en\\Algebra_EP17.TOCB1101.docx",
+  "source_hash": "764c53355a4952f6da1a489d8892db1d",
+  "source_modified": "2025-10-11T10:42:50.576704+00:00",
+  "processed_at": "2025-10-12T13:02:22.251617+00:00",
+  "outline": [
     {
-      "heading": "1. GENERAL INFORMATION",
-      "content": [
-        "- Title: \t\t\t\t\tAlgebra",
-        "- Course number: \t\t\t\tEP02.TOCB1101",
-        "- Type of course:\t\t\t\tCompulsory course",
-        "- Number of credits:\t\t\t3 Credits",
-        "+ Theoretical hours: \t\t27",
-        "+ Exercise and discussion hours: \t18",
-        "+ Self-study hours\t\t\t81",
-        "- Prerequisite: \t\t\t\tNone"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. GENERAL INFORMATION"
     },
     {
-      "heading": "2. LECTURERS' INFORMATION",
-      "content": [
-        "Department: Fundamental Mathematics",
-        "Adress: R1106, 11th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
-        "Lecturers:",
-        "MA. Nguyễn Thị An\t\t\tEmail: \tannt@neu.edu.vn",
-        "PhD. Lê Thị Anh\t\t\tEmail: \tleanhtoankt@neu.edu.vn",
-        "MA. Vũ Quỳnh Anh\t\t\tEmail: anhvq@neu.edu.vn",
-        "PhD. Phùng Minh Đức\t\tEmail: \tphungduc@neu.edu.vn",
-        "MA. Bùi Quốc Hoàn  \t\t\tEmail: \tbuiquochoan@neu.edu.vn",
-        "MA. Hà Thị Minh Huệ\t\tEmail: \thuehm@neu.edu.vn",
-        "PhD. Nguyễn Tuấn Long\t\tEmail: \tntlong@neu.edu.vn",
-        "PhD. Đặng Huy Ngân\t\t\tEmail: \tngandh@neu.edu.vn",
-        "MA. Phạm Văn Nghĩa\t\t\tEmail: nghiapv@neu.edu.vn",
-        "MA. Nguyễn Thị Quý\t\t\tEmail: \tquynguyen@neu.edu.vn",
-        "MA. Nguyễn Mai Quyên\t\tEmail: \tnguyen-mai-quyen@neu.edu.vn",
-        "MA. Hoàng Văn Thắng\t\tEmail: hoangthang@neu.edu.vn",
-        "PhD. Dương Việt Thông\t\tEmail: \tthongduongviet@neu.edu.vn",
-        "MA. Phạm Anh Tuấn\t\t\tEmail: \ttuanpa@neu.edu.vn",
-        "MA. Đoàn Trọng Tuyến\t\tEmail: \tdoantrongtuyen@neu.edu.vn",
-        "PhD. Tống Thành Trung\t\tEmail: \ttrungtt@neu.edu.vn",
-        "PhD. Nguyễn Thị Cẩm Vân\t\tEmail: \tncvantkt@neu.edu.vn"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. LECTURERS' INFORMATION"
     },
     {
-      "heading": "3. COURSE DESCRIPTIONS",
-      "content": [
-        "The Algebra module belongs to the General Education Knowledge block of the bachelor's degree program in Economic Mathematics, Information Technology and Computer Science. This module equips learners with basic knowledge about sets, maps, polynomials, vector spaces, quadratic forms and effective calculation tools for systems of linear equations, matrices, and determinants. The course contribute to training scientific thinking and building a mathematical foundation for application in analyzing and researching problems in the fields of economics and business. With the knowledge, skills and competencies equipped, after completing this course, learners can easily access a number of programming languages ​​such as R, Python, ... as well as the ability to study other related subjects in the training program such as Calculus 1, Calculus 2, Optimization Theory, Discrete Math.",
-        "The course consists of 6 chapters: Chapter 1 introduces the concepts and operations of sets, maps and polynomials; Chapter 2 presents vector spaces and linear relationships between vectors; Chapter 3 deals with the concepts, properties, and operations of matrices and determinants; Chapter 4 includes the contents of the system of linear equations and its applications in economics; Chapter 5 introduces linear mappings; Chapter 6 presents the basic concepts of quadratic forms and methods of identifying definite quadratic forms."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "4. LEARNING RESOURCES",
-      "content": [
-        "Textbook",
-        "Lê Đình Thuý, Nguyễn Quỳnh Lan (2013), Advanced Maths Textbook for Economists, National Economic University Publisher.",
-        "Others:",
-        "Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2008), Advanced Mathematics, Volume 1, Education Publisher.",
-        "Đoàn Quỳnh (Chủ biên) (1998), Đại số tuyến tính và hình học giải tích, NXB Đại học Quốc gia Hà Nội."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCES"
     },
     {
-      "heading": "5. COURSE GOALS",
-      "content": [
-        "Table 5.1. Course goals"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE GOALS"
     },
     {
-      "heading": "6. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 6.1. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "7. COURSE ASSESSMENT",
-      "content": [
-        "Table 7.1. Course assesment"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan for the course"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams",
-      "content": [
-        "Students are allowed to take the final exam/terminal exams (50%) if their attendance score (10%) reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams"
     },
     {
-      "heading": "9.3. Requirements for in-class behaviour",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behaviour"
     }
   ],
-  "tables": [],
-  "full_text": "1. GENERAL INFORMATION\t\t\n- Title: \t\t\t\t\tAlgebra\n- Course number: \t\t\t\tEP02.TOCB1101\n- Type of course:\t\t\t\tCompulsory course\n- Number of credits:\t\t\t3 Credits\n\t+ Theoretical hours: \t\t27\n\t+ Exercise and discussion hours: \t18\n+ Self-study hours\t\t\t81\t\t\t\n- Prerequisite: \t\t\t\tNone\n2. LECTURERS' INFORMATION\nDepartment: Fundamental Mathematics\nAdress: R1106, 11th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers: \nMA. Nguyễn Thị An\t\t\tEmail: \tannt@neu.edu.vn\nPhD. Lê Thị Anh\t\t\tEmail: \tleanhtoankt@neu.edu.vn\n\tMA. Vũ Quỳnh Anh\t\t\tEmail: anhvq@neu.edu.vn \nPhD. Phùng Minh Đức\t\tEmail: \tphungduc@neu.edu.vn\nMA. Bùi Quốc Hoàn  \t\t\tEmail: \tbuiquochoan@neu.edu.vn\t\nMA. Hà Thị Minh Huệ\t\tEmail: \thuehm@neu.edu.vn\t\t\nPhD. Nguyễn Tuấn Long\t\tEmail: \tntlong@neu.edu.vn\t\t\nPhD. Đặng Huy Ngân\t\t\tEmail: \tngandh@neu.edu.vn\t\t\nMA. Phạm Văn Nghĩa\t\t\tEmail: nghiapv@neu.edu.vn\nMA. Nguyễn Thị Quý\t\t\tEmail: \tquynguyen@neu.edu.vn\nMA. Nguyễn Mai Quyên\t\tEmail: \tnguyen-mai-quyen@neu.edu.vn\nMA. Hoàng Văn Thắng\t\tEmail: hoangthang@neu.edu.vn\t\t\nPhD. Dương Việt Thông\t\tEmail: \tthongduongviet@neu.edu.vn\nMA. Phạm Anh Tuấn\t\t\tEmail: \ttuanpa@neu.edu.vn\t\nMA. Đoàn Trọng Tuyến\t\tEmail: \tdoantrongtuyen@neu.edu.vn\t\t\nPhD. Tống Thành Trung\t\tEmail: \ttrungtt@neu.edu.vn\t\t \nPhD. Nguyễn Thị Cẩm Vân\t\tEmail: \tncvantkt@neu.edu.vn\t  \n3. COURSE DESCRIPTIONS\n The Algebra module belongs to the General Education Knowledge block of the bachelor's degree program in Economic Mathematics, Information Technology and Computer Science. This module equips learners with basic knowledge about sets, maps, polynomials, vector spaces, quadratic forms and effective calculation tools for systems of linear equations, matrices, and determinants. The course contribute to training scientific thinking and building a mathematical foundation for application in analyzing and researching problems in the fields of economics and business. With the knowledge, skills and competencies equipped, after completing this course, learners can easily access a number of programming languages ​​such as R, Python, ... as well as the ability to study other related subjects in the training program such as Calculus 1, Calculus 2, Optimization Theory, Discrete Math.\nThe course consists of 6 chapters: Chapter 1 introduces the concepts and operations of sets, maps and polynomials; Chapter 2 presents vector spaces and linear relationships between vectors; Chapter 3 deals with the concepts, properties, and operations of matrices and determinants; Chapter 4 includes the contents of the system of linear equations and its applications in economics; Chapter 5 introduces linear mappings; Chapter 6 presents the basic concepts of quadratic forms and methods of identifying definite quadratic forms.\n4. LEARNING RESOURCES \nTextbook\n Lê Đình Thuý, Nguyễn Quỳnh Lan (2013), Advanced Maths Textbook for Economists, National Economic University Publisher.\nOthers:\n Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2008), Advanced Mathematics, Volume 1, Education Publisher. \n Đoàn Quỳnh (Chủ biên) (1998), Đại số tuyến tính và hình học giải tích, NXB Đại học Quốc gia Hà Nội.\n5. COURSE GOALS\nTable 5.1. Course goals\n6. COURSE LEARNING OUTCOMES (CLOs) \nTable 6.1. Course learning outcomes (CLOs)\n7. COURSE ASSESSMENT \nTable 7.1. Course assesment\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam/terminal exams (50%) if their attendance score (10%) reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:24.260574",
-  "source_file": "backend\\data\\raw\\en\\Algebra_EP17.TOCB1101.docx",
-  "content_length": 4848
+  "stats": {
+    "paragraphs": 46,
+    "headings": 12,
+    "tables": 6,
+    "chunks": 13,
+    "words": 2643
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-tocb1101#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD  by NEU’s President, 30th August 2023) | COURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD  by NEU’s President, 30th August 2023)\nProgram name : Software Engineering Program | Program name : Software Engineering Program",
+      "word_count": 58,
+      "char_count": 419,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#002",
+      "text": "- Title: \t\t\t\t\tAlgebra\n- Course number: \t\t\t\tEP02.TOCB1101\n- Type of course:\t\t\t\tCompulsory course\n- Number of credits:\t\t\t3 Credits\n+ Theoretical hours: \t\t27\n+ Exercise and discussion hours: \t18\n+ Self-study hours\t\t\t81\n- Prerequisite: \t\t\t\tNone",
+      "word_count": 36,
+      "char_count": 240,
+      "heading_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "primary_heading": "1. GENERAL INFORMATION",
+      "breadcrumbs": "1. GENERAL INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 12
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#003",
+      "text": "Department: Fundamental Mathematics\nAdress: R1106, 11th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers:\nMA. Nguyễn Thị An\t\t\tEmail: \tannt@neu.edu.vn\nPhD. Lê Thị Anh\t\t\tEmail: \tleanhtoankt@neu.edu.vn\nMA. Vũ Quỳnh Anh\t\t\tEmail: anhvq@neu.edu.vn\nPhD. Phùng Minh Đức\t\tEmail: \tphungduc@neu.edu.vn\nMA. Bùi Quốc Hoàn  \t\t\tEmail: \tbuiquochoan@neu.edu.vn\nMA. Hà Thị Minh Huệ\t\tEmail: \thuehm@neu.edu.vn\nPhD. Nguyễn Tuấn Long\t\tEmail: \tntlong@neu.edu.vn\nPhD. Đặng Huy Ngân\t\t\tEmail: \tngandh@neu.edu.vn\nMA. Phạm Văn Nghĩa\t\t\tEmail: nghiapv@neu.edu.vn\nMA. Nguyễn Thị Quý\t\t\tEmail: \tquynguyen@neu.edu.vn\nMA. Nguyễn Mai Quyên\t\tEmail: \tnguyen-mai-quyen@neu.edu.vn\nMA. Hoàng Văn Thắng\t\tEmail: hoangthang@neu.edu.vn\nPhD. Dương Việt Thông\t\tEmail: \tthongduongviet@neu.edu.vn\nMA. Phạm Anh Tuấn\t\t\tEmail: \ttuanpa@neu.edu.vn\nMA. Đoàn Trọng Tuyến\t\tEmail: \tdoantrongtuyen@neu.edu.vn\nPhD. Tống Thành Trung\t\tEmail: \ttrungtt@neu.edu.vn\nPhD. Nguyễn Thị Cẩm Vân\t\tEmail: \tncvantkt@neu.edu.vn",
+      "word_count": 128,
+      "char_count": 1027,
+      "heading_path": [
+        "2. LECTURERS' INFORMATION"
+      ],
+      "primary_heading": "2. LECTURERS' INFORMATION",
+      "breadcrumbs": "2. LECTURERS' INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 13,
+        "end_block": 33
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#004",
+      "text": "The Algebra module belongs to the General Education Knowledge block of the bachelor's degree program in Economic Mathematics, Information Technology and Computer Science. This module equips learners with basic knowledge about sets, maps, polynomials, vector spaces, quadratic forms and effective calculation tools for systems of linear equations, matrices, and determinants. The course contribute to training scientific thinking and building a mathematical foundation for application in analyzing and researching problems in the fields of economics and business. With the knowledge, skills and competencies equipped, after completing this course, learners can easily access a number of programming languages ​​such as R, Python, ... as well as the ability to study other related subjects in the training program such as Calculus 1, Calculus 2, Optimization Theory, Discrete Math.\nThe course consists of 6 chapters: Chapter 1 introduces the concepts and operations of sets, maps and polynomials; Chapter 2 presents vector spaces and linear relationships between vectors; Chapter 3 deals with the concepts, properties, and operations of matrices and determinants; Chapter 4 includes the contents of the system of linear equations and its applications in economics; Chapter 5 introduces linear mappings; Chapter 6 presents the basic concepts of quadratic forms and methods of identifying definite quadratic forms.",
+      "word_count": 203,
+      "char_count": 1410,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 34,
+        "end_block": 35
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#005",
+      "text": "Textbook\n- Lê Đình Thuý, Nguyễn Quỳnh Lan (2013), Advanced Maths Textbook for Economists, National Economic University Publisher.\nOthers:\n- Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2008), Advanced Mathematics, Volume 1, Education Publisher.\n- Đoàn Quỳnh (Chủ biên) (1998), Đại số tuyến tính và hình học giải tích, NXB Đại học Quốc gia Hà Nội.",
+      "word_count": 58,
+      "char_count": 348,
+      "heading_path": [
+        "4. LEARNING RESOURCES"
+      ],
+      "primary_heading": "4. LEARNING RESOURCES",
+      "breadcrumbs": "4. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 37,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#006",
+      "text": "Table 5.1. Course goals\nGoals | Description of course goals | PLOs | MIT’ level\n[1] | [2] | [3] | [4]\nG1 | The course systematically provides students with basic knowledge of sets, mappings, polynomials, vector spaces, quadratic forms, and powerful computational tools for systems of linear equations, matrices, and determinants. | PLO1.2 | 2\nG2 | he course guides learners with the necessary skills to competently calculate mathematical operations for vectors, matrices, and determinants; find the inverse matrix; solve systems of linear equations and apply to the analysis of some economic models; transform a quadratic form to a diagonal form and identify the definite quadratic forms | PLO1.2 | 2, 3\nG3 | The course equips students with some basic knowledge of economics and methods of applying basic tools of linear algebra to study, analyze and solve problems in real life as well as in economics. | PLO1.2 PLO2.2 | 2, 3\nG4 | The course contributes to the development of the ability to self-study, work independently, work in groups, take personal responsibility and partly responsible for the group. | PLO3.4 PLO3.5 | 2",
+      "word_count": 186,
+      "char_count": 1126,
+      "heading_path": [
+        "5. COURSE GOALS"
+      ],
+      "primary_heading": "5. COURSE GOALS",
+      "breadcrumbs": "5. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 43,
+        "end_block": 44
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#007",
+      "text": "Table 6.1. Course learning outcomes (CLOs)\nCourse goals | CLOs | CLOs Description | MIT’ level\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Understand the basic concepts of sets, mappings and polynomials. | 2\nG1 | CLO1.2 | Understand the basic concepts of vectors, vector spaces, matrices and determinants. | 2\nG1 | CLO1.3 | Understand the basic concepts of systems of linear equations | 2\nG1 | CLO1.4 | Understand the basic concepts of linear mappings and quadratic forms | 2\nG2 | CLO2.1 | Solve basic problems of sets, mappings and polynomials. | 2, 3\nG2 | CLO2.2 | Solve basic problems related to vectors, matrices and determinants such as:  find the basis of a vector system, calculate determinant, perform matrix operations, find the rank of a matrix, find the inverse of an invertible matrix… | 2, 3\nG2 | CLO 2.3 | Solve systems of linear equations by different methods such as Gaussian elimination method, matrix method, determinant method. Find general solutions and fundamental solutions of a system of linear equations. | 2, 3\nG2 | CLO 2.4 | Recognize linear mappings, find eigenvalues and eigenvectors of matrices, diagonalize matrices, use linear mapping to transform a quadratic form to the diagonal form, identify the definite quadratic forms. | 2, 3\nG3 | CLO3.1 | Use mathematical symbols as well as identify and apply appropriate algebra concepts and techniques to model and solve common types of applied problems. | 3\nG3 | CLO3.2 | Choose the correct use of quantifiable measurements of real world situations | 3\nG4 | CLO4.1 | Develop the ability to self-study, work independently, work in a team. | 2\nG4 | CLO4.2 | Develop the capacity to take personal responsibility and partial responsibility towards the group. | 2",
+      "word_count": 299,
+      "char_count": 1726,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 47,
+        "end_block": 48
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#008",
+      "text": "Table 7.1. Course assesment\nType of Assessment | Content | Week | CLO | Tools and Criteria assessment | Contribution to grade %\n[1] | [2] | [3] | [4] | [5] | [6]\nParticipation | Learning attitude in class Answer in-class questions Answer discussion questions | Week 1 - 15 | CLO1-CLO4 | Lecturer's teaching diary with evaluation criterium: Level of participation Level of interaction; Quality of answers | 10%\nAssessment of progress (Group exercise / individual assignment / Mid-term test) | Chapters 1 - 3 | 8th week | CLO 1.1 CLO 1.2 CLO 1.3 CLO 2.1 CLO 2.2 CLO 2.3 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | According to the assessment’ requirements | 40%\nAssessment of progress (Group exercise / individual assignment / Mid-term test) | Chapters 4 - 5 | 13th week | CLO 1.4 CLO 2.4 CLO 3.1 CLO 3.2 CLO 3.4 CLO 4.1 CLO 4.2 | According to the assessment’ requirements | 40%\nFinal Exam | Chapters 1 - 5 | Course’s exam schedule | CLO1-CLO3 | According to the exam requirement | 50%",
+      "word_count": 182,
+      "char_count": 973,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 51,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#009",
+      "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Required readings text | CLO | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Greeting and course introduction, its logic, its role and position in the program | Syllabus | CLO 1.1 CLO 1.2 CLO 1.3 CLO 1.4 CLO 4.1 CLO 4.2 | Lecturer introduces the course Lecturer sets learning requirements Lecturer instructs students to read documents Lecturer instructs students to find documents Lecturer instructs to group work Lecturer divides students into working groups | Level of participation Level of interaction Quality of answers\n1 | Chapter 1. Sets, mappings and polynomials 1.1 Sets 1.2 Binary relationship 1.3. Complex numbers | [1] Chapter 1 [3] Chapters 1, 2 | CLO 1.1 CLO 2.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n2 | Chapter 1. (cont.) 1.4. Polynomials | [1] Chapter 1 [3] Chapters 1, 2 | CLO 1.1 CLO 2.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n2 | Chapter 2.  The vector space 2.1. Systems of linear equations and Gaussian elimination | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n3 | Chapter 2. (cont.) 2.2.  Vectors and the vector space 2.3. Linear relationships in the vector space | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n4 | Chapter 2. (cont.) 2.4. Basis of a vector space | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n5 | Chapter 2 (cont.) 2.5. Rank of a vector system | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n6-7 | Chapter 3. Matrices and determinants 3.1. Matrices and linear operations for matrices 3.2. Determinants 3.3. Methods of determinant calculation | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n8 | Chapter 3. (cont.) 3.4 Matrix multiplication and matrix inverses | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n8 | Midterm test 1 | [1] Chapters 1-3 | CLO 1.1 CLO 1.2 CLO 2.1 CLO 2.2 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | Test and evaluate students through multiple choice test/essay/group exercise | - Essay test / multiple choice test / group exercise\n9 | Chapter 3. (cont.) 3.5. Rank of a matrix | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n10 | Chapter 4.  Systems of linear equations 4.1. Cramers’ systems 4.2. General systems of linear equations | [1] Chapter 4 [2] Chapter 3 | CLO 1.3 CLO 2.3 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n11 | Chapter 4.  (cont.) 4.3 Homogeneous systems of linear equations 4.4. Applied linear models in economics | [1] Chapter 4 [2] Chapter 3 | CLO 1.3 CLO 2.3 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n12 | Chapter 5.  Linear mappings 5.1. Linear mappings 5.2. Matrix of a linear mappings | [1] Chapter 4 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n12 | Chapter 6.  Quadratic forms 6.1. Characteristic polynomials, eigenvalues and eigenvectors | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n13 | Chapter 6. (cont.) 6.2. Matrix diagonalization 6.3. Basic concepts of quadratic forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n13 | Midterm test 2 | [1] Chapters 4, 5 | CLO 1.3 CLO 1.4 CLO 2.3 CLO 2.4 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | Test and evaluate students through multiple choice test/essay/group exercise | - Essay test / multiple choice test / group exercise\n14 | Chapter 6. (continued) 6.4. Transform quadratic forms to diagonal forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n15 | Chapter 5. (cont.) 6.5 Definite quadratic forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n15 | Review | - | - | Review | -\n- | Final exam | - | CLO1-CLO3 | Students take exams according to the given schedule | According to the exam requirement",
+      "word_count": 1254,
+      "char_count": 7501,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 9,
+        "start_block": 56,
+        "end_block": 57
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#010",
+      "text": "- Students are allowed to take the final exam/terminal exams (50%) if their attendance score (10%) reaches 5 points or more (on the scale of 10).",
+      "word_count": 26,
+      "char_count": 145,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
+      "position": {
+        "order": 10,
+        "start_block": 62,
+        "end_block": 63
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#011",
+      "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 108,
+      "char_count": 638,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 11,
+        "start_block": 64,
+        "end_block": 67
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#012",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 536,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 12,
+        "start_block": 68,
+        "end_block": 72
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tocb1101#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Nguyen Manh The | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 79,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 13,
+        "start_block": 72,
+        "end_block": 75
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD  by NEU’s President, 30th August 2023) | COURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD  by NEU’s President, 30th August 2023)\nProgram name : Software Engineering Program | Program name : Software Engineering Program\n1. GENERAL INFORMATION\n- Title: \t\t\t\t\tAlgebra\n- Course number: \t\t\t\tEP02.TOCB1101\n- Type of course:\t\t\t\tCompulsory course\n- Number of credits:\t\t\t3 Credits\n+ Theoretical hours: \t\t27\n+ Exercise and discussion hours: \t18\n+ Self-study hours\t\t\t81\n- Prerequisite: \t\t\t\tNone\n2. LECTURERS' INFORMATION\nDepartment: Fundamental Mathematics\nAdress: R1106, 11th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers:\nMA. Nguyễn Thị An\t\t\tEmail: \tannt@neu.edu.vn\nPhD. Lê Thị Anh\t\t\tEmail: \tleanhtoankt@neu.edu.vn\nMA. Vũ Quỳnh Anh\t\t\tEmail: anhvq@neu.edu.vn\nPhD. Phùng Minh Đức\t\tEmail: \tphungduc@neu.edu.vn\nMA. Bùi Quốc Hoàn  \t\t\tEmail: \tbuiquochoan@neu.edu.vn\nMA. Hà Thị Minh Huệ\t\tEmail: \thuehm@neu.edu.vn\nPhD. Nguyễn Tuấn Long\t\tEmail: \tntlong@neu.edu.vn\nPhD. Đặng Huy Ngân\t\t\tEmail: \tngandh@neu.edu.vn\nMA. Phạm Văn Nghĩa\t\t\tEmail: nghiapv@neu.edu.vn\nMA. Nguyễn Thị Quý\t\t\tEmail: \tquynguyen@neu.edu.vn\nMA. Nguyễn Mai Quyên\t\tEmail: \tnguyen-mai-quyen@neu.edu.vn\nMA. Hoàng Văn Thắng\t\tEmail: hoangthang@neu.edu.vn\nPhD. Dương Việt Thông\t\tEmail: \tthongduongviet@neu.edu.vn\nMA. Phạm Anh Tuấn\t\t\tEmail: \ttuanpa@neu.edu.vn\nMA. Đoàn Trọng Tuyến\t\tEmail: \tdoantrongtuyen@neu.edu.vn\nPhD. Tống Thành Trung\t\tEmail: \ttrungtt@neu.edu.vn\nPhD. Nguyễn Thị Cẩm Vân\t\tEmail: \tncvantkt@neu.edu.vn\n3. COURSE DESCRIPTIONS\nThe Algebra module belongs to the General Education Knowledge block of the bachelor's degree program in Economic Mathematics, Information Technology and Computer Science. This module equips learners with basic knowledge about sets, maps, polynomials, vector spaces, quadratic forms and effective calculation tools for systems of linear equations, matrices, and determinants. The course contribute to training scientific thinking and building a mathematical foundation for application in analyzing and researching problems in the fields of economics and business. With the knowledge, skills and competencies equipped, after completing this course, learners can easily access a number of programming languages ​​such as R, Python, ... as well as the ability to study other related subjects in the training program such as Calculus 1, Calculus 2, Optimization Theory, Discrete Math.\nThe course consists of 6 chapters: Chapter 1 introduces the concepts and operations of sets, maps and polynomials; Chapter 2 presents vector spaces and linear relationships between vectors; Chapter 3 deals with the concepts, properties, and operations of matrices and determinants; Chapter 4 includes the contents of the system of linear equations and its applications in economics; Chapter 5 introduces linear mappings; Chapter 6 presents the basic concepts of quadratic forms and methods of identifying definite quadratic forms.\n4. LEARNING RESOURCES\nTextbook\n- Lê Đình Thuý, Nguyễn Quỳnh Lan (2013), Advanced Maths Textbook for Economists, National Economic University Publisher.\nOthers:\n- Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2008), Advanced Mathematics, Volume 1, Education Publisher.\n- Đoàn Quỳnh (Chủ biên) (1998), Đại số tuyến tính và hình học giải tích, NXB Đại học Quốc gia Hà Nội.\n5. COURSE GOALS\nTable 5.1. Course goals\nGoals | Description of course goals | PLOs | MIT’ level\n[1] | [2] | [3] | [4]\nG1 | The course systematically provides students with basic knowledge of sets, mappings, polynomials, vector spaces, quadratic forms, and powerful computational tools for systems of linear equations, matrices, and determinants. | PLO1.2 | 2\nG2 | he course guides learners with the necessary skills to competently calculate mathematical operations for vectors, matrices, and determinants; find the inverse matrix; solve systems of linear equations and apply to the analysis of some economic models; transform a quadratic form to a diagonal form and identify the definite quadratic forms | PLO1.2 | 2, 3\nG3 | The course equips students with some basic knowledge of economics and methods of applying basic tools of linear algebra to study, analyze and solve problems in real life as well as in economics. | PLO1.2 PLO2.2 | 2, 3\nG4 | The course contributes to the development of the ability to self-study, work independently, work in groups, take personal responsibility and partly responsible for the group. | PLO3.4 PLO3.5 | 2\n6. COURSE LEARNING OUTCOMES (CLOs)\nTable 6.1. Course learning outcomes (CLOs)\nCourse goals | CLOs | CLOs Description | MIT’ level\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Understand the basic concepts of sets, mappings and polynomials. | 2\nG1 | CLO1.2 | Understand the basic concepts of vectors, vector spaces, matrices and determinants. | 2\nG1 | CLO1.3 | Understand the basic concepts of systems of linear equations | 2\nG1 | CLO1.4 | Understand the basic concepts of linear mappings and quadratic forms | 2\nG2 | CLO2.1 | Solve basic problems of sets, mappings and polynomials. | 2, 3\nG2 | CLO2.2 | Solve basic problems related to vectors, matrices and determinants such as:  find the basis of a vector system, calculate determinant, perform matrix operations, find the rank of a matrix, find the inverse of an invertible matrix… | 2, 3\nG2 | CLO 2.3 | Solve systems of linear equations by different methods such as Gaussian elimination method, matrix method, determinant method. Find general solutions and fundamental solutions of a system of linear equations. | 2, 3\nG2 | CLO 2.4 | Recognize linear mappings, find eigenvalues and eigenvectors of matrices, diagonalize matrices, use linear mapping to transform a quadratic form to the diagonal form, identify the definite quadratic forms. | 2, 3\nG3 | CLO3.1 | Use mathematical symbols as well as identify and apply appropriate algebra concepts and techniques to model and solve common types of applied problems. | 3\nG3 | CLO3.2 | Choose the correct use of quantifiable measurements of real world situations | 3\nG4 | CLO4.1 | Develop the ability to self-study, work independently, work in a team. | 2\nG4 | CLO4.2 | Develop the capacity to take personal responsibility and partial responsibility towards the group. | 2\n7. COURSE ASSESSMENT\nTable 7.1. Course assesment\nType of Assessment | Content | Week | CLO | Tools and Criteria assessment | Contribution to grade %\n[1] | [2] | [3] | [4] | [5] | [6]\nParticipation | Learning attitude in class Answer in-class questions Answer discussion questions | Week 1 - 15 | CLO1-CLO4 | Lecturer's teaching diary with evaluation criterium: Level of participation Level of interaction; Quality of answers | 10%\nAssessment of progress (Group exercise / individual assignment / Mid-term test) | Chapters 1 - 3 | 8th week | CLO 1.1 CLO 1.2 CLO 1.3 CLO 2.1 CLO 2.2 CLO 2.3 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | According to the assessment’ requirements | 40%\nAssessment of progress (Group exercise / individual assignment / Mid-term test) | Chapters 4 - 5 | 13th week | CLO 1.4 CLO 2.4 CLO 3.1 CLO 3.2 CLO 3.4 CLO 4.1 CLO 4.2 | According to the assessment’ requirements | 40%\nFinal Exam | Chapters 1 - 5 | Course’s exam schedule | CLO1-CLO3 | According to the exam requirement | 50%\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\nWeek | Content | Required readings text | CLO | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Greeting and course introduction, its logic, its role and position in the program | Syllabus | CLO 1.1 CLO 1.2 CLO 1.3 CLO 1.4 CLO 4.1 CLO 4.2 | Lecturer introduces the course Lecturer sets learning requirements Lecturer instructs students to read documents Lecturer instructs students to find documents Lecturer instructs to group work Lecturer divides students into working groups | Level of participation Level of interaction Quality of answers\n1 | Chapter 1. Sets, mappings and polynomials 1.1 Sets 1.2 Binary relationship 1.3. Complex numbers | [1] Chapter 1 [3] Chapters 1, 2 | CLO 1.1 CLO 2.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n2 | Chapter 1. (cont.) 1.4. Polynomials | [1] Chapter 1 [3] Chapters 1, 2 | CLO 1.1 CLO 2.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n2 | Chapter 2.  The vector space 2.1. Systems of linear equations and Gaussian elimination | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n3 | Chapter 2. (cont.) 2.2.  Vectors and the vector space 2.3. Linear relationships in the vector space | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n4 | Chapter 2. (cont.) 2.4. Basis of a vector space | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n5 | Chapter 2 (cont.) 2.5. Rank of a vector system | [1] Chapter 2 [2] Chapter 5 | CLO 1.2 CLO 2.2 CLO 3.1 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n6-7 | Chapter 3. Matrices and determinants 3.1. Matrices and linear operations for matrices 3.2. Determinants 3.3. Methods of determinant calculation | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n8 | Chapter 3. (cont.) 3.4 Matrix multiplication and matrix inverses | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n8 | Midterm test 1 | [1] Chapters 1-3 | CLO 1.1 CLO 1.2 CLO 2.1 CLO 2.2 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | Test and evaluate students through multiple choice test/essay/group exercise | - Essay test / multiple choice test / group exercise\n9 | Chapter 3. (cont.) 3.5. Rank of a matrix | [1] Chapter 3 [2] Chapter 3 | CLO 1.2 CLO 2.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n10 | Chapter 4.  Systems of linear equations 4.1. Cramers’ systems 4.2. General systems of linear equations | [1] Chapter 4 [2] Chapter 3 | CLO 1.3 CLO 2.3 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n11 | Chapter 4.  (cont.) 4.3 Homogeneous systems of linear equations 4.4. Applied linear models in economics | [1] Chapter 4 [2] Chapter 3 | CLO 1.3 CLO 2.3 CLO 3.1 CLO 3.2 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n12 | Chapter 5.  Linear mappings 5.1. Linear mappings 5.2. Matrix of a linear mappings | [1] Chapter 4 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n12 | Chapter 6.  Quadratic forms 6.1. Characteristic polynomials, eigenvalues and eigenvectors | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n13 | Chapter 6. (cont.) 6.2. Matrix diagonalization 6.3. Basic concepts of quadratic forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n13 | Midterm test 2 | [1] Chapters 4, 5 | CLO 1.3 CLO 1.4 CLO 2.3 CLO 2.4 CLO 3.1 CLO 3.2 CLO 4.1 CLO 4.2 | Test and evaluate students through multiple choice test/essay/group exercise | - Essay test / multiple choice test / group exercise\n14 | Chapter 6. (continued) 6.4. Transform quadratic forms to diagonal forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n15 | Chapter 5. (cont.) 6.5 Definite quadratic forms | [1] Chapter 5 [2] Chapter 3 | CLO 1.4 CLO 2.4 | Students read the related contents before coming to class Lecturer equips students with theorical information Student discuss the circumstances and questions asked by the lecturer | Level of participation Level of interaction Quality of in-class answers\n15 | Review | - | - | Review | -\n- | Final exam | - | CLO1-CLO3 | Students take exams according to the given schedule | According to the exam requirement\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam/terminal exams (50%) if their attendance score (10%) reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Nguyen Manh The | Prof. PhD Pham Hong Chuong"
 }

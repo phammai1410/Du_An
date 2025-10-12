@@ -1,148 +1,462 @@
 {
-  "id": "LLNL1107",
-  "filename": "Chủ nghĩa xã hội khoa học_LLNL1107.docx",
+  "doc_id": "vi-llnl1107",
   "language": "vi",
-  "subject_name": "Chu╠ë nghi╠âa xa╠â ho╠ú╠éi khoa ho╠úc_LLNL1107",
-  "title": "1. THÔNG TIN CHUNG (General Information)",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Chủ nghĩa xã hội khoa học",
+  "course_variant": "",
+  "course_code": "LLNL1107",
+  "source_filename": "Chủ nghĩa xã hội khoa học_LLNL1107.docx",
+  "source_relpath": "data\\raw\\vi\\Chủ nghĩa xã hội khoa học_LLNL1107.docx",
+  "source_hash": "e35307b800ec0f8beced7ca45b241913",
+  "source_modified": "2025-10-11T10:42:50.620436+00:00",
+  "processed_at": "2025-10-12T13:02:26.952489+00:00",
+  "outline": [
     {
-      "heading": "1. THÔNG TIN CHUNG (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt):\tChủ nghĩa xã hội khoa học",
-        "Tên học phần (tiếng Anh):\tScientific Socialism",
-        "Trình độ đào tạo:\t\tĐại học",
-        "Mã học phần:\t\t\tLLNL1107",
-        "Số tín chỉ\t\t\t02",
-        "Số giờ trên lớp:\t30",
-        "Số giờ tự học\t\t75",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết:",
-        "LLNL1105 - Triết học Mác-Lênin",
-        "LLNL 1106 - Kinh tế chính trị Mác-Lênin"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN CHUNG (General Information)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
-      "content": [
-        "(Management Faculty and Teachers)",
-        "Khoa/Viện quản lý học phần:  Lý luận chính trị",
-        "Địa chỉ: Phòng 1005 Nhà A1, Trường ĐH Kinh tế Quốc dân",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Nội dung học phần gồm 7 chương: chương 1, trình bày những vấn đề cơ bản có tính nhập môn của Chủ nghĩa xã hội khoa học nhằm làm rõ quá trình hình thành, phát triển của chủ nghĩa xã hội khoa học; đối tượng nghiên cứu, phương pháp nghiên cứu và ý nghĩa của việc nghiên cứu Chủ nghĩa xã hội khoa học. Từ chương 2 đến chương 7 trình bày những vấn đề lý luận cơ bản của chủ nghĩa xã hội khoa học như; Sứ mệnh lịch sứ của giai cấp công nhân, Chủ nghĩa xã hội  và thời kỳ quá độ lên Chủ nghĩa xã hội, nghiên cứu vấn đề dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa; cơ cấu xã hội- giai cấp và liên minh giai cấp, tầng lớp  trong thời kỳ quá độ  lên Chủ nghĩa xã hội; những vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội. Trong mỗi chương sau khi nghiên cứu các vấn đề lý luận cơ bản đều có phần nghiên cứu thực trạng và các phương hướng, quan điểm của Đảng Cộng Sản Việt Nam đối với vấn đề đó ở Việt Nam hiện nay.",
-        "Nội dung chính",
-        "- Nhập môn Chủ nghĩa xã hội khoa học",
-        "- Sứ mệnh lịch sử của giai cấp công nhân",
-        "- Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH",
-        "- Dân chủ xã hội chủ nghĩa và Nhà nước XHCN",
-        "- Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong thời kỳ quá độ lên CNXH",
-        "- Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH",
-        "- Gia đình trong thời kỳ quá độ lên CNXH"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "4.1 Giáo trình",
-      "content": [
-        "[1] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ không chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4.2 Tài liệu tham khảo",
-      "content": [
-        "[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên môn CNXH Khoa học, Đại học KTQD biên soạn",
-        "[3] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội",
-        "[4] Hội đồng trung ương chỉ đạo biện soạn giáo trình quốc gia, Giáo trình chủ nghĩa xã hội khoa học (tái bản có sửa chữa, bổ sung). Nxb.Chính trị Quốc gia, Hà Nội, 2012."
-      ]
+      "sequence": 5,
+      "level": 2,
+      "title": "4.1 Giáo trình"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 2,
+      "title": "4.2 Tài liệu tham khảo"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và Nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "10.2 Quy định về tham dự lớp học (nếu có)",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học (nếu có)",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
-        "Đọc trước tài liệu được yêu cầu;",
-        "Làm các bài tập về nhà;",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác"
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
-      "content": [
-        "Tháng  6  năm 2024"
-      ]
+      "sequence": 14,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
     },
     {
-      "heading": "Phụ lục 1: MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
-        "Thời gian: 50 phút",
-        "Số câu hỏi: 80 câu. Mỗi câu 0,125  điểm"
-      ]
+      "sequence": 15,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "Phụ lục 2: các Rubric",
-      "content": [
-        "Rubric 1: Chuyên cần/Participant",
-        "Rubric 2: Bài tập nhóm",
-        "Rubric 3 : Bài tập cá nhân"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.2 Quy định về tham dự lớp học (nếu có)"
+    },
+    {
+      "sequence": 18,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học (nếu có)"
+    },
+    {
+      "sequence": 19,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+    },
+    {
+      "sequence": 20,
+      "level": 1,
+      "title": "Phụ lục"
+    },
+    {
+      "sequence": 21,
+      "level": 2,
+      "title": "Phụ lục 1: MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 22,
+      "level": 2,
+      "title": "Phụ lục 2: các Rubric"
     }
   ],
-  "tables": [],
-  "full_text": "1. THÔNG TIN CHUNG (General Information)\nTên học phần (tiếng Việt):\tChủ nghĩa xã hội khoa học\nTên học phần (tiếng Anh):\tScientific Socialism \nTrình độ đào tạo:\t\tĐại học\t\nMã học phần:\t\t\tLLNL1107\nSố tín chỉ\t\t\t02\nSố giờ trên lớp:\t30\nSố giờ tự học\t\t75\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết:\nLLNL1105 - Triết học Mác-Lênin\nLLNL 1106 - Kinh tế chính trị Mác-Lênin\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY\n     (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần:  Lý luận chính trị\nĐịa chỉ: Phòng 1005 Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên giảng dạy học phần:\n3. MÔ TẢ HỌC PHẦN (Course Descriptions) \nNội dung học phần gồm 7 chương: chương 1, trình bày những vấn đề cơ bản có tính nhập môn của Chủ nghĩa xã hội khoa học nhằm làm rõ quá trình hình thành, phát triển của chủ nghĩa xã hội khoa học; đối tượng nghiên cứu, phương pháp nghiên cứu và ý nghĩa của việc nghiên cứu Chủ nghĩa xã hội khoa học. Từ chương 2 đến chương 7 trình bày những vấn đề lý luận cơ bản của chủ nghĩa xã hội khoa học như; Sứ mệnh lịch sứ của giai cấp công nhân, Chủ nghĩa xã hội  và thời kỳ quá độ lên Chủ nghĩa xã hội, nghiên cứu vấn đề dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa; cơ cấu xã hội- giai cấp và liên minh giai cấp, tầng lớp  trong thời kỳ quá độ  lên Chủ nghĩa xã hội; những vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội. Trong mỗi chương sau khi nghiên cứu các vấn đề lý luận cơ bản đều có phần nghiên cứu thực trạng và các phương hướng, quan điểm của Đảng Cộng Sản Việt Nam đối với vấn đề đó ở Việt Nam hiện nay.\nNội dung chính\n- Nhập môn Chủ nghĩa xã hội khoa học\n- Sứ mệnh lịch sử của giai cấp công nhân\n- Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH\n- Dân chủ xã hội chủ nghĩa và Nhà nước XHCN\n- Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong thời kỳ quá độ lên CNXH\n- Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH\n- Gia đình trong thời kỳ quá độ lên CNXH\n4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)\n4.1 Giáo trình \n[1] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ không chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội\n4.2 Tài liệu tham khảo \n[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên môn CNXH Khoa học, Đại học KTQD biên soạn\n[3] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội\n[4] Hội đồng trung ương chỉ đạo biện soạn giáo trình quốc gia, Giáo trình chủ nghĩa xã hội khoa học (tái bản có sửa chữa, bổ sung). Nxb.Chính trị Quốc gia, Hà Nội, 2012.\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và Nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2 Quy định về tham dự lớp học (nếu có)\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học (nếu có)\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác \n11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)\nTháng  6  năm 2024\nPhụ lục\nPhụ lục 1: MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 50 phút\nSố câu hỏi: 80 câu. Mỗi câu 0,125  điểm\nPhụ lục 2: các Rubric\nRubric 1: Chuyên cần/Participant\nRubric 2: Bài tập nhóm\nRubric 3 : Bài tập cá nhân",
-  "created_at": "2025-10-03T00:04:20.971620",
-  "source_file": "backend\\data\\raw\\vi\\Chủ nghĩa xã hội khoa học_LLNL1107.docx",
-  "content_length": 4697
+  "stats": {
+    "paragraphs": 51,
+    "headings": 22,
+    "tables": 11,
+    "chunks": 20,
+    "words": 4691
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-llnl1107#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus) | ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024) | (Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 80,
+      "char_count": 377,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#002",
+      "text": "- Tên học phần (tiếng Việt):\tChủ nghĩa xã hội khoa học\n- Tên học phần (tiếng Anh):\tScientific Socialism\n- Trình độ đào tạo:\t\tĐại học\n- Mã học phần:\t\t\tLLNL1107\n- Số tín chỉ\t\t\t02\n- Số giờ trên lớp:\t30\n- Số giờ tự học\t\t75\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n- LLNL1105 - Triết học Mác-Lênin\n- LLNL 1106 - Kinh tế chính trị Mác-Lênin",
+      "word_count": 85,
+      "char_count": 384,
+      "heading_path": [
+        "1. THÔNG TIN CHUNG (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN CHUNG (General Information)",
+      "breadcrumbs": "1. THÔNG TIN CHUNG (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 14
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#003",
+      "text": "(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần:  Lý luận chính trị\n- Địa chỉ: Phòng 1005 Nhà A1, Trường ĐH Kinh tế Quốc dân\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email NEU\n1 | TS Nguyễn Thị Hào | haont@neu.edu.vn\n2 | TS Nguyễn Văn Hậu | nvhau@neu.edu.vn\n3 | TS Nguyễn Văn Thuân | thuannv@neu.edu.vn\n4 | TS Nguyễn Hồng Sơn | sonnh@neu.edu.vn\n5 | TS Nguyễn Thị Bích Thủy | thuyntb@neu.edu.vn\n6 | TS Nguyễn Thị Lê Thư | thuntl@neu.edu.vn\n7 | ThS Nguyễn Thị Mai Lan | Lanlm@neu.edu.vn\n8 | ThS Võ Thị Hồng Hạnh | hanhvt@neu.edu.vn",
+      "word_count": 110,
+      "char_count": 554,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "position": {
+        "order": 3,
+        "start_block": 15,
+        "end_block": 20
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#004",
+      "text": "Nội dung học phần gồm 7 chương: chương 1, trình bày những vấn đề cơ bản có tính nhập môn của Chủ nghĩa xã hội khoa học nhằm làm rõ quá trình hình thành, phát triển của chủ nghĩa xã hội khoa học; đối tượng nghiên cứu, phương pháp nghiên cứu và ý nghĩa của việc nghiên cứu Chủ nghĩa xã hội khoa học. Từ chương 2 đến chương 7 trình bày những vấn đề lý luận cơ bản của chủ nghĩa xã hội khoa học như; Sứ mệnh lịch sứ của giai cấp công nhân, Chủ nghĩa xã hội  và thời kỳ quá độ lên Chủ nghĩa xã hội, nghiên cứu vấn đề dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa; cơ cấu xã hội- giai cấp và liên minh giai cấp, tầng lớp  trong thời kỳ quá độ  lên Chủ nghĩa xã hội; những vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội. Trong mỗi chương sau khi nghiên cứu các vấn đề lý luận cơ bản đều có phần nghiên cứu thực trạng và các phương hướng, quan điểm của Đảng Cộng Sản Việt Nam đối với vấn đề đó ở Việt Nam hiện nay.",
+      "word_count": 215,
+      "char_count": 953,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 21,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#005",
+      "text": "Nội dung chính\n- Nhập môn Chủ nghĩa xã hội khoa học\n- Sứ mệnh lịch sử của giai cấp công nhân\n- Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH\n- Dân chủ xã hội chủ nghĩa và Nhà nước XHCN\n- Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong thời kỳ quá độ lên CNXH\n- Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH\n- Gia đình trong thời kỳ quá độ lên CNXH",
+      "word_count": 91,
+      "char_count": 368,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 22,
+        "end_block": 30
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#006",
+      "text": "[1] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ không chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội",
+      "word_count": 38,
+      "char_count": 181,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+        "4.1 Giáo trình"
+      ],
+      "primary_heading": "4.1 Giáo trình",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares) > 4.1 Giáo trình",
+      "position": {
+        "order": 6,
+        "start_block": 32,
+        "end_block": 33
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#007",
+      "text": "[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên môn CNXH Khoa học, Đại học KTQD biên soạn\n[3] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội\n[4] Hội đồng trung ương chỉ đạo biện soạn giáo trình quốc gia, Giáo trình chủ nghĩa xã hội khoa học (tái bản có sửa chữa, bổ sung). Nxb.Chính trị Quốc gia, Hà Nội, 2012.",
+      "word_count": 93,
+      "char_count": 444,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+        "4.2 Tài liệu tham khảo"
+      ],
+      "primary_heading": "4.2 Tài liệu tham khảo",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares) > 4.2 Tài liệu tham khảo",
+      "position": {
+        "order": 7,
+        "start_block": 34,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#008",
+      "text": "Bảng 1. Mục tiêu học phần\nMã/Code (CGx) | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT*\n[1] | [2] | [3]\nCG1 | Giúp sinh viên nắm được  những quan điểm cơ bản chủ nghĩa Mác – Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân, nội dung, biểu hiện và ý nghĩa của sứ mệnh lịch sử đó trong bối cảnh hiện nay. Nắm được kiến thức cơ bản  những quan điểm của chủ nghĩa Mác – Lênin về chủ nghĩa xã hội. Thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng sáng tạo của Đảng ta vào điều kiện cụ thể ở Việt Nam Nắm được những vấn đề chính trị - xã hội có tính quy luật trong tiến trình cách mạng xã hội chủ nghĩa như; vấn đề dân chủ XHCN và nhà nước XHCN, vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên CNXH | PLO1.1.2 PLO1.2.2 PLO1.2.3\nCG2 | Sinh viên biết vận dụng những tri thức đã học vào giải thích những vấn đề chính trị - xã hội trong đời sống hiện nay. | PLO2.1.1\nCG2 | Góp phần xây dựng và củng cố niềm tin khoa học, lập trường giai cấp công nhân đối với sự nghiệp xây dựng CNXH trên thế giới cũng như ở Việt Nam Rút tra trách nhiệm của bản thân trước các vấn đề chính trị -xã hội hiện nay. | PLO3.1.1 PLO3.1.2",
+      "word_count": 260,
+      "char_count": 1151,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 8,
+        "start_block": 38,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#009",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO 1.1 | Cung cấp cho người học  những quan điểm cơ bản chủ nghĩa Mác – Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân, nội dung, biểu hiện và ý nghĩa của sứ mệnh lịch sử đó trong bối cảnh hiện nay. | -\nCG1 Kiến thức | CLO 1.2 | Nắm được kiến thức cơ bản  những quan điểm của chủ nghĩa Mác – Lênin về chủ nghĩa xã hội. Thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng sáng tạo của Đảng ta vào điều kiện cụ thể ở Việt Nam | -\nCG1 Kiến thức | CLO 1.3 | Nhận thức đầy đủ và đúng bản chất của nền dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa nói chung ở Việt Nam nói riêng. Trang bị cho sinh viên những kiến thức nền tảng về cơ cấu xã hội –giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội. nắm được quan điểm cơ bản chủ nghĩa Mác – Lênin về vấn đề dân tộc, tôn giáo; mối quan hệ dân tộc và tôn giáo và nội dung chính sách dân tộc, tôn giảo của Đảng và Nhà nước Việt Nam. | -\nCG1 Kiến thức | CLO 1.4 | nắm được những quan điểm cơ bản của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh và Đảng Cộng sản Việt Nam về gia đình, xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội,  xây dựng gia đình ở Việt Nam hiện nay | -\nCG2 Kỹ năng | CLO 2.1 | -Biết vận dụng phương pháp luận và các phương pháp chuyên ngành chủ nghĩa xã hội khoa học vào việc phân tích sứ mệnh lịch sử của giai cấp công nhân Việt Nam trong tiến trình cách mạng ở nước ta. -Biết vận dụng những trị thức có được vào phân tích những vấn đề cơ bản về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam. -Sinh viên có khả năng vận dụng những vấn đề lý luận về dân chủ xã hội chủ nghĩa, nhà nước xã hội chủ nghĩa, vấn đề liên minh giai cấp, tầng lớp, vấn đề dân tộc và tôn giáo vào phân tích những vấn đề thực tiễn liên quan, trước hết là trong công việc và  nhiệm vụ của cá nhân. | -\nCG2 Kỹ năng | CLO 2.2 | Khả năng làm việc độc lập cũng như làm việc theo nhóm để giải quyết các nội dung. | -\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao | -\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.2 | Có niềm tin vào chế độ XHCN, luôn tin tưởng và ủng hộ đường lối của Đảng cộng sản Việt Nam. Có thái độ tích cực với việc học tập các môn lý luận chính trị,  có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao | -",
+      "word_count": 587,
+      "char_count": 2491,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 9,
+        "start_block": 42,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#010",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận các buổi seminar | Tất cả các buổi seminar | 4.1 4.2 4.3 | - Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1 | 10% | …\nĐánh giá quá trình | Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình | Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp | 2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3 | - Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập: | 40% | …\nĐánh giá quá trình | Kiểm tra thực hành Sử dụng phần mềm thực hiện các yêu cầu tính toán và phân tích | Tuần 14 | 2.3, 2.4, 2.5, 3.1, 3.3 | - Số câu trả lời đúng - Xem Phụ lục 2, rubrics 3 | 40% | …\nĐánh giá cuối kỳ | Toàn bộ nội dung học (ngoại trừ phần thực hành | Theo lịch của Trường | 1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3 | - Trắc nghiệm khách quan trên máy - Số câu hỏi: 80 - Thời gian: 50p - Xem Phụ lục 1: ma trận đề thi | 50% | …",
+      "word_count": 327,
+      "char_count": 1340,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 10,
+        "start_block": 46,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#011",
+      "text": "Bảng 4. Kế hoạch và Nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương: Nhập môn CNXH Khoa học I. Sự ra đời của CNXH Khoa học II. Các giai đoạn phát triển cơ bản của CNXH Khoa học. III. Đối tượng, phương pháp và ý nghĩa của việc nghiên cứu CNXH Khoa học | [1] Chương 1 [2] Chương 1 [3] Chương 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | -\n2 | Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm | [1] Chương 1 [2] Chương 1 [3] Chương 1 | Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi  thảo luận | -\n3 | Lecture 2. Chương 2: Sứ mệnh lịch sử của giai cấp công nhân I. Quan điểm cơ bản của CN Mác-Lênin về sứ mệnh lịch sử của giai cấp công nhân. II.Giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân hiện nay III.Sứ mệnh lịch sử của giai cấp công nhân Việt Nam | [1] Chương 2 [2] Chương 2 [3] Chương 4 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 | - | …\n4 | Seminar 2 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày  chủ đề 1, chủ để 2 | [1] Chương 2 [2] Chương 2 [3] Chương 4 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 2 - Trả lời câu hỏi  thảo luận | -\n5 | Lecture 3. Chương 3: Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH I. Chủ nghĩa xã hội II.Thời kỳ quá độ lên CNXH III.Thời kỳ quá độ lên CNXH ở Việt Nam | [1] Chương 3 [2] Chương 3 [3] Chương 5 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 | - | …\n6 | Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 3, chủ để 4 | [1] Chương 3 [2] Chương 3 [3] Chương 5 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 3 - Trả lời câu hỏi  thảo luận | …\n7 | Lecture 4. Chương 4: Dân chủ XHCN và Nhà nước XHCN I.Dân chủ xã hội chủ nghĩa. II.Nhà nước XHCN III.Dân chủ XHCN và Nhà nước pháp quyền XHCN ở Việt Nam | [1] Chương 4 [2] Chương 4 [3] Chương 8 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 | - | -\n8 | Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 5 -Hướng dẫn và giao chủ đề bài tập cá nhân giữa kỳ | [1] Chương 4 [2] Chương 4 [3] Chương 8 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học -Hướng dẫn làm bài tập cá nhân giữa kỳ Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 4 - Trả lời câu hỏi  thảo luận | -\n9 | Lecture 5 Chương 5: Cơ cấu xã hội – giai cấp và liên minh giai cấp tầng lớp trong TKQĐ lên CNXH I.Cơ cấu xã hội giai cấp trong TKQĐ lên CNXH. II.Liên minh giai cấp tầng lớp trong TKQĐ lên CNXH III. Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong TKQĐ lên CNXH ở Việt Nam. | [1] Chương 5 [2] Chương 5 [3] Chương IX | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 | - | -\n10 | Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 6, chủ đề 7 | [1] Chương 5 [2] Chương 5 [3] Chương IX | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 5 - Trả lời câu hỏi  thảo luận | -\n11 | Lecture 6 Chương 6: Vấn đề dân tộc và tôn giáo trong TKQĐ lên CNXH I.Dân tộc trong TKQĐ lên CNXH. II.Tôn giáo trong TKQĐ lên CNXH IIIMối quan hệ giữa dân tộc và tôn giáo trong TKQĐ lên CNXH ở Việt Nam. | 1] Chương 6 [2] Chương 6 [3] Chương X, XIV | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 | - | -\n12 | Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 7, chủ đề 8 | 1] Chương 6 [2] Chương 6 [3] Chương X, XIV | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | Điểm danh - Trả lời câu hỏi trong slide seminar 6 - Trả lời câu hỏi  thảo luận | -\n13 | Lecture 7 Chương 7: Vấn đề gia đình trong TKQĐ lên CNXH I.Khái niệm, vị trí và chức năng của gia đình. II.Cơ sở xây dựng gia đình trong TKQĐ lên CNXH III Xây dựng gia đình trong TKQĐ lên CNXH ở Việt Nam. | [1] Chương 7 [2] Chương 7 [3] Chương XIII | nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7 | - | -\n14 | Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 7, chủ đề 8 | [1] Chương 7 [2] Chương 7 [3] Chương XIII | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học -Hướng dẫn làm bài tập cá nhân giữa kỳ Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | Điểm danh - Trả lời câu hỏi trong slide seminar 7 - Trả lời câu hỏi  thảo luận | -\n15 | Seminar 8 Hệ thống, ôn tập lại các kiến thức | [1] tất cả 7 chương [2] Tất cả 7 chương [3] Những Chương liên quan | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi | Điểm danh - Trả lời câu hỏi trong slide seminar 7 - Trả lời câu hỏi  thảo luận | -\nLịch thi | Thi cuối kỳ | [1] tất cả 7 chương [2] Tất cả 7 chương [3] Những Chương liên quan | Thi trắc nghiệm / tự luận – Chỉ ghi 1 hình thức | Xem Phụ lục 1: ma trận đề thi | Xem Bảng 3",
+      "word_count": 1798,
+      "char_count": 7501,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 11,
+        "start_block": 54,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#012",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)",
+      "position": {
+        "order": 12,
+        "start_block": 60,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#013",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 13,
+        "start_block": 63,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#014",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2 Quy định về tham dự lớp học (nếu có)"
+      ],
+      "primary_heading": "10.2 Quy định về tham dự lớp học (nếu có)",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2 Quy định về tham dự lớp học (nếu có)",
+      "position": {
+        "order": 14,
+        "start_block": 66,
+        "end_block": 68
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#015",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác",
+      "word_count": 91,
+      "char_count": 417,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học (nếu có)"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học (nếu có)",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học (nếu có)",
+      "position": {
+        "order": 15,
+        "start_block": 69,
+        "end_block": 75
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#016",
+      "text": "Tháng  6  năm 2024\nTRƯỞNG KHOA TS Nguyễn Thị Hoàn | HIỆU TRƯỞNG GS.TS Phạm Hồng Chương",
+      "word_count": 17,
+      "char_count": 86,
+      "heading_path": [
+        "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "primary_heading": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "breadcrumbs": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "position": {
+        "order": 16,
+        "start_block": 76,
+        "end_block": 91
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#017",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 50 phút\n- Số câu hỏi: 80 câu. Mỗi câu 0,125  điểm\nBài | CLO | Nhớ | Hiểu | Vận dụng | Tổng\nLecture 1 | 1.1, 2.1 | 4 | - | - | 4\nLecture 2 | 1.2, 1.3 | 6 | 8 | 2 | 16\nLecture 3 | 1.4, 2.4 | 10 | 8 | 4 | 22\nLecture 4 | 1.1, 2.1 | 3 | 2 | 1 | 6\nLecture 5 | 1.5, 2.5 | 5 | 5 | 2 | 12\nLecture 6 | 1.2, 3.3 | 5 | 5 | 2 | 12\nCâu hỏi tổng hợp | 3.1, 3.2, 3.4 | - | 6 | 2 | 8\nTổng số câu | Tổng số câu | 33 | 34 | 13 | 80\nTỷ lrọng | Tỷ lrọng | 40% | 40% | 20% | 100%",
+      "word_count": 168,
+      "char_count": 560,
+      "heading_path": [
+        "Phụ lục",
+        "Phụ lục 1: MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1: MA TRẬN ĐỀ THI",
+      "breadcrumbs": "Phụ lục > Phụ lục 1: MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 17,
+        "start_block": 93,
+        "end_block": 99
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#018",
+      "text": "Rubric 1: Chuyên cần/Participant\nCác đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nSố buổi có mặt trên lớp | 50% | 15 buổi | 14 buổi | 13 buổi | 12 buổi\nThái độ học tập trên lớp | 30% | Nghiêm túc, chấp hành kỷ luật lớp học  giữ trật tự | Bị nhắc nhở 1 lần | Bị nhắc từ 2 lần | Bị nhắc nhở nhiều lần\nTích cực xây dựng bài | 20% | Trả lời đúng nhiều câu hỏi | Trả lời đúng một câu hỏi | Có tham gia thảo luận | Không tham gia thảo luận\nRubric 2: Bài tập nhóm",
+      "word_count": 143,
+      "char_count": 625,
+      "heading_path": [
+        "Phụ lục",
+        "Phụ lục 2: các Rubric"
+      ],
+      "primary_heading": "Phụ lục 2: các Rubric",
+      "breadcrumbs": "Phụ lục > Phụ lục 2: các Rubric",
+      "position": {
+        "order": 18,
+        "start_block": 100,
+        "end_block": 104
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#019",
+      "text": "Các đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nNội dung bài tập nhóm đúng yêu cầu của đề bài | 30% | Đầy đủ nội dung, có sáng tạo | Đầy đủ nội dung | đầy đủ nội dung | Chưa đầy đủ\nKỹ  năng Thuyết trình | 30% | Có kịch bản hay, thuyết trình lưu loát | Có kịch bản, thuyết trình tốt | Thuyết trình đạt yêu cầu | Không đạt yeey cầu\nTrả lời các câu hỏi của các nhóm | 20% | Trả lời đúng trên 5 câu hỏi | Trả lời đúng từ 1 đến 4 câu hỏi | Có tham gia trả lời câu hỏi, nhưng không trả lời đúng | Không trả lời câu hỏi nào.\nTrả lời các câu hỏi của giáo viên | 20% | Trả lời đúng trên 5 câu hỏi | Trả lời đúng từ 1 đến 4 câu hỏi | Có tham gia trả lời câu hỏi, nhưng không trả lời đúng | Không trả lời câu hỏi nào.",
+      "word_count": 207,
+      "char_count": 876,
+      "heading_path": [
+        "Phụ lục",
+        "Phụ lục 2: các Rubric"
+      ],
+      "primary_heading": "Phụ lục 2: các Rubric",
+      "breadcrumbs": "Phụ lục > Phụ lục 2: các Rubric",
+      "position": {
+        "order": 19,
+        "start_block": 104,
+        "end_block": 104
+      }
+    },
+    {
+      "chunk_id": "vi-llnl1107#020",
+      "text": "Rubric 3 : Bài tập cá nhân\nCác đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nNộp đúng thời hạn quy định | 10% | Nộp đúng thời gian quy đinh | Nộp không đúng hạn 1 ngày | Nộp không đúng hạn 3 ngày | Nộp không đúng hạn 5 ngày\nHệ thống được những vấn đề lý luận | 20% | Luận giải đầy đủ cơ sở lý luận | Luận giải được ¾ cơ sở lý luận | Luận giải được ½  cơ sở lý luận | Không liên hệ được\nKhảo sát thực trạng (hoặc liên hệ thực tế) | 30% | Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ | Số liệu tương đối cập nhật, phân tích khái quát | Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu | Khảo sát sơ sài\nĐề xuất được một số giải pháp | 30% | Các giải pháp hay, có tính khả thi | Các giải pháp tương đối khả thi | Giải pháp sơ sài | Không đưa ra được giải pháp\nHình thức trình bày đúng quy cách, không có lỗi chính tả | 5% | Nộp đúng thời gian quy đinh | Nộp không đúng hạn 1 ngày | Nộp không đúng hạn 3 ngày | Nộp không đúng hạn 5 ngày",
+      "word_count": 262,
+      "char_count": 1117,
+      "heading_path": [
+        "Phụ lục",
+        "Phụ lục 2: các Rubric"
+      ],
+      "primary_heading": "Phụ lục 2: các Rubric",
+      "breadcrumbs": "Phụ lục > Phụ lục 2: các Rubric",
+      "position": {
+        "order": 20,
+        "start_block": 106,
+        "end_block": 107
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc\nĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus) | ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024) | (Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN CHUNG (General Information)\n- Tên học phần (tiếng Việt):\tChủ nghĩa xã hội khoa học\n- Tên học phần (tiếng Anh):\tScientific Socialism\n- Trình độ đào tạo:\t\tĐại học\n- Mã học phần:\t\t\tLLNL1107\n- Số tín chỉ\t\t\t02\n- Số giờ trên lớp:\t30\n- Số giờ tự học\t\t75\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n- LLNL1105 - Triết học Mác-Lênin\n- LLNL 1106 - Kinh tế chính trị Mác-Lênin\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY\n(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần:  Lý luận chính trị\n- Địa chỉ: Phòng 1005 Nhà A1, Trường ĐH Kinh tế Quốc dân\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email NEU\n1 | TS Nguyễn Thị Hào | haont@neu.edu.vn\n2 | TS Nguyễn Văn Hậu | nvhau@neu.edu.vn\n3 | TS Nguyễn Văn Thuân | thuannv@neu.edu.vn\n4 | TS Nguyễn Hồng Sơn | sonnh@neu.edu.vn\n5 | TS Nguyễn Thị Bích Thủy | thuyntb@neu.edu.vn\n6 | TS Nguyễn Thị Lê Thư | thuntl@neu.edu.vn\n7 | ThS Nguyễn Thị Mai Lan | Lanlm@neu.edu.vn\n8 | ThS Võ Thị Hồng Hạnh | hanhvt@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nNội dung học phần gồm 7 chương: chương 1, trình bày những vấn đề cơ bản có tính nhập môn của Chủ nghĩa xã hội khoa học nhằm làm rõ quá trình hình thành, phát triển của chủ nghĩa xã hội khoa học; đối tượng nghiên cứu, phương pháp nghiên cứu và ý nghĩa của việc nghiên cứu Chủ nghĩa xã hội khoa học. Từ chương 2 đến chương 7 trình bày những vấn đề lý luận cơ bản của chủ nghĩa xã hội khoa học như; Sứ mệnh lịch sứ của giai cấp công nhân, Chủ nghĩa xã hội  và thời kỳ quá độ lên Chủ nghĩa xã hội, nghiên cứu vấn đề dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa; cơ cấu xã hội- giai cấp và liên minh giai cấp, tầng lớp  trong thời kỳ quá độ  lên Chủ nghĩa xã hội; những vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội. Trong mỗi chương sau khi nghiên cứu các vấn đề lý luận cơ bản đều có phần nghiên cứu thực trạng và các phương hướng, quan điểm của Đảng Cộng Sản Việt Nam đối với vấn đề đó ở Việt Nam hiện nay.\nNội dung chính\n- Nhập môn Chủ nghĩa xã hội khoa học\n- Sứ mệnh lịch sử của giai cấp công nhân\n- Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH\n- Dân chủ xã hội chủ nghĩa và Nhà nước XHCN\n- Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong thời kỳ quá độ lên CNXH\n- Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH\n- Gia đình trong thời kỳ quá độ lên CNXH\n4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)\n4.1 Giáo trình\n[1] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ không chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội\n4.2 Tài liệu tham khảo\n[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên môn CNXH Khoa học, Đại học KTQD biên soạn\n[3] Bộ giáo dục và đào tạo (2021), Giáo trình Chủ nghĩa Xã hội khoa học (Sử dụng trong các trường Đại học- Hệ chuyên lý luận chính trị), NXB Chính tri quốc gia-Sự thật, Hà nội\n[4] Hội đồng trung ương chỉ đạo biện soạn giáo trình quốc gia, Giáo trình chủ nghĩa xã hội khoa học (tái bản có sửa chữa, bổ sung). Nxb.Chính trị Quốc gia, Hà Nội, 2012.\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã/Code (CGx) | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT*\n[1] | [2] | [3]\nCG1 | Giúp sinh viên nắm được  những quan điểm cơ bản chủ nghĩa Mác – Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân, nội dung, biểu hiện và ý nghĩa của sứ mệnh lịch sử đó trong bối cảnh hiện nay. Nắm được kiến thức cơ bản  những quan điểm của chủ nghĩa Mác – Lênin về chủ nghĩa xã hội. Thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng sáng tạo của Đảng ta vào điều kiện cụ thể ở Việt Nam Nắm được những vấn đề chính trị - xã hội có tính quy luật trong tiến trình cách mạng xã hội chủ nghĩa như; vấn đề dân chủ XHCN và nhà nước XHCN, vấn đề dân tộc và tôn giáo, vấn đề gia đình trong thời kỳ quá độ lên CNXH | PLO1.1.2 PLO1.2.2 PLO1.2.3\nCG2 | Sinh viên biết vận dụng những tri thức đã học vào giải thích những vấn đề chính trị - xã hội trong đời sống hiện nay. | PLO2.1.1\nCG2 | Góp phần xây dựng và củng cố niềm tin khoa học, lập trường giai cấp công nhân đối với sự nghiệp xây dựng CNXH trên thế giới cũng như ở Việt Nam Rút tra trách nhiệm của bản thân trước các vấn đề chính trị -xã hội hiện nay. | PLO3.1.1 PLO3.1.2\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO 1.1 | Cung cấp cho người học  những quan điểm cơ bản chủ nghĩa Mác – Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân, nội dung, biểu hiện và ý nghĩa của sứ mệnh lịch sử đó trong bối cảnh hiện nay. | -\nCG1 Kiến thức | CLO 1.2 | Nắm được kiến thức cơ bản  những quan điểm của chủ nghĩa Mác – Lênin về chủ nghĩa xã hội. Thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng sáng tạo của Đảng ta vào điều kiện cụ thể ở Việt Nam | -\nCG1 Kiến thức | CLO 1.3 | Nhận thức đầy đủ và đúng bản chất của nền dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa nói chung ở Việt Nam nói riêng. Trang bị cho sinh viên những kiến thức nền tảng về cơ cấu xã hội –giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội. nắm được quan điểm cơ bản chủ nghĩa Mác – Lênin về vấn đề dân tộc, tôn giáo; mối quan hệ dân tộc và tôn giáo và nội dung chính sách dân tộc, tôn giảo của Đảng và Nhà nước Việt Nam. | -\nCG1 Kiến thức | CLO 1.4 | nắm được những quan điểm cơ bản của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh và Đảng Cộng sản Việt Nam về gia đình, xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội,  xây dựng gia đình ở Việt Nam hiện nay | -\nCG2 Kỹ năng | CLO 2.1 | -Biết vận dụng phương pháp luận và các phương pháp chuyên ngành chủ nghĩa xã hội khoa học vào việc phân tích sứ mệnh lịch sử của giai cấp công nhân Việt Nam trong tiến trình cách mạng ở nước ta. -Biết vận dụng những trị thức có được vào phân tích những vấn đề cơ bản về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam. -Sinh viên có khả năng vận dụng những vấn đề lý luận về dân chủ xã hội chủ nghĩa, nhà nước xã hội chủ nghĩa, vấn đề liên minh giai cấp, tầng lớp, vấn đề dân tộc và tôn giáo vào phân tích những vấn đề thực tiễn liên quan, trước hết là trong công việc và  nhiệm vụ của cá nhân. | -\nCG2 Kỹ năng | CLO 2.2 | Khả năng làm việc độc lập cũng như làm việc theo nhóm để giải quyết các nội dung. | -\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao | -\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.2 | Có niềm tin vào chế độ XHCN, luôn tin tưởng và ủng hộ đường lối của Đảng cộng sản Việt Nam. Có thái độ tích cực với việc học tập các môn lý luận chính trị,  có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao | -\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận các buổi seminar | Tất cả các buổi seminar | 4.1 4.2 4.3 | - Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1 | 10% | …\nĐánh giá quá trình | Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình | Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp | 2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3 | - Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập: | 40% | …\nĐánh giá quá trình | Kiểm tra thực hành Sử dụng phần mềm thực hiện các yêu cầu tính toán và phân tích | Tuần 14 | 2.3, 2.4, 2.5, 3.1, 3.3 | - Số câu trả lời đúng - Xem Phụ lục 2, rubrics 3 | 40% | …\nĐánh giá cuối kỳ | Toàn bộ nội dung học (ngoại trừ phần thực hành | Theo lịch của Trường | 1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3 | - Trắc nghiệm khách quan trên máy - Số câu hỏi: 80 - Thời gian: 50p - Xem Phụ lục 1: ma trận đề thi | 50% | …\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và Nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương: Nhập môn CNXH Khoa học I. Sự ra đời của CNXH Khoa học II. Các giai đoạn phát triển cơ bản của CNXH Khoa học. III. Đối tượng, phương pháp và ý nghĩa của việc nghiên cứu CNXH Khoa học | [1] Chương 1 [2] Chương 1 [3] Chương 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | -\n2 | Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm | [1] Chương 1 [2] Chương 1 [3] Chương 1 | Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi  thảo luận | -\n3 | Lecture 2. Chương 2: Sứ mệnh lịch sử của giai cấp công nhân I. Quan điểm cơ bản của CN Mác-Lênin về sứ mệnh lịch sử của giai cấp công nhân. II.Giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân hiện nay III.Sứ mệnh lịch sử của giai cấp công nhân Việt Nam | [1] Chương 2 [2] Chương 2 [3] Chương 4 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 | - | …\n4 | Seminar 2 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày  chủ đề 1, chủ để 2 | [1] Chương 2 [2] Chương 2 [3] Chương 4 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 2 - Trả lời câu hỏi  thảo luận | -\n5 | Lecture 3. Chương 3: Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH I. Chủ nghĩa xã hội II.Thời kỳ quá độ lên CNXH III.Thời kỳ quá độ lên CNXH ở Việt Nam | [1] Chương 3 [2] Chương 3 [3] Chương 5 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 | - | …\n6 | Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 3, chủ để 4 | [1] Chương 3 [2] Chương 3 [3] Chương 5 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 3 - Trả lời câu hỏi  thảo luận | …\n7 | Lecture 4. Chương 4: Dân chủ XHCN và Nhà nước XHCN I.Dân chủ xã hội chủ nghĩa. II.Nhà nước XHCN III.Dân chủ XHCN và Nhà nước pháp quyền XHCN ở Việt Nam | [1] Chương 4 [2] Chương 4 [3] Chương 8 | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 | - | -\n8 | Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 5 -Hướng dẫn và giao chủ đề bài tập cá nhân giữa kỳ | [1] Chương 4 [2] Chương 4 [3] Chương 8 | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học -Hướng dẫn làm bài tập cá nhân giữa kỳ Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 4 - Trả lời câu hỏi  thảo luận | -\n9 | Lecture 5 Chương 5: Cơ cấu xã hội – giai cấp và liên minh giai cấp tầng lớp trong TKQĐ lên CNXH I.Cơ cấu xã hội giai cấp trong TKQĐ lên CNXH. II.Liên minh giai cấp tầng lớp trong TKQĐ lên CNXH III. Cơ cấu xã hội giai cấp và liên minh giai cấp tầng lớp trong TKQĐ lên CNXH ở Việt Nam. | [1] Chương 5 [2] Chương 5 [3] Chương IX | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 | - | -\n10 | Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 6, chủ đề 7 | [1] Chương 5 [2] Chương 5 [3] Chương IX | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | - Điểm danh - Trả lời câu hỏi trong slide seminar 5 - Trả lời câu hỏi  thảo luận | -\n11 | Lecture 6 Chương 6: Vấn đề dân tộc và tôn giáo trong TKQĐ lên CNXH I.Dân tộc trong TKQĐ lên CNXH. II.Tôn giáo trong TKQĐ lên CNXH IIIMối quan hệ giữa dân tộc và tôn giáo trong TKQĐ lên CNXH ở Việt Nam. | 1] Chương 6 [2] Chương 6 [3] Chương X, XIV | Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 | - | -\n12 | Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 7, chủ đề 8 | 1] Chương 6 [2] Chương 6 [3] Chương X, XIV | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | Điểm danh - Trả lời câu hỏi trong slide seminar 6 - Trả lời câu hỏi  thảo luận | -\n13 | Lecture 7 Chương 7: Vấn đề gia đình trong TKQĐ lên CNXH I.Khái niệm, vị trí và chức năng của gia đình. II.Cơ sở xây dựng gia đình trong TKQĐ lên CNXH III Xây dựng gia đình trong TKQĐ lên CNXH ở Việt Nam. | [1] Chương 7 [2] Chương 7 [3] Chương XIII | nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7 | - | -\n14 | Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày  chủ đề 7, chủ đề 8 | [1] Chương 7 [2] Chương 7 [3] Chương XIII | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học -Hướng dẫn làm bài tập cá nhân giữa kỳ Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận | Điểm danh - Trả lời câu hỏi trong slide seminar 7 - Trả lời câu hỏi  thảo luận | -\n15 | Seminar 8 Hệ thống, ôn tập lại các kiến thức | [1] tất cả 7 chương [2] Tất cả 7 chương [3] Những Chương liên quan | Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi | Điểm danh - Trả lời câu hỏi trong slide seminar 7 - Trả lời câu hỏi  thảo luận | -\nLịch thi | Thi cuối kỳ | [1] tất cả 7 chương [2] Tất cả 7 chương [3] Những Chương liên quan | Thi trắc nghiệm / tự luận – Chỉ ghi 1 hình thức | Xem Phụ lục 1: ma trận đề thi | Xem Bảng 3\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2 Quy định về tham dự lớp học (nếu có)\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học (nếu có)\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác\n11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)\nTháng  6  năm 2024\nTRƯỞNG KHOA TS Nguyễn Thị Hoàn | HIỆU TRƯỞNG GS.TS Phạm Hồng Chương\nPhụ lục\nPhụ lục 1: MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 50 phút\n- Số câu hỏi: 80 câu. Mỗi câu 0,125  điểm\nBài | CLO | Nhớ | Hiểu | Vận dụng | Tổng\nLecture 1 | 1.1, 2.1 | 4 | - | - | 4\nLecture 2 | 1.2, 1.3 | 6 | 8 | 2 | 16\nLecture 3 | 1.4, 2.4 | 10 | 8 | 4 | 22\nLecture 4 | 1.1, 2.1 | 3 | 2 | 1 | 6\nLecture 5 | 1.5, 2.5 | 5 | 5 | 2 | 12\nLecture 6 | 1.2, 3.3 | 5 | 5 | 2 | 12\nCâu hỏi tổng hợp | 3.1, 3.2, 3.4 | - | 6 | 2 | 8\nTổng số câu | Tổng số câu | 33 | 34 | 13 | 80\nTỷ lrọng | Tỷ lrọng | 40% | 40% | 20% | 100%\nPhụ lục 2: các Rubric\nRubric 1: Chuyên cần/Participant\nCác đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nSố buổi có mặt trên lớp | 50% | 15 buổi | 14 buổi | 13 buổi | 12 buổi\nThái độ học tập trên lớp | 30% | Nghiêm túc, chấp hành kỷ luật lớp học  giữ trật tự | Bị nhắc nhở 1 lần | Bị nhắc từ 2 lần | Bị nhắc nhở nhiều lần\nTích cực xây dựng bài | 20% | Trả lời đúng nhiều câu hỏi | Trả lời đúng một câu hỏi | Có tham gia thảo luận | Không tham gia thảo luận\nRubric 2: Bài tập nhóm\nCác đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nNội dung bài tập nhóm đúng yêu cầu của đề bài | 30% | Đầy đủ nội dung, có sáng tạo | Đầy đủ nội dung | đầy đủ nội dung | Chưa đầy đủ\nKỹ  năng Thuyết trình | 30% | Có kịch bản hay, thuyết trình lưu loát | Có kịch bản, thuyết trình tốt | Thuyết trình đạt yêu cầu | Không đạt yeey cầu\nTrả lời các câu hỏi của các nhóm | 20% | Trả lời đúng trên 5 câu hỏi | Trả lời đúng từ 1 đến 4 câu hỏi | Có tham gia trả lời câu hỏi, nhưng không trả lời đúng | Không trả lời câu hỏi nào.\nTrả lời các câu hỏi của giáo viên | 20% | Trả lời đúng trên 5 câu hỏi | Trả lời đúng từ 1 đến 4 câu hỏi | Có tham gia trả lời câu hỏi, nhưng không trả lời đúng | Không trả lời câu hỏi nào.\nRubric 3 : Bài tập cá nhân\nCác đánh giá/Areas of assessment | Tỷ trọng/ Weighting (%) | Hoàn thành xuất sắc/ Excellence 8.5 – 10 point | Hoàn thành tốt/Good 6.5 – 8.4 point | Hoàn thành/Fair 4.0 – 6.4 point | Không hoàn thành/Poor 0 – 3.9 point\nNộp đúng thời hạn quy định | 10% | Nộp đúng thời gian quy đinh | Nộp không đúng hạn 1 ngày | Nộp không đúng hạn 3 ngày | Nộp không đúng hạn 5 ngày\nHệ thống được những vấn đề lý luận | 20% | Luận giải đầy đủ cơ sở lý luận | Luận giải được ¾ cơ sở lý luận | Luận giải được ½  cơ sở lý luận | Không liên hệ được\nKhảo sát thực trạng (hoặc liên hệ thực tế) | 30% | Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ | Số liệu tương đối cập nhật, phân tích khái quát | Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu | Khảo sát sơ sài\nĐề xuất được một số giải pháp | 30% | Các giải pháp hay, có tính khả thi | Các giải pháp tương đối khả thi | Giải pháp sơ sài | Không đưa ra được giải pháp\nHình thức trình bày đúng quy cách, không có lỗi chính tả | 5% | Nộp đúng thời gian quy đinh | Nộp không đúng hạn 1 ngày | Nộp không đúng hạn 3 ngày | Nộp không đúng hạn 5 ngày"
 }

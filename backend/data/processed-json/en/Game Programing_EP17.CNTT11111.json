@@ -1,108 +1,310 @@
 {
-  "id": "EP17.CNTT11111",
-  "filename": "Game Programing_EP17.CNTT11111.docx",
+  "doc_id": "en-ep17-cntt11111",
   "language": "en",
-  "subject_name": "Game Programing_EP17.CNTT11111",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Game Programing",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11111",
+  "source_filename": "Game Programing_EP17.CNTT11111.docx",
+  "source_relpath": "data\\raw\\en\\Game Programing_EP17.CNTT11111.docx",
+  "source_hash": "518633caa552d491fd5a639b29fe9c7b",
+  "source_modified": "2025-10-11T10:42:50.594126+00:00",
+  "processed_at": "2025-10-12T13:02:24.205312+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "Title: Game Programming",
-        "Code: CNTT11111",
-        "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
-        "Credit hours for teaching and learning activities:",
-        "Lecture: 35 hrs",
-        "Exercises on class: 10 hrs",
-        "Self-study: 90 hrs.",
-        "Parallel course(s): None",
-        "Prerequisite course(s): None",
-        "Faculty conducting the course:",
-        "Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
-        "Lecturers:",
-        "MSc. Cao Thị Thu Hương, Tel: 0912916316  Email: huongct@neu.edu.vn",
-        "MSc. Nguyễn Quỳnh Mai  Tel: 0983151792  Email: mainq@neu.edu.vn",
-        "Kind of the course:",
-        "* Meeting hour:"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "The course will equip students with basic knowledge of game programming. Students will be introduced to the game development process, the basic components of a game and game design, as well as basic knowledge about game engines. The course mainly introduces Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. The course also equips skills for teamwork, designing and deploying simple applications, compiling and running on devices; Reading and searching skills in English."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "Text Book(s):",
-        "[1] Jared, H. (2019). Developing 2D Games with Unity: Independent Game Programming with C#. USA: Apress.",
-        "[2] Blackman, S. (2019). Beginning 3D Game Developtment with Unity. USA: Apress.",
-        "Others:",
-        "[3] Alan, T. (2019). Learn Unity for 2D Game Developtment. USA: Press.",
-        "[4] Thorn, A. (2018). Pro Unity Game Development with C#. USA: Apress",
-        "Software: Visual Studio Code, Unity, …"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. COURSE OUTLINE",
-      "content": [
-        "Table 7. Course outline"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE OUTLINE"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan for the course"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams"
     },
     {
-      "heading": "9.3. Requirements for in-class behaviour",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behaviour"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\nTitle: Game Programming\nCode: CNTT11111\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities: \nLecture: 35 hrs\nExercises on class: 10 hrs\nSelf-study: 90 hrs. \nParallel course(s): None \nPrerequisite course(s): None \nFaculty conducting the course: \nInformation Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers: \nMSc. Cao Thị Thu Hương, Tel: 0912916316  Email: huongct@neu.edu.vn\nMSc. Nguyễn Quỳnh Mai  Tel: 0983151792  Email: mainq@neu.edu.vn \nKind of the course: \n* Meeting hour:\t \n2. COURSE DESCRIPTIONS \nThe course will equip students with basic knowledge of game programming. Students will be introduced to the game development process, the basic components of a game and game design, as well as basic knowledge about game engines. The course mainly introduces Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. The course also equips skills for teamwork, designing and deploying simple applications, compiling and running on devices; Reading and searching skills in English.\n3. LEARNING RESOURCES \nText Book(s):\n[1] Jared, H. (2019). Developing 2D Games with Unity: Independent Game Programming with C#. USA: Apress.\n[2] Blackman, S. (2019). Beginning 3D Game Developtment with Unity. USA: Apress.\nOthers: \n[3] Alan, T. (2019). Learn Unity for 2D Game Developtment. USA: Press.\n[4] Thorn, A. (2018). Pro Unity Game Development with C#. USA: Apress\nSoftware: Visual Studio Code, Unity, …\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:25.361946",
-  "source_file": "backend\\data\\raw\\en\\Game Programing_EP17.CNTT11111.docx",
-  "content_length": 3341
+  "stats": {
+    "paragraphs": 36,
+    "headings": 12,
+    "tables": 8,
+    "chunks": 14,
+    "words": 2444
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt11111#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering",
+      "word_count": 50,
+      "char_count": 387,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#002",
+      "text": "- Title: Game Programming\n- Code: CNTT11111\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 35 hrs\n- Exercises on class: 10 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): None\n- Faculty conducting the course:\n- Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- MSc. Cao Thị Thu Hương, Tel: 0912916316  Email: huongct@neu.edu.vn\n- MSc. Nguyễn Quỳnh Mai  Tel: 0983151792  Email: mainq@neu.edu.vn\n- Kind of the course:",
+      "word_count": 104,
+      "char_count": 648,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 19
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#003",
+      "text": "Foundation □ | Foundation □ | Fundamental □ | Fundamental □\nCompulsory □ | Elective □ | Compulsory □ | Elective □\n* Meeting hour:",
+      "word_count": 25,
+      "char_count": 129,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 19,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#004",
+      "text": "The course will equip students with basic knowledge of game programming. Students will be introduced to the game development process, the basic components of a game and game design, as well as basic knowledge about game engines. The course mainly introduces Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. The course also equips skills for teamwork, designing and deploying simple applications, compiling and running on devices; Reading and searching skills in English.",
+      "word_count": 83,
+      "char_count": 529,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 22,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#005",
+      "text": "Text Book(s):\n[1] Jared, H. (2019). Developing 2D Games with Unity: Independent Game Programming with C#. USA: Apress.\n[2] Blackman, S. (2019). Beginning 3D Game Developtment with Unity. USA: Apress.\nOthers:\n[3] Alan, T. (2019). Learn Unity for 2D Game Developtment. USA: Press.\n[4] Thorn, A. (2018). Pro Unity Game Development with C#. USA: Apress\nSoftware: Visual Studio Code, Unity, …",
+      "word_count": 61,
+      "char_count": 387,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 24,
+        "end_block": 31
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | The course provides in-depth knowledge of game development process, the basic components of a game and game design, as well as basic knowledge about game engines; Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | Learning to practice thinking skills, problem solving and good practice skills to game programming. | PLO2.2 | 4U\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO 3.4 | 4, 4, 4",
+      "word_count": 123,
+      "char_count": 707,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 32,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand the components of Unity Game processing | ITU4\nG1 | CLO1.2 | Understand the process of building a Unity Game | ITU4\nG2 | CLO2.1 | Skills in reading and understanding reference documents and presenting project reports | TU4\nG2 | CLO2.2 | Skills in searching, evaluating and synthesizing documents on the internet and forums | TU4\nG2 | CLO2.3 | Game building skills using Unity game engine | TU4\nG3 | CLO3.1 | Ability to self-study C#, Unity related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the excercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to game programming. | U4",
+      "word_count": 158,
+      "char_count": 943,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 35,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#008",
+      "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | - | -\nMidterm exam 1 (Individual test) | CLO1.1 CLO1.2 CLO2.1 CLO2.2 | 20% | 12\nMidterm exam 2 (Group works) | CLO1.x CLO2.x CLO3.x | 20% | 14-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 50% | -",
+      "word_count": 95,
+      "char_count": 571,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 38,
+        "end_block": 41
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#009",
+      "text": "Table 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Chapter 1: Foundations of Game Development Introduction to Game Development Overview of game development process Introduction to game engines | [1] Chapter 1, 2 | CLO1.1 | Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)\n2-3 | Chapter 1: Foundations of Game Development Introduction to Unity Basics of Unity interface Creating and manipulating game objects Introduction to scripting in C# | [1] Chapter 3,4 | CLO1.1 CLO2.1 | Q and A Homework 1,2 discussion (TU) Lecture (T) Homework 2,3 (U)\n4 | Chapter 1: Foundations of Game Development Unity Scripting Basics Variables Data types Operators Control structures | [1] Chapter 5 | CLO1.1 CLO2.1 CLO2.2 CLO3.1 | Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)\n5-6 | Chapter 2: 2D Game Development 2D Game Development Fundamentals 2D physics Collisions Sprites Animations | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Q and A Homework 4,5 discussion (TU) Lecture (T) Homework 5,6 (U)\n7-8 | Chapter 2: 2D Game Development Advanced 2D Game Development User input and controls Tilemaps and level design | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3 | Q and A Homework 6,7 discussion (TU) Lecture (T) Homework 7,8 (U)\n9-10 | Chapter 3: 3D Game Development Introduction to 3D Graphics Basics of 3D modeling Materials Textures Shaders | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Q and A Homework 8,9 discussion (TU) Lecture (T) Homework 9,10 (U)\n11-12 | Chapter 3: 3D Game Development Advanced 3D Game Development Lighting Shadows Camera perspectives and controls | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Q and A Homework 10,11 discussion (TU) Lecture (T) Homework 11,12 (U) Midterm test 1\n13 | Chapter 4: Advanced Topics and Project Advanced Unity Topics Particle systems and special effects Audio in Unity | [2] Chapter 4,5,6 | CLO1.x CLO2.x CLO3.x | Q and A Homework 12 discussion (TU) Lecture (T) Homework 13 (U)\n14 | Chapter 4: Advanced Topics and Project Game Development Project Students work on a small game project | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Q and A Homework 13 discussion (TU) Lecture (T) Project (U)\n15 | Group project presentation | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Group presentation\n- | Final exam | - | CLO1.x CLO2.x CLO3.x | Students take exams according to give schedule",
+      "word_count": 420,
+      "char_count": 2493,
+      "heading_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "primary_heading": "7. COURSE OUTLINE",
+      "breadcrumbs": "7. COURSE OUTLINE",
+      "position": {
+        "order": 9,
+        "start_block": 42,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#010",
+      "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Foundations of Game Development Introduction to Game Development Overview of game development process Introduction to game engines | [1] Chapter 1, 2 | CLO1.1 | Lectures: basic knowledge of Introduction to Game Development using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n2-3 | Chapter 1: Foundations of Game Development Introduction to Unity Basics of Unity interface Creating and manipulating game objects Introduction to scripting in C# | [1] Chapter 3,4 | CLO1.1 CLO2.1 | Lectures: basic knowledge of Unity is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n4 | Chapter 1: Foundations of Game Development Unity Scripting Basics Variables Data types Operators Control structures | [1] Chapter 5 | CLO1.1 CLO2.1 CLO2.2 CLO3.1 | Lectures: basic knowledge of Unity Scripting is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n5-6 | Chapter 2: 2D Game Development 2D Game Development Fundamentals 2D physics Collisions Sprites Animations | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Lectures: knowledge of 2D Game Development Fundamentals is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n7-8 | Chapter 2: 2D Game Development Advanced 2D Game Development User input and controls Tilemaps and level design | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3 | Lectures: basic knowledge of Advanced 2D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n9-10 | Chapter 3: 3D Game Development Introduction to 3D Graphics Basics of 3D modeling Materials Textures Shaders | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Lectures: Introductuon to 3D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n11-12 | Chapter 3: 3D Game Development Advanced 3D Game Development Lighting Shadows Camera perspectives and controls | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Lectures: knowledge of Advanced 3D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n13 | Chapter 4: Advanced Topics and Project Advanced Unity Topics Particle systems and special effects Audio in Unity | [2] Chapter 4,5,6 | CLO1.x CLO2.x CLO3.x | Lectures: knowledge of Advanced Unity Topics is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n14 | Chapter 4: Advanced Topics and Project Game Development Project Students work on a small game project | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n15 | Group project presentation | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Group presentation | Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works\n- | Final exam | - | CLO1.x CLO2.x CLO3.x | Students take exams according to given schedule | According to the exam requirement (The final exam includes two types of questions: calculation problems, and short answer questions. It will be about one and a half hours long and closed book).",
+      "word_count": 1089,
+      "char_count": 7514,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 45,
+        "end_block": 46
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#011",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
+      "position": {
+        "order": 11,
+        "start_block": 50,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#012",
+      "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 108,
+      "char_count": 638,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 12,
+        "start_block": 52,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#013",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 536,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 13,
+        "start_block": 56,
+        "end_block": 60
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11111#014",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 14,
+        "start_block": 60,
+        "end_block": 61
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\n1. COURSE INFORMATION\n- Title: Game Programming\n- Code: CNTT11111\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 35 hrs\n- Exercises on class: 10 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): None\n- Faculty conducting the course:\n- Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- MSc. Cao Thị Thu Hương, Tel: 0912916316  Email: huongct@neu.edu.vn\n- MSc. Nguyễn Quỳnh Mai  Tel: 0983151792  Email: mainq@neu.edu.vn\n- Kind of the course:\nFoundation □ | Foundation □ | Fundamental □ | Fundamental □\nCompulsory □ | Elective □ | Compulsory □ | Elective □\n* Meeting hour:\n2. COURSE DESCRIPTIONS\nThe course will equip students with basic knowledge of game programming. Students will be introduced to the game development process, the basic components of a game and game design, as well as basic knowledge about game engines. The course mainly introduces Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. The course also equips skills for teamwork, designing and deploying simple applications, compiling and running on devices; Reading and searching skills in English.\n3. LEARNING RESOURCES\nText Book(s):\n[1] Jared, H. (2019). Developing 2D Games with Unity: Independent Game Programming with C#. USA: Apress.\n[2] Blackman, S. (2019). Beginning 3D Game Developtment with Unity. USA: Apress.\nOthers:\n[3] Alan, T. (2019). Learn Unity for 2D Game Developtment. USA: Press.\n[4] Thorn, A. (2018). Pro Unity Game Development with C#. USA: Apress\nSoftware: Visual Studio Code, Unity, …\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | The course provides in-depth knowledge of game development process, the basic components of a game and game design, as well as basic knowledge about game engines; Unity software, basic components of Unity and programming methods with C# code to program a 2D and 3D game. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | Learning to practice thinking skills, problem solving and good practice skills to game programming. | PLO2.2 | 4U\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO 3.4 | 4, 4, 4\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand the components of Unity Game processing | ITU4\nG1 | CLO1.2 | Understand the process of building a Unity Game | ITU4\nG2 | CLO2.1 | Skills in reading and understanding reference documents and presenting project reports | TU4\nG2 | CLO2.2 | Skills in searching, evaluating and synthesizing documents on the internet and forums | TU4\nG2 | CLO2.3 | Game building skills using Unity game engine | TU4\nG3 | CLO3.1 | Ability to self-study C#, Unity related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the excercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to game programming. | U4\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | - | -\nMidterm exam 1 (Individual test) | CLO1.1 CLO1.2 CLO2.1 CLO2.2 | 20% | 12\nMidterm exam 2 (Group works) | CLO1.x CLO2.x CLO3.x | 20% | 14-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 50% | -\n7. COURSE OUTLINE\nTable 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Chapter 1: Foundations of Game Development Introduction to Game Development Overview of game development process Introduction to game engines | [1] Chapter 1, 2 | CLO1.1 | Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)\n2-3 | Chapter 1: Foundations of Game Development Introduction to Unity Basics of Unity interface Creating and manipulating game objects Introduction to scripting in C# | [1] Chapter 3,4 | CLO1.1 CLO2.1 | Q and A Homework 1,2 discussion (TU) Lecture (T) Homework 2,3 (U)\n4 | Chapter 1: Foundations of Game Development Unity Scripting Basics Variables Data types Operators Control structures | [1] Chapter 5 | CLO1.1 CLO2.1 CLO2.2 CLO3.1 | Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)\n5-6 | Chapter 2: 2D Game Development 2D Game Development Fundamentals 2D physics Collisions Sprites Animations | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Q and A Homework 4,5 discussion (TU) Lecture (T) Homework 5,6 (U)\n7-8 | Chapter 2: 2D Game Development Advanced 2D Game Development User input and controls Tilemaps and level design | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3 | Q and A Homework 6,7 discussion (TU) Lecture (T) Homework 7,8 (U)\n9-10 | Chapter 3: 3D Game Development Introduction to 3D Graphics Basics of 3D modeling Materials Textures Shaders | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Q and A Homework 8,9 discussion (TU) Lecture (T) Homework 9,10 (U)\n11-12 | Chapter 3: 3D Game Development Advanced 3D Game Development Lighting Shadows Camera perspectives and controls | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Q and A Homework 10,11 discussion (TU) Lecture (T) Homework 11,12 (U) Midterm test 1\n13 | Chapter 4: Advanced Topics and Project Advanced Unity Topics Particle systems and special effects Audio in Unity | [2] Chapter 4,5,6 | CLO1.x CLO2.x CLO3.x | Q and A Homework 12 discussion (TU) Lecture (T) Homework 13 (U)\n14 | Chapter 4: Advanced Topics and Project Game Development Project Students work on a small game project | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Q and A Homework 13 discussion (TU) Lecture (T) Project (U)\n15 | Group project presentation | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Group presentation\n- | Final exam | - | CLO1.x CLO2.x CLO3.x | Students take exams according to give schedule\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Foundations of Game Development Introduction to Game Development Overview of game development process Introduction to game engines | [1] Chapter 1, 2 | CLO1.1 | Lectures: basic knowledge of Introduction to Game Development using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n2-3 | Chapter 1: Foundations of Game Development Introduction to Unity Basics of Unity interface Creating and manipulating game objects Introduction to scripting in C# | [1] Chapter 3,4 | CLO1.1 CLO2.1 | Lectures: basic knowledge of Unity is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n4 | Chapter 1: Foundations of Game Development Unity Scripting Basics Variables Data types Operators Control structures | [1] Chapter 5 | CLO1.1 CLO2.1 CLO2.2 CLO3.1 | Lectures: basic knowledge of Unity Scripting is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n5-6 | Chapter 2: 2D Game Development 2D Game Development Fundamentals 2D physics Collisions Sprites Animations | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Lectures: knowledge of 2D Game Development Fundamentals is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n7-8 | Chapter 2: 2D Game Development Advanced 2D Game Development User input and controls Tilemaps and level design | [1] Chapter 3,4,5,6 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3 | Lectures: basic knowledge of Advanced 2D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n9-10 | Chapter 3: 3D Game Development Introduction to 3D Graphics Basics of 3D modeling Materials Textures Shaders | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Lectures: Introductuon to 3D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n11-12 | Chapter 3: 3D Game Development Advanced 3D Game Development Lighting Shadows Camera perspectives and controls | [2] Chapter 2,3,4,5 | CLO1.x CLO2.x CLO3.x | Lectures: knowledge of Advanced 3D Game Development is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n13 | Chapter 4: Advanced Topics and Project Advanced Unity Topics Particle systems and special effects Audio in Unity | [2] Chapter 4,5,6 | CLO1.x CLO2.x CLO3.x | Lectures: knowledge of Advanced Unity Topics is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n14 | Chapter 4: Advanced Topics and Project Game Development Project Students work on a small game project | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n15 | Group project presentation | Students find documents by themselves | CLO1.x CLO2.x CLO3.x | Group presentation | Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works\n- | Final exam | - | CLO1.x CLO2.x CLO3.x | Students take exams according to given schedule | According to the exam requirement (The final exam includes two types of questions: calculation problems, and short answer questions. It will be about one and a half hours long and closed book).\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

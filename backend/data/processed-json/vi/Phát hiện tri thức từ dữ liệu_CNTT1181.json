@@ -1,173 +1,485 @@
 {
-  "id": "CNTT1181",
-  "filename": "Phát hiện tri thức từ dữ liệu_CNTT1181.docx",
+  "doc_id": "vi-cntt1181",
   "language": "vi",
-  "subject_name": "Pha╠üt hie╠ú╠én tri thu╠¢╠üc tu╠¢╠Ç du╠¢╠â lie╠ú╠éu_CNTT1181",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Phát hiện tri thức từ dữ liệu",
+  "course_variant": "",
+  "course_code": "CNTT1181",
+  "source_filename": "Phát hiện tri thức từ dữ liệu_CNTT1181.docx",
+  "source_relpath": "data\\raw\\vi\\Phát hiện tri thức từ dữ liệu_CNTT1181.docx",
+  "source_hash": "860695d92b56e1a4dac81a854d00956c",
+  "source_modified": "2025-10-11T10:42:50.646553+00:00",
+  "processed_at": "2025-10-12T13:02:30.785904+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tPhát hiện tri thức từ dữ liệu",
-        "Tên học phần (tiếng Anh):\tKnowledge Discovery in Database",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1181",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần Phát hiện tri thức từ dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng phân tích dữ liệu bằng các phương pháp tiên tiến của khai phá dữ liệu để rút ra những tri thức từ khối dữ liệu lớn mà các phương pháp truyền thống thực hiện không hiệu quả. Trong học phần này, sinh viên sẽ sử dụng công cụ BI trong hệ quản trị cơ sở dữ liệu Microsoft SQL Server phiên bản 2008 trở lên và một số công cụ mã nguồn mở để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày (ngôn ngữ lập trình R hoặc ngôn ngữ lập trình Python).",
-        "Nội dung chính:",
-        "-  Những vấn đề cơ bản của phát hiện tri thức và khai phá dữ liệu",
-        "-  Tiền xử lý dữ liệu",
-        "-  Khai phá luật kết hợp",
-        "-  Phân lớp dữ liệu",
-        "-  Phân tích cụm",
-        "-  Xu hướng và các vấn đề của khai phá dữ liệu"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4.1. Giáo trình",
-      "content": [
-        "[1] Jiawei Han, Micheline Kamber and Jian Pei (2012). Data Mining Concepts and Techniques. Morgan Kaufmann, ISBN 978-0-12-381479-1"
-      ]
+      "sequence": 5,
+      "level": 2,
+      "title": "4.1. Giáo trình"
     },
     {
-      "heading": "4.2. Tài liệu tham khảo",
-      "content": [
-        "[2] Ian H. Witten and Eibe Frank (2005). Data Mining: Practical Machine Learning Tools and Techniques (Second Edition), Morgan Kaufmann, ISBN: 0-12-088407-0.",
-        "[3] NEU’s eBooks and documents at http://lic.neu.edu.vn:2048/menu: Emerald Insight, IG Publishing eBook and ProQuest Central"
-      ]
+      "sequence": 6,
+      "level": 2,
+      "title": "4.2. Tài liệu tham khảo"
     },
     {
-      "heading": "4.3. Phần mềm",
-      "content": [
-        "[4] Các công cụ phần mềm: Công cụ BI trong MicroSoft SQL Server; WEKA; RSES; R; Python."
-      ]
+      "sequence": 7,
+      "level": 2,
+      "title": "4.3. Phần mềm"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 10,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 12,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 13,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 14,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 15,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 16,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
-      "content": [
-        "PHỤ LỤC"
-      ]
+      "sequence": 17,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Tự luận trên giấy",
-        "Thời gian: 90 phút",
-        "Số câu hỏi: 4 câu",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 18,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua các buổi seminar.",
-        "* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số trong điểm học phần: 20%",
-        "Hình thức: Tự luận trên giấy",
-        "Thời gian: 60 phút",
-        "Số câu hỏi: 2 câu",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 19,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 21,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 22,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 23,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tPhát hiện tri thức từ dữ liệu \nTên học phần (tiếng Anh):\tKnowledge Discovery in Database\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1181\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tHọc phần Phát hiện tri thức từ dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng phân tích dữ liệu bằng các phương pháp tiên tiến của khai phá dữ liệu để rút ra những tri thức từ khối dữ liệu lớn mà các phương pháp truyền thống thực hiện không hiệu quả. Trong học phần này, sinh viên sẽ sử dụng công cụ BI trong hệ quản trị cơ sở dữ liệu Microsoft SQL Server phiên bản 2008 trở lên và một số công cụ mã nguồn mở để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày (ngôn ngữ lập trình R hoặc ngôn ngữ lập trình Python). \nNội dung chính:\n\t-  Những vấn đề cơ bản của phát hiện tri thức và khai phá dữ liệu\n\t-  Tiền xử lý dữ liệu\n\t-  Khai phá luật kết hợp\n-  Phân lớp dữ liệu\n\t-  Phân tích cụm\t\n\t-  Xu hướng và các vấn đề của khai phá dữ liệu\t\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Jiawei Han, Micheline Kamber and Jian Pei (2012). Data Mining Concepts and Techniques. Morgan Kaufmann, ISBN 978-0-12-381479-1\n4.2. Tài liệu tham khảo\n[2] Ian H. Witten and Eibe Frank (2005). Data Mining: Practical Machine Learning Tools and Techniques (Second Edition), Morgan Kaufmann, ISBN: 0-12-088407-0.\n[3] NEU’s eBooks and documents at http://lic.neu.edu.vn:2048/menu: Emerald Insight, IG Publishing eBook and ProQuest Central\n4.3. Phần mềm\n[4] Các công cụ phần mềm: Công cụ BI trong MicroSoft SQL Server; WEKA; RSES; R; Python.\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 90 phút\nSố câu hỏi: 4 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua các buổi seminar.\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số trong điểm học phần: 20%\nHình thức: Tự luận trên giấy\nThời gian: 60 phút\nSố câu hỏi: 2 câu\nMa trận đề thi (tự luận):",
-  "created_at": "2025-10-03T00:04:22.997321",
-  "source_file": "backend\\data\\raw\\vi\\Phát hiện tri thức từ dữ liệu_CNTT1181.docx",
-  "content_length": 4652
+  "stats": {
+    "paragraphs": 61,
+    "headings": 23,
+    "tables": 11,
+    "chunks": 21,
+    "words": 3829
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1181#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 289,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#002",
+      "text": "- Tên học phần (tiếng Việt): \tPhát hiện tri thức từ dữ liệu\n- Tên học phần (tiếng Anh):\tKnowledge Discovery in Database\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1181\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:",
+      "word_count": 73,
+      "char_count": 330,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n2 | TS Phạm Minh Hoàn | hoanpm@neu.edu.vn\n3 | TS Lưu Minh Tuấn | tuanlm@neu.edu.vn",
+      "word_count": 68,
+      "char_count": 334,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#004",
+      "text": "Học phần Phát hiện tri thức từ dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng phân tích dữ liệu bằng các phương pháp tiên tiến của khai phá dữ liệu để rút ra những tri thức từ khối dữ liệu lớn mà các phương pháp truyền thống thực hiện không hiệu quả. Trong học phần này, sinh viên sẽ sử dụng công cụ BI trong hệ quản trị cơ sở dữ liệu Microsoft SQL Server phiên bản 2008 trở lên và một số công cụ mã nguồn mở để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày (ngôn ngữ lập trình R hoặc ngôn ngữ lập trình Python).\nNội dung chính:\n-  Những vấn đề cơ bản của phát hiện tri thức và khai phá dữ liệu\n-  Tiền xử lý dữ liệu\n-  Khai phá luật kết hợp\n-  Phân lớp dữ liệu\n-  Phân tích cụm\n-  Xu hướng và các vấn đề của khai phá dữ liệu",
+      "word_count": 178,
+      "char_count": 781,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#005",
+      "text": "[1] Jiawei Han, Micheline Kamber and Jian Pei (2012). Data Mining Concepts and Techniques. Morgan Kaufmann, ISBN 978-0-12-381479-1",
+      "word_count": 18,
+      "char_count": 130,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.1. Giáo trình"
+      ],
+      "primary_heading": "4.1. Giáo trình",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.1. Giáo trình",
+      "position": {
+        "order": 5,
+        "start_block": 36,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#006",
+      "text": "[2] Ian H. Witten and Eibe Frank (2005). Data Mining: Practical Machine Learning Tools and Techniques (Second Edition), Morgan Kaufmann, ISBN: 0-12-088407-0.\n[3] NEU’s eBooks and documents at http://lic.neu.edu.vn:2048/menu: Emerald Insight, IG Publishing eBook and ProQuest Central",
+      "word_count": 37,
+      "char_count": 282,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.2. Tài liệu tham khảo"
+      ],
+      "primary_heading": "4.2. Tài liệu tham khảo",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.2. Tài liệu tham khảo",
+      "position": {
+        "order": 6,
+        "start_block": 38,
+        "end_block": 40
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#007",
+      "text": "[4] Các công cụ phần mềm: Công cụ BI trong MicroSoft SQL Server; WEKA; RSES; R; Python.",
+      "word_count": 17,
+      "char_count": 87,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.3. Phần mềm"
+      ],
+      "primary_heading": "4.3. Phần mềm",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.3. Phần mềm",
+      "position": {
+        "order": 7,
+        "start_block": 41,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#008",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Hiểu về phát hiện tri thức và khai phá dữ liệu và các lĩnh vực ứng dụng của chúng. Hiểu về các đặc tính của dữ liệu và tiền xử lý dữ liệu. | PLO1.4 PLO1.5\nCG2 | Sử dụng một số kỹ thuật phát hiện tri thức từ dữ liệu ứng dụng trong các lĩnh vực, đặc biệt trong kinh tế và kinh doanh. Có khả năng phân tích và lựa chọn các kỹ thuật tương ứng để đáp ứng được các yêu cầu phân tích dữ liệu. Có kỹ năng trong việc sử dụng các phần mềm để triển khai các kỹ thuật khai phá dữ liệu và phát hiện tri thức. | PLO2.1 PLO2.2\nCG3 | Có khả năng diễn giải các kết quả phân tích để hỗ trợ ra quyết định, đặc biệt với các bài toán kinh tế và kinh doanh. Có năng lực tự chủ tự chịu trách nhiệm trong công việc và học tập. | PLO3.1 PLO3.2",
+      "word_count": 192,
+      "char_count": 822,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 8,
+        "start_block": 44,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#009",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Áp dụng được các khái niệm cơ bản liên quan đến khai phá dữ liệu và phát hiện tri thức từ dữ liệu, các chức năng và ứng dụng của chúng. Các thách thức trong lĩnh vực. Các công nghệ có thể sử dụng. Các loại tri thức có thể phát hiện được. Mô tả về nhà kho dữ liệu và các phương pháp phân tích dữ liệu trực tuyến. | 3\nCG1 Kiến thức | CLO1.2 | Áp dụng các kiểu dữ liệu, các phép phân tích thống kê, các phương pháp trực quan hóa dữ liệu, độ đo tương tự cho các đối tượng dữ liệu. | 3\nCG1 Kiến thức | CLO1.3 | Áp dụng các kỹ thuật tiền xử lý dữ liệu có thể được áp dụng trong phát hiện tri thức và khai phá dữ liệu: làm sạch, tích hợp, giảm thiểu, chuyển đổi… | 3\nCG2 Kỹ năng | CLO2.1 | Sử dụng khai phá mẫu hình, luật kết hợp và quan hệ dữ liệu. Áp dụng được bài toán phát hiện mẫu hình nâng cao. | 3\nCG2 Kỹ năng | CLO2.2 | Sử dụng các thuật toán phân lớp dữ liệu trong phát hiện tri thức và khai phá dữ liệu. Sử dụng một số phương pháp phân lớp nâng cao. | 3\nCG2 Kỹ năng | CLO2.3 | Sử dụng các thuật toán phân cụm cơ bản trong phát hiện tri thức từ dữ liệu. Sử dụng các phương pháp phân cụm dữ liệu nâng cao. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng áp dụng các quá trình phát hiện tri thức và khai phá dữ liệu trong các bài toán kinh tế và kinh doanh. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. Có khả năng tự học tập, tự tìm hiểu tài liệu hoặc kết hợp thành nhóm học tập. | 3",
+      "word_count": 394,
+      "char_count": 1682,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 9,
+        "start_block": 48,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#010",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% | Tuần 5 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% | Tuần 12 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 182,
+      "char_count": 678,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 10,
+        "start_block": 53,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#011",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Phần 1: Giới thiệu 1.1 Vì sao phải khai phá dữ liệu \n1.2 Khai phá dữ liệu là gì \n1.3 Các loại dữ liệu nào có thể khai phá \n1.4 Loại mẫu hình nào có thể khai phá \n1.5 Kỹ thuật nào có thể sử dụng được 1.6 Những ứng dụng nào được hướng tới\n1.7 Những vấn đề và xu hướng của phát hiện tri thức từ dữ liệu | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n2 | Lecture 2 Phần 2: Hiểu về dữ liệu 2.1 Các kiểu dữ liệu và đối tượng \n2.2 Thống kê mô tả cơ bản dữ liệu\n2.3 Trực quan hóa dữ liệu\n2.4 Đo sự giống và khác nhau của dữ liệu | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n3 | Seminar 1 - Câu hỏi lý thuyết Phần 1+2 - Thảo luận về các tình huống thực tế với lý thuyết đã được học | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 1 | CLO1.1 CLO1.2 CLO1.3\n4 | Lecture 3 Phần 3: Kho dữ liệu và phân tích trực tuyến 3.1 Kiến thức cơ bản về kho dữ liệu 3.2 Mô hình kho dữ liệu 3.3 Thiết kế và sử dụng kho dữ liệu 3.4 Triển khai kho dữ liệu 3.5 Tổng quát hóa dữ liệu theo hướng quy nạp thuộc tính | [1] Chương 4 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n5 | Seminar 2 - Câu hỏi lý thuyết Phần 3 - Thảo luận và xây dựng mô hình theo nội dung Phần 3 Bài kiểm tra số 1. | [1] Chương 4 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | CLO1.1 CLO1.2 CLO1.3\n6 | Lecture 4 Phần 4: Tiền xử lý dữ liệu 4.1 Tổng quan về tiền xử lý dữ liệu 4.2 Làm sạch 4.3 Tích hợp 4.4 Giảm thiểu 4.5 Chuyển đổi và rời rạc | [1] Chương 3 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | CLO1.1 CLO1.2 CLO1.3\n7 | Seminar 3 - Câu hỏi lý thuyết Phần 4 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 4 | [1] Chương 3 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | CLO1.1 CLO1.2 CLO1.3\n8 | Lecture 5 Phần 5: Khai phá mẫu thường xuyên, quan hệ và tương quan 5.1 Các khái niệm cơ bản 5.2 Các phương pháp khai phá mẫu hình thường xuyên 5.3 Đánh giá mẫu hình 5.4 Khai phá mẫu hình nâng cao | [1] Chương 6-7 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n9- 10 | Seminar 4-5 - Câu hỏi lý thuyết Phần 4 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 | [1] Chương 6-7 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4-5 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n11 | Lecture 6 Phần 6: Phân lớp 6.1 Các khái niệm cơ bản 6.2 Quy nạp cây quyết định 6.3 Phương pháp phân lớp Bayes 6.4 Phân lớp theo luật 6.5 Đánh giá và lựa chọn mô hình 6.6 Các kỹ thuật nâng cao độ chính xác phân lớp 6.7 Láng giềng gần nhất 6.8 Các phương pháp phân lớp khác | [1] Chương 8-9 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n12 | Seminar 6 - Câu hỏi lý thuyết Phần 6 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 Bài kiểm tra số 2. | [1] Chương 8-9 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 6 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n13 | Lecture 7 Phần 7: Phân tích cụm 7.1 Phân tích cụm 7.2 Các phương pháp phân vùng 7.3 Các phương pháp phân cấp 7.4 Đánh giá cụm 7.5 Phân tích cụm nâng cao | [1] Chương 10-11 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n14 | Seminar 7 - Câu hỏi lý thuyết Phần 7 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 | [1] Chương 10-11 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 7 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n15 | Seminar 8 - Hệ thống lại học phần. - Giải đáp các thắc mắc của sinh viên. - Hướng dẫn cách thức và làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn cách thức thi Sinh viên: - Thảo luận | - Điểm danh - Bài tập nhóm (Rubric 3) | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận | Phụ lục 1: Ma trận đề thi | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+      "word_count": 1717,
+      "char_count": 7377,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 11,
+        "start_block": 60,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#012",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 12,
+        "start_block": 64,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#013",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 13,
+        "start_block": 67,
+        "end_block": 69
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#014",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 70,
+        "end_block": 72
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#015",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 95,
+      "char_count": 428,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 15,
+        "start_block": 73,
+        "end_block": 79
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#016",
+      "text": "- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 37,
+      "char_count": 159,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 16,
+        "start_block": 80,
+        "end_block": 83
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#017",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC",
+      "word_count": 17,
+      "char_count": 78,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 17,
+        "start_block": 85,
+        "end_block": 89
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#018",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 4 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nCâu 2 | 2.1 2.2 2.3 | 3 | - | - | 3 | 3\nCâu 3 | 2.1 2.2 2.3 | 3 | - | - | 3 | 3\nCâu 4 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nTổng số câu hỏi thành phần | 4 | - | - | - | - | -\nTổng số điểm | - | 10 | 0 | 0 | 10 | 10\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%",
+      "word_count": 164,
+      "char_count": 506,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 18,
+        "start_block": 90,
+        "end_block": 97
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#019",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 165,
+      "char_count": 655,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 98,
+        "end_block": 104
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#020",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số trong điểm học phần: 20%\n- Hình thức: Tự luận trên giấy",
+      "word_count": 185,
+      "char_count": 755,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 104,
+        "end_block": 108
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1181#021",
+      "text": "- Thời gian: 60 phút\n- Số câu hỏi: 2 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 5 | - | - | 5 | 5\nCâu 2 | 2.1 2.2 2.3 | 5 | - | - | 5 | 5\nTổng số câu hỏi thành phần | 4 | - | - | - | - | -\nTổng số điểm | - | 10 | 0 | 0 | 10 | 10\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%",
+      "word_count": 117,
+      "char_count": 359,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 109,
+        "end_block": 114
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tPhát hiện tri thức từ dữ liệu\n- Tên học phần (tiếng Anh):\tKnowledge Discovery in Database\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1181\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n2 | TS Phạm Minh Hoàn | hoanpm@neu.edu.vn\n3 | TS Lưu Minh Tuấn | tuanlm@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần Phát hiện tri thức từ dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng phân tích dữ liệu bằng các phương pháp tiên tiến của khai phá dữ liệu để rút ra những tri thức từ khối dữ liệu lớn mà các phương pháp truyền thống thực hiện không hiệu quả. Trong học phần này, sinh viên sẽ sử dụng công cụ BI trong hệ quản trị cơ sở dữ liệu Microsoft SQL Server phiên bản 2008 trở lên và một số công cụ mã nguồn mở để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày (ngôn ngữ lập trình R hoặc ngôn ngữ lập trình Python).\nNội dung chính:\n-  Những vấn đề cơ bản của phát hiện tri thức và khai phá dữ liệu\n-  Tiền xử lý dữ liệu\n-  Khai phá luật kết hợp\n-  Phân lớp dữ liệu\n-  Phân tích cụm\n-  Xu hướng và các vấn đề của khai phá dữ liệu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Jiawei Han, Micheline Kamber and Jian Pei (2012). Data Mining Concepts and Techniques. Morgan Kaufmann, ISBN 978-0-12-381479-1\n4.2. Tài liệu tham khảo\n[2] Ian H. Witten and Eibe Frank (2005). Data Mining: Practical Machine Learning Tools and Techniques (Second Edition), Morgan Kaufmann, ISBN: 0-12-088407-0.\n[3] NEU’s eBooks and documents at http://lic.neu.edu.vn:2048/menu: Emerald Insight, IG Publishing eBook and ProQuest Central\n4.3. Phần mềm\n[4] Các công cụ phần mềm: Công cụ BI trong MicroSoft SQL Server; WEKA; RSES; R; Python.\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Hiểu về phát hiện tri thức và khai phá dữ liệu và các lĩnh vực ứng dụng của chúng. Hiểu về các đặc tính của dữ liệu và tiền xử lý dữ liệu. | PLO1.4 PLO1.5\nCG2 | Sử dụng một số kỹ thuật phát hiện tri thức từ dữ liệu ứng dụng trong các lĩnh vực, đặc biệt trong kinh tế và kinh doanh. Có khả năng phân tích và lựa chọn các kỹ thuật tương ứng để đáp ứng được các yêu cầu phân tích dữ liệu. Có kỹ năng trong việc sử dụng các phần mềm để triển khai các kỹ thuật khai phá dữ liệu và phát hiện tri thức. | PLO2.1 PLO2.2\nCG3 | Có khả năng diễn giải các kết quả phân tích để hỗ trợ ra quyết định, đặc biệt với các bài toán kinh tế và kinh doanh. Có năng lực tự chủ tự chịu trách nhiệm trong công việc và học tập. | PLO3.1 PLO3.2\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Áp dụng được các khái niệm cơ bản liên quan đến khai phá dữ liệu và phát hiện tri thức từ dữ liệu, các chức năng và ứng dụng của chúng. Các thách thức trong lĩnh vực. Các công nghệ có thể sử dụng. Các loại tri thức có thể phát hiện được. Mô tả về nhà kho dữ liệu và các phương pháp phân tích dữ liệu trực tuyến. | 3\nCG1 Kiến thức | CLO1.2 | Áp dụng các kiểu dữ liệu, các phép phân tích thống kê, các phương pháp trực quan hóa dữ liệu, độ đo tương tự cho các đối tượng dữ liệu. | 3\nCG1 Kiến thức | CLO1.3 | Áp dụng các kỹ thuật tiền xử lý dữ liệu có thể được áp dụng trong phát hiện tri thức và khai phá dữ liệu: làm sạch, tích hợp, giảm thiểu, chuyển đổi… | 3\nCG2 Kỹ năng | CLO2.1 | Sử dụng khai phá mẫu hình, luật kết hợp và quan hệ dữ liệu. Áp dụng được bài toán phát hiện mẫu hình nâng cao. | 3\nCG2 Kỹ năng | CLO2.2 | Sử dụng các thuật toán phân lớp dữ liệu trong phát hiện tri thức và khai phá dữ liệu. Sử dụng một số phương pháp phân lớp nâng cao. | 3\nCG2 Kỹ năng | CLO2.3 | Sử dụng các thuật toán phân cụm cơ bản trong phát hiện tri thức từ dữ liệu. Sử dụng các phương pháp phân cụm dữ liệu nâng cao. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng áp dụng các quá trình phát hiện tri thức và khai phá dữ liệu trong các bài toán kinh tế và kinh doanh. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. Có khả năng tự học tập, tự tìm hiểu tài liệu hoặc kết hợp thành nhóm học tập. | 3\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% | Tuần 5 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% | Tuần 12 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Phần 1: Giới thiệu 1.1 Vì sao phải khai phá dữ liệu \n1.2 Khai phá dữ liệu là gì \n1.3 Các loại dữ liệu nào có thể khai phá \n1.4 Loại mẫu hình nào có thể khai phá \n1.5 Kỹ thuật nào có thể sử dụng được 1.6 Những ứng dụng nào được hướng tới\n1.7 Những vấn đề và xu hướng của phát hiện tri thức từ dữ liệu | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n2 | Lecture 2 Phần 2: Hiểu về dữ liệu 2.1 Các kiểu dữ liệu và đối tượng \n2.2 Thống kê mô tả cơ bản dữ liệu\n2.3 Trực quan hóa dữ liệu\n2.4 Đo sự giống và khác nhau của dữ liệu | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n3 | Seminar 1 - Câu hỏi lý thuyết Phần 1+2 - Thảo luận về các tình huống thực tế với lý thuyết đã được học | [1] Chương 1 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 1 | CLO1.1 CLO1.2 CLO1.3\n4 | Lecture 3 Phần 3: Kho dữ liệu và phân tích trực tuyến 3.1 Kiến thức cơ bản về kho dữ liệu 3.2 Mô hình kho dữ liệu 3.3 Thiết kế và sử dụng kho dữ liệu 3.4 Triển khai kho dữ liệu 3.5 Tổng quát hóa dữ liệu theo hướng quy nạp thuộc tính | [1] Chương 4 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | CLO1.1 CLO1.2 CLO1.3\n5 | Seminar 2 - Câu hỏi lý thuyết Phần 3 - Thảo luận và xây dựng mô hình theo nội dung Phần 3 Bài kiểm tra số 1. | [1] Chương 4 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | CLO1.1 CLO1.2 CLO1.3\n6 | Lecture 4 Phần 4: Tiền xử lý dữ liệu 4.1 Tổng quan về tiền xử lý dữ liệu 4.2 Làm sạch 4.3 Tích hợp 4.4 Giảm thiểu 4.5 Chuyển đổi và rời rạc | [1] Chương 3 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | CLO1.1 CLO1.2 CLO1.3\n7 | Seminar 3 - Câu hỏi lý thuyết Phần 4 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 4 | [1] Chương 3 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | CLO1.1 CLO1.2 CLO1.3\n8 | Lecture 5 Phần 5: Khai phá mẫu thường xuyên, quan hệ và tương quan 5.1 Các khái niệm cơ bản 5.2 Các phương pháp khai phá mẫu hình thường xuyên 5.3 Đánh giá mẫu hình 5.4 Khai phá mẫu hình nâng cao | [1] Chương 6-7 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n9- 10 | Seminar 4-5 - Câu hỏi lý thuyết Phần 4 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 | [1] Chương 6-7 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 4-5 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n11 | Lecture 6 Phần 6: Phân lớp 6.1 Các khái niệm cơ bản 6.2 Quy nạp cây quyết định 6.3 Phương pháp phân lớp Bayes 6.4 Phân lớp theo luật 6.5 Đánh giá và lựa chọn mô hình 6.6 Các kỹ thuật nâng cao độ chính xác phân lớp 6.7 Láng giềng gần nhất 6.8 Các phương pháp phân lớp khác | [1] Chương 8-9 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n12 | Seminar 6 - Câu hỏi lý thuyết Phần 6 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 Bài kiểm tra số 2. | [1] Chương 8-9 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 6 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n13 | Lecture 7 Phần 7: Phân tích cụm 7.1 Phân tích cụm 7.2 Các phương pháp phân vùng 7.3 Các phương pháp phân cấp 7.4 Đánh giá cụm 7.5 Phân tích cụm nâng cao | [1] Chương 10-11 và các tài liệu liên quan | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n14 | Seminar 7 - Câu hỏi lý thuyết Phần 7 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Làm bài tập trong nội dung Phần 5 | [1] Chương 10-11 và các tài liệu liên quan | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 7 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n15 | Seminar 8 - Hệ thống lại học phần. - Giải đáp các thắc mắc của sinh viên. - Hướng dẫn cách thức và làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn cách thức thi Sinh viên: - Thảo luận | - Điểm danh - Bài tập nhóm (Rubric 3) | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận | Phụ lục 1: Ma trận đề thi | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 4 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nCâu 2 | 2.1 2.2 2.3 | 3 | - | - | 3 | 3\nCâu 3 | 2.1 2.2 2.3 | 3 | - | - | 3 | 3\nCâu 4 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nTổng số câu hỏi thành phần | 4 | - | - | - | - | -\nTổng số điểm | - | 10 | 0 | 0 | 10 | 10\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số trong điểm học phần: 20%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 60 phút\n- Số câu hỏi: 2 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 5 | - | - | 5 | 5\nCâu 2 | 2.1 2.2 2.3 | 5 | - | - | 5 | 5\nTổng số câu hỏi thành phần | 4 | - | - | - | - | -\nTổng số điểm | - | 10 | 0 | 0 | 10 | 10\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%"
 }

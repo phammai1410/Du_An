@@ -1,115 +1,337 @@
 {
-  "id": "EP17.CNTT1187",
-  "filename": "Data Analysis Programming_EP17.CNTT1187.docx",
+  "doc_id": "en-ep17-cntt1187",
   "language": "en",
-  "subject_name": "Data Analysis Programming_EP17.CNTT1187",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Data Analysis Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1187",
+  "source_filename": "Data Analysis Programming_EP17.CNTT1187.docx",
+  "source_relpath": "data\\raw\\en\\Data Analysis Programming_EP17.CNTT1187.docx",
+  "source_hash": "36fd0715d666a160e3e628514dee6822",
+  "source_modified": "2025-10-11T10:42:50.584223+00:00",
+  "processed_at": "2025-10-12T13:02:22.989192+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Data analysis programming",
-        "* Code: CNTT1187",
-        "* Credits: 3 (45 hours)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 20 hrs",
-        "+ Exercises on class: 25 hrs",
-        "+ Presentation and Discussion:   hrs",
-        "+ Self-study: 90 hrs.",
-        "* Parallel course(s): None",
-        "* Prerequisite course(s): None",
-        "* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
-        "+ Lecturers:",
-        "1. Nguyen Trung Tuan, PhD",
-        "Tel: 0913537768       Email: tuannt@neu.edu.vn",
-        "2. Tong Thi Minh Ngoc, MSc",
-        "Tel: 0913002241       Email: ngoctm@neu.edu.vn",
-        "* Kind of the course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "The Data Analysis Programming module is a specialized module, aiming to provide content so students can clearly understand data and its basic characteristics. Students can analyze the nature of data, classify data, and come up with appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to program to perform data analysis programming with common data analysis problems, common data analysis problems. Advanced data analysis with integrated software packages and data connectivity from database management systems. The module provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. The module guides learners on the skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice independent working skills, teamwork skills and problem presentation skills as well as have a sense of professional ethics."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "* Textbooks/Lecture Notes:",
-        "[1] Nguyễn Văn Tuấn, Phân tích dữ liệu với R, Nhà xuất bản tổng hợp TP HCM, 2020",
-        "* Additional references:",
-        "[2] TS Ngô Văn Thứ, Giáo trình thống kê thực hành, Trường Đại học KTQD, 2012.",
-        "[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan Kaufmann – 2012",
-        "[4] Phần mềm R và các tài liệu của phần mềm R tại địa chỉ https://cran.r-project.org"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)",
-        "6. COURSE ASSESSMENT",
-        "* Assessment methods:",
-        "- Grading: 10",
-        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.",
-        "* Assessment summary:",
-        "Table 6. Assessment summary",
-        "* Rubrics:",
-        "Rubric 1: Participant",
-        "Rubric 2: Individual tests",
-        "Rubric 3: Midterm test",
-        "Rubric 4: Final exam"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "7. COURSE OUTLINE",
-      "content": [
-        "Table 7. Course outline"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "7. COURSE OUTLINE"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan for the course"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams"
     },
     {
-      "heading": "9.3. Requirements for in-class behaviour",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
+    },
+    {
+      "sequence": 11,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behaviour"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n* Title: Data analysis programming\n* Code: CNTT1187\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities: \n+ Lecture: 20 hrs\n+ Exercises on class: 25 hrs\n+ Presentation and Discussion:   hrs\n+ Self-study: 90 hrs. \n* Parallel course(s): None\n* Prerequisite course(s): None\n* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. Nguyen Trung Tuan, PhD\n    Tel: 0913537768       Email: tuannt@neu.edu.vn\n2. Tong Thi Minh Ngoc, MSc \n    Tel: 0913002241       Email: ngoctm@neu.edu.vn\n* Kind of the course: \n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University\t \n2. COURSE DESCRIPTIONS\nThe Data Analysis Programming module is a specialized module, aiming to provide content so students can clearly understand data and its basic characteristics. Students can analyze the nature of data, classify data, and come up with appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to program to perform data analysis programming with common data analysis problems, common data analysis problems. Advanced data analysis with integrated software packages and data connectivity from database management systems. The module provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. The module guides learners on the skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice independent working skills, teamwork skills and problem presentation skills as well as have a sense of professional ethics.\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \n[1] Nguyễn Văn Tuấn, Phân tích dữ liệu với R, Nhà xuất bản tổng hợp TP HCM, 2020\n* Additional references: \n[2] TS Ngô Văn Thứ, Giáo trình thống kê thực hành, Trường Đại học KTQD, 2012.\n[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan Kaufmann – 2012\n[4] Phần mềm R và các tài liệu của phần mềm R tại địa chỉ https://cran.r-project.org\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics: \nRubric 1: Participant\nRubric 2: Individual tests\nRubric 3: Midterm test\nRubric 4: Final exam \n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:24.641483",
-  "source_file": "backend\\data\\raw\\en\\Data Analysis Programming_EP17.CNTT1187.docx",
-  "content_length": 4352
+  "stats": {
+    "paragraphs": 48,
+    "headings": 11,
+    "tables": 12,
+    "chunks": 16,
+    "words": 2099
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt1187#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2024) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2024)\nProgram name: Bachelor of Software Engineering | Program name: Bachelor of Software Engineering",
+      "word_count": 54,
+      "char_count": 415,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#002",
+      "text": "* Title: Data analysis programming\n* Code: CNTT1187\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities:\n+ Lecture: 20 hrs\n+ Exercises on class: 25 hrs\n+ Presentation and Discussion:   hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None\n* Prerequisite course(s): None\n* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. Nguyen Trung Tuan, PhD\nTel: 0913537768       Email: tuannt@neu.edu.vn\n2. Tong Thi Minh Ngoc, MSc\nTel: 0913002241       Email: ngoctm@neu.edu.vn\n* Kind of the course:",
+      "word_count": 92,
+      "char_count": 621,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 20
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#003",
+      "text": "Foundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory (x) | Elective □\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University",
+      "word_count": 42,
+      "char_count": 246,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 20,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#004",
+      "text": "The Data Analysis Programming module is a specialized module, aiming to provide content so students can clearly understand data and its basic characteristics. Students can analyze the nature of data, classify data, and come up with appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to program to perform data analysis programming with common data analysis problems, common data analysis problems. Advanced data analysis with integrated software packages and data connectivity from database management systems. The module provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. The module guides learners on the skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice independent working skills, teamwork skills and problem presentation skills as well as have a sense of professional ethics.",
+      "word_count": 161,
+      "char_count": 1129,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#005",
+      "text": "* Textbooks/Lecture Notes:\n[1] Nguyễn Văn Tuấn, Phân tích dữ liệu với R, Nhà xuất bản tổng hợp TP HCM, 2020\n* Additional references:\n[2] TS Ngô Văn Thứ, Giáo trình thống kê thực hành, Trường Đại học KTQD, 2012.\n[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan Kaufmann – 2012\n[4] Phần mềm R và các tài liệu của phần mềm R tại địa chỉ https://cran.r-project.org",
+      "word_count": 75,
+      "char_count": 390,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 26,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. | PLO 1.5A | 3\nG2 | Have skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. | PLO 2.2.2A | 4U, 4U, 4U\nG3 | Have skills to work independently and in groups, and to properly understand work responsibilities and professional ethics. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 3, 3, 3",
+      "word_count": 102,
+      "char_count": 605,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 33,
+        "end_block": 35
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand data and methods for preprocessing and displaying data | 3\nG1 | CLO1.2 | Understand basic and advanced data analysis methods | 3\nG2 | CLO2.1 | Proficient in using R data analysis software | 4U\n- | CLO2.2 | Proficient in basic data analysis | 4U\n- | CLO2.3 | Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis | 4U\nG3 | CLO3.1 | Able to self-study and research materials to complete assigned lessons and exercises. Ability to work in groups. | 3\nG3 | CLO3.2 | Have professional ethics in data analysis. | 3\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Assessment summary",
+      "word_count": 155,
+      "char_count": 894,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 36,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#008",
+      "text": "Assessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 | 10% | Week 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual tests | Rubric 2 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 1-13\nMidterm test | Rubric 3 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | CLO2.1 CLO2.2 CLO2.3 | 50% | As scheduled\n* Rubrics:\nRubric 1: Participant",
+      "word_count": 114,
+      "char_count": 689,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 8,
+        "start_block": 45,
+        "end_block": 48
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#009",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Midterm test",
+      "word_count": 83,
+      "char_count": 374,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 9,
+        "start_block": 48,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#010",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nMidterm test | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
+      "word_count": 80,
+      "char_count": 340,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 10,
+        "start_block": 52,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#011",
+      "text": "Table 7. Course outline\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | - | Rubric 2 Rubric 3\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Rubric 1\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Rubric 4",
+      "word_count": 459,
+      "char_count": 2805,
+      "heading_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "primary_heading": "7. COURSE OUTLINE",
+      "breadcrumbs": "7. COURSE OUTLINE",
+      "position": {
+        "order": 11,
+        "start_block": 57,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#012",
+      "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | Computer Lab | Individual testing Midterm testing\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Participation Interaction\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Essay exam",
+      "word_count": 446,
+      "char_count": 2921,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 12,
+        "start_block": 61,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#013",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
+      "position": {
+        "order": 13,
+        "start_block": 66,
+        "end_block": 67
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#014",
+      "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 108,
+      "char_count": 638,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 14,
+        "start_block": 68,
+        "end_block": 71
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#015",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 536,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 15,
+        "start_block": 72,
+        "end_block": 76
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#016",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 16,
+        "start_block": 76,
+        "end_block": 77
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2024) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2024)\nProgram name: Bachelor of Software Engineering | Program name: Bachelor of Software Engineering\n1. COURSE INFORMATION\n* Title: Data analysis programming\n* Code: CNTT1187\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities:\n+ Lecture: 20 hrs\n+ Exercises on class: 25 hrs\n+ Presentation and Discussion:   hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None\n* Prerequisite course(s): None\n* Faculty conducting the course: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. Nguyen Trung Tuan, PhD\nTel: 0913537768       Email: tuannt@neu.edu.vn\n2. Tong Thi Minh Ngoc, MSc\nTel: 0913002241       Email: ngoctm@neu.edu.vn\n* Kind of the course:\nFoundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory (x) | Elective □\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 1310, Building A1, National Economics University\n2. COURSE DESCRIPTIONS\nThe Data Analysis Programming module is a specialized module, aiming to provide content so students can clearly understand data and its basic characteristics. Students can analyze the nature of data, classify data, and come up with appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to program to perform data analysis programming with common data analysis problems, common data analysis problems. Advanced data analysis with integrated software packages and data connectivity from database management systems. The module provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. The module guides learners on the skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice independent working skills, teamwork skills and problem presentation skills as well as have a sense of professional ethics.\n3. LEARNING RESOURCES\n* Textbooks/Lecture Notes:\n[1] Nguyễn Văn Tuấn, Phân tích dữ liệu với R, Nhà xuất bản tổng hợp TP HCM, 2020\n* Additional references:\n[2] TS Ngô Văn Thứ, Giáo trình thống kê thực hành, Trường Đại học KTQD, 2012.\n[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan Kaufmann – 2012\n[4] Phần mềm R và các tài liệu của phần mềm R tại địa chỉ https://cran.r-project.org\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand data collection and processing processes, data preprocessing, data representation, and some basic and advanced data analysis methods. | PLO 1.5A | 3\nG2 | Have skills to use R data analysis software to perform basic analysis and other advanced analyzes such as clustering, decision trees, and financial data analysis. | PLO 2.2.2A | 4U, 4U, 4U\nG3 | Have skills to work independently and in groups, and to properly understand work responsibilities and professional ethics. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 3, 3, 3\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand data and methods for preprocessing and displaying data | 3\nG1 | CLO1.2 | Understand basic and advanced data analysis methods | 3\nG2 | CLO2.1 | Proficient in using R data analysis software | 4U\n- | CLO2.2 | Proficient in basic data analysis | 4U\n- | CLO2.3 | Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis | 4U\nG3 | CLO3.1 | Able to self-study and research materials to complete assigned lessons and exercises. Ability to work in groups. | 3\nG3 | CLO3.2 | Have professional ethics in data analysis. | 3\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 | 10% | Week 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual tests | Rubric 2 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 1-13\nMidterm test | Rubric 3 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | CLO2.1 CLO2.2 CLO2.3 | 50% | As scheduled\n* Rubrics:\nRubric 1: Participant\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Midterm test\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nMidterm test | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\n7. COURSE OUTLINE\nTable 7. Course outline\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | - | Rubric 2 Rubric 3\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Rubric 1\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Rubric 4\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | Computer Lab | Individual testing Midterm testing\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Participation Interaction\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Essay exam\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

@@ -1,95 +1,294 @@
 {
-  "id": "CNTT1112E",
-  "filename": "Computer Architecture_CNTT1112E.docx",
+  "doc_id": "en-cntt1112e",
   "language": "en",
-  "subject_name": "Computer Architecture_CNTT1112E",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Computer Architecture",
+  "course_variant": "",
+  "course_code": "CNTT1112E",
+  "source_filename": "Computer Architecture_CNTT1112E.docx",
+  "source_relpath": "data\\raw\\en\\Computer Architecture_CNTT1112E.docx",
+  "source_hash": "0af69d514f8638e75f981848d835c3d0",
+  "source_modified": "2025-10-11T10:42:50.583221+00:00",
+  "processed_at": "2025-10-12T13:02:22.904884+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "COURSE SYLLABUS",
-        "(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. GENERAL INFORMATION"
     },
     {
-      "heading": "2. DEPARTMENT IN CHARGE OF INSTRUCTION",
-      "content": [
-        "Department: Department of Information Technology",
-        "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
-        "Lecturer:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
     },
     {
-      "heading": "3. COURSE DESCRIPTIONS",
-      "content": [
-        "This module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.",
-        "The course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
-      "content": [
-        "Course books:",
-        "[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.",
-        "Reference books:",
-        "[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
     },
     {
-      "heading": "5. COURSE GOALS",
-      "content": [
-        "Table 5.1. Course Objectives"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE GOALS"
     },
     {
-      "heading": "6. COURSE LEARNING OUTCOMES",
-      "content": [
-        "Table 6.1. Course Learning Outcomes"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOMES"
     },
     {
-      "heading": "7. COURSE ASSESSMENT",
-      "content": [
-        "Table 7.1. Course assessment"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Regulations on conditions for the end-of-course exam",
-      "content": [
-        "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION"
     },
     {
-      "heading": "9.2. Rules for attending classes",
-      "content": [
-        "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
-        "Students will be added points for each construction speech, which can be compensated for attendance points and test scores."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Regulations on conditions for the end-of-course exam"
     },
     {
-      "heading": "9.3. Regulations on classroom behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
-        "Absolutely do not make noise, affecting others during the learning process.",
-        "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
-        "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Rules for attending classes"
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Regulations on classroom behavior"
     }
   ],
-  "tables": [],
-  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)\n1. GENERAL INFORMATION\n2. DEPARTMENT IN CHARGE OF INSTRUCTION \nDepartment: Department of Information Technology \nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\n3. COURSE DESCRIPTIONS\nThis module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.\nThe course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse books:\n[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.\nReference books: \n[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.\n5. COURSE GOALS\nTable 5.1. Course Objectives\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. LESSON PLAN\nTable 8.1. Lesson plan\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Regulations on conditions for the end-of-course exam\nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Rules for attending classes\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Regulations on classroom behavior\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
-  "created_at": "2025-10-03T00:04:24.601939",
-  "source_file": "backend\\data\\raw\\en\\Computer Architecture_CNTT1112E.docx",
-  "content_length": 3076
+  "stats": {
+    "paragraphs": 23,
+    "headings": 12,
+    "tables": 8,
+    "chunks": 13,
+    "words": 2091
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-cntt1112e#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)",
+      "word_count": 28,
+      "char_count": 209,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#002",
+      "text": "- Course name (tiếng Việt): | Kiến trúc máy tính\n- Course name (English) | Computer Architecture\n- Code | CNTT1112E\n- Knowledge block | Compulsory course\n- Number of credits | 3 credits (45 credit hours; 50 min/hour)\n+ Theory hours | 30\n+ Discuss/Practice hours + Self-study hours | 15 90\n- Prerequisite courses: | CNTT1113",
+      "word_count": 58,
+      "char_count": 323,
+      "heading_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "primary_heading": "1. GENERAL INFORMATION",
+      "breadcrumbs": "1. GENERAL INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 5
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#003",
+      "text": "Department: Department of Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nDr. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nMSc. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn",
+      "word_count": 38,
+      "char_count": 257,
+      "heading_path": [
+        "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+      ],
+      "primary_heading": "2. DEPARTMENT IN CHARGE OF INSTRUCTION",
+      "breadcrumbs": "2. DEPARTMENT IN CHARGE OF INSTRUCTION",
+      "position": {
+        "order": 3,
+        "start_block": 6,
+        "end_block": 10
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#004",
+      "text": "This module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.\nThe course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.",
+      "word_count": 109,
+      "char_count": 787,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 11,
+        "end_block": 14
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#005",
+      "text": "Course books:\n[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.\nReference books:\n[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.",
+      "word_count": 42,
+      "char_count": 293,
+      "heading_path": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "primary_heading": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "breadcrumbs": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "position": {
+        "order": 5,
+        "start_block": 15,
+        "end_block": 20
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#006",
+      "text": "Table 5.1. Course Objectives\nIndex | Course Objectives Description | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system | PLO 1.4.3 | 3\nG2 | The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time. | PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B | 3U, 3U, 3U\nG3 | The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 3, 3, 3",
+      "word_count": 139,
+      "char_count": 811,
+      "heading_path": [
+        "5. COURSE GOALS"
+      ],
+      "primary_heading": "5. COURSE GOALS",
+      "breadcrumbs": "5. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 21,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#007",
+      "text": "Table 6.1. Course Learning Outcomes\nGoal | CLOs | CLOs description* | Level of achievement**\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . . | 2\nG1 | CLO1.2 | Explain the operating model of the RISC . architecture | 2\nG1 | CLO1.3 | Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer | 3\nG1 | CLO1.4 | Apply learned knowledge to solve exercises and situations of each learning content. | 4\nG2 | CLO2.1 | Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems | 2\nG2 | CLO2.2 | Ability to work in a team to jointly solve a professional problem on time. | 3\nG2 | - | - | -\nG3 | CLO3.1 | Ability to self-study, self-study materials to complete assigned lessons and assignments. | 3\nG3 | CLO3.2 | Ability to organize and coordinate working groups to solve a subject matter. | 3\nG3 | CLO3.3 | Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer. | 3",
+      "word_count": 219,
+      "char_count": 1269,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOMES",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOMES",
+      "position": {
+        "order": 7,
+        "start_block": 24,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#008",
+      "text": "Table 7.1. Course assessment\nAssessment form | Content | Time | CLOs | Tools and Criteria Rating* | Rate (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nDiligence | Learning attitude in class Answer questions in class Answer discussion questions | Week 1-12 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers | 10%\nAssessment of the process | Midterm exam | Week 8 | CLO1.x, CLO2.1, CLO3.3 | Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation. | 40%\nAssessment of the process | Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture. | Week 13, 14 | CLO1.x, CLO2.x, CLO3.x | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time | 40%\nAssessment of the process | Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture. | Week 15 | CLO1.x, CLO2.1, CLO3.1 | Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other | 40%\nEnd of term assessment | Final exam | Semester exam schedule | CLO1.x, CLO2.1, CLO3.3 | As per exam requirements | 50%",
+      "word_count": 246,
+      "char_count": 1508,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 28,
+        "end_block": 29
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#009",
+      "text": "Table 8.1. Lesson plan\nWeek | Content* | Document** | CLOs | Teaching and learning activities*** | Assessment tools****\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum | Course outline | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group | Participation level Level of interaction Answer quality\n2 | Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design | [1] Chapter 1 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n3 | Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands | [1] Appendix A | CLO1, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n4 | Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS  Architecture | [1] Appendix A | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n5 | Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards | [1] Appendix C | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises\n6 | Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction | [1] Appendix C | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n7 | Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n8 | Midterm exam (20%) | - | CLO1.x, CLO2.1, CLO3.3 | - | Essay/quiz test\n9 | Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory | [1] Chapter 2, Appendix B | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | - | - | - | - | -\n11 | Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory | [1] Ch2, Appendix B | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n12 | Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation | [1] Appendix D | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n13 | Group exercise presentation | - | CLO1.x, CLO2.x, CLO3.x | Student groups report and answer questions Teachers and class members ask questions and comment | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time\n14 | Group exercise presentation | - | CLO1.x, CLO2.x, CLO3.x | Student groups report and answer questions Teachers and class members ask questions and comment | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time\n15 | Submit group work (20%) | - | CLO1.x, CLO2.1, CLO3.1 | Group of students submit report Instructor evaluation | Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other\n- | Final exam | - | CLO1.x, CLO2.1, CLO3.3 | Students take exams according to schedule | As per exam requirements",
+      "word_count": 977,
+      "char_count": 6299,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 9,
+        "start_block": 31,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#010",
+      "text": "- Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).",
+      "word_count": 24,
+      "char_count": 137,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Regulations on conditions for the end-of-course exam"
+      ],
+      "primary_heading": "9.1. Regulations on conditions for the end-of-course exam",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.1. Regulations on conditions for the end-of-course exam",
+      "position": {
+        "order": 10,
+        "start_block": 35,
+        "end_block": 36
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#011",
+      "text": "- Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\n- Students will be added points for each construction speech, which can be compensated for attendance points and test scores.",
+      "word_count": 79,
+      "char_count": 494,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. Rules for attending classes"
+      ],
+      "primary_heading": "9.2. Rules for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. Rules for attending classes",
+      "position": {
+        "order": 11,
+        "start_block": 37,
+        "end_block": 40
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#012",
+      "text": "- The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\n- Absolutely do not make noise, affecting others during the learning process.\n- Absolutely do not eat, chew gum, use devices such as phones, music players during class time.\n- Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+      "word_count": 105,
+      "char_count": 634,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Regulations on classroom behavior"
+      ],
+      "primary_heading": "9.3. Regulations on classroom behavior",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.3. Regulations on classroom behavior",
+      "position": {
+        "order": 12,
+        "start_block": 41,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "en-cntt1112e#013",
+      "text": "DEPARTMENT HEAD Dr. PHẠM XUÂN LÂM | SCHOOL HEAD Dr. NGUYỄN TRUNG TUẤN | Hà Nội, date 31 - 12 - 2021 RECTOR Prof.Dr PHẠM HỒNG CHƯƠNG",
+      "word_count": 27,
+      "char_count": 131,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Regulations on classroom behavior"
+      ],
+      "primary_heading": "9.3. Regulations on classroom behavior",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.3. Regulations on classroom behavior",
+      "position": {
+        "order": 13,
+        "start_block": 47,
+        "end_block": 49
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)\n1. GENERAL INFORMATION\n- Course name (tiếng Việt): | Kiến trúc máy tính\n- Course name (English) | Computer Architecture\n- Code | CNTT1112E\n- Knowledge block | Compulsory course\n- Number of credits | 3 credits (45 credit hours; 50 min/hour)\n+ Theory hours | 30\n+ Discuss/Practice hours + Self-study hours | 15 90\n- Prerequisite courses: | CNTT1113\n2. DEPARTMENT IN CHARGE OF INSTRUCTION\nDepartment: Department of Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nDr. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nMSc. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn\n3. COURSE DESCRIPTIONS\nThis module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.\nThe course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse books:\n[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.\nReference books:\n[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.\n5. COURSE GOALS\nTable 5.1. Course Objectives\nIndex | Course Objectives Description | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system | PLO 1.4.3 | 3\nG2 | The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time. | PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B | 3U, 3U, 3U\nG3 | The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 3, 3, 3\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\nGoal | CLOs | CLOs description* | Level of achievement**\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . . | 2\nG1 | CLO1.2 | Explain the operating model of the RISC . architecture | 2\nG1 | CLO1.3 | Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer | 3\nG1 | CLO1.4 | Apply learned knowledge to solve exercises and situations of each learning content. | 4\nG2 | CLO2.1 | Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems | 2\nG2 | CLO2.2 | Ability to work in a team to jointly solve a professional problem on time. | 3\nG2 | - | - | -\nG3 | CLO3.1 | Ability to self-study, self-study materials to complete assigned lessons and assignments. | 3\nG3 | CLO3.2 | Ability to organize and coordinate working groups to solve a subject matter. | 3\nG3 | CLO3.3 | Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer. | 3\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\nAssessment form | Content | Time | CLOs | Tools and Criteria Rating* | Rate (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nDiligence | Learning attitude in class Answer questions in class Answer discussion questions | Week 1-12 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers | 10%\nAssessment of the process | Midterm exam | Week 8 | CLO1.x, CLO2.1, CLO3.3 | Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation. | 40%\nAssessment of the process | Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture. | Week 13, 14 | CLO1.x, CLO2.x, CLO3.x | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time | 40%\nAssessment of the process | Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture. | Week 15 | CLO1.x, CLO2.1, CLO3.1 | Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other | 40%\nEnd of term assessment | Final exam | Semester exam schedule | CLO1.x, CLO2.1, CLO3.3 | As per exam requirements | 50%\n8. LESSON PLAN\nTable 8.1. Lesson plan\nWeek | Content* | Document** | CLOs | Teaching and learning activities*** | Assessment tools****\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum | Course outline | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group | Participation level Level of interaction Answer quality\n2 | Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design | [1] Chapter 1 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n3 | Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands | [1] Appendix A | CLO1, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n4 | Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS  Architecture | [1] Appendix A | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n5 | Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards | [1] Appendix C | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises\n6 | Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction | [1] Appendix C | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n7 | Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n8 | Midterm exam (20%) | - | CLO1.x, CLO2.1, CLO3.3 | - | Essay/quiz test\n9 | Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory | [1] Chapter 2, Appendix B | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | - | - | - | - | -\n11 | Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory | [1] Ch2, Appendix B | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n12 | Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation | [1] Appendix D | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n13 | Group exercise presentation | - | CLO1.x, CLO2.x, CLO3.x | Student groups report and answer questions Teachers and class members ask questions and comment | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time\n14 | Group exercise presentation | - | CLO1.x, CLO2.x, CLO3.x | Student groups report and answer questions Teachers and class members ask questions and comment | Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time\n15 | Submit group work (20%) | - | CLO1.x, CLO2.1, CLO3.1 | Group of students submit report Instructor evaluation | Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other\n- | Final exam | - | CLO1.x, CLO2.1, CLO3.3 | Students take exams according to schedule | As per exam requirements\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Regulations on conditions for the end-of-course exam\n- Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Rules for attending classes\n- Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\n- Students will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Regulations on classroom behavior\n- The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\n- Absolutely do not make noise, affecting others during the learning process.\n- Absolutely do not eat, chew gum, use devices such as phones, music players during class time.\n- Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.\nDEPARTMENT HEAD Dr. PHẠM XUÂN LÂM | SCHOOL HEAD Dr. NGUYỄN TRUNG TUẤN | Hà Nội, date 31 - 12 - 2021 RECTOR Prof.Dr PHẠM HỒNG CHƯƠNG"
 }

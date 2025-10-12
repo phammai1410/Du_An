@@ -1,131 +1,352 @@
 {
-  "id": "CNTT11100",
-  "filename": "Blockchain va ung dung_CNTT11100.docx",
+  "doc_id": "vi-cntt11100",
   "language": "vi",
-  "subject_name": "Blockchain va ung dung_CNTT11100",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Blockchain va ung dung",
+  "course_variant": "",
+  "course_code": "CNTT11100",
+  "source_filename": "Blockchain va ung dung_CNTT11100.docx",
+  "source_relpath": "data\\raw\\vi\\Blockchain va ung dung_CNTT11100.docx",
+  "source_hash": "b252a0dd00e45cb38dd227bc8816c17f",
+  "source_modified": "2025-10-11T10:42:50.616940+00:00",
+  "processed_at": "2025-10-12T13:02:26.611669+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tBlockchain và ứng dụng",
-        "Tên học phần (tiếng Anh):\tBlockchain and Application",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT11100",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số",
-        "Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.",
-        "Nội dung chính:",
-        "Giới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống.",
-        "Kiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.",
-        "Phát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.",
-        "Ứng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.",
-        "Các vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.",
-        "[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.",
-        "4.2. Tài liệu tham khảo",
-        "4.3. Phần mềm"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
-        "Đọc trước tài liệu được yêu cầu;",
-        "Làm các bài tập về nhà;",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
+    },
+    {
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
+    },
+    {
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tBlockchain và ứng dụng \nTên học phần (tiếng Anh):\tBlockchain and Application\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT11100\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\nĐịa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.\nNội dung chính:\nGiới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống. \nKiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.\nPhát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.\nỨng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.\nCác vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.\n[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.\n4.2. Tài liệu tham khảo\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học; \nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không). \nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
-  "created_at": "2025-10-03T00:04:20.713359",
-  "source_file": "backend\\data\\raw\\vi\\Blockchain va ung dung_CNTT11100.docx",
-  "content_length": 4916
+  "stats": {
+    "paragraphs": 44,
+    "headings": 17,
+    "tables": 7,
+    "chunks": 15,
+    "words": 3925
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt11100#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 286,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#002",
+      "text": "- Tên học phần (tiếng Việt): \tBlockchain và ứng dụng\n- Tên học phần (tiếng Anh):\tBlockchain and Application\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT11100\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:",
+      "word_count": 69,
+      "char_count": 319,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#003",
+      "text": "- Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\n- Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Minh Hoàn | hoanpm@neu.edu.vn\n2 | TS. Lưu Minh Tuấn | tuanlm@neu.edu.vn",
+      "word_count": 66,
+      "char_count": 307,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#004",
+      "text": "Học phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.\nNội dung chính:\n- Giới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống.",
+      "word_count": 180,
+      "char_count": 879,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 26
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#005",
+      "text": "- Kiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.\n- Phát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.\n- Ứng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.\n- Các vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử.",
+      "word_count": 199,
+      "char_count": 1069,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 27,
+        "end_block": 30
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#006",
+      "text": "4.1. Giáo trình\n[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.\n[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.\n4.2. Tài liệu tham khảo\n4.3. Phần mềm",
+      "word_count": 48,
+      "char_count": 339,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 32,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp kiến thức cơ bản về Blockchain với các nguyên tắc phi tập trung, minh bạch, bảo mật và tính bất biến, kiến trúc Blockchain với cấu trúc của một khối, các thuật toán đồng thuận; kiến thức phát triển ứng dụng Blockchain trên nền tảng phổ biến Ethereum, Hyperledger Fabric, Corda, …, hợp đồng thông minh với ngôn ngữ lập trình, công cụ và thư viện phát triển Blockchain; ứng dụng của Blockchain trong các lĩnh vực tài chính, chuỗi cung ứng, chính phủ, y tế, …; và kiến thức về bảo mật, tính pháp lý cho Blockchain và tiền điện tử | -\nCG2 | Học phần rèn luyện kỹ năng thiết kế Blockchain với thuật toán đồng thuận, kỹ năng phát triển ứng dụng Blockchain trên nền tảng Ethereum, Hyperledger Fabric, Corda. Đồng thời rèn kỹ năng sử dụng ngôn ngữ, thư viện để phát triển Blockchain với hợp đồng thông minh ứng dụng cho các lĩnh vực tài chính, chuỗi cung ứng, chính phủ, ý tế và kỹ năng bảo mật Blockchain. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
+      "word_count": 241,
+      "char_count": 1169,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 38,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO 1.1 | Có hiểu biết về công nghệ Blockchain, vận dụng kiến thức thiết kế Blockchain với cấu trúc các khối trên cơ sở thuật toán đồng thuận. | 2\nCG1 Kiến thức | CLO 1.2 | Sử dụng thành thạo nền tảng phổ biến Ethereum, Hyperledger Fabric, Corda, … phát triển ứng dụng Blockchain. | 3\nCG1 Kiến thức | CLO 1.3 | Sử dụng thành thạo ngôn ngữ lập trình, công cụ và thư viện phát triển Blockchain với hợp đồng thông minh. | 3\nCG1 Kiến thức | CLO 1.4 | Bảo mật ứng dụng Blockchain. | 3\nCG2 Kỹ năng | CLO 2.1 | Kỹ năng thiết kế Blockchain với thuật toán đồng thuận. | 4\nCG2 Kỹ năng | CLO 2.2 | Kỹ năng phát triển ứng dụng Blockchain trên nền tảng Ethereum, Hyperledger Fabric, Corda | 4\nCG2 Kỹ năng | CLO 2.3 | Kỹ năng sử dụng ngôn ngữ, thư viện để phát triển Blockchain với hợp đồng thông minh. | 4\nCG2 Kỹ năng | CLO 2.4 | Kỹ năng bảo mật Blockchain. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 3",
+      "word_count": 297,
+      "char_count": 1311,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 42,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận các buổi seminar | Tất cả các buổi seminar | 3.1 3.2 | - Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1 | 10% | …\nĐánh giá quá trình | Bài tập nhóm. Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề theo gợi ý của giảng viên bao hàm kiếm thức của các bài seminar, phân tích yêu cầu, thiết kế hệ thống, cài đặt, thử nghiệm, đánh giá kết quả, và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình | Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp | 2.1 2.2 2.3 2.4 3.1 3.2 | - Xem Phụ lục 2, rubrics 2 | 40% | …\nĐánh giá quá trình | Kiểm tra thực hành Sử dụng phần mềm thực hiện các yêu cầu tính toán và phân tích | Tuần 14-15 | 2.3 2.4 2.5 3.1 3.3 | - Số câu trả lời đúng - Xem Phụ lục 2, rubrics 3 | 40% | …\nĐánh giá cuối kỳ | Toàn bộ nội dung học (ngoại trừ phần thực hành) | Theo lịch của Trường | 1.1 1.2 1.3 1.4 2.1 2.2 2.4 2.5 3.1 3.2 | - Trắc nghiệm khách quan trên máy - Số câu hỏi: 40 - Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi | 50% | …",
+      "word_count": 318,
+      "char_count": 1294,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 47,
+        "end_block": 48
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#010",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương 1. Khái niệm cơ bản về Blockchain 1.1 Khái niệm chuỗi khối 1.2 Ngăn xếp và thành phần chuỗi khối 1.3 Hàm băm, chữ ký số | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 - Phân nhóm sinh viên làm bài tập nhóm chuẩn bị bài seminar. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - Điểm danh | 1.1 2.1\n2 | Lecture 1. Chương 1. Khái niệm cơ bản về Blockchain 1.4 Nền tảng chuỗi khối 1.5 Sự phát triển của chuỗi khối 1.6 Trường hợp sử dụng | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - Điểm danh | 1.1 2.1\n3 | Seminar 1. Mật mã học và công nghệ chuỗi khối Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Nhắc lại các kiến thức về: Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy - Hướng dẫn sinh viên thực hiện seminar theo hướng đề tài bài tập lớn. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Theo dõi ví dụ, câu hỏi, bài tập thực hành và nhận xét các bài thực hành của các thành viên khác trong lớp. | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi về các kết quả thống kê của bài thực hành | 1.1 2.1 3.1 3.2\n4 | Seminar 1. Mật mã học và công nghệ chuỗi khối | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Nhắc lại các kiến thức về: Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy - Hướng dẫn sinh viên thực hiện seminar theo hướng đề tài bài tập lớn. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Theo dõi ví dụ, câu hỏi, bài tập thực hành và nhận xét các bài thực hành của các thành viên khác trong lớp. | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi về các kết quả thống kê của bài thực hành | 1.1 2.1 3.1 3.2\n5 | Lecture 2. Chương 2. Hợp đồng thông minh 2.1 Giới thiệu hợp đồng thông minh Blockchain 2.2 Ethereum Blockchain | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - Điểm danh | 1.2 2.2\n6 | Lecture 2. Chương 2. Hợp đồng thông minh 2.3 Lập trình Solidity | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - Điểm danh | 1.2 2.2\n7 | Seminar 2. Hợp đồng thông minh Blockchain và lập trình solidity cho Ethereum | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Hướng dẫn lập trình Blockchain hợp đồng thông minh - Hướng dẫn thực hành lập trình solodity cho Ethereum Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hiện lập trình theo yêu cầu của giảng viên | 1.1 1.2 2.1 2.2 3.1 3.2\n8 | Seminar 2. Hợp đồng thông minh Blockchain và lập trình solidity cho Ethereum | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Hướng dẫn lập trình Blockchain hợp đồng thông minh - Hướng dẫn thực hành lập trình solodity cho Ethereum Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hiện lập trình theo yêu cầu của giảng viên | 1.1 1.2 2.1 2.2 3.1 3.2\n9 | Lecture 3. Chương 3. Ứng dụng phi tập trung (Dapps) 3.1 | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu - Chuẩn bị trước chủ đề, dữ liệu cho bài tập lớn | - Điểm danh | 1.3 2.3\n10 | Seminar 3. Phát triển ứng dụng phi tập trung (Dapps) | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Hướng dẫn thực hành ứng dụng phi tập trung trên nền tảng Ethereum, Hyperledger Fabric, Corda. - Ra bài tập thực hành theo lĩnh vực thực tế để sinh viện thực hiện. - Nhận xét, đánh giá kết quả thực hành của sinh viên. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Làm bài tập thực hành theo yêu cầu của giảng viên - Nhận xét, đánh giá bài của của thành viên trong nhóm và lớp - Trình bày dữ liệu đã thu thập | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Đánh giá bài tập thực hành - Đánh giá qua nhận xét bài thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 2.1 2.2 2.3 3.1 3.2\n11 | Seminar 3. Phát triển ứng dụng phi tập trung (Dapps) | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Hướng dẫn thực hành ứng dụng phi tập trung trên nền tảng Ethereum, Hyperledger Fabric, Corda. - Ra bài tập thực hành theo lĩnh vực thực tế để sinh viện thực hiện. - Nhận xét, đánh giá kết quả thực hành của sinh viên. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Làm bài tập thực hành theo yêu cầu của giảng viên - Nhận xét, đánh giá bài của của thành viên trong nhóm và lớp - Trình bày dữ liệu đã thu thập | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Đánh giá bài tập thực hành - Đánh giá qua nhận xét bài thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 2.1 2.2 2.3 3.1 3.2\n12 | Lecture 4. Chương 4. Bảo mật Blockchain 4.1 Introduction to tools 4.2 Smart contracts vulnerabilities 4.3 Verification of smart contracts | [1] Chapter 3-4 [2] Chapter 11-12 [2] Slide bài lecture 4 | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.4 2.4\n13 | Seminar 4. Bảo mật Blockchain - Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain | - | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 1.4 2.1 2.2 2.3 2.4 3.1 3.2\n14 | Seminar 4. Bảo mật Blockchain - Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain | - | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 1.4 2.1 2.2 2.3 2.4 3.1 3.2\n15 | Seminar 5 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi | [2] Slide bài seminar 5 | Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm bài tập lớn và trả lời các thắc mắc - Thông báo điểm kiểm tra thực hành và giải đáp thắc mắc - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo | - Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần | -\nLịch thi | Thi cuối kỳ | [1] Chapter 1-8, [2] Chapter 1 - 12 | Thi trắc nghiệm khách quan trên máy | Xem Phụ lục 1: ma trận đề thi | Xem Bảng 3",
+      "word_count": 2193,
+      "char_count": 10037,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 10,
+        "start_block": 53,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#011",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "position": {
+        "order": 11,
+        "start_block": 57,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#012",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 12,
+        "start_block": 60,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#013",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 63,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#014",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 66,
+        "end_block": 72
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11100#015",
+      "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTRƯỞNG KHOA | HIỆU TRƯỞNG\nTS Nguyễn Trung Tuấn | GS.TS Phạm Hồng Chương",
+      "word_count": 49,
+      "char_count": 223,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 15,
+        "start_block": 73,
+        "end_block": 78
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tBlockchain và ứng dụng\n- Tên học phần (tiếng Anh):\tBlockchain and Application\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT11100\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\n- Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS. Phạm Minh Hoàn | hoanpm@neu.edu.vn\n2 | TS. Lưu Minh Tuấn | tuanlm@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần cung cấp kiến thức liên quan đến bảo mật chuỗi khối (blockchain) và hợp đồng thông minh (smart contract), các công nghệ làm nền tảng cho nhiều hoạt động triển khai chuỗi khối, mật mã và giao dịch đằng sau chúng, các ngôn ngữ hợp đồng thông minh khác nhau như Solidity và Rust cũng như các giao thức được xây dựng dựa trên chúng như NFT, DeFi và Web3. Học phần cũng cung cấp các công cụ cần thiết để triển khai, kiểm tra, quét và khai thác tài sản blockchain và hợp đồng thông minh, cũng như tìm hiểu cách bảo vệ chúng và xác định các mối đe dọa cũng như các tác nhân đe dọa sử dụng chúng cho mục đích xấu.\nNội dung chính:\n- Giới thiệu về Blockchain: Khái niệm Blockchain, lịch sử phát triển và các ứng dụng phổ biến. Các nguyên tắc cơ bản của Blockchain: phi tập trung, minh bạch, bảo mật và tính bất biến. So sánh Blockchain với các hệ thống cơ sở dữ liệu truyền thống.\n- Kiến trúc Blockchain: Cấu trúc của một khối (block) trong Blockchain. Các thuật toán đồng thuận (consensus algorithms) được sử dụng trong Blockchain: Proof of Work (PoW), Proof of Stake (PoS), v.v. Các loại Blockchain: Blockchain công khai, Blockchain riêng tư và Blockchain consortium.\n- Phát triển ứng dụng Blockchain: Các nền tảng Blockchain phổ biến: Ethereum, Hyperledger Fabric, Corda, v.v. Hợp đồng thông minh (smart contracts): Khái niệm, ngôn ngữ lập trình và ứng dụng. Các công cụ và thư viện phát triển Blockchain.\n- Ứng dụng của Blockchain: Tài chính: Tiền điện tử, thanh toán quốc tế, quản lý danh tính, v.v. Chuỗi cung ứng: Theo dõi nguồn gốc sản phẩm, quản lý hàng tồn kho, chống hàng giả. Y tế: Lưu trữ hồ sơ y tế, chia sẻ dữ liệu y tế an toàn, v.v.Chính phủ: Bỏ phiếu điện tử, quản lý hồ sơ, theo dõi đất đai, v.v.\n- Các vấn đề và thách thức của Blockchain: Khả năng mở rộng (scalability): Giải pháp sharding, Layer 2, v.v. Tiêu thụ năng lượng: Các giải pháp thay thế cho Proof of Work. Quy định pháp lý: Khung pháp lý cho Blockchain và tiền điện tử.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] David LEE Kuo Chuen, LO Swee Won, WANG Yu (2021), Blockchain and Smart Contracts, World Scientific.\n[2] Pethuru Raj, Kavita Saini, Chellammal Surianarayanan, Pethuru Raj, Kavita Saini, Chellammal Surianarayanan (2020), Blockchain Technology and Applications, Auerbach Publications.\n4.2. Tài liệu tham khảo\n4.3. Phần mềm\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp kiến thức cơ bản về Blockchain với các nguyên tắc phi tập trung, minh bạch, bảo mật và tính bất biến, kiến trúc Blockchain với cấu trúc của một khối, các thuật toán đồng thuận; kiến thức phát triển ứng dụng Blockchain trên nền tảng phổ biến Ethereum, Hyperledger Fabric, Corda, …, hợp đồng thông minh với ngôn ngữ lập trình, công cụ và thư viện phát triển Blockchain; ứng dụng của Blockchain trong các lĩnh vực tài chính, chuỗi cung ứng, chính phủ, y tế, …; và kiến thức về bảo mật, tính pháp lý cho Blockchain và tiền điện tử | -\nCG2 | Học phần rèn luyện kỹ năng thiết kế Blockchain với thuật toán đồng thuận, kỹ năng phát triển ứng dụng Blockchain trên nền tảng Ethereum, Hyperledger Fabric, Corda. Đồng thời rèn kỹ năng sử dụng ngôn ngữ, thư viện để phát triển Blockchain với hợp đồng thông minh ứng dụng cho các lĩnh vực tài chính, chuỗi cung ứng, chính phủ, ý tế và kỹ năng bảo mật Blockchain. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO 1.1 | Có hiểu biết về công nghệ Blockchain, vận dụng kiến thức thiết kế Blockchain với cấu trúc các khối trên cơ sở thuật toán đồng thuận. | 2\nCG1 Kiến thức | CLO 1.2 | Sử dụng thành thạo nền tảng phổ biến Ethereum, Hyperledger Fabric, Corda, … phát triển ứng dụng Blockchain. | 3\nCG1 Kiến thức | CLO 1.3 | Sử dụng thành thạo ngôn ngữ lập trình, công cụ và thư viện phát triển Blockchain với hợp đồng thông minh. | 3\nCG1 Kiến thức | CLO 1.4 | Bảo mật ứng dụng Blockchain. | 3\nCG2 Kỹ năng | CLO 2.1 | Kỹ năng thiết kế Blockchain với thuật toán đồng thuận. | 4\nCG2 Kỹ năng | CLO 2.2 | Kỹ năng phát triển ứng dụng Blockchain trên nền tảng Ethereum, Hyperledger Fabric, Corda | 4\nCG2 Kỹ năng | CLO 2.3 | Kỹ năng sử dụng ngôn ngữ, thư viện để phát triển Blockchain với hợp đồng thông minh. | 4\nCG2 Kỹ năng | CLO 2.4 | Kỹ năng bảo mật Blockchain. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 3\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận các buổi seminar | Tất cả các buổi seminar | 3.1 3.2 | - Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1 | 10% | …\nĐánh giá quá trình | Bài tập nhóm. Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề theo gợi ý của giảng viên bao hàm kiếm thức của các bài seminar, phân tích yêu cầu, thiết kế hệ thống, cài đặt, thử nghiệm, đánh giá kết quả, và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình | Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp | 2.1 2.2 2.3 2.4 3.1 3.2 | - Xem Phụ lục 2, rubrics 2 | 40% | …\nĐánh giá quá trình | Kiểm tra thực hành Sử dụng phần mềm thực hiện các yêu cầu tính toán và phân tích | Tuần 14-15 | 2.3 2.4 2.5 3.1 3.3 | - Số câu trả lời đúng - Xem Phụ lục 2, rubrics 3 | 40% | …\nĐánh giá cuối kỳ | Toàn bộ nội dung học (ngoại trừ phần thực hành) | Theo lịch của Trường | 1.1 1.2 1.3 1.4 2.1 2.2 2.4 2.5 3.1 3.2 | - Trắc nghiệm khách quan trên máy - Số câu hỏi: 40 - Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi | 50% | …\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương 1. Khái niệm cơ bản về Blockchain 1.1 Khái niệm chuỗi khối 1.2 Ngăn xếp và thành phần chuỗi khối 1.3 Hàm băm, chữ ký số | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 - Phân nhóm sinh viên làm bài tập nhóm chuẩn bị bài seminar. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - Điểm danh | 1.1 2.1\n2 | Lecture 1. Chương 1. Khái niệm cơ bản về Blockchain 1.4 Nền tảng chuỗi khối 1.5 Sự phát triển của chuỗi khối 1.6 Trường hợp sử dụng | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - Điểm danh | 1.1 2.1\n3 | Seminar 1. Mật mã học và công nghệ chuỗi khối Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Nhắc lại các kiến thức về: Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy - Hướng dẫn sinh viên thực hiện seminar theo hướng đề tài bài tập lớn. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Theo dõi ví dụ, câu hỏi, bài tập thực hành và nhận xét các bài thực hành của các thành viên khác trong lớp. | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi về các kết quả thống kê của bài thực hành | 1.1 2.1 3.1 3.2\n4 | Seminar 1. Mật mã học và công nghệ chuỗi khối | [1] Chapter 1-6 [2] Chapter 1-4 [3] Slide bài lecture 1 | Giảng viên - Nhắc lại các kiến thức về: Security Objectives Cryptography Blockchain Cryptographic Hash Function Digital Signature Pay to Public Key Hash (P2PKH) Public Key Infrastructure Encryption Privacy - Hướng dẫn sinh viên thực hiện seminar theo hướng đề tài bài tập lớn. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Theo dõi ví dụ, câu hỏi, bài tập thực hành và nhận xét các bài thực hành của các thành viên khác trong lớp. | - Điểm danh - Trả lời câu hỏi trong slide seminar 1 - Trả lời câu hỏi về các kết quả thống kê của bài thực hành | 1.1 2.1 3.1 3.2\n5 | Lecture 2. Chương 2. Hợp đồng thông minh 2.1 Giới thiệu hợp đồng thông minh Blockchain 2.2 Ethereum Blockchain | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - Điểm danh | 1.2 2.2\n6 | Lecture 2. Chương 2. Hợp đồng thông minh 2.3 Lập trình Solidity | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - Điểm danh | 1.2 2.2\n7 | Seminar 2. Hợp đồng thông minh Blockchain và lập trình solidity cho Ethereum | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Hướng dẫn lập trình Blockchain hợp đồng thông minh - Hướng dẫn thực hành lập trình solodity cho Ethereum Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hiện lập trình theo yêu cầu của giảng viên | 1.1 1.2 2.1 2.2 3.1 3.2\n8 | Seminar 2. Hợp đồng thông minh Blockchain và lập trình solidity cho Ethereum | [1] Chapter 7 [2] Chapter 5-7 [3] Slide bài lecture 2 | Giảng viên - Hướng dẫn lập trình Blockchain hợp đồng thông minh - Hướng dẫn thực hành lập trình solodity cho Ethereum Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hiện lập trình theo yêu cầu của giảng viên | 1.1 1.2 2.1 2.2 3.1 3.2\n9 | Lecture 3. Chương 3. Ứng dụng phi tập trung (Dapps) 3.1 | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập thực hành dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu - Chuẩn bị trước chủ đề, dữ liệu cho bài tập lớn | - Điểm danh | 1.3 2.3\n10 | Seminar 3. Phát triển ứng dụng phi tập trung (Dapps) | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Hướng dẫn thực hành ứng dụng phi tập trung trên nền tảng Ethereum, Hyperledger Fabric, Corda. - Ra bài tập thực hành theo lĩnh vực thực tế để sinh viện thực hiện. - Nhận xét, đánh giá kết quả thực hành của sinh viên. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Làm bài tập thực hành theo yêu cầu của giảng viên - Nhận xét, đánh giá bài của của thành viên trong nhóm và lớp - Trình bày dữ liệu đã thu thập | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Đánh giá bài tập thực hành - Đánh giá qua nhận xét bài thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 2.1 2.2 2.3 3.1 3.2\n11 | Seminar 3. Phát triển ứng dụng phi tập trung (Dapps) | [1] Chapter 10 [2] Chapter 9-10 [2] Slide bài lecture 3 | Giảng viên - Hướng dẫn thực hành ứng dụng phi tập trung trên nền tảng Ethereum, Hyperledger Fabric, Corda. - Ra bài tập thực hành theo lĩnh vực thực tế để sinh viện thực hiện. - Nhận xét, đánh giá kết quả thực hành của sinh viên. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hiện trên máy tính - Làm bài tập thực hành theo yêu cầu của giảng viên - Nhận xét, đánh giá bài của của thành viên trong nhóm và lớp - Trình bày dữ liệu đã thu thập | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Đánh giá bài tập thực hành - Đánh giá qua nhận xét bài thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 2.1 2.2 2.3 3.1 3.2\n12 | Lecture 4. Chương 4. Bảo mật Blockchain 4.1 Introduction to tools 4.2 Smart contracts vulnerabilities 4.3 Verification of smart contracts | [1] Chapter 3-4 [2] Chapter 11-12 [2] Slide bài lecture 4 | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.4 2.4\n13 | Seminar 4. Bảo mật Blockchain - Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain | - | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 1.4 2.1 2.2 2.3 2.4 3.1 3.2\n14 | Seminar 4. Bảo mật Blockchain - Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain | - | Giảng viên - Hướng dẫn thực hành: Dịch vụ mạng và cơ sở hạ tầng khóa công khai sử dụng Blockchain; - Hướng dẫn thực hành bảo mật Blockchain; - Ra bài tập thực hành bào mật Blockchain. Sinh viên - Đọc tài liệu trước - Theo dõi các bước thực hành - Thực hành trên máy tính - Thực hiện giải các bài tập trên máy theo yêu cầu của giảng viên. - Tham gia thảo luận về kết quả thực hành của các thành viên khác trong lớp | - Điểm danh - Thực hành theo hướng dẫn của giảng viên - Thực hành các bài tập theo yêu cầu của giảng viên - Thảo luận kết quả thực hành của các thành viên khác trong lớp. | 1.1 1.2\n1.3 1.4 2.1 2.2 2.3 2.4 3.1 3.2\n15 | Seminar 5 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi | [2] Slide bài seminar 5 | Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm bài tập lớn và trả lời các thắc mắc - Thông báo điểm kiểm tra thực hành và giải đáp thắc mắc - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo | - Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần | -\nLịch thi | Thi cuối kỳ | [1] Chapter 1-8, [2] Chapter 1 - 12 | Thi trắc nghiệm khách quan trên máy | Xem Phụ lục 1: ma trận đề thi | Xem Bảng 3\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTRƯỞNG KHOA | HIỆU TRƯỞNG\nTS Nguyễn Trung Tuấn | GS.TS Phạm Hồng Chương"
 }

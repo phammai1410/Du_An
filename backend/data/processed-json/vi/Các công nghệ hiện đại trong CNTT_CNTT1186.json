@@ -1,159 +1,441 @@
 {
-  "id": "CNTT1186",
-  "filename": "Các công nghệ hiện đại trong CNTT_CNTT1186.docx",
+  "doc_id": "vi-cntt1186",
   "language": "vi",
-  "subject_name": "Ca╠üc co╠éng nghe╠ú╠é hie╠ú╠én ─æa╠úi trong CNTT_CNTT1186",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Các công nghệ hiện đại trong CNTT",
+  "course_variant": "",
+  "course_code": "CNTT1186",
+  "source_filename": "Các công nghệ hiện đại trong CNTT_CNTT1186.docx",
+  "source_relpath": "data\\raw\\vi\\Các công nghệ hiện đại trong CNTT_CNTT1186.docx",
+  "source_hash": "e66d1678582ec670bee9ba2c1ddc5386",
+  "source_modified": "2025-10-11T10:42:50.620436+00:00",
+  "processed_at": "2025-10-12T13:02:27.016058+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tCác công nghệ hiện đại trong CNTT",
-        "Tên học phần (tiếng Anh):\tAdvanced Technologies in Information and Communication Technology",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1186",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần cung cấp cho sinh viên những kiến thức, xu hướng đã và đang được nghiên cứu, triển khai về mặt lý thuyết, ứng dụng trong thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, xã hội, khoa học, công nghệ. Học phần này cũng sẽ giúp sinh viên có định hình ban đầu về xu hướng nghề nghiệp thông qua việc tìm hiểu, ứng dụng những kiến thức đã được học vào những vấn đề thực tế đang đặt ra.",
-        "Về kiến thức, sinh viên có cái nhìn tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, kinh tế xã hội. Hiểu biết về xu hướng phát triển của công nghệ thông tin.",
-        "Về kỹ năng, sau quá trình học, tìm hiểu và nghiên cứu về lĩnh vực mình quan tâm, sinh viên có khả năng khái quát về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu.",
-        "Nội dung chính:",
-        "-  Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan",
-        "-  Các phương pháp xử lý dữ liệu tiên tiến",
-        "-  Các phương pháp xử lý dữ liệu tiên tiến.",
-        "-  Điện toán đám mây",
-        "-  Trí tuệ nhân tạo, học máy và học sâu"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] Armando Vieira& Bernardete Ribeiro (2016) Introduction to Deep Learning Business Applications for Developers, Apress.",
-        "4.2. Tài liệu tham khảo",
-        "[2] Cloud Computing for Dummies, Judith Hurwitz, Robin Bloor, Marcia Kaufman, and Dr. Fern Halper, Wiley Publishing, Inc., 2010",
-        "[3] Data mining:  Concepts, Models and Techniques, Florin Gorunescu, Springer-Verlag Berlin Heidelberg, 2011",
-        "[4] Industry 4.0: The Industrial Internet of Things, Alasdair Gilchrist, 2016",
-        "[5] The Executive Guide to Artificial Intelligence, Andrew Burgess, Palgrave Macmillan, 2018",
-        "[6] Tài liệu và phần mềm từ các hãng công nghệ.",
-        "4.3. Phần mềm",
-        "[7] Các phần mềm mô phỏng, các phần mềm nguồn mở theo các chủ đề nêu trên"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần",
-        "7.2. Ma trận đề thi (phụ lục 1)"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 1, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
-      "content": [
-        "PHỤ LỤC"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
     },
     {
-      "heading": "Phụ lục 1. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua các buổi lecture và seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài tập nhóm",
-        "Trọng số: 90%, trong đó:",
-        "60%: điểm đánh giá chung cho cả nhóm, bao gồm chất lượng báo cáo, slide trình bày và các mình họa được đánh giá theo tiêu chí tại bảng dưới.",
-        "30%: điểm đánh giá cho từng cá nhân trong nhóm thông qua việc trả lời câu hỏi và thảo luận, tiêu chí đánh giá tại bảng dưới"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 17,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 18,
+      "level": 2,
+      "title": "Phụ lục 1. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tCác công nghệ hiện đại trong CNTT\nTên học phần (tiếng Anh):\tAdvanced Technologies in Information and Communication Technology\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1186\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tHọc phần cung cấp cho sinh viên những kiến thức, xu hướng đã và đang được nghiên cứu, triển khai về mặt lý thuyết, ứng dụng trong thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, xã hội, khoa học, công nghệ. Học phần này cũng sẽ giúp sinh viên có định hình ban đầu về xu hướng nghề nghiệp thông qua việc tìm hiểu, ứng dụng những kiến thức đã được học vào những vấn đề thực tế đang đặt ra.\nVề kiến thức, sinh viên có cái nhìn tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, kinh tế xã hội. Hiểu biết về xu hướng phát triển của công nghệ thông tin.\nVề kỹ năng, sau quá trình học, tìm hiểu và nghiên cứu về lĩnh vực mình quan tâm, sinh viên có khả năng khái quát về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu.\nNội dung chính:\n\t-  Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan\n\t-  Các phương pháp xử lý dữ liệu tiên tiến\n\t-  Các phương pháp xử lý dữ liệu tiên tiến.\n-  Điện toán đám mây\n\t-  Trí tuệ nhân tạo, học máy và học sâu\t\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Armando Vieira& Bernardete Ribeiro (2016) Introduction to Deep Learning Business Applications for Developers, Apress.\n4.2. Tài liệu tham khảo\n[2] Cloud Computing for Dummies, Judith Hurwitz, Robin Bloor, Marcia Kaufman, and Dr. Fern Halper, Wiley Publishing, Inc., 2010\n[3] Data mining:  Concepts, Models and Techniques, Florin Gorunescu, Springer-Verlag Berlin Heidelberg, 2011\n[4] Industry 4.0: The Industrial Internet of Things, Alasdair Gilchrist, 2016\n[5] The Executive Guide to Artificial Intelligence, Andrew Burgess, Palgrave Macmillan, 2018\n[6] Tài liệu và phần mềm từ các hãng công nghệ.\n4.3. Phần mềm\n[7] Các phần mềm mô phỏng, các phần mềm nguồn mở theo các chủ đề nêu trên\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 1, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua các buổi lecture và seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài tập nhóm\nTrọng số: 90%, trong đó: \n60%: điểm đánh giá chung cho cả nhóm, bao gồm chất lượng báo cáo, slide trình bày và các mình họa được đánh giá theo tiêu chí tại bảng dưới.\n30%: điểm đánh giá cho từng cá nhân trong nhóm thông qua việc trả lời câu hỏi và thảo luận, tiêu chí đánh giá tại bảng dưới",
-  "created_at": "2025-10-03T00:04:20.843985",
-  "source_file": "backend\\data\\raw\\vi\\Các công nghệ hiện đại trong CNTT_CNTT1186.docx",
-  "content_length": 5294
+  "stats": {
+    "paragraphs": 62,
+    "headings": 18,
+    "tables": 10,
+    "chunks": 20,
+    "words": 3082
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1186#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 289,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#002",
+      "text": "- Tên học phần (tiếng Việt): \tCác công nghệ hiện đại trong CNTT\n- Tên học phần (tiếng Anh):\tAdvanced Technologies in Information and Communication Technology\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1186\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:",
+      "word_count": 76,
+      "char_count": 368,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n2 | ThS Tống Thị Minh Ngọc | ngoctm@neu.edu.vn",
+      "word_count": 61,
+      "char_count": 298,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#004",
+      "text": "Học phần cung cấp cho sinh viên những kiến thức, xu hướng đã và đang được nghiên cứu, triển khai về mặt lý thuyết, ứng dụng trong thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, xã hội, khoa học, công nghệ. Học phần này cũng sẽ giúp sinh viên có định hình ban đầu về xu hướng nghề nghiệp thông qua việc tìm hiểu, ứng dụng những kiến thức đã được học vào những vấn đề thực tế đang đặt ra.\nVề kiến thức, sinh viên có cái nhìn tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, kinh tế xã hội. Hiểu biết về xu hướng phát triển của công nghệ thông tin.\nVề kỹ năng, sau quá trình học, tìm hiểu và nghiên cứu về lĩnh vực mình quan tâm, sinh viên có khả năng khái quát về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu.",
+      "word_count": 217,
+      "char_count": 989,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 26
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#005",
+      "text": "Nội dung chính:\n-  Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan\n-  Các phương pháp xử lý dữ liệu tiên tiến\n-  Các phương pháp xử lý dữ liệu tiên tiến.\n-  Điện toán đám mây\n-  Trí tuệ nhân tạo, học máy và học sâu",
+      "word_count": 53,
+      "char_count": 232,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 28,
+        "end_block": 35
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#006",
+      "text": "4.1. Giáo trình\n[1] Armando Vieira& Bernardete Ribeiro (2016) Introduction to Deep Learning Business Applications for Developers, Apress.\n4.2. Tài liệu tham khảo\n[2] Cloud Computing for Dummies, Judith Hurwitz, Robin Bloor, Marcia Kaufman, and Dr. Fern Halper, Wiley Publishing, Inc., 2010\n[3] Data mining:  Concepts, Models and Techniques, Florin Gorunescu, Springer-Verlag Berlin Heidelberg, 2011\n[4] Industry 4.0: The Industrial Internet of Things, Alasdair Gilchrist, 2016\n[5] The Executive Guide to Artificial Intelligence, Andrew Burgess, Palgrave Macmillan, 2018\n[6] Tài liệu và phần mềm từ các hãng công nghệ.\n4.3. Phần mềm\n[7] Các phần mềm mô phỏng, các phần mềm nguồn mở theo các chủ đề nêu trên",
+      "word_count": 109,
+      "char_count": 705,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 36,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Phân tích tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin (theo nghĩa rộng) trong đời sống, kinh tế xã hội. Phân tích về xu hướng phát triển của công nghệ thông tin. | PLO1.4 PLO1.4\nCG2 | Áp dụng về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu. | PLO2.1 PLO2.2\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | PLO3.1 PLO3.2",
+      "word_count": 176,
+      "char_count": 779,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 48,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Áp dụng các lĩnh vực lý thuyết, ứng dụng của công nghệ thông tin trong đời sống, kinh tế, xã hội | 3\nCG1 Kiến thức | CLO1.2 | Phân tích về xu hướng các công nghệ mới đang và sẽ triển khai của lĩnh vực công nghệ thông tin | 4\nCG2 Kỹ năng | CLO2.1 | Áp dụng các công nghệ mới. Có kỹ năng tìm kiếm, thu thập, tóm tắt tài liệu, thử nghiệm (nếu có) về vấn đề cụ thể. Đọc hiểu tài liệu chuyên ngành bằng ngoại ngữ. | 3\nCG2 Kỹ năng | CLO2.2 | Thuyết trình, tranh biện về các nội dung cần tìm hiểu | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập nhóm được giao | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học, có đạo đức nghề nghiệp trong việc thể hiện, triển khai công nghệ mới. | 3",
+      "word_count": 247,
+      "char_count": 1048,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 52,
+        "end_block": 53
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 1: rubric 1 | 10% | -\nĐánh giá quá trình | Sinh viên thu thập tài liệu, viết báo cáo, chạy thử nghiệm các công cụ theo vấn đề được giao | - | - | - | - | -\nĐánh giá quá trình | Sinh viên thu thập tài liệu, viết báo cáo, chạy thử nghiệm các công cụ theo vấn đề được giao | - | - | - | - | -\nĐánh giá cuối kỳ | Bài tập nhóm, thuyết trình | Tuần 14-14 | 1.x 2.x 3.x | Phụ lục 1: rubric 2 | 40%+50% | -",
+      "word_count": 186,
+      "char_count": 723,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 57,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#010",
+      "text": "7.2. Ma trận đề thi (phụ lục 1)",
+      "word_count": 8,
+      "char_count": 31,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 10,
+        "start_block": 60,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#011",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chuyên đề 1: Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan | [1-6] | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n2 | Lecture 2 Chuyên đề 2: Các phương pháp xử lý dữ liệu tiên tiến | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n3 | Lecture 3 Chuyên đề 3: IoT và M2M Chuyên đề 4: Điện toán đám mây | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n4 | Lecture 4 Chuyên đề 5: Trí tuệ nhân tạo, học máy và học sâu | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n6-13 | Seminar 1-8 Sinh viên làm việc theo nhóm dưới sự giám sát của Giảng viên Bài tập nhóm theo các chủ đề: Các phương pháp xử lý dữ liệu tiên tiến Xây dựng ứng dụng trên thiết bị di động Xây dựng ứng dụng nhúng trên các thiết bị Giải pháp công nghệ thông tin cho doanh nghiệp vừa và nhỏ Giải pháp mạng cho doanh nghiệp/tổ chức Các ứng dụng công nghệ thông tin và truyền thông trên nền tảng dịch vụ Các ứng dụng trên nền tảng mã nguồn mở Trí tuệ nhân tạo Học sâu Các vấn đề khác của Công nghệ thông tin và truyền thông. | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Trao đổi nội dung chủ đề - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Sinh viên: - Chuẩn bị tài liệu theo yêu cầu - Tham gia thảo luận | Bản kế hoạch và phân công trách nhiệm từng thành viên trong nhóm Báo cáo theo quy định về chủ đề được giao cho nhóm Sản phẩm tương ứng (nếu có) | 1.x 2.x 3.x\n14-15 | Các nhóm thuyết trình | - | Giảng viên: - Nghe thuyêt trình - Đặt câu hỏi - Hướng dẫn thảo luận giữa các nhóm Sinh viên: - Thuyết trình - Tham gia thảo luận | Phụ lục 1: Rubric 2 | -\nLịch thi | - | - | - | - | -",
+      "word_count": 761,
+      "char_count": 3308,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 11,
+        "start_block": 64,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#012",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 12,
+        "start_block": 68,
+        "end_block": 69
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#013",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 1, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 13,
+        "start_block": 71,
+        "end_block": 73
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#014",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 74,
+        "end_block": 76
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#015",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 95,
+      "char_count": 428,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 15,
+        "start_block": 77,
+        "end_block": 83
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#016",
+      "text": "- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 37,
+      "char_count": 159,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 16,
+        "start_block": 84,
+        "end_block": 87
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#017",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC",
+      "word_count": 17,
+      "char_count": 78,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 17,
+        "start_block": 89,
+        "end_block": 92
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#018",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi lecture và seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 168,
+      "char_count": 667,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 1. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 1. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 1. CÁC RUBRICS",
+      "position": {
+        "order": 18,
+        "start_block": 93,
+        "end_block": 99
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#019",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài tập nhóm\n- Trọng số: 90%, trong đó:\n- 60%: điểm đánh giá chung cho cả nhóm, bao gồm chất lượng báo cáo, slide trình bày và các mình họa được đánh giá theo tiêu chí tại bảng dưới.",
+      "word_count": 205,
+      "char_count": 850,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 1. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 1. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 1. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 99,
+        "end_block": 103
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1186#020",
+      "text": "- 30%: điểm đánh giá cho từng cá nhân trong nhóm thông qua việc trả lời câu hỏi và thảo luận, tiêu chí đánh giá tại bảng dưới\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết nội dung môn học | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về vấn đề được giao làm bài tập nhóm và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững về vấn đề được giao làm bài tập nhóm. | Có kiến thức cơ bản về vấn đề được giao làm bài tập nhóm, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về vấn đề được giao làm bài tập nhóm, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng về vấn đề được giao làm bài tập nhóm. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 493,
+      "char_count": 2042,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 1. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 1. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 1. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 104,
+        "end_block": 105
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tCác công nghệ hiện đại trong CNTT\n- Tên học phần (tiếng Anh):\tAdvanced Technologies in Information and Communication Technology\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1186\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310-P1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | TS Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n2 | ThS Tống Thị Minh Ngọc | ngoctm@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần cung cấp cho sinh viên những kiến thức, xu hướng đã và đang được nghiên cứu, triển khai về mặt lý thuyết, ứng dụng trong thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, xã hội, khoa học, công nghệ. Học phần này cũng sẽ giúp sinh viên có định hình ban đầu về xu hướng nghề nghiệp thông qua việc tìm hiểu, ứng dụng những kiến thức đã được học vào những vấn đề thực tế đang đặt ra.\nVề kiến thức, sinh viên có cái nhìn tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin trong các lĩnh vực đời sống, kinh tế xã hội. Hiểu biết về xu hướng phát triển của công nghệ thông tin.\nVề kỹ năng, sau quá trình học, tìm hiểu và nghiên cứu về lĩnh vực mình quan tâm, sinh viên có khả năng khái quát về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu.\nNội dung chính:\n-  Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan\n-  Các phương pháp xử lý dữ liệu tiên tiến\n-  Các phương pháp xử lý dữ liệu tiên tiến.\n-  Điện toán đám mây\n-  Trí tuệ nhân tạo, học máy và học sâu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Armando Vieira& Bernardete Ribeiro (2016) Introduction to Deep Learning Business Applications for Developers, Apress.\n4.2. Tài liệu tham khảo\n[2] Cloud Computing for Dummies, Judith Hurwitz, Robin Bloor, Marcia Kaufman, and Dr. Fern Halper, Wiley Publishing, Inc., 2010\n[3] Data mining:  Concepts, Models and Techniques, Florin Gorunescu, Springer-Verlag Berlin Heidelberg, 2011\n[4] Industry 4.0: The Industrial Internet of Things, Alasdair Gilchrist, 2016\n[5] The Executive Guide to Artificial Intelligence, Andrew Burgess, Palgrave Macmillan, 2018\n[6] Tài liệu và phần mềm từ các hãng công nghệ.\n4.3. Phần mềm\n[7] Các phần mềm mô phỏng, các phần mềm nguồn mở theo các chủ đề nêu trên\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Phân tích tổng quan về những lĩnh vực đã và đang được nghiên cứu, ứng dụng về lý thuyết và thực tế của Công nghệ thông tin (theo nghĩa rộng) trong đời sống, kinh tế xã hội. Phân tích về xu hướng phát triển của công nghệ thông tin. | PLO1.4 PLO1.4\nCG2 | Áp dụng về cơ bản vấn đề mình nghiên cứu, đưa ra những ví dụ hoặc triển khai các ứng dụng đặc thù của vấn đề cần tìm hiểu, có kỹ năng thực hành trên những bài toán cụ thể. Sinh viên có khả năng thuyết trình về vấn đề mình tìm hiểu. | PLO2.1 PLO2.2\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | PLO3.1 PLO3.2\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Áp dụng các lĩnh vực lý thuyết, ứng dụng của công nghệ thông tin trong đời sống, kinh tế, xã hội | 3\nCG1 Kiến thức | CLO1.2 | Phân tích về xu hướng các công nghệ mới đang và sẽ triển khai của lĩnh vực công nghệ thông tin | 4\nCG2 Kỹ năng | CLO2.1 | Áp dụng các công nghệ mới. Có kỹ năng tìm kiếm, thu thập, tóm tắt tài liệu, thử nghiệm (nếu có) về vấn đề cụ thể. Đọc hiểu tài liệu chuyên ngành bằng ngoại ngữ. | 3\nCG2 Kỹ năng | CLO2.2 | Thuyết trình, tranh biện về các nội dung cần tìm hiểu | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập nhóm được giao | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học, có đạo đức nghề nghiệp trong việc thể hiện, triển khai công nghệ mới. | 3\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 1: rubric 1 | 10% | -\nĐánh giá quá trình | Sinh viên thu thập tài liệu, viết báo cáo, chạy thử nghiệm các công cụ theo vấn đề được giao | - | - | - | - | -\nĐánh giá quá trình | Sinh viên thu thập tài liệu, viết báo cáo, chạy thử nghiệm các công cụ theo vấn đề được giao | - | - | - | - | -\nĐánh giá cuối kỳ | Bài tập nhóm, thuyết trình | Tuần 14-14 | 1.x 2.x 3.x | Phụ lục 1: rubric 2 | 40%+50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chuyên đề 1: Tổng quan về xu hướng công nghệ thông tin và ngành nghề liên quan | [1-6] | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n2 | Lecture 2 Chuyên đề 2: Các phương pháp xử lý dữ liệu tiên tiến | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n3 | Lecture 3 Chuyên đề 3: IoT và M2M Chuyên đề 4: Điện toán đám mây | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n4 | Lecture 4 Chuyên đề 5: Trí tuệ nhân tạo, học máy và học sâu | [1-6] | Giảng viên: - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời | 1.x 2.x 3.x\n6-13 | Seminar 1-8 Sinh viên làm việc theo nhóm dưới sự giám sát của Giảng viên Bài tập nhóm theo các chủ đề: Các phương pháp xử lý dữ liệu tiên tiến Xây dựng ứng dụng trên thiết bị di động Xây dựng ứng dụng nhúng trên các thiết bị Giải pháp công nghệ thông tin cho doanh nghiệp vừa và nhỏ Giải pháp mạng cho doanh nghiệp/tổ chức Các ứng dụng công nghệ thông tin và truyền thông trên nền tảng dịch vụ Các ứng dụng trên nền tảng mã nguồn mở Trí tuệ nhân tạo Học sâu Các vấn đề khác của Công nghệ thông tin và truyền thông. | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Trao đổi nội dung chủ đề - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Sinh viên: - Chuẩn bị tài liệu theo yêu cầu - Tham gia thảo luận | Bản kế hoạch và phân công trách nhiệm từng thành viên trong nhóm Báo cáo theo quy định về chủ đề được giao cho nhóm Sản phẩm tương ứng (nếu có) | 1.x 2.x 3.x\n14-15 | Các nhóm thuyết trình | - | Giảng viên: - Nghe thuyêt trình - Đặt câu hỏi - Hướng dẫn thảo luận giữa các nhóm Sinh viên: - Thuyết trình - Tham gia thảo luận | Phụ lục 1: Rubric 2 | -\nLịch thi | - | - | - | - | -\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 1, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn ào gây ảnh hưởng đến người khác, không ăn đồ ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi lecture và seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài tập nhóm\n- Trọng số: 90%, trong đó:\n- 60%: điểm đánh giá chung cho cả nhóm, bao gồm chất lượng báo cáo, slide trình bày và các mình họa được đánh giá theo tiêu chí tại bảng dưới.\n- 30%: điểm đánh giá cho từng cá nhân trong nhóm thông qua việc trả lời câu hỏi và thảo luận, tiêu chí đánh giá tại bảng dưới\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết nội dung môn học | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về vấn đề được giao làm bài tập nhóm và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững về vấn đề được giao làm bài tập nhóm. | Có kiến thức cơ bản về vấn đề được giao làm bài tập nhóm, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về vấn đề được giao làm bài tập nhóm, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng về vấn đề được giao làm bài tập nhóm. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
 }

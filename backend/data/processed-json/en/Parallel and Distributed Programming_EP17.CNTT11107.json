@@ -1,110 +1,294 @@
 {
-  "id": "EP17.CNTT11107",
-  "filename": "Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "doc_id": "en-ep17-cntt11107",
   "language": "en",
-  "subject_name": "Parallel and Distributed Programming_EP17.CNTT11107",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Parallel and Distributed Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11107",
+  "source_filename": "Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "source_relpath": "data\\raw\\en\\Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "source_hash": "4f49b7cc79313c6d6adaedc9b8d1564b",
+  "source_modified": "2025-10-11T10:42:50.604948+00:00",
+  "processed_at": "2025-10-12T13:02:25.434485+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "COURSE SYLLABUS",
-        "(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)",
-        "Program name : Bachelor of Software Engineering"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. GENERAL INFORMATION"
     },
     {
-      "heading": "1. GENERAL INFORMATION",
-      "content": [
-        "- Title:\tParallel and Distributed programming",
-        "- Course number:\tEP17.CNTT11107",
-        "- Type of course\tIn-depth knowledge",
-        "- Number of credits\t3",
-        "+ Theory hours\t30",
-        "+ Discuss/Practice hours",
-        "+ Self-study hours       \t15",
-        "90",
-        "- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. DEPARTMENT AND TEACHER"
     },
     {
-      "heading": "2. DEPARTMENT AND TEACHER",
-      "content": [
-        "Faculty: Information Technology",
-        "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
-        "Lecturer:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. COURSE DESCRIPTIONS",
-      "content": [
-        "Parallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.",
-        "The course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCES"
     },
     {
-      "heading": "4. LEARNING RESOURCES",
-      "content": [
-        "Course books:",
-        "[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.",
-        "Reference books:",
-        "[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE GOALS",
-      "content": [
-        "Table 5.1. Course Objectives"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOMES"
     },
     {
-      "heading": "6. COURSE LEARNING OUTCOMES",
-      "content": [
-        "Table 6.1. Course Learning Outcomes"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. COURSE ASSESSMENT",
-      "content": [
-        "Table 7.1. Course assessment"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. TEACHING PLAN"
     },
     {
-      "heading": "8. TEACHING PLAN",
-      "content": [
-        "Table 8.1. Lesson plan"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. CLASS REGULATION"
     },
     {
-      "heading": "9.1. Requirements for taking final/terminal exams",
-      "content": [
-        "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10)."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final/terminal exams"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
-        "Students will be added points for each construction speech, which can be compensated for attendance points and test scores."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
     },
     {
-      "heading": "9.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
-        "Absolutely do not make noise, affecting others during the learning process.",
-        "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
-        "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
-      ]
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)\nProgram name : Bachelor of Software Engineering\n1. GENERAL INFORMATION\n- Title:\tParallel and Distributed programming\n- Course number:\tEP17.CNTT11107\n- Type of course\tIn-depth knowledge\n- Number of credits\t3 \n                         + Theory hours\t30\n+ Discuss/Practice hours\n                     + Self-study hours       \t15\n90\n- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114\n2. DEPARTMENT AND TEACHER \nFaculty: Information Technology \nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\n3. COURSE DESCRIPTIONS\nParallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.\nThe course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES\nCourse books:\n[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.\nReference books: \n[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann\n5. COURSE GOALS\nTable 5.1. Course Objectives\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. TEACHING PLAN\nTable 8.1. Lesson plan\n9. CLASS REGULATION\n9.1. Requirements for taking final/terminal exams \nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Requirements for attending classes\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
-  "created_at": "2025-10-03T00:04:26.001871",
-  "source_file": "backend\\data\\raw\\en\\Parallel and Distributed Programming_EP17.CNTT11107.docx",
-  "content_length": 3551
+  "stats": {
+    "paragraphs": 33,
+    "headings": 12,
+    "tables": 7,
+    "chunks": 13,
+    "words": 1953
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt11107#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)\nProgram name : Bachelor of Software Engineering",
+      "word_count": 35,
+      "char_count": 257,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#002",
+      "text": "- Title:\tParallel and Distributed programming\n- Course number:\tEP17.CNTT11107\n- Type of course\tIn-depth knowledge\n- Number of credits\t3\n+ Theory hours\t30\n+ Discuss/Practice hours\n+ Self-study hours       \t15\n90\n- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114",
+      "word_count": 39,
+      "char_count": 263,
+      "heading_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "primary_heading": "1. GENERAL INFORMATION",
+      "breadcrumbs": "1. GENERAL INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 16
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#003",
+      "text": "Faculty: Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nDr. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nMSc. Cao Thi Thu Hương | 0983168238 | huongct@neu.edu.vn",
+      "word_count": 37,
+      "char_count": 234,
+      "heading_path": [
+        "2. DEPARTMENT AND TEACHER"
+      ],
+      "primary_heading": "2. DEPARTMENT AND TEACHER",
+      "breadcrumbs": "2. DEPARTMENT AND TEACHER",
+      "position": {
+        "order": 3,
+        "start_block": 17,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#004",
+      "text": "Parallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.\nThe course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.",
+      "word_count": 135,
+      "char_count": 1006,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 22,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#005",
+      "text": "Course books:\n[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.\nReference books:\n[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann",
+      "word_count": 39,
+      "char_count": 282,
+      "heading_path": [
+        "4. LEARNING RESOURCES"
+      ],
+      "primary_heading": "4. LEARNING RESOURCES",
+      "breadcrumbs": "4. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 25,
+        "end_block": 29
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#006",
+      "text": "Table 5.1. Course Objectives\nNo. | Objectives | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming | PLO 1.4.3 | 4\nG2 | The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time. | PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B | 4U, 4U, 4U\nG3 | The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 4, 4, 4",
+      "word_count": 148,
+      "char_count": 871,
+      "heading_path": [
+        "5. COURSE GOALS"
+      ],
+      "primary_heading": "5. COURSE GOALS",
+      "breadcrumbs": "5. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 30,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#007",
+      "text": "Table 6.1. Course Learning Outcomes\nGoal | CLOs | CLOs description* | Level of achievement**\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Explain the parallel and distributed decomposition patterns and program structure patterns. | 2\nG1 | CLO1.2 | Explain the operating model of multi threads, OpenMP, MPI, CUDA. | 2\nG1 | CLO1.3 | Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs. | 3\nG1 | CLO1.4 | Apply learned knowledge to solve exercises and situations of each learning content. | 4\nG2 | CLO2.1 | Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems | 4\nG2 | CLO2.2 | Ability to work in a team to jointly solve a professional problem on time. | 4\nG2 | - | - | -\nG3 | CLO3.1 | Ability to self-study, self-find materials to complete assigned exercises and assignments. | 4\nG3 | CLO3.2 | Ability to organize and coordinate working groups to solve a course’s problem. | 4\nG3 | CLO3.3 | Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer. | 4",
+      "word_count": 200,
+      "char_count": 1143,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOMES",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOMES",
+      "position": {
+        "order": 7,
+        "start_block": 33,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#008",
+      "text": "Table 7.1. Course assessment\nAssessment method | Description | Time | CLOs | Assessment indicators* | Rate (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nDiligence | Learning attitude in class Answer questions in class Answer discussion questions | Week 1-12 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers | 10%\nAssessment of the process | Midterm exam | Week 8 | CLO1.x, CLO2.1, CLO3.3 | Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation. | 40%\nEnd of term assessment | Final exam | Semester exam schedule | CLO1.x, CLO2.1, CLO3.3 | As per exam requirements | 50%",
+      "word_count": 136,
+      "char_count": 802,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 37,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#009",
+      "text": "Table 8.1. Lesson plan\nClass | Topics* | Required readings text ** | CLOs | Teaching and learning activities*** | Assessment methods****\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum | Course outline | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group | Participation level Level of interaction Answer quality\n2 | Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns | [1] Chapter 2 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n3 | Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns | [1] Chapter 2 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n4 | Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n5 | Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises\n6 | Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n7 | Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n8 | Midterm exam (20%) | - | CLO1.x, CLO2.1, CLO3.3 | - | Essay/quiz test\n9 | Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | - | - | - | - | -\n11 | Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n12 | Chapter 4: MPI 4.5 Node management 4.6 One-sides communications | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n13 | Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n14 | Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n15 | Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n- | Final exam | - | CLO1.x, CLO2.1, CLO3.3 | Students take exams according to schedule | As per exam requirements",
+      "word_count": 961,
+      "char_count": 6114,
+      "heading_path": [
+        "8. TEACHING PLAN"
+      ],
+      "primary_heading": "8. TEACHING PLAN",
+      "breadcrumbs": "8. TEACHING PLAN",
+      "position": {
+        "order": 9,
+        "start_block": 40,
+        "end_block": 41
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#010",
+      "text": "- Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).",
+      "word_count": 24,
+      "char_count": 137,
+      "heading_path": [
+        "9. CLASS REGULATION",
+        "9.1. Requirements for taking final/terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final/terminal exams",
+      "breadcrumbs": "9. CLASS REGULATION > 9.1. Requirements for taking final/terminal exams",
+      "position": {
+        "order": 10,
+        "start_block": 44,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#011",
+      "text": "- Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\n- Students will be added points for each construction speech, which can be compensated for attendance points and test scores.",
+      "word_count": 79,
+      "char_count": 494,
+      "heading_path": [
+        "9. CLASS REGULATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. CLASS REGULATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 11,
+        "start_block": 46,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#012",
+      "text": "- The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\n- Absolutely do not make noise, affecting others during the learning process.\n- Absolutely do not eat, chew gum, use devices such as phones, music players during class time.\n- Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+      "word_count": 105,
+      "char_count": 634,
+      "heading_path": [
+        "9. CLASS REGULATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behavior",
+      "breadcrumbs": "9. CLASS REGULATION > 9.3. Requirements for in-class behavior",
+      "position": {
+        "order": 12,
+        "start_block": 50,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11107#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "9. CLASS REGULATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behavior",
+      "breadcrumbs": "9. CLASS REGULATION > 9.3. Requirements for in-class behavior",
+      "position": {
+        "order": 13,
+        "start_block": 56,
+        "end_block": 58
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)\nProgram name : Bachelor of Software Engineering\n1. GENERAL INFORMATION\n- Title:\tParallel and Distributed programming\n- Course number:\tEP17.CNTT11107\n- Type of course\tIn-depth knowledge\n- Number of credits\t3\n+ Theory hours\t30\n+ Discuss/Practice hours\n+ Self-study hours       \t15\n90\n- Prerequisite courses:\tCNTT1128; CNTT1116; CNTT1114\n2. DEPARTMENT AND TEACHER\nFaculty: Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nDr. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nMSc. Cao Thi Thu Hương | 0983168238 | huongct@neu.edu.vn\n3. COURSE DESCRIPTIONS\nParallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.\nThe course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\n4. LEARNING RESOURCES\nCourse books:\n[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.\nReference books:\n[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann\n5. COURSE GOALS\nTable 5.1. Course Objectives\nNo. | Objectives | PLO | Level\n[1] | [2] | [3] | [4]\nG1 | The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming | PLO 1.4.3 | 4\nG2 | The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time. | PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B | 4U, 4U, 4U\nG3 | The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 4, 4, 4\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course Learning Outcomes\nGoal | CLOs | CLOs description* | Level of achievement**\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Explain the parallel and distributed decomposition patterns and program structure patterns. | 2\nG1 | CLO1.2 | Explain the operating model of multi threads, OpenMP, MPI, CUDA. | 2\nG1 | CLO1.3 | Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs. | 3\nG1 | CLO1.4 | Apply learned knowledge to solve exercises and situations of each learning content. | 4\nG2 | CLO2.1 | Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems | 4\nG2 | CLO2.2 | Ability to work in a team to jointly solve a professional problem on time. | 4\nG2 | - | - | -\nG3 | CLO3.1 | Ability to self-study, self-find materials to complete assigned exercises and assignments. | 4\nG3 | CLO3.2 | Ability to organize and coordinate working groups to solve a course’s problem. | 4\nG3 | CLO3.3 | Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer. | 4\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\nAssessment method | Description | Time | CLOs | Assessment indicators* | Rate (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nDiligence | Learning attitude in class Answer questions in class Answer discussion questions | Week 1-12 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers | 10%\nAssessment of the process | Midterm exam | Week 8 | CLO1.x, CLO2.1, CLO3.3 | Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation. | 40%\nEnd of term assessment | Final exam | Semester exam schedule | CLO1.x, CLO2.1, CLO3.3 | As per exam requirements | 50%\n8. TEACHING PLAN\nTable 8.1. Lesson plan\nClass | Topics* | Required readings text ** | CLOs | Teaching and learning activities*** | Assessment methods****\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum | Course outline | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group | Participation level Level of interaction Answer quality\n2 | Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns | [1] Chapter 2 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n3 | Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns | [1] Chapter 2 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n4 | Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n5 | Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications | [1] Chapter 3 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises\n6 | Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n7 | Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n8 | Midterm exam (20%) | - | CLO1.x, CLO2.1, CLO3.3 | - | Essay/quiz test\n9 | Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study | [1] Chapter 4 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n10 | - | - | - | - | -\n11 | Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n12 | Chapter 4: MPI 4.5 Node management 4.6 One-sides communications | [1] Chapter 5 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n13 | Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n14 | Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n15 | Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study | [1] Chapter 6 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems | Participation level Level of interaction Answer quality Application exercises\n- | Final exam | - | CLO1.x, CLO2.1, CLO3.3 | Students take exams according to schedule | As per exam requirements\n9. CLASS REGULATION\n9.1. Requirements for taking final/terminal exams\n- Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\n9.2. Requirements for attending classes\n- Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\n- Students will be added points for each construction speech, which can be compensated for attendance points and test scores.\n9.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\n- Absolutely do not make noise, affecting others during the learning process.\n- Absolutely do not eat, chew gum, use devices such as phones, music players during class time.\n- Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

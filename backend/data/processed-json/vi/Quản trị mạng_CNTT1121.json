@@ -1,181 +1,490 @@
 {
-  "id": "CNTT1121",
-  "filename": "Quản trị mạng_CNTT1121.docx",
+  "doc_id": "vi-cntt1121",
   "language": "vi",
-  "subject_name": "Qua╠ën tri╠ú ma╠úng_CNTT1121",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Quản trị mạng",
+  "course_variant": "",
+  "course_code": "CNTT1121",
+  "source_filename": "Quản trị mạng_CNTT1121.docx",
+  "source_relpath": "data\\raw\\vi\\Quản trị mạng_CNTT1121.docx",
+  "source_hash": "7999a05fb50c17a0c6f54a2ff9f3a6d2",
+  "source_modified": "2025-10-11T10:42:50.653102+00:00",
+  "processed_at": "2025-10-12T13:02:31.759010+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tQuản trị mạng",
-        "Tên học phần (tiếng Anh):\tNetwork Management",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1121",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết: Mạng máy tính và truyền số liệu"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Quản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.",
-        "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.",
-        "Nội dung chính:",
-        "Mô hình hệ thống quản trị mạng.",
-        "Giao thức quản trị mạng đơn giản SNMP.",
-        "Phần mềm mô phỏng (Packet Tracer, ...).",
-        "Cấu trúc, nguyên tắc hoạt động của các thiết bị mạng.",
-        "Cấu hình quản trị các thiết bị mạng.",
-        "Quản trị hệ thống Windows Server.",
-        "Cấu hình chính sách nhóm.",
-        "Cấu hình chính sách hệ thống.",
-        "Quản lý tài nguyên mạng.",
-        "Cài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).",
-        "Bảo mật mạng."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.",
-        "Tài liệu khác:",
-        "[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.",
-        "4.2. Tài liệu tham khảo",
-        "[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.",
-        "[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.",
-        "[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure",
-        "4.3. Phần mềm",
-        "[6]  Cisco Packet Tracer",
-        "[7] VMWare",
-        "[8] Windows Server"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
-        "Thời gian: 60 phút",
-        "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
-        "Ma trận đề thi (trắc nghiệm):"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua 9 buổi seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-        "Ma trận đề kiểm tra (tự luận):",
-        "Rubric 3. Đánh giá bài tập nhóm",
-        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-        "Sinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:",
-        "Hệ thống tên miền (DNS)",
-        "Cấp phát địa chỉ IP động (DHCP)",
-        "Thư điện tử (E-mail)",
-        "Web (HTTP/HTTPS)",
-        "Truyền tệp (FTP)",
-        "Mạng riêng ảo (VPN)",
-        "Hệ thống tường lửa (Firewall)",
-        "Hệ thống phát hiện xâm nhập trái phép (IDS)",
-        "Hệ thống Wifi",
-        "Bên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 18,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 19,
+      "level": 1,
+      "title": "PHỤ LỤC"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 21,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tQuản trị mạng \nTên học phần (tiếng Anh):\tNetwork Management\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1121\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Mạng máy tính và truyền số liệu\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nQuản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.\n\tHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.\nNội dung chính:\nMô hình hệ thống quản trị mạng.\nGiao thức quản trị mạng đơn giản SNMP.\nPhần mềm mô phỏng (Packet Tracer, ...).\nCấu trúc, nguyên tắc hoạt động của các thiết bị mạng.\nCấu hình quản trị các thiết bị mạng.\nQuản trị hệ thống Windows Server.\nCấu hình chính sách nhóm.\nCấu hình chính sách hệ thống.\nQuản lý tài nguyên mạng.\nCài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).\nBảo mật mạng.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.\nTài liệu khác: \n[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.\n4.2. Tài liệu tham khảo\n[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.\n[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.\n[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure  \n4.3. Phần mềm\n[6]  Cisco Packet Tracer\n[7] VMWare\n[8] Windows Server\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nMa trận đề kiểm tra (tự luận):\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:\nHệ thống tên miền (DNS)\nCấp phát địa chỉ IP động (DHCP)\nThư điện tử (E-mail)\nWeb (HTTP/HTTPS)\nTruyền tệp (FTP)\nMạng riêng ảo (VPN)\nHệ thống tường lửa (Firewall)\nHệ thống phát hiện xâm nhập trái phép (IDS)\nHệ thống Wifi\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
-  "created_at": "2025-10-03T00:04:23.410917",
-  "source_file": "backend\\data\\raw\\vi\\Quản trị mạng_CNTT1121.docx",
-  "content_length": 5904
+  "stats": {
+    "paragraphs": 84,
+    "headings": 21,
+    "tables": 12,
+    "chunks": 22,
+    "words": 4453
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1121#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 286,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#002",
+      "text": "- Tên học phần (tiếng Việt): \tQuản trị mạng\n- Tên học phần (tiếng Anh):\tNetwork Management\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1121\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Mạng máy tính và truyền số liệu",
+      "word_count": 74,
+      "char_count": 333,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 16
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn\n2 | TS. Nguyễn Thanh Hương | huongnt_cntt@neu.edu.vn",
+      "word_count": 63,
+      "char_count": 310,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 17,
+        "end_block": 22
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#004",
+      "text": "Quản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.",
+      "word_count": 220,
+      "char_count": 1029,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 23,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#005",
+      "text": "Nội dung chính:\n- Mô hình hệ thống quản trị mạng.\n- Giao thức quản trị mạng đơn giản SNMP.\n- Phần mềm mô phỏng (Packet Tracer, ...).\n- Cấu trúc, nguyên tắc hoạt động của các thiết bị mạng.\n- Cấu hình quản trị các thiết bị mạng.\n- Quản trị hệ thống Windows Server.\n- Cấu hình chính sách nhóm.\n- Cấu hình chính sách hệ thống.\n- Quản lý tài nguyên mạng.\n- Cài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).\n- Bảo mật mạng.",
+      "word_count": 94,
+      "char_count": 434,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 25,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#006",
+      "text": "4.1. Giáo trình\n[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.\nTài liệu khác:\n[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.\n4.2. Tài liệu tham khảo\n[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.\n[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.\n[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure\n4.3. Phần mềm\n[6]  Cisco Packet Tracer\n[7] VMWare\n[8] Windows Server",
+      "word_count": 93,
+      "char_count": 573,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 6,
+        "start_block": 38,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#007",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản. | -\nCG2 | Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
+      "word_count": 172,
+      "char_count": 726,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 7,
+        "start_block": 51,
+        "end_block": 53
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#008",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP. | 2\nCG1 Kiến thức | CLO1.2 | Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng. | 3\nCG1 Kiến thức | CLO1.3 | Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như  thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server,  Mail server,… | 3\nCG1 Kiến thức | CLO1.4 | Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng | 2\nCG2 Kỹ năng | CLO2.1 | Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng. | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng. | 3\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2",
+      "word_count": 431,
+      "char_count": 1910,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 8,
+        "start_block": 54,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#009",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (trắc nghiệm khách quan trên máy) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 197,
+      "char_count": 778,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 9,
+        "start_block": 59,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#010",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP | [1] Chương 1 | Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết | - | 1.1\n2 | Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP | [2] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành | 1.1 1.2 2.2 3.1\n3 | Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh | - | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.2\n4 | Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh | [1] Chương 2 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành | 1.2 2.1 2.2 3.1 3.2\n5 | Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng | [3] Chương 3 [4] Chương 1 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.2\n6 | Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web | [3] Chương 3 [4] Chương 1 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành | 1.2 2.1 2.2 3.1 3.2\n7 | Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm | [5] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.3\n8 | Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm | [5] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành | 1.3 2.1 2.2 3.1 3.2\n9 | Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu | [5] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.3\n10 | Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống | [5] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.3 2.1 2.2 3.2\n11 | Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng | [1] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.4\n12 | Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản | [1] Chương 3 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành | 1.4 2.1 2.2 3.1 3.2\n13 | Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân | - | Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân | Điểm danh Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 Trình bày bài tập nhóm | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Thi trắc nghiệm khách quan trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3 1.4",
+      "word_count": 1334,
+      "char_count": 5911,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 10,
+        "start_block": 66,
+        "end_block": 67
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#011",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 11,
+        "start_block": 70,
+        "end_block": 71
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#012",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 12,
+        "start_block": 73,
+        "end_block": 75
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#013",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 76,
+        "end_block": 78
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#014",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 79,
+        "end_block": 85
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#015",
+      "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 35,
+      "char_count": 151,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 15,
+        "start_block": 86,
+        "end_block": 89
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#016",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
+      "word_count": 15,
+      "char_count": 71,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 16,
+        "start_block": 91,
+        "end_block": 93
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#017",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 60 phút\n- Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nNội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 5 | 0 | 8\nLecture 2 | 1.2 | 2 | 4 | 3 | 9\nLecture 3 | 1.2 | 2 | 3 | 3 | 8\nLecture 4 | 1.3 | 2 | 4 | 3 | 9\nLecture 5 | 1.3 | 2 | 3 | 3 | 8\nLecture 6 | 1.4 | 3 | 5 | 0 | 8\nTổng số câu hỏi | - | 12 | 20 | 18 | 50\nTỷ trọng | - | 24% | 40% | 36% | 100%",
+      "word_count": 154,
+      "char_count": 507,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 17,
+        "start_block": 95,
+        "end_block": 102
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#018",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 166,
+      "char_count": 654,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 18,
+        "start_block": 103,
+        "end_block": 109
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#019",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Ma trận đề kiểm tra (tự luận):",
+      "word_count": 175,
+      "char_count": 749,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 109,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#020",
+      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 4 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 5 | 5 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 274,
+      "char_count": 686,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 113,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#021",
+      "text": "Rubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:\n- Hệ thống tên miền (DNS)\n- Cấp phát địa chỉ IP động (DHCP)\n- Thư điện tử (E-mail)\n- Web (HTTP/HTTPS)\n- Truyền tệp (FTP)\n- Mạng riêng ảo (VPN)\n- Hệ thống tường lửa (Firewall)\n- Hệ thống phát hiện xâm nhập trái phép (IDS)\n- Hệ thống Wifi\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
+      "word_count": 133,
+      "char_count": 603,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 115,
+        "end_block": 129
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1121#022",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nTriển khai và quản trị hệ thống | 1.x 2.x 3.x | 25% | Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống. | Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập. | Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất. | Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất.\nSự chính xác và hiệu quả | 1.x 2.x 3.x | 25% | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập. | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập. | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả. | Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập.\nSản phẩm demo trên VMWare hoặc Packet Tracer | 1.x 2.x 3.x | 25% | Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch. | Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng. | Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng. | Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp. | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi. | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic.",
+      "word_count": 558,
+      "char_count": 2384,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 129,
+        "end_block": 129
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tQuản trị mạng\n- Tên học phần (tiếng Anh):\tNetwork Management\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1121\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Mạng máy tính và truyền số liệu\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn\n2 | TS. Nguyễn Thanh Hương | huongnt_cntt@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nQuản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.\nNội dung chính:\n- Mô hình hệ thống quản trị mạng.\n- Giao thức quản trị mạng đơn giản SNMP.\n- Phần mềm mô phỏng (Packet Tracer, ...).\n- Cấu trúc, nguyên tắc hoạt động của các thiết bị mạng.\n- Cấu hình quản trị các thiết bị mạng.\n- Quản trị hệ thống Windows Server.\n- Cấu hình chính sách nhóm.\n- Cấu hình chính sách hệ thống.\n- Quản lý tài nguyên mạng.\n- Cài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).\n- Bảo mật mạng.\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.\nTài liệu khác:\n[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.\n4.2. Tài liệu tham khảo\n[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.\n[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.\n[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure\n4.3. Phần mềm\n[6]  Cisco Packet Tracer\n[7] VMWare\n[8] Windows Server\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản. | -\nCG2 | Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP. | 2\nCG1 Kiến thức | CLO1.2 | Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng. | 3\nCG1 Kiến thức | CLO1.3 | Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như  thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server,  Mail server,… | 3\nCG1 Kiến thức | CLO1.4 | Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng | 2\nCG2 Kỹ năng | CLO2.1 | Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng. | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng. | 3\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (trắc nghiệm khách quan trên máy) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP | [1] Chương 1 | Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết | - | 1.1\n2 | Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP | [2] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành | 1.1 1.2 2.2 3.1\n3 | Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh | - | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.2\n4 | Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh | [1] Chương 2 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành | 1.2 2.1 2.2 3.1 3.2\n5 | Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng | [3] Chương 3 [4] Chương 1 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.2\n6 | Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web | [3] Chương 3 [4] Chương 1 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành | 1.2 2.1 2.2 3.1 3.2\n7 | Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm | [5] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.3\n8 | Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm | [5] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành | 1.3 2.1 2.2 3.1 3.2\n9 | Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu | [5] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.3\n10 | Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống | [5] Chương x | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.3 2.1 2.2 3.2\n11 | Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng | [1] Chương x | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.4\n12 | Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản | [1] Chương 3 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành | 1.4 2.1 2.2 3.1 3.2\n13 | Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân | - | Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân | Điểm danh Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 Trình bày bài tập nhóm | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Thi trắc nghiệm khách quan trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3 1.4\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 60 phút\n- Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nNội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 5 | 0 | 8\nLecture 2 | 1.2 | 2 | 4 | 3 | 9\nLecture 3 | 1.2 | 2 | 3 | 3 | 8\nLecture 4 | 1.3 | 2 | 4 | 3 | 9\nLecture 5 | 1.3 | 2 | 3 | 3 | 8\nLecture 6 | 1.4 | 3 | 5 | 0 | 8\nTổng số câu hỏi | - | 12 | 20 | 18 | 50\nTỷ trọng | - | 24% | 40% | 36% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Ma trận đề kiểm tra (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 4 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 5 | 5 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:\n- Hệ thống tên miền (DNS)\n- Cấp phát địa chỉ IP động (DHCP)\n- Thư điện tử (E-mail)\n- Web (HTTP/HTTPS)\n- Truyền tệp (FTP)\n- Mạng riêng ảo (VPN)\n- Hệ thống tường lửa (Firewall)\n- Hệ thống phát hiện xâm nhập trái phép (IDS)\n- Hệ thống Wifi\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nTriển khai và quản trị hệ thống | 1.x 2.x 3.x | 25% | Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống. | Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập. | Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất. | Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất.\nSự chính xác và hiệu quả | 1.x 2.x 3.x | 25% | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập. | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập. | Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả. | Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập.\nSản phẩm demo trên VMWare hoặc Packet Tracer | 1.x 2.x 3.x | 25% | Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch. | Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng. | Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng. | Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp. | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi. | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
 }

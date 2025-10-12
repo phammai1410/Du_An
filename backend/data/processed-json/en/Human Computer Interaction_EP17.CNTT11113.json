@@ -1,110 +1,334 @@
 {
-  "id": "EP17.CNTT11113",
-  "filename": "Human Computer Interaction_EP17.CNTT11113.docx",
+  "doc_id": "en-ep17-cntt11113",
   "language": "en",
-  "subject_name": "Human Computer Interaction_EP17.CNTT11113",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Human Computer Interaction",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11113",
+  "source_filename": "Human Computer Interaction_EP17.CNTT11113.docx",
+  "source_relpath": "data\\raw\\en\\Human Computer Interaction_EP17.CNTT11113.docx",
+  "source_hash": "16dd6303d89bbe92e8b4b670518bde0c",
+  "source_modified": "2025-10-11T10:42:50.596587+00:00",
+  "processed_at": "2025-10-12T13:02:24.426709+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Human-Computer Interaction",
-        "* Code: CNTT1196",
-        "* Credits: 3 (45)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 25 hrs",
-        "+ Exercises in class: 10 hrs",
-        "+ Presentation and Discussion: 10 hrs",
-        "+ Self-study: 60 hrs",
-        "* Parallel course(s):",
-        "* Prerequisite course(s): CNTT11113",
-        "* Department conducting the course:",
-        "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
-        "+ Lecturers:",
-        "1. MSc Pham Thao\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
-        "2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn",
-        "3. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn",
-        "* The course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "Interaction between humans and computers is a complicated process with many rewards. Designing computer systems that are effective, efficient, easy to use, and enjoyable is important to realize the benefits of computation-based devices. The difficulties inherent in balancing the constraints of various aspects of human life create a complex web. The reward is the creation of digital libraries where scholars thousands of miles away can find and flip through virtual medieval manuscripts; medical instruments that enable a surgical team to design, locate and monitor a complex neurosurgical procedure; virtual worlds for entertainment and social interaction, responsive and efficient government services, from online license renewal to analysis of parliamentary testimonies; or smartphones that know where they are and understand limited language Interaction designers create meaningful interactions in virtual worlds and embed them seamlessly in physical worlds.",
-        "The goal of this subject is to introduce visual, gesture and speech interface technologies to students in Human Computer Interaction (HCI). We are focused on applications and services in intelligent environments and the personalized and context-sensitive interfaces that come with them. This course will teach you all you need to know about the user interface and software ergonomics."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3.1. Textbooks/Lecture Notes:",
-      "content": [
-        "[1] Dix A., Finlay J., Abowd G., and Beale R. Human-Computer Interaction, 3rd edition. Prentice Hall, Upper Saddle River, NJ, 2004."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "3.2. Additional references:",
-      "content": [
-        "[2] Scoot Klemmer. Human-Centered Design: An Introduction, Coursera course.",
-        "[3] John Wiley and Sons UK, Interaction Design: Beyond Human-Computer Interaction 4th Edition. 2015",
-        "[4] Stone, D., Jarrett, C., Woodroffe, M., & Minocha, S.: User interface design and evaluation. Morgan Kaufmann, 2005."
-      ]
+      "sequence": 4,
+      "level": 2,
+      "title": "3.1. Textbooks/Lecture Notes:"
     },
     {
-      "heading": "3.3. Software(s)",
-      "content": [
-        "[5] Figma: https://www.figma.com/"
-      ]
+      "sequence": 5,
+      "level": 2,
+      "title": "3.2. Additional references:"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 6,
+      "level": 2,
+      "title": "3.3. Software(s)"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)",
-        "6. COURSE ASSESSMENT",
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "7. LESSON PLAN",
-      "content": [
-        "Table 7.1. Lesson plan for the course"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "8.1. Requirements for taking final /terminal exams.",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "7. LESSON PLAN"
     },
     {
-      "heading": "8.2. Requirements for attending classes.",
-      "content": [
-        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 10,
+      "level": 1,
+      "title": "8. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "8.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "8.1. Requirements for taking final /terminal exams."
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "8.2. Requirements for attending classes."
+    },
+    {
+      "sequence": 13,
+      "level": 2,
+      "title": "8.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n* Title: Human-Computer Interaction \n* Code: CNTT1196\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises in class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs\n* Parallel course(s): \n* Prerequisite course(s): CNTT11113\n* Department conducting the course: \n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1. MSc Pham Thao\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn\n3. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University \n2. COURSE DESCRIPTIONS \nInteraction between humans and computers is a complicated process with many rewards. Designing computer systems that are effective, efficient, easy to use, and enjoyable is important to realize the benefits of computation-based devices. The difficulties inherent in balancing the constraints of various aspects of human life create a complex web. The reward is the creation of digital libraries where scholars thousands of miles away can find and flip through virtual medieval manuscripts; medical instruments that enable a surgical team to design, locate and monitor a complex neurosurgical procedure; virtual worlds for entertainment and social interaction, responsive and efficient government services, from online license renewal to analysis of parliamentary testimonies; or smartphones that know where they are and understand limited language Interaction designers create meaningful interactions in virtual worlds and embed them seamlessly in physical worlds.\nThe goal of this subject is to introduce visual, gesture and speech interface technologies to students in Human Computer Interaction (HCI). We are focused on applications and services in intelligent environments and the personalized and context-sensitive interfaces that come with them. This course will teach you all you need to know about the user interface and software ergonomics.\n3. LEARNING RESOURCES \n3.1. Textbooks/Lecture Notes: \n[1] Dix A., Finlay J., Abowd G., and Beale R. Human-Computer Interaction, 3rd edition. Prentice Hall, Upper Saddle River, NJ, 2004.\n3.2. Additional references:\n[2] Scoot Klemmer. Human-Centered Design: An Introduction, Coursera course. \n[3] John Wiley and Sons UK, Interaction Design: Beyond Human-Computer Interaction 4th Edition. 2015\n[4] Stone, D., Jarrett, C., Woodroffe, M., & Minocha, S.: User interface design and evaluation. Morgan Kaufmann, 2005.\n3.3. Software(s)\n[5] Figma: https://www.figma.com/  \n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:25.480986",
-  "source_file": "backend\\data\\raw\\en\\Human Computer Interaction_EP17.CNTT11113.docx",
-  "content_length": 4443
+  "stats": {
+    "paragraphs": 38,
+    "headings": 13,
+    "tables": 7,
+    "chunks": 15,
+    "words": 1566
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt11113#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023)\nBachelor of Software Engineering (SE) | Bachelor of Software Engineering (SE)",
+      "word_count": 52,
+      "char_count": 393,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#002",
+      "text": "* Title: Human-Computer Interaction\n* Code: CNTT1196\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises in class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs\n* Parallel course(s):\n* Prerequisite course(s): CNTT11113\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. MSc Pham Thao\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn\n3. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:",
+      "word_count": 98,
+      "char_count": 662,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#003",
+      "text": "Foundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+      "word_count": 42,
+      "char_count": 247,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 21,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#004",
+      "text": "Interaction between humans and computers is a complicated process with many rewards. Designing computer systems that are effective, efficient, easy to use, and enjoyable is important to realize the benefits of computation-based devices. The difficulties inherent in balancing the constraints of various aspects of human life create a complex web. The reward is the creation of digital libraries where scholars thousands of miles away can find and flip through virtual medieval manuscripts; medical instruments that enable a surgical team to design, locate and monitor a complex neurosurgical procedure; virtual worlds for entertainment and social interaction, responsive and efficient government services, from online license renewal to analysis of parliamentary testimonies; or smartphones that know where they are and understand limited language Interaction designers create meaningful interactions in virtual worlds and embed them seamlessly in physical worlds.\nThe goal of this subject is to introduce visual, gesture and speech interface technologies to students in Human Computer Interaction (HCI). We are focused on applications and services in intelligent environments and the personalized and context-sensitive interfaces that come with them. This course will teach you all you need to know about the user interface and software ergonomics.",
+      "word_count": 193,
+      "char_count": 1349,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 26,
+        "end_block": 27
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#005",
+      "text": "[1] Dix A., Finlay J., Abowd G., and Beale R. Human-Computer Interaction, 3rd edition. Prentice Hall, Upper Saddle River, NJ, 2004.",
+      "word_count": 21,
+      "char_count": 131,
+      "heading_path": [
+        "3. LEARNING RESOURCES",
+        "3.1. Textbooks/Lecture Notes:"
+      ],
+      "primary_heading": "3.1. Textbooks/Lecture Notes:",
+      "breadcrumbs": "3. LEARNING RESOURCES > 3.1. Textbooks/Lecture Notes:",
+      "position": {
+        "order": 5,
+        "start_block": 30,
+        "end_block": 31
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#006",
+      "text": "[2] Scoot Klemmer. Human-Centered Design: An Introduction, Coursera course.\n[3] John Wiley and Sons UK, Interaction Design: Beyond Human-Computer Interaction 4th Edition. 2015\n[4] Stone, D., Jarrett, C., Woodroffe, M., & Minocha, S.: User interface design and evaluation. Morgan Kaufmann, 2005.",
+      "word_count": 41,
+      "char_count": 294,
+      "heading_path": [
+        "3. LEARNING RESOURCES",
+        "3.2. Additional references:"
+      ],
+      "primary_heading": "3.2. Additional references:",
+      "breadcrumbs": "3. LEARNING RESOURCES > 3.2. Additional references:",
+      "position": {
+        "order": 6,
+        "start_block": 32,
+        "end_block": 35
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#007",
+      "text": "[5] Figma: https://www.figma.com/",
+      "word_count": 3,
+      "char_count": 33,
+      "heading_path": [
+        "3. LEARNING RESOURCES",
+        "3.3. Software(s)"
+      ],
+      "primary_heading": "3.3. Software(s)",
+      "breadcrumbs": "3. LEARNING RESOURCES > 3.3. Software(s)",
+      "position": {
+        "order": 7,
+        "start_block": 36,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#008",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand terms relating to Human Computer Interaction | PLO 1.3.1 | 3\nG2 | Being able to demonstrate their understanding of basic principles necessary for the design, testing, and evaluation of user interfaces | PLO 1.3.1, 1.4.1 | 4\nG3 | Have the ability to design the user interface and software ergonomics and determine if a software is ergonomically friendly | PLO 2.1, 2.2 | 4U\nG4 | Use Human Computer Interaction knowledge to propose solutions to companies relating to interface and human interaction application | PLO 3.1.1, 3.1.2, 3.2.3 | 4",
+      "word_count": 107,
+      "char_count": 629,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 8,
+        "start_block": 40,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#009",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO 1.1 | Describe terms relating to Human Computer Interaction | I\nG2 | CLO 2.1 | Understand concepts about Interaction design, design rules | T\nG2 | CLO 2.2 | Apply HCI knowledge in software process | T\nG2 | CLO 2.3 | Analyze implementation tool that supports HCI | T\nG2 | CLO 2.4 | Learn how to use evaluation technique to evaluate design | T\nG2 | CLO 2.5 | Understand universal design principles and user support | T\nG3 | CLO 3.1 | Design user interface | U\nG3 | CLO 3.2 | Evaluate software interface | U\nG4 | CLO 4.1 | Improve teamwork skills in group work | T\nG4 | CLO 4.2 | Propose solutions to companies in particular situations | T\n6. COURSE ASSESSMENT\nTable 6. Assessment summary",
+      "word_count": 156,
+      "char_count": 794,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 9,
+        "start_block": 43,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#010",
+      "text": "Assessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | 1,2,3,4,5 ,7,8,9,10,11\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nGroup Project Presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 12\nGroup Project Report | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 13\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | All CLOs | 50% | As scheduled",
+      "word_count": 102,
+      "char_count": 627,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 10,
+        "start_block": 47,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#011",
+      "text": "Table 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Introduction, basic concept, and definitions The Human The computer The Interaction | [1] Chapter 1, 2, 3 | CLO 1.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n2 | Chapter 2: Interaction Design 2.1. Design definitions. 2.2. Design process. 2.3. User focus | [1] Chapter 5 | CLO 2.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n3 | Chapter 2: Interaction Design 2.4. Scenarios 2.5. Navigation Design 2.6. Screen design and layout. 2.7. Iteration and prototyping | [1] Chapter 5 | CLO 2.1, 3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n4 | Chapter 3: HCI in software process 3.1. Software Life Cycle 3.2. Usability Engineering 3.3. Iterative design and prototyping 3.4. Design rationale | [1] Chapter 6 | CLO 2.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n5 | Chapter 4: Design rules 4.1. Principles to support usability. 4.2. Standards 4.3. Guidelines 4.4. Golden rules and heuristics 4.5. HCI patterns | [1] Chapter 7 | CLO 2.1, 3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n6 | Project: HCI Practice Interview, Storyboard, Paper prototype and Evaluation | [2] Chapter 2.2, 3.1, 4 | CLO 3.1, 3.2, 4.1 | Reading at home Lecturing Group discussion in class. Group assignment guidance | Participation Group Discussion\n7 | Chapter 5: Implementation support 5.1. Elements of windowing system 5.2. Programming the application | [1] Chapter 8 | CLO 2.3, 3.1, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n8 | Chapter 5: Implementation support 5.3. Using toolkits: Java and AWT 5.4. User interface management systems | [1] Chapter 8 | CLO 2.3, 3.1, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n9 | Chapter 6: Evaluation techniques 6.1. Evaluation definitions 6.2. Evaluation goals 6.3. Evaluation through expert analysis 6.4. Evaluation through user participation 6.5. Choosing an evaluation method | [1] Chapter 9 | CLO 2.4, 3.2, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n10 | Chapter 7: Universal design 7.1. Universal design principles 7.2. Multi-modal interaction 7.3. Designing for diversity | [1] Chapter 10 | CLO 2.5, 3.2, 4.1, 4.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n11 | Chapter 8: User support 8.1. Requirements of user support 8.2. Approaches to user support 8.3. Adaptive help systems 8.4. Designing user support systems | [1] Chapter 11 | CLO 2.5 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n12 | Group project presentation | - | CLO 3.1, 3.2, 4.1, 4.2 | Group presentation. | Participation Group presentation",
+      "word_count": 514,
+      "char_count": 3164,
+      "heading_path": [
+        "7. LESSON PLAN"
+      ],
+      "primary_heading": "7. LESSON PLAN",
+      "breadcrumbs": "7. LESSON PLAN",
+      "position": {
+        "order": 11,
+        "start_block": 50,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#012",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams."
+      ],
+      "primary_heading": "8.1. Requirements for taking final /terminal exams.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams.",
+      "position": {
+        "order": 12,
+        "start_block": 54,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#013",
+      "text": "- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 109,
+      "char_count": 643,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes."
+      ],
+      "primary_heading": "8.2. Requirements for attending classes.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes.",
+      "position": {
+        "order": 13,
+        "start_block": 56,
+        "end_block": 59
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#014",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 535,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 14,
+        "start_block": 60,
+        "end_block": 64
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11113#015",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 15,
+        "start_block": 64,
+        "end_block": 65
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,         ,            , 2023)\nBachelor of Software Engineering (SE) | Bachelor of Software Engineering (SE)\n1. COURSE INFORMATION\n* Title: Human-Computer Interaction\n* Code: CNTT1196\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises in class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs\n* Parallel course(s):\n* Prerequisite course(s): CNTT11113\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. MSc Pham Thao\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. PhD Pham Xuan Lam \tTel: 0937638683\tEmail: lapmpx@neu.edu.vn\n3. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:\nFoundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS\nInteraction between humans and computers is a complicated process with many rewards. Designing computer systems that are effective, efficient, easy to use, and enjoyable is important to realize the benefits of computation-based devices. The difficulties inherent in balancing the constraints of various aspects of human life create a complex web. The reward is the creation of digital libraries where scholars thousands of miles away can find and flip through virtual medieval manuscripts; medical instruments that enable a surgical team to design, locate and monitor a complex neurosurgical procedure; virtual worlds for entertainment and social interaction, responsive and efficient government services, from online license renewal to analysis of parliamentary testimonies; or smartphones that know where they are and understand limited language Interaction designers create meaningful interactions in virtual worlds and embed them seamlessly in physical worlds.\nThe goal of this subject is to introduce visual, gesture and speech interface technologies to students in Human Computer Interaction (HCI). We are focused on applications and services in intelligent environments and the personalized and context-sensitive interfaces that come with them. This course will teach you all you need to know about the user interface and software ergonomics.\n3. LEARNING RESOURCES\n3.1. Textbooks/Lecture Notes:\n[1] Dix A., Finlay J., Abowd G., and Beale R. Human-Computer Interaction, 3rd edition. Prentice Hall, Upper Saddle River, NJ, 2004.\n3.2. Additional references:\n[2] Scoot Klemmer. Human-Centered Design: An Introduction, Coursera course.\n[3] John Wiley and Sons UK, Interaction Design: Beyond Human-Computer Interaction 4th Edition. 2015\n[4] Stone, D., Jarrett, C., Woodroffe, M., & Minocha, S.: User interface design and evaluation. Morgan Kaufmann, 2005.\n3.3. Software(s)\n[5] Figma: https://www.figma.com/\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand terms relating to Human Computer Interaction | PLO 1.3.1 | 3\nG2 | Being able to demonstrate their understanding of basic principles necessary for the design, testing, and evaluation of user interfaces | PLO 1.3.1, 1.4.1 | 4\nG3 | Have the ability to design the user interface and software ergonomics and determine if a software is ergonomically friendly | PLO 2.1, 2.2 | 4U\nG4 | Use Human Computer Interaction knowledge to propose solutions to companies relating to interface and human interaction application | PLO 3.1.1, 3.1.2, 3.2.3 | 4\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO 1.1 | Describe terms relating to Human Computer Interaction | I\nG2 | CLO 2.1 | Understand concepts about Interaction design, design rules | T\nG2 | CLO 2.2 | Apply HCI knowledge in software process | T\nG2 | CLO 2.3 | Analyze implementation tool that supports HCI | T\nG2 | CLO 2.4 | Learn how to use evaluation technique to evaluate design | T\nG2 | CLO 2.5 | Understand universal design principles and user support | T\nG3 | CLO 3.1 | Design user interface | U\nG3 | CLO 3.2 | Evaluate software interface | U\nG4 | CLO 4.1 | Improve teamwork skills in group work | T\nG4 | CLO 4.2 | Propose solutions to companies in particular situations | T\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | 1,2,3,4,5 ,7,8,9,10,11\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nGroup Project Presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 12\nGroup Project Report | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 13\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | All CLOs | 50% | As scheduled\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Introduction, basic concept, and definitions The Human The computer The Interaction | [1] Chapter 1, 2, 3 | CLO 1.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n2 | Chapter 2: Interaction Design 2.1. Design definitions. 2.2. Design process. 2.3. User focus | [1] Chapter 5 | CLO 2.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n3 | Chapter 2: Interaction Design 2.4. Scenarios 2.5. Navigation Design 2.6. Screen design and layout. 2.7. Iteration and prototyping | [1] Chapter 5 | CLO 2.1, 3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n4 | Chapter 3: HCI in software process 3.1. Software Life Cycle 3.2. Usability Engineering 3.3. Iterative design and prototyping 3.4. Design rationale | [1] Chapter 6 | CLO 2.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n5 | Chapter 4: Design rules 4.1. Principles to support usability. 4.2. Standards 4.3. Guidelines 4.4. Golden rules and heuristics 4.5. HCI patterns | [1] Chapter 7 | CLO 2.1, 3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n6 | Project: HCI Practice Interview, Storyboard, Paper prototype and Evaluation | [2] Chapter 2.2, 3.1, 4 | CLO 3.1, 3.2, 4.1 | Reading at home Lecturing Group discussion in class. Group assignment guidance | Participation Group Discussion\n7 | Chapter 5: Implementation support 5.1. Elements of windowing system 5.2. Programming the application | [1] Chapter 8 | CLO 2.3, 3.1, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n8 | Chapter 5: Implementation support 5.3. Using toolkits: Java and AWT 5.4. User interface management systems | [1] Chapter 8 | CLO 2.3, 3.1, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n9 | Chapter 6: Evaluation techniques 6.1. Evaluation definitions 6.2. Evaluation goals 6.3. Evaluation through expert analysis 6.4. Evaluation through user participation 6.5. Choosing an evaluation method | [1] Chapter 9 | CLO 2.4, 3.2, 4.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n10 | Chapter 7: Universal design 7.1. Universal design principles 7.2. Multi-modal interaction 7.3. Designing for diversity | [1] Chapter 10 | CLO 2.5, 3.2, 4.1, 4.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n11 | Chapter 8: User support 8.1. Requirements of user support 8.2. Approaches to user support 8.3. Adaptive help systems 8.4. Designing user support systems | [1] Chapter 11 | CLO 2.5 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n12 | Group project presentation | - | CLO 3.1, 3.2, 4.1, 4.2 | Group presentation. | Participation Group presentation\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\n- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

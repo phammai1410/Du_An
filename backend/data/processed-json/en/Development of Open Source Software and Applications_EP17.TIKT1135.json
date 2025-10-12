@@ -1,118 +1,310 @@
 {
-  "id": "EP17.TIKT1135",
-  "filename": "Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "doc_id": "en-ep17-tikt1135",
   "language": "en",
-  "subject_name": "Development of Open Source Software and Applications_EP17.TIKT1135",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Development of Open Source Software and Applications",
+  "course_variant": "",
+  "course_code": "EP17.TIKT1135",
+  "source_filename": "Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "source_relpath": "data\\raw\\en\\Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "source_hash": "0a0f18d77b4682fdfbc224aeeb58ccdd",
+  "source_modified": "2025-10-11T10:42:50.589226+00:00",
+  "processed_at": "2025-10-12T13:02:23.659591+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "Cours name: Development of Open Source Software and Applications"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135",
-        "* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 25 hrs",
-        "+ Exercises, Presentation and Discussion: 20 hrs",
-        "+ Self-study: 90 hrs.",
-        "* Parallel course(s): None.",
-        "* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming",
-        "* Faculty conducting the course: Management Information System",
-        "+ Lecturers:",
-        "1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn",
-        "2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn",
-        "3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn",
-        "* Kind of the course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: University’s schedule"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "The course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "* Text Books/Lecture Notes:",
-        "[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023",
-        "* Additional references:",
-        "[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6",
-        "[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7",
-        "[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5",
-        "[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "* Assessment methods:",
-        "- Grading: 10",
-        "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
-        "* Assessment summary:",
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE OUTLINE"
     },
     {
-      "heading": "7. COURSE OUTLINE",
-      "content": [
-        "Table 7. Course outline"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan for the course"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
     },
     {
-      "heading": "9.3. Requirements for in-class behaviour",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behaviour"
     }
   ],
-  "tables": [],
-  "full_text": "Cours name: Development of Open Source Software and Applications\n1. COURSE INFORMATION\n* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities: \n+ Lecture: 25 hrs\n+ Exercises, Presentation and Discussion: 20 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming\n* Faculty conducting the course: Management Information System\n+ Lecturers: \n1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn\n2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn\n3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn\t\n* Kind of the course: \n* Course language: \tIn English                 \n* Meeting hour: University’s schedule\t \n2. COURSE DESCRIPTIONS\t\nThe course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.\t\n3. LEARNING RESOURCES \n* Text Books/Lecture Notes: \n[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023 \n* Additional references: \n[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\n[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:25.046331",
-  "source_file": "backend\\data\\raw\\en\\Development of Open Source Software and Applications_EP17.TIKT1135.docx",
-  "content_length": 4360
+  "stats": {
+    "paragraphs": 41,
+    "headings": 12,
+    "tables": 8,
+    "chunks": 14,
+    "words": 2359
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-tikt1135#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\nCours name: Development of Open Source Software and Applications",
+      "word_count": 59,
+      "char_count": 452,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#002",
+      "text": "* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises, Presentation and Discussion: 20 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming\n* Faculty conducting the course: Management Information System\n+ Lecturers:\n1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn\n2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn\n3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn\n* Kind of the course:",
+      "word_count": 103,
+      "char_count": 754,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#003",
+      "text": "Foundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: University’s schedule",
+      "word_count": 32,
+      "char_count": 188,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 17,
+        "end_block": 22
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#004",
+      "text": "The course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.",
+      "word_count": 112,
+      "char_count": 884,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 23,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#005",
+      "text": "* Text Books/Lecture Notes:\n[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023\n* Additional references:\n[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\n[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013",
+      "word_count": 92,
+      "char_count": 615,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 25,
+        "end_block": 33
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration | PLO4 | 4\nG2 | Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications | PLO4 | 4\nG3 | Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics | PLO4 | 4",
+      "word_count": 148,
+      "char_count": 999,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 34,
+        "end_block": 36
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand terms and concepts related to open source software | I, T\nG1 | CLO1.2 | Understand and explain several open source software licenses | I, T\nG1 | CLO1.3 | Understand the functions and deploy applications used by some open source software that organizations and businesses often use | I, T, U\nG1 | CLO1.4 | Understand and implement the process of developing and deploying open source software applications | I, T, U\nG1 | CLO1.5 | Proficient in the development and deployment of open source software for organizations and businesses | I, T, U\nG2 | CLO2.1 | Improve skills in analysis, design, and development of software based on open source code | I, T, U\nG2 | CLO2.2 | Improve self-study skills, read documents about open source software; open source software development process and application deployment | I, T, U\nG3 | CLO3.1 | Able to work independently or actively, actively and effectively participate in group activities | I, T\nG3 | CLO3.2 | Ability to organize group activities | I, T, U\nG3 | CLO3.3 | Have social responsibility and professional ethics | I, T",
+      "word_count": 209,
+      "char_count": 1189,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 37,
+        "end_block": 38
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#008",
+      "text": "* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | - | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Participant | All CLOs | 10% | Week 1 - 15\nMidterm assessment | Midterm assessment | Midterm assessment | - | -\nGroup works | Group works | CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2 | 40% | Week 14 - 15\nMidterm exam | Midterm exam | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2 | 40% | Week 10\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Final exam | All CLOs | 50% | -",
+      "word_count": 141,
+      "char_count": 801,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 40,
+        "end_block": 48
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#009",
+      "text": "Table 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software | Syllabus/Lecture notes (Ch1) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n2 | Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses | Syllabus/Lecture notes (Ch2) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n3 | Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license | Syllabus/Lecture notes (Ch2) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n4 | Lecture 3: Some Open Source Software 3.1. Open Source Operating System | Syllabus/Lecture notes (Ch3) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n5 | Lecture 3: Some Open Source Software 3.2. Open Source Programming Language | Syllabus/Lecture notes (Ch4) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n6 | Lecture 3: Some Open Source Software 3.3. Open Source Database Management System | Syllabus/Lecture notes (Ch5) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n7 | Lecture 3: Some Open Source Software 3.4. Open Source Office Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n8 | Lecture 3: Some Open Source Software 3.5. Open Source CMS Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n9 | Lecture 3: Some Open Source Software 3.6. Open Source ERP Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n10 | Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test | Syllabus/Lecture notes (Ch7, 8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n11 | Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n12 | Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...) | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n13 | Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system | Syllabus/Lecture notes (Ch9) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n14 | Group presentation Review | Groups’ reports and presentation | CLO1.5 CLO3.1 CLO3.2 | In class activities Presentation Q&As\n15 | Course summary and final exam preparation | Syllabus/Lecture notes | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 | In class activities Q&As\n- | Final exam | - | All CLOs | Students take exams according to give schedule",
+      "word_count": 529,
+      "char_count": 3432,
+      "heading_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "primary_heading": "7. COURSE OUTLINE",
+      "breadcrumbs": "7. COURSE OUTLINE",
+      "position": {
+        "order": 9,
+        "start_block": 49,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#010",
+      "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software | Syllabus/Lecture notes (Ch1) | CLO1.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n2 | Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses | Syllabus/Lecture notes (Ch2) | CLO1.2 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n3 | Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license | Syllabus/Lecture notes (Ch2) | CLO1.2 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n4 | Lecture 3: Some Open Source Software 3.1. Open Source Operating System | Syllabus/Lecture notes (Ch3) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n5 | Lecture 3: Some Open Source Software 3.2. Open Source Programming Language | Syllabus/Lecture notes (Ch4) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n6 | Lecture 3: Some Open Source Software 3.3. Open Source Database Management System | Syllabus/Lecture notes (Ch5) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n7 | Lecture 3: Some Open Source Software 3.4. Open Source Office Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n8 | Lecture 3: Some Open Source Software 3.5. Open Source CMS Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n9 | Lecture 3: Some Open Source Software 3.6. Open Source ERP Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n10 | Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test | Syllabus/Lecture notes (Ch7,8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n11 | Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n12 | Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...) | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n13 | Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system | Syllabus/Lecture notes (Ch9) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n14-15 | Group presentation Review Course summary and final exam preparation | Groups’ reports and presentation Syllabus/Lecture notes | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2 | In class activities Presentation Q&As | Evaluate of the group\n- | Final exam | - | All CLOs | Students take exams according to given schedule | According to the exam requirement (Writing/Paper)",
+      "word_count": 698,
+      "char_count": 4464,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 54,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#011",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
+      "position": {
+        "order": 11,
+        "start_block": 61,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#012",
+      "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 108,
+      "char_count": 638,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 12,
+        "start_block": 63,
+        "end_block": 66
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#013",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 536,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 13,
+        "start_block": 67,
+        "end_block": 71
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tikt1135#014",
+      "text": "Faculty Dean | NEU’s President\nDr. Nguyen Thi Bach Tuyet | Prof. Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 81,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 14,
+        "start_block": 71,
+        "end_block": 72
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\nCours name: Development of Open Source Software and Applications\n1. COURSE INFORMATION\n* Title: Development of Open Source Software and Applications  Code: EP17.TIKT1135\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises, Presentation and Discussion: 20 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming\n* Faculty conducting the course: Management Information System\n+ Lecturers:\n1. ThS. Phung Tien Hai         Tel: 0903216863      Email: phungtienhai@neu.edu.vn\n2. ThS. Tran Thanh Hai        Tel: 0903466090       Email: haitt@neu.edu.vn\n3. ThS. Tran Dung Khanh     Tel: 0919900084       Email: kantd@@neu.edu.vn\n* Kind of the course:\nFoundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: University’s schedule\n2. COURSE DESCRIPTIONS\nThe course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.\n3. LEARNING RESOURCES\n* Text Books/Lecture Notes:\n[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023\n* Additional references:\n[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\n[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration | PLO4 | 4\nG2 | Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications | PLO4 | 4\nG3 | Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics | PLO4 | 4\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand terms and concepts related to open source software | I, T\nG1 | CLO1.2 | Understand and explain several open source software licenses | I, T\nG1 | CLO1.3 | Understand the functions and deploy applications used by some open source software that organizations and businesses often use | I, T, U\nG1 | CLO1.4 | Understand and implement the process of developing and deploying open source software applications | I, T, U\nG1 | CLO1.5 | Proficient in the development and deployment of open source software for organizations and businesses | I, T, U\nG2 | CLO2.1 | Improve skills in analysis, design, and development of software based on open source code | I, T, U\nG2 | CLO2.2 | Improve self-study skills, read documents about open source software; open source software development process and application deployment | I, T, U\nG3 | CLO3.1 | Able to work independently or actively, actively and effectively participate in group activities | I, T\nG3 | CLO3.2 | Ability to organize group activities | I, T, U\nG3 | CLO3.3 | Have social responsibility and professional ethics | I, T\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | - | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Participant | All CLOs | 10% | Week 1 - 15\nMidterm assessment | Midterm assessment | Midterm assessment | - | -\nGroup works | Group works | CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2 | 40% | Week 14 - 15\nMidterm exam | Midterm exam | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2 | 40% | Week 10\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Final exam | All CLOs | 50% | -\n7. COURSE OUTLINE\nTable 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software | Syllabus/Lecture notes (Ch1) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n2 | Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses | Syllabus/Lecture notes (Ch2) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n3 | Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license | Syllabus/Lecture notes (Ch2) | CLO1.1 CLO2.2 | Pre-Reading text In class activities\n4 | Lecture 3: Some Open Source Software 3.1. Open Source Operating System | Syllabus/Lecture notes (Ch3) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n5 | Lecture 3: Some Open Source Software 3.2. Open Source Programming Language | Syllabus/Lecture notes (Ch4) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n6 | Lecture 3: Some Open Source Software 3.3. Open Source Database Management System | Syllabus/Lecture notes (Ch5) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities\n7 | Lecture 3: Some Open Source Software 3.4. Open Source Office Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n8 | Lecture 3: Some Open Source Software 3.5. Open Source CMS Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n9 | Lecture 3: Some Open Source Software 3.6. Open Source ERP Software | Syllabus/Lecture notes (Ch6) | CLO1.1 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities\n10 | Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test | Syllabus/Lecture notes (Ch7, 8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n11 | Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n12 | Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...) | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n13 | Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system | Syllabus/Lecture notes (Ch9) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities\n14 | Group presentation Review | Groups’ reports and presentation | CLO1.5 CLO3.1 CLO3.2 | In class activities Presentation Q&As\n15 | Course summary and final exam preparation | Syllabus/Lecture notes | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 | In class activities Q&As\n- | Final exam | - | All CLOs | Students take exams according to give schedule\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software | Syllabus/Lecture notes (Ch1) | CLO1.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n2 | Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses | Syllabus/Lecture notes (Ch2) | CLO1.2 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n3 | Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license | Syllabus/Lecture notes (Ch2) | CLO1.2 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n4 | Lecture 3: Some Open Source Software 3.1. Open Source Operating System | Syllabus/Lecture notes (Ch3) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n5 | Lecture 3: Some Open Source Software 3.2. Open Source Programming Language | Syllabus/Lecture notes (Ch4) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n6 | Lecture 3: Some Open Source Software 3.3. Open Source Database Management System | Syllabus/Lecture notes (Ch5) | CLO1.3 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n7 | Lecture 3: Some Open Source Software 3.4. Open Source Office Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n8 | Lecture 3: Some Open Source Software 3.5. Open Source CMS Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n9 | Lecture 3: Some Open Source Software 3.6. Open Source ERP Software | Syllabus/Lecture notes (Ch6) | CLO1.3 CLO1.5 CLO2.2 | Pre-Reading text Home-work In class activities | Evaluate the process Answer questions in class Personal test, Final exam\n10 | Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test | Syllabus/Lecture notes (Ch7,8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n11 | Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n12 | Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...) | Syllabus/Lecture notes (Ch8) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n13 | Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system | Syllabus/Lecture notes (Ch9) | CLO1.4 CLO2.1 CLO2.2 | Pre-Reading text In class activities | Evaluate the process Answer questions in class Final exam\n14-15 | Group presentation Review Course summary and final exam preparation | Groups’ reports and presentation Syllabus/Lecture notes | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2 | In class activities Presentation Q&As | Evaluate of the group\n- | Final exam | - | All CLOs | Students take exams according to given schedule | According to the exam requirement (Writing/Paper)\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nDr. Nguyen Thi Bach Tuyet | Prof. Pham Hong Chuong"
 }

@@ -1,109 +1,310 @@
 {
-  "id": "EP17.CNTT1180",
-  "filename": "Python programming_EP17.CNTT1180.docx",
+  "doc_id": "en-ep17-cntt1180",
   "language": "en",
-  "subject_name": "Python programming_EP17.CNTT1180",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Python programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1180",
+  "source_filename": "Python programming_EP17.CNTT1180.docx",
+  "source_relpath": "data\\raw\\en\\Python programming_EP17.CNTT1180.docx",
+  "source_hash": "7161ad584b02cd1ad662fe754d2fc3b3",
+  "source_modified": "2025-10-11T10:42:50.609097+00:00",
+  "processed_at": "2025-10-12T13:02:25.835683+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "Title: Python Programming                 Code: CNTT1180",
-        "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
-        "Credit hours for teaching and learning activities:",
-        "Lecture: 35 hrs",
-        "Exercises on class: 10 hrs",
-        "Self-study: 90 hrs.",
-        "Parallel course(s): None",
-        "Prerequisite course(s): None",
-        "Department conducting the course:",
-        "Faculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
-        "Lecturers:",
-        "MSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn",
-        "MSc. Phạm Thảo \tTel: 0966986689 Email: thaop@neu.edu.vn",
-        "Kind of the course:",
-        "* Meeting hour:"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "This course introduces the programming environment, architecture overview and application capabilities of Python.",
-        "This course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.",
-        "This course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "Textbook(s):",
-        "[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.",
-        "[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.",
-        "[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.",
-        "Others:",
-        "[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.",
-        "Software: Visual Studio Code, PyCharm"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. COURSE OUTLINE",
-      "content": [
-        "Table 7. Course outline"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE OUTLINE"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson plan for the course"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams.",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "9.2. Requirements for attending classes.",
-      "content": [
-        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams."
     },
     {
-      "heading": "9.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes."
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\nTitle: Python Programming                 Code: CNTT1180\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities: \nLecture: 35 hrs\nExercises on class: 10 hrs\nSelf-study: 90 hrs. \nParallel course(s): None \nPrerequisite course(s): None \nDepartment conducting the course: \nFaculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers: \nMSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn\nMSc. Phạm Thảo \tTel: 0966986689 Email: thaop@neu.edu.vn \nKind of the course: \n* Meeting hour:\t \n2. COURSE DESCRIPTIONS \nThis course introduces the programming environment, architecture overview and application capabilities of Python.\nThis course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.\nThis course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib.\n3. LEARNING RESOURCES \nTextbook(s):\n[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.\n[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.\n[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.\nOthers: \n[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.\nSoftware: Visual Studio Code, PyCharm\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. COURSE OUTLINE\nTable 7. Course outline\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:26.187760",
-  "source_file": "backend\\data\\raw\\en\\Python programming_EP17.CNTT1180.docx",
-  "content_length": 3310
+  "stats": {
+    "paragraphs": 37,
+    "headings": 12,
+    "tables": 8,
+    "chunks": 14,
+    "words": 2653
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt1180#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering",
+      "word_count": 50,
+      "char_count": 387,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#002",
+      "text": "- Title: Python Programming                 Code: CNTT1180\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 35 hrs\n- Exercises on class: 10 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): None\n- Department conducting the course:\n- Faculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- MSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn\n- MSc. Phạm Thảo \tTel: 0966986689 Email: thaop@neu.edu.vn\n- Kind of the course:",
+      "word_count": 101,
+      "char_count": 654,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 18
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#003",
+      "text": "Foundation □ | Foundation □ | Fundamental □ | Fundamental □\nCompulsory □ | Elective □ | Compulsory □ | Elective □\n* Meeting hour:",
+      "word_count": 25,
+      "char_count": 129,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 20
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#004",
+      "text": "This course introduces the programming environment, architecture overview and application capabilities of Python.\n- This course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.\n- This course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib.",
+      "word_count": 63,
+      "char_count": 448,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 21,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#005",
+      "text": "Textbook(s):\n[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.\n[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.\n[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.\nOthers:\n[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.\nSoftware: Visual Studio Code, PyCharm",
+      "word_count": 62,
+      "char_count": 428,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 25,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | Learning to practice thinking skills, problem solving and good practice skills with the Python programming language | PLO2.2 | 4\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO3.4 | 4, 4, 4",
+      "word_count": 114,
+      "char_count": 723,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 33,
+        "end_block": 35
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language. | ITU3\nG1 | CLO1.2 | Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib. | ITU4\nG2 | CLO2.1 | The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing. | TU4\nG3 | CLO3.1 | Ability to self-study Python-related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to Python programming. | U4",
+      "word_count": 156,
+      "char_count": 1018,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 36,
+        "end_block": 38
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#008",
+      "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | - | -\nMidterm exam 1 (Individual test) | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 20% | 12\nMidterm exam 2 (Group works) | CLO1.x CLO2.x CLO3.x | 20% | 14-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 50% | -",
+      "word_count": 93,
+      "char_count": 557,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 39,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#009",
+      "text": "Table 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.1 CLO3.2 | Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)\n2 | Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List | [1] Chapter 4, 5 | CLO2.1 | Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)\n3 | Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary | [1] Chapter 31, 32, 33 | CLO2.1 | Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)\n4 | Chapter 3:  Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops | [1] Chapter 6, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)\n5 | Chapter 4: Function, Modules, Packages in Python 4.1. Functions | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)\n6 | Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)\n7 | Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file | [2] Chapter 17, 18, 19 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)\n8 | Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation | [1] Chapter 17, 18, 19, 20 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)\n9-10 | Chapter 7: Data Science Using Python 7.1. NumPy | [3] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)\n11-12 | Chapter 7: Data Science Using Python 7.2. Pandas | [3] Chapter 4, 5, 6 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1\n13 | Chapter 7: Data Science Using Python 7.3. Matplotlib | [3] Chapter 3, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)\n14-15 | Group project presentation | Students find documents by themselves | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Group presentation\n- | Final exam | - | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Students take exams according to give schedule",
+      "word_count": 472,
+      "char_count": 2566,
+      "heading_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "primary_heading": "7. COURSE OUTLINE",
+      "breadcrumbs": "7. COURSE OUTLINE",
+      "position": {
+        "order": 9,
+        "start_block": 43,
+        "end_block": 44
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#010",
+      "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n2 | Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List | [1] Chapter 4, 5 | CLO2.1 | Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n3 | Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary | [1] Chapter 31, 32, 33 | CLO2.1 | Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n4 | Chapter 3:  Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops | [1] Chapter 6, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n5 | Chapter 4: Function, Modules, Packages in Python 4.1. Functions | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n6 | Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n7 | Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file | [2] Chapter 17, 18, 19 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n8 | Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation | [1] Chapter 17, 18, 19, 20 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n9-10 | Chapter 7: Data Science Using Python 7.1. NumPy | [3] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n11-12 | Chapter 7: Data Science Using Python 7.2. Pandas | [3] Chapter 4, 5, 6 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1 | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n13 | Chapter 7: Data Science Using Python 7.3. Matplotlib | [3] Chapter 3, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n14-15 | Group project presentation | Students find documents by themselves | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Group presentation | Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works\n- | Final exam | - | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Students take exams according to given schedule | According to the exam requirement",
+      "word_count": 1280,
+      "char_count": 8670,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 46,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#011",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams."
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams.",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams.",
+      "position": {
+        "order": 11,
+        "start_block": 51,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#012",
+      "text": "- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 109,
+      "char_count": 643,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes."
+      ],
+      "primary_heading": "9.2. Requirements for attending classes.",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes.",
+      "position": {
+        "order": 12,
+        "start_block": 53,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#013",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 535,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behavior",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behavior",
+      "position": {
+        "order": 13,
+        "start_block": 57,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1180#014",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behavior",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behavior",
+      "position": {
+        "order": 14,
+        "start_block": 61,
+        "end_block": 62
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\n1. COURSE INFORMATION\n- Title: Python Programming                 Code: CNTT1180\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 35 hrs\n- Exercises on class: 10 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): None\n- Department conducting the course:\n- Faculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- MSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn\n- MSc. Phạm Thảo \tTel: 0966986689 Email: thaop@neu.edu.vn\n- Kind of the course:\nFoundation □ | Foundation □ | Fundamental □ | Fundamental □\nCompulsory □ | Elective □ | Compulsory □ | Elective □\n* Meeting hour:\n2. COURSE DESCRIPTIONS\nThis course introduces the programming environment, architecture overview and application capabilities of Python.\n- This course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.\n- This course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib.\n3. LEARNING RESOURCES\nTextbook(s):\n[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.\n[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.\n[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.\nOthers:\n[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.\nSoftware: Visual Studio Code, PyCharm\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | Learning to practice thinking skills, problem solving and good practice skills with the Python programming language | PLO2.2 | 4\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO3.4 | 4, 4, 4\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language. | ITU3\nG1 | CLO1.2 | Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib. | ITU4\nG2 | CLO2.1 | The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing. | TU4\nG3 | CLO3.1 | Ability to self-study Python-related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to Python programming. | U4\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | - | -\nMidterm exam 1 (Individual test) | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 20% | 12\nMidterm exam 2 (Group works) | CLO1.x CLO2.x CLO3.x | 20% | 14-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | 50% | -\n7. COURSE OUTLINE\nTable 7. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.1 CLO3.2 | Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)\n2 | Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List | [1] Chapter 4, 5 | CLO2.1 | Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)\n3 | Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary | [1] Chapter 31, 32, 33 | CLO2.1 | Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)\n4 | Chapter 3:  Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops | [1] Chapter 6, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)\n5 | Chapter 4: Function, Modules, Packages in Python 4.1. Functions | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)\n6 | Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)\n7 | Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file | [2] Chapter 17, 18, 19 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)\n8 | Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation | [1] Chapter 17, 18, 19, 20 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)\n9-10 | Chapter 7: Data Science Using Python 7.1. NumPy | [3] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)\n11-12 | Chapter 7: Data Science Using Python 7.2. Pandas | [3] Chapter 4, 5, 6 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1\n13 | Chapter 7: Data Science Using Python 7.3. Matplotlib | [3] Chapter 3, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)\n14-15 | Group project presentation | Students find documents by themselves | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Group presentation\n- | Final exam | - | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Students take exams according to give schedule\n8. LESSON PLAN\nTable 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n2 | Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List | [1] Chapter 4, 5 | CLO2.1 | Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n3 | Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary | [1] Chapter 31, 32, 33 | CLO2.1 | Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n4 | Chapter 3:  Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops | [1] Chapter 6, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n5 | Chapter 4: Function, Modules, Packages in Python 4.1. Functions | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n6 | Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages | [1] Chapter 11, 25 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n7 | Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file | [2] Chapter 17, 18, 19 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n8 | Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation | [1] Chapter 17, 18, 19, 20 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n9-10 | Chapter 7: Data Science Using Python 7.1. NumPy | [3] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n11-12 | Chapter 7: Data Science Using Python 7.2. Pandas | [3] Chapter 4, 5, 6 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1 | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n13 | Chapter 7: Data Science Using Python 7.3. Matplotlib | [3] Chapter 3, 7 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. | Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment\n14-15 | Group project presentation | Students find documents by themselves | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Group presentation | Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works\n- | Final exam | - | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Students take exams according to given schedule | According to the exam requirement\n9. COURSE REQUIREMENT & EXPECTATION\n9.1. Requirements for taking final /terminal exams.\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes.\n- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

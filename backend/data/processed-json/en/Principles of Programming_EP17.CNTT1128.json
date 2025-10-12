@@ -1,117 +1,310 @@
 {
-  "id": "EP17.CNTT1128",
-  "filename": "Principles of Programming_EP17.CNTT1128.docx",
+  "doc_id": "en-ep17-cntt1128",
   "language": "en",
-  "subject_name": "Principles of Programming_EP17.CNTT1128",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Principles of Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1128",
+  "source_filename": "Principles of Programming_EP17.CNTT1128.docx",
+  "source_relpath": "data\\raw\\en\\Principles of Programming_EP17.CNTT1128.docx",
+  "source_hash": "bccc9e220f6742d004b079dd996f971a",
+  "source_modified": "2025-10-11T10:42:50.606945+00:00",
+  "processed_at": "2025-10-12T13:02:25.585551+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "Title: Principles of Programming                                      Code: EP17.CNTT1128E",
-        "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
-        "Credit hours for teaching and learning activities:",
-        "Lecture: 30 hrs",
-        "Exercises on class: 15 hrs",
-        "Exercise and discussion (Tutor): 15 hrs",
-        "Self-study: 90 hrs.",
-        "Parallel course(s): None",
-        "Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics",
-        "Department conducting the course:",
-        "Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
-        "Lecturers:",
-        "PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn",
-        "MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn",
-        "PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn",
-        "MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn",
-        "MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn",
-        "PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn",
-        "PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn",
-        "MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn",
-        "PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn",
-        "Kind of the course:",
-        "Course language: In English"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2.  COURSE DESCRIPTIONS",
-      "content": [
-        "This course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.",
-        "The course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2.  COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "Course Book(s):",
-        "[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)",
-        "Reference Book(s):",
-        "[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House",
-        "[3] Applied C: An Introduction and More. McGraw – Hill Higher Education",
-        "Software(s):",
-        "[1] Visual Studio Code",
-        "[2] Code::Blocks"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4.1. Course Goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES",
-      "content": [
-        "Table 5.1. Course learning outcomes"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6.1. Course assessment"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. COURSE OUTLINE",
-      "content": [
-        "Table 7.1. Course outline"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE OUTLINE"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8. Lesson plan for the course"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Requirements for taking final /terminal exams",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION"
     },
     {
-      "heading": "9.2. Requirements for attending classes",
-      "content": [
-        "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Requirements for taking final /terminal exams"
     },
     {
-      "heading": "9.3. Requirements for in-class behaviour",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. Requirements for attending classes"
+    },
+    {
+      "sequence": 12,
+      "level": 2,
+      "title": "9.3. Requirements for in-class behaviour"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\nTitle: Principles of Programming                                      Code: EP17.CNTT1128E\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities: \nLecture: 30 hrs\nExercises on class: 15 hrs\nExercise and discussion (Tutor): 15 hrs\nSelf-study: 90 hrs. \nParallel course(s): None \nPrerequisite course(s): Introduction of Information Technology, Discrete Mathematics\nDepartment conducting the course:  \nFaculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers: \nPhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\nMA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn \nPhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\nMA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\t\nMA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\t\nPhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\nPhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\t\nMA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn\nPhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\nKind of the course: \nCourse language: In English                 \n2.  COURSE DESCRIPTIONS\nThis course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.\n The course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.\n3. LEARNING RESOURCES\nCourse Book(s):\n[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)\nReference Book(s): \n[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House\n[3] Applied C: An Introduction and More. McGraw – Hill Higher Education \nSoftware(s):\n[1] Visual Studio Code\n[2] Code::Blocks\n4. COURSE GOALS\nTable 4.1. Course Goals\n5. COURSE LEARNING OUTCOMES\nTable 5.1. Course learning outcomes\n6. COURSE ASSESSMENT\nTable 6.1. Course assessment\n7. COURSE OUTLINE\nTable 7.1. Course outline\n8. LESSON PLAN\nTable 8. Lesson plan for the course\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:26.083970",
-  "source_file": "backend\\data\\raw\\en\\Principles of Programming_EP17.CNTT1128.docx",
-  "content_length": 3815
+  "stats": {
+    "paragraphs": 45,
+    "headings": 12,
+    "tables": 9,
+    "chunks": 14,
+    "words": 2211
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt1128#001",
+      "text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering",
+      "word_count": 33,
+      "char_count": 265,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#002",
+      "text": "- Title: Principles of Programming                                      Code: EP17.CNTT1128E\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 30 hrs\n- Exercises on class: 15 hrs\n- Exercise and discussion (Tutor): 15 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics\n- Department conducting the course:\n- Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\n- MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn\n- PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\n- MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\n- MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\n- PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\n- PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\n- MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn\n- PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\n- Kind of the course:",
+      "word_count": 164,
+      "char_count": 1130,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#003",
+      "text": "Foundation (x) | Foundation (x) | Fundamental □ | Fundamental □\nCompulsory (x) | Elective □ | Compulsory □ | Elective □\n- Course language: In English",
+      "word_count": 27,
+      "char_count": 149,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 25,
+        "end_block": 27
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#004",
+      "text": "This course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.\nThe course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.",
+      "word_count": 77,
+      "char_count": 548,
+      "heading_path": [
+        "2.  COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2.  COURSE DESCRIPTIONS",
+      "breadcrumbs": "2.  COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 28,
+        "end_block": 30
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#005",
+      "text": "Course Book(s):\n[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)\nReference Book(s):\n[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House\n[3] Applied C: An Introduction and More. McGraw – Hill Higher Education\nSoftware(s):\n[1] Visual Studio Code\n[2] Code::Blocks",
+      "word_count": 54,
+      "char_count": 351,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 31,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#006",
+      "text": "Table 4.1. Course Goals\nGoal | Goals Description | PLOs | Proficiency scale\n[1] | [2] | [3] | [4]\nG1 | Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures. | PLO 1.3 PLO1.4 PLO1.5 | 2\nG2 | Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology. | PLO2.1 PLO 2.2 PLO2.3 | 3\nG3 | Develop the ability to work independently as well as in a team. Responsible in work and professional ethics. | PLO 3.1 PLO3.4 | 3",
+      "word_count": 104,
+      "char_count": 617,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 40,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#007",
+      "text": "Table 5.1. Course learning outcomes\nGoal | CLO | CLO Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage | T\nG1 | CLO1.2 | Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs | U\nG1 | CLO1.3 | Practice, program to solve real problems. | U\nG2 | CLO2.1 | Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language. | T\nG2 | CLO2.2 | Have coordination skills to solve group assignments, ensure completion of work on schedule | U\nG2 | CLO2.3 | Skilled in using tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Ability to self-study and read materials to complete lessons and assignments in the C programming language | U\nG3 | CLO3.2 | Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities | U",
+      "word_count": 187,
+      "char_count": 1121,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES",
+      "position": {
+        "order": 7,
+        "start_block": 43,
+        "end_block": 44
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#008",
+      "text": "Table 6.1. Course assessment\nType of Assessment | CLOs | Weighting (%) | Assessment criteria | Proportion (%)\n[1] | [4] | - | [5] | [6]\nClass Participation | CLO1.1 CLO1.2 CLO1.3 | 10% | Evaluating participation of students at class, learning attitude and homework | Week 1-14\nMid-term | CLO1.1 CLO1.2 CLO1.3 | 40% | Multi choice test | Week 9\nMid-term | CLO1.1 CLO1.2 CLO1.3 | 40% | Programming test | Week 13\nFinal test | All CLOs | 50% | Final Exam | Exam schedule",
+      "word_count": 89,
+      "char_count": 467,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 47,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#009",
+      "text": "Table 7.1. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Course introduction: objectives, role, position of the course in the training program | Detailed course syllabus | CLO1.1 CLO3.1 | Introduction to the course Instructions for finding and reading references Requirements and regulations for the course\n2 | Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure | [1] Chapter 1 [2] Chapter 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Lecturing Case discussion at class\n3 | Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment | [1] Chapter 1 [2] Chapter 2 [3] Session 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class\n4 | Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises | [1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n5 | Chapter 4: Data I/O Data input function Data output function | [1] Chapter 4 [2] Chapter 5 | CLO1.1 CLO1.2 CLO3.2 | Reading at home Do homework Lecturing Case discussion at class\n6 -7 | Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test | [1] Chapter 5 [2] Chapter 6 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Lecturing Case discussion at class\n8-9 | Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1) | [1] Chapter 6 [2] Chapter 9 [3] Session 15 | CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class Take a multi choice test\n10 | Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises | [1] Chapter 6 [2] Chapter 10 [4] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n11-12 | Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises | [1] Chapter 7 [2] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n13 | Midterm (Test 2) | - | CLO1.2 CLO1.3 CLO 2.3 CLO 3.2 | Take a computer programming test Correct the test\n14 | Chapter 9:   File in C Definition File operations File I/O error control Questions and exercises | [1] Chapter 10 [2] Chapter 14 | CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n15 | Course review | All chapters | CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2 | Discussion at class",
+      "word_count": 571,
+      "char_count": 3308,
+      "heading_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "primary_heading": "7. COURSE OUTLINE",
+      "breadcrumbs": "7. COURSE OUTLINE",
+      "position": {
+        "order": 9,
+        "start_block": 50,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#010",
+      "text": "Table 8. Lesson plan for the course\nWeek | Content | Reading | CLOs | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Course introduction: objectives, role, position of the course in the training program | Detailed course syllabus | CLO1.1 CLO3.1 | Introduction to the course Instructions for finding and reading references Requirements and regulations for the course | Participation Interaction\n- | Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure | [1] Chapter 1 [2] Chapter 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Lecturing Case discussion at class | Participation Interaction Answer Quality\n3 | Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment | [1] Chapter 1 [2] Chapter 2 [3] Session 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction\n4 | Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises | [1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n5 | Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function | [1] Chapter 4 [2] Chapter 5 | CLO1.1 CLO1.2 CLO3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n6 -7 | Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test | [1] Chapter 5 [2] Chapter 6 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Lecturing Case discussion at class | Participation Interaction Answer Quality\n8-9 | Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1) | [1] Chapter 6 [2] Chapter 9 [3] Session 15 | CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class Take a multi choice test | Participation Interaction Answer Quality\n10 | Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises | [1] Chapter 6 [2] Chapter 10 [4] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n11 -12 | Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises | [1] Chapter 7 [2] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n13 | Midterm (Test 2) | - | CLO1.2 CLO1.3 CLO 2.3 CLO 3.2 | Take a computer programming test Correct the test | Participation Answer Quality\n14 | Chapter 9:   File in C 9.1.  Definition 9.2.  File operations 9.3.  File I/O error control 9.4. Questions and exercises | [1] Chapter 10 [2] Chapter 14 | CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n15 | Course review | All chapters | CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2 | Discussion at class | Participation Interaction",
+      "word_count": 670,
+      "char_count": 3956,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 54,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#011",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "primary_heading": "9.1. Requirements for taking final /terminal exams",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.1. Requirements for taking final /terminal exams",
+      "position": {
+        "order": 11,
+        "start_block": 59,
+        "end_block": 60
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#012",
+      "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 108,
+      "char_count": 638,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "primary_heading": "9.2. Requirements for attending classes",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. Requirements for attending classes",
+      "position": {
+        "order": 12,
+        "start_block": 61,
+        "end_block": 64
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#013",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 90,
+      "char_count": 536,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 13,
+        "start_block": 65,
+        "end_block": 68
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1128#014",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof.PhD Pham Hong Chuong",
+      "word_count": 14,
+      "char_count": 76,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "primary_heading": "9.3. Requirements for in-class behaviour",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.3. Requirements for in-class behaviour",
+      "position": {
+        "order": 14,
+        "start_block": 68,
+        "end_block": 69
+      }
+    }
+  ],
+  "full_text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,           ,            , 2023)\nBachelor of Software Engineering\n1. COURSE INFORMATION\n- Title: Principles of Programming                                      Code: EP17.CNTT1128E\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 30 hrs\n- Exercises on class: 15 hrs\n- Exercise and discussion (Tutor): 15 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics\n- Department conducting the course:\n- Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\n- MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn\n- PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\n- MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\n- MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\n- PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\n- PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\n- MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn\n- PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\n- Kind of the course:\nFoundation (x) | Foundation (x) | Fundamental □ | Fundamental □\nCompulsory (x) | Elective □ | Compulsory □ | Elective □\n- Course language: In English\n2.  COURSE DESCRIPTIONS\nThis course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.\nThe course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.\n3. LEARNING RESOURCES\nCourse Book(s):\n[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)\nReference Book(s):\n[2]. Pham Van At (2020).  Basic and Advanced C Programming Techniques, Bach Khoa Publishing House\n[3] Applied C: An Introduction and More. McGraw – Hill Higher Education\nSoftware(s):\n[1] Visual Studio Code\n[2] Code::Blocks\n4. COURSE GOALS\nTable 4.1. Course Goals\nGoal | Goals Description | PLOs | Proficiency scale\n[1] | [2] | [3] | [4]\nG1 | Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures. | PLO 1.3 PLO1.4 PLO1.5 | 2\nG2 | Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology. | PLO2.1 PLO 2.2 PLO2.3 | 3\nG3 | Develop the ability to work independently as well as in a team. Responsible in work and professional ethics. | PLO 3.1 PLO3.4 | 3\n5. COURSE LEARNING OUTCOMES\nTable 5.1. Course learning outcomes\nGoal | CLO | CLO Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage | T\nG1 | CLO1.2 | Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs | U\nG1 | CLO1.3 | Practice, program to solve real problems. | U\nG2 | CLO2.1 | Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language. | T\nG2 | CLO2.2 | Have coordination skills to solve group assignments, ensure completion of work on schedule | U\nG2 | CLO2.3 | Skilled in using tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Ability to self-study and read materials to complete lessons and assignments in the C programming language | U\nG3 | CLO3.2 | Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities | U\n6. COURSE ASSESSMENT\nTable 6.1. Course assessment\nType of Assessment | CLOs | Weighting (%) | Assessment criteria | Proportion (%)\n[1] | [4] | - | [5] | [6]\nClass Participation | CLO1.1 CLO1.2 CLO1.3 | 10% | Evaluating participation of students at class, learning attitude and homework | Week 1-14\nMid-term | CLO1.1 CLO1.2 CLO1.3 | 40% | Multi choice test | Week 9\nMid-term | CLO1.1 CLO1.2 CLO1.3 | 40% | Programming test | Week 13\nFinal test | All CLOs | 50% | Final Exam | Exam schedule\n7. COURSE OUTLINE\nTable 7.1. Course outline\nWeek | Content | Required readings text | CLOs | Teaching-learning activities\n1 | Course introduction: objectives, role, position of the course in the training program | Detailed course syllabus | CLO1.1 CLO3.1 | Introduction to the course Instructions for finding and reading references Requirements and regulations for the course\n2 | Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure | [1] Chapter 1 [2] Chapter 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Lecturing Case discussion at class\n3 | Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment | [1] Chapter 1 [2] Chapter 2 [3] Session 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class\n4 | Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises | [1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n5 | Chapter 4: Data I/O Data input function Data output function | [1] Chapter 4 [2] Chapter 5 | CLO1.1 CLO1.2 CLO3.2 | Reading at home Do homework Lecturing Case discussion at class\n6 -7 | Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test | [1] Chapter 5 [2] Chapter 6 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Lecturing Case discussion at class\n8-9 | Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1) | [1] Chapter 6 [2] Chapter 9 [3] Session 15 | CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class Take a multi choice test\n10 | Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises | [1] Chapter 6 [2] Chapter 10 [4] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n11-12 | Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises | [1] Chapter 7 [2] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n13 | Midterm (Test 2) | - | CLO1.2 CLO1.3 CLO 2.3 CLO 3.2 | Take a computer programming test Correct the test\n14 | Chapter 9:   File in C Definition File operations File I/O error control Questions and exercises | [1] Chapter 10 [2] Chapter 14 | CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class\n15 | Course review | All chapters | CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2 | Discussion at class\n8. LESSON PLAN\nTable 8. Lesson plan for the course\nWeek | Content | Reading | CLOs | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Course introduction: objectives, role, position of the course in the training program | Detailed course syllabus | CLO1.1 CLO3.1 | Introduction to the course Instructions for finding and reading references Requirements and regulations for the course | Participation Interaction\n- | Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure | [1] Chapter 1 [2] Chapter 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Lecturing Case discussion at class | Participation Interaction Answer Quality\n3 | Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment | [1] Chapter 1 [2] Chapter 2 [3] Session 1 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction\n4 | Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises | [1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n5 | Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function | [1] Chapter 4 [2] Chapter 5 | CLO1.1 CLO1.2 CLO3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n6 -7 | Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test | [1] Chapter 5 [2] Chapter 6 | CLO1.1 CLO1.2 CLO 2.1 CLO 3.2 | Reading at home Lecturing Case discussion at class | Participation Interaction Answer Quality\n8-9 | Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1) | [1] Chapter 6 [2] Chapter 9 [3] Session 15 | CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1 | Reading at home Do homework Lecturing Case discussion at class Take a multi choice test | Participation Interaction Answer Quality\n10 | Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises | [1] Chapter 6 [2] Chapter 10 [4] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n11 -12 | Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises | [1] Chapter 7 [2] Chapter 12 | CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n13 | Midterm (Test 2) | - | CLO1.2 CLO1.3 CLO 2.3 CLO 3.2 | Take a computer programming test Correct the test | Participation Answer Quality\n14 | Chapter 9:   File in C 9.1.  Definition 9.2.  File operations 9.3.  File I/O error control 9.4. Questions and exercises | [1] Chapter 10 [2] Chapter 14 | CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2 | Reading at home Do homework Lecturing Case discussion at class | Participation Interaction Answer Quality\n15 | Course review | All chapters | CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2 | Discussion at class | Participation Interaction\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof.PhD Pham Hong Chuong"
 }

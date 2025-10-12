@@ -1,96 +1,322 @@
 {
-  "id": "CNTT1188E",
-  "filename": "Web Programming_CNTT1188E.docx",
+  "doc_id": "en-cntt1188e",
   "language": "en",
-  "subject_name": "Web Programming_CNTT1188E",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Web Programming",
+  "course_variant": "",
+  "course_code": "CNTT1188E",
+  "source_filename": "Web Programming_CNTT1188E.docx",
+  "source_relpath": "data\\raw\\en\\Web Programming_CNTT1188E.docx",
+  "source_hash": "70d41afe3bd3b8bd8507127941af810f",
+  "source_modified": "2025-10-11T10:42:50.613497+00:00",
+  "processed_at": "2025-10-12T13:02:26.275424+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "DETAILED COURSE SYLLABUS",
-        "(Decision of NEU...................., ...../...../ 2021)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. GENERAL INFORMATION"
     },
     {
-      "heading": "2. LECTURER’S INFORMATION",
-      "content": [
-        "Full name: Pham Xuan Lam\t\t\t\tTitle: PhD",
-        "Address: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong",
-        "Road, Hai Ba Trung District, Hanoi, Vietnam",
-        "Phone number:\t0937638683\t\t\tEmail: lampx@neu.edu.vn"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. LECTURER’S INFORMATION"
     },
     {
-      "heading": "3. COURSE DESCRIPTIONS",
-      "content": [
-        "This course provides students with Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focuses on server-side technologies. So, learners are expected to have prior working knowledge of HTML, CSS, and JavaScript. You will learn how to implement databases, work within Server-Side environments such Java, NodeJS, PHP, .NET, Python etc., and communicate to the client side through a RESTful API."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "Course Book(s):",
-      "content": [
-        "[1] Hồ Văn Lâm (2016) Lập trình ứng dụng Web, Nhà xuất bản Xây Dựng."
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
     },
     {
-      "heading": "Reference Book(s):",
-      "content": [
-        "[2] Casimir Saternos (2014) Client-Server Web Apps with JavaScript and Java Rich, Scalable, and RESTful",
-        "[3] David Herron (2020), Node.js Web Development: Server-side web development made easy with Node 14 using practical examples, Packt",
-        "[4] Matt Frisbie (2020) Professional JavaScript® for Web Developers",
-        "[5] Vishal Layka (2014), Learn Java for Web Development: Modern Java Web Development, Apress.",
-        "[6] Jon Duckett (2022) PHP & MySQL: Server-side Web Development, Wiley",
-        "[7] Ricardo Peres (2020) Modern Web Development with ASP.NET Core 3, Packt"
-      ]
+      "sequence": 5,
+      "level": 2,
+      "title": "Course Book(s):"
     },
     {
-      "heading": "Software(s):",
-      "content": [
-        "[1] Visual Studio Code",
-        "[2] WebStorm"
-      ]
+      "sequence": 6,
+      "level": 2,
+      "title": "Reference Book(s):"
     },
     {
-      "heading": "5. COURSE GOALS",
-      "content": [
-        "Table 5.1. Course Learning Outcomes"
-      ]
+      "sequence": 7,
+      "level": 2,
+      "title": "Software(s):"
     },
     {
-      "heading": "6. COURSE LEARNING OUTCOMES",
-      "content": [
-        "Table 6.1. Course learning outcomes"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "5. COURSE GOALS"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson Plan"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOMES"
     },
     {
-      "heading": "9.1. Attendance Requirements",
-      "content": [
-        "Students are required to fully take part in class lectures and activities.",
-        "Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam."
-      ]
+      "sequence": 10,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
     },
     {
-      "heading": "9.2. In-class Behavior Requirements",
-      "content": [
-        "The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.",
-        "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
-        "Cellphones, laptops, tablets are only accepted for taking notes of the lectures, preparing course assignments, not for another entertainment purpose while in class duration."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. LESSON PLAN"
+    },
+    {
+      "sequence": 12,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION"
+    },
+    {
+      "sequence": 13,
+      "level": 2,
+      "title": "9.1. Attendance Requirements"
+    },
+    {
+      "sequence": 14,
+      "level": 2,
+      "title": "9.2. In-class Behavior Requirements"
     }
   ],
-  "tables": [],
-  "full_text": "DETAILED COURSE SYLLABUS \n(Decision of NEU...................., ...../...../ 2021)\n1. GENERAL INFORMATION\n2. LECTURER’S INFORMATION\nFull name: Pham Xuan Lam\t\t\t\tTitle: PhD\nAddress: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam\nPhone number:\t0937638683\t\t\tEmail: lampx@neu.edu.vn\n3. COURSE DESCRIPTIONS\nThis course provides students with Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focuses on server-side technologies. So, learners are expected to have prior working knowledge of HTML, CSS, and JavaScript. You will learn how to implement databases, work within Server-Side environments such Java, NodeJS, PHP, .NET, Python etc., and communicate to the client side through a RESTful API.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse Book(s):\n[1] Hồ Văn Lâm (2016) Lập trình ứng dụng Web, Nhà xuất bản Xây Dựng.\nReference Book(s):\n[2] Casimir Saternos (2014) Client-Server Web Apps with JavaScript and Java Rich, Scalable, and RESTful\n[3] David Herron (2020), Node.js Web Development: Server-side web development made easy with Node 14 using practical examples, Packt\n[4] Matt Frisbie (2020) Professional JavaScript® for Web Developers\n[5] Vishal Layka (2014), Learn Java for Web Development: Modern Java Web Development, Apress.\n[6] Jon Duckett (2022) PHP & MySQL: Server-side Web Development, Wiley\n[7] Ricardo Peres (2020) Modern Web Development with ASP.NET Core 3, Packt \nSoftware(s):\n[1] Visual Studio Code\n[2] WebStorm\n5. COURSE GOALS\nTable 5.1. Course Learning Outcomes\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course learning outcomes\n7. COURSE ASSESSMENT\n8. LESSON PLAN\nTable 8.1. Lesson Plan\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\n9.2. In-class Behavior Requirements\nThe course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphones, laptops, tablets are only accepted for taking notes of the lectures, preparing course assignments, not for another entertainment purpose while in class duration.",
-  "created_at": "2025-10-03T00:04:26.440613",
-  "source_file": "backend\\data\\raw\\en\\Web Programming_CNTT1188E.docx",
-  "content_length": 2560
+  "stats": {
+    "paragraphs": 24,
+    "headings": 14,
+    "tables": 7,
+    "chunks": 14,
+    "words": 1222
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-cntt1188e#001",
+      "text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nDETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)",
+      "word_count": 26,
+      "char_count": 221,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#002",
+      "text": "- Title | Web Programming\n- Course Number | CNTT1188E\n- Number of credits | 3 (40 hours)\n+ Theoretical hours | 28\n+ Discussion and group work period | 12\n- Course Prerequisites: | CNTT1116",
+      "word_count": 36,
+      "char_count": 188,
+      "heading_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "primary_heading": "1. GENERAL INFORMATION",
+      "breadcrumbs": "1. GENERAL INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 5
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#003",
+      "text": "Full name: Pham Xuan Lam\t\t\t\tTitle: PhD\nAddress: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam\nPhone number:\t0937638683\t\t\tEmail: lampx@neu.edu.vn",
+      "word_count": 32,
+      "char_count": 225,
+      "heading_path": [
+        "2. LECTURER’S INFORMATION"
+      ],
+      "primary_heading": "2. LECTURER’S INFORMATION",
+      "breadcrumbs": "2. LECTURER’S INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 6,
+        "end_block": 10
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#004",
+      "text": "This course provides students with Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focuses on server-side technologies. So, learners are expected to have prior working knowledge of HTML, CSS, and JavaScript. You will learn how to implement databases, work within Server-Side environments such Java, NodeJS, PHP, .NET, Python etc., and communicate to the client side through a RESTful API.",
+      "word_count": 69,
+      "char_count": 458,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 11,
+        "end_block": 12
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#005",
+      "text": "[1] Hồ Văn Lâm (2016) Lập trình ứng dụng Web, Nhà xuất bản Xây Dựng.",
+      "word_count": 15,
+      "char_count": 68,
+      "heading_path": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Course Book(s):"
+      ],
+      "primary_heading": "Course Book(s):",
+      "breadcrumbs": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES > Course Book(s):",
+      "position": {
+        "order": 5,
+        "start_block": 14,
+        "end_block": 15
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#006",
+      "text": "[2] Casimir Saternos (2014) Client-Server Web Apps with JavaScript and Java Rich, Scalable, and RESTful\n[3] David Herron (2020), Node.js Web Development: Server-side web development made easy with Node 14 using practical examples, Packt\n[4] Matt Frisbie (2020) Professional JavaScript® for Web Developers\n[5] Vishal Layka (2014), Learn Java for Web Development: Modern Java Web Development, Apress.\n[6] Jon Duckett (2022) PHP & MySQL: Server-side Web Development, Wiley\n[7] Ricardo Peres (2020) Modern Web Development with ASP.NET Core 3, Packt",
+      "word_count": 80,
+      "char_count": 544,
+      "heading_path": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Reference Book(s):"
+      ],
+      "primary_heading": "Reference Book(s):",
+      "breadcrumbs": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES > Reference Book(s):",
+      "position": {
+        "order": 6,
+        "start_block": 16,
+        "end_block": 22
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#007",
+      "text": "[1] Visual Studio Code\n[2] WebStorm",
+      "word_count": 6,
+      "char_count": 35,
+      "heading_path": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Software(s):"
+      ],
+      "primary_heading": "Software(s):",
+      "breadcrumbs": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES > Software(s):",
+      "position": {
+        "order": 7,
+        "start_block": 23,
+        "end_block": 26
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#008",
+      "text": "Table 5.1. Course Learning Outcomes\nNo | Goal Description | Capability | Capability Level\n[1] | [2] | [3] | [4]\nG1 | This course providers students the Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focus on server side technologies. So learners are expected to have prior working knowledge of HTML, CSS and JavaScript. You’ll learn how to implement databases, work within Server Side environments such Java, NodeJS, PHP, .NET, Python etc. , and communicate to the client side through a RESTful API. | PLO 1.4.4 | 4\nG2 | Enhance skills if you focus on your desired field and then improve your programming techniques, problem-solving, and analytical skills | PLO 2.1.1, PLO 2.1.2, PLO 2.2.1, PLO 2.2.2B | 4U, 4U, 4U, 4U\nG3 | Contributes to the development of the ability to work independently and in groups, to properly understand the responsibility for work performance and professional ethics. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 4, 4, 4",
+      "word_count": 171,
+      "char_count": 1009,
+      "heading_path": [
+        "5. COURSE GOALS"
+      ],
+      "primary_heading": "5. COURSE GOALS",
+      "breadcrumbs": "5. COURSE GOALS",
+      "position": {
+        "order": 8,
+        "start_block": 27,
+        "end_block": 32
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#009",
+      "text": "Table 6.1. Course learning outcomes\nGoal | CLOs | Description | Capacity level\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Understand web concepts, steps to design a website including architecture design, interface design, database design, security issues. | 3\nG1 | CLO1.2 | Build websites using one of the programming languages such as Nodejs, ​​C#, Java, or PHP, with the database management system | 4\nG1 | CLO1.3 | Use testing techniques, evaluate the quality and performance of the website | 4\nG2 | CLO2.1 | Have skills in searching, collecting, synthesizing, analyzing, and presenting to solve problems related to Web programming. | 4\nG2 | CLO2.2 | Have coordination skills to solve group assignments, ensure the completion of the group's work on schedule. | 4\nG2 | CLO2.3 | Skilled in using tools to optimize code and reduce programming time. | 4\nG3 | CLO3.1 | Able to self-study, self-study documents related to Web programming to complete assigned exercises. | 4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for assigned activities. | 4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to Web programming. | 4",
+      "word_count": 212,
+      "char_count": 1264,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOMES",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOMES",
+      "position": {
+        "order": 9,
+        "start_block": 33,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#010",
+      "text": "Type of Assessment | Content | Week | CLOs | Assessment criteria | Proportion (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nClass Participation | Class attendance | Week 1-12 | CLO1.x CLO2.1 CLO3.1 CLO3.2 | Evaluating participation of students in class, learning attitude and teamwork | 10%\nMid term | Quiz (20%) | Week 12 | CLO1.x CLO2.1 CLO2.2 CLO3.x | Quiz Score | 40%\nMid term | Group Presentation (20%) | Week 13 - 15 | CLO1.x CLO2.x CLO3.x | Group presentation and slide print out | 40%\nFinal Exam | All chapters | - | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | - | 50%",
+      "word_count": 110,
+      "char_count": 554,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 10,
+        "start_block": 37,
+        "end_block": 40
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#011",
+      "text": "Table 8.1. Lesson Plan\nSession/Week | Content | Reading | CLOs | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce the course, its logic and the role and position of the course in the curriculum | Syllabus | - | Course Introduction | Participation Interaction Answer\n2 | Web Development Overview Basic concepts How the website works Web technologies Client-Server Architecture Web development Trend Web Development Process | [2] Chapter 1 | CLO1.1 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n3-4 | Client-side HTML CSS JavaScript | [2] Chapter 2 [3] Chapter 1-28 | CLO1.1 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n5 | REST and JSON What is REST? REST constrains JSON (Javascript Object Notation) HATEOAS | [1] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n6-7 | Server-Side Technologies Server-side Programming Basic Programming OOP Programming Web Rendering API designing Database Connecting | [2] Chapter 4 [2] Chapter 6 [2] Chapter 8 | CLO1.2 CLO2.x CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n8-9 | Client-Side Frameworks CSS Framework JS Framework | [2] Chapter 5 | CLO1.2 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n10-11 | Other issues Packing and Deploying Virtualization Testing and Write Documents | [2] Chapter 11 [2] Chapter 12 [2] Chapter 13 | CLO1.2 CLO1.3 CLO2.x CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n12 | Midterm Quiz 20%) | - | CLO1.x CLO2.1 CLO3.1 | Studying for quiz | Quiz\n13-15 | Group presentation (20%) | - | CLO1.x CLO2.2 CLO3.2 CLO3.3 | Group presentation | Presentation Topic Stage Presence Flow, Fluency Slides or other Visuals Time\n- | Final Examination | - | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | - | Programming on the computers",
+      "word_count": 338,
+      "char_count": 2044,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 11,
+        "start_block": 41,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#012",
+      "text": "- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.",
+      "word_count": 43,
+      "char_count": 228,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements"
+      ],
+      "primary_heading": "9.1. Attendance Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.1. Attendance Requirements",
+      "position": {
+        "order": 12,
+        "start_block": 49,
+        "end_block": 51
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#013",
+      "text": "- The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphones, laptops, tablets are only accepted for taking notes of the lectures, preparing course assignments, not for another entertainment purpose while in class duration.",
+      "word_count": 75,
+      "char_count": 455,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "primary_heading": "9.2. In-class Behavior Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. In-class Behavior Requirements",
+      "position": {
+        "order": 13,
+        "start_block": 52,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-cntt1188e#014",
+      "text": "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | DEPARTMENT | LECTURER",
+      "word_count": 9,
+      "char_count": 66,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "primary_heading": "9.2. In-class Behavior Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. In-class Behavior Requirements",
+      "position": {
+        "order": 14,
+        "start_block": 56,
+        "end_block": 59
+      }
+    }
+  ],
+  "full_text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nDETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)\n1. GENERAL INFORMATION\n- Title | Web Programming\n- Course Number | CNTT1188E\n- Number of credits | 3 (40 hours)\n+ Theoretical hours | 28\n+ Discussion and group work period | 12\n- Course Prerequisites: | CNTT1116\n2. LECTURER’S INFORMATION\nFull name: Pham Xuan Lam\t\t\t\tTitle: PhD\nAddress: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam\nPhone number:\t0937638683\t\t\tEmail: lampx@neu.edu.vn\n3. COURSE DESCRIPTIONS\nThis course provides students with Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focuses on server-side technologies. So, learners are expected to have prior working knowledge of HTML, CSS, and JavaScript. You will learn how to implement databases, work within Server-Side environments such Java, NodeJS, PHP, .NET, Python etc., and communicate to the client side through a RESTful API.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse Book(s):\n[1] Hồ Văn Lâm (2016) Lập trình ứng dụng Web, Nhà xuất bản Xây Dựng.\nReference Book(s):\n[2] Casimir Saternos (2014) Client-Server Web Apps with JavaScript and Java Rich, Scalable, and RESTful\n[3] David Herron (2020), Node.js Web Development: Server-side web development made easy with Node 14 using practical examples, Packt\n[4] Matt Frisbie (2020) Professional JavaScript® for Web Developers\n[5] Vishal Layka (2014), Learn Java for Web Development: Modern Java Web Development, Apress.\n[6] Jon Duckett (2022) PHP & MySQL: Server-side Web Development, Wiley\n[7] Ricardo Peres (2020) Modern Web Development with ASP.NET Core 3, Packt\nSoftware(s):\n[1] Visual Studio Code\n[2] WebStorm\n5. COURSE GOALS\nTable 5.1. Course Learning Outcomes\nNo | Goal Description | Capability | Capability Level\n[1] | [2] | [3] | [4]\nG1 | This course providers students the Web Programming concepts such as Web Application architecture; How to design, build and deploy a website. This course focus on server side technologies. So learners are expected to have prior working knowledge of HTML, CSS and JavaScript. You’ll learn how to implement databases, work within Server Side environments such Java, NodeJS, PHP, .NET, Python etc. , and communicate to the client side through a RESTful API. | PLO 1.4.4 | 4\nG2 | Enhance skills if you focus on your desired field and then improve your programming techniques, problem-solving, and analytical skills | PLO 2.1.1, PLO 2.1.2, PLO 2.2.1, PLO 2.2.2B | 4U, 4U, 4U, 4U\nG3 | Contributes to the development of the ability to work independently and in groups, to properly understand the responsibility for work performance and professional ethics. | PLO 3.1.1, PLO 3.1.2, PLO 3.2.3 | 4, 4, 4\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course learning outcomes\nGoal | CLOs | Description | Capacity level\n[1] | [2] | [3] | [4]\nG1 | CLO1.1 | Understand web concepts, steps to design a website including architecture design, interface design, database design, security issues. | 3\nG1 | CLO1.2 | Build websites using one of the programming languages such as Nodejs, ​​C#, Java, or PHP, with the database management system | 4\nG1 | CLO1.3 | Use testing techniques, evaluate the quality and performance of the website | 4\nG2 | CLO2.1 | Have skills in searching, collecting, synthesizing, analyzing, and presenting to solve problems related to Web programming. | 4\nG2 | CLO2.2 | Have coordination skills to solve group assignments, ensure the completion of the group's work on schedule. | 4\nG2 | CLO2.3 | Skilled in using tools to optimize code and reduce programming time. | 4\nG3 | CLO3.1 | Able to self-study, self-study documents related to Web programming to complete assigned exercises. | 4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for assigned activities. | 4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to Web programming. | 4\n7. COURSE ASSESSMENT\nType of Assessment | Content | Week | CLOs | Assessment criteria | Proportion (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nClass Participation | Class attendance | Week 1-12 | CLO1.x CLO2.1 CLO3.1 CLO3.2 | Evaluating participation of students in class, learning attitude and teamwork | 10%\nMid term | Quiz (20%) | Week 12 | CLO1.x CLO2.1 CLO2.2 CLO3.x | Quiz Score | 40%\nMid term | Group Presentation (20%) | Week 13 - 15 | CLO1.x CLO2.x CLO3.x | Group presentation and slide print out | 40%\nFinal Exam | All chapters | - | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | - | 50%\n8. LESSON PLAN\nTable 8.1. Lesson Plan\nSession/Week | Content | Reading | CLOs | Activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce the course, its logic and the role and position of the course in the curriculum | Syllabus | - | Course Introduction | Participation Interaction Answer\n2 | Web Development Overview Basic concepts How the website works Web technologies Client-Server Architecture Web development Trend Web Development Process | [2] Chapter 1 | CLO1.1 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n3-4 | Client-side HTML CSS JavaScript | [2] Chapter 2 [3] Chapter 1-28 | CLO1.1 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n5 | REST and JSON What is REST? REST constrains JSON (Javascript Object Notation) HATEOAS | [1] Chapter 3 | CLO1.2 CLO2.1 CLO3.1 CLO3.2 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n6-7 | Server-Side Technologies Server-side Programming Basic Programming OOP Programming Web Rendering API designing Database Connecting | [2] Chapter 4 [2] Chapter 6 [2] Chapter 8 | CLO1.2 CLO2.x CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n8-9 | Client-Side Frameworks CSS Framework JS Framework | [2] Chapter 5 | CLO1.2 CLO2.1 CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n10-11 | Other issues Packing and Deploying Virtualization Testing and Write Documents | [2] Chapter 11 [2] Chapter 12 [2] Chapter 13 | CLO1.2 CLO1.3 CLO2.x CLO3.1 | Reading at home Lecturing Group discussion in class | Participation Interaction Answer\n12 | Midterm Quiz 20%) | - | CLO1.x CLO2.1 CLO3.1 | Studying for quiz | Quiz\n13-15 | Group presentation (20%) | - | CLO1.x CLO2.2 CLO3.2 CLO3.3 | Group presentation | Presentation Topic Stage Presence Flow, Fluency Slides or other Visuals Time\n- | Final Examination | - | CLO1.1 CLO1.2 CLO2.1 CLO3.1 | - | Programming on the computers\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\n- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\n9.2. In-class Behavior Requirements\n- The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphones, laptops, tablets are only accepted for taking notes of the lectures, preparing course assignments, not for another entertainment purpose while in class duration.\nINSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | DEPARTMENT | LECTURER"
 }

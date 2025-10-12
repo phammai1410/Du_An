@@ -1,93 +1,288 @@
 {
-  "id": "TIKT1141E",
-  "filename": "Big Data_TIKT1141E.docx",
+  "doc_id": "en-tikt1141e",
   "language": "en",
-  "subject_name": "Big Data_TIKT1141E",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Big Data",
+  "course_variant": "",
+  "course_code": "TIKT1141E",
+  "source_filename": "Big Data_TIKT1141E.docx",
+  "source_relpath": "data\\raw\\en\\Big Data_TIKT1141E.docx",
+  "source_hash": "d3b90728f849dc064a1adf6aef42eec1",
+  "source_modified": "2025-10-11T10:42:50.580213+00:00",
+  "processed_at": "2025-10-12T13:02:22.544462+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "DETAILED COURSE SYLLABUS",
-        "(Decision of NEU...................., ...../...../ 2021)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. GENERAL INFORMATION"
     },
     {
-      "heading": "2. LECTURER’S INFORMATION",
-      "content": [
-        "Full name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD",
-        "Address: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong",
-        "Road, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. LECTURER’S INFORMATION"
     },
     {
-      "heading": "3. COURSE DESCRIPTIONS",
-      "content": [
-        "Học phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.",
-        "This course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark."
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
-      "content": [
-        "Course Book(s):",
-        "Hrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.",
-        "Reference Book(s):",
-        "Steve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2",
-        "Paul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.",
-        "Judith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.",
-        "[2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014",
-        "Rahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015",
-        "Software(s):",
-        "[8] Hadoop, SQL Server; R"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
     },
     {
-      "heading": "5. COURSE GOALS",
-      "content": [
-        "Table 5.1. Course Learning Outcomes"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE GOALS"
     },
     {
-      "heading": "6. COURSE LEARNING OUTCOMES",
-      "content": [
-        "Table 6.1. Course learning outcomes"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE LEARNING OUTCOMES"
     },
     {
-      "heading": "7. COURSE ASSESSMENT",
-      "content": [
-        "Table 7.1. Course assessment"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. COURSE ASSESSMENT"
     },
     {
-      "heading": "8. LESSON PLAN",
-      "content": [
-        "Table 8.1. Lesson Plan"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. LESSON PLAN"
     },
     {
-      "heading": "9.1. Attendance Requirements",
-      "content": [
-        "Students are required to fully take part in class lectures and activities.",
-        "Students are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam."
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION"
     },
     {
-      "heading": "9.2. In-class Behavior Requirements",
-      "content": [
-        "The course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.",
-        "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
-        "Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "9.1. Attendance Requirements"
+    },
+    {
+      "sequence": 11,
+      "level": 2,
+      "title": "9.2. In-class Behavior Requirements"
     }
   ],
-  "tables": [],
-  "full_text": "DETAILED COURSE SYLLABUS \n(Decision of NEU...................., ...../...../ 2021)\n1. GENERAL INFORMATION\n2. LECTURER’S INFORMATION\nFull name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD \nAddress: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:\n3. COURSE DESCRIPTIONS\nHọc phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.\nThis course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse Book(s):\nHrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.\nReference Book(s): \nSteve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2\nPaul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.\nJudith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.\n[2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014\nRahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015\nSoftware(s): \n[8] Hadoop, SQL Server; R \n5. COURSE GOALS\nTable 5.1. Course Learning Outcomes\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course learning outcomes\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\n8. LESSON PLAN\nTable 8.1. Lesson Plan\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.\n9.2. In-class Behavior Requirements\nThe course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.",
-  "created_at": "2025-10-03T00:04:24.412660",
-  "source_file": "backend\\data\\raw\\en\\Big Data_TIKT1141E.docx",
-  "content_length": 4528
+  "stats": {
+    "paragraphs": 26,
+    "headings": 11,
+    "tables": 7,
+    "chunks": 13,
+    "words": 1591
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-tikt1141e#001",
+      "text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nDETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)",
+      "word_count": 26,
+      "char_count": 221,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#002",
+      "text": "- Title | Big Data\n- Course Number | TIKT1141E\n- Credit | 3\n- Course Prerequisites: | CNTT1116",
+      "word_count": 19,
+      "char_count": 94,
+      "heading_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "primary_heading": "1. GENERAL INFORMATION",
+      "breadcrumbs": "1. GENERAL INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 5
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#003",
+      "text": "Full name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD\nAddress: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:",
+      "word_count": 31,
+      "char_count": 208,
+      "heading_path": [
+        "2. LECTURER’S INFORMATION"
+      ],
+      "primary_heading": "2. LECTURER’S INFORMATION",
+      "breadcrumbs": "2. LECTURER’S INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 6,
+        "end_block": 9
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#004",
+      "text": "Học phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.",
+      "word_count": 264,
+      "char_count": 1203,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 10,
+        "end_block": 10
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#005",
+      "text": "This course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark.",
+      "word_count": 176,
+      "char_count": 1157,
+      "heading_path": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "3. COURSE DESCRIPTIONS",
+      "breadcrumbs": "3. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 5,
+        "start_block": 11,
+        "end_block": 12
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#006",
+      "text": "Course Book(s):\n- Hrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.\nReference Book(s):\n- Steve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2\n- Paul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.\n- Judith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.\n- [2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014\n- Rahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015\nSoftware(s):\n[8] Hadoop, SQL Server; R",
+      "word_count": 114,
+      "char_count": 758,
+      "heading_path": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "primary_heading": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "breadcrumbs": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "position": {
+        "order": 6,
+        "start_block": 13,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#007",
+      "text": "Table 5.1. Course Learning Outcomes\nNo | Goal Description | Program Learning Outcomes (PLO) | Capability Level\n[1] | [2] | [3] | [4]\nG1 | Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems. | PLO 1.3.1 | 3\nG2 | Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally. | PLO 1.3.1, 1.4.1 | 4\nG3 | Ability to read documents and self-study typical big data mining algorithms. | PLO 2.1, 2.2 | 4U\nG4 | Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems. | PLO 3.1.1, 3.1.2, 3.2.3 | 4",
+      "word_count": 134,
+      "char_count": 749,
+      "heading_path": [
+        "5. COURSE GOALS"
+      ],
+      "primary_heading": "5. COURSE GOALS",
+      "breadcrumbs": "5. COURSE GOALS",
+      "position": {
+        "order": 7,
+        "start_block": 25,
+        "end_block": 31
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#008",
+      "text": "Table 6.1. Course learning outcomes\nGoal | CLO | Description | Capacity level\n[1] | [2] | [3] | [4]\nG1 | CLO 1.1 | Understand the concepts of big data and the meaning and application of big data mining problems in practice. | 3\nG1 | CLO 2.1 | Understand the meaning and application of big data mining problems to real problems. | 4\nG1 | CLO 2.2 | Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data. | 4\nG1 | CLO 2.3 | Ability to use R programming language to analyze big data | 4\nG2 | CLO 2.4 | Use tools in implementing and programming on big data. | 4\nG2 | CLO 2.5 | Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice. | 4\nG3 | CLO 3.1 | Ability to read documents and self-study typical big data mining algorithms. | 4U\nG3 | CLO 3.2 | Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems. | 4U\nG4 | CLO 4.1 | Improve teamwork skills in group work | 4\nG4 | CLO 4.2 | Propose solutions to companies in particular situations | 4",
+      "word_count": 220,
+      "char_count": 1145,
+      "heading_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "primary_heading": "6. COURSE LEARNING OUTCOMES",
+      "breadcrumbs": "6. COURSE LEARNING OUTCOMES",
+      "position": {
+        "order": 8,
+        "start_block": 32,
+        "end_block": 33
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#009",
+      "text": "Table 7.1. Course assessment\nType of Assessment | CLOs | Proportion (%)\n[1] | [4] | [6]\nClass Participation | CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5 | 10%\nGroup Project | CLO 3.1, 3.2, 4.1, 4.2 | 20%\nGroup Project | - | 20%\nFinal Exam | All CLOs | 50%",
+      "word_count": 52,
+      "char_count": 245,
+      "heading_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "7. COURSE ASSESSMENT",
+      "breadcrumbs": "7. COURSE ASSESSMENT",
+      "position": {
+        "order": 9,
+        "start_block": 36,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#010",
+      "text": "Table 8.1. Lesson Plan\nSession/Week | Content | CLOs | Assessment\n[1] | [2] | [4] | [6]\n1 | Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data | CLO 1.1 | Participation Interaction Answer Quality\n2 | Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data | CLO 2.1 | Participation Interaction Answer Quality\n3 | Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets | CLO 2.1, 3.1 | Participation Interaction Answer Quality\n4 | Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment | CLO 2.2 | Participation Interaction Answer Quality\n5 | Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture | CLO 2.1, 3.1 | Participation Interaction Answer Quality\n6 | Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration | CLO 3.1, 3.2, 4.1 | Participation Group Discussion\n7 | Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system | CLO 2.3, 3.1, 4.1 | Participation Interaction Answer Quality\n8 | Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce | CLO 2.3, 3.1, 4.1 | Participation Interaction Answer Quality\n9 | Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights | CLO 2.4, 3.2, 4.1 | Participation Interaction Answer Quality\n10 | Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs | CLO 2.5, 3.2, 4.1, 4.2 | Participation Interaction Answer Quality\n11 | Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R | CLO 2.5 | Participation Interaction Answer Quality\n12 | Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql | CLO 3.1, 3.2, 4.1, 4.2 | Participation Group presentation\n13 | Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data | CLO 1.1 | Participation Interaction Answer Quality\n14 | Group project presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1 | Participation Group presentation\n15 | Group project presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1 | Participation Group presentation",
+      "word_count": 419,
+      "char_count": 2566,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 10,
+        "start_block": 40,
+        "end_block": 41
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#011",
+      "text": "- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.",
+      "word_count": 39,
+      "char_count": 216,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements"
+      ],
+      "primary_heading": "9.1. Attendance Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.1. Attendance Requirements",
+      "position": {
+        "order": 11,
+        "start_block": 45,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#012",
+      "text": "- The course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.",
+      "word_count": 75,
+      "char_count": 468,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "primary_heading": "9.2. In-class Behavior Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. In-class Behavior Requirements",
+      "position": {
+        "order": 12,
+        "start_block": 48,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "en-tikt1141e#013",
+      "text": "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | DEPARTMENT | LECTURER\n- | Nguyen Thi Bach Tuyet, PhD | Nguyen Thi Bach Tuyet, PhD",
+      "word_count": 22,
+      "char_count": 126,
+      "heading_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "primary_heading": "9.2. In-class Behavior Requirements",
+      "breadcrumbs": "9. COURSE REQUIREMENTS AND EXPECTATION > 9.2. In-class Behavior Requirements",
+      "position": {
+        "order": 13,
+        "start_block": 52,
+        "end_block": 54
+      }
+    }
+  ],
+  "full_text": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nDETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)\n1. GENERAL INFORMATION\n- Title | Big Data\n- Course Number | TIKT1141E\n- Credit | 3\n- Course Prerequisites: | CNTT1116\n2. LECTURER’S INFORMATION\nFull name: Nguyen Thi Bach Tuyet\t\t\t\t\tTitle: PhD\nAddress: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam Phone number: \t\t\t\tEmail:\n3. COURSE DESCRIPTIONS\nHọc phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.\nThis course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark.\n4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES\nCourse Book(s):\n- Hrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.\nReference Book(s):\n- Steve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2\n- Paul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.\n- Judith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.\n- [2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014\n- Rahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015\nSoftware(s):\n[8] Hadoop, SQL Server; R\n5. COURSE GOALS\nTable 5.1. Course Learning Outcomes\nNo | Goal Description | Program Learning Outcomes (PLO) | Capability Level\n[1] | [2] | [3] | [4]\nG1 | Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems. | PLO 1.3.1 | 3\nG2 | Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally. | PLO 1.3.1, 1.4.1 | 4\nG3 | Ability to read documents and self-study typical big data mining algorithms. | PLO 2.1, 2.2 | 4U\nG4 | Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems. | PLO 3.1.1, 3.1.2, 3.2.3 | 4\n6. COURSE LEARNING OUTCOMES\nTable 6.1. Course learning outcomes\nGoal | CLO | Description | Capacity level\n[1] | [2] | [3] | [4]\nG1 | CLO 1.1 | Understand the concepts of big data and the meaning and application of big data mining problems in practice. | 3\nG1 | CLO 2.1 | Understand the meaning and application of big data mining problems to real problems. | 4\nG1 | CLO 2.2 | Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data. | 4\nG1 | CLO 2.3 | Ability to use R programming language to analyze big data | 4\nG2 | CLO 2.4 | Use tools in implementing and programming on big data. | 4\nG2 | CLO 2.5 | Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice. | 4\nG3 | CLO 3.1 | Ability to read documents and self-study typical big data mining algorithms. | 4U\nG3 | CLO 3.2 | Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems. | 4U\nG4 | CLO 4.1 | Improve teamwork skills in group work | 4\nG4 | CLO 4.2 | Propose solutions to companies in particular situations | 4\n7. COURSE ASSESSMENT\nTable 7.1. Course assessment\nType of Assessment | CLOs | Proportion (%)\n[1] | [4] | [6]\nClass Participation | CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5 | 10%\nGroup Project | CLO 3.1, 3.2, 4.1, 4.2 | 20%\nGroup Project | - | 20%\nFinal Exam | All CLOs | 50%\n8. LESSON PLAN\nTable 8.1. Lesson Plan\nSession/Week | Content | CLOs | Assessment\n[1] | [2] | [4] | [6]\n1 | Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data | CLO 1.1 | Participation Interaction Answer Quality\n2 | Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data | CLO 2.1 | Participation Interaction Answer Quality\n3 | Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets | CLO 2.1, 3.1 | Participation Interaction Answer Quality\n4 | Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment | CLO 2.2 | Participation Interaction Answer Quality\n5 | Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture | CLO 2.1, 3.1 | Participation Interaction Answer Quality\n6 | Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration | CLO 3.1, 3.2, 4.1 | Participation Group Discussion\n7 | Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system | CLO 2.3, 3.1, 4.1 | Participation Interaction Answer Quality\n8 | Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce | CLO 2.3, 3.1, 4.1 | Participation Interaction Answer Quality\n9 | Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights | CLO 2.4, 3.2, 4.1 | Participation Interaction Answer Quality\n10 | Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs | CLO 2.5, 3.2, 4.1, 4.2 | Participation Interaction Answer Quality\n11 | Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R | CLO 2.5 | Participation Interaction Answer Quality\n12 | Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql | CLO 3.1, 3.2, 4.1, 4.2 | Participation Group presentation\n13 | Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data | CLO 1.1 | Participation Interaction Answer Quality\n14 | Group project presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1 | Participation Group presentation\n15 | Group project presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1 | Participation Group presentation\n9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\n- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.\n9.2. In-class Behavior Requirements\n- The course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.\nINSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS | DEPARTMENT | LECTURER\n- | Nguyen Thi Bach Tuyet, PhD | Nguyen Thi Bach Tuyet, PhD"
 }

@@ -1,133 +1,390 @@
 {
-  "id": "CNTT1193",
-  "filename": "Khóa luận tốt nghiệp - Công nghệ thông tin_CNTT1193.docx",
+  "doc_id": "vi-cntt1193",
   "language": "vi",
-  "subject_name": "Kho╠üa lua╠ú╠én to╠é╠üt nghie╠ú╠ép - Co╠éng nghe╠ú╠é tho╠éng tin_CNTT1193",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Khóa luận tốt nghiệp - Công nghệ thông tin",
+  "course_variant": "",
+  "course_code": "CNTT1193",
+  "source_filename": "Khóa luận tốt nghiệp - Công nghệ thông tin_CNTT1193.docx",
+  "source_relpath": "data\\raw\\vi\\Khóa luận tốt nghiệp - Công nghệ thông tin_CNTT1193.docx",
+  "source_hash": "94e293d12d43ba27862777d15192ca8c",
+  "source_modified": "2025-10-11T10:42:50.630679+00:00",
+  "processed_at": "2025-10-12T13:02:28.416063+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tKhóa luận tốt nghiệp ngành Công nghệ thông tin",
-        "Tên học phần (tiếng Anh):\tGraduation Thesis",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1193",
-        "Số tín chỉ: \t\t\t10",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t455",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết:"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Là học phần tổng hợp, giúp sinh viên vận dụng các kiến thức đã học trong các học phần trước để có thể bước đầu nghiên cứu một vấn đề dưới sự hướng dẫn của giảng viên hướng dẫn. Sinh viên sẽ lập một báo cáo để tổng hợp những nội dung đã nghiên cứu.",
-        "Nội dung chính:",
-        "- Quản trị hệ thống CNTT",
-        "- Mạng máy tính và An ninh mạng.",
-        "- Phát triển ứng dụng di động.",
-        "-  Dữ liệu lớn",
-        "- Điện thoán đám mây",
-        "- Thiết kế và Phát triển Phần mềm.",
-        "- Mạng kết nối vạn vật",
-        "- Hệ thống và Mạng thông tin.",
-        "- Trí tuệ nhân tạo (AI)",
-        "- Mã khối và mã hoá",
-        "- …"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "[1] Các tài liệu do giảng viên cung cấp và các tài liệu sinh viên tự tìm kiếm, ."
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 15,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 16,
+      "level": 1,
+      "title": "PHỤ LỤC"
+    },
+    {
+      "sequence": 17,
+      "level": 2,
+      "title": "Rubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân)"
+    },
+    {
+      "sequence": 18,
+      "level": 2,
+      "title": "Rubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tKhóa luận tốt nghiệp ngành Công nghệ thông tin \nTên học phần (tiếng Anh):\tGraduation Thesis\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1193\nSố tín chỉ: \t\t\t10\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t455\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: \n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nLà học phần tổng hợp, giúp sinh viên vận dụng các kiến thức đã học trong các học phần trước để có thể bước đầu nghiên cứu một vấn đề dưới sự hướng dẫn của giảng viên hướng dẫn. Sinh viên sẽ lập một báo cáo để tổng hợp những nội dung đã nghiên cứu.\nNội dung chính:\n\t- Quản trị hệ thống CNTT\n\t- Mạng máy tính và An ninh mạng.\n\t- Phát triển ứng dụng di động.\n\t-  Dữ liệu lớn\n\t- Điện thoán đám mây\n\t- Thiết kế và Phát triển Phần mềm.\n\t- Mạng kết nối vạn vật\n\t- Hệ thống và Mạng thông tin.\n\t- Trí tuệ nhân tạo (AI) \n\t- Mã khối và mã hoá\n- …\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n[1] Các tài liệu do giảng viên cung cấp và các tài liệu sinh viên tự tìm kiếm, .\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\nBảng 3. Đánh giá học phần\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nRubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân) \nRubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp",
-  "created_at": "2025-10-03T00:04:21.491113",
-  "source_file": "backend\\data\\raw\\vi\\Khóa luận tốt nghiệp - Công nghệ thông tin_CNTT1193.docx",
-  "content_length": 3399
+  "stats": {
+    "paragraphs": 46,
+    "headings": 18,
+    "tables": 9,
+    "chunks": 17,
+    "words": 3262
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1193#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 286,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#002",
+      "text": "- Tên học phần (tiếng Việt): \tKhóa luận tốt nghiệp ngành Công nghệ thông tin\n- Tên học phần (tiếng Anh):\tGraduation Thesis\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1193\n- Số tín chỉ: \t\t\t10\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t455\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:",
+      "word_count": 73,
+      "char_count": 333,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nHọ tên | Điện thoại | Email\nTS. Nguyễn Trung Tuấn | 0913537768 | tuannt@neu.edu.vn\nTS. Phạm Minh Hoàn | 0949263666 | hoanpm@neu.edu.vn\nTS. Lưu Minh Tuấn | 0904143460 | tuanlm@neu.edu.vn\nTS. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn\nTS. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nThS. Tống Thị Minh Ngọc | 0913002241 | ngoctm@neu.edu.vn\nThS. Nguyễn Quỳnh Mai | 0983151792 | mainq@neu.edu.vn\nThS. Cao Thị Thu Hương | 0912916316 | huongct@neu.edu.vn\nTS. Phạm Xuân Lâm | 0937638683 | lampx@neu.edu.vn\nThS. Trần Thị Mỹ Diệp | 0904335056 | diepttm@neu.edu.vn\nThS. Phạm Đức Trung | 0978020906 | trungpd@neu.edu.vn\nThS. Phạm Thảo | 0966986689 | thaop@neu.edu.vn\nTS. Lê Thị Hoài Thu | 0912727528 | thulh@neu.edu.vn\nTS. Tống Thị Hảo Tâm | 0913520505 | tamtth@neu.edu.vn\nTS. Nguyễn Ngọc Tuấn | 0949877168 | tuannn@neu.edu.vn",
+      "word_count": 170,
+      "char_count": 1020,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 22
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#004",
+      "text": "Là học phần tổng hợp, giúp sinh viên vận dụng các kiến thức đã học trong các học phần trước để có thể bước đầu nghiên cứu một vấn đề dưới sự hướng dẫn của giảng viên hướng dẫn. Sinh viên sẽ lập một báo cáo để tổng hợp những nội dung đã nghiên cứu.\nNội dung chính:\n- Quản trị hệ thống CNTT\n- Mạng máy tính và An ninh mạng.\n- Phát triển ứng dụng di động.\n-  Dữ liệu lớn\n- Điện thoán đám mây\n- Thiết kế và Phát triển Phần mềm.\n- Mạng kết nối vạn vật\n- Hệ thống và Mạng thông tin.\n- Trí tuệ nhân tạo (AI)\n- Mã khối và mã hoá\n- …",
+      "word_count": 123,
+      "char_count": 524,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 23,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#005",
+      "text": "[1] Các tài liệu do giảng viên cung cấp và các tài liệu sinh viên tự tìm kiếm, .",
+      "word_count": 19,
+      "char_count": 80,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 5,
+        "start_block": 38,
+        "end_block": 40
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#006",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp kiến thức sâu rộng về ngành Công nghệ thông tin, từ việc nắm vững các nguyên lý cơ bản đến hiểu biết sâu sắc về các công nghệ tiên tiến nhất. Thông qua việc nghiên cứu và thực hiện khoá luận tốt nghiệp, sinh viên sẽ phát triển kiến thức, hiểu biết sâu sắc về các ngôn ngữ lập trình, cơ sở dữ liệu, mạng máy tính và các khái niệm quan trọng khác trong lĩnh vực này. Sinh viên sẽ có cơ hội áp dụng những kiến thức họ đã học vào việc giải quyết các vấn đề thực tế, từ việc phát triển ứng dụng cho đến việc tối ưu hóa hệ thống. | -\nCG2 | Học phần khuyến khích áp dụng những kỹ năng lập trình, phân tích dữ liệu, và thiết kế hệ thống để giải quyết các vấn đề thực tế trong lĩnh vực Công nghệ thông tin. Đồng thời, họ cũng sẽ rèn luyện khả năng làm việc nhóm, giao tiếp và giải quyết vấn đề. | -\nCG3 | Học phần thúc đẩy năng lực tự quản lý và tự học của sinh viên. Qua việc thực hiện dự án khóa luận, sinh viên sẽ học cách tự đặt mục tiêu, lên kế hoạch và thực hiện các bước hành động để đạt được mục tiêu đó. Sinh viên cũng sẽ phải tự chịu trách nhiệm về quyết định và kết quả của dự án, từ việc lựa chọn đề tài đến việc hoàn thiện báo cáo và thuyết trình. | -",
+      "word_count": 292,
+      "char_count": 1277,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 6,
+        "start_block": 41,
+        "end_block": 42
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#007",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 | CLO1.1 | Áp dụng kiến thức vào việc phát triển các ứng dụng và hệ thống thông tin trong các tình huống thực tế. | 3\nCG1 | CLO1.2 | Phân tích các vấn đề trong lĩnh vực Công nghệ thông tin, từ việc phân tích yêu cầu của khách hàng đến việc phân tích hiệu suất và bảo mật của hệ thống. | 4\nCG1 | CLO1.3 | Đánh giá hiệu quả và tính khả thi của các giải pháp Công nghệ thông tin, đồng thời có khả năng đề xuất và đánh giá các phương pháp tối ưu hóa hệ thống để cải thiện hiệu suất và độ tin cậy. | 5\nCG2 | CLO2.1 | Thành thạo trong áp dụng kỹ năng để tạo ra các giải pháp hiệu quả cho các vấn đề thực tế trong lĩnh vực. | 2\nCG2 | CLO2.2 | Phối hợp và làm việc nhóm một cách hiệu quả để thúc đẩy sự sáng tạo và tiến bộ trong quá trình giải quyết các vấn đề phức tạp | 2\nCG2 | CLO2.3 | Thể hiện khả năng giao tiếp và giải quyết vấn đề trong môi trường thực tế thông qua việc trình bày và thảo luận các giải pháp được phát triển, đồng thời tiếp nhận và đánh giá phản hồi để nâng cao chất lượng của sản phẩm và quy trình làm việc. | 2\nCG3 | CLO3.1 | Thực hiện đặt mục tiêu cụ thể, lập kế hoạch hành động và thực hiện các bước cần thiết để đạt được mục tiêu trong quá trình thực hiện dự án khóa luận. | 2\nCG3 | CLO3.2 | Thực hiện việc tự chịu trách nhiệm và ra quyết định đúng đắn trong các giai đoạn khác nhau của dự án, bao gồm việc chọn đề tài, thu thập dữ liệu, phân tích kết quả và hoàn thiện báo cáo. | 2\nCG3 | CLO3.3 | Thực hiện việc hoàn thiện và thuyết trình báo cáo một cách chuyên nghiệp và hiệu quả, thể hiện khả năng tự học và tự quản lý của sinh viên trong quá trình nghiên cứu và thực hiện dự án khóa luận. | 2",
+      "word_count": 401,
+      "char_count": 1726,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 7,
+        "start_block": 45,
+        "end_block": 46
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#008",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung/ \nBài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí \nđánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nĐiểm đánh giá của giảng viên hướng dẫn | Báo cáo kết quả thực hiện khóa luận theo từng giai đoạn | Tuần 1-14 | CLO1.x CLO2.x CLO3.x | Phụ lục: rubric 1 | 50% | -\nĐiểm đánh giá của Hội đồng chấm khóa luận tốt nghiệp | Trình bày kết quả thực hiện khóa luận | Tuần 15 | CLO1.x CLO2.x CLO3.x | Phụ lục: rubric 2 | 50% | -",
+      "word_count": 123,
+      "char_count": 506,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "primary_heading": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "position": {
+        "order": 8,
+        "start_block": 49,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#009",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung giảng dạy | Tài liệu đọc | CLOs | Hoạt động dạy và học | Công cụ đánh giá\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT | Đề cương học phần Khóa luận tốt nghiệp | CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu khóa luận Giới thiệu học phần | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời\n2-5 | Giai đoạn 1: Sinh viên làm việc với giảng viên hướng dẫn để trao đổi và định hướng đề tài khóa luận. Lập kế hoạch cho nghiên cứu: Về các việc cần làm Về thời gian thực hiện Về kết quả cần bàn giao | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nghiên cứu tài liệu Giảng viên hướng dẫn cách thực hiện khóa luận Thảo luận các tình huống và câu hỏi giảng viên đặt ra | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời\n6-12 | Giai đoạn 2: Sinh viên thực hiện nghiên cứu và viết khóa luận. Sinh viên thực hiện nghiên cứu theo chủ đề đã thống nhất: Thường xuyên trao đổi với giảng viên hướng dẫn để thực hiện các kết quả theo đúng kế hoạch đã lập. Viết, cập nhật và chỉnh sửa khóa luận. | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nghiên cứu tài liệu Giảng viên hướng dẫn cách thực hiện đề án Thảo luận các tình huống và câu hỏi giảng viên đặt ra | Mức độ tham gia Mức độ tương tác Chất lượng từng phần khóa luận\n13-14 | Giai đoạn 3: Sinh viên trình bày và hoàn thiện khóa luận Sinh viên nộp bản thảo khóa luận theo quy định. Trình bày và hoàn thiện theo hướng dẫn của giảng viên hướng dẫn. | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nộp bản thảo khóa luận và chỉnh sửa theo yêu cầu của giảng viên. Giảng viên nhận xét, đuea ra các yêu cầu chỉnh sửa. | Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày (iv) Chất lượng khóa luận\n15 | Sinh viên bảo vệ khóa luận trước Hội đồng chấm khóa luận tốt nghiệp | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên trình bày khóa luận và trả lời câu hỏi của Hội đồng Hội đồng đặt câu hỏi, đánh giá kết quả khóa luận | Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Kỹ năng thuyết trình (iiii)Kết quả trả lời câu hỏi của hội đồng",
+      "word_count": 494,
+      "char_count": 2265,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 9,
+        "start_block": 53,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#010",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 10,
+        "start_block": 57,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#011",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 11,
+        "start_block": 60,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#012",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 12,
+        "start_block": 63,
+        "end_block": 65
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#013",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 66,
+        "end_block": 72
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#014",
+      "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 35,
+      "char_count": 151,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 14,
+        "start_block": 73,
+        "end_block": 76
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#015",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
+      "word_count": 15,
+      "char_count": 70,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 15,
+        "start_block": 78,
+        "end_block": 80
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#016",
+      "text": "Tiêu chí đánh giá | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nMục tiêu và câu hỏi nghiên cứu | 10 | Mục tiêu và câu hỏi nghiên cứu rõ ràng, cụ thể, tính khả thi cao. Câu hỏi nghiên cứu đáp ứng mục tiêu nghiên cứu; phản ánh được sự cần thiết và ý nghĩa của đề tài. | Mục tiêu và câu hỏi nghiên cứu chưa rõ ràng, đầy đủ/ tính khả thi không cao; gắn kết giữa mục tiêu và câu hỏi nghiên cứu chưa rõ. | Mục tiêu và câu hỏi nghiên cứu không rõ; thiếu gắn kết giữa mục tiêu và câu hỏi nghiên cứu. | Mục tiêu không rõ, không có câu hỏi nghiên cứu\nTổng quan nghiên cứu | 10 | Thể hiện được hiểu biết rõ, sâu về chủ đề, bối cảnh nghiên cứu; tổ chức logic, hợp lý phần tổng quan; phát triển được ý tưởng, hướng tiếp cận để giải quyết đề tài. | Thể hiện được hiểu biết chủ đề, bối cảnh nghiên cứu; thể hiện được các các nội dung cơ bản khi thực hiện tổng quan nhiên cứu; thể hiện được hướng tiếp cận để giải quyết đề tài. | Thể hiện đã thực hiện tổng quan nghiên cứu; mô tả được các nghiện cứu liên quan; chưa nêu được lý do cho cách tiếp cận của mình. | Chỉ liệt kê một cách sơ sài các nghiên cứu có liên quan; chưa rút ra được cách tiếp cận của đề tài.\nPhương pháp luận | 25 | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp, lập luận khoa học, cập nhật. | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp; lập luận chưa đầy đủ, chưa giải thích rõ phù hợp với đối tượng nghiên cứu cụ thể. | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp; thiếu lập luận, không giải thích được phù hợp với đối tượng nghiên cứu cụ thể. | Phương pháp nghiên cứu không phù hợp hoặc sử dụng phương pháp đã học nhưng không giải thích được sự phù hợp của phương pháp.\nThu thập số liệu, xử lý, phân tích kết quả | 25 | Phương pháp thu thập số liệu rõ ràng, đảm bảo sự tin cậy của số liệu; phương pháp xử lí số liệu phù hợp, xử lí đúng; diễn giải kết quả phân tích chi tiết, logic; quy trình thu thu thập, xử lí số liệu minh bạch. | Phương pháp thu thập số liệu rõ ràng, đảm bảo sự tin cậy của số liệu; phương pháp xử lí số liệu  và xử lí cụ thể còn thiếu sót; diễn giải kết quả phân tích chưa đầy đủ; quy trình thu thu thập, xử lí số liệu chưa đầy đủ. | Chưa mô tả rõ phương pháp thu thập số liệu, chưa thể hiện được sự tin cậy của số liệu; phương pháp xử lí số liệu  và xử lí cụ thể chưa thể hiện được sự tin cậy của kết quả nhận được; diễn giải kết quả phân tích chưa logic. | Không mô tả rõ phương pháp thu thập số liệu. phương pháp xử lí số liệu  và xử lí cụ không phù hợp;  kết quả nhận được chưa có sơ sở khoa học.\nKết luận và các phát hiện | 10 | Tóm tắt chính xác kết quả đạt được, liên kết được với mục tiêu/câu hỏi nghiên cứu; các khuyến nghị xuất phát từ nội dung phân tích phù hợp, khả thi; thấy được tồn tại của nghiên cứu và khuyến nghị các công việc tiếp theo. | Tóm tắt chính xác kết quả đạt được, liên kết được với mục tiêu/câu hỏi nghiên cứu; chỉ một phần các khuyến nghị xuất phát từ nội dung phân tích,  phù hợp, khả thi; chưa đánh giá được tồn tại của nghiên cứu. | Chưa tóm tắt được các kết quả chính/ chưa liên kết được với mục tiêu/câu hỏi nghiên cứu; nhiều khuyến nghị chưa xuất phát từ nội dung phân tích; chưa đánh giá được tồn tại chủa nghiên cứu. | Chưa tóm tắt được các kết quả chính/ chưa liên kết được với mục tiêu/câu hỏi nghiên cứu; các khuyến nghị chưa xuất phát từ nội dung phân tích; chưa đánh giá được tồn tại chủa nghiên cứu.\nHình thức, văn phong, chính tả, trích dẫn | 20 | Định dạng chuẩn; ngôn ngữ và cấu trúc câu rõ ràng; không có lỗi chính tả, lỗi trích dẫn. | Định dạng chuẩn, có cấu trúc câu không rõ, có lỗi chính tả, có trích dẫn nhưng chưa phù hợp. | Có phần định dạng chưa đúng, có lỗi chính tả, cấu trúc câu, không trích dẫn. | Định dạng toàn báo cáo chưa chuẩn hoặc có nhiều lỗi chính tả, không trích dẫn.",
+      "word_count": 881,
+      "char_count": 3936,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Rubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân)"
+      ],
+      "primary_heading": "Rubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân)",
+      "breadcrumbs": "PHỤ LỤC > Rubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân)",
+      "position": {
+        "order": 16,
+        "start_block": 83,
+        "end_block": 83
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1193#017",
+      "text": "Tiêu chí đánh giá | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nCấu trúc bài thuyết trình | 15 | Nội dung được tổ chức hợp lý và trôi chảy. | Bài thuyết trình có một số phần thiếu sự rõ ràng. | Bài thuyết trình khó hiểu và rời rạc. | Bài thuyết trình thiếu tổ chức, khó theo dõi.\nThiết kế trực quan | 15 | Hình ảnh trực quan hấp dẫn, rõ ràng và hỗ trợ hiệu quả cho nội dung | Có hình ảnh nhưng có thể thiếu tính nhất quán hoặc rõ ràng. | Hình ảnh không hiệu quả hoặc làm sao lãng nội dung. | Thiếu hoặc sử dụng hình ảnh không phù hợp, lộn xộn.\nTrình bày khóa luận | 20 | Trình bày rõ ràng, mạch lạc, chủ động, tự tin, thuyết phục; quản lý tốt thời gian trình bày. | Trình bày khá rõ, chưa hoàn toàn tự tin, thuyết phục; thời gian trình bày lệch chuẩn không đáng kể. | Trình bày chưa thuyết phục, chỉ thể hiện được nội dung cơ bản; thời gian trình bày lệch chuẩn không đáng kể. | Nói nhỏ, không tự tin, không thể hiện được mục đích bài trình bày; không quản lý được thời gian trình bày.\nNội dung khóa luận | 30 | Thể hiện sự hiểu biết thấu đáo về chủ đề. | Hiểu biết đầy đủ về chủ đề. | Hiểu biết hạn chế hoặc thiếu chính xác về chủ đề. | Hiểu biết không đầy đủ hoặc không chính xác về chủ đề.\nTrả lời câu hỏi/tương tác | 20 | Trả lời tự tin và hiệu quả các câu hỏi. | Trả lời các câu hỏi đầy đủ nhưng thiếu chiều sâu. | Trả lời các câu hỏi chưa đầy đủ. | Chưa trả lời được các câu hỏi.",
+      "word_count": 371,
+      "char_count": 1587,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Rubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp"
+      ],
+      "primary_heading": "Rubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp",
+      "breadcrumbs": "PHỤ LỤC > Rubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp",
+      "position": {
+        "order": 17,
+        "start_block": 87,
+        "end_block": 87
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tKhóa luận tốt nghiệp ngành Công nghệ thông tin\n- Tên học phần (tiếng Anh):\tGraduation Thesis\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1193\n- Số tín chỉ: \t\t\t10\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t455\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết:\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nHọ tên | Điện thoại | Email\nTS. Nguyễn Trung Tuấn | 0913537768 | tuannt@neu.edu.vn\nTS. Phạm Minh Hoàn | 0949263666 | hoanpm@neu.edu.vn\nTS. Lưu Minh Tuấn | 0904143460 | tuanlm@neu.edu.vn\nTS. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn\nTS. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nThS. Tống Thị Minh Ngọc | 0913002241 | ngoctm@neu.edu.vn\nThS. Nguyễn Quỳnh Mai | 0983151792 | mainq@neu.edu.vn\nThS. Cao Thị Thu Hương | 0912916316 | huongct@neu.edu.vn\nTS. Phạm Xuân Lâm | 0937638683 | lampx@neu.edu.vn\nThS. Trần Thị Mỹ Diệp | 0904335056 | diepttm@neu.edu.vn\nThS. Phạm Đức Trung | 0978020906 | trungpd@neu.edu.vn\nThS. Phạm Thảo | 0966986689 | thaop@neu.edu.vn\nTS. Lê Thị Hoài Thu | 0912727528 | thulh@neu.edu.vn\nTS. Tống Thị Hảo Tâm | 0913520505 | tamtth@neu.edu.vn\nTS. Nguyễn Ngọc Tuấn | 0949877168 | tuannn@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nLà học phần tổng hợp, giúp sinh viên vận dụng các kiến thức đã học trong các học phần trước để có thể bước đầu nghiên cứu một vấn đề dưới sự hướng dẫn của giảng viên hướng dẫn. Sinh viên sẽ lập một báo cáo để tổng hợp những nội dung đã nghiên cứu.\nNội dung chính:\n- Quản trị hệ thống CNTT\n- Mạng máy tính và An ninh mạng.\n- Phát triển ứng dụng di động.\n-  Dữ liệu lớn\n- Điện thoán đám mây\n- Thiết kế và Phát triển Phần mềm.\n- Mạng kết nối vạn vật\n- Hệ thống và Mạng thông tin.\n- Trí tuệ nhân tạo (AI)\n- Mã khối và mã hoá\n- …\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n[1] Các tài liệu do giảng viên cung cấp và các tài liệu sinh viên tự tìm kiếm, .\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp kiến thức sâu rộng về ngành Công nghệ thông tin, từ việc nắm vững các nguyên lý cơ bản đến hiểu biết sâu sắc về các công nghệ tiên tiến nhất. Thông qua việc nghiên cứu và thực hiện khoá luận tốt nghiệp, sinh viên sẽ phát triển kiến thức, hiểu biết sâu sắc về các ngôn ngữ lập trình, cơ sở dữ liệu, mạng máy tính và các khái niệm quan trọng khác trong lĩnh vực này. Sinh viên sẽ có cơ hội áp dụng những kiến thức họ đã học vào việc giải quyết các vấn đề thực tế, từ việc phát triển ứng dụng cho đến việc tối ưu hóa hệ thống. | -\nCG2 | Học phần khuyến khích áp dụng những kỹ năng lập trình, phân tích dữ liệu, và thiết kế hệ thống để giải quyết các vấn đề thực tế trong lĩnh vực Công nghệ thông tin. Đồng thời, họ cũng sẽ rèn luyện khả năng làm việc nhóm, giao tiếp và giải quyết vấn đề. | -\nCG3 | Học phần thúc đẩy năng lực tự quản lý và tự học của sinh viên. Qua việc thực hiện dự án khóa luận, sinh viên sẽ học cách tự đặt mục tiêu, lên kế hoạch và thực hiện các bước hành động để đạt được mục tiêu đó. Sinh viên cũng sẽ phải tự chịu trách nhiệm về quyết định và kết quả của dự án, từ việc lựa chọn đề tài đến việc hoàn thiện báo cáo và thuyết trình. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 | CLO1.1 | Áp dụng kiến thức vào việc phát triển các ứng dụng và hệ thống thông tin trong các tình huống thực tế. | 3\nCG1 | CLO1.2 | Phân tích các vấn đề trong lĩnh vực Công nghệ thông tin, từ việc phân tích yêu cầu của khách hàng đến việc phân tích hiệu suất và bảo mật của hệ thống. | 4\nCG1 | CLO1.3 | Đánh giá hiệu quả và tính khả thi của các giải pháp Công nghệ thông tin, đồng thời có khả năng đề xuất và đánh giá các phương pháp tối ưu hóa hệ thống để cải thiện hiệu suất và độ tin cậy. | 5\nCG2 | CLO2.1 | Thành thạo trong áp dụng kỹ năng để tạo ra các giải pháp hiệu quả cho các vấn đề thực tế trong lĩnh vực. | 2\nCG2 | CLO2.2 | Phối hợp và làm việc nhóm một cách hiệu quả để thúc đẩy sự sáng tạo và tiến bộ trong quá trình giải quyết các vấn đề phức tạp | 2\nCG2 | CLO2.3 | Thể hiện khả năng giao tiếp và giải quyết vấn đề trong môi trường thực tế thông qua việc trình bày và thảo luận các giải pháp được phát triển, đồng thời tiếp nhận và đánh giá phản hồi để nâng cao chất lượng của sản phẩm và quy trình làm việc. | 2\nCG3 | CLO3.1 | Thực hiện đặt mục tiêu cụ thể, lập kế hoạch hành động và thực hiện các bước cần thiết để đạt được mục tiêu trong quá trình thực hiện dự án khóa luận. | 2\nCG3 | CLO3.2 | Thực hiện việc tự chịu trách nhiệm và ra quyết định đúng đắn trong các giai đoạn khác nhau của dự án, bao gồm việc chọn đề tài, thu thập dữ liệu, phân tích kết quả và hoàn thiện báo cáo. | 2\nCG3 | CLO3.3 | Thực hiện việc hoàn thiện và thuyết trình báo cáo một cách chuyên nghiệp và hiệu quả, thể hiện khả năng tự học và tự quản lý của sinh viên trong quá trình nghiên cứu và thực hiện dự án khóa luận. | 2\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung/ \nBài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí \nđánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nĐiểm đánh giá của giảng viên hướng dẫn | Báo cáo kết quả thực hiện khóa luận theo từng giai đoạn | Tuần 1-14 | CLO1.x CLO2.x CLO3.x | Phụ lục: rubric 1 | 50% | -\nĐiểm đánh giá của Hội đồng chấm khóa luận tốt nghiệp | Trình bày kết quả thực hiện khóa luận | Tuần 15 | CLO1.x CLO2.x CLO3.x | Phụ lục: rubric 2 | 50% | -\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung giảng dạy | Tài liệu đọc | CLOs | Hoạt động dạy và học | Công cụ đánh giá\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT | Đề cương học phần Khóa luận tốt nghiệp | CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu khóa luận Giới thiệu học phần | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời\n2-5 | Giai đoạn 1: Sinh viên làm việc với giảng viên hướng dẫn để trao đổi và định hướng đề tài khóa luận. Lập kế hoạch cho nghiên cứu: Về các việc cần làm Về thời gian thực hiện Về kết quả cần bàn giao | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nghiên cứu tài liệu Giảng viên hướng dẫn cách thực hiện khóa luận Thảo luận các tình huống và câu hỏi giảng viên đặt ra | Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời\n6-12 | Giai đoạn 2: Sinh viên thực hiện nghiên cứu và viết khóa luận. Sinh viên thực hiện nghiên cứu theo chủ đề đã thống nhất: Thường xuyên trao đổi với giảng viên hướng dẫn để thực hiện các kết quả theo đúng kế hoạch đã lập. Viết, cập nhật và chỉnh sửa khóa luận. | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nghiên cứu tài liệu Giảng viên hướng dẫn cách thực hiện đề án Thảo luận các tình huống và câu hỏi giảng viên đặt ra | Mức độ tham gia Mức độ tương tác Chất lượng từng phần khóa luận\n13-14 | Giai đoạn 3: Sinh viên trình bày và hoàn thiện khóa luận Sinh viên nộp bản thảo khóa luận theo quy định. Trình bày và hoàn thiện theo hướng dẫn của giảng viên hướng dẫn. | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên nộp bản thảo khóa luận và chỉnh sửa theo yêu cầu của giảng viên. Giảng viên nhận xét, đuea ra các yêu cầu chỉnh sửa. | Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày (iv) Chất lượng khóa luận\n15 | Sinh viên bảo vệ khóa luận trước Hội đồng chấm khóa luận tốt nghiệp | [1] | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên trình bày khóa luận và trả lời câu hỏi của Hội đồng Hội đồng đặt câu hỏi, đánh giá kết quả khóa luận | Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Kỹ năng thuyết trình (iiii)Kết quả trả lời câu hỏi của hội đồng\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nRubric 1:  Đánh giá thực hiện Chuyên đề thực tế, Khóa luận tốt nghiệp (cá nhân)\nTiêu chí đánh giá | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nMục tiêu và câu hỏi nghiên cứu | 10 | Mục tiêu và câu hỏi nghiên cứu rõ ràng, cụ thể, tính khả thi cao. Câu hỏi nghiên cứu đáp ứng mục tiêu nghiên cứu; phản ánh được sự cần thiết và ý nghĩa của đề tài. | Mục tiêu và câu hỏi nghiên cứu chưa rõ ràng, đầy đủ/ tính khả thi không cao; gắn kết giữa mục tiêu và câu hỏi nghiên cứu chưa rõ. | Mục tiêu và câu hỏi nghiên cứu không rõ; thiếu gắn kết giữa mục tiêu và câu hỏi nghiên cứu. | Mục tiêu không rõ, không có câu hỏi nghiên cứu\nTổng quan nghiên cứu | 10 | Thể hiện được hiểu biết rõ, sâu về chủ đề, bối cảnh nghiên cứu; tổ chức logic, hợp lý phần tổng quan; phát triển được ý tưởng, hướng tiếp cận để giải quyết đề tài. | Thể hiện được hiểu biết chủ đề, bối cảnh nghiên cứu; thể hiện được các các nội dung cơ bản khi thực hiện tổng quan nhiên cứu; thể hiện được hướng tiếp cận để giải quyết đề tài. | Thể hiện đã thực hiện tổng quan nghiên cứu; mô tả được các nghiện cứu liên quan; chưa nêu được lý do cho cách tiếp cận của mình. | Chỉ liệt kê một cách sơ sài các nghiên cứu có liên quan; chưa rút ra được cách tiếp cận của đề tài.\nPhương pháp luận | 25 | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp, lập luận khoa học, cập nhật. | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp; lập luận chưa đầy đủ, chưa giải thích rõ phù hợp với đối tượng nghiên cứu cụ thể. | Lựa chọn và áp dụng phương pháp nghiên cứu phù hợp; thiếu lập luận, không giải thích được phù hợp với đối tượng nghiên cứu cụ thể. | Phương pháp nghiên cứu không phù hợp hoặc sử dụng phương pháp đã học nhưng không giải thích được sự phù hợp của phương pháp.\nThu thập số liệu, xử lý, phân tích kết quả | 25 | Phương pháp thu thập số liệu rõ ràng, đảm bảo sự tin cậy của số liệu; phương pháp xử lí số liệu phù hợp, xử lí đúng; diễn giải kết quả phân tích chi tiết, logic; quy trình thu thu thập, xử lí số liệu minh bạch. | Phương pháp thu thập số liệu rõ ràng, đảm bảo sự tin cậy của số liệu; phương pháp xử lí số liệu  và xử lí cụ thể còn thiếu sót; diễn giải kết quả phân tích chưa đầy đủ; quy trình thu thu thập, xử lí số liệu chưa đầy đủ. | Chưa mô tả rõ phương pháp thu thập số liệu, chưa thể hiện được sự tin cậy của số liệu; phương pháp xử lí số liệu  và xử lí cụ thể chưa thể hiện được sự tin cậy của kết quả nhận được; diễn giải kết quả phân tích chưa logic. | Không mô tả rõ phương pháp thu thập số liệu. phương pháp xử lí số liệu  và xử lí cụ không phù hợp;  kết quả nhận được chưa có sơ sở khoa học.\nKết luận và các phát hiện | 10 | Tóm tắt chính xác kết quả đạt được, liên kết được với mục tiêu/câu hỏi nghiên cứu; các khuyến nghị xuất phát từ nội dung phân tích phù hợp, khả thi; thấy được tồn tại của nghiên cứu và khuyến nghị các công việc tiếp theo. | Tóm tắt chính xác kết quả đạt được, liên kết được với mục tiêu/câu hỏi nghiên cứu; chỉ một phần các khuyến nghị xuất phát từ nội dung phân tích,  phù hợp, khả thi; chưa đánh giá được tồn tại của nghiên cứu. | Chưa tóm tắt được các kết quả chính/ chưa liên kết được với mục tiêu/câu hỏi nghiên cứu; nhiều khuyến nghị chưa xuất phát từ nội dung phân tích; chưa đánh giá được tồn tại chủa nghiên cứu. | Chưa tóm tắt được các kết quả chính/ chưa liên kết được với mục tiêu/câu hỏi nghiên cứu; các khuyến nghị chưa xuất phát từ nội dung phân tích; chưa đánh giá được tồn tại chủa nghiên cứu.\nHình thức, văn phong, chính tả, trích dẫn | 20 | Định dạng chuẩn; ngôn ngữ và cấu trúc câu rõ ràng; không có lỗi chính tả, lỗi trích dẫn. | Định dạng chuẩn, có cấu trúc câu không rõ, có lỗi chính tả, có trích dẫn nhưng chưa phù hợp. | Có phần định dạng chưa đúng, có lỗi chính tả, cấu trúc câu, không trích dẫn. | Định dạng toàn báo cáo chưa chuẩn hoặc có nhiều lỗi chính tả, không trích dẫn.\nRubric 2: Đánh giá Trình bày Chuyên đề thực tế, Khóa luận tốt nghiệp\nTiêu chí đánh giá | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nCấu trúc bài thuyết trình | 15 | Nội dung được tổ chức hợp lý và trôi chảy. | Bài thuyết trình có một số phần thiếu sự rõ ràng. | Bài thuyết trình khó hiểu và rời rạc. | Bài thuyết trình thiếu tổ chức, khó theo dõi.\nThiết kế trực quan | 15 | Hình ảnh trực quan hấp dẫn, rõ ràng và hỗ trợ hiệu quả cho nội dung | Có hình ảnh nhưng có thể thiếu tính nhất quán hoặc rõ ràng. | Hình ảnh không hiệu quả hoặc làm sao lãng nội dung. | Thiếu hoặc sử dụng hình ảnh không phù hợp, lộn xộn.\nTrình bày khóa luận | 20 | Trình bày rõ ràng, mạch lạc, chủ động, tự tin, thuyết phục; quản lý tốt thời gian trình bày. | Trình bày khá rõ, chưa hoàn toàn tự tin, thuyết phục; thời gian trình bày lệch chuẩn không đáng kể. | Trình bày chưa thuyết phục, chỉ thể hiện được nội dung cơ bản; thời gian trình bày lệch chuẩn không đáng kể. | Nói nhỏ, không tự tin, không thể hiện được mục đích bài trình bày; không quản lý được thời gian trình bày.\nNội dung khóa luận | 30 | Thể hiện sự hiểu biết thấu đáo về chủ đề. | Hiểu biết đầy đủ về chủ đề. | Hiểu biết hạn chế hoặc thiếu chính xác về chủ đề. | Hiểu biết không đầy đủ hoặc không chính xác về chủ đề.\nTrả lời câu hỏi/tương tác | 20 | Trả lời tự tin và hiệu quả các câu hỏi. | Trả lời các câu hỏi đầy đủ nhưng thiếu chiều sâu. | Trả lời các câu hỏi chưa đầy đủ. | Chưa trả lời được các câu hỏi."
 }

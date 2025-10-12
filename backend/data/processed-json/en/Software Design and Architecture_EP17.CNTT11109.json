@@ -1,110 +1,289 @@
 {
-  "id": "EP17.CNTT11109",
-  "filename": "Software Design and Architecture_EP17.CNTT11109.docx",
+  "doc_id": "en-ep17-cntt11109",
   "language": "en",
-  "subject_name": "Software Design and Architecture_EP17.CNTT11109",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Software Design and Architecture",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11109",
+  "source_filename": "Software Design and Architecture_EP17.CNTT11109.docx",
+  "source_relpath": "data\\raw\\en\\Software Design and Architecture_EP17.CNTT11109.docx",
+  "source_hash": "477a92ae258a67594c0473493d23e1e6",
+  "source_modified": "2025-10-11T10:42:50.610462+00:00",
+  "processed_at": "2025-10-12T13:02:25.973854+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Software Design and Architecture Code: CNTT11109",
-        "* Credits: 3 (45)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 25 hrs.",
-        "+ Exercises in class: 10 hrs.",
-        "+ Presentation and Discussion: 10 hrs.",
-        "+ Self-study: 60 hrs.",
-        "* Parallel course(s):",
-        "* Prerequisite course(s): CNTT1128",
-        "* Department conducting the course:",
-        "+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
-        "+ Lecturers:",
-        "1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
-        "2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn",
-        "* The course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.",
-        "The course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.",
-        "Students will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "* Textbooks/Lecture Notes:",
-        "Software Architecture in Practice by Len Bass, 2013, Pearson Education",
-        "Software Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014",
-        "Clean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.",
-        "* Additional references:",
-        "Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.",
-        "* Software Tool",
-        "Integrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse",
-        "Version Control Systems such as Git, SVN",
-        "UML Modeling Tools like Visual Paradigm, Lucid chart",
-        "Continuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI",
-        "Collaboration Tools like Slack, Microsoft Teams"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. LESSON PLAN",
-      "content": [
-        "Table 7.1. Lesson plan for the course"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. LESSON PLAN"
     },
     {
-      "heading": "8.1. Requirements for taking final /terminal exams.",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "8.2. Requirements for attending classes.",
-      "content": [
-        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.",
-        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "8.1. Requirements for taking final /terminal exams."
     },
     {
-      "heading": "8.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
-        "Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "8.2. Requirements for attending classes."
+    },
+    {
+      "sequence": 11,
+      "level": 2,
+      "title": "8.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n* Title: Software Design and Architecture Code: CNTT11109\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1128\n* Department conducting the course: \n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS \nThis course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.\nThe course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.\nStudents will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development.\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \nSoftware Architecture in Practice by Len Bass, 2013, Pearson Education\nSoftware Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014\nClean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.\n* Additional references:\nDesign Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.\n* Software Tool\nIntegrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse\nVersion Control Systems such as Git, SVN\nUML Modeling Tools like Visual Paradigm, Lucid chart\nContinuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI\nCollaboration Tools like Slack, Microsoft Teams\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:26.277478",
-  "source_file": "backend\\data\\raw\\en\\Software Design and Architecture_EP17.CNTT11109.docx",
-  "content_length": 4183
+  "stats": {
+    "paragraphs": 43,
+    "headings": 11,
+    "tables": 7,
+    "chunks": 13,
+    "words": 1629
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt11109#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,       ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,       ,            , 2023)\nBachelor of Software Engineering (SE) | Bachelor of Software Engineering (SE)",
+      "word_count": 52,
+      "char_count": 389,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 2
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#002",
+      "text": "* Title: Software Design and Architecture Code: CNTT11109\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128\n* Department conducting the course:\n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:",
+      "word_count": 90,
+      "char_count": 608,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 3,
+        "end_block": 18
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#003",
+      "text": "Foundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+      "word_count": 42,
+      "char_count": 247,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 21
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#004",
+      "text": "This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.\nThe course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.\nStudents will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development.",
+      "word_count": 111,
+      "char_count": 872,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 22,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#005",
+      "text": "* Textbooks/Lecture Notes:\n- Software Architecture in Practice by Len Bass, 2013, Pearson Education\n- Software Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014\n- Clean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.\n* Additional references:\n- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.\n* Software Tool\n- Integrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse\n- Version Control Systems such as Git, SVN\n- UML Modeling Tools like Visual Paradigm, Lucid chart\n- Continuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI\n- Collaboration Tools like Slack, Microsoft Teams",
+      "word_count": 125,
+      "char_count": 860,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 26,
+        "end_block": 39
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | The course aims to develop skills in software development management, emphasizing software design processes, models, and principles. It covers object-oriented design principles like the UML language, software engineering, software architecture models, and methodologies for designing software architecture and components within object-oriented software design. Additionally, it emphasizes practical problem-solving skills through designing architecture and detailing software development to address real-world challenges. | PLO2.2 | 4\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO3.4 | 4, 4, 4",
+      "word_count": 172,
+      "char_count": 1232,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 40,
+        "end_block": 43
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. It also provides software design principles and learns how to design software using templates for applications, websites, or web services. | I4\nG1 | CLO1.2 | Develop skills in designing software architecture and components in object-oriented software design. | ITU4\n- | CLO1.3 | Practical exercises involve utilizing design tools and templates for designing software architecture and components in object-oriented software design. | ITU4\nG2 | CLO2.1 | The students have skilled in searching, synthesizing, analyzing, and using design tool for software development | TU4\nG3 | CLO3.1 | Ability to self-study design tools for software development tool-related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software. | U4",
+      "word_count": 207,
+      "char_count": 1387,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 44,
+        "end_block": 45
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#008",
+      "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | 1-12\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nGroup Project Presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 13\nGroup Project Report | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | All CLOs | 50% | As scheduled",
+      "word_count": 105,
+      "char_count": 637,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 47,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#009",
+      "text": "Table 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Development environment and support tools | Course outline | CLO1.1 CLO3.1 | Introduction to course Announce classroom rules. Instructions for installing the IDE | Level of participation Level of interaction Quality of answers\n2-3 | Chapter 1: Introduction to Software Design and Architecture Introduction to Software Development Methodologies Software Architecture and Design Principles Overview Importance and Benefits of Proper Design Understanding Software Design Concepts Principles for High-Quality Software Designs Methods for Defining Software Requirements Software Design Process Stages Techniques for Requirement Analysis Prototyping and Iterative Design | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n4-5 | Chapter 2: Object-Oriented Design Principles 2.1. Introduction to Object-Oriented Programming (OOP) 2.2. OOP Principles and Their Significance 2.3. Applying OOP Principles in Architecture 2.4. Unified Modeling Language (UML) Overview 2.5. UML for Software Designs 2.6. Practical UML Applications in Development | [1] Chapter 2, 3 | CLO1.1 CLO1.2 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n6-7 | Chapter 3: Design Patterns 3.1 Introduction to Design Patterns in Software 3.2 Design Patterns and Implementations 3.3 Applying Design Patterns in Problem Solving | [1] Chapter 3 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n8-9 | Chapter 4: Software Architecture Models 4.1. Introduction to Software Architecture Models 4.2. Comparing Architecture Patterns 4.3. Implementing Architecture Models in Projects | [1] Chapter 3 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n10 | Chapter 5: Component-Based Design 5.1. Component-Based Design Concepts 5.2. Designing Components for Scalability 5.3. Integrating Components into Systems | [1] Chapter 1,2,3,4 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n11 | Chapter 6: Software Engineering Principles 6.1. Software Engineering Principles Overview 6.2. Software Engineering Importance in Lifecycle 6.3. Applying Engineering Practices for Quality 6.4. Strategies for Scalable Software Systems 6.5. Optimizing Software Performance Techniques | [1] Chapter 5 | CLO1.2 CLO1.3 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n12 | Chapter 7: Software Design Tools and Real-world Case Studies 7.1 Introduction to software design tools 7.2 Utilizing design tools for creating and managing software designs. 7.3 Incorporating emerging technologies in software design. 7.4 Real-world Case-Study 7.5 Case studies 7.6 Best practices in software design. | [1] Chapter 1 | CLO1.2 CLO1.3 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n13-14 | Group project presentation | - | CLO1.1 CLO1.2 CLO3.x | Group presentation. | Participation Group presentation",
+      "word_count": 495,
+      "char_count": 3402,
+      "heading_path": [
+        "7. LESSON PLAN"
+      ],
+      "primary_heading": "7. LESSON PLAN",
+      "breadcrumbs": "7. LESSON PLAN",
+      "position": {
+        "order": 9,
+        "start_block": 51,
+        "end_block": 53
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#010",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams."
+      ],
+      "primary_heading": "8.1. Requirements for taking final /terminal exams.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams.",
+      "position": {
+        "order": 10,
+        "start_block": 56,
+        "end_block": 57
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#011",
+      "text": "- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 106,
+      "char_count": 633,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes."
+      ],
+      "primary_heading": "8.2. Requirements for attending classes.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes.",
+      "position": {
+        "order": 11,
+        "start_block": 58,
+        "end_block": 61
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#012",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 86,
+      "char_count": 513,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 12,
+        "start_block": 62,
+        "end_block": 66
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt11109#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 13,
+        "start_block": 66,
+        "end_block": 67
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,       ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,       ,            , 2023)\nBachelor of Software Engineering (SE) | Bachelor of Software Engineering (SE)\n1. COURSE INFORMATION\n* Title: Software Design and Architecture Code: CNTT11109\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128\n* Department conducting the course:\n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1 MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n2. MSc Tran Thi My Diep \tTel: 0904335056\tEmail: diepttm@neu.edu.vn\n* The course:\nFoundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS\nThis course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services.\nThe course covers software design processes, models, and principles, including object-oriented design principles such as the UML language. Additionally, it offers knowledge about software engineering, software architecture models, and methodologies for designing software architecture and components in object-oriented software design.\nStudents will utilize the knowledge and methods gained in this course to solve real-world problems by designing architecture and detailing software development.\n3. LEARNING RESOURCES\n* Textbooks/Lecture Notes:\n- Software Architecture in Practice by Len Bass, 2013, Pearson Education\n- Software Engineering: A Practitioner's Approach 8th Edition by Roger S. Pressman (Author), Bruce Maxim (Author), McGraw Hill, 2014\n- Clean Architecture: A Craftsman's Guide to Software Structure and Design\" by Robert C. Martin - Published in 2017.\n* Additional references:\n- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides - Published in 1994.\n* Software Tool\n- Integrated Development Environments (IDEs) like IntelliJ IDEA, Visual Studio, Eclipse\n- Version Control Systems such as Git, SVN\n- UML Modeling Tools like Visual Paradigm, Lucid chart\n- Continuous Integration/Continuous Deployment (CI/CD) Tools such as Jenkins, Travis CI\n- Collaboration Tools like Slack, Microsoft Teams\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | PLOs | Proficiency scale\nG1 | This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. Learners will gain insight into software design principles and learn how to design software using templates for applications, websites, or web services. | PLO1.3 PLO1.4 PLO1.5 | 4\nG2 | The course aims to develop skills in software development management, emphasizing software design processes, models, and principles. It covers object-oriented design principles like the UML language, software engineering, software architecture models, and methodologies for designing software architecture and components within object-oriented software design. Additionally, it emphasizes practical problem-solving skills through designing architecture and detailing software development to address real-world challenges. | PLO2.2 | 4\nG3 | The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics. | PLO3.1 PLO3.4 | 4, 4, 4\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | This course aims to provide foundational knowledge in software architecture and software design methodology. It introduces concepts, principles, and methodologies for creating high-quality designs for software development. It also provides software design principles and learns how to design software using templates for applications, websites, or web services. | I4\nG1 | CLO1.2 | Develop skills in designing software architecture and components in object-oriented software design. | ITU4\n- | CLO1.3 | Practical exercises involve utilizing design tools and templates for designing software architecture and components in object-oriented software design. | ITU4\nG2 | CLO2.1 | The students have skilled in searching, synthesizing, analyzing, and using design tool for software development | TU4\nG3 | CLO3.1 | Ability to self-study design tools for software development tool-related materials to complete assigned assignments. | U4\nG3 | CLO3.2 | Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer. | U4\nG3 | CLO3.3 | Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software. | U4\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | 1-12\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nGroup Project Presentation | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 13\nGroup Project Report | CLO 3.1, 3.2, 4.1, 4.2 CLO 3.1, 3.2, 4.1, 4.2 | 20% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | All CLOs | 50% | As scheduled\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Development environment and support tools | Course outline | CLO1.1 CLO3.1 | Introduction to course Announce classroom rules. Instructions for installing the IDE | Level of participation Level of interaction Quality of answers\n2-3 | Chapter 1: Introduction to Software Design and Architecture Introduction to Software Development Methodologies Software Architecture and Design Principles Overview Importance and Benefits of Proper Design Understanding Software Design Concepts Principles for High-Quality Software Designs Methods for Defining Software Requirements Software Design Process Stages Techniques for Requirement Analysis Prototyping and Iterative Design | [1] Chapter 1, 2, 3 | CLO1.1 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n4-5 | Chapter 2: Object-Oriented Design Principles 2.1. Introduction to Object-Oriented Programming (OOP) 2.2. OOP Principles and Their Significance 2.3. Applying OOP Principles in Architecture 2.4. Unified Modeling Language (UML) Overview 2.5. UML for Software Designs 2.6. Practical UML Applications in Development | [1] Chapter 2, 3 | CLO1.1 CLO1.2 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n6-7 | Chapter 3: Design Patterns 3.1 Introduction to Design Patterns in Software 3.2 Design Patterns and Implementations 3.3 Applying Design Patterns in Problem Solving | [1] Chapter 3 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n8-9 | Chapter 4: Software Architecture Models 4.1. Introduction to Software Architecture Models 4.2. Comparing Architecture Patterns 4.3. Implementing Architecture Models in Projects | [1] Chapter 3 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n10 | Chapter 5: Component-Based Design 5.1. Component-Based Design Concepts 5.2. Designing Components for Scalability 5.3. Integrating Components into Systems | [1] Chapter 1,2,3,4 | CLO1.2 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n11 | Chapter 6: Software Engineering Principles 6.1. Software Engineering Principles Overview 6.2. Software Engineering Importance in Lifecycle 6.3. Applying Engineering Practices for Quality 6.4. Strategies for Scalable Software Systems 6.5. Optimizing Software Performance Techniques | [1] Chapter 5 | CLO1.2 CLO1.3 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n12 | Chapter 7: Software Design Tools and Real-world Case Studies 7.1 Introduction to software design tools 7.2 Utilizing design tools for creating and managing software designs. 7.3 Incorporating emerging technologies in software design. 7.4 Real-world Case-Study 7.5 Case studies 7.6 Best practices in software design. | [1] Chapter 1 | CLO1.2 CLO1.3 CLO2.1 CLO3.x | Reading at home Lecturing Group discussion in class | Participation Interaction Answer Quality\n13-14 | Group project presentation | - | CLO1.1 CLO1.2 CLO3.x | Group presentation. | Participation Group presentation\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\n- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss classes more than 3 times, with or without reason, will be considered failing to complete the course and must re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

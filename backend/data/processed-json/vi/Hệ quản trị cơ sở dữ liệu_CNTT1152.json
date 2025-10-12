@@ -1,171 +1,484 @@
 {
-  "id": "CNTT1152",
-  "filename": "Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
+  "doc_id": "vi-cntt1152",
   "language": "vi",
-  "subject_name": "He╠ú╠é qua╠ën tri╠ú co╠¢ so╠¢╠ë du╠¢╠â lie╠ú╠éu_CNTT1152",
-  "title": "Nội dung",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Hệ quản trị cơ sở dữ liệu",
+  "course_variant": "",
+  "course_code": "CNTT1152",
+  "source_filename": "Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
+  "source_relpath": "data\\raw\\vi\\Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
+  "source_hash": "3c48154cd38d497013c1025d495139bb",
+  "source_modified": "2025-10-11T10:42:50.626943+00:00",
+  "processed_at": "2025-10-12T13:02:27.878687+00:00",
+  "outline": [
     {
-      "heading": "Nội dung",
-      "content": [
-        "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT",
-        "(Detailed Course Syllabus)",
-        "(Ban hành kèm theo Quyết định số 628/QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)"
     },
     {
-      "heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
-      "content": [
-        "Tên học phần (tiếng Việt): \tHệ quản trị cơ sở dữ liệu",
-        "Tên học phần (tiếng Anh):\tDatabase Management Systems",
-        "Trình độ đào tạo \t\tĐại học",
-        "Mã học phần: \t\t\tCNTT1152",
-        "Số tín chỉ: \t\t\t03",
-        "Số giờ trên lớp:\t45",
-        "Số giờ tự học:\t\t105",
-        "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
-        "Các học phần tiên quyết: Cơ sở dữ liệu  (TIKT1130)"
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
     },
     {
-      "heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
-      "content": [
-        "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
-        "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
-        "Giảng viên giảng dạy học phần:"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
     },
     {
-      "heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "content": [
-        "Học phần Hệ quản trị cơ sở dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng tạo lập dữ liệu, tìm kiếm và khai thác dữ liệu đồng thời thực hiện các thao tác quản trị trên hệ quản trị cơ sở dữ liệu. Trong học phần này sẽ sử dụng hệ quản trị cơ sở dữ liệu Microsoft SQL Server để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày vì đây là một hệ quản trị cơ sở dữ liệu tương đối đầy đủ các chức năng của một hệ quản trị cơ sở dữ liệu đóng vai trò làm máy chủ dữ liệu.",
-        "Sinh viên sau khi học xong phải thu được các kiến thức cơ bản về: tổng quan hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình của hệ quản trị CSDL MS SQL Server, mô hình lập trình đa lớp với MS SQL Server, cấu trúc và một số lệnh SQL cơ bản, phương pháp xây dựng mô hình dữ liệu, các kiểu dữ liệu cơ bản trong MS SQL Server, các lệnh để tạo và cập nhật cấu trúc cơ sở dữ liệu, tạo và cập nhật cấu trúc các bảng, quản trị và khai thác dữ liệu từ các bảng, xây dựng và quản trị các khung nhìn dữ liệu từ các bảng, phương pháp tạo và thực thi các thủ tục, khai báo dữ liệu, phương pháp làm việc và quản lý các triggers, quản trị giao dịch, bảo mật và an toàn thông tin trên máy chủ.",
-        "Sinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
-        "Nội dung chính:",
-        "-  Giới thiệu Microsoft SQL Server",
-        "-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server",
-        "-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.",
-        "-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu",
-        "-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao",
-        "-  Lập trình các thủ tục, hàm trong SQL Server",
-        "-  Lập trình Trigger từ đơn giản đến nâng cao.",
-        "-  Quản trị, sao lưu phục hồi dữ liệu"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
     },
     {
-      "heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
-      "content": [
-        "4.1. Giáo trình",
-        "[1] Microsoft (2022), SQL Server technical documentation, Microsoft.",
-        "[2] Praat & Adamski (2005) Concepts Database Management, Thompson.",
-        "4.2. Tài liệu tham khảo",
-        "[3] MicroSoft SQL Server Book Online (included with MicroSoft SQL Server Pack)",
-        "[4] Bài giảng Hệ quản trị cơ sở dữ liệu, Nguyễn Trung Tuấn, Trường Đại học Kinh tế Quốc dân (Tài liệu lưu hành nội bộ)",
-        "[5] Website của công ty Microsoft www.microsoft.com",
-        "4.3. Phần mềm",
-        "[6] Phần mềm Microsoft SQL Server",
-        "[7] SQL Server Management Studio (SSMS)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
     },
     {
-      "heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
-      "content": [
-        "Bảng 1. Mục tiêu học phần"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
     },
     {
-      "heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
-      "content": [
-        "Bảng 2. Chuẩn đầu ra học phần (CLO)"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
     },
     {
-      "heading": "7.1. Cơ cấu điểm thành phần",
-      "content": [
-        "Bảng 3. Đánh giá học phần"
-      ]
+      "sequence": 8,
+      "level": 2,
+      "title": "7.1. Cơ cấu điểm thành phần"
     },
     {
-      "heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
-      "content": [
-        "Bảng 4. Kế hoạch và nội dung dạy học"
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "7.2. Ma trận đề thi (phụ lục 1)"
     },
     {
-      "heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
-      "content": [
-        "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "7.3. Các rubrics (phụ lục 2)"
     },
     {
-      "heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
-      "content": [
-        "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
-        "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1."
-      ]
+      "sequence": 11,
+      "level": 1,
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
     },
     {
-      "heading": "10.2. Quy định về tham dự lớp học",
-      "content": [
-        "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
-        "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc."
-      ]
+      "sequence": 12,
+      "level": 1,
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
     },
     {
-      "heading": "10.3. Quy định về hành vi trong lớp học",
-      "content": [
-        "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
-        "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
-        "Đọc trước tài liệu được yêu cầu.",
-        "Làm các bài tập về nhà.",
-        "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
-        "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác."
-      ]
+      "sequence": 13,
+      "level": 1,
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
     },
     {
-      "heading": "10.4. Quy định về nộp bài tập lớn",
-      "content": [
-        "Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
-        "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
-      ]
+      "sequence": 14,
+      "level": 2,
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần"
     },
     {
-      "heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
-      "content": [
-        "PHỤ LỤC"
-      ]
+      "sequence": 15,
+      "level": 2,
+      "title": "10.2. Quy định về tham dự lớp học"
     },
     {
-      "heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "content": [
-        "Trọng số trong điểm học phần: 50%",
-        "Hình thức: Tự luận trên giấy",
-        "Thời gian: 75 phút",
-        "Số câu hỏi: 5 câu",
-        "Ma trận đề thi (tự luận):"
-      ]
+      "sequence": 16,
+      "level": 2,
+      "title": "10.3. Quy định về hành vi trong lớp học"
     },
     {
-      "heading": "Phụ lục 2. CÁC RUBRICS",
-      "content": [
-        "Rubric 1. Đánh giá điểm chuyên cần",
-        "Trọng số trong điểm học phần: 10%",
-        "Đánh giá qua 10 buổi seminar.",
-        "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
-        "Tiêu chí đánh giá tham gia thảo luận",
-        "Rubric 2. Đánh giá bài kiểm tra cá nhân",
-        "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-        "Rubric 3. Đánh giá bài tập nhóm",
-        "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)"
-      ]
+      "sequence": 17,
+      "level": 2,
+      "title": "10.4. Quy định về nộp bài tập lớn"
+    },
+    {
+      "sequence": 18,
+      "level": 1,
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+    },
+    {
+      "sequence": 19,
+      "level": 2,
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI"
+    },
+    {
+      "sequence": 20,
+      "level": 2,
+      "title": "Phụ lục 2. CÁC RUBRICS"
     }
   ],
-  "tables": [],
-  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\nTên học phần (tiếng Việt): \tHệ quản trị cơ sở dữ liệu \nTên học phần (tiếng Anh):\tDatabase Management Systems\nTrình độ đào tạo \t\tĐại học \nMã học phần: \t\t\tCNTT1152\nSố tín chỉ: \t\t\t03\nSố giờ trên lớp:\t45\nSố giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Cơ sở dữ liệu  (TIKT1130)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần: \n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\n\tHọc phần Hệ quản trị cơ sở dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng tạo lập dữ liệu, tìm kiếm và khai thác dữ liệu đồng thời thực hiện các thao tác quản trị trên hệ quản trị cơ sở dữ liệu. Trong học phần này sẽ sử dụng hệ quản trị cơ sở dữ liệu Microsoft SQL Server để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày vì đây là một hệ quản trị cơ sở dữ liệu tương đối đầy đủ các chức năng của một hệ quản trị cơ sở dữ liệu đóng vai trò làm máy chủ dữ liệu. \n\tSinh viên sau khi học xong phải thu được các kiến thức cơ bản về: tổng quan hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình của hệ quản trị CSDL MS SQL Server, mô hình lập trình đa lớp với MS SQL Server, cấu trúc và một số lệnh SQL cơ bản, phương pháp xây dựng mô hình dữ liệu, các kiểu dữ liệu cơ bản trong MS SQL Server, các lệnh để tạo và cập nhật cấu trúc cơ sở dữ liệu, tạo và cập nhật cấu trúc các bảng, quản trị và khai thác dữ liệu từ các bảng, xây dựng và quản trị các khung nhìn dữ liệu từ các bảng, phương pháp tạo và thực thi các thủ tục, khai báo dữ liệu, phương pháp làm việc và quản lý các triggers, quản trị giao dịch, bảo mật và an toàn thông tin trên máy chủ.\n\tSinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n\t-  Giới thiệu Microsoft SQL Server \n\t-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server\n\t-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.\n-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu\n\t-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao\t\n\t-  Lập trình các thủ tục, hàm trong SQL Server\t\n\t-  Lập trình Trigger từ đơn giản đến nâng cao.\n\t-  Quản trị, sao lưu phục hồi dữ liệu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Microsoft (2022), SQL Server technical documentation, Microsoft.\n[2] Praat & Adamski (2005) Concepts Database Management, Thompson.\n4.2. Tài liệu tham khảo\n[3] MicroSoft SQL Server Book Online (included with MicroSoft SQL Server Pack)\n[4] Bài giảng Hệ quản trị cơ sở dữ liệu, Nguyễn Trung Tuấn, Trường Đại học Kinh tế Quốc dân (Tài liệu lưu hành nội bộ)\n[5] Website của công ty Microsoft www.microsoft.com\n4.3. Phần mềm\n[6] Phần mềm Microsoft SQL Server \n[7] SQL Server Management Studio (SSMS)\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes) \nBảng 2. Chuẩn đầu ra học phần (CLO)\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học. \nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc. \n10.3. Quy định về hành vi trong lớp học\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\nNgười học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 75 phút\nSố câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 10 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-  "created_at": "2025-10-03T00:04:21.242713",
-  "source_file": "backend\\data\\raw\\vi\\Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
-  "content_length": 6311
+  "stats": {
+    "paragraphs": 69,
+    "headings": 20,
+    "tables": 12,
+    "chunks": 22,
+    "words": 4869
+  },
+  "chunks": [
+    {
+      "chunk_id": "vi-cntt1152#001",
+      "text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)",
+      "word_count": 54,
+      "char_count": 289,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 0,
+        "end_block": 6
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#002",
+      "text": "- Tên học phần (tiếng Việt): \tHệ quản trị cơ sở dữ liệu\n- Tên học phần (tiếng Anh):\tDatabase Management Systems\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1152\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Cơ sở dữ liệu  (TIKT1130)",
+      "word_count": 77,
+      "char_count": 348,
+      "heading_path": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "primary_heading": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "breadcrumbs": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "position": {
+        "order": 2,
+        "start_block": 7,
+        "end_block": 17
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#003",
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Tống Thị Minh Ngọc | ngoctm@neu.edu.vn\n2 | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n3 | ThS Phạm Thảo | thaop@neu.edu.vn",
+      "word_count": 70,
+      "char_count": 340,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 3,
+        "start_block": 18,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#004",
+      "text": "Học phần Hệ quản trị cơ sở dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng tạo lập dữ liệu, tìm kiếm và khai thác dữ liệu đồng thời thực hiện các thao tác quản trị trên hệ quản trị cơ sở dữ liệu. Trong học phần này sẽ sử dụng hệ quản trị cơ sở dữ liệu Microsoft SQL Server để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày vì đây là một hệ quản trị cơ sở dữ liệu tương đối đầy đủ các chức năng của một hệ quản trị cơ sở dữ liệu đóng vai trò làm máy chủ dữ liệu.\nSinh viên sau khi học xong phải thu được các kiến thức cơ bản về: tổng quan hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình của hệ quản trị CSDL MS SQL Server, mô hình lập trình đa lớp với MS SQL Server, cấu trúc và một số lệnh SQL cơ bản, phương pháp xây dựng mô hình dữ liệu, các kiểu dữ liệu cơ bản trong MS SQL Server, các lệnh để tạo và cập nhật cấu trúc cơ sở dữ liệu, tạo và cập nhật cấu trúc các bảng, quản trị và khai thác dữ liệu từ các bảng, xây dựng và quản trị các khung nhìn dữ liệu từ các bảng, phương pháp tạo và thực thi các thủ tục, khai báo dữ liệu, phương pháp làm việc và quản lý các triggers, quản trị giao dịch, bảo mật và an toàn thông tin trên máy chủ.",
+      "word_count": 276,
+      "char_count": 1193,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#005",
+      "text": "Sinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n-  Giới thiệu Microsoft SQL Server",
+      "word_count": 182,
+      "char_count": 820,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 26,
+        "end_block": 28
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#006",
+      "text": "-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server\n-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.\n-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu\n-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao\n-  Lập trình các thủ tục, hàm trong SQL Server\n-  Lập trình Trigger từ đơn giản đến nâng cao.\n-  Quản trị, sao lưu phục hồi dữ liệu",
+      "word_count": 95,
+      "char_count": 428,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 6,
+        "start_block": 29,
+        "end_block": 37
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#007",
+      "text": "4.1. Giáo trình\n[1] Microsoft (2022), SQL Server technical documentation, Microsoft.\n[2] Praat & Adamski (2005) Concepts Database Management, Thompson.\n4.2. Tài liệu tham khảo\n[3] MicroSoft SQL Server Book Online (included with MicroSoft SQL Server Pack)\n[4] Bài giảng Hệ quản trị cơ sở dữ liệu, Nguyễn Trung Tuấn, Trường Đại học Kinh tế Quốc dân (Tài liệu lưu hành nội bộ)\n[5] Website của công ty Microsoft www.microsoft.com\n4.3. Phần mềm\n[6] Phần mềm Microsoft SQL Server\n[7] SQL Server Management Studio (SSMS)",
+      "word_count": 85,
+      "char_count": 513,
+      "heading_path": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "position": {
+        "order": 7,
+        "start_block": 38,
+        "end_block": 49
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#008",
+      "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các kiến thức về hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình hệ quản trị cơ sở dữ liệu MS SQL Server, tạo lập, quản lý và khai thác các cơ sở dữ liệu | -\nCG2 | Học phần hướng dẫn cho người học các kỹ năng sử dụng hệ thống phần mềm MS SQL Server để tạo lập, quản lý, khai thác, lập trình và bảo mật cơ sở dữ liệu. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
+      "word_count": 151,
+      "char_count": 619,
+      "heading_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "position": {
+        "order": 8,
+        "start_block": 50,
+        "end_block": 53
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#009",
+      "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Hiểu, áp dụng được chức năng, kiến trúc của hệ quản trị cơ sở dữ liệu trong các phần mềm. | 2\nCG1 Kiến thức | CLO1.2 | Hiểu hệ quản trị cơ sở dữ liệu trong các phần mềm và áp dụng kết hợp với các ngôn ngữ lập trình để xây dựng các bài toán nhỏ. | 2\nCG1 Kiến thức | CLO1.3 | Vận dụng được các kiến thức về khai thác và quản trị dữ liệu trong MS SQL Server | 3\nCG2 Kỹ năng | CLO2.1 | Thành thạo cài đặt, sử dụng và quản trị hệ thống MS SQL Server | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo tạo lập, quản lý và khai thác dữ liệu một cách dễ dàng. | 2\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. Có khả năng tự học tập, tự tìm hiểu tài liệu hoặc kết hợp thành nhóm học tập. | 3",
+      "word_count": 324,
+      "char_count": 1347,
+      "heading_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "position": {
+        "order": 9,
+        "start_block": 54,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#010",
+      "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% (lập trình trên máy tính) | Tuần 11 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 2 – 20% (lập trình trên máy tính) - hoặc Bài tập nhóm - 20% (nghiên cứu, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (lập trình trên máy tính) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
+      "word_count": 208,
+      "char_count": 813,
+      "heading_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "primary_heading": "7.1. Cơ cấu điểm thành phần",
+      "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
+      "position": {
+        "order": 10,
+        "start_block": 59,
+        "end_block": 60
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#011",
+      "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1. Giới thiệu Microsoft SQL Server 1.1 Tổng quan về hệ quản trị cơ sở dữ liệu. 1.2 Giới thiệu Microsoft SQL Server. 1.3 Cài đặt Microsoft SQL Server. 1.4 Các công cụ thông dụng trong Microsoft SQL Server ( | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n2 | Seminar 1 - Câu hỏi lý thuyết Chương 1 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Thực hành với các bài toán có cơ sở dữ là 1 bảng - Thực hành với các câu lệnh tạo lập dữ liệu | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 1 | 1.x 2.x 3.x\n3 | Lecture 2 Chương 2. Làm việc với CSDL trong Microsoft SQL Server 2.1 Thiết lập Cơ sở dữ liệu bài toán quản lý nói chung 2.2 Các kiểu dữ liệu trong Microsoft SQL Server 2.3 Sử dụng MicroSoft SQL Server Management Studio để tạo cơ sở dữ liệu 2.4 Khai thác cơ sở dữ liệu khối lệnh SELECT 2.5 Các lệnh tạo lập cơ sở dữ liệu, bảng, chỉ mục | [2] Chương 2 [2] Chương 2 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n4 | Seminar 2 - Câu hỏi lý thuyết Chương 2 - Thực hành với các khối lệnh SELECT- -FROM – WHERE đầy đủ và nâng cao. Thực hành với các câu lệnh tìm kiếm phức tạp | [2] Chương 2 [4] Chương 2 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | 1.x 2.x 3.x\n5 | Lecture 3 Chương 3. Lập trình trong Microsoft SQL Server 3.1 Giới thiệu 3.2 Lập trình thủ tục lưu trữ 3.3 Các cấu trúc trong lập trình | [2] Chương 7 [4] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n6 | Seminar 3 Thực hành với các cú pháp xây dựng thủ tục -Kiểm soát ràng buộc dữ liệu khi viết các thủ tục và các thuộc tính là khóa chính, khóa ngoại. | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | 1.x 2.x 3.x\n7 | Lecture 4 Chương 3. Lập trình trong Microsoft SQL Server 3.4 Lập trình Hàm 3.5 Lập trình Trigger 3.6 Làm việc với Transaction | [2] Chương 7 [4] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n8 | Seminar 4 Thực hành với các cú pháp xây dựng hàm, trigger - Sự khác nhau khi thực hành xây dựng thủ tục và trigger -Kiểm soát ràng buộc dữ liệu khi viết các thủ tục và các thuộc tính là khóa chính, khóa ngoại. | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n9 | Seminar 5 -Thực hành với môt số bài toán với cơ sở dữ liệu khác nhau -Thực hành với với thêm xóa sửa dữ liệu cho bài toán có ràng buộc | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 5 | 1.x 2.x 3.x\n10 | Lecture 5 Chương 4. Quản trị Microsoft SQL Server 4.1 Tự động hoá công việc quản trị 4.2 Sao lưu, phục hồi và quản lý cơ sở dữ liệu 4.3 Nhập (Import) và xuất (Export) dữ liệu 4.4 Bảo mật trong SQL Server | [2] Chương 8 [4] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n11 | Seminar 6 Thực hành các công việc sao lưu, phục hồi quản lý dữ liệu, chạy trên các cơ sở dữ liệu đã thực hành từ những tuần đầu. - Bài kiểm tra cá nhân (20%) | [2] Chương 8 [4] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 6 (Rubric 2) | 1.x 2.x 3.x\n12 | Seminar 7 - Trình bày cơ sở dữ liệu cho bài tập nhóm. - Thực hành với các cơ sở dữ liệu nhiều bảng ràng buộc. - Thực hành với các bài toán tìm kiếm thống kê đầy đủ, nhiều tiêu chí | Bài tập tổng hợp | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 7 | 1.x 2.x 3.x\n13 | Seminar 8 - Tổng kết lại kiến thức - Trình bày cơ sở dữ liệu cho bài tập nhóm. - Thực hành với các cơ sở dữ liệu nhiều bảng ràng buộc | Bài tập tổng hợp | Giảng viên: - Tổng kết lại kiến thức - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Cung cấp bài kiểm tra - Hướng dẫn cách làm/nộp bài - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Tham gia làm bài kiểm tra - … | - Điểm danh - Trả lời câu hỏi trong Seminar 8 | 1.x 2.x 3.x\n14 | Seminar 9 - Trình bày bài tập nhóm (20%) hoặc có thể là bài kiểm tra cá nhân số 2 | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm Sinh viên: - Ôn tập bài trước - Làm bài kiểm tra và nộp bài - Trình bày bài tập nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 10 - Hệ thống lại học phần. - Giải đáp các thắc mắc của sinh viên. - Hướng dẫn cách thức và làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn cách thức thi lập trình trên máy tính và cách nộp bài thi cuối kỳ Sinh viên: - Trình thực hành cách thức nộp bài thi | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3",
+      "word_count": 1684,
+      "char_count": 7087,
+      "heading_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "position": {
+        "order": 11,
+        "start_block": 66,
+        "end_block": 67
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#012",
+      "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+      "word_count": 40,
+      "char_count": 182,
+      "heading_path": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "position": {
+        "order": 12,
+        "start_block": 70,
+        "end_block": 71
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#013",
+      "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+      "word_count": 28,
+      "char_count": 126,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
+      "position": {
+        "order": 13,
+        "start_block": 73,
+        "end_block": 75
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#014",
+      "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+      "word_count": 51,
+      "char_count": 224,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "primary_heading": "10.2. Quy định về tham dự lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
+      "position": {
+        "order": 14,
+        "start_block": 76,
+        "end_block": 78
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#015",
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+      "word_count": 92,
+      "char_count": 420,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "primary_heading": "10.3. Quy định về hành vi trong lớp học",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
+      "position": {
+        "order": 15,
+        "start_block": 79,
+        "end_block": 85
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#016",
+      "text": "- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+      "word_count": 37,
+      "char_count": 159,
+      "heading_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "primary_heading": "10.4. Quy định về nộp bài tập lớn",
+      "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
+      "position": {
+        "order": 16,
+        "start_block": 86,
+        "end_block": 89
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#017",
+      "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC",
+      "word_count": 17,
+      "char_count": 78,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "position": {
+        "order": 17,
+        "start_block": 91,
+        "end_block": 95
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#018",
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 4 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 330,
+      "char_count": 916,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 18,
+        "start_block": 96,
+        "end_block": 101
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#019",
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 10 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
+      "word_count": 166,
+      "char_count": 655,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 19,
+        "start_block": 104,
+        "end_block": 110
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#020",
+      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+      "word_count": 183,
+      "char_count": 748,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 110,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#021",
+      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 4 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 206,
+      "char_count": 554,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 114,
+        "end_block": 114
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1152#022",
+      "text": "Rubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ quản trị CSDL, các câu lệnh SQL | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về cơ sở dữ liệu, hệ quản trị CSDL và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về cơ sở dữ liệu, các câu lệnh SQL, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về hệ quản trị CSDL, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về cơ sở dữ liệu và hệ quản trị CSDL, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 513,
+      "char_count": 2136,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 116,
+        "end_block": 118
+      }
+    }
+  ],
+  "full_text": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________\nĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\n1. THÔNG TIN TỔNG QUÁT (General Information)\n- Tên học phần (tiếng Việt): \tHệ quản trị cơ sở dữ liệu\n- Tên học phần (tiếng Anh):\tDatabase Management Systems\n- Trình độ đào tạo \t\tĐại học\n- Mã học phần: \t\t\tCNTT1152\n- Số tín chỉ: \t\t\t03\n- Số giờ trên lớp:\t45\n- Số giờ tự học:\t\t105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\n- Các học phần tiên quyết: Cơ sở dữ liệu  (TIKT1130)\n2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Tống Thị Minh Ngọc | ngoctm@neu.edu.vn\n2 | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn\n3 | ThS Phạm Thảo | thaop@neu.edu.vn\n3. MÔ TẢ HỌC PHẦN (Course Descriptions)\nHọc phần Hệ quản trị cơ sở dữ liệu sẽ cung cấp cho sinh viên những kiến thức cơ bản, các phương pháp và kỹ năng tạo lập dữ liệu, tìm kiếm và khai thác dữ liệu đồng thời thực hiện các thao tác quản trị trên hệ quản trị cơ sở dữ liệu. Trong học phần này sẽ sử dụng hệ quản trị cơ sở dữ liệu Microsoft SQL Server để làm công cụ minh hoạ và mô phỏng những vấn đề sẽ được trình bày vì đây là một hệ quản trị cơ sở dữ liệu tương đối đầy đủ các chức năng của một hệ quản trị cơ sở dữ liệu đóng vai trò làm máy chủ dữ liệu.\nSinh viên sau khi học xong phải thu được các kiến thức cơ bản về: tổng quan hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình của hệ quản trị CSDL MS SQL Server, mô hình lập trình đa lớp với MS SQL Server, cấu trúc và một số lệnh SQL cơ bản, phương pháp xây dựng mô hình dữ liệu, các kiểu dữ liệu cơ bản trong MS SQL Server, các lệnh để tạo và cập nhật cấu trúc cơ sở dữ liệu, tạo và cập nhật cấu trúc các bảng, quản trị và khai thác dữ liệu từ các bảng, xây dựng và quản trị các khung nhìn dữ liệu từ các bảng, phương pháp tạo và thực thi các thủ tục, khai báo dữ liệu, phương pháp làm việc và quản lý các triggers, quản trị giao dịch, bảo mật và an toàn thông tin trên máy chủ.\nSinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n-  Giới thiệu Microsoft SQL Server\n-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server\n-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.\n-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu\n-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao\n-  Lập trình các thủ tục, hàm trong SQL Server\n-  Lập trình Trigger từ đơn giản đến nâng cao.\n-  Quản trị, sao lưu phục hồi dữ liệu\n4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)\n4.1. Giáo trình\n[1] Microsoft (2022), SQL Server technical documentation, Microsoft.\n[2] Praat & Adamski (2005) Concepts Database Management, Thompson.\n4.2. Tài liệu tham khảo\n[3] MicroSoft SQL Server Book Online (included with MicroSoft SQL Server Pack)\n[4] Bài giảng Hệ quản trị cơ sở dữ liệu, Nguyễn Trung Tuấn, Trường Đại học Kinh tế Quốc dân (Tài liệu lưu hành nội bộ)\n[5] Website của công ty Microsoft www.microsoft.com\n4.3. Phần mềm\n[6] Phần mềm Microsoft SQL Server\n[7] SQL Server Management Studio (SSMS)\n5. MỤC TIÊU HỌC PHẦN (Course Goals)\nBảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các kiến thức về hệ quản trị cơ sở dữ liệu, kiến trúc và mô hình hệ quản trị cơ sở dữ liệu MS SQL Server, tạo lập, quản lý và khai thác các cơ sở dữ liệu | -\nCG2 | Học phần hướng dẫn cho người học các kỹ năng sử dụng hệ thống phần mềm MS SQL Server để tạo lập, quản lý, khai thác, lập trình và bảo mật cơ sở dữ liệu. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -\n6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)\nBảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Hiểu, áp dụng được chức năng, kiến trúc của hệ quản trị cơ sở dữ liệu trong các phần mềm. | 2\nCG1 Kiến thức | CLO1.2 | Hiểu hệ quản trị cơ sở dữ liệu trong các phần mềm và áp dụng kết hợp với các ngôn ngữ lập trình để xây dựng các bài toán nhỏ. | 2\nCG1 Kiến thức | CLO1.3 | Vận dụng được các kiến thức về khai thác và quản trị dữ liệu trong MS SQL Server | 3\nCG2 Kỹ năng | CLO2.1 | Thành thạo cài đặt, sử dụng và quản trị hệ thống MS SQL Server | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo tạo lập, quản lý và khai thác dữ liệu một cách dễ dàng. | 2\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 3\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. Có khả năng tự học tập, tự tìm hiểu tài liệu hoặc kết hợp thành nhóm học tập. | 3\n7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)\n7.1. Cơ cấu điểm thành phần\nBảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 1 – 20% (lập trình trên máy tính) | Tuần 11 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân số 2 – 20% (lập trình trên máy tính) - hoặc Bài tập nhóm - 20% (nghiên cứu, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (lập trình trên máy tính) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -\n7.2. Ma trận đề thi (phụ lục 1)\n7.3. Các rubrics (phụ lục 2)\n8. KẾ HOẠCH DẠY HỌC (Lesson Plan)\nBảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1. Giới thiệu Microsoft SQL Server 1.1 Tổng quan về hệ quản trị cơ sở dữ liệu. 1.2 Giới thiệu Microsoft SQL Server. 1.3 Cài đặt Microsoft SQL Server. 1.4 Các công cụ thông dụng trong Microsoft SQL Server ( | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng - Giảng lý thuyết theo nội dung Bài giảng - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | 1.x 2.x 3.x\n2 | Seminar 1 - Câu hỏi lý thuyết Chương 1 - Cài đặt phần mềm và làm quen với các giao diện phần mềm - Thực hành với các bài toán có cơ sở dữ là 1 bảng - Thực hành với các câu lệnh tạo lập dữ liệu | [2] Chương 1,2,3 [4] Chương 1,2 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 1 | 1.x 2.x 3.x\n3 | Lecture 2 Chương 2. Làm việc với CSDL trong Microsoft SQL Server 2.1 Thiết lập Cơ sở dữ liệu bài toán quản lý nói chung 2.2 Các kiểu dữ liệu trong Microsoft SQL Server 2.3 Sử dụng MicroSoft SQL Server Management Studio để tạo cơ sở dữ liệu 2.4 Khai thác cơ sở dữ liệu khối lệnh SELECT 2.5 Các lệnh tạo lập cơ sở dữ liệu, bảng, chỉ mục | [2] Chương 2 [2] Chương 2 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n4 | Seminar 2 - Câu hỏi lý thuyết Chương 2 - Thực hành với các khối lệnh SELECT- -FROM – WHERE đầy đủ và nâng cao. Thực hành với các câu lệnh tìm kiếm phức tạp | [2] Chương 2 [4] Chương 2 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 2 | 1.x 2.x 3.x\n5 | Lecture 3 Chương 3. Lập trình trong Microsoft SQL Server 3.1 Giới thiệu 3.2 Lập trình thủ tục lưu trữ 3.3 Các cấu trúc trong lập trình | [2] Chương 7 [4] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n6 | Seminar 3 Thực hành với các cú pháp xây dựng thủ tục -Kiểm soát ràng buộc dữ liệu khi viết các thủ tục và các thuộc tính là khóa chính, khóa ngoại. | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 3 | 1.x 2.x 3.x\n7 | Lecture 4 Chương 3. Lập trình trong Microsoft SQL Server 3.4 Lập trình Hàm 3.5 Lập trình Trigger 3.6 Làm việc với Transaction | [2] Chương 7 [4] Chương 3 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n8 | Seminar 4 Thực hành với các cú pháp xây dựng hàm, trigger - Sự khác nhau khi thực hành xây dựng thủ tục và trigger -Kiểm soát ràng buộc dữ liệu khi viết các thủ tục và các thuộc tính là khóa chính, khóa ngoại. | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 4 | 1.x 2.x 3.x\n9 | Seminar 5 -Thực hành với môt số bài toán với cơ sở dữ liệu khác nhau -Thực hành với với thêm xóa sửa dữ liệu cho bài toán có ràng buộc | [2] Chương 7 [4] Chương 3 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài | - Điểm danh - Trả lời câu hỏi trong Seminar 5 | 1.x 2.x 3.x\n10 | Lecture 5 Chương 4. Quản trị Microsoft SQL Server 4.1 Tự động hoá công việc quản trị 4.2 Sao lưu, phục hồi và quản lý cơ sở dữ liệu 4.3 Nhập (Import) và xuất (Export) dữ liệu 4.4 Bảo mật trong SQL Server | [2] Chương 8 [4] Chương 4 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - ... Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu - … | - | 1.x 2.x 3.x\n11 | Seminar 6 Thực hành các công việc sao lưu, phục hồi quản lý dữ liệu, chạy trên các cơ sở dữ liệu đã thực hành từ những tuần đầu. - Bài kiểm tra cá nhân (20%) | [2] Chương 8 [4] Chương 4 | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 6 (Rubric 2) | 1.x 2.x 3.x\n12 | Seminar 7 - Trình bày cơ sở dữ liệu cho bài tập nhóm. - Thực hành với các cơ sở dữ liệu nhiều bảng ràng buộc. - Thực hành với các bài toán tìm kiếm thống kê đầy đủ, nhiều tiêu chí | Bài tập tổng hợp | Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Làm bài tập thực hành - Tham gia chữa bài - … | - Điểm danh - Trả lời câu hỏi trong Seminar 7 | 1.x 2.x 3.x\n13 | Seminar 8 - Tổng kết lại kiến thức - Trình bày cơ sở dữ liệu cho bài tập nhóm. - Thực hành với các cơ sở dữ liệu nhiều bảng ràng buộc | Bài tập tổng hợp | Giảng viên: - Tổng kết lại kiến thức - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Cung cấp bài kiểm tra - Hướng dẫn cách làm/nộp bài - ... Sinh viên: - Đọc tài liệu trước - Theo dõi các bước thực hành - Tham gia thảo luận - Tham gia làm bài kiểm tra - … | - Điểm danh - Trả lời câu hỏi trong Seminar 8 | 1.x 2.x 3.x\n14 | Seminar 9 - Trình bày bài tập nhóm (20%) hoặc có thể là bài kiểm tra cá nhân số 2 | - | Giảng viên: - Hướng dẫn trình bày bài tập nhóm Sinh viên: - Ôn tập bài trước - Làm bài kiểm tra và nộp bài - Trình bày bài tập nhóm | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 10 - Hệ thống lại học phần. - Giải đáp các thắc mắc của sinh viên. - Hướng dẫn cách thức và làm bài thi cuối kỳ | - | Giảng viên: - Hướng dẫn cách thức thi lập trình trên máy tính và cách nộp bài thi cuối kỳ Sinh viên: - Trình thực hành cách thức nộp bài thi | - Điểm danh - Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2 1.3\n9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)\n10.1. Quy định về điều kiện thi kết thúc học phần\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n10.2. Quy định về tham dự lớp học\n- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\n10.3. Quy định về hành vi trong lớp học\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\n10.4. Quy định về nộp bài tập lớn\n- Người học không nộp bài cá nhân / bài làm nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\n11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương\nPHỤ LỤC\nPhụ lục 1. MA TRẬN ĐỀ THI\n- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 4 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 1.3 | 2 | - | - | - | -\na. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 1.3 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%\nPhụ lục 2. CÁC RUBRICS\nRubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 10 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 4 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ quản trị CSDL, các câu lệnh SQL | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về cơ sở dữ liệu, hệ quản trị CSDL và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về cơ sở dữ liệu, các câu lệnh SQL, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về hệ quản trị CSDL, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về cơ sở dữ liệu và hệ quản trị CSDL, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
 }

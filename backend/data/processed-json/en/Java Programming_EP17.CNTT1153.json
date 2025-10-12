@@ -1,101 +1,289 @@
 {
-  "id": "EP17.CNTT1153",
-  "filename": "Java Programming_EP17.CNTT1153.docx",
+  "doc_id": "en-ep17-cntt1153",
   "language": "en",
-  "subject_name": "Java Programming_EP17.CNTT1153",
-  "title": "1. COURSE INFORMATION",
-  "degree": "",
-  "instructor": "",
-  "tags": [],
-  "sections": [
+  "course_name": "Java Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1153",
+  "source_filename": "Java Programming_EP17.CNTT1153.docx",
+  "source_relpath": "data\\raw\\en\\Java Programming_EP17.CNTT1153.docx",
+  "source_hash": "521cd905357ff28bdea5f319f72ea199",
+  "source_modified": "2025-10-11T10:42:50.599426+00:00",
+  "processed_at": "2025-10-12T13:02:24.648408+00:00",
+  "outline": [
     {
-      "heading": "1. COURSE INFORMATION",
-      "content": [
-        "* Title: Java Programming\tCode: CNTT1153",
-        "* Credits: 3 (45)",
-        "* Credit hours for teaching and learning activities:",
-        "+ Lecture: 25 hrs.",
-        "+ Exercises in class: 10 hrs.",
-        "+ Presentation and Discussion: 10 hrs.",
-        "+ Self-study: 60 hrs.",
-        "* Parallel course(s):",
-        "* Prerequisite course(s): CNTT1128, CNTT1131",
-        "* Department conducting the course:",
-        "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
-        "+ Lecturers:",
-        "1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn",
-        "2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn",
-        "* The course:",
-        "* Course language: \tIn English",
-        "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University"
-      ]
+      "sequence": 1,
+      "level": 1,
+      "title": "1. COURSE INFORMATION"
     },
     {
-      "heading": "2. COURSE DESCRIPTIONS",
-      "content": [
-        "This course provides foundational knowledge in Java programming, such as OOP, input/output processing, multithreading, and using libraries to build user interfaces (UI). The content of the course includes Basics of Java programming; Object-oriented programming; Exception handling; Input/output processing; Collection frameworks; Generic programming; Java 8+ features. The course also aims to develop critical thinking skills, the ability to self-learn knowledge, and technologies related to Java by working independently as well as in groups. Students will be divided into groups to delve deeper into various technologies, allowing them to present and discuss individual or group solutions to address issues."
-      ]
+      "sequence": 2,
+      "level": 1,
+      "title": "2. COURSE DESCRIPTIONS"
     },
     {
-      "heading": "3. LEARNING RESOURCES",
-      "content": [
-        "* Textbooks/Lecture Notes:",
-        "[1] Pham Xuan Lam (2024), Java Programming, National Economics University",
-        "* Additional references:",
-        "[2] Introduction to Programming Using Java – 8th David J. Eck",
-        "[3] Thinking in Java 4th Edition (2000) – Bruce Eckel (Practice Hall)"
-      ]
+      "sequence": 3,
+      "level": 1,
+      "title": "3. LEARNING RESOURCES"
     },
     {
-      "heading": "4. COURSE GOALS",
-      "content": [
-        "Table 4. Course goals"
-      ]
+      "sequence": 4,
+      "level": 1,
+      "title": "4. COURSE GOALS"
     },
     {
-      "heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
-      "content": [
-        "Table 5. Course learning outcomes (CLOs)"
-      ]
+      "sequence": 5,
+      "level": 1,
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)"
     },
     {
-      "heading": "6. COURSE ASSESSMENT",
-      "content": [
-        "Table 6. Assessment summary"
-      ]
+      "sequence": 6,
+      "level": 1,
+      "title": "6. COURSE ASSESSMENT"
     },
     {
-      "heading": "7. LESSON PLAN",
-      "content": [
-        "Table 7.1. Lesson plan for the course"
-      ]
+      "sequence": 7,
+      "level": 1,
+      "title": "7. LESSON PLAN"
     },
     {
-      "heading": "8.1. Requirements for taking final /terminal exams.",
-      "content": [
-        "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10)."
-      ]
+      "sequence": 8,
+      "level": 1,
+      "title": "8. COURSE REQUIREMENT & EXPECTATION"
     },
     {
-      "heading": "8.2. Requirements for attending classes.",
-      "content": [
-        "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
-        "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
-        "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission."
-      ]
+      "sequence": 9,
+      "level": 2,
+      "title": "8.1. Requirements for taking final /terminal exams."
     },
     {
-      "heading": "8.3. Requirements for in-class behavior",
-      "content": [
-        "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
-        "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-        "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
-      ]
+      "sequence": 10,
+      "level": 2,
+      "title": "8.2. Requirements for attending classes."
+    },
+    {
+      "sequence": 11,
+      "level": 2,
+      "title": "8.3. Requirements for in-class behavior"
     }
   ],
-  "tables": [],
-  "full_text": "1. COURSE INFORMATION\n* Title: Java Programming\tCode: CNTT1153\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs. \n* Parallel course(s): \n* Prerequisite course(s): CNTT1128, CNTT1131\n* Department conducting the course: \n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers: \n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:\n* Course language: \tIn English                 \n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\t \n2. COURSE DESCRIPTIONS \nThis course provides foundational knowledge in Java programming, such as OOP, input/output processing, multithreading, and using libraries to build user interfaces (UI). The content of the course includes Basics of Java programming; Object-oriented programming; Exception handling; Input/output processing; Collection frameworks; Generic programming; Java 8+ features. The course also aims to develop critical thinking skills, the ability to self-learn knowledge, and technologies related to Java by working independently as well as in groups. Students will be divided into groups to delve deeper into various technologies, allowing them to present and discuss individual or group solutions to address issues.\n3. LEARNING RESOURCES \n* Textbooks/Lecture Notes: \n[1] Pham Xuan Lam (2024), Java Programming, National Economics University\n* Additional references:\n[2] Introduction to Programming Using Java – 8th David J. Eck\n[3] Thinking in Java 4th Edition (2000) – Bruce Eckel (Practice Hall)\n4. COURSE GOALS\nTable 4. Course goals\n5. COURSE LEARNING OUTCOMES (CLOs) \nTable 5. Course learning outcomes (CLOs)\n6. COURSE ASSESSMENT \nTable 6. Assessment summary\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
-  "created_at": "2025-10-03T00:04:25.610059",
-  "source_file": "backend\\data\\raw\\en\\Java Programming_EP17.CNTT1153.docx",
-  "content_length": 3448
+  "stats": {
+    "paragraphs": 34,
+    "headings": 11,
+    "tables": 7,
+    "chunks": 13,
+    "words": 1488
+  },
+  "chunks": [
+    {
+      "chunk_id": "en-ep17-cntt1153#001",
+      "text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,    ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,    ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering",
+      "word_count": 50,
+      "char_count": 373,
+      "heading_path": [],
+      "primary_heading": null,
+      "breadcrumbs": "",
+      "position": {
+        "order": 1,
+        "start_block": 1,
+        "end_block": 3
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#002",
+      "text": "* Title: Java Programming\tCode: CNTT1153\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128, CNTT1131\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:",
+      "word_count": 88,
+      "char_count": 596,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 2,
+        "start_block": 4,
+        "end_block": 19
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#003",
+      "text": "Foundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+      "word_count": 42,
+      "char_count": 247,
+      "heading_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "primary_heading": "1. COURSE INFORMATION",
+      "breadcrumbs": "1. COURSE INFORMATION",
+      "position": {
+        "order": 3,
+        "start_block": 19,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#004",
+      "text": "This course provides foundational knowledge in Java programming, such as OOP, input/output processing, multithreading, and using libraries to build user interfaces (UI). The content of the course includes Basics of Java programming; Object-oriented programming; Exception handling; Input/output processing; Collection frameworks; Generic programming; Java 8+ features. The course also aims to develop critical thinking skills, the ability to self-learn knowledge, and technologies related to Java by working independently as well as in groups. Students will be divided into groups to delve deeper into various technologies, allowing them to present and discuss individual or group solutions to address issues.",
+      "word_count": 97,
+      "char_count": 709,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 4,
+        "start_block": 24,
+        "end_block": 25
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#005",
+      "text": "* Textbooks/Lecture Notes:\n[1] Pham Xuan Lam (2024), Java Programming, National Economics University\n* Additional references:\n[2] Introduction to Programming Using Java – 8th David J. Eck\n[3] Thinking in Java 4th Edition (2000) – Bruce Eckel (Practice Hall)",
+      "word_count": 39,
+      "char_count": 257,
+      "heading_path": [
+        "3. LEARNING RESOURCES"
+      ],
+      "primary_heading": "3. LEARNING RESOURCES",
+      "breadcrumbs": "3. LEARNING RESOURCES",
+      "position": {
+        "order": 5,
+        "start_block": 26,
+        "end_block": 31
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#006",
+      "text": "Table 4. Course goals\nGoals | Goals Description | Proficiency scale\nG1 | The course provides fundamental knowledge of programming in Java, helping students understand the principles of Java programming and apply knowledge of algorithms to software development. Students will be able to analyze, design, program, and test application using the Java programming language. | 3-4\nG2 | The course enhances critical thinking skills, problem-solving abilities, and practical skills in the profession to address IT-related tasks using Java. | 3U\nG3 | The course contributes to the development of independent work and teamwork skills, fostering a proper understanding of responsibility in task execution and professional ethics. | 3",
+      "word_count": 108,
+      "char_count": 723,
+      "heading_path": [
+        "4. COURSE GOALS"
+      ],
+      "primary_heading": "4. COURSE GOALS",
+      "breadcrumbs": "4. COURSE GOALS",
+      "position": {
+        "order": 6,
+        "start_block": 32,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#007",
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | Understanding how software work on computers, the computer programming languages used to create software, such as the Java; Describing Java technology, classifying types of Java applications; Basic programming with Java. | I\nG1 | CLO1.2 | Understanding the basic programming techniques, such as control flow; function; object-oriented; input/output, multithread, applying in the development of applications. | T\nG1 | CLO1.3 | Applying testing techniques, quality assessment, software performance evaluation, as well as GUI to build applications. | U\nG2 | CLO2.1 | Having the skills to search, gather, synthesize, analyze, and present information to solve problems related to Java programming. | U\nG2 | CLO2.2 | Having the ability to coordinate and collaborate to solve group assignments, ensuring the team completes tasks according to schedule. | U\nG2 | CLO2.3 | Having the skills to use tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Having the ability to self-study and research relevant Java to complete assigned tasks. | U\nG3 | CLO3.2 | Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities. | U\nG3 | CLO3.3 | Understanding the responsibilities in task execution, maintaining professional ethics in tasks related to Java programming. | U",
+      "word_count": 239,
+      "char_count": 1508,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 7,
+        "start_block": 35,
+        "end_block": 36
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#008",
+      "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | -\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual test 1: Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 9\nIndividual test 2: Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.x CLO2.x CLO3.x | 50% | As scheduled",
+      "word_count": 106,
+      "char_count": 691,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 8,
+        "start_block": 45,
+        "end_block": 48
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#009",
+      "text": "Table 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Development environment and support tools | Course outline | CLO1.1 CLO3.1 | Introduction to course Announce classroom rules. Instructions for installing the IDE | Level of participation Level of interaction Quality of answers\n2 | Chapter 1. Overview of computer programs and Java programming language • Overview of computers and programs • Overview of Java • JVM • GUI | [1] Chapter 1 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n3-4 | Chapter 2. Constant variables and data types • Variables and data types • Operators Chapter 3. Control structures and arrays. • Code block • Branch • Loop • Array • Search, sort | [1] Chapters 2, 3 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n4 | Chapter 4. Methods and exception handling • Method • Parameters • Exception handling | 1] Chapter 4 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n5-6 | Chapter 5. Classes and objects • Concept of OOP • Classes and objects • Constructor • Set/get Method • OOP features | [1] Chapter 5 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n7 | Chapter 6. General programming and collections framework • General programming • General method • List • Set • Map | [1] Chapter 6 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n8 | Chapter 7. Input and output data flow. • Binary and text • Package.io | [1] Chapter 7 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n9 | Chapter 8. Multi-threaded programming • Thread and Runnable • Synchronized • Handling deadlock • Thread Pool • Process | [1] Chapter 8 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n10 | Midterm exam 1 (2 0%) | [1] Chapters 1-8 | CLO1.1 CLO1.2 | Students take exams | Computer-based practical examination\n11-13 | Chapter 9. Features of new Java versions • Java 8 LTS • Java 11 LTS • Java 17 LTS • Java 21 LTS | [1] Chapter 9 | CLO1.3 CLO2.1 CLO2.3 | Lecturing Group discussion. Individual testing | Participant Individual tests Group works.\n14-15 | Midterm exam 2 (2 0%) | [1] Chapter 9 | CLO1.x CLO2.x | Students take exams | Computer-based practical examination\n- | Final exam | [1] Chapter 1-9 | CLO1.x CLO2.x | Students take exams according to given schedule | Computer-based practical examination",
+      "word_count": 483,
+      "char_count": 2837,
+      "heading_path": [
+        "7. LESSON PLAN"
+      ],
+      "primary_heading": "7. LESSON PLAN",
+      "breadcrumbs": "7. LESSON PLAN",
+      "position": {
+        "order": 9,
+        "start_block": 49,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#010",
+      "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+      "word_count": 23,
+      "char_count": 118,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams."
+      ],
+      "primary_heading": "8.1. Requirements for taking final /terminal exams.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams.",
+      "position": {
+        "order": 10,
+        "start_block": 53,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#011",
+      "text": "- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+      "word_count": 109,
+      "char_count": 643,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes."
+      ],
+      "primary_heading": "8.2. Requirements for attending classes.",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes.",
+      "position": {
+        "order": 11,
+        "start_block": 55,
+        "end_block": 58
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#012",
+      "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 89,
+      "char_count": 526,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 12,
+        "start_block": 59,
+        "end_block": 63
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1153#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "primary_heading": "8.3. Requirements for in-class behavior",
+      "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
+      "position": {
+        "order": 13,
+        "start_block": 63,
+        "end_block": 64
+      }
+    }
+  ],
+  "full_text": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY | SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness\nCOURSE SYLLABUS (Issued attached Decision of NEU’s President,    ,            , 2023) | COURSE SYLLABUS (Issued attached Decision of NEU’s President,    ,            , 2023)\nBachelor of Software Engineering | Bachelor of Software Engineering\n1. COURSE INFORMATION\n* Title: Java Programming\tCode: CNTT1153\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128, CNTT1131\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. PhD. Phạm Xuân Lâm\tTel: 0937638683\tEmail: lampx@neu.edu.vn\n2. MSc. Phạm Thảo\tTel: 0966986689\tEmail: thaop@neu.edu.vn\n* The course:\nFoundation □ | Foundation □ | Fundamental (x) | Fundamental (x)\nCompulsory □ | Elective □ | Compulsory □ | Elective (x)\n* Course language: \tIn English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\n2. COURSE DESCRIPTIONS\nThis course provides foundational knowledge in Java programming, such as OOP, input/output processing, multithreading, and using libraries to build user interfaces (UI). The content of the course includes Basics of Java programming; Object-oriented programming; Exception handling; Input/output processing; Collection frameworks; Generic programming; Java 8+ features. The course also aims to develop critical thinking skills, the ability to self-learn knowledge, and technologies related to Java by working independently as well as in groups. Students will be divided into groups to delve deeper into various technologies, allowing them to present and discuss individual or group solutions to address issues.\n3. LEARNING RESOURCES\n* Textbooks/Lecture Notes:\n[1] Pham Xuan Lam (2024), Java Programming, National Economics University\n* Additional references:\n[2] Introduction to Programming Using Java – 8th David J. Eck\n[3] Thinking in Java 4th Edition (2000) – Bruce Eckel (Practice Hall)\n4. COURSE GOALS\nTable 4. Course goals\nGoals | Goals Description | Proficiency scale\nG1 | The course provides fundamental knowledge of programming in Java, helping students understand the principles of Java programming and apply knowledge of algorithms to software development. Students will be able to analyze, design, program, and test application using the Java programming language. | 3-4\nG2 | The course enhances critical thinking skills, problem-solving abilities, and practical skills in the profession to address IT-related tasks using Java. | 3U\nG3 | The course contributes to the development of independent work and teamwork skills, fostering a proper understanding of responsibility in task execution and professional ethics. | 3\n5. COURSE LEARNING OUTCOMES (CLOs)\nTable 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I, T, U)\nG1 | CLO1.1 | Understanding how software work on computers, the computer programming languages used to create software, such as the Java; Describing Java technology, classifying types of Java applications; Basic programming with Java. | I\nG1 | CLO1.2 | Understanding the basic programming techniques, such as control flow; function; object-oriented; input/output, multithread, applying in the development of applications. | T\nG1 | CLO1.3 | Applying testing techniques, quality assessment, software performance evaluation, as well as GUI to build applications. | U\nG2 | CLO2.1 | Having the skills to search, gather, synthesize, analyze, and present information to solve problems related to Java programming. | U\nG2 | CLO2.2 | Having the ability to coordinate and collaborate to solve group assignments, ensuring the team completes tasks according to schedule. | U\nG2 | CLO2.3 | Having the skills to use tools to optimize code and reduce programming time. | U\nG3 | CLO3.1 | Having the ability to self-study and research relevant Java to complete assigned tasks. | U\nG3 | CLO3.2 | Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities. | U\nG3 | CLO3.3 | Understanding the responsibilities in task execution, maintaining professional ethics in tasks related to Java programming. | U\n6. COURSE ASSESSMENT\nTable 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | -\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual test 1: Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 9\nIndividual test 2: Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x CLO3.x | 40% | 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.x CLO2.x CLO3.x | 50% | As scheduled\n7. LESSON PLAN\nTable 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines • Development environment and support tools | Course outline | CLO1.1 CLO3.1 | Introduction to course Announce classroom rules. Instructions for installing the IDE | Level of participation Level of interaction Quality of answers\n2 | Chapter 1. Overview of computer programs and Java programming language • Overview of computers and programs • Overview of Java • JVM • GUI | [1] Chapter 1 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n3-4 | Chapter 2. Constant variables and data types • Variables and data types • Operators Chapter 3. Control structures and arrays. • Code block • Branch • Loop • Array • Search, sort | [1] Chapters 2, 3 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n4 | Chapter 4. Methods and exception handling • Method • Parameters • Exception handling | 1] Chapter 4 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n5-6 | Chapter 5. Classes and objects • Concept of OOP • Classes and objects • Constructor • Set/get Method • OOP features | [1] Chapter 5 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n7 | Chapter 6. General programming and collections framework • General programming • General method • List • Set • Map | [1] Chapter 6 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n8 | Chapter 7. Input and output data flow. • Binary and text • Package.io | [1] Chapter 7 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n9 | Chapter 8. Multi-threaded programming • Thread and Runnable • Synchronized • Handling deadlock • Thread Pool • Process | [1] Chapter 8 | CLO1.1 CLO1.2 CLO3.x | Lecturing Group discussion. Individual testing | Participant Individual tests Group works\n10 | Midterm exam 1 (2 0%) | [1] Chapters 1-8 | CLO1.1 CLO1.2 | Students take exams | Computer-based practical examination\n11-13 | Chapter 9. Features of new Java versions • Java 8 LTS • Java 11 LTS • Java 17 LTS • Java 21 LTS | [1] Chapter 9 | CLO1.3 CLO2.1 CLO2.3 | Lecturing Group discussion. Individual testing | Participant Individual tests Group works.\n14-15 | Midterm exam 2 (2 0%) | [1] Chapter 9 | CLO1.x CLO2.x | Students take exams | Computer-based practical examination\n- | Final exam | [1] Chapter 1-9 | CLO1.x CLO2.x | Students take exams according to given schedule | Computer-based practical examination\n8. COURSE REQUIREMENT & EXPECTATION\n8.1. Requirements for taking final /terminal exams.\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n8.2. Requirements for attending classes.\n- Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n8.3. Requirements for in-class behavior\n- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong"
 }

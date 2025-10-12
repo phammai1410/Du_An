@@ -4,8 +4,5 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.env
-.env.*
 logs/
 *.log
-backend/data/index/
