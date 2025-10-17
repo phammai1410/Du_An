@@ -1,9 +1,9 @@
 {
-  "backend": "faiss",
+  "backend": "bruteforce",
   "dim": 384,
   "model": "granite-embedding-107m-multilingual",
   "base_url": "http://localhost:8080/v1",
-  "total_vectors": 1541,
+  "total_vectors": 3747,
   "languages": [
     "vi",
     "en"
@@ -11,7 +11,6 @@
   "min_words": 40,
   "short_threshold": 120,
   "long_threshold": 220,
-  "created_at": "2025-10-12T14:10:31.990331+00:00",
-  "data_dir": "backend\\data\\processed-json",
-  "skipped_chunks": 243
+  "created_at": "2025-10-12T15:11:25.857579+00:00",
+  "data_dir": "backend\\data\\processed-json"
 }

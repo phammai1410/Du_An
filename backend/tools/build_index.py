@@ -83,7 +83,10 @@ def _prepare_chunk(
     heading_path = [h for h in chunk_data.get("heading_path", []) if h]
     breadcrumbs = chunk_data.get("breadcrumbs") or " > ".join(heading_path)
     primary_heading = chunk_data.get("primary_heading") or (heading_path[-1] if heading_path else "")
-    context = _compose_context(doc_meta, primary_heading, breadcrumbs)
+    context_override = chunk_data.get("_context_override")
+    context = context_override if context_override is not None else _compose_context(
+        doc_meta, primary_heading, breadcrumbs
+    )
     embed_text = f"{context}\n{raw_text}" if context else raw_text
 
     if word_count <= short_threshold:
@@ -95,6 +98,7 @@ def _prepare_chunk(
 
     position = chunk_data.get("position") or {}
     meta = {
+        "id": doc_meta.get("doc_id"),
         "doc_id": doc_meta.get("doc_id"),
         "language": doc_meta.get("language"),
         "course_name": doc_meta.get("course_name"),
@@ -102,16 +106,98 @@ def _prepare_chunk(
         "course_variant": doc_meta.get("course_variant"),
         "source_filename": doc_meta.get("source_filename"),
         "source_relpath": doc_meta.get("source_relpath"),
+        "source_path": doc_meta.get("source_path"),
         "chunk_id": chunk_data.get("chunk_id"),
+        "source_chunk_id": chunk_data.get("source_chunk_id") or chunk_data.get("chunk_id"),
         "chunk_order": position.get("order"),
         "heading_path": heading_path,
         "primary_heading": primary_heading,
         "breadcrumbs": breadcrumbs,
+        "section_heading": primary_heading,
+        "filename": doc_meta.get("source_filename"),
         "word_count": word_count,
         "char_count": int(chunk_data.get("char_count") or len(raw_text)),
         "length_category": length_category,
     }
+    if "split_index" in position:
+        try:
+            meta["chunk_subindex"] = int(position["split_index"])
+        except (TypeError, ValueError):
+            meta["chunk_subindex"] = position["split_index"]
     return embed_text, meta
+
+
+def _split_chunk_data(
+    doc_meta: Dict[str, str],
+    chunk_data: Dict,
+    max_len: int,
+    overlap: int,
+    embed_max_len: int,
+) -> Iterator[Dict]:
+    raw_text = chunk_data.get("text") or ""
+    normalized = _clean_text(raw_text)
+    if not normalized:
+        return
+
+    heading_path = [h for h in chunk_data.get("heading_path", []) if h]
+    breadcrumbs = chunk_data.get("breadcrumbs") or " > ".join(heading_path)
+    primary_heading = chunk_data.get("primary_heading") or (heading_path[-1] if heading_path else "")
+    context = _compose_context(doc_meta, primary_heading, breadcrumbs)
+    context = _clean_text(context) if context else ""
+
+    if context and len(context) >= embed_max_len:
+        context = context[: max(0, embed_max_len - 40)].rstrip()
+
+    prefix_len = len(context) + 1 if context else 0
+    effective_max = min(max_len, embed_max_len - prefix_len)
+    if effective_max <= 0:
+        context = ""
+        prefix_len = 0
+        effective_max = min(max_len, embed_max_len)
+
+    if effective_max <= 0:
+        effective_max = max_len // 2 or 200
+
+    piece_overlap = min(overlap, max(1, effective_max // 4))
+
+    base_chunk_id = chunk_data.get("chunk_id") or f"{doc_meta['doc_id']}#chunk"
+    base_position = dict(chunk_data.get("position") or {})
+    source_chunk_id = chunk_data.get("source_chunk_id") or chunk_data.get("chunk_id") or base_chunk_id
+
+    if len(normalized) <= effective_max:
+        single = dict(chunk_data)
+        text_piece = normalized[:effective_max]
+        single["text"] = text_piece
+        single["word_count"] = len(text_piece.split())
+        single["char_count"] = len(text_piece)
+        single["chunk_id"] = base_chunk_id
+        single["position"] = base_position
+        single["_context_override"] = context
+        single["source_chunk_id"] = source_chunk_id
+        yield single
+        return
+
+    pieces = list(_chunk_legacy(normalized, effective_max, piece_overlap))
+    if not pieces:
+        pieces = [normalized[:effective_max]]
+
+    total_parts = len(pieces)
+    for index, piece in enumerate(pieces, start=1):
+        split_chunk = dict(chunk_data)
+        split_chunk["text"] = piece
+        split_chunk["word_count"] = len(piece.split())
+        split_chunk["char_count"] = len(piece)
+        split_chunk["chunk_id"] = (
+            base_chunk_id if total_parts == 1 else f"{base_chunk_id}:{index:02d}"
+        )
+        position = dict(base_position)
+        if total_parts > 1:
+            position["split_index"] = index
+            position["split_total"] = total_parts
+        split_chunk["position"] = position
+        split_chunk["_context_override"] = context
+        split_chunk["source_chunk_id"] = source_chunk_id
+        yield split_chunk
 
 
 def _iter_document_chunks(
@@ -121,6 +207,7 @@ def _iter_document_chunks(
     long_threshold: int,
     legacy_max_len: int,
     legacy_overlap: int,
+    embed_max_len: int,
 ) -> Iterator[Tuple[str, Dict]]:
     obj = json.loads(json_path.read_text(encoding="utf-8"))
     doc_meta = {
@@ -131,16 +218,23 @@ def _iter_document_chunks(
         "course_code": obj.get("course_code") or "",
         "source_filename": obj.get("source_filename") or json_path.name,
         "source_relpath": obj.get("source_relpath") or _normalize_path(json_path),
+        "source_path": str(json_path),
     }
 
     chunks = obj.get("chunks")
     if chunks:
         for chunk_data in chunks:
-            prepared = _prepare_chunk(
-                doc_meta, chunk_data, min_words, short_threshold, long_threshold
-            )
-            if prepared:
-                yield prepared
+            base_chunk = dict(chunk_data)
+            if "source_chunk_id" not in base_chunk:
+                base_chunk["source_chunk_id"] = base_chunk.get("chunk_id")
+            for adjusted_chunk in _split_chunk_data(
+                doc_meta, base_chunk, legacy_max_len, legacy_overlap, embed_max_len
+            ):
+                prepared = _prepare_chunk(
+                    doc_meta, adjusted_chunk, min_words, short_threshold, long_threshold
+                )
+                if prepared:
+                    yield prepared
         return
 
     sections = obj.get("sections") or []
@@ -154,6 +248,7 @@ def _iter_document_chunks(
         for chunk_index, chunk_text in enumerate(_chunk_legacy(combined, legacy_max_len, legacy_overlap)):
             fallback_chunk = {
                 "chunk_id": f"{doc_meta['doc_id']}#{sec_index:03d}-{chunk_index:02d}",
+                "source_chunk_id": f"{doc_meta['doc_id']}#{sec_index:03d}-{chunk_index:02d}",
                 "text": chunk_text,
                 "word_count": len(chunk_text.split()),
                 "heading_path": [heading] if heading else [],
@@ -161,11 +256,14 @@ def _iter_document_chunks(
                 "breadcrumbs": heading,
                 "position": {"order": chunk_index + 1},
             }
-            prepared = _prepare_chunk(
-                doc_meta, fallback_chunk, min_words, short_threshold, long_threshold
-            )
-            if prepared:
-                yield prepared
+            for adjusted_chunk in _split_chunk_data(
+                doc_meta, fallback_chunk, legacy_max_len, legacy_overlap, embed_max_len
+            ):
+                prepared = _prepare_chunk(
+                    doc_meta, adjusted_chunk, min_words, short_threshold, long_threshold
+                )
+                if prepared:
+                    yield prepared
 
 
 def _batched(items: List, size: int) -> Iterable[List]:
@@ -207,6 +305,7 @@ def main() -> int:
     default_short_threshold = int(os.environ.get("INDEX_SHORT_WORD_THRESHOLD", "120"))
     default_long_threshold = int(os.environ.get("INDEX_LONG_WORD_THRESHOLD", "220"))
     default_timeout = int(os.environ.get("INDEX_EMBED_TIMEOUT", "120"))
+    default_embed_max_len = int(os.environ.get("INDEX_EMBED_MAX_CHARS", "850"))
 
     parser = argparse.ArgumentParser(description="Build a vector index from processed syllabus JSON files.")
     parser.add_argument("--model", default=default_model)
@@ -222,9 +321,14 @@ def main() -> int:
     parser.add_argument("--embed-timeout", type=int, default=default_timeout)
     parser.add_argument("--legacy-max-len", type=int, default=900)
     parser.add_argument("--legacy-overlap", type=int, default=150)
+    parser.add_argument("--embed-max-len", type=int, default=default_embed_max_len)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--save-chunks", action="store_true")
     args = parser.parse_args()
+
+    if args.embed_max_len <= 0:
+        raise ValueError("--embed-max-len must be positive.")
+    args.embed_max_len = max(200, args.embed_max_len)
 
     out_dir = args.out_dir or Path(f"backend/data/index/{args.model}")
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -246,6 +350,7 @@ def main() -> int:
                 args.long_threshold,
                 args.legacy_max_len,
                 args.legacy_overlap,
+                args.embed_max_len,
             ):
                 texts.append(text)
                 metas.append(meta)
@@ -413,8 +518,10 @@ def main() -> int:
         stream.write(json.dumps(manifest, ensure_ascii=False, indent=2))
 
     with open(out_dir / "meta.jsonl", "w", encoding="utf-8") as stream:
-        for meta in kept_metas:
-            stream.write(json.dumps(meta, ensure_ascii=False) + "\n")
+        for text, meta in zip(kept_texts, kept_metas):
+            meta_record = dict(meta)
+            meta_record["text"] = text
+            stream.write(json.dumps(meta_record, ensure_ascii=False) + "\n")
 
     if args.save_chunks:
         with open(out_dir / "chunks.jsonl", "w", encoding="utf-8") as stream:
