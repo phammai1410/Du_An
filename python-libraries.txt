@@ -1,7 +1,13 @@
 # Core project scripts
 python-docx
 python-dotenv
+pypdf
 requests
 numpy
 tqdm
 faiss-cpu
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
