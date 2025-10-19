@@ -1,0 +1,2288 @@
+{
+  "doc_id": "en-ep17-cntt1159",
+  "language": "en",
+  "course_name_stem": "IT Project Management",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1159",
+  "source_filename": "IT Project Management_EP17.CNTT1159.docx",
+  "source_relpath": "data\\raw\\en\\IT Project Management_EP17.CNTT1159.docx",
+  "source_hash": "7c4bb0cea4c43a3a51aae78a37d1025b",
+  "source_modified": "2025-10-11T10:42:50.597954+00:00",
+  "processed_at": "2025-10-17T16:55:26.760278+00:00",
+  "stats": {
+    "paragraphs": 52,
+    "tables": 7,
+    "sections": 11
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-cntt1159#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Information Technology Project Management",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Code: CNTT1159",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: 3 (45)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 25 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Exercises on class: 10 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Presentation and Discussion: 10 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "+ Self-study: 60 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Parallel course(s):",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Prerequisite course(s): CNTT1116",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "1. PhD. Lê Thị Hoài Thu Tel: 0912727529 Email: thulh@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "2. MSc. Trần Thị Mỹ Diệp…Tel: 0904335056 Email: diepttm@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 17,
+          "table_id": "en-ep17-cntt1159#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory",
+                "Elective (x)"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory",
+                "Fundamental (x)_2": "Elective (x)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "* Meeting hours: 8 AM – 11 AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 22
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "The course aims to provide students with basic knowledge of IT projects, focusing on project management and IT project management. Students will be instructed to learn and practice management skills. Include sections: project goal; project initialization; processes and areas of knowledge needed to successfully manage information technology (IT) projects. The main functions of management are mentioned in this course such as planning, organizing, leading, controlling, closing, and evaluating IT projects. Tools within software and templates that support IT project management will be introduced in this course to provide effective approaches to managing IT projects.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Course content includes:",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Overview of IT project management",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Conceptualizing and Initializing the IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Business Case &Project Charter",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Planning and Estimate IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Work Break Structure",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Time, cost estimate",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Organizing and Executing IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Development Team project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Controlling the progress of IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Controlling the quality of IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Controlling communication of IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Controlling the risk of IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Closing and evaluating IT Project",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "The course also aims to train thinking skills, the ability to self-study knowledge, and the use of apps to support management projects by working independently as well as in groups. Students will be divided into groups to learn deeply about projects, from which they can show their skills in phases to manage a particular IT project.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 40
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "* Textbooks/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Le Thi Hoai Thu & et.al (2024) Information Technology Project Management, Nhà xuất bản Đại học Kinh tế quốc dân.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Kathy Schwalbe (2018) Information Technology Project Management, 9th, Cengage Learning Inc.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "* Additional references:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Management Institute (PMI), 2020, A Guide to the Project Management Body of Knowledge (PMBOK Guide).",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Jack T Marchewka, (2003), Information Technology Project Management: provide Measurable Organizational Value, John Wiley & Sons",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Pham Ngoc Hung, Tran Hoang Viet (2022), Giao trình Quan ly du an phan mem, NXB Đại học quốc gia",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 48
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 44,
+          "table_id": "en-ep17-cntt1159#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides professional knowledge about IT projects and IT project management. Includes: Project goal, phases, and areas of knowledge needed to manage and IT project management process (as project selection, planning, implementation, control, closing, and evaluation )",
+                "3-4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "The course provides professional knowledge about IT projects and IT project management. Includes: Project goal, phases, and areas of knowledge needed to manage and IT project management process (as project selection, planning, implementation, control, closing, and evaluation )",
+                "Proficiency scale": "3-4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "The course guides students to practice skills in managing IT projects such as: Defining goals, Selecting projects, Initiating projects, Developing WBS, Estimating time, and costs), Organizing project implementation teams, Controlling schedule, cost, quality, communication, and risk;",
+                "3U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "The course guides students to practice skills in managing IT projects such as: Defining goals, Selecting projects, Initiating projects, Developing WBS, Estimating time, and costs), Organizing project implementation teams, Controlling schedule, cost, quality, communication, and risk;",
+                "Proficiency scale": "3U"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics.",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics.",
+                "Proficiency scale": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 46,
+          "table_id": "en-ep17-cntt1159#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 54,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understand and distinguish basic concepts of IT projects",
+                "I"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understand and distinguish basic concepts of IT projects",
+                "Teaching level (I,T,U)": "I"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understand and utilize knowledge of IT project management in phases, project fields, etc…",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Understand and utilize knowledge of IT project management in phases, project fields, etc…",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Understand and differentiate the tasks of a project manager in planning, organizing, implementing, controlling projects,…",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Understand and differentiate the tasks of a project manager in planning, organizing, implementing, controlling projects,…",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Distinguish interdisciplinary knowledge in IT project management.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs Description": "Distinguish interdisciplinary knowledge in IT project management.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Having management skills to solve practical problems related to IT projects.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Having management skills to solve practical problems related to IT projects.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Having skills in writing documents related to an IT project such as business case, project charter, baseline project plans, progress reports, and evaluation report.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Having skills in writing documents related to an IT project such as business case, project charter, baseline project plans, progress reports, and evaluation report.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.3",
+                "Have skills in using software tools to support IT project management.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.3",
+                "CLOs Description": "Have skills in using software tools to support IT project management.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Having the ability to self-study and research relevant to complete assigned tasks.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Having the ability to self-study and research relevant to complete assigned tasks.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Understanding the responsibilities in task execution, and maintaining professional ethics in tasks related to IT project management.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Understanding the responsibilities in task execution, and maintaining professional ethics in tasks related to IT project management.",
+                "Teaching level (I,T,U)": "U"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "table",
+          "order": 48,
+          "table_id": "en-ep17-cntt1159#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 57,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant: Learning attitude Answers questions Discussions",
+              "cells": [
+                "Participant: Learning attitude Answers questions Discussions",
+                "CLO1.x CLO2.x CLO3.x",
+                "10%",
+                "1-12"
+              ],
+              "column_map": {
+                "Assessments": "Participant: Learning attitude Answers questions Discussions",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "10%",
+                "Week": "1-12"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment"
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "Midterm assessment",
+                "Week": "Midterm assessment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+              "cells": [
+                "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+                "CLO1.x CLO2.x",
+                "40%",
+                "3,5,10"
+              ],
+              "column_map": {
+                "Assessments": "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+                "CLOs": "CLO1.x CLO2.x",
+                "Weighting (%)": "40%",
+                "Week": "3,5,10"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Group project (20%): Group production Group presentation",
+              "cells": [
+                "Group project (20%): Group production Group presentation",
+                "CLO1.x CLO2.x CLO3.x",
+                "40%",
+                "13-14"
+              ],
+              "column_map": {
+                "Assessments": "Group project (20%): Group production Group presentation",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "40%",
+                "Week": "13-14"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "CLO1.x CLO2.x CLO3.x",
+                "50%",
+                "As scheduled"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "50%",
+                "Week": "As scheduled"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec007",
+      "title": "7. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "7. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Table 7.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "7. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "table",
+          "order": 50,
+          "table_id": "en-ep17-cntt1159#tbl006",
+          "table_name": "Table 7.1. Lesson plan for the course",
+          "section_path": [
+            "7. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 61,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Introduce • Course outlines",
+                "Course Syllabus",
+                "CLO1.1 CLO 2. x CLO 3. x",
+                "Introduction to course Introduction to learning materials Announce classroom rules.",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Introduce • Course outlines",
+                "Readings requirement": "Course Syllabus",
+                "CLO": "CLO1.1 CLO 2. x CLO 3. x",
+                "Teaching and Learning Activities": "Introduction to course Introduction to learning materials Announce classroom rules.",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2-3",
+              "cells": [
+                "2-3",
+                "Chapter 1. Overview of IT project management • Basic concepts of IT project management • An Information Technology Project Methodology • Phases and areas of IT Project Management • Project Manager • IT project management software",
+                "[1] Chapter 1",
+                "CLO1.x CLO1.2 CLO3.x",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "2-3",
+                "Content": "Chapter 1. Overview of IT project management • Basic concepts of IT project management • An Information Technology Project Methodology • Phases and areas of IT Project Management • Project Manager • IT project management software",
+                "Readings requirement": "[1] Chapter 1",
+                "CLO": "CLO1.x CLO1.2 CLO3.x",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4-5",
+              "cells": [
+                "4-5",
+                "Chapter 2. Conceptualizing and Initializing the IT Project • IT project goal • Measurable Organizational Value (MOV) • Selecting IT Project • Business Case • Project Charter",
+                "[1] Chapter 2",
+                "CLO1.x CLO 2.x CLO 3.x",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "4-5",
+                "Content": "Chapter 2. Conceptualizing and Initializing the IT Project • IT project goal • Measurable Organizational Value (MOV) • Selecting IT Project • Business Case • Project Charter",
+                "Readings requirement": "[1] Chapter 2",
+                "CLO": "CLO1.x CLO 2.x CLO 3.x",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "6-7-8",
+              "cells": [
+                "6-7-8",
+                "Chapter 3. Planning IT Project • Planning IT project details • Planning IT project details by using software • Using software to plan IT project",
+                "1] Chapter 3",
+                "CLO1.2 CLO1.3 CLO1.4 CLO 2.1 CLO 2.2 CLO3.1 CLO3.2",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "6-7-8",
+                "Content": "Chapter 3. Planning IT Project • Planning IT project details • Planning IT project details by using software • Using software to plan IT project",
+                "Readings requirement": "1] Chapter 3",
+                "CLO": "CLO1.2 CLO1.3 CLO1.4 CLO 2.1 CLO 2.2 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "9-10",
+              "cells": [
+                "9-10",
+                "Chapter 4. Organizing and Executing IT Project • Organzing IT project • Excuteing IT project adapt to the selected framework • Using software to organize IT project",
+                "[1] Chapter 4",
+                "CLO1.2 CLO1.3 CLO1.4 CLO 2.2 CLO 2.3",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "9-10",
+                "Content": "Chapter 4. Organizing and Executing IT Project • Organzing IT project • Excuteing IT project adapt to the selected framework • Using software to organize IT project",
+                "Readings requirement": "[1] Chapter 4",
+                "CLO": "CLO1.2 CLO1.3 CLO1.4 CLO 2.2 CLO 2.3",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "9-10",
+              "cells": [
+                "9-10",
+                "Middle Exam (20%)",
+                "[1] Chapter 1,2,3,4",
+                "CLO3.1 CLO3.2 CLO3.3",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Week": "9-10",
+                "Content": "Middle Exam (20%)",
+                "Readings requirement": "[1] Chapter 1,2,3,4",
+                "CLO": "CLO3.1 CLO3.2 CLO3.3",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 5. Controlling IT project • Controlling the Schedule of IT Project • Controlling the quality of IT Project • Controlling communication of IT Project. • Controlling the risk of IT Project • Controlling IT Project by using software",
+                "[1] Chapter 5",
+                "CLO1.4 CLO 2.x CLO 3.x",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 5. Controlling IT project • Controlling the Schedule of IT Project • Controlling the quality of IT Project • Controlling communication of IT Project. • Controlling the risk of IT Project • Controlling IT Project by using software",
+                "Readings requirement": "[1] Chapter 5",
+                "CLO": "CLO1.4 CLO 2.x CLO 3.x",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 6. Closing and Evaluating IT Project • Closing IT Project • Evaluating IT Project",
+                "[1] Chapter 5",
+                "CLO1.4 CLO 2.x CLO 3.x",
+                "Lecturing Group discussion Individual testing",
+                "Participant Individual tests Group works"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 6. Closing and Evaluating IT Project • Closing IT Project • Evaluating IT Project",
+                "Readings requirement": "[1] Chapter 5",
+                "CLO": "CLO1.4 CLO 2.x CLO 3.x",
+                "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participant Individual tests Group works"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "14-15",
+              "cells": [
+                "14-15",
+                "Group Presentation",
+                "[1] Chapter 1-5",
+                "CLO1.x CLO3.x",
+                "Report and answer questions",
+                "Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation"
+              ],
+              "column_map": {
+                "Week": "14-15",
+                "Content": "Group Presentation",
+                "Readings requirement": "[1] Chapter 1-5",
+                "CLO": "CLO1.x CLO3.x",
+                "Teaching and Learning Activities": "Report and answer questions",
+                "Assessment tools and criteria": "Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "[1] Chapter 1-5",
+                "CLO1.x CLO2.x",
+                "Students take exams according to given schedule",
+                "Computer-based practical examination"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "[1] Chapter 1-5",
+                "CLO": "CLO1.x CLO2.x",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "Computer-based practical examination"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec008",
+      "title": "8. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec009",
+      "title": "8.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on a scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 64
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec010",
+      "title": "8.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proof must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 68
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1159#sec011",
+      "title": "8.3. Requirements for in-class behavior",
+      "level": 2,
+      "label": "requirements-for-in-class-behavior",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Laptops and tablets are only used to take notes for and calculate for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 72
+        },
+        {
+          "type": "table",
+          "order": 58,
+          "table_id": "en-ep17-cntt1159#tbl007",
+          "table_name": null,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 73,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-cntt1159#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Software Engineering",
+          "cells": [
+            "Bachelor of Software Engineering",
+            "Bachelor of Software Engineering"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "table_id": "en-ep17-cntt1159#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory",
+            "Elective (x)"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory",
+            "Fundamental (x)_2": "Elective (x)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 44,
+      "table_id": "en-ep17-cntt1159#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides professional knowledge about IT projects and IT project management. Includes: Project goal, phases, and areas of knowledge needed to manage and IT project management process (as project selection, planning, implementation, control, closing, and evaluation )",
+            "3-4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "The course provides professional knowledge about IT projects and IT project management. Includes: Project goal, phases, and areas of knowledge needed to manage and IT project management process (as project selection, planning, implementation, control, closing, and evaluation )",
+            "Proficiency scale": "3-4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "The course guides students to practice skills in managing IT projects such as: Defining goals, Selecting projects, Initiating projects, Developing WBS, Estimating time, and costs), Organizing project implementation teams, Controlling schedule, cost, quality, communication, and risk;",
+            "3U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "The course guides students to practice skills in managing IT projects such as: Defining goals, Selecting projects, Initiating projects, Developing WBS, Estimating time, and costs), Organizing project implementation teams, Controlling schedule, cost, quality, communication, and risk;",
+            "Proficiency scale": "3U"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics.",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics.",
+            "Proficiency scale": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 46,
+      "table_id": "en-ep17-cntt1159#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 54,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understand and distinguish basic concepts of IT projects",
+            "I"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understand and distinguish basic concepts of IT projects",
+            "Teaching level (I,T,U)": "I"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understand and utilize knowledge of IT project management in phases, project fields, etc…",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Understand and utilize knowledge of IT project management in phases, project fields, etc…",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Understand and differentiate the tasks of a project manager in planning, organizing, implementing, controlling projects,…",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Understand and differentiate the tasks of a project manager in planning, organizing, implementing, controlling projects,…",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Distinguish interdisciplinary knowledge in IT project management.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs Description": "Distinguish interdisciplinary knowledge in IT project management.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Having management skills to solve practical problems related to IT projects.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Having management skills to solve practical problems related to IT projects.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Having skills in writing documents related to an IT project such as business case, project charter, baseline project plans, progress reports, and evaluation report.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Having skills in writing documents related to an IT project such as business case, project charter, baseline project plans, progress reports, and evaluation report.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.3",
+            "Have skills in using software tools to support IT project management.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.3",
+            "CLOs Description": "Have skills in using software tools to support IT project management.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Having the ability to self-study and research relevant to complete assigned tasks.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Having the ability to self-study and research relevant to complete assigned tasks.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Understanding the responsibilities in task execution, and maintaining professional ethics in tasks related to IT project management.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Understanding the responsibilities in task execution, and maintaining professional ethics in tasks related to IT project management.",
+            "Teaching level (I,T,U)": "U"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 48,
+      "table_id": "en-ep17-cntt1159#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 57,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant: Learning attitude Answers questions Discussions",
+          "cells": [
+            "Participant: Learning attitude Answers questions Discussions",
+            "CLO1.x CLO2.x CLO3.x",
+            "10%",
+            "1-12"
+          ],
+          "column_map": {
+            "Assessments": "Participant: Learning attitude Answers questions Discussions",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "10%",
+            "Week": "1-12"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment"
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "Midterm assessment",
+            "Week": "Midterm assessment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+          "cells": [
+            "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+            "CLO1.x CLO2.x",
+            "40%",
+            "3,5,10"
+          ],
+          "column_map": {
+            "Assessments": "Individual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises)",
+            "CLOs": "CLO1.x CLO2.x",
+            "Weighting (%)": "40%",
+            "Week": "3,5,10"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Group project (20%): Group production Group presentation",
+          "cells": [
+            "Group project (20%): Group production Group presentation",
+            "CLO1.x CLO2.x CLO3.x",
+            "40%",
+            "13-14"
+          ],
+          "column_map": {
+            "Assessments": "Group project (20%): Group production Group presentation",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "40%",
+            "Week": "13-14"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "CLO1.x CLO2.x CLO3.x",
+            "50%",
+            "As scheduled"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "50%",
+            "Week": "As scheduled"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 50,
+      "table_id": "en-ep17-cntt1159#tbl006",
+      "table_name": "Table 7.1. Lesson plan for the course",
+      "section_path": [
+        "7. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 61,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Introduce • Course outlines",
+            "Course Syllabus",
+            "CLO1.1 CLO 2. x CLO 3. x",
+            "Introduction to course Introduction to learning materials Announce classroom rules.",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Introduce • Course outlines",
+            "Readings requirement": "Course Syllabus",
+            "CLO": "CLO1.1 CLO 2. x CLO 3. x",
+            "Teaching and Learning Activities": "Introduction to course Introduction to learning materials Announce classroom rules.",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2-3",
+          "cells": [
+            "2-3",
+            "Chapter 1. Overview of IT project management • Basic concepts of IT project management • An Information Technology Project Methodology • Phases and areas of IT Project Management • Project Manager • IT project management software",
+            "[1] Chapter 1",
+            "CLO1.x CLO1.2 CLO3.x",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "2-3",
+            "Content": "Chapter 1. Overview of IT project management • Basic concepts of IT project management • An Information Technology Project Methodology • Phases and areas of IT Project Management • Project Manager • IT project management software",
+            "Readings requirement": "[1] Chapter 1",
+            "CLO": "CLO1.x CLO1.2 CLO3.x",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4-5",
+          "cells": [
+            "4-5",
+            "Chapter 2. Conceptualizing and Initializing the IT Project • IT project goal • Measurable Organizational Value (MOV) • Selecting IT Project • Business Case • Project Charter",
+            "[1] Chapter 2",
+            "CLO1.x CLO 2.x CLO 3.x",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "4-5",
+            "Content": "Chapter 2. Conceptualizing and Initializing the IT Project • IT project goal • Measurable Organizational Value (MOV) • Selecting IT Project • Business Case • Project Charter",
+            "Readings requirement": "[1] Chapter 2",
+            "CLO": "CLO1.x CLO 2.x CLO 3.x",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "6-7-8",
+          "cells": [
+            "6-7-8",
+            "Chapter 3. Planning IT Project • Planning IT project details • Planning IT project details by using software • Using software to plan IT project",
+            "1] Chapter 3",
+            "CLO1.2 CLO1.3 CLO1.4 CLO 2.1 CLO 2.2 CLO3.1 CLO3.2",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "6-7-8",
+            "Content": "Chapter 3. Planning IT Project • Planning IT project details • Planning IT project details by using software • Using software to plan IT project",
+            "Readings requirement": "1] Chapter 3",
+            "CLO": "CLO1.2 CLO1.3 CLO1.4 CLO 2.1 CLO 2.2 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "9-10",
+          "cells": [
+            "9-10",
+            "Chapter 4. Organizing and Executing IT Project • Organzing IT project • Excuteing IT project adapt to the selected framework • Using software to organize IT project",
+            "[1] Chapter 4",
+            "CLO1.2 CLO1.3 CLO1.4 CLO 2.2 CLO 2.3",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "9-10",
+            "Content": "Chapter 4. Organizing and Executing IT Project • Organzing IT project • Excuteing IT project adapt to the selected framework • Using software to organize IT project",
+            "Readings requirement": "[1] Chapter 4",
+            "CLO": "CLO1.2 CLO1.3 CLO1.4 CLO 2.2 CLO 2.3",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "9-10",
+          "cells": [
+            "9-10",
+            "Middle Exam (20%)",
+            "[1] Chapter 1,2,3,4",
+            "CLO3.1 CLO3.2 CLO3.3",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Week": "9-10",
+            "Content": "Middle Exam (20%)",
+            "Readings requirement": "[1] Chapter 1,2,3,4",
+            "CLO": "CLO3.1 CLO3.2 CLO3.3",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 5. Controlling IT project • Controlling the Schedule of IT Project • Controlling the quality of IT Project • Controlling communication of IT Project. • Controlling the risk of IT Project • Controlling IT Project by using software",
+            "[1] Chapter 5",
+            "CLO1.4 CLO 2.x CLO 3.x",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 5. Controlling IT project • Controlling the Schedule of IT Project • Controlling the quality of IT Project • Controlling communication of IT Project. • Controlling the risk of IT Project • Controlling IT Project by using software",
+            "Readings requirement": "[1] Chapter 5",
+            "CLO": "CLO1.4 CLO 2.x CLO 3.x",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 6. Closing and Evaluating IT Project • Closing IT Project • Evaluating IT Project",
+            "[1] Chapter 5",
+            "CLO1.4 CLO 2.x CLO 3.x",
+            "Lecturing Group discussion Individual testing",
+            "Participant Individual tests Group works"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 6. Closing and Evaluating IT Project • Closing IT Project • Evaluating IT Project",
+            "Readings requirement": "[1] Chapter 5",
+            "CLO": "CLO1.4 CLO 2.x CLO 3.x",
+            "Teaching and Learning Activities": "Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participant Individual tests Group works"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "14-15",
+          "cells": [
+            "14-15",
+            "Group Presentation",
+            "[1] Chapter 1-5",
+            "CLO1.x CLO3.x",
+            "Report and answer questions",
+            "Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation"
+          ],
+          "column_map": {
+            "Week": "14-15",
+            "Content": "Group Presentation",
+            "Readings requirement": "[1] Chapter 1-5",
+            "CLO": "CLO1.x CLO3.x",
+            "Teaching and Learning Activities": "Report and answer questions",
+            "Assessment tools and criteria": "Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "[1] Chapter 1-5",
+            "CLO1.x CLO2.x",
+            "Students take exams according to given schedule",
+            "Computer-based practical examination"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "[1] Chapter 1-5",
+            "CLO": "CLO1.x CLO2.x",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "Computer-based practical examination"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 58,
+      "table_id": "en-ep17-cntt1159#tbl007",
+      "table_name": null,
+      "section_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "source_block": 73,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Information Technology Project Management\n* Code: CNTT1159\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises on class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs\n* Parallel course(s):\n* Prerequisite course(s): CNTT1116\n* Department conducting the course:\n+ Faculty: Information Technology; Room 13.10, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. PhD. Lê Thị Hoài Thu Tel: 0912727529 Email: thulh@neu.edu.vn\n2. MSc. Trần Thị Mỹ Diệp…Tel: 0904335056 Email: diepttm@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Meeting hours: 8 AM – 11 AM on Wednesdays, Room 13.10, Building A1, National Economics University\nThe course aims to provide students with basic knowledge of IT projects, focusing on project management and IT project management. Students will be instructed to learn and practice management skills. Include sections: project goal; project initialization; processes and areas of knowledge needed to successfully manage information technology (IT) projects. The main functions of management are mentioned in this course such as planning, organizing, leading, controlling, closing, and evaluating IT projects. Tools within software and templates that support IT project management will be introduced in this course to provide effective approaches to managing IT projects.\nCourse content includes:\nOverview of IT project management\nConceptualizing and Initializing the IT Project\nBusiness Case &Project Charter\nPlanning and Estimate IT Project\nWork Break Structure\nTime, cost estimate\nOrganizing and Executing IT Project\nDevelopment Team project\nControlling the progress of IT Project\nControlling the quality of IT Project\nControlling communication of IT Project\nControlling the risk of IT Project\nClosing and evaluating IT Project\nThe course also aims to train thinking skills, the ability to self-study knowledge, and the use of apps to support management projects by working independently as well as in groups. Students will be divided into groups to learn deeply about projects, from which they can show their skills in phases to manage a particular IT project.\n* Textbooks/Lecture Notes:\nLe Thi Hoai Thu & et.al (2024) Information Technology Project Management, Nhà xuất bản Đại học Kinh tế quốc dân.\nKathy Schwalbe (2018) Information Technology Project Management, 9th, Cengage Learning Inc.\n* Additional references:\nManagement Institute (PMI), 2020, A Guide to the Project Management Body of Knowledge (PMBOK Guide).\nJack T Marchewka, (2003), Information Technology Project Management: provide Measurable Organizational Value, John Wiley & Sons\nPham Ngoc Hung, Tran Hoang Viet (2022), Giao trình Quan ly du an phan mem, NXB Đại học quốc gia\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\nTable 7.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on a scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proof must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used to take notes for and calculate for lectures and exercises, absolutely forbidden to use for other purposes."
+}

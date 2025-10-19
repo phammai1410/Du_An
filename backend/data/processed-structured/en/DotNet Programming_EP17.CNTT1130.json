@@ -1,0 +1,2332 @@
+{
+  "doc_id": "en-ep17-cntt1130",
+  "language": "en",
+  "course_name_stem": "DotNet Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1130",
+  "source_filename": "DotNet Programming_EP17.CNTT1130.docx",
+  "source_relpath": "data\\raw\\en\\DotNet Programming_EP17.CNTT1130.docx",
+  "source_hash": "bf9e5a2756636950a7a66ea3d404c5fd",
+  "source_modified": "2025-10-11T10:42:50.591753+00:00",
+  "processed_at": "2025-10-17T16:55:26.292497+00:00",
+  "stats": {
+    "paragraphs": 39,
+    "tables": 11,
+    "sections": 13
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-cntt1130#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Net Programming",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Code: CNTT1130",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: 3 (45 hours)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 30 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Exercises on class: 20 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Presentation and Discussion: 20 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "+ Self-study: 50 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Parallel course(s):",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Prerequisite course(s): CNTT1128, CNTT1131",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "MSc. Tống Thị Minh Ngọc, Tel: 0913002241, Email: ngoctm@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "MSc. Phạm Thảo , Tel: 0966986689. Email: thaop@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "en-ep17-cntt1130#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory □",
+                "Elective (x)"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory □",
+                "Fundamental (x)_2": "Elective (x)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Meeting hour:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "The module helps students understand and fluently use the .Net Programming language. Know programming techniques with ADO.Net. Students practice submission exercises on the Window Form platform and work with databases, applying problems in Economic and Technical management. Students know how to use the basic structures of programming languages, work with databases and reports. Ability to program management problems in economics and learn technology as well as any programming language that interacts with databases.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "The module also aims to train thinking skills and the ability to self-learn knowledge about .Net Programming methods by working independently as well as in groups. Learners have the skills to build a practical, applicable application with an appropriate database.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 24
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec004",
+      "title": "Required textbooks:",
+      "level": 2,
+      "label": "required-textbooks",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "Required textbooks:"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "required-textbooks"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "(1) Hương Lan (2005) Kỹ thuật lập trình ứng dụng C#.Net, NXB Lao Động Xã Hội.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Required textbooks:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "required-textbooks"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "(2) Phạm Hữu Khang, Phương Lan, Hoàng Đức Hải (2005). Kỹ thuật lập trình ứng dụng Visual Basic.Net, Nhà xuất bản Lao động – Xã hội",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Required textbooks:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "required-textbooks"
+          ],
+          "source_block": 28
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec005",
+      "title": "Other references",
+      "level": 2,
+      "label": "other-references",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "Other references"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "other-references"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "(1) Phạm Đức Lập, Hướng dẫn lập trình Visual Basic.Net (file điện tử)",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Other references"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "other-references"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "(2). David McAmis (2004) Professional Crystal Reports® for Visual Studio®.NET",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Other references"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "other-references"
+          ],
+          "source_block": 31
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec006",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-ep17-cntt1130#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 34,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The module provides learners with knowledge on how to approach Dot Net programming and application programming on Windows. Develop application programs in management and economic problems.",
+                "PLO 1",
+                "2"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "The module provides learners with knowledge on how to approach Dot Net programming and application programming on Windows. Develop application programs in management and economic problems.",
+                "PLOs": "PLO 1",
+                "Proficiency scale": "2"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Studying programming skills and thinking, practical analysis skills, and database design. Build basic functions to update information, search, and report statistical data of the problem according to business requirements.",
+                "PLO 2",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Studying programming skills and thinking, practical analysis skills, and database design. Build basic functions to update information, search, and report statistical data of the problem according to business requirements.",
+                "PLOs": "PLO 2",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to developing the ability to work independently and in groups, understanding work responsibilities and professional ethics.",
+                "PLO 3",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "The course contributes to developing the ability to work independently and in groups, understanding work responsibilities and professional ethics.",
+                "PLOs": "PLO 3",
+                "Proficiency scale": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec007",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-ep17-cntt1130#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 38,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understand Dot Net programming method, learn structures, keywords, operators. Distinguish the characteristics of controls in programming.",
+                "I"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understand Dot Net programming method, learn structures, keywords, operators. Distinguish the characteristics of controls in programming.",
+                "Teaching level (I,T,U)": "I"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Apply extended controls related to database types.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Apply extended controls related to database types.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Apply Dot Net programming thinking to apply specific problems.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Apply Dot Net programming thinking to apply specific problems.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Have skills in analyzing, designing and building functions applicable to each specific type of article.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Have skills in analyzing, designing and building functions applicable to each specific type of article.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Have programming skills and thinking to solve application problems with a database management system that meets the requirements.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Have programming skills and thinking to solve application problems with a database management system that meets the requirements.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Able to self-study and research materials to complete assigned lessons and exercises.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Able to self-study and research materials to complete assigned lessons and exercises.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Have a sense of classroom discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for activities assigned by the instructor.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Have a sense of classroom discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for activities assigned by the instructor.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Ability to self-study, understand documents on your own or combine into study groups.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Ability to self-study, understand documents on your own or combine into study groups.",
+                "Teaching level (I,T,U)": "U"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec008",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-ep17-cntt1130#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 41,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant: Learning attitude Answers questions Discussions",
+              "cells": [
+                "Participant: Learning attitude Answers questions Discussions",
+                "CLO1.x CLO2.x CLO3.x",
+                "10%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Participant: Learning attitude Answers questions Discussions",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "10%",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment"
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "Midterm assessment",
+                "Week": "Midterm assessment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+              "cells": [
+                "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+                "CLO1.x CLO2.x CLO3.x",
+                "40%",
+                "8"
+              ],
+              "column_map": {
+                "Assessments": "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "40%",
+                "Week": "8"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+              "cells": [
+                "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+                "CLO1.x CLO2.x CLO3.x",
+                "40%",
+                "14"
+              ],
+              "column_map": {
+                "Assessments": "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "40%",
+                "Week": "14"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "CLO1.x CLO2.x CLO3.x",
+                "50%",
+                "As scheduled"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "50%",
+                "Week": "As scheduled"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "* Rubrics:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Rubric 1: Participant",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 33,
+          "table_id": "en-ep17-cntt1130#tbl006",
+          "table_name": "Rubric 1: Participant",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence",
+            "Good",
+            "Fair",
+            "Poor"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "10",
+                "8.5 – 10 points",
+                "6.5 – 8.4 points",
+                "4.0 – 6.4 points",
+                "0 – 3.9 points"
+              ],
+              "column_map": {
+                "Areas of assessment": "Participant",
+                "Weighting (%)": "10",
+                "Excellence": "8.5 – 10 points",
+                "Good": "6.5 – 8.4 points",
+                "Fair": "4.0 – 6.4 points",
+                "Poor": "0 – 3.9 points"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Rubric 2: Individual tests",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "table",
+          "order": 35,
+          "table_id": "en-ep17-cntt1130#tbl007",
+          "table_name": "Rubric 2: Individual tests",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 46,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence",
+            "Good",
+            "Fair",
+            "Poor"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Individual tests",
+              "cells": [
+                "Individual tests",
+                "20",
+                "8.5 – 10 points",
+                "6.5 – 8.4 points",
+                "4.0 – 6.4 points",
+                "0 – 3.9 points"
+              ],
+              "column_map": {
+                "Areas of assessment": "Individual tests",
+                "Weighting (%)": "20",
+                "Excellence": "8.5 – 10 points",
+                "Good": "6.5 – 8.4 points",
+                "Fair": "4.0 – 6.4 points",
+                "Poor": "0 – 3.9 points"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Rubric 3: Group works",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "en-ep17-cntt1130#tbl008",
+          "table_name": "Rubric 3: Group works",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 48,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence",
+            "Good",
+            "Fair",
+            "Poor"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Group works",
+              "cells": [
+                "Group works",
+                "20",
+                "8.5 – 10 points",
+                "6.5 – 8.4 points",
+                "4.0 – 6.4 points",
+                "0 – 3.9 points"
+              ],
+              "column_map": {
+                "Areas of assessment": "Group works",
+                "Weighting (%)": "20",
+                "Excellence": "8.5 – 10 points",
+                "Good": "6.5 – 8.4 points",
+                "Fair": "4.0 – 6.4 points",
+                "Poor": "0 – 3.9 points"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Rubric 4: Final exam",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "en-ep17-cntt1130#tbl009",
+          "table_name": "Rubric 4: Final exam",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 50,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence",
+            "Good",
+            "Fair",
+            "Poor"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "50",
+                "8.5 – 10 points",
+                "6.5 – 8.4 points",
+                "4.0 – 6.4 points",
+                "0 – 3.9 points"
+              ],
+              "column_map": {
+                "Areas of assessment": "Final exam",
+                "Weighting (%)": "50",
+                "Excellence": "8.5 – 10 points",
+                "Good": "6.5 – 8.4 points",
+                "Fair": "4.0 – 6.4 points",
+                "Poor": "0 – 3.9 points"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec009",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 41,
+          "table_id": "en-ep17-cntt1130#tbl010",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 54,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLOs",
+            "Teaching-learning activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLOs": "[4]",
+                "Teaching-learning activities": "[5]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1-2",
+              "cells": [
+                "1-2",
+                "Chapter 1. Introduction 1.1 Introduction to the Visual Basic.Net environment 1.2 Components (internal controls) in Visual Basic.Net 1.3 Working with Project",
+                "Read textbook: Chapter 1,2 from [1] and additional references",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Pre-Reading text Homework Lecturing Individual testing Computer Lab",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "1-2",
+                "Content": "Chapter 1. Introduction 1.1 Introduction to the Visual Basic.Net environment 1.2 Components (internal controls) in Visual Basic.Net 1.3 Working with Project",
+                "Readings requirement": "Read textbook: Chapter 1,2 from [1] and additional references",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Teaching-learning activities": "Pre-Reading text Homework Lecturing Individual testing Computer Lab",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3-6",
+              "cells": [
+                "3-6",
+                "Chapter 2. Working with Programming Language Visual Basic.Net 2.1 Working with Class 2.2 Working with procedures 2.3 Error handling. 2.4 File processing.",
+                "Read textbook: Chapter 2,3,4, from [2] and additional references",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "3-6",
+                "Content": "Chapter 2. Working with Programming Language Visual Basic.Net 2.1 Working with Class 2.2 Working with procedures 2.3 Error handling. 2.4 File processing.",
+                "Readings requirement": "Read textbook: Chapter 2,3,4, from [2] and additional references",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "7-11",
+              "cells": [
+                "7-11",
+                "Chapter 3. Working with Conversation box and advanced controls 3.1 Menu constructions 3.2 Dialog Box 3.3 Additional, advanced controls",
+                "Read textbook: Chapter 7,8, 9,",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "7-11",
+                "Content": "Chapter 3. Working with Conversation box and advanced controls 3.1 Menu constructions 3.2 Dialog Box 3.3 Additional, advanced controls",
+                "Readings requirement": "Read textbook: Chapter 7,8, 9,",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "12-13",
+              "cells": [
+                "12-13",
+                "Chapter4: Working connect to the database 4.1 Objects working with databases 4.2 Connect to the database management system 4.3 Working with Reports",
+                "Read textbook: Chapter 9, 12, 14, from [1] and additional references",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "12-13",
+                "Content": "Chapter4: Working connect to the database 4.1 Objects working with databases 4.2 Connect to the database management system 4.3 Working with Reports",
+                "Readings requirement": "Read textbook: Chapter 9, 12, 14, from [1] and additional references",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group works",
+                "Read textbook: Chapter 1-14, from [1] and additional references",
+                "CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Group works Programming on the computers",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group works",
+                "Readings requirement": "Read textbook: Chapter 1-14, from [1] and additional references",
+                "CLOs": "CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Teaching-learning activities": "Group works Programming on the computers",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2",
+                "Pre-Reading text Lecturing Group discussion Programming on the computers",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course review",
+                "Readings requirement": "Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Lecturing Group discussion Programming on the computers",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Students take exams according to given schedule Programming on the computers",
+                "Rubric 4"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Teaching-learning activities": "Students take exams according to given schedule Programming on the computers",
+                "Assessment": "Rubric 4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec010",
+      "title": "8. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec011",
+      "title": "8.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 58
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec012",
+      "title": "8.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 62
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1130#sec013",
+      "title": "8.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "table",
+          "order": 49,
+          "table_id": "en-ep17-cntt1130#tbl011",
+          "table_name": null,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 67,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-cntt1130#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Software Engineering (SE)",
+          "cells": [
+            "Bachelor of Software Engineering (SE)",
+            "Bachelor of Software Engineering (SE)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "en-ep17-cntt1130#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 19,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory □",
+            "Elective (x)"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory □",
+            "Fundamental (x)_2": "Elective (x)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-ep17-cntt1130#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 34,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The module provides learners with knowledge on how to approach Dot Net programming and application programming on Windows. Develop application programs in management and economic problems.",
+            "PLO 1",
+            "2"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "The module provides learners with knowledge on how to approach Dot Net programming and application programming on Windows. Develop application programs in management and economic problems.",
+            "PLOs": "PLO 1",
+            "Proficiency scale": "2"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Studying programming skills and thinking, practical analysis skills, and database design. Build basic functions to update information, search, and report statistical data of the problem according to business requirements.",
+            "PLO 2",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Studying programming skills and thinking, practical analysis skills, and database design. Build basic functions to update information, search, and report statistical data of the problem according to business requirements.",
+            "PLOs": "PLO 2",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to developing the ability to work independently and in groups, understanding work responsibilities and professional ethics.",
+            "PLO 3",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "The course contributes to developing the ability to work independently and in groups, understanding work responsibilities and professional ethics.",
+            "PLOs": "PLO 3",
+            "Proficiency scale": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-ep17-cntt1130#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 38,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understand Dot Net programming method, learn structures, keywords, operators. Distinguish the characteristics of controls in programming.",
+            "I"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understand Dot Net programming method, learn structures, keywords, operators. Distinguish the characteristics of controls in programming.",
+            "Teaching level (I,T,U)": "I"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Apply extended controls related to database types.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Apply extended controls related to database types.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Apply Dot Net programming thinking to apply specific problems.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Apply Dot Net programming thinking to apply specific problems.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Have skills in analyzing, designing and building functions applicable to each specific type of article.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Have skills in analyzing, designing and building functions applicable to each specific type of article.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Have programming skills and thinking to solve application problems with a database management system that meets the requirements.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Have programming skills and thinking to solve application problems with a database management system that meets the requirements.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Able to self-study and research materials to complete assigned lessons and exercises.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Able to self-study and research materials to complete assigned lessons and exercises.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Have a sense of classroom discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for activities assigned by the instructor.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Have a sense of classroom discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for activities assigned by the instructor.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Ability to self-study, understand documents on your own or combine into study groups.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Ability to self-study, understand documents on your own or combine into study groups.",
+            "Teaching level (I,T,U)": "U"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-ep17-cntt1130#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 41,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant: Learning attitude Answers questions Discussions",
+          "cells": [
+            "Participant: Learning attitude Answers questions Discussions",
+            "CLO1.x CLO2.x CLO3.x",
+            "10%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Participant: Learning attitude Answers questions Discussions",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "10%",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment"
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "Midterm assessment",
+            "Week": "Midterm assessment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+          "cells": [
+            "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+            "CLO1.x CLO2.x CLO3.x",
+            "40%",
+            "8"
+          ],
+          "column_map": {
+            "Assessments": "Individual test 1: Quiz (20 Questions) Practical Exercise (3 Exercises)",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "40%",
+            "Week": "8"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+          "cells": [
+            "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+            "CLO1.x CLO2.x CLO3.x",
+            "40%",
+            "14"
+          ],
+          "column_map": {
+            "Assessments": "Individual test 2: Quiz (10 Questions) Practical Exercise (3 Exercises) Group works",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "40%",
+            "Week": "14"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "CLO1.x CLO2.x CLO3.x",
+            "50%",
+            "As scheduled"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "50%",
+            "Week": "As scheduled"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 33,
+      "table_id": "en-ep17-cntt1130#tbl006",
+      "table_name": "Rubric 1: Participant",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "10",
+            "8.5 – 10 points",
+            "6.5 – 8.4 points",
+            "4.0 – 6.4 points",
+            "0 – 3.9 points"
+          ],
+          "column_map": {
+            "Areas of assessment": "Participant",
+            "Weighting (%)": "10",
+            "Excellence": "8.5 – 10 points",
+            "Good": "6.5 – 8.4 points",
+            "Fair": "4.0 – 6.4 points",
+            "Poor": "0 – 3.9 points"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 35,
+      "table_id": "en-ep17-cntt1130#tbl007",
+      "table_name": "Rubric 2: Individual tests",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 46,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Individual tests",
+          "cells": [
+            "Individual tests",
+            "20",
+            "8.5 – 10 points",
+            "6.5 – 8.4 points",
+            "4.0 – 6.4 points",
+            "0 – 3.9 points"
+          ],
+          "column_map": {
+            "Areas of assessment": "Individual tests",
+            "Weighting (%)": "20",
+            "Excellence": "8.5 – 10 points",
+            "Good": "6.5 – 8.4 points",
+            "Fair": "4.0 – 6.4 points",
+            "Poor": "0 – 3.9 points"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "en-ep17-cntt1130#tbl008",
+      "table_name": "Rubric 3: Group works",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 48,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Group works",
+          "cells": [
+            "Group works",
+            "20",
+            "8.5 – 10 points",
+            "6.5 – 8.4 points",
+            "4.0 – 6.4 points",
+            "0 – 3.9 points"
+          ],
+          "column_map": {
+            "Areas of assessment": "Group works",
+            "Weighting (%)": "20",
+            "Excellence": "8.5 – 10 points",
+            "Good": "6.5 – 8.4 points",
+            "Fair": "4.0 – 6.4 points",
+            "Poor": "0 – 3.9 points"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "en-ep17-cntt1130#tbl009",
+      "table_name": "Rubric 4: Final exam",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 50,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence",
+        "Good",
+        "Fair",
+        "Poor"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "50",
+            "8.5 – 10 points",
+            "6.5 – 8.4 points",
+            "4.0 – 6.4 points",
+            "0 – 3.9 points"
+          ],
+          "column_map": {
+            "Areas of assessment": "Final exam",
+            "Weighting (%)": "50",
+            "Excellence": "8.5 – 10 points",
+            "Good": "6.5 – 8.4 points",
+            "Fair": "4.0 – 6.4 points",
+            "Poor": "0 – 3.9 points"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 41,
+      "table_id": "en-ep17-cntt1130#tbl010",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 54,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLOs",
+        "Teaching-learning activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLOs": "[4]",
+            "Teaching-learning activities": "[5]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1-2",
+          "cells": [
+            "1-2",
+            "Chapter 1. Introduction 1.1 Introduction to the Visual Basic.Net environment 1.2 Components (internal controls) in Visual Basic.Net 1.3 Working with Project",
+            "Read textbook: Chapter 1,2 from [1] and additional references",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Pre-Reading text Homework Lecturing Individual testing Computer Lab",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "1-2",
+            "Content": "Chapter 1. Introduction 1.1 Introduction to the Visual Basic.Net environment 1.2 Components (internal controls) in Visual Basic.Net 1.3 Working with Project",
+            "Readings requirement": "Read textbook: Chapter 1,2 from [1] and additional references",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Teaching-learning activities": "Pre-Reading text Homework Lecturing Individual testing Computer Lab",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3-6",
+          "cells": [
+            "3-6",
+            "Chapter 2. Working with Programming Language Visual Basic.Net 2.1 Working with Class 2.2 Working with procedures 2.3 Error handling. 2.4 File processing.",
+            "Read textbook: Chapter 2,3,4, from [2] and additional references",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "3-6",
+            "Content": "Chapter 2. Working with Programming Language Visual Basic.Net 2.1 Working with Class 2.2 Working with procedures 2.3 Error handling. 2.4 File processing.",
+            "Readings requirement": "Read textbook: Chapter 2,3,4, from [2] and additional references",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "7-11",
+          "cells": [
+            "7-11",
+            "Chapter 3. Working with Conversation box and advanced controls 3.1 Menu constructions 3.2 Dialog Box 3.3 Additional, advanced controls",
+            "Read textbook: Chapter 7,8, 9,",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "7-11",
+            "Content": "Chapter 3. Working with Conversation box and advanced controls 3.1 Menu constructions 3.2 Dialog Box 3.3 Additional, advanced controls",
+            "Readings requirement": "Read textbook: Chapter 7,8, 9,",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "12-13",
+          "cells": [
+            "12-13",
+            "Chapter4: Working connect to the database 4.1 Objects working with databases 4.2 Connect to the database management system 4.3 Working with Reports",
+            "Read textbook: Chapter 9, 12, 14, from [1] and additional references",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "12-13",
+            "Content": "Chapter4: Working connect to the database 4.1 Objects working with databases 4.2 Connect to the database management system 4.3 Working with Reports",
+            "Readings requirement": "Read textbook: Chapter 9, 12, 14, from [1] and additional references",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Teaching-learning activities": "Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group works",
+            "Read textbook: Chapter 1-14, from [1] and additional references",
+            "CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Group works Programming on the computers",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group works",
+            "Readings requirement": "Read textbook: Chapter 1-14, from [1] and additional references",
+            "CLOs": "CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Teaching-learning activities": "Group works Programming on the computers",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2",
+            "Pre-Reading text Lecturing Group discussion Programming on the computers",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course review",
+            "Readings requirement": "Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Lecturing Group discussion Programming on the computers",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Students take exams according to given schedule Programming on the computers",
+            "Rubric 4"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Teaching-learning activities": "Students take exams according to given schedule Programming on the computers",
+            "Assessment": "Rubric 4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 49,
+      "table_id": "en-ep17-cntt1130#tbl011",
+      "table_name": null,
+      "section_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 67,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Net Programming\n* Code: CNTT1130\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities:\n+ Lecture: 30 hrs\n+ Exercises on class: 20 hrs\n+ Presentation and Discussion: 20 hrs\n+ Self-study: 50 hrs\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128, CNTT1131\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\nMSc. Tống Thị Minh Ngọc, Tel: 0913002241, Email: ngoctm@neu.edu.vn\nMSc. Phạm Thảo , Tel: 0966986689. Email: thaop@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Meeting hour:\nThe module helps students understand and fluently use the .Net Programming language. Know programming techniques with ADO.Net. Students practice submission exercises on the Window Form platform and work with databases, applying problems in Economic and Technical management. Students know how to use the basic structures of programming languages, work with databases and reports. Ability to program management problems in economics and learn technology as well as any programming language that interacts with databases.\nThe module also aims to train thinking skills and the ability to self-learn knowledge about .Net Programming methods by working independently as well as in groups. Learners have the skills to build a practical, applicable application with an appropriate database.\n(1) Hương Lan (2005) Kỹ thuật lập trình ứng dụng C#.Net, NXB Lao Động Xã Hội.\n(2) Phạm Hữu Khang, Phương Lan, Hoàng Đức Hải (2005). Kỹ thuật lập trình ứng dụng Visual Basic.Net, Nhà xuất bản Lao động – Xã hội\n(1) Phạm Đức Lập, Hướng dẫn lập trình Visual Basic.Net (file điện tử)\n(2). David McAmis (2004) Professional Crystal Reports® for Visual Studio®.NET\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\n* Rubrics:\nRubric 1: Participant\nRubric 2: Individual tests\nRubric 3: Group works\nRubric 4: Final exam\nTable 7. Course outline\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

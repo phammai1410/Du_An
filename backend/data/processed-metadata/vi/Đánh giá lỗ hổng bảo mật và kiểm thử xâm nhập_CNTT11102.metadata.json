@@ -1,0 +1,352 @@
+{
+  "doc_id": "vi-cntt11102",
+  "language": "vi",
+  "course_code": "CNTT11102",
+  "course_name_vi": "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+  "course_name_en": null,
+  "credit": null,
+  "hours_in_class": null,
+  "hours_self": null,
+  "prerequisites": [],
+  "decision_no": "Quyết định số 628/Q",
+  "source_path": "data\\raw\\vi\\Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
+  "tables": [
+    {
+      "table_id": "vi-cntt11102#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Việt):"
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Tên học phần (tiếng Anh)"
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Mã số học phần"
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Thuộc khối kiến thức"
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Số tín chỉ"
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số tiết lý thuyết"
+        },
+        {
+          "row_index": 6,
+          "row_label": "+ Số tiết thảo luận/thực hành + Số tiết tự học"
+        },
+        {
+          "row_index": 7,
+          "row_label": "- Các học phần tiên quyết:"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl003",
+      "table_name": "Giảng viên:",
+      "section_path": [
+        "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+      ],
+      "column_labels": [
+        "TS. Lưu Minh Tuấn",
+        "0904143460",
+        "tuanlm@neu.edu.vn"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "ThS. Phạm Thảo"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl004",
+      "table_name": "Bảng 5.1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "column_labels": [
+        "TT",
+        "Mô tả mục tiêu học phần",
+        "CĐR (PLO) của CTĐT",
+        "Mức độ"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "PO1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "PO2"
+        },
+        {
+          "row_index": 3,
+          "row_label": "PO3"
+        },
+        {
+          "row_index": 4,
+          "row_label": "PO4"
+        },
+        {
+          "row_index": 5,
+          "row_label": "PO5"
+        },
+        {
+          "row_index": 6,
+          "row_label": "PO6"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl005",
+      "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "column_labels": [
+        "Mục tiêu",
+        "CLOs",
+        "Mô tả CLOs*",
+        "Mức độ đạt được**"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "PO1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "PO1"
+        },
+        {
+          "row_index": 3,
+          "row_label": "PO1"
+        },
+        {
+          "row_index": 4,
+          "row_label": "PO1"
+        },
+        {
+          "row_index": 5,
+          "row_label": "PO2"
+        },
+        {
+          "row_index": 6,
+          "row_label": "PO2"
+        },
+        {
+          "row_index": 7,
+          "row_label": "PO2"
+        },
+        {
+          "row_index": 8,
+          "row_label": "PO2"
+        },
+        {
+          "row_index": 9,
+          "row_label": "PO3"
+        },
+        {
+          "row_index": 10,
+          "row_label": "PO3"
+        },
+        {
+          "row_index": 11,
+          "row_label": "PO3"
+        },
+        {
+          "row_index": 12,
+          "row_label": "PO4"
+        },
+        {
+          "row_index": 13,
+          "row_label": "PO4"
+        },
+        {
+          "row_index": 14,
+          "row_label": "PO5"
+        },
+        {
+          "row_index": 15,
+          "row_label": "PO5"
+        },
+        {
+          "row_index": 16,
+          "row_label": "PO6"
+        },
+        {
+          "row_index": 17,
+          "row_label": "PO6"
+        },
+        {
+          "row_index": 18,
+          "row_label": "PO6"
+        },
+        {
+          "row_index": 19,
+          "row_label": "PO6"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl006",
+      "table_name": "Bảng 7.1. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/ \nBài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí \nđánh giá*",
+        "Tỷ lệ (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần"
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình"
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình"
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl007",
+      "table_name": "Bảng 8.1. Kế hoạch giảng dạy",
+      "section_path": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "section_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "column_labels": [
+        "Tuần",
+        "Nội dung giảng dạy*",
+        "Tài liệu đọc**",
+        "CLOs",
+        "Hoạt động dạy và học***",
+        "Công cụ đánh giá****"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "1-3"
+        },
+        {
+          "row_index": 2,
+          "row_label": "4-6"
+        },
+        {
+          "row_index": 3,
+          "row_label": "7-9"
+        },
+        {
+          "row_index": 4,
+          "row_label": "7-9"
+        },
+        {
+          "row_index": 5,
+          "row_label": "10-13"
+        },
+        {
+          "row_index": 6,
+          "row_label": "14-15"
+        },
+        {
+          "row_index": 7,
+          "row_label": "Bài thi cuối kỳ"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt11102#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "section_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. PHẠM XUÂN LÂM"
+        }
+      ]
+    }
+  ]
+}

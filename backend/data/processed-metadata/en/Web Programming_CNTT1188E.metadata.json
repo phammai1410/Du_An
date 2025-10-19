@@ -1,0 +1,278 @@
+{
+  "doc_id": "en-cntt1188e",
+  "language": "en",
+  "course_code": "CNTT1188E",
+  "course_name_vi": "Web Programming",
+  "course_name_en": null,
+  "credit": null,
+  "hours_in_class": null,
+  "hours_self": null,
+  "prerequisites": [],
+  "decision_no": null,
+  "source_path": "data\\raw\\en\\Web Programming_CNTT1188E.docx",
+  "tables": [
+    {
+      "table_id": "en-cntt1188e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "section_labels": [
+        "general-information"
+      ],
+      "column_labels": [
+        "- Title",
+        "Web Programming"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Course Number"
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Number of credits"
+        },
+        {
+          "row_index": 2,
+          "row_label": "+ Theoretical hours"
+        },
+        {
+          "row_index": 3,
+          "row_label": "+ Discussion and group work period"
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Course Prerequisites:"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl003",
+      "table_name": "Table 5.1. Course Learning Outcomes",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "column_labels": [
+        "No",
+        "Goal Description",
+        "Capability",
+        "Capability Level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl004",
+      "table_name": "Table 6.1. Course learning outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "column_labels": [
+        "Goal",
+        "CLOs",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3"
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3"
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl005",
+      "table_name": null,
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "column_labels": [
+        "Type of Assessment",
+        "Content",
+        "Week",
+        "CLOs",
+        "Assessment criteria",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation"
+        },
+        {
+          "row_index": 2,
+          "row_label": "Mid term"
+        },
+        {
+          "row_index": 3,
+          "row_label": "Mid term"
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final Exam"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl006",
+      "table_name": "Table 8.1. Lesson Plan",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "column_labels": [
+        "Session/Week",
+        "Content",
+        "Reading",
+        "CLOs",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "2"
+        },
+        {
+          "row_index": 3,
+          "row_label": "3-4"
+        },
+        {
+          "row_index": 4,
+          "row_label": "5"
+        },
+        {
+          "row_index": 5,
+          "row_label": "6-7"
+        },
+        {
+          "row_index": 6,
+          "row_label": "8-9"
+        },
+        {
+          "row_index": 7,
+          "row_label": "10-11"
+        },
+        {
+          "row_index": 8,
+          "row_label": "12"
+        },
+        {
+          "row_index": 9,
+          "row_label": "13-15"
+        },
+        {
+          "row_index": 10,
+          "row_label": "-"
+        }
+      ]
+    },
+    {
+      "table_id": "en-cntt1188e#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "column_labels": [
+        "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+        "DEPARTMENT",
+        "LECTURER"
+      ],
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,1653 @@
+{
+  "doc_id": "en-cntt1181e",
+  "language": "en",
+  "course_name_stem": "Knowledge Discovery and Data mining",
+  "course_variant": "",
+  "course_code": "CNTT1181E",
+  "source_filename": "Knowledge Discovery and Data mining_CNTT1181E.docx",
+  "source_relpath": "data\\raw\\en\\Knowledge Discovery and Data mining_CNTT1181E.docx",
+  "source_hash": "857c2e449934793a7c4b3fabca8bdab0",
+  "source_modified": "2025-10-11T10:42:50.599426+00:00",
+  "processed_at": "2025-10-17T16:55:26.822480+00:00",
+  "stats": {
+    "paragraphs": 20,
+    "tables": 7,
+    "sections": 14
+  },
+  "sections": [
+    {
+      "section_id": "en-cntt1181e#sec001",
+      "title": "1. GENERAL INFORMATION",
+      "level": 1,
+      "label": "general-information",
+      "path_titles": [
+        "1. GENERAL INFORMATION"
+      ],
+      "path_labels": [
+        "general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "en-cntt1181e#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 4,
+          "column_labels": [
+            "- Title",
+            "Knowledge Discovery and Data Mining"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Course Number",
+              "cells": [
+                "- Course Number",
+                "CNTT1181E"
+              ],
+              "column_map": {
+                "- Title": "- Course Number",
+                "Knowledge Discovery and Data Mining": "CNTT1181E"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Credit",
+              "cells": [
+                "- Credit",
+                "3"
+              ],
+              "column_map": {
+                "- Title": "- Credit",
+                "Knowledge Discovery and Data Mining": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Course Prerequisites:",
+              "cells": [
+                "- Course Prerequisites:",
+                "N/A"
+              ],
+              "column_map": {
+                "- Title": "- Course Prerequisites:",
+                "Knowledge Discovery and Data Mining": "N/A"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec002",
+      "title": "2. LECTURER’S INFORMATION",
+      "level": 1,
+      "label": "lecturers-information",
+      "path_titles": [
+        "2. LECTURER’S INFORMATION"
+      ],
+      "path_labels": [
+        "lecturers-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Full name: Nguyen Trung Tuan Title: PhD",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Address: Room 1312 A1 Building",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Phone number: 0913537768 Email: tuannt@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 8
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec003",
+      "title": "3. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "The Knowledge Discovery and Data Mining course will provide students with basic knowledge, methods and skills of data analysis using advanced methods of data mining to discover knowledge from large data sets that traditional methods do not perform effectively. In this course, we will use BI tools in the database management system Microsoft SQL Server version 2008 and above and some open source tools to illustrate and simulate the problems that will be presented. The course contents include Basics of knowledge discovery and data mining, Data preprocessing, Association rule mining, Data classification, Cluster analysis, Trends and problems of data mining.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 10
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec004",
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "level": 1,
+      "label": "learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1181e#sec005",
+      "title": "Course Book(s):",
+      "level": 2,
+      "label": "course-book-s",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Course Book(s):"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares",
+        "course-book-s"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "[1] Jiawei Han, Micheline Kamber, Jian Pei, Data mining: Concepts and Techniques, Morgan Kaufmann Publishers, 2012",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+            "Course Book(s):"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares",
+            "course-book-s"
+          ],
+          "source_block": 13
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec006",
+      "title": "Reference Book(s):",
+      "level": 2,
+      "label": "reference-book-s",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Reference Book(s):"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares",
+        "reference-book-s"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "[2] Mohammed J. Zaki, Wagner Meira Jr., Data Mining and Analysis Fundamental Concepts and Algorithms, Cambridge University Press, 2013",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+            "Reference Book(s):"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares",
+            "reference-book-s"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec007",
+      "title": "Software(s):",
+      "level": 2,
+      "label": "software-s",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+        "Software(s):"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares",
+        "software-s"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "[3] BI tools in MicroSoft SQL Server (www.microsoft.com)",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+            "Software(s):"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares",
+            "software-s"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "[4] WEKA (www.cs.waikato.ac.nz/ml/weka)",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+            "Software(s):"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares",
+            "software-s"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "[5] R programming language (www.r-project.org)",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+            "Software(s):"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares",
+            "software-s"
+          ],
+          "source_block": 19
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec008",
+      "title": "5. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "5. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Table 5.1. Course Learning Outcomes",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "table",
+          "order": 14,
+          "table_id": "en-cntt1181e#tbl003",
+          "table_name": "Table 5.1. Course Learning Outcomes",
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 23,
+          "column_labels": [
+            "No",
+            "Goal Description",
+            "Program Learning Outcomes (PLO)",
+            "Capability Level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "No": "[1]",
+                "Goal Description": "[2]",
+                "Program Learning Outcomes (PLO)": "[3]",
+                "Capability Level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Understanding data, data mining and analysis processes, applying for knowledge management problems, data mining",
+                "PLO1.3",
+                "3"
+              ],
+              "column_map": {
+                "No": "G1",
+                "Goal Description": "Understanding data, data mining and analysis processes, applying for knowledge management problems, data mining",
+                "Program Learning Outcomes (PLO)": "PLO1.3",
+                "Capability Level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Skilled in solving data analysis problems, discovering knowledge from data. Skilled in using advanced tools to perform the above work.",
+                "PLO1.3, PLO2.2",
+                "4"
+              ],
+              "column_map": {
+                "No": "G2",
+                "Goal Description": "Skilled in solving data analysis problems, discovering knowledge from data. Skilled in using advanced tools to perform the above work.",
+                "Program Learning Outcomes (PLO)": "PLO1.3, PLO2.2",
+                "Capability Level": "4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Have the ability to work in a team and adapt to changes in technology",
+                "PLO2.2, PLO3.1",
+                "3"
+              ],
+              "column_map": {
+                "No": "G3",
+                "Goal Description": "Have the ability to work in a team and adapt to changes in technology",
+                "Program Learning Outcomes (PLO)": "PLO2.2, PLO3.1",
+                "Capability Level": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec009",
+      "title": "6. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Table 6.1. Course learning outcomes",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "en-cntt1181e#tbl004",
+          "table_name": "Table 6.1. Course learning outcomes",
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 27,
+          "column_labels": [
+            "Goal",
+            "CLO",
+            "Description",
+            "Capacity level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLO": "[2]",
+                "Description": "[3]",
+                "Capacity level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understanding data and the process of discovering knowledge from data",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO1.1",
+                "Description": "Understanding data and the process of discovering knowledge from data",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Capable of determining and selecting suitable methods for the problem of knowledge discovery from data",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO1.2",
+                "Description": "Capable of determining and selecting suitable methods for the problem of knowledge discovery from data",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Skilled in data selection, preprocessing, and implementation of knowledge discovery processes from data",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO2.1",
+                "Description": "Skilled in data selection, preprocessing, and implementation of knowledge discovery processes from data",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Skilled in using modern tools to perform knowledge discovery problems from data",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO2.2",
+                "Description": "Skilled in using modern tools to perform knowledge discovery problems from data",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Improve teamwork skill in group works",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO3.1",
+                "Description": "Improve teamwork skill in group works",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Have the ability to adapt to changes in technology",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO3.2",
+                "Description": "Have the ability to adapt to changes in technology",
+                "Capacity level": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec010",
+      "title": "7. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Table 7.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "en-cntt1181e#tbl005",
+          "table_name": "Table 7.1. Course assessment",
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 32,
+          "column_labels": [
+            "Type of Assessment",
+            "CLOs",
+            "Assessment criteria",
+            "Proportion (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Type of Assessment": "[1]",
+                "CLOs": "[4]",
+                "Assessment criteria": "[5]",
+                "Proportion (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Class Participation",
+              "cells": [
+                "Class Participation",
+                "CLO1.1 -> CLO3.2",
+                "Evaluating participation of students at class, learning attitude and teamwork",
+                "10%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Class Participation",
+                "CLOs": "CLO1.1 -> CLO3.2",
+                "Assessment criteria": "Evaluating participation of students at class, learning attitude and teamwork",
+                "Proportion (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Mid-term",
+              "cells": [
+                "Mid-term",
+                "CLO2.1 CLO2.2",
+                "Individual test",
+                "20%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Mid-term",
+                "CLOs": "CLO2.1 CLO2.2",
+                "Assessment criteria": "Individual test",
+                "Proportion (%)": "20%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group Project",
+              "cells": [
+                "Group Project",
+                "CLO1.1 -> CLO3.2",
+                "Group presentation and slide print out",
+                "20%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Group Project",
+                "CLOs": "CLO1.1 -> CLO3.2",
+                "Assessment criteria": "Group presentation and slide print out",
+                "Proportion (%)": "20%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Final Exam",
+              "cells": [
+                "Final Exam",
+                "CLO2.1 CLO2.2",
+                "Will be defined depend on regulations",
+                "50%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Final Exam",
+                "CLOs": "CLO2.1 CLO2.2",
+                "Assessment criteria": "Will be defined depend on regulations",
+                "Proportion (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec011",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Table 8.1. Lesson Plaan",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "table",
+          "order": 20,
+          "table_id": "en-cntt1181e#tbl006",
+          "table_name": "Table 8.1. Lesson Plaan",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 37,
+          "column_labels": [
+            "Session/Week",
+            "Content",
+            "CLOs",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[4]",
+                "[6]"
+              ],
+              "column_map": {
+                "Session/Week": "[1]",
+                "Content": "[2]",
+                "CLOs": "[4]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1. Introduction 1.1 Knowledge discovery and data mining 1.2 Knowledge discovery and data mining Process 1.3 Type of data sets 1.4 KDD applications 1.5 KDD challenges",
+                "CLO1.1 CLO2.1 CLO3.2",
+                "Participation"
+              ],
+              "column_map": {
+                "Session/Week": "1",
+                "Content": "Chapter 1. Introduction 1.1 Knowledge discovery and data mining 1.2 Knowledge discovery and data mining Process 1.3 Type of data sets 1.4 KDD applications 1.5 KDD challenges",
+                "CLOs": "CLO1.1 CLO2.1 CLO3.2",
+                "Assessment": "Participation"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2. Getting to Know Your Data 2.1 Data Objects and Attribute Types 2.2 Basic Statistical Descriptions of Data 2.3 Data Visualization 2.4 Measuring Data Similarity and Dissimilarity",
+                "CLO1.1 CLO2.1 CLO3.2",
+                "Participation"
+              ],
+              "column_map": {
+                "Session/Week": "2",
+                "Content": "Chapter 2. Getting to Know Your Data 2.1 Data Objects and Attribute Types 2.2 Basic Statistical Descriptions of Data 2.3 Data Visualization 2.4 Measuring Data Similarity and Dissimilarity",
+                "CLOs": "CLO1.1 CLO2.1 CLO3.2",
+                "Assessment": "Participation"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3-4",
+              "cells": [
+                "3-4",
+                "Chapter 3. Data Preprocessing 2.1 Data Cleaning 2.2 Data Integration 2.3 Data Reduction 2.4 Data Transformation and Data Discretization",
+                "CLO1.1 CLO2.1",
+                "Participation Personal exercises"
+              ],
+              "column_map": {
+                "Session/Week": "3-4",
+                "Content": "Chapter 3. Data Preprocessing 2.1 Data Cleaning 2.2 Data Integration 2.3 Data Reduction 2.4 Data Transformation and Data Discretization",
+                "CLOs": "CLO1.1 CLO2.1",
+                "Assessment": "Participation Personal exercises"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5-6",
+              "cells": [
+                "5-6",
+                "Chapter 4. Mining Frequent Patterns, Associations, and Correlations: Basic\nConcepts and Methods 2.1 Basic Concepts 2.2 Frequent Itemset Mining Methods 2.3 Which Patterns Are Interesting? Pattern evaluation Methods 2.4 Advanced Pattern Mining",
+                "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Participation Personal exercises"
+              ],
+              "column_map": {
+                "Session/Week": "5-6",
+                "Content": "Chapter 4. Mining Frequent Patterns, Associations, and Correlations: Basic\nConcepts and Methods 2.1 Basic Concepts 2.2 Frequent Itemset Mining Methods 2.3 Which Patterns Are Interesting? Pattern evaluation Methods 2.4 Advanced Pattern Mining",
+                "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Assessment": "Participation Personal exercises"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "7-8",
+              "cells": [
+                "7-8",
+                "Chapter 5. Classification and prediction 2.1 Basic Concepts 2.2 Decision Tree Induction 2.3 Lazy Learners 2.4 Model Evaluation and Selection 5.5 Other Methods",
+                "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Participation Personal exercises"
+              ],
+              "column_map": {
+                "Session/Week": "7-8",
+                "Content": "Chapter 5. Classification and prediction 2.1 Basic Concepts 2.2 Decision Tree Induction 2.3 Lazy Learners 2.4 Model Evaluation and Selection 5.5 Other Methods",
+                "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Assessment": "Participation Personal exercises"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "9-11",
+              "cells": [
+                "9-11",
+                "Chapter 6. Cluster Analysis 2.1 Cluster Analysis 2.2 Partitioning Methods 2.3 Hierarchical Methods 2.4 Evaluation of Clustering 6.5 Other methods 6.6 Outlier Detection",
+                "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Participation Personal exercises"
+              ],
+              "column_map": {
+                "Session/Week": "9-11",
+                "Content": "Chapter 6. Cluster Analysis 2.1 Cluster Analysis 2.2 Partitioning Methods 2.3 Hierarchical Methods 2.4 Evaluation of Clustering 6.5 Other methods 6.6 Outlier Detection",
+                "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Assessment": "Participation Personal exercises"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 7. Data Mining Trends and Research Frontiers 2.1 Mining Complex Data Types 2.2 Other Methodologies of Data Mining 2.3 Data Mining Applications 2.4 Data Mining and Society 6.5 Data Mining Trends",
+                "CLO1.1 CLO1.2 CLO3.1 CLO3.2",
+                "Participation Personal exercises"
+              ],
+              "column_map": {
+                "Session/Week": "12",
+                "Content": "Chapter 7. Data Mining Trends and Research Frontiers 2.1 Mining Complex Data Types 2.2 Other Methodologies of Data Mining 2.3 Data Mining Applications 2.4 Data Mining and Society 6.5 Data Mining Trends",
+                "CLOs": "CLO1.1 CLO1.2 CLO3.1 CLO3.2",
+                "Assessment": "Participation Personal exercises"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "13-14",
+              "cells": [
+                "13-14",
+                "Group project",
+                "CLO1.1 -> CLO3.2",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Session/Week": "13-14",
+                "Content": "Group project",
+                "CLOs": "CLO1.1 -> CLO3.2",
+                "Assessment": "Participation Group presentation"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Session/Week": "15",
+                "Content": "Course review",
+                "CLOs": "",
+                "Assessment": "Participation Group presentation"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec012",
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION",
+      "level": 1,
+      "label": "course-requirements-and-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1181e#sec013",
+      "title": "9.1. Attendance Requirements",
+      "level": 2,
+      "label": "attendance-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "attendance-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Students are required to fully take part in class lectures and activities.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Students are allowed to be absent maximum 10% of the class hours. Students who is absent over 10% is not qualified to take the final exam.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 42
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1181e#sec014",
+      "title": "9.2. In-class Behavior Requirements",
+      "level": 2,
+      "label": "in-class-behavior-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders are prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-cntt1181e#tbl007",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 48,
+          "column_labels": [
+            "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "DEPARTMENT",
+            "LECTURER"
+          ],
+          "rows": []
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-cntt1181e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+          "cells": [
+            "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "en-cntt1181e#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "section_labels": [
+        "general-information"
+      ],
+      "source_block": 4,
+      "column_labels": [
+        "- Title",
+        "Knowledge Discovery and Data Mining"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Course Number",
+          "cells": [
+            "- Course Number",
+            "CNTT1181E"
+          ],
+          "column_map": {
+            "- Title": "- Course Number",
+            "Knowledge Discovery and Data Mining": "CNTT1181E"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Credit",
+          "cells": [
+            "- Credit",
+            "3"
+          ],
+          "column_map": {
+            "- Title": "- Credit",
+            "Knowledge Discovery and Data Mining": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Course Prerequisites:",
+          "cells": [
+            "- Course Prerequisites:",
+            "N/A"
+          ],
+          "column_map": {
+            "- Title": "- Course Prerequisites:",
+            "Knowledge Discovery and Data Mining": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 14,
+      "table_id": "en-cntt1181e#tbl003",
+      "table_name": "Table 5.1. Course Learning Outcomes",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 23,
+      "column_labels": [
+        "No",
+        "Goal Description",
+        "Program Learning Outcomes (PLO)",
+        "Capability Level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "No": "[1]",
+            "Goal Description": "[2]",
+            "Program Learning Outcomes (PLO)": "[3]",
+            "Capability Level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Understanding data, data mining and analysis processes, applying for knowledge management problems, data mining",
+            "PLO1.3",
+            "3"
+          ],
+          "column_map": {
+            "No": "G1",
+            "Goal Description": "Understanding data, data mining and analysis processes, applying for knowledge management problems, data mining",
+            "Program Learning Outcomes (PLO)": "PLO1.3",
+            "Capability Level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Skilled in solving data analysis problems, discovering knowledge from data. Skilled in using advanced tools to perform the above work.",
+            "PLO1.3, PLO2.2",
+            "4"
+          ],
+          "column_map": {
+            "No": "G2",
+            "Goal Description": "Skilled in solving data analysis problems, discovering knowledge from data. Skilled in using advanced tools to perform the above work.",
+            "Program Learning Outcomes (PLO)": "PLO1.3, PLO2.2",
+            "Capability Level": "4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Have the ability to work in a team and adapt to changes in technology",
+            "PLO2.2, PLO3.1",
+            "3"
+          ],
+          "column_map": {
+            "No": "G3",
+            "Goal Description": "Have the ability to work in a team and adapt to changes in technology",
+            "Program Learning Outcomes (PLO)": "PLO2.2, PLO3.1",
+            "Capability Level": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "en-cntt1181e#tbl004",
+      "table_name": "Table 6.1. Course learning outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 27,
+      "column_labels": [
+        "Goal",
+        "CLO",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLO": "[2]",
+            "Description": "[3]",
+            "Capacity level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understanding data and the process of discovering knowledge from data",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO1.1",
+            "Description": "Understanding data and the process of discovering knowledge from data",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Capable of determining and selecting suitable methods for the problem of knowledge discovery from data",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO1.2",
+            "Description": "Capable of determining and selecting suitable methods for the problem of knowledge discovery from data",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Skilled in data selection, preprocessing, and implementation of knowledge discovery processes from data",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO2.1",
+            "Description": "Skilled in data selection, preprocessing, and implementation of knowledge discovery processes from data",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Skilled in using modern tools to perform knowledge discovery problems from data",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO2.2",
+            "Description": "Skilled in using modern tools to perform knowledge discovery problems from data",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Improve teamwork skill in group works",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO3.1",
+            "Description": "Improve teamwork skill in group works",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Have the ability to adapt to changes in technology",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO3.2",
+            "Description": "Have the ability to adapt to changes in technology",
+            "Capacity level": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "en-cntt1181e#tbl005",
+      "table_name": "Table 7.1. Course assessment",
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 32,
+      "column_labels": [
+        "Type of Assessment",
+        "CLOs",
+        "Assessment criteria",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Type of Assessment": "[1]",
+            "CLOs": "[4]",
+            "Assessment criteria": "[5]",
+            "Proportion (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation",
+          "cells": [
+            "Class Participation",
+            "CLO1.1 -> CLO3.2",
+            "Evaluating participation of students at class, learning attitude and teamwork",
+            "10%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Class Participation",
+            "CLOs": "CLO1.1 -> CLO3.2",
+            "Assessment criteria": "Evaluating participation of students at class, learning attitude and teamwork",
+            "Proportion (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Mid-term",
+          "cells": [
+            "Mid-term",
+            "CLO2.1 CLO2.2",
+            "Individual test",
+            "20%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Mid-term",
+            "CLOs": "CLO2.1 CLO2.2",
+            "Assessment criteria": "Individual test",
+            "Proportion (%)": "20%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group Project",
+          "cells": [
+            "Group Project",
+            "CLO1.1 -> CLO3.2",
+            "Group presentation and slide print out",
+            "20%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Group Project",
+            "CLOs": "CLO1.1 -> CLO3.2",
+            "Assessment criteria": "Group presentation and slide print out",
+            "Proportion (%)": "20%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final Exam",
+          "cells": [
+            "Final Exam",
+            "CLO2.1 CLO2.2",
+            "Will be defined depend on regulations",
+            "50%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Final Exam",
+            "CLOs": "CLO2.1 CLO2.2",
+            "Assessment criteria": "Will be defined depend on regulations",
+            "Proportion (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 20,
+      "table_id": "en-cntt1181e#tbl006",
+      "table_name": "Table 8.1. Lesson Plaan",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 37,
+      "column_labels": [
+        "Session/Week",
+        "Content",
+        "CLOs",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[4]",
+            "[6]"
+          ],
+          "column_map": {
+            "Session/Week": "[1]",
+            "Content": "[2]",
+            "CLOs": "[4]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1. Introduction 1.1 Knowledge discovery and data mining 1.2 Knowledge discovery and data mining Process 1.3 Type of data sets 1.4 KDD applications 1.5 KDD challenges",
+            "CLO1.1 CLO2.1 CLO3.2",
+            "Participation"
+          ],
+          "column_map": {
+            "Session/Week": "1",
+            "Content": "Chapter 1. Introduction 1.1 Knowledge discovery and data mining 1.2 Knowledge discovery and data mining Process 1.3 Type of data sets 1.4 KDD applications 1.5 KDD challenges",
+            "CLOs": "CLO1.1 CLO2.1 CLO3.2",
+            "Assessment": "Participation"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2. Getting to Know Your Data 2.1 Data Objects and Attribute Types 2.2 Basic Statistical Descriptions of Data 2.3 Data Visualization 2.4 Measuring Data Similarity and Dissimilarity",
+            "CLO1.1 CLO2.1 CLO3.2",
+            "Participation"
+          ],
+          "column_map": {
+            "Session/Week": "2",
+            "Content": "Chapter 2. Getting to Know Your Data 2.1 Data Objects and Attribute Types 2.2 Basic Statistical Descriptions of Data 2.3 Data Visualization 2.4 Measuring Data Similarity and Dissimilarity",
+            "CLOs": "CLO1.1 CLO2.1 CLO3.2",
+            "Assessment": "Participation"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3-4",
+          "cells": [
+            "3-4",
+            "Chapter 3. Data Preprocessing 2.1 Data Cleaning 2.2 Data Integration 2.3 Data Reduction 2.4 Data Transformation and Data Discretization",
+            "CLO1.1 CLO2.1",
+            "Participation Personal exercises"
+          ],
+          "column_map": {
+            "Session/Week": "3-4",
+            "Content": "Chapter 3. Data Preprocessing 2.1 Data Cleaning 2.2 Data Integration 2.3 Data Reduction 2.4 Data Transformation and Data Discretization",
+            "CLOs": "CLO1.1 CLO2.1",
+            "Assessment": "Participation Personal exercises"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5-6",
+          "cells": [
+            "5-6",
+            "Chapter 4. Mining Frequent Patterns, Associations, and Correlations: Basic\nConcepts and Methods 2.1 Basic Concepts 2.2 Frequent Itemset Mining Methods 2.3 Which Patterns Are Interesting? Pattern evaluation Methods 2.4 Advanced Pattern Mining",
+            "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Participation Personal exercises"
+          ],
+          "column_map": {
+            "Session/Week": "5-6",
+            "Content": "Chapter 4. Mining Frequent Patterns, Associations, and Correlations: Basic\nConcepts and Methods 2.1 Basic Concepts 2.2 Frequent Itemset Mining Methods 2.3 Which Patterns Are Interesting? Pattern evaluation Methods 2.4 Advanced Pattern Mining",
+            "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Assessment": "Participation Personal exercises"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "7-8",
+          "cells": [
+            "7-8",
+            "Chapter 5. Classification and prediction 2.1 Basic Concepts 2.2 Decision Tree Induction 2.3 Lazy Learners 2.4 Model Evaluation and Selection 5.5 Other Methods",
+            "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Participation Personal exercises"
+          ],
+          "column_map": {
+            "Session/Week": "7-8",
+            "Content": "Chapter 5. Classification and prediction 2.1 Basic Concepts 2.2 Decision Tree Induction 2.3 Lazy Learners 2.4 Model Evaluation and Selection 5.5 Other Methods",
+            "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Assessment": "Participation Personal exercises"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "9-11",
+          "cells": [
+            "9-11",
+            "Chapter 6. Cluster Analysis 2.1 Cluster Analysis 2.2 Partitioning Methods 2.3 Hierarchical Methods 2.4 Evaluation of Clustering 6.5 Other methods 6.6 Outlier Detection",
+            "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Participation Personal exercises"
+          ],
+          "column_map": {
+            "Session/Week": "9-11",
+            "Content": "Chapter 6. Cluster Analysis 2.1 Cluster Analysis 2.2 Partitioning Methods 2.3 Hierarchical Methods 2.4 Evaluation of Clustering 6.5 Other methods 6.6 Outlier Detection",
+            "CLOs": "CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Assessment": "Participation Personal exercises"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 7. Data Mining Trends and Research Frontiers 2.1 Mining Complex Data Types 2.2 Other Methodologies of Data Mining 2.3 Data Mining Applications 2.4 Data Mining and Society 6.5 Data Mining Trends",
+            "CLO1.1 CLO1.2 CLO3.1 CLO3.2",
+            "Participation Personal exercises"
+          ],
+          "column_map": {
+            "Session/Week": "12",
+            "Content": "Chapter 7. Data Mining Trends and Research Frontiers 2.1 Mining Complex Data Types 2.2 Other Methodologies of Data Mining 2.3 Data Mining Applications 2.4 Data Mining and Society 6.5 Data Mining Trends",
+            "CLOs": "CLO1.1 CLO1.2 CLO3.1 CLO3.2",
+            "Assessment": "Participation Personal exercises"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "13-14",
+          "cells": [
+            "13-14",
+            "Group project",
+            "CLO1.1 -> CLO3.2",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Session/Week": "13-14",
+            "Content": "Group project",
+            "CLOs": "CLO1.1 -> CLO3.2",
+            "Assessment": "Participation Group presentation"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Session/Week": "15",
+            "Content": "Course review",
+            "CLOs": "",
+            "Assessment": "Participation Group presentation"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-cntt1181e#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "source_block": 48,
+      "column_labels": [
+        "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+        "DEPARTMENT",
+        "LECTURER"
+      ],
+      "rows": []
+    }
+  ],
+  "full_text": "DETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)\nFull name: Nguyen Trung Tuan Title: PhD\nAddress: Room 1312 A1 Building\nPhone number: 0913537768 Email: tuannt@neu.edu.vn\nThe Knowledge Discovery and Data Mining course will provide students with basic knowledge, methods and skills of data analysis using advanced methods of data mining to discover knowledge from large data sets that traditional methods do not perform effectively. In this course, we will use BI tools in the database management system Microsoft SQL Server version 2008 and above and some open source tools to illustrate and simulate the problems that will be presented. The course contents include Basics of knowledge discovery and data mining, Data preprocessing, Association rule mining, Data classification, Cluster analysis, Trends and problems of data mining.\n[1] Jiawei Han, Micheline Kamber, Jian Pei, Data mining: Concepts and Techniques, Morgan Kaufmann Publishers, 2012\n[2] Mohammed J. Zaki, Wagner Meira Jr., Data Mining and Analysis Fundamental Concepts and Algorithms, Cambridge University Press, 2013\n[3] BI tools in MicroSoft SQL Server (www.microsoft.com)\n[4] WEKA (www.cs.waikato.ac.nz/ml/weka)\n[5] R programming language (www.r-project.org)\nTable 5.1. Course Learning Outcomes\nTable 6.1. Course learning outcomes\nTable 7.1. Course assessment\nTable 8.1. Lesson Plaan\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent maximum 10% of the class hours. Students who is absent over 10% is not qualified to take the final exam.\nThe course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders are prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration."
+}

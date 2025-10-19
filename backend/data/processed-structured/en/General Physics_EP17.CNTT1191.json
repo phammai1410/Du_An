@@ -1,0 +1,2469 @@
+{
+  "doc_id": "en-ep17-cntt1191",
+  "language": "en",
+  "course_name_stem": "General Physics",
+  "course_variant": "",
+  "course_code": "EP17.CNTT1191",
+  "source_filename": "General Physics_EP17.CNTT1191.docx",
+  "source_relpath": "data\\raw\\en\\General Physics_EP17.CNTT1191.docx",
+  "source_hash": "80bd81ca44449082abae7683fd92f6c9",
+  "source_modified": "2025-10-11T10:42:50.595335+00:00",
+  "processed_at": "2025-10-17T16:55:26.540238+00:00",
+  "stats": {
+    "paragraphs": 39,
+    "tables": 7,
+    "sections": 10
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-cntt1191#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: General Physics (Electricity and Magnetism)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Code: CNTT1191",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: 03 (45 credit hrs; 50 min/credit hrs)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 30 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Presentation and Discussion: 6 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Exercise and discussion: 9 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "+ Self-study: 90 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Parallel course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Prerequisite course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Faculty: Information Technology and Digital Economic",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "1. Ph.D Tong Thi Hao Tam Tel: (84)913 520 505 Email: tamtth@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "2. Ph.D Nguyen Thanh Huong Tel: (84)983 168 238 Email:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 17,
+          "table_id": "en-ep17-cntt1191#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental □",
+            "Fundamental □_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory (X)",
+              "cells": [
+                "Compulsory (X)",
+                "Elective □",
+                "Compulsory □",
+                "Elective □"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory (X)",
+                "Foundation □_2": "Elective □",
+                "Fundamental □": "Compulsory □",
+                "Fundamental □_2": "Elective □"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "* Meeting hour:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 22
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "This course is to prepare students of the Software Engineering major with fundamental knowledge of electricity and magnetism, including: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves. The applications of this topic are fundamental to our society as it encompasses such matters as communication by electromagnetic radiation, functioning of our nervous system and operation of all electronic circuits. This course also helps students obtain other skills: problem solving and teamwork.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 24
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec004",
+      "title": "Text Books/Lecture Notes:",
+      "level": 2,
+      "label": "text-books-lecture-notes",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "Text Books/Lecture Notes:"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "text-books-lecture-notes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Electricity and Magnetism, Edward M. Purcell, David J. Morin (2013), third edition, Cambridge University Press.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Text Books/Lecture Notes:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "text-books-lecture-notes"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Physics for scientists and engineers: a strategic approach 4/E with modern physics, Randall D. Knight (2015), fourth edition, Boston: Pearson Education, Inc.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Text Books/Lecture Notes:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "text-books-lecture-notes"
+          ],
+          "source_block": 28
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec005",
+      "title": "Additional references:",
+      "level": 2,
+      "label": "additional-references",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "Additional references:"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "additional-references"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Lương Duyên Bình, Dư Trí Công, Nguyễn Hữu Hồ, Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Additional references:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Lương Duyên Bình (Chủ biên), Bài tập Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Additional references:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Tống Thị Hảo Tâm (Chủ biên), Đặng Đình Hải (2019), Bài giảng Vật lý Đại cương (Tâp 1), NXB ĐH Kinh tế Quốc dân.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Additional references:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "David Halliday- Robert Resnick- Jearl Walker, Cơ sở vật lí (tập IV), NXB Giáo dục.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "Additional references:"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 33
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec006",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-ep17-cntt1191#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 37,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides learners with knowledge about: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves",
+                "PLO1.3.2",
+                "2"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "The course provides learners with knowledge about: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves",
+                "PLOs": "PLO1.3.2",
+                "Proficiency scale": "2"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Develop skills in searching, collecting, analyzing and presenting problems, self-study ability to improve qualifications...",
+                "PLO2.1.1",
+                "2"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Develop skills in searching, collecting, analyzing and presenting problems, self-study ability to improve qualifications...",
+                "PLOs": "PLO2.1.1",
+                "Proficiency scale": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Creating opportunities to practice teamwork; The first step is to equip learners to be aware of the responsibilities and rights of individuals and the group in learning activities as well as future professional practice activities.",
+                "PLO3.1.1 PLO3.1.2",
+                "2"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "Creating opportunities to practice teamwork; The first step is to equip learners to be aware of the responsibilities and rights of individuals and the group in learning activities as well as future professional practice activities.",
+                "PLOs": "PLO3.1.1 PLO3.1.2",
+                "Proficiency scale": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec007",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-ep17-cntt1191#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 40,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Master the concept of electric field, the characteristic quantitives of electric field, principle of superposition of electric field, electric force, potential energy, electric potential, electric field energy.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Master the concept of electric field, the characteristic quantitives of electric field, principle of superposition of electric field, electric force, potential energy, electric potential, electric field energy.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understand and be able to solve problems applying the laws of electric field (Coulomb's law, O-G theorem).",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Understand and be able to solve problems applying the laws of electric field (Coulomb's law, O-G theorem).",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Master the concept of magnetic field, the characteristic quantitives of magnetic field, magnetic force, and magnetic flux; The mutual relationship between magnetic field and electric current.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Master the concept of magnetic field, the characteristic quantitives of magnetic field, magnetic force, and magnetic flux; The mutual relationship between magnetic field and electric current.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Understand and be able to solve problems applying the laws of magnetic field (Biot-Savart-Laplace’s law, Ampere theorem).",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs Description": "Understand and be able to solve problems applying the laws of magnetic field (Biot-Savart-Laplace’s law, Ampere theorem).",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.5",
+                "Understand and explain the mutual influence between the physical environment and electric and magnetic field (dielectrics, conductors, magnetic materials) and apply in practice. Able to solve problems about the influence of electric field on conductors and dielectrics (electrostatically balanced conductors, capacitors).",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.5",
+                "CLOs Description": "Understand and explain the mutual influence between the physical environment and electric and magnetic field (dielectrics, conductors, magnetic materials) and apply in practice. Able to solve problems about the influence of electric field on conductors and dielectrics (electrostatically balanced conductors, capacitors).",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.6",
+                "Understand the magnetic nature of magnetic materials, explain the properties of ferromagnetic materials, and applications of ferromagnetic materials.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.6",
+                "CLOs Description": "Understand the magnetic nature of magnetic materials, explain the properties of ferromagnetic materials, and applications of ferromagnetic materials.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.7",
+                "Understand and explain the relationship between magnetic and electric fields (Faraday's law, Maxwell's arguments). Able to solve problems describing the relationship between magnetic and electric field (Faraday's law, Maxwell's arguments).",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.7",
+                "CLOs Description": "Understand and explain the relationship between magnetic and electric fields (Faraday's law, Maxwell's arguments). Able to solve problems describing the relationship between magnetic and electric field (Faraday's law, Maxwell's arguments).",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.8",
+                "Distinguish between static electric field and eddy electric field.",
+                "P"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.8",
+                "CLOs Description": "Distinguish between static electric field and eddy electric field.",
+                "Teaching level (I,T,U)": "P"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.9",
+                "Understand the nature of types of electromagnetic oscillations, electromagnetic oscillator circuits and applications.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.9",
+                "CLOs Description": "Understand the nature of types of electromagnetic oscillations, electromagnetic oscillator circuits and applications.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.10",
+                "Understand the nature of electromagnetic waves, grasp issues related to receiving and transmitting electromagnetic waves.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.10",
+                "CLOs Description": "Understand the nature of electromagnetic waves, grasp issues related to receiving and transmitting electromagnetic waves.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Know how to search, collect, analyze and present problems, have the ability to self-study to improve the level of meeting the content discussed in class, learning content related to application, and content of self-study reports.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Know how to search, collect, analyze and present problems, have the ability to self-study to improve the level of meeting the content discussed in class, learning content related to application, and content of self-study reports.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Awareness of subject position and relevance of subject knowledge to major subjects",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Awareness of subject position and relevance of subject knowledge to major subjects",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Practice teamwork ability: fulfill individual roles when participating in group exercises, group reports, and group tests.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Practice teamwork ability: fulfill individual roles when participating in group exercises, group reports, and group tests.",
+                "Teaching level (I,T,U)": "T"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec008",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "en-ep17-cntt1191#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 43,
+          "column_labels": [
+            "Assessments",
+            "column_2",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "column_2": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "Participant",
+                "CLO1 CLO3",
+                "10%",
+                "Week 1-15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "column_2": "Participant",
+                "CLOs": "CLO1 CLO3",
+                "Weighting (%)": "10%",
+                "Week": "Week 1-15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Individual tests",
+              "cells": [
+                "Individual tests",
+                "Individual tests",
+                "",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Individual tests",
+                "column_2": "Individual tests",
+                "CLOs": "",
+                "Weighting (%)": "40%",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "column_2": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "40%",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Group works",
+              "cells": [
+                "Group works",
+                "Group works",
+                "CLO1 CLO3",
+                "40%",
+                "Week 9,10,15"
+              ],
+              "column_map": {
+                "Assessments": "Group works",
+                "column_2": "Group works",
+                "CLOs": "CLO1 CLO3",
+                "Weighting (%)": "40%",
+                "Week": "Week 9,10,15"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Project",
+              "cells": [
+                "Project",
+                "Project",
+                "CLO1.3-CLO1.8 CLO2",
+                "40%",
+                "Week 2,4,6,14"
+              ],
+              "column_map": {
+                "Assessments": "Project",
+                "column_2": "Project",
+                "CLOs": "CLO1.3-CLO1.8 CLO2",
+                "Weighting (%)": "40%",
+                "Week": "Week 2,4,6,14"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Midterm exam",
+              "cells": [
+                "Midterm exam",
+                "Midterm exam",
+                "CLO1.1- CLO1.8",
+                "40%",
+                "Week 10"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exam",
+                "column_2": "Midterm exam",
+                "CLOs": "CLO1.1- CLO1.8",
+                "Weighting (%)": "40%",
+                "Week": "Week 10"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "column_2": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "Final exam",
+                "CLO1.1- CLO1.10",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "column_2": "Final exam",
+                "CLOs": "CLO1.1- CLO1.10",
+                "Weighting (%)": "50%",
+                "Week": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec009",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "en-ep17-cntt1191#tbl006",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 49,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Introduction to the course.",
+                "Course Syllabus",
+                "CLO2.1 CLO2.2 CLO3.1",
+                "- Introducing the general information of the course. - Following the lecture; taking notes.",
+                ""
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Introduction to the course.",
+                "Readings requirement": "Course Syllabus",
+                "CLO": "CLO2.1 CLO2.2 CLO3.1",
+                "Teaching and Learning Activities": "- Introducing the general information of the course. - Following the lecture; taking notes.",
+                "Assessment tools and criteria": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1-2",
+              "cells": [
+                "1-2",
+                "Chapter 1. Electrostatics 1.1. Coulomb's Law 1.2. The electric field and characteristic quantitives 1.2.1. The concept of electric field 1.2.2. Field vector (Electric field strength vector) 1.2.3. The rinciple of electric field superposition 1.2.4. Electric dipole moment 1.2.5. Electric field lines 1.3. Gauss's Law 1.3.1. The Concept of Electric flux 1.3.2. Ussing Gauss's 1.4. The electrical potential 1.4.1. Potential properties of static electric field. Stores the number of electric field strength vector 1.4.2. Electrical interaction energy 1.4.3. The electric potential and the electric field energy 1.4.4. Equipotential surface 1.5. The relationship between electric field strength and electric potential",
+                "[1]: chapter 1, 2 [2]: chapter 22-26",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion"
+              ],
+              "column_map": {
+                "Week": "1-2",
+                "Content": "Chapter 1. Electrostatics 1.1. Coulomb's Law 1.2. The electric field and characteristic quantitives 1.2.1. The concept of electric field 1.2.2. Field vector (Electric field strength vector) 1.2.3. The rinciple of electric field superposition 1.2.4. Electric dipole moment 1.2.5. Electric field lines 1.3. Gauss's Law 1.3.1. The Concept of Electric flux 1.3.2. Ussing Gauss's 1.4. The electrical potential 1.4.1. Potential properties of static electric field. Stores the number of electric field strength vector 1.4.2. Electrical interaction energy 1.4.3. The electric potential and the electric field energy 1.4.4. Equipotential surface 1.5. The relationship between electric field strength and electric potential",
+                "Readings requirement": "[1]: chapter 1, 2 [2]: chapter 22-26",
+                "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3-4",
+              "cells": [
+                "3-4",
+                "Chapter 2. The Conductors 2.1. Properties of conductors in electrostatic equilibrium. Capacitance of conductors. 2.2. The electric resonance phenomenon 2.2.1. Phenomenon and explanation of phenomena 2.2.2. Capacitance and Capacitors 2.3. Electric field energy 2.3.1. Interaction energy of a system of point charges and a charged conductor 2.3.2. Planar capacitor energy and electric field energy",
+                "[1]: chapter 3, 10 [2]: chapter 24,26",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+              ],
+              "column_map": {
+                "Week": "3-4",
+                "Content": "Chapter 2. The Conductors 2.1. Properties of conductors in electrostatic equilibrium. Capacitance of conductors. 2.2. The electric resonance phenomenon 2.2.1. Phenomenon and explanation of phenomena 2.2.2. Capacitance and Capacitors 2.3. Electric field energy 2.3.1. Interaction energy of a system of point charges and a charged conductor 2.3.2. Planar capacitor energy and electric field energy",
+                "Readings requirement": "[1]: chapter 3, 10 [2]: chapter 24,26",
+                "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5-6",
+              "cells": [
+                "5-6",
+                "Chapter 3. The Dielectrics 3.1. Molecular structure of dielectric material 3.2. The dielectric polarization phenomenon 3.2.1. The henomena 3.2.2. The dielectric polarization vector and the interfacial charge density 3.3. The electric field strength and inductance in dielectrics 3.4. Special dielectric 3.4.1. Secnhet special dielectric and special properties 3.4.2. Piezoelectric effect",
+                "[2]: chapter 26",
+                "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                ""
+              ],
+              "column_map": {
+                "Week": "5-6",
+                "Content": "Chapter 3. The Dielectrics 3.1. Molecular structure of dielectric material 3.2. The dielectric polarization phenomenon 3.2.1. The henomena 3.2.2. The dielectric polarization vector and the interfacial charge density 3.3. The electric field strength and inductance in dielectrics 3.4. Special dielectric 3.4.1. Secnhet special dielectric and special properties 3.4.2. Piezoelectric effect",
+                "Readings requirement": "[2]: chapter 26",
+                "CLO": "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Assessment tools and criteria": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "7-8",
+              "cells": [
+                "7-8",
+                "Chapter 4. The Magnetic Field 4.1. Magnetism 4.2. The Discovery of the Magnetic Field 4.2.1. The Magnetic Field 4.2.2. Two Kinds of Magnetism? 4.2.3. Magnetic field vectors 4.2.4. Magnetic field lines 4.2.5. Magnetic Flux 4.3. The Source of the Magnetic Field 4.3.1. Moving Charges 4.3.2. Superposition 4.4. The Magnetic Field of a Current 4.5. Magnetic Dipoles 4.5.1. A Current Loop Is a Magnetic Dipole 4.5.2. The Magnetic Dipole Moment 4.6. Ampere’s Law and Solenoid 4.6.1. Ampere’s Law 4.6.2. The Magnetic Field of a Solenoid 4.7. Magnetic force 4.7.1 The Magnetic Force on a Moving Charge 4.7.2. Magnetic Forces on Current Carrying Wires 4.7.3 Forces and Torques on Current Loops",
+                "[1]: chapter 6 [2]: chapter 29",
+                "CLO1.3 CLO1.4",
+                "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+              ],
+              "column_map": {
+                "Week": "7-8",
+                "Content": "Chapter 4. The Magnetic Field 4.1. Magnetism 4.2. The Discovery of the Magnetic Field 4.2.1. The Magnetic Field 4.2.2. Two Kinds of Magnetism? 4.2.3. Magnetic field vectors 4.2.4. Magnetic field lines 4.2.5. Magnetic Flux 4.3. The Source of the Magnetic Field 4.3.1. Moving Charges 4.3.2. Superposition 4.4. The Magnetic Field of a Current 4.5. Magnetic Dipoles 4.5.1. A Current Loop Is a Magnetic Dipole 4.5.2. The Magnetic Dipole Moment 4.6. Ampere’s Law and Solenoid 4.6.1. Ampere’s Law 4.6.2. The Magnetic Field of a Solenoid 4.7. Magnetic force 4.7.1 The Magnetic Force on a Moving Charge 4.7.2. Magnetic Forces on Current Carrying Wires 4.7.3 Forces and Torques on Current Loops",
+                "Readings requirement": "[1]: chapter 6 [2]: chapter 29",
+                "CLO": "CLO1.3 CLO1.4",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 5. Electromagnetic Induction 5.1. Induced Currents 5.2. Motional emf 5.2.1. Induced Current in a Circuit 5.2.2. Energy Considerations 5.2.3. Eddy Currents 5.3. Lenz’s Law 5.4. Faraday’s Law 5.5. The phenomenon of self-induction. Surface effect 5.6. Induced Currents: Three Applications Generators Transformers 5.7. Inductors 5.7.1. The Potential Difference Across an Inductor 5.7.2. Energy in Inductors and Magnetic Fields",
+                "[1]: chapter 7 [2]: chapter 30",
+                "CLO1.3 CLO1.7 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on the LMS",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Chapter 5. Electromagnetic Induction 5.1. Induced Currents 5.2. Motional emf 5.2.1. Induced Current in a Circuit 5.2.2. Energy Considerations 5.2.3. Eddy Currents 5.3. Lenz’s Law 5.4. Faraday’s Law 5.5. The phenomenon of self-induction. Surface effect 5.6. Induced Currents: Three Applications Generators Transformers 5.7. Inductors 5.7.1. The Potential Difference Across an Inductor 5.7.2. Energy in Inductors and Magnetic Fields",
+                "Readings requirement": "[1]: chapter 7 [2]: chapter 30",
+                "CLO": "CLO1.3 CLO1.7 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on the LMS",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "9-10",
+              "cells": [
+                "9-10",
+                "Presenting group reports",
+                "",
+                "CLO1.3 CLO2.1 CLO3.1",
+                "",
+                "Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "9-10",
+                "Content": "Presenting group reports",
+                "Readings requirement": "",
+                "CLO": "CLO1.3 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": "Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Midterm exam",
+                "",
+                "CLO1.1-CLO1.8",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Midterm exam",
+                "Readings requirement": "",
+                "CLO": "CLO1.1-CLO1.8",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": ""
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 6. Magnetic materials 6.1. Magnetization. Types of magnetic materials 6.2. Explain qualitatively diamagnetic and paramagnetic 6.2.1. Atomic magnetic moment 6.2.2. Diamagnetic effect 6.2.3. Explain diamagnetism and paramagnetism 6.2.4. Magnetic polarity vector 6.3. Synthetic magnetic field in magnetic materials 6.4. Ferromagnetic 6.4.1. Properties of ferromagnetism 6.4.2. Natural magnetization domain theory",
+                "[1]: chapter 11 [2]: chapter",
+                "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 6. Magnetic materials 6.1. Magnetization. Types of magnetic materials 6.2. Explain qualitatively diamagnetic and paramagnetic 6.2.1. Atomic magnetic moment 6.2.2. Diamagnetic effect 6.2.3. Explain diamagnetism and paramagnetism 6.2.4. Magnetic polarity vector 6.3. Synthetic magnetic field in magnetic materials 6.4. Ferromagnetic 6.4.1. Properties of ferromagnetism 6.4.2. Natural magnetization domain theory",
+                "Readings requirement": "[1]: chapter 11 [2]: chapter",
+                "CLO": "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7. Electromagnetic Fields 7.1. Electric field or magnetic field? It depends on your perspective 7.1.1. Reference frames 7.1.2. The transformation of electric and magnetic fields 7.1.3. Almost relativity 7.1.4. Faraday’s Law revisited 7.2. The field laws thus far 7.3. The displacement current the induced magnetic field 7.4. Maxwell’s equations",
+                "[1]: chapter [2]: chapter 31",
+                "CLO1.7 CLO1.8",
+                "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 7. Electromagnetic Fields 7.1. Electric field or magnetic field? It depends on your perspective 7.1.1. Reference frames 7.1.2. The transformation of electric and magnetic fields 7.1.3. Almost relativity 7.1.4. Faraday’s Law revisited 7.2. The field laws thus far 7.3. The displacement current the induced magnetic field 7.4. Maxwell’s equations",
+                "Readings requirement": "[1]: chapter [2]: chapter 31",
+                "CLO": "CLO1.7 CLO1.8",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 8. Electromagnetic oscillations 8.1. LC circuit, harmonic electromagnetic oscillator 8.2. LCR circuit (forced electromagnetic oscillation, not oscillation) 8.2. Forced electromagnetic oscillations",
+                "[1]: chapter [2]: chapter 30, 32",
+                "CLO1.9 CLO2.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 8. Electromagnetic oscillations 8.1. LC circuit, harmonic electromagnetic oscillator 8.2. LCR circuit (forced electromagnetic oscillation, not oscillation) 8.2. Forced electromagnetic oscillations",
+                "Readings requirement": "[1]: chapter [2]: chapter 30, 32",
+                "CLO": "CLO1.9 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 9. Electromagnetic Waves 9.1. The Structure of Electromagnetic Waves 9.2. Electromagnetic wave ladder 9.3. Properties of Electromagnetic Waves 9.3.1. Energy and Intensity 9.3.2. Radiation Pressure 9.3.3. Antennas 9.4. Polarization 9.5. Malus’s Law",
+                "[1]: chapter [2]: chapter 31",
+                "CLO1.10 CLO1.1 CLO3.1",
+                "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 9. Electromagnetic Waves 9.1. The Structure of Electromagnetic Waves 9.2. Electromagnetic wave ladder 9.3. Properties of Electromagnetic Waves 9.3.1. Energy and Intensity 9.3.2. Radiation Pressure 9.3.3. Antennas 9.4. Polarization 9.5. Malus’s Law",
+                "Readings requirement": "[1]: chapter [2]: chapter 31",
+                "CLO": "CLO1.10 CLO1.1 CLO3.1",
+                "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Presenting group reports",
+                "",
+                "CLO1.10 CLO2.1 CLO3.1",
+                "",
+                "Responsiveness of the reports"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Presenting group reports",
+                "Readings requirement": "",
+                "CLO": "CLO1.10 CLO2.1 CLO3.1",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": "Responsiveness of the reports"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.1-CLO1.10",
+                "Students take exams according to given schedule",
+                "According to the exam requirement: Writing exam"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "CLO1.1-CLO1.10",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "According to the exam requirement: Writing exam"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt1191#sec010",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "9.1. Requirements for taking final /terminal exams",
+          "is_list": false,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "9.2. Requirements for attending classes",
+          "is_list": false,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 55
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "9.3. Requirements for in-class behaviour",
+          "is_list": false,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "table",
+          "order": 45,
+          "table_id": "en-ep17-cntt1191#tbl007",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION"
+          ],
+          "section_labels": [
+            "course-requirement-expectation"
+          ],
+          "source_block": 62,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-cntt1191#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, 25/03/2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, 25/03/2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, 25/03/2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Software Engineering",
+          "cells": [
+            "Bachelor of Software Engineering",
+            "Bachelor of Software Engineering"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "table_id": "en-ep17-cntt1191#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental □",
+        "Fundamental □_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory (X)",
+          "cells": [
+            "Compulsory (X)",
+            "Elective □",
+            "Compulsory □",
+            "Elective □"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory (X)",
+            "Foundation □_2": "Elective □",
+            "Fundamental □": "Compulsory □",
+            "Fundamental □_2": "Elective □"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-ep17-cntt1191#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 37,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides learners with knowledge about: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves",
+            "PLO1.3.2",
+            "2"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "The course provides learners with knowledge about: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves",
+            "PLOs": "PLO1.3.2",
+            "Proficiency scale": "2"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Develop skills in searching, collecting, analyzing and presenting problems, self-study ability to improve qualifications...",
+            "PLO2.1.1",
+            "2"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Develop skills in searching, collecting, analyzing and presenting problems, self-study ability to improve qualifications...",
+            "PLOs": "PLO2.1.1",
+            "Proficiency scale": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Creating opportunities to practice teamwork; The first step is to equip learners to be aware of the responsibilities and rights of individuals and the group in learning activities as well as future professional practice activities.",
+            "PLO3.1.1 PLO3.1.2",
+            "2"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "Creating opportunities to practice teamwork; The first step is to equip learners to be aware of the responsibilities and rights of individuals and the group in learning activities as well as future professional practice activities.",
+            "PLOs": "PLO3.1.1 PLO3.1.2",
+            "Proficiency scale": "2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-ep17-cntt1191#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 40,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Master the concept of electric field, the characteristic quantitives of electric field, principle of superposition of electric field, electric force, potential energy, electric potential, electric field energy.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Master the concept of electric field, the characteristic quantitives of electric field, principle of superposition of electric field, electric force, potential energy, electric potential, electric field energy.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understand and be able to solve problems applying the laws of electric field (Coulomb's law, O-G theorem).",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Understand and be able to solve problems applying the laws of electric field (Coulomb's law, O-G theorem).",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Master the concept of magnetic field, the characteristic quantitives of magnetic field, magnetic force, and magnetic flux; The mutual relationship between magnetic field and electric current.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Master the concept of magnetic field, the characteristic quantitives of magnetic field, magnetic force, and magnetic flux; The mutual relationship between magnetic field and electric current.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Understand and be able to solve problems applying the laws of magnetic field (Biot-Savart-Laplace’s law, Ampere theorem).",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs Description": "Understand and be able to solve problems applying the laws of magnetic field (Biot-Savart-Laplace’s law, Ampere theorem).",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.5",
+            "Understand and explain the mutual influence between the physical environment and electric and magnetic field (dielectrics, conductors, magnetic materials) and apply in practice. Able to solve problems about the influence of electric field on conductors and dielectrics (electrostatically balanced conductors, capacitors).",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.5",
+            "CLOs Description": "Understand and explain the mutual influence between the physical environment and electric and magnetic field (dielectrics, conductors, magnetic materials) and apply in practice. Able to solve problems about the influence of electric field on conductors and dielectrics (electrostatically balanced conductors, capacitors).",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.6",
+            "Understand the magnetic nature of magnetic materials, explain the properties of ferromagnetic materials, and applications of ferromagnetic materials.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.6",
+            "CLOs Description": "Understand the magnetic nature of magnetic materials, explain the properties of ferromagnetic materials, and applications of ferromagnetic materials.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.7",
+            "Understand and explain the relationship between magnetic and electric fields (Faraday's law, Maxwell's arguments). Able to solve problems describing the relationship between magnetic and electric field (Faraday's law, Maxwell's arguments).",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.7",
+            "CLOs Description": "Understand and explain the relationship between magnetic and electric fields (Faraday's law, Maxwell's arguments). Able to solve problems describing the relationship between magnetic and electric field (Faraday's law, Maxwell's arguments).",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.8",
+            "Distinguish between static electric field and eddy electric field.",
+            "P"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.8",
+            "CLOs Description": "Distinguish between static electric field and eddy electric field.",
+            "Teaching level (I,T,U)": "P"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.9",
+            "Understand the nature of types of electromagnetic oscillations, electromagnetic oscillator circuits and applications.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.9",
+            "CLOs Description": "Understand the nature of types of electromagnetic oscillations, electromagnetic oscillator circuits and applications.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.10",
+            "Understand the nature of electromagnetic waves, grasp issues related to receiving and transmitting electromagnetic waves.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.10",
+            "CLOs Description": "Understand the nature of electromagnetic waves, grasp issues related to receiving and transmitting electromagnetic waves.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Know how to search, collect, analyze and present problems, have the ability to self-study to improve the level of meeting the content discussed in class, learning content related to application, and content of self-study reports.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Know how to search, collect, analyze and present problems, have the ability to self-study to improve the level of meeting the content discussed in class, learning content related to application, and content of self-study reports.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Awareness of subject position and relevance of subject knowledge to major subjects",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Awareness of subject position and relevance of subject knowledge to major subjects",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Practice teamwork ability: fulfill individual roles when participating in group exercises, group reports, and group tests.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Practice teamwork ability: fulfill individual roles when participating in group exercises, group reports, and group tests.",
+            "Teaching level (I,T,U)": "T"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "en-ep17-cntt1191#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 43,
+      "column_labels": [
+        "Assessments",
+        "column_2",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "column_2": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "Participant",
+            "CLO1 CLO3",
+            "10%",
+            "Week 1-15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "column_2": "Participant",
+            "CLOs": "CLO1 CLO3",
+            "Weighting (%)": "10%",
+            "Week": "Week 1-15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Individual tests",
+          "cells": [
+            "Individual tests",
+            "Individual tests",
+            "",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Individual tests",
+            "column_2": "Individual tests",
+            "CLOs": "",
+            "Weighting (%)": "40%",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "column_2": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "40%",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Group works",
+          "cells": [
+            "Group works",
+            "Group works",
+            "CLO1 CLO3",
+            "40%",
+            "Week 9,10,15"
+          ],
+          "column_map": {
+            "Assessments": "Group works",
+            "column_2": "Group works",
+            "CLOs": "CLO1 CLO3",
+            "Weighting (%)": "40%",
+            "Week": "Week 9,10,15"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Project",
+          "cells": [
+            "Project",
+            "Project",
+            "CLO1.3-CLO1.8 CLO2",
+            "40%",
+            "Week 2,4,6,14"
+          ],
+          "column_map": {
+            "Assessments": "Project",
+            "column_2": "Project",
+            "CLOs": "CLO1.3-CLO1.8 CLO2",
+            "Weighting (%)": "40%",
+            "Week": "Week 2,4,6,14"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Midterm exam",
+          "cells": [
+            "Midterm exam",
+            "Midterm exam",
+            "CLO1.1- CLO1.8",
+            "40%",
+            "Week 10"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exam",
+            "column_2": "Midterm exam",
+            "CLOs": "CLO1.1- CLO1.8",
+            "Weighting (%)": "40%",
+            "Week": "Week 10"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "column_2": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "Final exam",
+            "CLO1.1- CLO1.10",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "column_2": "Final exam",
+            "CLOs": "CLO1.1- CLO1.10",
+            "Weighting (%)": "50%",
+            "Week": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "en-ep17-cntt1191#tbl006",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 49,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Introduction to the course.",
+            "Course Syllabus",
+            "CLO2.1 CLO2.2 CLO3.1",
+            "- Introducing the general information of the course. - Following the lecture; taking notes.",
+            ""
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Introduction to the course.",
+            "Readings requirement": "Course Syllabus",
+            "CLO": "CLO2.1 CLO2.2 CLO3.1",
+            "Teaching and Learning Activities": "- Introducing the general information of the course. - Following the lecture; taking notes.",
+            "Assessment tools and criteria": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1-2",
+          "cells": [
+            "1-2",
+            "Chapter 1. Electrostatics 1.1. Coulomb's Law 1.2. The electric field and characteristic quantitives 1.2.1. The concept of electric field 1.2.2. Field vector (Electric field strength vector) 1.2.3. The rinciple of electric field superposition 1.2.4. Electric dipole moment 1.2.5. Electric field lines 1.3. Gauss's Law 1.3.1. The Concept of Electric flux 1.3.2. Ussing Gauss's 1.4. The electrical potential 1.4.1. Potential properties of static electric field. Stores the number of electric field strength vector 1.4.2. Electrical interaction energy 1.4.3. The electric potential and the electric field energy 1.4.4. Equipotential surface 1.5. The relationship between electric field strength and electric potential",
+            "[1]: chapter 1, 2 [2]: chapter 22-26",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion"
+          ],
+          "column_map": {
+            "Week": "1-2",
+            "Content": "Chapter 1. Electrostatics 1.1. Coulomb's Law 1.2. The electric field and characteristic quantitives 1.2.1. The concept of electric field 1.2.2. Field vector (Electric field strength vector) 1.2.3. The rinciple of electric field superposition 1.2.4. Electric dipole moment 1.2.5. Electric field lines 1.3. Gauss's Law 1.3.1. The Concept of Electric flux 1.3.2. Ussing Gauss's 1.4. The electrical potential 1.4.1. Potential properties of static electric field. Stores the number of electric field strength vector 1.4.2. Electrical interaction energy 1.4.3. The electric potential and the electric field energy 1.4.4. Equipotential surface 1.5. The relationship between electric field strength and electric potential",
+            "Readings requirement": "[1]: chapter 1, 2 [2]: chapter 22-26",
+            "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3-4",
+          "cells": [
+            "3-4",
+            "Chapter 2. The Conductors 2.1. Properties of conductors in electrostatic equilibrium. Capacitance of conductors. 2.2. The electric resonance phenomenon 2.2.1. Phenomenon and explanation of phenomena 2.2.2. Capacitance and Capacitors 2.3. Electric field energy 2.3.1. Interaction energy of a system of point charges and a charged conductor 2.3.2. Planar capacitor energy and electric field energy",
+            "[1]: chapter 3, 10 [2]: chapter 24,26",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+          ],
+          "column_map": {
+            "Week": "3-4",
+            "Content": "Chapter 2. The Conductors 2.1. Properties of conductors in electrostatic equilibrium. Capacitance of conductors. 2.2. The electric resonance phenomenon 2.2.1. Phenomenon and explanation of phenomena 2.2.2. Capacitance and Capacitors 2.3. Electric field energy 2.3.1. Interaction energy of a system of point charges and a charged conductor 2.3.2. Planar capacitor energy and electric field energy",
+            "Readings requirement": "[1]: chapter 3, 10 [2]: chapter 24,26",
+            "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5-6",
+          "cells": [
+            "5-6",
+            "Chapter 3. The Dielectrics 3.1. Molecular structure of dielectric material 3.2. The dielectric polarization phenomenon 3.2.1. The henomena 3.2.2. The dielectric polarization vector and the interfacial charge density 3.3. The electric field strength and inductance in dielectrics 3.4. Special dielectric 3.4.1. Secnhet special dielectric and special properties 3.4.2. Piezoelectric effect",
+            "[2]: chapter 26",
+            "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            ""
+          ],
+          "column_map": {
+            "Week": "5-6",
+            "Content": "Chapter 3. The Dielectrics 3.1. Molecular structure of dielectric material 3.2. The dielectric polarization phenomenon 3.2.1. The henomena 3.2.2. The dielectric polarization vector and the interfacial charge density 3.3. The electric field strength and inductance in dielectrics 3.4. Special dielectric 3.4.1. Secnhet special dielectric and special properties 3.4.2. Piezoelectric effect",
+            "Readings requirement": "[2]: chapter 26",
+            "CLO": "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Assessment tools and criteria": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "7-8",
+          "cells": [
+            "7-8",
+            "Chapter 4. The Magnetic Field 4.1. Magnetism 4.2. The Discovery of the Magnetic Field 4.2.1. The Magnetic Field 4.2.2. Two Kinds of Magnetism? 4.2.3. Magnetic field vectors 4.2.4. Magnetic field lines 4.2.5. Magnetic Flux 4.3. The Source of the Magnetic Field 4.3.1. Moving Charges 4.3.2. Superposition 4.4. The Magnetic Field of a Current 4.5. Magnetic Dipoles 4.5.1. A Current Loop Is a Magnetic Dipole 4.5.2. The Magnetic Dipole Moment 4.6. Ampere’s Law and Solenoid 4.6.1. Ampere’s Law 4.6.2. The Magnetic Field of a Solenoid 4.7. Magnetic force 4.7.1 The Magnetic Force on a Moving Charge 4.7.2. Magnetic Forces on Current Carrying Wires 4.7.3 Forces and Torques on Current Loops",
+            "[1]: chapter 6 [2]: chapter 29",
+            "CLO1.3 CLO1.4",
+            "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+          ],
+          "column_map": {
+            "Week": "7-8",
+            "Content": "Chapter 4. The Magnetic Field 4.1. Magnetism 4.2. The Discovery of the Magnetic Field 4.2.1. The Magnetic Field 4.2.2. Two Kinds of Magnetism? 4.2.3. Magnetic field vectors 4.2.4. Magnetic field lines 4.2.5. Magnetic Flux 4.3. The Source of the Magnetic Field 4.3.1. Moving Charges 4.3.2. Superposition 4.4. The Magnetic Field of a Current 4.5. Magnetic Dipoles 4.5.1. A Current Loop Is a Magnetic Dipole 4.5.2. The Magnetic Dipole Moment 4.6. Ampere’s Law and Solenoid 4.6.1. Ampere’s Law 4.6.2. The Magnetic Field of a Solenoid 4.7. Magnetic force 4.7.1 The Magnetic Force on a Moving Charge 4.7.2. Magnetic Forces on Current Carrying Wires 4.7.3 Forces and Torques on Current Loops",
+            "Readings requirement": "[1]: chapter 6 [2]: chapter 29",
+            "CLO": "CLO1.3 CLO1.4",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the report"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 5. Electromagnetic Induction 5.1. Induced Currents 5.2. Motional emf 5.2.1. Induced Current in a Circuit 5.2.2. Energy Considerations 5.2.3. Eddy Currents 5.3. Lenz’s Law 5.4. Faraday’s Law 5.5. The phenomenon of self-induction. Surface effect 5.6. Induced Currents: Three Applications Generators Transformers 5.7. Inductors 5.7.1. The Potential Difference Across an Inductor 5.7.2. Energy in Inductors and Magnetic Fields",
+            "[1]: chapter 7 [2]: chapter 30",
+            "CLO1.3 CLO1.7 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on the LMS",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Chapter 5. Electromagnetic Induction 5.1. Induced Currents 5.2. Motional emf 5.2.1. Induced Current in a Circuit 5.2.2. Energy Considerations 5.2.3. Eddy Currents 5.3. Lenz’s Law 5.4. Faraday’s Law 5.5. The phenomenon of self-induction. Surface effect 5.6. Induced Currents: Three Applications Generators Transformers 5.7. Inductors 5.7.1. The Potential Difference Across an Inductor 5.7.2. Energy in Inductors and Magnetic Fields",
+            "Readings requirement": "[1]: chapter 7 [2]: chapter 30",
+            "CLO": "CLO1.3 CLO1.7 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on the LMS",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "9-10",
+          "cells": [
+            "9-10",
+            "Presenting group reports",
+            "",
+            "CLO1.3 CLO2.1 CLO3.1",
+            "",
+            "Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "9-10",
+            "Content": "Presenting group reports",
+            "Readings requirement": "",
+            "CLO": "CLO1.3 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": "Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Midterm exam",
+            "",
+            "CLO1.1-CLO1.8",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Midterm exam",
+            "Readings requirement": "",
+            "CLO": "CLO1.1-CLO1.8",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": ""
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 6. Magnetic materials 6.1. Magnetization. Types of magnetic materials 6.2. Explain qualitatively diamagnetic and paramagnetic 6.2.1. Atomic magnetic moment 6.2.2. Diamagnetic effect 6.2.3. Explain diamagnetism and paramagnetism 6.2.4. Magnetic polarity vector 6.3. Synthetic magnetic field in magnetic materials 6.4. Ferromagnetic 6.4.1. Properties of ferromagnetism 6.4.2. Natural magnetization domain theory",
+            "[1]: chapter 11 [2]: chapter",
+            "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 6. Magnetic materials 6.1. Magnetization. Types of magnetic materials 6.2. Explain qualitatively diamagnetic and paramagnetic 6.2.1. Atomic magnetic moment 6.2.2. Diamagnetic effect 6.2.3. Explain diamagnetism and paramagnetism 6.2.4. Magnetic polarity vector 6.3. Synthetic magnetic field in magnetic materials 6.4. Ferromagnetic 6.4.1. Properties of ferromagnetism 6.4.2. Natural magnetization domain theory",
+            "Readings requirement": "[1]: chapter 11 [2]: chapter",
+            "CLO": "CLO1.5 CLO1.6 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture; asking questions to students to encourage class discussion. - Summarizing the lecture and giving homeworks to students. Learning Activities: - Before the lecture: Reading the materials uploaded on LMS. - Following the lecture; taking notes. - Actively participating in the class discussion. - Finishing homeworks",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7. Electromagnetic Fields 7.1. Electric field or magnetic field? It depends on your perspective 7.1.1. Reference frames 7.1.2. The transformation of electric and magnetic fields 7.1.3. Almost relativity 7.1.4. Faraday’s Law revisited 7.2. The field laws thus far 7.3. The displacement current the induced magnetic field 7.4. Maxwell’s equations",
+            "[1]: chapter [2]: chapter 31",
+            "CLO1.7 CLO1.8",
+            "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 7. Electromagnetic Fields 7.1. Electric field or magnetic field? It depends on your perspective 7.1.1. Reference frames 7.1.2. The transformation of electric and magnetic fields 7.1.3. Almost relativity 7.1.4. Faraday’s Law revisited 7.2. The field laws thus far 7.3. The displacement current the induced magnetic field 7.4. Maxwell’s equations",
+            "Readings requirement": "[1]: chapter [2]: chapter 31",
+            "CLO": "CLO1.7 CLO1.8",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 8. Electromagnetic oscillations 8.1. LC circuit, harmonic electromagnetic oscillator 8.2. LCR circuit (forced electromagnetic oscillation, not oscillation) 8.2. Forced electromagnetic oscillations",
+            "[1]: chapter [2]: chapter 30, 32",
+            "CLO1.9 CLO2.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 8. Electromagnetic oscillations 8.1. LC circuit, harmonic electromagnetic oscillator 8.2. LCR circuit (forced electromagnetic oscillation, not oscillation) 8.2. Forced electromagnetic oscillations",
+            "Readings requirement": "[1]: chapter [2]: chapter 30, 32",
+            "CLO": "CLO1.9 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 9. Electromagnetic Waves 9.1. The Structure of Electromagnetic Waves 9.2. Electromagnetic wave ladder 9.3. Properties of Electromagnetic Waves 9.3.1. Energy and Intensity 9.3.2. Radiation Pressure 9.3.3. Antennas 9.4. Polarization 9.5. Malus’s Law",
+            "[1]: chapter [2]: chapter 31",
+            "CLO1.10 CLO1.1 CLO3.1",
+            "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 9. Electromagnetic Waves 9.1. The Structure of Electromagnetic Waves 9.2. Electromagnetic wave ladder 9.3. Properties of Electromagnetic Waves 9.3.1. Energy and Intensity 9.3.2. Radiation Pressure 9.3.3. Antennas 9.4. Polarization 9.5. Malus’s Law",
+            "Readings requirement": "[1]: chapter [2]: chapter 31",
+            "CLO": "CLO1.10 CLO1.1 CLO3.1",
+            "Teaching and Learning Activities": "Teaching Activities: - Giving the lecture - Guiding students to explore the content themselves - Making requests about report content Learning Activities: - Finishing report - Submiting reports on time on",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers Level of assignment completion Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Presenting group reports",
+            "",
+            "CLO1.10 CLO2.1 CLO3.1",
+            "",
+            "Responsiveness of the reports"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Presenting group reports",
+            "Readings requirement": "",
+            "CLO": "CLO1.10 CLO2.1 CLO3.1",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": "Responsiveness of the reports"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.1-CLO1.10",
+            "Students take exams according to given schedule",
+            "According to the exam requirement: Writing exam"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "CLO1.1-CLO1.10",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "According to the exam requirement: Writing exam"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 45,
+      "table_id": "en-ep17-cntt1191#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "section_labels": [
+        "course-requirement-expectation"
+      ],
+      "source_block": 62,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: General Physics (Electricity and Magnetism)\n* Code: CNTT1191\n* Credits: 03 (45 credit hrs; 50 min/credit hrs)\n* Credit hours for teaching and learning activities:\n+ Lecture: 30 hrs\n+ Presentation and Discussion: 6 hrs\n+ Exercise and discussion: 9 hrs\n+ Self-study: 90 hrs\n* Parallel course(s): None\n* Prerequisite course(s): None\n* Department conducting the course:\n+ Faculty: Information Technology and Digital Economic\n+ Lecturers:\n1. Ph.D Tong Thi Hao Tam Tel: (84)913 520 505 Email: tamtth@neu.edu.vn\n2. Ph.D Nguyen Thanh Huong Tel: (84)983 168 238 Email:\n* Kind of the course:\n* Course language: In English\n* Meeting hour:\nThis course is to prepare students of the Software Engineering major with fundamental knowledge of electricity and magnetism, including: The basic concepts of electric charge and the force between them, the concepts of the electric field and electric potential, capacitance and energy storage in an electric field; A current in turn intrinsically produces a magnetic field, examining the force a magnetic field exerts on moving charges and learn how to relate a magnetic field to the current that produces it; Properties of conductors and dielectrics in electric fields and applications; Magnetic nature of magnetic materials and applications; escribing the effects of time varying magnetic and electric fields, this leads us into Maxwell's Equations and electromagnetic waves. The applications of this topic are fundamental to our society as it encompasses such matters as communication by electromagnetic radiation, functioning of our nervous system and operation of all electronic circuits. This course also helps students obtain other skills: problem solving and teamwork.\nElectricity and Magnetism, Edward M. Purcell, David J. Morin (2013), third edition, Cambridge University Press.\nPhysics for scientists and engineers: a strategic approach 4/E with modern physics, Randall D. Knight (2015), fourth edition, Boston: Pearson Education, Inc.\nLương Duyên Bình, Dư Trí Công, Nguyễn Hữu Hồ, Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.\nLương Duyên Bình (Chủ biên), Bài tập Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.\nTống Thị Hảo Tâm (Chủ biên), Đặng Đình Hải (2019), Bài giảng Vật lý Đại cương (Tâp 1), NXB ĐH Kinh tế Quốc dân.\nDavid Halliday- Robert Resnick- Jearl Walker, Cơ sở vật lí (tập IV), NXB Giáo dục.\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\nTable 8.1. Lesson plan for the course\n9.1. Requirements for taking final /terminal exams\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

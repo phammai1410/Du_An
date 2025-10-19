@@ -1,0 +1,2616 @@
+{
+  "doc_id": "en-cntt1180e",
+  "language": "en",
+  "course_name_stem": "Python Programming",
+  "course_variant": "",
+  "course_code": "CNTT1180E",
+  "source_filename": "Python Programming_CNTT1180E.docx",
+  "source_relpath": "data\\raw\\en\\Python Programming_CNTT1180E.docx",
+  "source_hash": "49dd0a8ea4bfc4bb009b5234faea566c",
+  "source_modified": "2025-10-11T10:42:50.608037+00:00",
+  "processed_at": "2025-10-17T16:55:27.593077+00:00",
+  "stats": {
+    "paragraphs": 37,
+    "tables": 8,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-cntt1180e#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "Title: Python Programming Code: CNTT1180E",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Credit hours for teaching and learning activities:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Lecture: 35 hrs",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Exercises on class: 10 hrs",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Self-study: 90 hrs.",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Parallel course(s): None",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Prerequisite course(s): None",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Department conducting the course:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Faculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Lecturers:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "MSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "MSc. Phạm Thảo Tel: 0966986689 Email: thaop@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Kind of the course:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "table",
+          "order": 15,
+          "table_id": "en-cntt1180e#tbl002",
+          "table_name": "Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental □",
+            "Fundamental □_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory □",
+                "Elective □"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental □": "Compulsory □",
+                "Fundamental □_2": "Elective □"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "* Meeting hour:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "This course introduces the programming environment, architecture overview and application capabilities of Python.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "This course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "This course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 23
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Textbook(s):",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Others:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Software: Visual Studio Code, PyCharm",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 31
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-cntt1180e#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 34,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib.",
+                "PLO1.3 PLO1.4 PLO1.5",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib.",
+                "PLOs": "PLO1.3 PLO1.4 PLO1.5",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Learning to practice thinking skills, problem solving and good practice skills with the Python programming language",
+                "PLO2.2",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Learning to practice thinking skills, problem solving and good practice skills with the Python programming language",
+                "PLOs": "PLO2.2",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+                "PLO3.1 PLO3.4",
+                "4, 4, 4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+                "PLOs": "PLO3.1 PLO3.4",
+                "Proficiency scale": "4, 4, 4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-cntt1180e#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 37,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I, T, U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language.",
+                "ITU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language.",
+                "Teaching level (I, T, U)": "ITU3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib.",
+                "ITU4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib.",
+                "Teaching level (I, T, U)": "ITU4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing.",
+                "TU4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing.",
+                "Teaching level (I, T, U)": "TU4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study Python-related materials to complete assigned assignments.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Ability to self-study Python-related materials to complete assigned assignments.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Proper understanding of responsibility in job performance, professional ethics in work related to Python programming.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Proper understanding of responsibility in job performance, professional ethics in work related to Python programming.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "en-cntt1180e#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 40,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3",
+                "10%",
+                "1-15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3",
+                "Weighting (%)": "10%",
+                "Week": "1-15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Midterm exam 1 (Individual test)",
+              "cells": [
+                "Midterm exam 1 (Individual test)",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "20%",
+                "12"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exam 1 (Individual test)",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Weighting (%)": "20%",
+                "Week": "12"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Midterm exam 2 (Group works)",
+              "cells": [
+                "Midterm exam 2 (Group works)",
+                "CLO1.x CLO2.x CLO3.x",
+                "20%",
+                "14-15"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exam 2 (Group works)",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "20%",
+                "Week": "14-15"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "50%",
+                "-"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+                "Weighting (%)": "50%",
+                "Week": "-"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "en-cntt1180e#tbl006",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+                "[1] Chapter 1, 2, 3",
+                "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+                "Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+                "Required readings text": "[1] Chapter 1, 2, 3",
+                "CLOs": "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+                "[1] Chapter 4, 5",
+                "CLO2.1",
+                "Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+                "Required readings text": "[1] Chapter 4, 5",
+                "CLOs": "CLO2.1",
+                "Teaching-learning activities": "Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+                "[1] Chapter 31, 32, 33",
+                "CLO2.1",
+                "Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+                "Required readings text": "[1] Chapter 31, 32, 33",
+                "CLOs": "CLO2.1",
+                "Teaching-learning activities": "Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+                "[1] Chapter 6, 7",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+                "Required readings text": "[1] Chapter 6, 7",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+                "[1] Chapter 11, 25",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+                "Required readings text": "[1] Chapter 11, 25",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+                "[1] Chapter 11, 25",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+                "Required readings text": "[1] Chapter 11, 25",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file",
+                "[2] Chapter 17, 18, 19",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file",
+                "Required readings text": "[2] Chapter 17, 18, 19",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+                "[1] Chapter 17, 18, 19, 20",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+                "Required readings text": "[1] Chapter 17, 18, 19, 20",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "9-10",
+              "cells": [
+                "9-10",
+                "Chapter 7: Data Science Using Python 7.1. NumPy",
+                "[3] Chapter 3",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)"
+              ],
+              "column_map": {
+                "Week": "9-10",
+                "Content": "Chapter 7: Data Science Using Python 7.1. NumPy",
+                "Required readings text": "[3] Chapter 3",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 7: Data Science Using Python 7.2. Pandas",
+                "[3] Chapter 4, 5, 6",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 7: Data Science Using Python 7.2. Pandas",
+                "Required readings text": "[3] Chapter 4, 5, 6",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+                "[3] Chapter 3, 7",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+                "Required readings text": "[3] Chapter 3, 7",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "14-15",
+              "cells": [
+                "14-15",
+                "Group project presentation",
+                "Students find documents by themselves",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Group presentation"
+              ],
+              "column_map": {
+                "Week": "14-15",
+                "Content": "Group project presentation",
+                "Required readings text": "Students find documents by themselves",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Group presentation"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Students take exams according to give schedule"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Required readings text": "",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Students take exams according to give schedule"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "en-cntt1180e#tbl007",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 47,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+                "[1] Chapter 1, 2, 3",
+                "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+                "Readings requirement": "[1] Chapter 1, 2, 3",
+                "CLO": "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+                "[1] Chapter 4, 5",
+                "CLO2.1",
+                "Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+                "Readings requirement": "[1] Chapter 4, 5",
+                "CLO": "CLO2.1",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+                "[1] Chapter 31, 32, 33",
+                "CLO2.1",
+                "Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+                "Readings requirement": "[1] Chapter 31, 32, 33",
+                "CLO": "CLO2.1",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+                "[1] Chapter 6, 7",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+                "Readings requirement": "[1] Chapter 6, 7",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+                "[1] Chapter 11, 25",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+                "Readings requirement": "[1] Chapter 11, 25",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+                "[1] Chapter 11, 25",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+                "Readings requirement": "[1] Chapter 11, 25",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file",
+                "[2] Chapter 17, 18, 19",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file",
+                "Readings requirement": "[2] Chapter 17, 18, 19",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+                "[1] Chapter 17, 18, 19, 20",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+                "Readings requirement": "[1] Chapter 17, 18, 19, 20",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9-10",
+              "cells": [
+                "9-10",
+                "Chapter 7: Data Science Using Python 7.1. NumPy",
+                "[3] Chapter 3",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "9-10",
+                "Content": "Chapter 7: Data Science Using Python 7.1. NumPy",
+                "Readings requirement": "[3] Chapter 3",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 7: Data Science Using Python 7.2. Pandas",
+                "[3] Chapter 4, 5, 6",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 7: Data Science Using Python 7.2. Pandas",
+                "Readings requirement": "[3] Chapter 4, 5, 6",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+                "[3] Chapter 3, 7",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+                "Readings requirement": "[3] Chapter 3, 7",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "14-15",
+              "cells": [
+                "14-15",
+                "Group project presentation",
+                "Students find documents by themselves",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Group presentation",
+                "Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works"
+              ],
+              "column_map": {
+                "Week": "14-15",
+                "Content": "Group project presentation",
+                "Readings requirement": "Students find documents by themselves",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Group presentation",
+                "Assessment tools and criteria": "Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Students take exams according to given schedule",
+                "According to the exam requirement"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "According to the exam requirement"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1180e#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams.",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams."
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 51
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec011",
+      "title": "9.2. Requirements for attending classes.",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes."
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 55
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1180e#sec012",
+      "title": "9.3. Requirements for in-class behavior",
+      "level": 2,
+      "label": "requirements-for-in-class-behavior",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "table",
+          "order": 44,
+          "table_id": "en-cntt1180e#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 61,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-cntt1180e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 15,
+      "table_id": "en-cntt1180e#tbl002",
+      "table_name": "Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 18,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental □",
+        "Fundamental □_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory □",
+            "Elective □"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental □": "Compulsory □",
+            "Fundamental □_2": "Elective □"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-cntt1180e#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 34,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib.",
+            "PLO1.3 PLO1.4 PLO1.5",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "The course provides in-depth knowledge of the Python programming language: data types, control structures, object-oriented programming; program design with functions and modules; work with Python data visualization and analysis libraries such as NumPy, Pandas, Matplotlib.",
+            "PLOs": "PLO1.3 PLO1.4 PLO1.5",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Learning to practice thinking skills, problem solving and good practice skills with the Python programming language",
+            "PLO2.2",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Learning to practice thinking skills, problem solving and good practice skills with the Python programming language",
+            "PLOs": "PLO2.2",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+            "PLO3.1 PLO3.4",
+            "4, 4, 4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+            "PLOs": "PLO3.1 PLO3.4",
+            "Proficiency scale": "4, 4, 4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-cntt1180e#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 37,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I, T, U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language.",
+            "ITU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understanding variables, data types, control structures; object-oriented programming; Design programs with functions and modules with Python programming language.",
+            "Teaching level (I, T, U)": "ITU3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib.",
+            "ITU4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Perform data analysis and data visualization operations with Python. Works with popular Python libraries such as NumPy, Pandas, Matplotlib.",
+            "Teaching level (I, T, U)": "ITU4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing.",
+            "TU4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "The students have skilled in searching, synthesizing, analyzing, and using libraries in Python for data analysis and processing.",
+            "Teaching level (I, T, U)": "TU4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study Python-related materials to complete assigned assignments.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Ability to self-study Python-related materials to complete assigned assignments.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Proper understanding of responsibility in job performance, professional ethics in work related to Python programming.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Proper understanding of responsibility in job performance, professional ethics in work related to Python programming.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "en-cntt1180e#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 40,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3",
+            "10%",
+            "1-15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2 CLO3.3",
+            "Weighting (%)": "10%",
+            "Week": "1-15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Midterm exam 1 (Individual test)",
+          "cells": [
+            "Midterm exam 1 (Individual test)",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "20%",
+            "12"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exam 1 (Individual test)",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Weighting (%)": "20%",
+            "Week": "12"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Midterm exam 2 (Group works)",
+          "cells": [
+            "Midterm exam 2 (Group works)",
+            "CLO1.x CLO2.x CLO3.x",
+            "20%",
+            "14-15"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exam 2 (Group works)",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "20%",
+            "Week": "14-15"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "50%",
+            "-"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1",
+            "Weighting (%)": "50%",
+            "Week": "-"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "en-cntt1180e#tbl006",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+            "[1] Chapter 1, 2, 3",
+            "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+            "Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+            "Required readings text": "[1] Chapter 1, 2, 3",
+            "CLOs": "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Read carefully the syllabus provided (IU) Lecture (T) Homework 1 (U)"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+            "[1] Chapter 4, 5",
+            "CLO2.1",
+            "Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+            "Required readings text": "[1] Chapter 4, 5",
+            "CLOs": "CLO2.1",
+            "Teaching-learning activities": "Q and A Homework 1 discussion (TU) Lecture (T) Homework 2 (U)"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+            "[1] Chapter 31, 32, 33",
+            "CLO2.1",
+            "Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+            "Required readings text": "[1] Chapter 31, 32, 33",
+            "CLOs": "CLO2.1",
+            "Teaching-learning activities": "Q and A Homework 2 discussion (TU) Lecture (T) Homework 3 (U)"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+            "[1] Chapter 6, 7",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+            "Required readings text": "[1] Chapter 6, 7",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 3 discussion (TU) Lecture (T) Homework 4 (U)"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+            "[1] Chapter 11, 25",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+            "Required readings text": "[1] Chapter 11, 25",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 4 discussion (TU) Lecture (T) Homework 5 (U)"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+            "[1] Chapter 11, 25",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+            "Required readings text": "[1] Chapter 11, 25",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 5 discussion (TU) Lecture (T) Homework 6 (U)"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file",
+            "[2] Chapter 17, 18, 19",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Chapter 5: File handling 5.1. Open file 5.2. Read file. 5.3. Write/Create file. 5.4. Delete file",
+            "Required readings text": "[2] Chapter 17, 18, 19",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 6 discussion (TU) Lecture (T) Homework 7 (U)"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+            "[1] Chapter 17, 18, 19, 20",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+            "Required readings text": "[1] Chapter 17, 18, 19, 20",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 7 discussion (TU) Lecture (T) Homework 8 (U)"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "9-10",
+          "cells": [
+            "9-10",
+            "Chapter 7: Data Science Using Python 7.1. NumPy",
+            "[3] Chapter 3",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)"
+          ],
+          "column_map": {
+            "Week": "9-10",
+            "Content": "Chapter 7: Data Science Using Python 7.1. NumPy",
+            "Required readings text": "[3] Chapter 3",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 8 discussion (TU) Lecture (T) Homework 9 (U)"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 7: Data Science Using Python 7.2. Pandas",
+            "[3] Chapter 4, 5, 6",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 7: Data Science Using Python 7.2. Pandas",
+            "Required readings text": "[3] Chapter 4, 5, 6",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 9 discussion (TU) Lecture (T) Homework 10 (U) Midterm test 1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+            "[3] Chapter 3, 7",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+            "Required readings text": "[3] Chapter 3, 7",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Q and A Homework 10 discussion (TU) Lecture (T) Homework 11 (U)"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "14-15",
+          "cells": [
+            "14-15",
+            "Group project presentation",
+            "Students find documents by themselves",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Group presentation"
+          ],
+          "column_map": {
+            "Week": "14-15",
+            "Content": "Group project presentation",
+            "Required readings text": "Students find documents by themselves",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Group presentation"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Students take exams according to give schedule"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Required readings text": "",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Students take exams according to give schedule"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "en-cntt1180e#tbl007",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 47,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+            "[1] Chapter 1, 2, 3",
+            "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Chapter 1: Introduction to Python What is Python? History of Python Python-2 and Python-3 differences Install Python and Environment Setup Syntax Input, Output Variables Expressions Statements",
+            "Readings requirement": "[1] Chapter 1, 2, 3",
+            "CLO": "CLO1.1 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of Python using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+            "[1] Chapter 4, 5",
+            "CLO2.1",
+            "Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 2: Data types in Python 2.1. Number 2.2. String 2.3. List",
+            "Readings requirement": "[1] Chapter 4, 5",
+            "CLO": "CLO2.1",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of data types (number, string, list) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+            "[1] Chapter 31, 32, 33",
+            "CLO2.1",
+            "Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 2: Data types in Python 2.4. Tuple 2.5. Set 2.6. Dictionary",
+            "Readings requirement": "[1] Chapter 31, 32, 33",
+            "CLO": "CLO2.1",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of data types (tuple, set, dictionary) in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+            "[1] Chapter 6, 7",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Control structures 3.1. If statements 3.2. While Loops 3.3. For Loops",
+            "Readings requirement": "[1] Chapter 6, 7",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of control structures in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+            "[1] Chapter 11, 25",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Function, Modules, Packages in Python 4.1. Functions",
+            "Readings requirement": "[1] Chapter 11, 25",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of functions in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+            "[1] Chapter 11, 25",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 4: Function, Modules, Packages in Python 4.2. Modules 4.3. Packages",
+            "Readings requirement": "[1] Chapter 11, 25",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of modules and packages in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file",
+            "[2] Chapter 17, 18, 19",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Chapter 5: File handling 5.1. Open file 5.2. Read file 5.3. Write/Create file 5.4. Delete file",
+            "Readings requirement": "[2] Chapter 17, 18, 19",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of file handling in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+            "[1] Chapter 17, 18, 19, 20",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 6: Python Object Oriented 6.1. Class 6.2. Object 6.3. The __init__() method 6.4. Inheritance 6.5. Polymorphism 6.6. Encapsulation",
+            "Readings requirement": "[1] Chapter 17, 18, 19, 20",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of object oriented in Python is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9-10",
+          "cells": [
+            "9-10",
+            "Chapter 7: Data Science Using Python 7.1. NumPy",
+            "[3] Chapter 3",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "9-10",
+            "Content": "Chapter 7: Data Science Using Python 7.1. NumPy",
+            "Readings requirement": "[3] Chapter 3",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of NumPy package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 7: Data Science Using Python 7.2. Pandas",
+            "[3] Chapter 4, 5, 6",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 7: Data Science Using Python 7.2. Pandas",
+            "Readings requirement": "[3] Chapter 4, 5, 6",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of Pandas package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues. Do midterm test 1",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+            "[3] Chapter 3, 7",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 7: Data Science Using Python 7.3. Matplotlib",
+            "Readings requirement": "[3] Chapter 3, 7",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Lectures: basic knowledge of Matplotlib package is discussed using PowerPoint slides and tools. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises. In-class discussions: students are encouraged to raise questions, participate in discussions, and share ideas with their peers. These discussions help students formulate their own opinions on controversial issues.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "14-15",
+          "cells": [
+            "14-15",
+            "Group project presentation",
+            "Students find documents by themselves",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Group presentation",
+            "Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works"
+          ],
+          "column_map": {
+            "Week": "14-15",
+            "Content": "Group project presentation",
+            "Readings requirement": "Students find documents by themselves",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Group presentation",
+            "Assessment tools and criteria": "Criteria: Presentation Content, Presentation Oral Delivery, Comprehension and Contribution to Group \nMethod: Group works"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Students take exams according to given schedule",
+            "According to the exam requirement"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "CLO1.2 CLO2.1 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "According to the exam requirement"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 44,
+      "table_id": "en-cntt1180e#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "source_block": 61,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "Title: Python Programming Code: CNTT1180E\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities:\nLecture: 35 hrs\nExercises on class: 10 hrs\nSelf-study: 90 hrs.\nParallel course(s): None\nPrerequisite course(s): None\nDepartment conducting the course:\nFaculty: Information, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers:\nMSc. Cao Thị Thu Hương,Tel: 0912916316 Email: huongct@neu.edu.vn\nMSc. Phạm Thảo Tel: 0966986689 Email: thaop@neu.edu.vn\nKind of the course:\n* Meeting hour:\nThis course introduces the programming environment, architecture overview and application capabilities of Python.\nThis course consists of the basics of programming with Python such as variables, data types, control structures, program design with functions and modules with Python programming language.\nThis course also consists of methods of data analysis and data visualization with popular Python libraries such as Pandas, NumPy, Matplotlib.\nTextbook(s):\n[1] John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.\n[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.\n[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.\nOthers:\n[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.\nSoftware: Visual Studio Code, PyCharm\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

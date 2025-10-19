@@ -1,0 +1,3924 @@
+{
+  "doc_id": "en-ep17-tikt1130",
+  "language": "en",
+  "course_name_stem": "Database Theory",
+  "course_variant": "",
+  "course_code": "EP17.TIKT1130",
+  "source_filename": "Database Theory_EP17.TIKT1130.docx",
+  "source_relpath": "data\\raw\\en\\Database Theory_EP17.TIKT1130.docx",
+  "source_hash": "1a0acedb30b2c84eabcca7a464abdcc7",
+  "source_modified": "2025-10-11T10:42:50.587222+00:00",
+  "processed_at": "2025-10-17T16:55:25.961591+00:00",
+  "stats": {
+    "paragraphs": 55,
+    "tables": 12,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-tikt1130#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Database Theory Code: EP17.TIKT1130",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "+ Lecture: 23 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Exercises, Presentation and Discussion: 22 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Self-study: 90 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "* Parallel course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Prerequisite course(s): Introduction to Information Technology",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "+ Faculty: School of Information Technology and Digital Economics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "+ Department: Economics Informatics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "1. Nguyen Thi Bach Tuyet Tel: 0904267880 Email: tuyetnb@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "2. Pham Van Minh Tel: 0965509888 Email: pvminh@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "3. Tong Thi Minh Ngoc Tel: 0913002241 Email: ngoctm@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "table",
+          "order": 17,
+          "table_id": "en-ep17-tikt1130#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory (x)",
+                "Elective □"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory (x)",
+                "Fundamental (x)_2": "Elective □"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "* Meeting hour: University’s schedule",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Databases course provides students majoring in Information System, Computer Science, Information Technology, Statistical Economics, Data Science, Business Analysis,... with basic knowledge on database and data model, on database design and analysis theory as the foundation for later specialized subjects; orient students to database administration and knowledge to make use of database using different tools.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Development of applications in management: Operations of management programming are part of the data mining process with specific tools.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Course contents:",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Basic concepts of database and data model.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Relational data model.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Integrity constraints on the relational data model.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Some database mining languages such as: relational algebra, SQL, etc.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Theory on designing relational database.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Question optimization problem.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Data security and integrity.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 33
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "* Text Books/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[1] Nguyen Trung Tuan (2022), Database, National Economics University Publishing House.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "[2] Jeffrey Ullman (2002), Database Systems, Prentice Hall, ISBN 0-13-031995-3",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "* Additional references:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "[3] David C. Roberts (2024), Introduction to Databases - A Focus on Practical Solutions: Third Edition, Jada Press, ISBN – 13: 979-8985508512",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "[4] Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Independently published, ISBN-13: 979-8396779563",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 40
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "en-ep17-tikt1130#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 43,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "To instill conceptual and apply basic knowledge about data, databases, database models, data queries, database design; Understand and apply the basic principles of the data management application development process.",
+                "PLO4",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "To instill conceptual and apply basic knowledge about data, databases, database models, data queries, database design; Understand and apply the basic principles of the data management application development process.",
+                "PLOs": "PLO4",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Able to analyze, design and build databases in standardized formats; Can perform simple math problems through database mining languages such as relational algebra, SQL, etc.",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Able to analyze, design and build databases in standardized formats; Can perform simple math problems through database mining languages such as relational algebra, SQL, etc.",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Able to think about question optimization methods. Have access to different database models.",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "Able to think about question optimization methods. Have access to different database models.",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G4",
+                "Goals Description": "Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "To identify and resolve practically relevant business analytic tools to handle data based on diversified commerce conjecture to build and sustain a competitive advantage by expanding analytics capabilities for successful career.",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "Goals Description": "To identify and resolve practically relevant business analytic tools to handle data based on diversified commerce conjecture to build and sustain a competitive advantage by expanding analytics capabilities for successful career.",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "en-ep17-tikt1130#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 46,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understand the concept of a data, database, data model, entity-associative model, relational data model, network data model, hierarchical data model and object-oriented data model.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understand the concept of a data, database, data model, entity-associative model, relational data model, network data model, hierarchical data model and object-oriented data model.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Describe the role, importance of database; historical development of database systems; database basics and classification of database systems.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Describe the role, importance of database; historical development of database systems; database basics and classification of database systems.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "To discuss data integration and modeling techniques.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "To discuss data integration and modeling techniques.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "To examine database representation levels; schema and instances; physical database organization and conceptual level schema and data model.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "To examine database representation levels; schema and instances; physical database organization and conceptual level schema and data model.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.3",
+                "To understand the Relational Algebra. To examine tuple relational calculus; domain rational calculus.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.3",
+                "CLOs Description": "To understand the Relational Algebra. To examine tuple relational calculus; domain rational calculus.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Apply theories, database models, algebraic relational expressions, and SQL statement syntax to analyze, evaluate, and explain query optimization and data integrity issues.",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Apply theories, database models, algebraic relational expressions, and SQL statement syntax to analyze, evaluate, and explain query optimization and data integrity issues.",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Basic use of Microsoft SQL Server database management system.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Basic use of Microsoft SQL Server database management system.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "CLO4.1",
+                "Able to build databases in standardized formats and apply basic principles of database design process to serve operational activities; Able to exploit data to analyze and synthesize information to support the decision-making process.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G4",
+                "CLOs": "CLO4.1",
+                "CLOs Description": "Able to build databases in standardized formats and apply basic principles of database design process to serve operational activities; Able to exploit data to analyze and synthesize information to support the decision-making process.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "CLO4.2",
+                "Have access to different database models. Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G4",
+                "CLOs": "CLO4.2",
+                "CLOs Description": "Have access to different database models. Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "CLO5.1",
+                "Able to work independently or participate proactively, positively, and effectively in group activities.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "CLOs": "CLO5.1",
+                "CLOs Description": "Able to work independently or participate proactively, positively, and effectively in group activities.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "CLO5.2",
+                "Ability to organize group activities.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "CLOs": "CLO5.2",
+                "CLOs Description": "Ability to organize group activities.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "CLO5.3",
+                "Have social responsibility and professional ethics in the field of Management Information Systems.",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "CLOs": "CLO5.3",
+                "CLOs Description": "Have social responsibility and professional ethics in the field of Management Information Systems.",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "* Assessment methods:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "- Grading: 10",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "* Assessment summary:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "table",
+          "order": 45,
+          "table_id": "en-ep17-tikt1130#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 53,
+          "column_labels": [
+            "Assessments",
+            "Rubrics",
+            "CLOs",
+            "Weighting (%)",
+            "Weighting (%)_2",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "Rubrics": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Weighting (%)_2": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "Rubric 1",
+                "All CLOs",
+                "10%",
+                "10%",
+                "Week 1 - 15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "Rubrics": "Rubric 1",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "10%",
+                "Weighting (%)_2": "10%",
+                "Week": "Week 1 - 15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "Rubrics": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "Midterm assessment",
+                "Weighting (%)_2": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Midterm exam (MCQ test)",
+              "cells": [
+                "Midterm exam (MCQ test)",
+                "Rubric 2",
+                "CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2",
+                "40%",
+                "40%",
+                "Week 10"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exam (MCQ test)",
+                "Rubrics": "Rubric 2",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2",
+                "Weighting (%)": "40%",
+                "Weighting (%)_2": "40%",
+                "Week": "Week 10"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Group works",
+              "cells": [
+                "Group works",
+                "Rubric 3",
+                "All CLOs",
+                "40%",
+                "40%",
+                "Week 13-14"
+              ],
+              "column_map": {
+                "Assessments": "Group works",
+                "Rubrics": "Rubric 3",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "40%",
+                "Weighting (%)_2": "40%",
+                "Week": "Week 13-14"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "Rubrics": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Weighting (%)_2": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "Rubric 4",
+                "All CLOs",
+                "50%",
+                "50%",
+                "University schedule"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "Rubrics": "Rubric 4",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "50%",
+                "Weighting (%)_2": "50%",
+                "Week": "University schedule"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "* Rubrics:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 55
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Rubric 1: Participant",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "table",
+          "order": 48,
+          "table_id": "en-ep17-tikt1130#tbl006",
+          "table_name": "Rubric 1: Participant",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 57,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Attendance",
+              "cells": [
+                "Attendance",
+                "50",
+                "Attend class on time on all lectures. Attended at least 90% of classes.",
+                "Attend at least 80% of classes",
+                "Attend at least 60% of classes",
+                "Attend less than 50% of classes"
+              ],
+              "column_map": {
+                "Areas of assessment": "Attendance",
+                "Weighting (%)": "50",
+                "Excellence 8.5 – 10 point": "Attend class on time on all lectures. Attended at least 90% of classes.",
+                "Good 6.5 – 8.4 point": "Attend at least 80% of classes",
+                "Fair 4.0 – 6.4 point": "Attend at least 60% of classes",
+                "Poor 0 – 3.9 point": "Attend less than 50% of classes"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "50",
+                "Participate in all in class activities and answer \nquestions, give ideas, and opinions.",
+                "Participate in 70% in class activities and answer questions, give ideas, and opinions.",
+                "Rarely participate in class activities and answer \nquestions, never give ideas, and opinions.",
+                "Never participate in class activities, and never answer questions, give opinions."
+              ],
+              "column_map": {
+                "Areas of assessment": "Participant",
+                "Weighting (%)": "50",
+                "Excellence 8.5 – 10 point": "Participate in all in class activities and answer \nquestions, give ideas, and opinions.",
+                "Good 6.5 – 8.4 point": "Participate in 70% in class activities and answer questions, give ideas, and opinions.",
+                "Fair 4.0 – 6.4 point": "Rarely participate in class activities and answer \nquestions, never give ideas, and opinions.",
+                "Poor 0 – 3.9 point": "Never participate in class activities, and never answer questions, give opinions."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Rubric 2: Midterm exam",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "table",
+          "order": 50,
+          "table_id": "en-ep17-tikt1130#tbl007",
+          "table_name": "Rubric 2: Midterm exam",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 59,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+              "cells": [
+                "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+                "100",
+                "Scored correctly on more than 85%",
+                "Scored correctly on more than 65%",
+                "Scored correctly on more than 45%",
+                "Scored correctly on less than 45%"
+              ],
+              "column_map": {
+                "Areas of assessment": "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+                "Weighting (%)": "100",
+                "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+                "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+                "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+                "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Rubric 3: Group Presentation",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "table",
+          "order": 52,
+          "table_id": "en-ep17-tikt1130#tbl008",
+          "table_name": "Rubric 3: Group Presentation",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 61,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Presentation",
+              "cells": [
+                "Presentation",
+                "30%",
+                "The presenter was especially familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience with a confident voice. The presenter showed enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with the audience effectively. Presentation is free of spelling and grammatical errors.",
+                "The presenter was familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience. The presenter showed a fair level of enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with audience. Presentation is free of spelling and grammatical errors.",
+                "The presenter was familiar enough with the material and did not often read from slides or rely on notes. The presenter spoke enough to be heard by the audience. The presenter showed a little enthusiasm for the subject matter and encouraged audience interest. The presenter sometimes made eye-contact with the audience. Presentation has little of spelling and grammatical errors.",
+                "The presenter was not familiar with the material and read from slides or relied on notes. The presenter spoke not clear enough to be heard by the audience. The presenter showed no enthusiasm for the subject matter. The presenter made no eye-contact with the audience. Presentation has many spelling and grammatical errors."
+              ],
+              "column_map": {
+                "Areas of assessment": "Presentation",
+                "Weighting (%)": "30%",
+                "Excellence 8.5 – 10 point": "The presenter was especially familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience with a confident voice. The presenter showed enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with the audience effectively. Presentation is free of spelling and grammatical errors.",
+                "Good 6.5 – 8.4 point": "The presenter was familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience. The presenter showed a fair level of enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with audience. Presentation is free of spelling and grammatical errors.",
+                "Fair 4.0 – 6.4 point": "The presenter was familiar enough with the material and did not often read from slides or rely on notes. The presenter spoke enough to be heard by the audience. The presenter showed a little enthusiasm for the subject matter and encouraged audience interest. The presenter sometimes made eye-contact with the audience. Presentation has little of spelling and grammatical errors.",
+                "Poor 0 – 3.9 point": "The presenter was not familiar with the material and read from slides or relied on notes. The presenter spoke not clear enough to be heard by the audience. The presenter showed no enthusiasm for the subject matter. The presenter made no eye-contact with the audience. Presentation has many spelling and grammatical errors."
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Design",
+              "cells": [
+                "Design",
+                "30%",
+                "Fonts, colors, backgrounds, and other decorations are very effective, consistent, and appropriate to the topic and audience. Text is clear and easy for the audience to follow. Animation and other effects are used effectively and do not distract the audience. Report is organized logically and presented clearly with effective transitions.",
+                "Fonts, colors, backgrounds, and other decorations are effective, consistent, and appropriate to the topic and audience. Text is clear and easy enough for the audience to follow. Animation and other effect are used and do not distract the audience. Report is organized logically and presented clearly.",
+                "Fonts, colors, backgrounds, and other decorations are appropriate to the topic and audience. Text is clear for the audience to follow. Animation and other effects are used. Report is organized and some discussions are not clear.",
+                "Fonts, colors, backgrounds, and other decorations are inconsistent, and inappropriate to the topic and audience. Text is not clear and easy for the audience to follow. No Animation and other effects. Report is not organized."
+              ],
+              "column_map": {
+                "Areas of assessment": "Design",
+                "Weighting (%)": "30%",
+                "Excellence 8.5 – 10 point": "Fonts, colors, backgrounds, and other decorations are very effective, consistent, and appropriate to the topic and audience. Text is clear and easy for the audience to follow. Animation and other effects are used effectively and do not distract the audience. Report is organized logically and presented clearly with effective transitions.",
+                "Good 6.5 – 8.4 point": "Fonts, colors, backgrounds, and other decorations are effective, consistent, and appropriate to the topic and audience. Text is clear and easy enough for the audience to follow. Animation and other effect are used and do not distract the audience. Report is organized logically and presented clearly.",
+                "Fair 4.0 – 6.4 point": "Fonts, colors, backgrounds, and other decorations are appropriate to the topic and audience. Text is clear for the audience to follow. Animation and other effects are used. Report is organized and some discussions are not clear.",
+                "Poor 0 – 3.9 point": "Fonts, colors, backgrounds, and other decorations are inconsistent, and inappropriate to the topic and audience. Text is not clear and easy for the audience to follow. No Animation and other effects. Report is not organized."
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Content",
+              "cells": [
+                "Content",
+                "40%",
+                "The presentation shows programming results that complete over 80% of the main functions of the actual problem.",
+                "The presentation shows programming results that complete 60% to 80% of the main functions of the actual problem.",
+                "The presentation shows programming results that complete 40% to 60% of the main functions of the actual problem.",
+                "The presentation shows programming results that complete less than 40% of the main functions of the actual problem."
+              ],
+              "column_map": {
+                "Areas of assessment": "Content",
+                "Weighting (%)": "40%",
+                "Excellence 8.5 – 10 point": "The presentation shows programming results that complete over 80% of the main functions of the actual problem.",
+                "Good 6.5 – 8.4 point": "The presentation shows programming results that complete 60% to 80% of the main functions of the actual problem.",
+                "Fair 4.0 – 6.4 point": "The presentation shows programming results that complete 40% to 60% of the main functions of the actual problem.",
+                "Poor 0 – 3.9 point": "The presentation shows programming results that complete less than 40% of the main functions of the actual problem."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Rubric 4: Final exam",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "table",
+          "order": 54,
+          "table_id": "en-ep17-tikt1130#tbl009",
+          "table_name": "Rubric 4: Final exam",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 63,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+              "cells": [
+                "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+                "100%",
+                "Fully programmable with five main functions.",
+                "Fully programmable with four main functions.",
+                "Programmable from two to three main functions.",
+                "Programmable under two main functions."
+              ],
+              "column_map": {
+                "Areas of assessment": "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+                "Weighting (%)": "100%",
+                "Excellence 8.5 – 10 point": "Fully programmable with five main functions.",
+                "Good 6.5 – 8.4 point": "Fully programmable with four main functions.",
+                "Fair 4.0 – 6.4 point": "Programmable from two to three main functions.",
+                "Poor 0 – 3.9 point": "Programmable under two main functions."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "table",
+          "order": 56,
+          "table_id": "en-ep17-tikt1130#tbl010",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 67,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+                "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO1.1 CLO1.2",
+                "Pre-Reading text In class activities",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+                "Required readings text": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLOs": "CLO1.1 CLO1.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model Object-oriented data model",
+                "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO1.1 CLO1.2",
+                "Pre-Reading text In class activities",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model Object-oriented data model",
+                "Required readings text": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLOs": "CLO1.1 CLO1.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO2.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLOs": "CLO2.1",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO2.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLOs": "CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+                "CLO2.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+                "CLOs": "CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLOs": "CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLOs": "CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. Multivalued dependency",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.3",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. Multivalued dependency",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLOs": "CLO2.3",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO3.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLOs": "CLO3.1",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO3.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLOs": "CLO3.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO4.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLOs": "CLO4.1",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO4.1 CLO4.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLOs": "CLO4.1 CLO4.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+                "CLO5.1 CLO5.2 CLO5.3",
+                "Pre-Reading text In class activities Case study discussion",
+                "Rubric 1 Rubric 2"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+                "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+                "CLOs": "CLO5.1 CLO5.2 CLO5.3",
+                "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment": "Rubric 1 Rubric 2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group presentation",
+                "Groups’ reports and presentation",
+                "All CLOs",
+                "In class activities Presentation Q&As",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group presentation",
+                "Required readings text": "Groups’ reports and presentation",
+                "CLOs": "All CLOs",
+                "Teaching-learning activities": "In class activities Presentation Q&As",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course summary and final exam preparation",
+                "All",
+                "All CLOs",
+                "In class activities",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course summary and final exam preparation",
+                "Required readings text": "All",
+                "CLOs": "All CLOs",
+                "Teaching-learning activities": "In class activities",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "All CLOs",
+                "Students take exams according to given schedule",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Required readings text": "",
+                "CLOs": "All CLOs",
+                "Teaching-learning activities": "Students take exams according to given schedule",
+                "Assessment": "Rubric 2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "table",
+          "order": 58,
+          "table_id": "en-ep17-tikt1130#tbl011",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 70,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+                "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO1.1 CLO1.2",
+                "Pre-Reading text Home-work In class activities Testing",
+                "Criteria Tools Method"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+                "Readings requirement": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO": "CLO1.1 CLO1.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities Testing",
+                "Assessment tools and criteria": "Criteria Tools Method"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model 1.4.6. Object-oriented data model",
+                "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO1.1 CLO1.2",
+                "Pre-Reading text In class activities",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model 1.4.6. Object-oriented data model",
+                "Readings requirement": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+                "CLO": "CLO1.1 CLO1.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO2.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO": "CLO2.1",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO2.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+                "CLO": "CLO2.1",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+                "CLO2.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+                "CLO": "CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.3",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO": "CLO2.3",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.3",
+                "Pre-Reading text In class activities",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO": "CLO2.3",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. 3.8. Multivalued dependency",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO2.3",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. 3.8. Multivalued dependency",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+                "CLO": "CLO2.3",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO3.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO": "CLO3.1",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO3.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+                "CLO": "CLO3.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO4.1",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance, participation, test Tools: Rubric 1, 2 Method: Attendance Check, MCQ test, Q&A"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO": "CLO4.1",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance, participation, test Tools: Rubric 1, 2 Method: Attendance Check, MCQ test, Q&A"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO4.2",
+                "Pre-Reading text In class activities Case study discussion",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+                "CLO": "CLO4.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+                "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+                "CLO5.1 CLO54.2",
+                "",
+                "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+                "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+                "CLO": "CLO5.1 CLO54.2",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group presentation",
+                "Groups’ reports and presentation",
+                "All CLOs",
+                "In class activities Presentation Q&As",
+                "Criteria: Attendance and participation Tools: Rubric 3 Method: Presention, Q&A"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group presentation",
+                "Readings requirement": "Groups’ reports and presentation",
+                "CLO": "All CLOs",
+                "Teaching and Learning Activities": "In class activities Presentation Q&As",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 3 Method: Presention, Q&A"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course summary and final exam preparation",
+                "All",
+                "All CLOs",
+                "In class activities",
+                "Criteria: Attendance and participation Tools: Rubric 1 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course summary and final exam preparation",
+                "Readings requirement": "All",
+                "CLO": "All CLOs",
+                "Teaching and Learning Activities": "In class activities",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1 Method: Attendance Check, Q&A"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "All CLOs",
+                "Students take exams according to given schedule",
+                "Criteria: Attendance and participation Tools: Rubric 4 Method: Attendance Check, Q&A"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "All CLOs",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 4 Method: Attendance Check, Q&A"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 75
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 77
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 79
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1130#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 83
+        },
+        {
+          "type": "table",
+          "order": 66,
+          "table_id": "en-ep17-tikt1130#tbl012",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 85,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Dr. Nguyen Thi Bach Tuyet",
+              "cells": [
+                "Dr. Nguyen Thi Bach Tuyet",
+                "Prof. Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "Dr. Nguyen Thi Bach Tuyet",
+                "NEU’s President": "Prof. Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-tikt1130#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023) Bachelor of Software Engineering",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023) Bachelor of Software Engineering",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023) Bachelor of Software Engineering"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "table_id": "en-ep17-tikt1130#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 19,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory (x)",
+            "Elective □"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory (x)",
+            "Fundamental (x)_2": "Elective □"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "en-ep17-tikt1130#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 43,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "To instill conceptual and apply basic knowledge about data, databases, database models, data queries, database design; Understand and apply the basic principles of the data management application development process.",
+            "PLO4",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "To instill conceptual and apply basic knowledge about data, databases, database models, data queries, database design; Understand and apply the basic principles of the data management application development process.",
+            "PLOs": "PLO4",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Able to analyze, design and build databases in standardized formats; Can perform simple math problems through database mining languages such as relational algebra, SQL, etc.",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Able to analyze, design and build databases in standardized formats; Can perform simple math problems through database mining languages such as relational algebra, SQL, etc.",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Able to think about question optimization methods. Have access to different database models.",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "Able to think about question optimization methods. Have access to different database models.",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G4",
+            "Goals Description": "Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "To identify and resolve practically relevant business analytic tools to handle data based on diversified commerce conjecture to build and sustain a competitive advantage by expanding analytics capabilities for successful career.",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "Goals Description": "To identify and resolve practically relevant business analytic tools to handle data based on diversified commerce conjecture to build and sustain a competitive advantage by expanding analytics capabilities for successful career.",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "en-ep17-tikt1130#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 46,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understand the concept of a data, database, data model, entity-associative model, relational data model, network data model, hierarchical data model and object-oriented data model.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understand the concept of a data, database, data model, entity-associative model, relational data model, network data model, hierarchical data model and object-oriented data model.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Describe the role, importance of database; historical development of database systems; database basics and classification of database systems.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Describe the role, importance of database; historical development of database systems; database basics and classification of database systems.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "To discuss data integration and modeling techniques.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "To discuss data integration and modeling techniques.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "To examine database representation levels; schema and instances; physical database organization and conceptual level schema and data model.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "To examine database representation levels; schema and instances; physical database organization and conceptual level schema and data model.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.3",
+            "To understand the Relational Algebra. To examine tuple relational calculus; domain rational calculus.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.3",
+            "CLOs Description": "To understand the Relational Algebra. To examine tuple relational calculus; domain rational calculus.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Apply theories, database models, algebraic relational expressions, and SQL statement syntax to analyze, evaluate, and explain query optimization and data integrity issues.",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Apply theories, database models, algebraic relational expressions, and SQL statement syntax to analyze, evaluate, and explain query optimization and data integrity issues.",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Basic use of Microsoft SQL Server database management system.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Basic use of Microsoft SQL Server database management system.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "CLO4.1",
+            "Able to build databases in standardized formats and apply basic principles of database design process to serve operational activities; Able to exploit data to analyze and synthesize information to support the decision-making process.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G4",
+            "CLOs": "CLO4.1",
+            "CLOs Description": "Able to build databases in standardized formats and apply basic principles of database design process to serve operational activities; Able to exploit data to analyze and synthesize information to support the decision-making process.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "CLO4.2",
+            "Have access to different database models. Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G4",
+            "CLOs": "CLO4.2",
+            "CLOs Description": "Have access to different database models. Have skills in analyzing, consulting and supporting the process of implementing digital transformation in terms of data digitization.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "CLO5.1",
+            "Able to work independently or participate proactively, positively, and effectively in group activities.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "CLOs": "CLO5.1",
+            "CLOs Description": "Able to work independently or participate proactively, positively, and effectively in group activities.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "CLO5.2",
+            "Ability to organize group activities.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "CLOs": "CLO5.2",
+            "CLOs Description": "Ability to organize group activities.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "CLO5.3",
+            "Have social responsibility and professional ethics in the field of Management Information Systems.",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "CLOs": "CLO5.3",
+            "CLOs Description": "Have social responsibility and professional ethics in the field of Management Information Systems.",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 45,
+      "table_id": "en-ep17-tikt1130#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 53,
+      "column_labels": [
+        "Assessments",
+        "Rubrics",
+        "CLOs",
+        "Weighting (%)",
+        "Weighting (%)_2",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "Rubrics": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Weighting (%)_2": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "Rubric 1",
+            "All CLOs",
+            "10%",
+            "10%",
+            "Week 1 - 15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "Rubrics": "Rubric 1",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "10%",
+            "Weighting (%)_2": "10%",
+            "Week": "Week 1 - 15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "Rubrics": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "Midterm assessment",
+            "Weighting (%)_2": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Midterm exam (MCQ test)",
+          "cells": [
+            "Midterm exam (MCQ test)",
+            "Rubric 2",
+            "CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2",
+            "40%",
+            "40%",
+            "Week 10"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exam (MCQ test)",
+            "Rubrics": "Rubric 2",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2",
+            "Weighting (%)": "40%",
+            "Weighting (%)_2": "40%",
+            "Week": "Week 10"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Group works",
+          "cells": [
+            "Group works",
+            "Rubric 3",
+            "All CLOs",
+            "40%",
+            "40%",
+            "Week 13-14"
+          ],
+          "column_map": {
+            "Assessments": "Group works",
+            "Rubrics": "Rubric 3",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "40%",
+            "Weighting (%)_2": "40%",
+            "Week": "Week 13-14"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "Rubrics": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Weighting (%)_2": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "Rubric 4",
+            "All CLOs",
+            "50%",
+            "50%",
+            "University schedule"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "Rubrics": "Rubric 4",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "50%",
+            "Weighting (%)_2": "50%",
+            "Week": "University schedule"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 48,
+      "table_id": "en-ep17-tikt1130#tbl006",
+      "table_name": "Rubric 1: Participant",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 57,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Attendance",
+          "cells": [
+            "Attendance",
+            "50",
+            "Attend class on time on all lectures. Attended at least 90% of classes.",
+            "Attend at least 80% of classes",
+            "Attend at least 60% of classes",
+            "Attend less than 50% of classes"
+          ],
+          "column_map": {
+            "Areas of assessment": "Attendance",
+            "Weighting (%)": "50",
+            "Excellence 8.5 – 10 point": "Attend class on time on all lectures. Attended at least 90% of classes.",
+            "Good 6.5 – 8.4 point": "Attend at least 80% of classes",
+            "Fair 4.0 – 6.4 point": "Attend at least 60% of classes",
+            "Poor 0 – 3.9 point": "Attend less than 50% of classes"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "50",
+            "Participate in all in class activities and answer \nquestions, give ideas, and opinions.",
+            "Participate in 70% in class activities and answer questions, give ideas, and opinions.",
+            "Rarely participate in class activities and answer \nquestions, never give ideas, and opinions.",
+            "Never participate in class activities, and never answer questions, give opinions."
+          ],
+          "column_map": {
+            "Areas of assessment": "Participant",
+            "Weighting (%)": "50",
+            "Excellence 8.5 – 10 point": "Participate in all in class activities and answer \nquestions, give ideas, and opinions.",
+            "Good 6.5 – 8.4 point": "Participate in 70% in class activities and answer questions, give ideas, and opinions.",
+            "Fair 4.0 – 6.4 point": "Rarely participate in class activities and answer \nquestions, never give ideas, and opinions.",
+            "Poor 0 – 3.9 point": "Never participate in class activities, and never answer questions, give opinions."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 50,
+      "table_id": "en-ep17-tikt1130#tbl007",
+      "table_name": "Rubric 2: Midterm exam",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 59,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+          "cells": [
+            "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+            "100",
+            "Scored correctly on more than 85%",
+            "Scored correctly on more than 65%",
+            "Scored correctly on more than 45%",
+            "Scored correctly on less than 45%"
+          ],
+          "column_map": {
+            "Areas of assessment": "Use Microsoft Excel software to write functions and using tools to solve a real-life problem on business.",
+            "Weighting (%)": "100",
+            "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+            "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+            "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+            "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 52,
+      "table_id": "en-ep17-tikt1130#tbl008",
+      "table_name": "Rubric 3: Group Presentation",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 61,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Presentation",
+          "cells": [
+            "Presentation",
+            "30%",
+            "The presenter was especially familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience with a confident voice. The presenter showed enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with the audience effectively. Presentation is free of spelling and grammatical errors.",
+            "The presenter was familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience. The presenter showed a fair level of enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with audience. Presentation is free of spelling and grammatical errors.",
+            "The presenter was familiar enough with the material and did not often read from slides or rely on notes. The presenter spoke enough to be heard by the audience. The presenter showed a little enthusiasm for the subject matter and encouraged audience interest. The presenter sometimes made eye-contact with the audience. Presentation has little of spelling and grammatical errors.",
+            "The presenter was not familiar with the material and read from slides or relied on notes. The presenter spoke not clear enough to be heard by the audience. The presenter showed no enthusiasm for the subject matter. The presenter made no eye-contact with the audience. Presentation has many spelling and grammatical errors."
+          ],
+          "column_map": {
+            "Areas of assessment": "Presentation",
+            "Weighting (%)": "30%",
+            "Excellence 8.5 – 10 point": "The presenter was especially familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience with a confident voice. The presenter showed enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with the audience effectively. Presentation is free of spelling and grammatical errors.",
+            "Good 6.5 – 8.4 point": "The presenter was familiar with the material and did not read from slides or rely on notes. The presenter spoke clearly and slowly enough to be heard by the audience. The presenter showed a fair level of enthusiasm for the subject matter and encouraged audience interest. The presenter made eye-contact with audience. Presentation is free of spelling and grammatical errors.",
+            "Fair 4.0 – 6.4 point": "The presenter was familiar enough with the material and did not often read from slides or rely on notes. The presenter spoke enough to be heard by the audience. The presenter showed a little enthusiasm for the subject matter and encouraged audience interest. The presenter sometimes made eye-contact with the audience. Presentation has little of spelling and grammatical errors.",
+            "Poor 0 – 3.9 point": "The presenter was not familiar with the material and read from slides or relied on notes. The presenter spoke not clear enough to be heard by the audience. The presenter showed no enthusiasm for the subject matter. The presenter made no eye-contact with the audience. Presentation has many spelling and grammatical errors."
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Design",
+          "cells": [
+            "Design",
+            "30%",
+            "Fonts, colors, backgrounds, and other decorations are very effective, consistent, and appropriate to the topic and audience. Text is clear and easy for the audience to follow. Animation and other effects are used effectively and do not distract the audience. Report is organized logically and presented clearly with effective transitions.",
+            "Fonts, colors, backgrounds, and other decorations are effective, consistent, and appropriate to the topic and audience. Text is clear and easy enough for the audience to follow. Animation and other effect are used and do not distract the audience. Report is organized logically and presented clearly.",
+            "Fonts, colors, backgrounds, and other decorations are appropriate to the topic and audience. Text is clear for the audience to follow. Animation and other effects are used. Report is organized and some discussions are not clear.",
+            "Fonts, colors, backgrounds, and other decorations are inconsistent, and inappropriate to the topic and audience. Text is not clear and easy for the audience to follow. No Animation and other effects. Report is not organized."
+          ],
+          "column_map": {
+            "Areas of assessment": "Design",
+            "Weighting (%)": "30%",
+            "Excellence 8.5 – 10 point": "Fonts, colors, backgrounds, and other decorations are very effective, consistent, and appropriate to the topic and audience. Text is clear and easy for the audience to follow. Animation and other effects are used effectively and do not distract the audience. Report is organized logically and presented clearly with effective transitions.",
+            "Good 6.5 – 8.4 point": "Fonts, colors, backgrounds, and other decorations are effective, consistent, and appropriate to the topic and audience. Text is clear and easy enough for the audience to follow. Animation and other effect are used and do not distract the audience. Report is organized logically and presented clearly.",
+            "Fair 4.0 – 6.4 point": "Fonts, colors, backgrounds, and other decorations are appropriate to the topic and audience. Text is clear for the audience to follow. Animation and other effects are used. Report is organized and some discussions are not clear.",
+            "Poor 0 – 3.9 point": "Fonts, colors, backgrounds, and other decorations are inconsistent, and inappropriate to the topic and audience. Text is not clear and easy for the audience to follow. No Animation and other effects. Report is not organized."
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Content",
+          "cells": [
+            "Content",
+            "40%",
+            "The presentation shows programming results that complete over 80% of the main functions of the actual problem.",
+            "The presentation shows programming results that complete 60% to 80% of the main functions of the actual problem.",
+            "The presentation shows programming results that complete 40% to 60% of the main functions of the actual problem.",
+            "The presentation shows programming results that complete less than 40% of the main functions of the actual problem."
+          ],
+          "column_map": {
+            "Areas of assessment": "Content",
+            "Weighting (%)": "40%",
+            "Excellence 8.5 – 10 point": "The presentation shows programming results that complete over 80% of the main functions of the actual problem.",
+            "Good 6.5 – 8.4 point": "The presentation shows programming results that complete 60% to 80% of the main functions of the actual problem.",
+            "Fair 4.0 – 6.4 point": "The presentation shows programming results that complete 40% to 60% of the main functions of the actual problem.",
+            "Poor 0 – 3.9 point": "The presentation shows programming results that complete less than 40% of the main functions of the actual problem."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 54,
+      "table_id": "en-ep17-tikt1130#tbl009",
+      "table_name": "Rubric 4: Final exam",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 63,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+          "cells": [
+            "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+            "100%",
+            "Fully programmable with five main functions.",
+            "Fully programmable with four main functions.",
+            "Programmable from two to three main functions.",
+            "Programmable under two main functions."
+          ],
+          "column_map": {
+            "Areas of assessment": "Use Microsofe Excel software to write functions, macros or use tools to solve a real-life problem on a business.",
+            "Weighting (%)": "100%",
+            "Excellence 8.5 – 10 point": "Fully programmable with five main functions.",
+            "Good 6.5 – 8.4 point": "Fully programmable with four main functions.",
+            "Fair 4.0 – 6.4 point": "Programmable from two to three main functions.",
+            "Poor 0 – 3.9 point": "Programmable under two main functions."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 56,
+      "table_id": "en-ep17-tikt1130#tbl010",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 67,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+            "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO1.1 CLO1.2",
+            "Pre-Reading text In class activities",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+            "Required readings text": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLOs": "CLO1.1 CLO1.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model Object-oriented data model",
+            "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO1.1 CLO1.2",
+            "Pre-Reading text In class activities",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model Object-oriented data model",
+            "Required readings text": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLOs": "CLO1.1 CLO1.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO2.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLOs": "CLO2.1",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO2.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLOs": "CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+            "CLO2.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+            "CLOs": "CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLOs": "CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLOs": "CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. Multivalued dependency",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.3",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. Multivalued dependency",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLOs": "CLO2.3",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO3.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLOs": "CLO3.1",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO3.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLOs": "CLO3.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO4.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLOs": "CLO4.1",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO4.1 CLO4.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLOs": "CLO4.1 CLO4.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+            "CLO5.1 CLO5.2 CLO5.3",
+            "Pre-Reading text In class activities Case study discussion",
+            "Rubric 1 Rubric 2"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+            "Required readings text": "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+            "CLOs": "CLO5.1 CLO5.2 CLO5.3",
+            "Teaching-learning activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment": "Rubric 1 Rubric 2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group presentation",
+            "Groups’ reports and presentation",
+            "All CLOs",
+            "In class activities Presentation Q&As",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group presentation",
+            "Required readings text": "Groups’ reports and presentation",
+            "CLOs": "All CLOs",
+            "Teaching-learning activities": "In class activities Presentation Q&As",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course summary and final exam preparation",
+            "All",
+            "All CLOs",
+            "In class activities",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course summary and final exam preparation",
+            "Required readings text": "All",
+            "CLOs": "All CLOs",
+            "Teaching-learning activities": "In class activities",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "All CLOs",
+            "Students take exams according to given schedule",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Required readings text": "",
+            "CLOs": "All CLOs",
+            "Teaching-learning activities": "Students take exams according to given schedule",
+            "Assessment": "Rubric 2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 58,
+      "table_id": "en-ep17-tikt1130#tbl011",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 70,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+            "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO1.1 CLO1.2",
+            "Pre-Reading text Home-work In class activities Testing",
+            "Criteria Tools Method"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction Lecture 1: Database and Databse Models Database overview The importance of database Historical development of database systems Database basics Classification of database systems Database representation levels Schema and instances Physical database organization Conceptual level schema and data model Views level",
+            "Readings requirement": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO": "CLO1.1 CLO1.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities Testing",
+            "Assessment tools and criteria": "Criteria Tools Method"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model 1.4.6. Object-oriented data model",
+            "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO1.1 CLO1.2",
+            "Pre-Reading text In class activities",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Lecture 1: Database and Databse Models General architecture of a DBMS Database Models Real world modeling Entity-associative model Relational data model Network data model Hierarchical data model 1.4.6. Object-oriented data model",
+            "Readings requirement": "- Syllabus/Lecture notes - Nguyen Trung Tuan (2022), Database, Chapter 1. - Jeffrey Ullman (2002), Database Systems, Chapter 1. - David C. Roberts (2024), Introduction to Databases, Chapter 1.",
+            "CLO": "CLO1.1 CLO1.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO2.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Lecture 2: Some Database Languages 2.1. Relational Algebra 2.1.1. Combination 2.1.2. Intersection 2.1.3. Subtraction 2.1.4. Cartesian product 2.1.5. Projection 2.1.6. Selection 2.1.7. Connection 2.1.8. Division",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO": "CLO2.1",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO2.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Lecture 2: Some Database Languages 2.2. Tuple Relational Calculus 2.2.1. Definition 2.2.2. Accuracy 2.3. Domain Rational Calculus 2.3.1. Definition 2.3.2. Accuracy 2.4. Relational Algebra 2.4.1. Operations 2.4.2. Query examples",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2. - David C. Roberts (2024), Introduction to Databases, Chapter 2.",
+            "CLO": "CLO2.1",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+            "CLO2.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Lecture 2: Some Database Languages 2.5. SQL 2.5.1. Database query commands 2.5.2. Library 2.5.3. Data update commands 2.5.4. Data definition commands 2.5.5. Embedded SQL",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 2. - Jeffrey Ullman (2002), Database Systems, Chapter 2,3. - David C. Roberts (2024), Introduction to Databases, Chapter 2,3. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 1,2,3.",
+            "CLO": "CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.3",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Lecture 3: Relational Database Design Theory Question Functional dependency Definition Axiom Calculation of closure",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO": "CLO2.3",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.3",
+            "Pre-Reading text In class activities",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Lecture 3: Relational Database Design Theory Key of relation schema Key and super key Key identification methods Specner system and key Normalize the relation scheme Problem statement Definition Standard forms 3.5. Relationships between standard forms",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO": "CLO2.3",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. 3.8. Multivalued dependency",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO2.3",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Lecture 3: Relational Database Design Theory Reduce the set of funtional dependencies Natural reduction Definitions and some algorithms. Non-redundant set, non-redundant cover. Secondary attributes Split the relation schema Problem statement. Definition Split the relation schema into 3NF normal form schemas. Split the relation schema into BCNF normal form schemas. 3.8. Multivalued dependency",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 3. - Jeffrey Ullman (2002), Database Systems, Chapter 3,4. - David C. Roberts (2024), Introduction to Databases, Chapter 3,4. - Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Chapter 2,3,4.",
+            "CLO": "CLO2.3",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO3.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Lecture 4: Organization of Physical Data 4.1. External memory organization model 4.2. Heap file organization 4.2.1. Organization 4.2.2. Operations on heap files 4.3. Hashed file organization 4.3.1. Organization 4.3.2. Operations on hashed files",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO": "CLO3.1",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO3.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Mid term test Lecture 4: Organization of Physical Data 4.4. Sequential file organization 4.4.1. Organiztion 4.4.2. Operations. 4.5. B-tree 4.5.1. Organization 4.5.2. Operations on B-tree.",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 4. - Jeffrey Ullman (2002), Database Systems, Chapter 5. - David C. Roberts (2024), Introduction to Databases, Chapter 5.",
+            "CLO": "CLO3.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO4.1",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance, participation, test Tools: Rubric 1, 2 Method: Attendance Check, MCQ test, Q&A"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Lecture 5: Query Optimization Overview of query processing and query optimization 5.1.1. Overview of query processing 5.1.2. Query optimization overview Cost model of the query 5.2.1. Information used to evaluate costs 5.2.2. The unit of measure of the query cost",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO": "CLO4.1",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance, participation, test Tools: Rubric 1, 2 Method: Attendance Check, MCQ test, Q&A"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO4.2",
+            "Pre-Reading text In class activities Case study discussion",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Lecture 5: Query Optimization Evaluation of relational algebraic expressions Optimization of relational algebraic expressions 5.4.1. General optimization strategies 5.4.2. Equivalent expression 5.4.1. Equivalent transformations of relational algebra 5.4.2. Optimizing a class of relational algebraic expressions 5.4.3. Algorithm for optimizing relational algebraic expressions",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 5. - Jeffrey Ullman (2002), Database Systems, Chapter 6. - David C. Roberts (2024), Introduction to Databases, Chapter 6.",
+            "CLO": "CLO4.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities Case study discussion",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+            "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+            "CLO5.1 CLO54.2",
+            "",
+            "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Lecture 6: Data security and Data Integrity 6.1. Data security 6.1.1. User verification 6.1.2. Access check 6.1.3. View panels as protection mechanism 6.1.4. Data security command in SQL 6.2. Data integrity 6.2.1. Integrity constraints 6.2.2. Affirmations 6.2.3. Triggers 6.2.4. Functional dependencies",
+            "Readings requirement": "- Nguyen Trung Tuan (2022), Database, Chapter 6. - Jeffrey Ullman (2002), Database Systems, Chapter 7,8. - David C. Roberts (2024), Introduction to Databases, Chapter 7,8.",
+            "CLO": "CLO5.1 CLO54.2",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1, 2 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group presentation",
+            "Groups’ reports and presentation",
+            "All CLOs",
+            "In class activities Presentation Q&As",
+            "Criteria: Attendance and participation Tools: Rubric 3 Method: Presention, Q&A"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group presentation",
+            "Readings requirement": "Groups’ reports and presentation",
+            "CLO": "All CLOs",
+            "Teaching and Learning Activities": "In class activities Presentation Q&As",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 3 Method: Presention, Q&A"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course summary and final exam preparation",
+            "All",
+            "All CLOs",
+            "In class activities",
+            "Criteria: Attendance and participation Tools: Rubric 1 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course summary and final exam preparation",
+            "Readings requirement": "All",
+            "CLO": "All CLOs",
+            "Teaching and Learning Activities": "In class activities",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 1 Method: Attendance Check, Q&A"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "All CLOs",
+            "Students take exams according to given schedule",
+            "Criteria: Attendance and participation Tools: Rubric 4 Method: Attendance Check, Q&A"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "All CLOs",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "Criteria: Attendance and participation Tools: Rubric 4 Method: Attendance Check, Q&A"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 66,
+      "table_id": "en-ep17-tikt1130#tbl012",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 85,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Dr. Nguyen Thi Bach Tuyet",
+          "cells": [
+            "Dr. Nguyen Thi Bach Tuyet",
+            "Prof. Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "Dr. Nguyen Thi Bach Tuyet",
+            "NEU’s President": "Prof. Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Database Theory Code: EP17.TIKT1130\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities:\n+ Lecture: 23 hrs\n+ Exercises, Presentation and Discussion: 22 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None\n* Prerequisite course(s): Introduction to Information Technology\n* Department conducting the course:\n+ Faculty: School of Information Technology and Digital Economics\n+ Department: Economics Informatics\n+ Lecturers:\n1. Nguyen Thi Bach Tuyet Tel: 0904267880 Email: tuyetnb@neu.edu.vn\n2. Pham Van Minh Tel: 0965509888 Email: pvminh@neu.edu.vn\n3. Tong Thi Minh Ngoc Tel: 0913002241 Email: ngoctm@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Meeting hour: University’s schedule\nDatabases course provides students majoring in Information System, Computer Science, Information Technology, Statistical Economics, Data Science, Business Analysis,... with basic knowledge on database and data model, on database design and analysis theory as the foundation for later specialized subjects; orient students to database administration and knowledge to make use of database using different tools.\nDevelopment of applications in management: Operations of management programming are part of the data mining process with specific tools.\nCourse contents:\nBasic concepts of database and data model.\nRelational data model.\nIntegrity constraints on the relational data model.\nSome database mining languages such as: relational algebra, SQL, etc.\nTheory on designing relational database.\nQuestion optimization problem.\nData security and integrity.\n* Text Books/Lecture Notes:\n[1] Nguyen Trung Tuan (2022), Database, National Economics University Publishing House.\n[2] Jeffrey Ullman (2002), Database Systems, Prentice Hall, ISBN 0-13-031995-3\n* Additional references:\n[3] David C. Roberts (2024), Introduction to Databases - A Focus on Practical Solutions: Third Edition, Jada Press, ISBN – 13: 979-8985508512\n[4] Hope Flammang (2023), Relational Databases - Unlocking The Benefits Of Relational Databases, Independently published, ISBN-13: 979-8396779563\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics:\nRubric 1: Participant\nRubric 2: Midterm exam\nRubric 3: Group Presentation\nRubric 4: Final exam\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

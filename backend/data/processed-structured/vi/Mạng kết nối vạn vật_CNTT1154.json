@@ -1,0 +1,4388 @@
+{
+  "doc_id": "vi-cntt1154",
+  "language": "vi",
+  "course_name_stem": "Mạng kết nối vạn vật",
+  "course_variant": "",
+  "course_code": "CNTT1154",
+  "source_filename": "Mạng kết nối vạn vật_CNTT1154.docx",
+  "source_relpath": "data\\raw\\vi\\Mạng kết nối vạn vật_CNTT1154.docx",
+  "source_hash": "3e6c362e459055349345d8286fa425a8",
+  "source_modified": "2025-10-11T10:42:50.642541+00:00",
+  "processed_at": "2025-10-17T16:55:22.758253+00:00",
+  "stats": {
+    "paragraphs": 79,
+    "tables": 12,
+    "sections": 21
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt1154#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Tên học phần (tiếng Việt): Mạng kết nối vạn vật",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Tên học phần (tiếng Anh): Internet of Things",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Trình độ đào tạo Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Mã học phần: CNTT1154",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Số tín chỉ: 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Số giờ tự học: 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Các học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Mạng máy tính và truyền số liệu (CNTT1114)",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-cntt1154#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 21,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "TS. Nguyễn Thanh Hương",
+                "huongnt_cntt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "TS. Nguyễn Thanh Hương",
+                "Email": "huongnt_cntt@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS. Đặng Minh Quân",
+                "quandm@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "TS. Đặng Minh Quân",
+                "Email": "quandm@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Mạng kết nối vạn vật (IoT) là học phần tự chọn nằm trong khối kiến thức chuyên sâu của ngành Công nghệ thông tin. Học phần này trình bày các nền tảng (nền tảng phần cứng và phần mềm ứng dụng); các cơ chế xử lý tín hiệu, biểu diễn tín hiệu cảm biến; khả năng giao tiếp với các thiết bị qua các giao thức truyền thông; hệ điều hành mạng các đối tượng thông minh và hướng dẫn xây dựng chương trình ứng dụng IoT.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Học phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến xây dựng, lập trình và triển khai hệ thống IoT trong thực tế. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề ứng dụng mạng kết nối vạn vật trong thực tế.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Nội dung chính:",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "- Một số công nghệ nền tảng của IoT",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "- Một số dịch vụ và ứng dụng IoT",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "- Một số loại cảm biến và cơ cấu chấp hành",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "- Thu thập và xử lý dữ liệu từ cảm biến",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "- Các kiến trúc mạng IoT",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "- Định tuyến trong mạng tổn hao năng lượng thấp",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "- Các giao thức truyền thông trong IoT",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "- Lập trình với các loại cảm biến thông dụng",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "- Lập trình hiển thị và điều khiển các cơ cấu chấp hành",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "- Lập trình điều khiển qua mạng",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 36
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "4.1. Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[1] Lê Mỹ Hà, Phạm Quang Huy (2019), “Lập trình IoT với Arduino”, Nhà xuất bản Thanh Niên.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "4.2. Tài liệu tham khảo",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "[2] Jean-Philippe Vasseur and Adam Dunkels (2010), “Interconnecting Smart Objects with IP – The Next Internet”, Morgan Kaufmann Publisher.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "[3] International Telecommunication Union - ITU (2005), “The Internet of Things”",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "[4] Mansaf Alam, Kashish Ara Shakil, Samiya Khan (2020), “Internet of Things (IoT) Concepts and Applications”, Springer.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "4.3. Phần mềm",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "[5] Arduino IDE",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 46
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "vi-cntt1154#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 50,
+          "column_labels": [
+            "Mã / Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã / Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Học phần cung cấp cho người học các kiến thức tổng quan về: các công nghệ nền tảng, các ứng dụng, một số vấn đề độ tin cậy và bảo mật trong IoT; các loại cảm biến, cơ cấu chấp hành, phương pháp thu thập và xử lý dữ liệu từ cảm biến; kiến trúc mạng IoT và các giao thức truyền thông trong IoT. Học phần cũng hướng dẫn lập trình xây dựng một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Sau khi học xong, sinh viên giải thích được nguyên tắc hoạt động của hệ thống IoT; có thể thực hành chuyên sâu, phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức tổng quan về: các công nghệ nền tảng, các ứng dụng, một số vấn đề độ tin cậy và bảo mật trong IoT; các loại cảm biến, cơ cấu chấp hành, phương pháp thu thập và xử lý dữ liệu từ cảm biến; kiến trúc mạng IoT và các giao thức truyền thông trong IoT. Học phần cũng hướng dẫn lập trình xây dựng một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Sau khi học xong, sinh viên giải thích được nguyên tắc hoạt động của hệ thống IoT; có thể thực hành chuyên sâu, phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống IoT. Học phần giúp người học có kỹ năng phân tích, kết nối các cảm biến, cơ cấu chấp hành với hệ thống IoT; cài đặt, lập trình hệ thống trên nền tảng phần cứng và ngôn ngữ lập trình Arduino; rèn luyện kỹ năng giải quyết vấn đề để giải quyết các vấn đề về hệ thống IoT trong thực tế.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống IoT. Học phần giúp người học có kỹ năng phân tích, kết nối các cảm biến, cơ cấu chấp hành với hệ thống IoT; cài đặt, lập trình hệ thống trên nền tảng phần cứng và ngôn ngữ lập trình Arduino; rèn luyện kỹ năng giải quyết vấn đề để giải quyết các vấn đề về hệ thống IoT trong thực tế.",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực Công nghệ thông tin.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực Công nghệ thông tin.",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 41,
+          "table_id": "vi-cntt1154#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 54,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOij",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOij": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.1",
+                "Hiểu rõ về các khái niệm cơ bản, các dịch vụ và ứng dụng của IoT. Giải thích được, tóm tắt được các công nghệ nền tảng trong IoT: công nghệ RFID, công nghệ cảm biến, công nghệ nano, các công nghệ thông minh",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.1",
+                "Mô tả CLO": "Hiểu rõ về các khái niệm cơ bản, các dịch vụ và ứng dụng của IoT. Giải thích được, tóm tắt được các công nghệ nền tảng trong IoT: công nghệ RFID, công nghệ cảm biến, công nghệ nano, các công nghệ thông minh",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.2",
+                "Hiểu, làm rõ và giải thích được nguyên lý hoạt động của một số loại cảm biến và cơ cấu chấp hành thông dụng. Lựa chọn được loại cảm biến, cơ cấu chấp hành phù hợp với yêu cầu thiết kế hệ thống IoT. Hiểu và vận dụng được quá trình xử lý dữ liệu cảm biến",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.2",
+                "Mô tả CLO": "Hiểu, làm rõ và giải thích được nguyên lý hoạt động của một số loại cảm biến và cơ cấu chấp hành thông dụng. Lựa chọn được loại cảm biến, cơ cấu chấp hành phù hợp với yêu cầu thiết kế hệ thống IoT. Hiểu và vận dụng được quá trình xử lý dữ liệu cảm biến",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.3",
+                "Giải thích, làm rõ được những vấn đề cốt lõi trong kiến trúc mạng IoT. Sử dụng, lựa chọn được các mô hình kết nối, các giao thức truyền thông phù hợp với hệ thống IoT cần thiết kế, triển khai.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.3",
+                "Mô tả CLO": "Giải thích, làm rõ được những vấn đề cốt lõi trong kiến trúc mạng IoT. Sử dụng, lựa chọn được các mô hình kết nối, các giao thức truyền thông phù hợp với hệ thống IoT cần thiết kế, triển khai.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.4",
+                "Cài đặt và sử dụng được ngôn ngữ lập trình Arduino. Lập trình, xây dựng được một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Có khả năng phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.4",
+                "Mô tả CLO": "Cài đặt và sử dụng được ngôn ngữ lập trình Arduino. Lập trình, xây dựng được một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Có khả năng phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.1",
+                "Trình bày được các nội dung đã học và thực hành được các bài thực hành liên quan đến lập trình ứng dụng IoT.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.1",
+                "Mô tả CLO": "Trình bày được các nội dung đã học và thực hành được các bài thực hành liên quan đến lập trình ứng dụng IoT.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.2",
+                "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến xây dựng ứng dụng IoT.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.2",
+                "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến xây dựng ứng dụng IoT.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.3",
+                "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.3",
+                "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.1",
+                "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.1",
+                "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.2",
+                "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.2",
+                "Mô tả CLO": "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.3",
+                "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.3",
+                "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+                "Mức độ đạt được": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1154#sec008",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "table",
+          "order": 43,
+          "table_id": "vi-cntt1154#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 59,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung / Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung / Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Tất cả các buổi seminar",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: Rubric 1",
+                "10%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Thời điểm": "Tất cả các buổi seminar",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra cá nhân – 20% (trắc nghiệm khách quan)",
+                "Tuần 13",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: Rubric 2",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân – 20% (trắc nghiệm khách quan)",
+                "Thời điểm": "Tuần 13",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm – 20% (Lập trình/mô phỏng hệ thống, viết báo cáo, thuyết trình)",
+                "Tuần 14-15",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: Rubric 3",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài tập nhóm – 20% (Lập trình/mô phỏng hệ thống, viết báo cáo, thuyết trình)",
+                "Thời điểm": "Tuần 14-15",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 3",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+                "Theo lịch của Trường",
+                "1.x 2.x 3.x",
+                "Phụ lục 1: Ma trận đề thi",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung / Bài đánh giá": "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+                "Thời điểm": "Theo lịch của Trường",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 1: Ma trận đề thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec009",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1154#sec010",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1154#sec011",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "table",
+          "order": 45,
+          "table_id": "vi-cntt1154#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 66,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Chương 1: Giới thiệu IoT Các khái niệm cơ bản về IoT Một số công nghệ nền tảng Các dịch vụ và ứng dụng Một số vấn đề về độ tin cậy và bảo mật trong IoT",
+                "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+                "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide bài giảng - Giảng lý thuyết theo nội dung bài giảng - Hướng dẫn đọc tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "",
+                "1.1 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Chương 1: Giới thiệu IoT Các khái niệm cơ bản về IoT Một số công nghệ nền tảng Các dịch vụ và ứng dụng Một số vấn đề về độ tin cậy và bảo mật trong IoT",
+                "Tài liệu đọc": "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide bài giảng - Giảng lý thuyết theo nội dung bài giảng - Hướng dẫn đọc tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "Đánh giá": "",
+                "CLOs": "1.1 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 - Tóm tắt kiến thức Chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Tìm hiểu một số ứng dụng IoT",
+                "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thảo luận - Chia nhóm làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm ví dụ, bài tập - Tham gia chữa bài - Làm việc nhóm",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+                "1.1 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 - Tóm tắt kiến thức Chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Tìm hiểu một số ứng dụng IoT",
+                "Tài liệu đọc": "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thảo luận - Chia nhóm làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm ví dụ, bài tập - Tham gia chữa bài - Làm việc nhóm",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+                "CLOs": "1.1 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2 Chương 2: Xử lý dữ liệu cảm biến Cảm biến và cơ cấu chấp hành Khuếch đại, lọc và xử lý tín hiệu Các bộ chuyển đổi ADC, DCA Một số cảm biến thông dụng Thu thập dữ liệu từ cảm biến Các giải thuật xử lý dữ liệu",
+                "[1] Chương 3 [2] Chương 11,12",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.2 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2 Chương 2: Xử lý dữ liệu cảm biến Cảm biến và cơ cấu chấp hành Khuếch đại, lọc và xử lý tín hiệu Các bộ chuyển đổi ADC, DCA Một số cảm biến thông dụng Thu thập dữ liệu từ cảm biến Các giải thuật xử lý dữ liệu",
+                "Tài liệu đọc": "[1] Chương 3 [2] Chương 11,12",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.2 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Seminar 2 - Tóm tắt kiến thức theo nội dung Lecture 2 - Thảo luận về các ví dụ, câu hỏi của seminar 2 - Tìm hiểu nguyên lý hoạt động của một số loại cảm biến thông dụng (Cảm biến nhiệt độ, cảm biến tiệm cận, cảm biến áp suất, cảm biến hồng ngoại, cảm biến phát hiện chuyển động,…)",
+                "[1] Chương 3 [2] Chương 11,12",
+                "Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm các ví dụ và bài tập trong seminar 2 Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+                "1.2 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Seminar 2 - Tóm tắt kiến thức theo nội dung Lecture 2 - Thảo luận về các ví dụ, câu hỏi của seminar 2 - Tìm hiểu nguyên lý hoạt động của một số loại cảm biến thông dụng (Cảm biến nhiệt độ, cảm biến tiệm cận, cảm biến áp suất, cảm biến hồng ngoại, cảm biến phát hiện chuyển động,…)",
+                "Tài liệu đọc": "[1] Chương 3 [2] Chương 11,12",
+                "Hoạt động dạy và học": "Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm các ví dụ và bài tập trong seminar 2 Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+                "CLOs": "1.2 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3 Chương 3: Kiến trúc mạng IoT IPv6 cho mạng IoT Định tuyến Kiến trúc phân tầng trong IoT Các giao thức phổ biến trong IoT",
+                "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.3 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Lecture 3 Chương 3: Kiến trúc mạng IoT IPv6 cho mạng IoT Định tuyến Kiến trúc phân tầng trong IoT Các giao thức phổ biến trong IoT",
+                "Tài liệu đọc": "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.3 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 - Tóm tắt kiến thức theo nội dung Lecture 3 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3. - Tìm hiểu hoạt động của một số giao thức phổ biến trong IoT (giao thức CoAP, AMQP, MQTT, XMPP,...)",
+                "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm bài tập Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+                "1.3 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 - Tóm tắt kiến thức theo nội dung Lecture 3 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3. - Tìm hiểu hoạt động của một số giao thức phổ biến trong IoT (giao thức CoAP, AMQP, MQTT, XMPP,...)",
+                "Tài liệu đọc": "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm bài tập Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+                "CLOs": "1.3 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4 Chương 4: Xây dựng ứng dụng IoT Các bo mạch phần cứng chuyên dụng Arduino Cài đặt môi trường lập trình Arduino IDE Lập trình hiển thị",
+                "[1] Chương 2,3,4",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu phần mềm Arduino IDE Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4 Chương 4: Xây dựng ứng dụng IoT Các bo mạch phần cứng chuyên dụng Arduino Cài đặt môi trường lập trình Arduino IDE Lập trình hiển thị",
+                "Tài liệu đọc": "[1] Chương 2,3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu phần mềm Arduino IDE Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 - Tóm tắt kiến thức theo nội dung Lecture 4 - Thảo luận các câu hỏi của seminar 4. - Cài đặt phần mềm Arduino IDE - Thực hành các ví dụ và bài tập của seminar 4: (1) Hiệu ứng đèn Led (2) Hiển thị Led 7 đoạn (3) Hiển thị LCD",
+                "[1] Chương 2,3,4",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn cài đặt phần mềm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận dẫn - Cài đặt phần mềm - Thực hành",
+                "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 4",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 - Tóm tắt kiến thức theo nội dung Lecture 4 - Thảo luận các câu hỏi của seminar 4. - Cài đặt phần mềm Arduino IDE - Thực hành các ví dụ và bài tập của seminar 4: (1) Hiệu ứng đèn Led (2) Hiển thị Led 7 đoạn (3) Hiển thị LCD",
+                "Tài liệu đọc": "[1] Chương 2,3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn cài đặt phần mềm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận dẫn - Cài đặt phần mềm - Thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 4",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5 Chương 4: Xây dựng ứng dụng IoT 4.4. Lập trình với các loại cảm biến thông dụng 4.5. Lập trình điều khiển cơ cấu chấp hành",
+                "[1] Chương 2,3,4",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5 Chương 4: Xây dựng ứng dụng IoT 4.4. Lập trình với các loại cảm biến thông dụng 4.5. Lập trình điều khiển cơ cấu chấp hành",
+                "Tài liệu đọc": "[1] Chương 2,3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Seminar 5 - Tóm tắt kiến thức theo nội dung Lecture 5. - Thảo luận các câu hỏi của seminar 5. - Thực hành các ví dụ và bài tập của seminar 5: (1) Cảm biến âm thanh (2) IR remote (3) Bật/tắt thiết bị (4) Cảm biến nhiệt độ (5) Cảm biến quang (6) Cảm biến siêu âm (7) Cảm biến chuyển động (8) Đọc vào giá trị tương tự/số, điều khiển bật/tắt (9) Điều khiển động cơ Servo",
+                "[1] Chương 2,3,4",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+                "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 5",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Seminar 5 - Tóm tắt kiến thức theo nội dung Lecture 5. - Thảo luận các câu hỏi của seminar 5. - Thực hành các ví dụ và bài tập của seminar 5: (1) Cảm biến âm thanh (2) IR remote (3) Bật/tắt thiết bị (4) Cảm biến nhiệt độ (5) Cảm biến quang (6) Cảm biến siêu âm (7) Cảm biến chuyển động (8) Đọc vào giá trị tương tự/số, điều khiển bật/tắt (9) Điều khiển động cơ Servo",
+                "Tài liệu đọc": "[1] Chương 2,3,4",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 5",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 6 Chương 4: Xây dựng ứng dụng IoT 4.6. Lập trình điều khiển và trao đổi dữ liệu qua môi trường mạng.",
+                "[1] Chương 5,6,7,8,10,11",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Lecture 6 Chương 4: Xây dựng ứng dụng IoT 4.6. Lập trình điều khiển và trao đổi dữ liệu qua môi trường mạng.",
+                "Tài liệu đọc": "[1] Chương 5,6,7,8,10,11",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Seminar 6 - Tóm tắt kiến thức theo nội dung Lecture 6. - Thảo luận các câu hỏi của seminar 6. - Thực hành các ví dụ và bài tập của seminar 6: (1) Lập trình điều khiển trong mạng LAN (2) Lập trình điều khiển qua mạng Internet",
+                "[1] Chương 5,6,7,8,10,11",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+                "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 6",
+                "1.4 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Seminar 6 - Tóm tắt kiến thức theo nội dung Lecture 6. - Thảo luận các câu hỏi của seminar 6. - Thực hành các ví dụ và bài tập của seminar 6: (1) Lập trình điều khiển trong mạng LAN (2) Lập trình điều khiển qua mạng Internet",
+                "Tài liệu đọc": "[1] Chương 5,6,7,8,10,11",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 6",
+                "CLOs": "1.4 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%)",
+                "",
+                "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Tham gia thảo luận Tham gia chữa bài - Làm bài kiểm tra cá nhân",
+                "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%)",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Tham gia thảo luận Tham gia chữa bài - Làm bài kiểm tra cá nhân",
+                "Đánh giá": "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Seminar 8 - Trình bày bài tập nhóm (20%)",
+                "",
+                "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+                "Điểm danh - Bài tập nhóm (Rubric 3)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Seminar 8 - Trình bày bài tập nhóm (20%)",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+                "Đánh giá": "Điểm danh - Bài tập nhóm (Rubric 3)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài kiểm tra cuối kỳ",
+                "",
+                "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm - Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+                "Điểm danh - Bài tập nhóm (Rubric 3)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài kiểm tra cuối kỳ",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm - Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+                "Đánh giá": "Điểm danh - Bài tập nhóm (Rubric 3)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "Toàn bộ nội dung học",
+                "Thi trắc nghiệm khách quan trên máy",
+                "Phụ lục 1: Ma trận đề thi",
+                "1.1 1.2 1.3 1.4"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "Toàn bộ nội dung học",
+                "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+                "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+                "CLOs": "1.1 1.2 1.3 1.4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec012",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 69
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec013",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1154#sec014",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 72
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 73
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec015",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 76
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec016",
+      "title": "10.3. Quy định về hành vi trong lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Đọc trước tài liệu được yêu cầu.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Làm các bài tập về nhà.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 83
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec017",
+      "title": "10.4. Quy định về nộp bài tập lớn",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-lon",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 85
+        },
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 86
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec018",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 59,
+          "table_id": "vi-cntt1154#tbl007",
+          "table_name": null,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+          ],
+          "source_block": 90,
+          "column_labels": [
+            "PHỤ TRÁCH KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. Phạm Xuân Lâm",
+              "cells": [
+                "TS. Phạm Xuân Lâm",
+                "GS.TS. Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+                "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec019",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1154#sec020",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 94
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 95
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Thời gian: 60 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Ma trận đề thi (trắc nghiệm):",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 98
+        },
+        {
+          "type": "table",
+          "order": 65,
+          "table_id": "vi-cntt1154#tbl008",
+          "table_name": "Ma trận đề thi (trắc nghiệm):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 99,
+          "column_labels": [
+            "Nội dung",
+            "CLOs",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1",
+              "cells": [
+                "Lecture 1",
+                "1.1",
+                "5",
+                "5",
+                "0",
+                "10"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 1",
+                "CLOs": "1.1",
+                "Nhớ": "5",
+                "Hiểu": "5",
+                "Vận dụng": "0",
+                "Tổng số câu hỏi": "10"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 2",
+              "cells": [
+                "Lecture 2",
+                "1.2",
+                "3",
+                "6",
+                "5",
+                "14"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 2",
+                "CLOs": "1.2",
+                "Nhớ": "3",
+                "Hiểu": "6",
+                "Vận dụng": "5",
+                "Tổng số câu hỏi": "14"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 3",
+              "cells": [
+                "Lecture 3",
+                "1.3",
+                "2",
+                "6",
+                "2",
+                "10"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 3",
+                "CLOs": "1.3",
+                "Nhớ": "2",
+                "Hiểu": "6",
+                "Vận dụng": "2",
+                "Tổng số câu hỏi": "10"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 4",
+              "cells": [
+                "Lecture 4",
+                "1.4",
+                "0",
+                "1",
+                "4",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 4",
+                "CLOs": "1.4",
+                "Nhớ": "0",
+                "Hiểu": "1",
+                "Vận dụng": "4",
+                "Tổng số câu hỏi": "5"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 5",
+              "cells": [
+                "Lecture 5",
+                "1.4",
+                "0",
+                "1",
+                "5",
+                "6"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 5",
+                "CLOs": "1.4",
+                "Nhớ": "0",
+                "Hiểu": "1",
+                "Vận dụng": "5",
+                "Tổng số câu hỏi": "6"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.4",
+                "0",
+                "1",
+                "4",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 6",
+                "CLOs": "1.4",
+                "Nhớ": "0",
+                "Hiểu": "1",
+                "Vận dụng": "4",
+                "Tổng số câu hỏi": "5"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tổng số câu hỏi",
+              "cells": [
+                "Tổng số câu hỏi",
+                "",
+                "10",
+                "20",
+                "20",
+                "50"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu hỏi",
+                "CLOs": "",
+                "Nhớ": "10",
+                "Hiểu": "20",
+                "Vận dụng": "20",
+                "Tổng số câu hỏi": "50"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "20%",
+                "40%",
+                "40%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLOs": "",
+                "Nhớ": "20%",
+                "Hiểu": "40%",
+                "Vận dụng": "40%",
+                "Tổng số câu hỏi": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1154#sec021",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Rubric 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 103
+        },
+        {
+          "type": "paragraph",
+          "order": 67,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 104
+        },
+        {
+          "type": "paragraph",
+          "order": 68,
+          "text": "Đánh giá qua 9 buổi seminar.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 105
+        },
+        {
+          "type": "table",
+          "order": 69,
+          "table_id": "vi-cntt1154#tbl009",
+          "table_name": "Đánh giá qua 9 buổi seminar.",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 106,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 70,
+          "text": "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "paragraph",
+          "order": 71,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 108
+        },
+        {
+          "type": "table",
+          "order": 72,
+          "table_id": "vi-cntt1154#tbl010",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 109,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+              "cells": [
+                "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 73,
+          "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 112
+        },
+        {
+          "type": "paragraph",
+          "order": 74,
+          "text": "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 113
+        },
+        {
+          "type": "paragraph",
+          "order": 75,
+          "text": "Bài kiểm tra cá nhân gồm 40 câu hỏi – 50 phút; mỗi câu 0,25 điểm.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 114
+        },
+        {
+          "type": "table",
+          "order": 76,
+          "table_id": "vi-cntt1154#tbl011",
+          "table_name": "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 115,
+          "column_labels": [
+            "Nội dung",
+            "CLOs",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1",
+              "cells": [
+                "Lecture 1",
+                "1.1",
+                "2",
+                "5",
+                "1",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 1",
+                "CLOs": "1.1",
+                "Nhớ": "2",
+                "Hiểu": "5",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 2",
+              "cells": [
+                "Lecture 2",
+                "1.2",
+                "2",
+                "5",
+                "1",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 2",
+                "CLOs": "1.2",
+                "Nhớ": "2",
+                "Hiểu": "5",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 3",
+              "cells": [
+                "Lecture 3",
+                "1.3",
+                "2",
+                "5",
+                "1",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 3",
+                "CLOs": "1.3",
+                "Nhớ": "2",
+                "Hiểu": "5",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 4",
+              "cells": [
+                "Lecture 4",
+                "1.4",
+                "2",
+                "2",
+                "2",
+                "6"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 4",
+                "CLOs": "1.4",
+                "Nhớ": "2",
+                "Hiểu": "2",
+                "Vận dụng": "2",
+                "Tổng số câu hỏi": "6"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 5",
+              "cells": [
+                "Lecture 5",
+                "1.4",
+                "2",
+                "1",
+                "2",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 5",
+                "CLOs": "1.4",
+                "Nhớ": "2",
+                "Hiểu": "1",
+                "Vận dụng": "2",
+                "Tổng số câu hỏi": "5"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.4",
+                "2",
+                "2",
+                "1",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 6",
+                "CLOs": "1.4",
+                "Nhớ": "2",
+                "Hiểu": "2",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "5"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tổng số câu hỏi",
+              "cells": [
+                "Tổng số câu hỏi",
+                "",
+                "12",
+                "20",
+                "8",
+                "40"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu hỏi",
+                "CLOs": "",
+                "Nhớ": "12",
+                "Hiểu": "20",
+                "Vận dụng": "8",
+                "Tổng số câu hỏi": "40"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "30%",
+                "50%",
+                "20%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLOs": "",
+                "Nhớ": "30%",
+                "Hiểu": "50%",
+                "Vận dụng": "20%",
+                "Tổng số câu hỏi": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 77,
+          "text": "Rubric 3. Đánh giá bài tập nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 117
+        },
+        {
+          "type": "paragraph",
+          "order": 78,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 118
+        },
+        {
+          "type": "paragraph",
+          "order": 79,
+          "text": "Sinh viên được gợi ý một số chủ đề phát triển ứng dụng IoT, ví dụ:",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 119
+        },
+        {
+          "type": "paragraph",
+          "order": 80,
+          "text": "Hệ thống điều khiển thiết bị điện từ xa",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 120
+        },
+        {
+          "type": "paragraph",
+          "order": 81,
+          "text": "Hệ thống Đo quan trắc môi trường từ xa",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 121
+        },
+        {
+          "type": "paragraph",
+          "order": 82,
+          "text": "Hệ thống điểm danh tự động",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 122
+        },
+        {
+          "type": "paragraph",
+          "order": 83,
+          "text": "Hệ thống nhà thông minh",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 123
+        },
+        {
+          "type": "paragraph",
+          "order": 84,
+          "text": "Hệ thống gửi xe thông minh",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 124
+        },
+        {
+          "type": "paragraph",
+          "order": 85,
+          "text": "Hệ thống cảnh báo cháy nổ",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 125
+        },
+        {
+          "type": "paragraph",
+          "order": 86,
+          "text": "Hệ thống cảnh báo ngã ở người già",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 126
+        },
+        {
+          "type": "paragraph",
+          "order": 87,
+          "text": "Hệ thống giám sát trẻ từ xa",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 127
+        },
+        {
+          "type": "paragraph",
+          "order": 88,
+          "text": "Hệ thống giám sát và chăm sóc cây trồng",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 128
+        },
+        {
+          "type": "paragraph",
+          "order": 89,
+          "text": "Bên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 129
+        },
+        {
+          "type": "table",
+          "order": 90,
+          "table_id": "vi-cntt1154#tbl012",
+          "table_name": "Hệ thống giám sát trẻ từ xa",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 131,
+          "column_labels": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "Giỏi",
+            "Khá",
+            "Trung bình",
+            "Yếu"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Tiêu chí đánh giá",
+              "cells": [
+                "Tiêu chí đánh giá",
+                "CLO",
+                "Trọng số (%)",
+                "8,5-10",
+                "7,0 – 8.4",
+                "4,5 – 6,9",
+                "0 - 4,4"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+                "CLO": "CLO",
+                "Trọng số (%)": "Trọng số (%)",
+                "Giỏi": "8,5-10",
+                "Khá": "7,0 – 8.4",
+                "Trung bình": "4,5 – 6,9",
+                "Yếu": "0 - 4,4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Mục tiêu",
+              "cells": [
+                "Mục tiêu",
+                "1.x 2.x 3.x",
+                "5%",
+                "- Mục tiêu rõ ràng, logic, hợp lí, có tính ứng dụng cao",
+                "- Mục tiêu rõ ràng",
+                "- Mục tiêu không rõ",
+                "- Mục tiêu không thực tế hoặc không có mục tiêu"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Mục tiêu",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "5%",
+                "Giỏi": "- Mục tiêu rõ ràng, logic, hợp lí, có tính ứng dụng cao",
+                "Khá": "- Mục tiêu rõ ràng",
+                "Trung bình": "- Mục tiêu không rõ",
+                "Yếu": "- Mục tiêu không thực tế hoặc không có mục tiêu"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Nội dung/Lập trình/Mô phỏng hệ thống",
+              "cells": [
+                "Nội dung/Lập trình/Mô phỏng hệ thống",
+                "1.x 2.x 3.x",
+                "55%",
+                "- Nội dung rất đầy đủ, chi tiết, logic; - Chương trình có chất lượng rất tốt. - Có các ứng dụng phù hợp, chất lượng cao.",
+                "- Nội dung đầy đủ. - Chương trình có chất lượng tốt. - Có thể ứng dụng.",
+                "Nội dung còn sơ sài. - Chương trình đáp ứng yêu cầu cơ bản. - Không có ứng dụng.",
+                "- Nội dung không phù hợp hoặc còn thiếu nhiều. - Gặp khó khăn trong việc viết chương trình"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Nội dung/Lập trình/Mô phỏng hệ thống",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "55%",
+                "Giỏi": "- Nội dung rất đầy đủ, chi tiết, logic; - Chương trình có chất lượng rất tốt. - Có các ứng dụng phù hợp, chất lượng cao.",
+                "Khá": "- Nội dung đầy đủ. - Chương trình có chất lượng tốt. - Có thể ứng dụng.",
+                "Trung bình": "Nội dung còn sơ sài. - Chương trình đáp ứng yêu cầu cơ bản. - Không có ứng dụng.",
+                "Yếu": "- Nội dung không phù hợp hoặc còn thiếu nhiều. - Gặp khó khăn trong việc viết chương trình"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Trình bày quyển Báo cáo",
+              "cells": [
+                "Trình bày quyển Báo cáo",
+                "1.x 2.x 3.x",
+                "20%",
+                "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Sơ đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. - Có sự sáng tạo và hấp dẫn",
+                "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. - Thiếu tính sáng tạo,",
+                "- Chưa đúng định dạng yêu cầu; - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu không phù hợp hoặc không có.",
+                "- Không có định dạng; - Thiếu logic - Ngôn ngữ không phù hợp."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Trình bày quyển Báo cáo",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "20%",
+                "Giỏi": "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Sơ đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. - Có sự sáng tạo và hấp dẫn",
+                "Khá": "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. - Thiếu tính sáng tạo,",
+                "Trung bình": "- Chưa đúng định dạng yêu cầu; - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu không phù hợp hoặc không có.",
+                "Yếu": "- Không có định dạng; - Thiếu logic - Ngôn ngữ không phù hợp."
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Thuyết trình và tương tác trả lời câu hỏi",
+              "cells": [
+                "Thuyết trình và tương tác trả lời câu hỏi",
+                "1.x 2.x 3.x",
+                "20%",
+                "- Thể hiện sự hiểu biết sâu sắc về chủ đề; trình bày logic, sáng tạo, và hấp dẫn; tương tác tích cực. - Trả lời được tất cả các câu hỏi.",
+                "Thể hiện sự hiểu biết về báo cáo; nội dung trình bày đầy đủ, có cấu trúc nhưng chưa sáng tạo. Trả lời được 2/3 các câu hỏi.",
+                "- Thể hiện hiểu biết về nội dung báo cáo chưa sâu; trình bày đơn giản, không có cấu trúc rõ ràng; chưa tự tin khi tương tác, trao đổi. - Trả lời được 1/2 các câu hỏi.",
+                "- Thể hiện chưa rõ nội dung báo cáo; không tự tin khi tương tác. - Trả lời được dưới 1/2 số câu hỏi"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Thuyết trình và tương tác trả lời câu hỏi",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "20%",
+                "Giỏi": "- Thể hiện sự hiểu biết sâu sắc về chủ đề; trình bày logic, sáng tạo, và hấp dẫn; tương tác tích cực. - Trả lời được tất cả các câu hỏi.",
+                "Khá": "Thể hiện sự hiểu biết về báo cáo; nội dung trình bày đầy đủ, có cấu trúc nhưng chưa sáng tạo. Trả lời được 2/3 các câu hỏi.",
+                "Trung bình": "- Thể hiện hiểu biết về nội dung báo cáo chưa sâu; trình bày đơn giản, không có cấu trúc rõ ràng; chưa tự tin khi tương tác, trao đổi. - Trả lời được 1/2 các câu hỏi.",
+                "Yếu": "- Thể hiện chưa rõ nội dung báo cáo; không tự tin khi tương tác. - Trả lời được dưới 1/2 số câu hỏi"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt1154#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-cntt1154#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 21,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "TS. Nguyễn Thanh Hương",
+            "huongnt_cntt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "TS. Nguyễn Thanh Hương",
+            "Email": "huongnt_cntt@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS. Đặng Minh Quân",
+            "quandm@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "TS. Đặng Minh Quân",
+            "Email": "quandm@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "vi-cntt1154#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 50,
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã / Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Học phần cung cấp cho người học các kiến thức tổng quan về: các công nghệ nền tảng, các ứng dụng, một số vấn đề độ tin cậy và bảo mật trong IoT; các loại cảm biến, cơ cấu chấp hành, phương pháp thu thập và xử lý dữ liệu từ cảm biến; kiến trúc mạng IoT và các giao thức truyền thông trong IoT. Học phần cũng hướng dẫn lập trình xây dựng một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Sau khi học xong, sinh viên giải thích được nguyên tắc hoạt động của hệ thống IoT; có thể thực hành chuyên sâu, phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức tổng quan về: các công nghệ nền tảng, các ứng dụng, một số vấn đề độ tin cậy và bảo mật trong IoT; các loại cảm biến, cơ cấu chấp hành, phương pháp thu thập và xử lý dữ liệu từ cảm biến; kiến trúc mạng IoT và các giao thức truyền thông trong IoT. Học phần cũng hướng dẫn lập trình xây dựng một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Sau khi học xong, sinh viên giải thích được nguyên tắc hoạt động của hệ thống IoT; có thể thực hành chuyên sâu, phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống IoT. Học phần giúp người học có kỹ năng phân tích, kết nối các cảm biến, cơ cấu chấp hành với hệ thống IoT; cài đặt, lập trình hệ thống trên nền tảng phần cứng và ngôn ngữ lập trình Arduino; rèn luyện kỹ năng giải quyết vấn đề để giải quyết các vấn đề về hệ thống IoT trong thực tế.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Học phần hướng dẫn cho người học các kỹ năng thuyết trình, rèn luyện khả năng tư duy, khả năng đọc hiểu tài liệu tiếng anh chuyên ngành và khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống IoT. Học phần giúp người học có kỹ năng phân tích, kết nối các cảm biến, cơ cấu chấp hành với hệ thống IoT; cài đặt, lập trình hệ thống trên nền tảng phần cứng và ngôn ngữ lập trình Arduino; rèn luyện kỹ năng giải quyết vấn đề để giải quyết các vấn đề về hệ thống IoT trong thực tế.",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực Công nghệ thông tin.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập và khả năng làm việc theo nhóm. Trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực Công nghệ thông tin.",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 41,
+      "table_id": "vi-cntt1154#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 54,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOij": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.1",
+            "Hiểu rõ về các khái niệm cơ bản, các dịch vụ và ứng dụng của IoT. Giải thích được, tóm tắt được các công nghệ nền tảng trong IoT: công nghệ RFID, công nghệ cảm biến, công nghệ nano, các công nghệ thông minh",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.1",
+            "Mô tả CLO": "Hiểu rõ về các khái niệm cơ bản, các dịch vụ và ứng dụng của IoT. Giải thích được, tóm tắt được các công nghệ nền tảng trong IoT: công nghệ RFID, công nghệ cảm biến, công nghệ nano, các công nghệ thông minh",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.2",
+            "Hiểu, làm rõ và giải thích được nguyên lý hoạt động của một số loại cảm biến và cơ cấu chấp hành thông dụng. Lựa chọn được loại cảm biến, cơ cấu chấp hành phù hợp với yêu cầu thiết kế hệ thống IoT. Hiểu và vận dụng được quá trình xử lý dữ liệu cảm biến",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.2",
+            "Mô tả CLO": "Hiểu, làm rõ và giải thích được nguyên lý hoạt động của một số loại cảm biến và cơ cấu chấp hành thông dụng. Lựa chọn được loại cảm biến, cơ cấu chấp hành phù hợp với yêu cầu thiết kế hệ thống IoT. Hiểu và vận dụng được quá trình xử lý dữ liệu cảm biến",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.3",
+            "Giải thích, làm rõ được những vấn đề cốt lõi trong kiến trúc mạng IoT. Sử dụng, lựa chọn được các mô hình kết nối, các giao thức truyền thông phù hợp với hệ thống IoT cần thiết kế, triển khai.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.3",
+            "Mô tả CLO": "Giải thích, làm rõ được những vấn đề cốt lõi trong kiến trúc mạng IoT. Sử dụng, lựa chọn được các mô hình kết nối, các giao thức truyền thông phù hợp với hệ thống IoT cần thiết kế, triển khai.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.4",
+            "Cài đặt và sử dụng được ngôn ngữ lập trình Arduino. Lập trình, xây dựng được một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Có khả năng phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.4",
+            "Mô tả CLO": "Cài đặt và sử dụng được ngôn ngữ lập trình Arduino. Lập trình, xây dựng được một số ứng dụng IoT dựa trên bo mạch phần cứng chuyên dụng Arduino. Có khả năng phân tích, thiết kế, cài đặt và lập trình một hệ thống IoT; đưa ra giải pháp ứng dụng và triển khai một hệ thống IoT đơn giản trong thực tế.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.1",
+            "Trình bày được các nội dung đã học và thực hành được các bài thực hành liên quan đến lập trình ứng dụng IoT.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.1",
+            "Mô tả CLO": "Trình bày được các nội dung đã học và thực hành được các bài thực hành liên quan đến lập trình ứng dụng IoT.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.2",
+            "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến xây dựng ứng dụng IoT.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.2",
+            "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến xây dựng ứng dụng IoT.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.3",
+            "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.3",
+            "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.1",
+            "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.1",
+            "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.2",
+            "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.2",
+            "Mô tả CLO": "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.3",
+            "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.3",
+            "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+            "Mức độ đạt được": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 43,
+      "table_id": "vi-cntt1154#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 59,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung / Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung / Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Tất cả các buổi seminar",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: Rubric 1",
+            "10%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Thời điểm": "Tất cả các buổi seminar",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra cá nhân – 20% (trắc nghiệm khách quan)",
+            "Tuần 13",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: Rubric 2",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân – 20% (trắc nghiệm khách quan)",
+            "Thời điểm": "Tuần 13",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm – 20% (Lập trình/mô phỏng hệ thống, viết báo cáo, thuyết trình)",
+            "Tuần 14-15",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: Rubric 3",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài tập nhóm – 20% (Lập trình/mô phỏng hệ thống, viết báo cáo, thuyết trình)",
+            "Thời điểm": "Tuần 14-15",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: Rubric 3",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+            "Theo lịch của Trường",
+            "1.x 2.x 3.x",
+            "Phụ lục 1: Ma trận đề thi",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung / Bài đánh giá": "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+            "Thời điểm": "Theo lịch của Trường",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 1: Ma trận đề thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 45,
+      "table_id": "vi-cntt1154#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 66,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Chương 1: Giới thiệu IoT Các khái niệm cơ bản về IoT Một số công nghệ nền tảng Các dịch vụ và ứng dụng Một số vấn đề về độ tin cậy và bảo mật trong IoT",
+            "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+            "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide bài giảng - Giảng lý thuyết theo nội dung bài giảng - Hướng dẫn đọc tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "",
+            "1.1 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Chương 1: Giới thiệu IoT Các khái niệm cơ bản về IoT Một số công nghệ nền tảng Các dịch vụ và ứng dụng Một số vấn đề về độ tin cậy và bảo mật trong IoT",
+            "Tài liệu đọc": "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide bài giảng - Giảng lý thuyết theo nội dung bài giảng - Hướng dẫn đọc tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 - Giới thiệu các Rubrics Sinh viên: - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "Đánh giá": "",
+            "CLOs": "1.1 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 - Tóm tắt kiến thức Chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Tìm hiểu một số ứng dụng IoT",
+            "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thảo luận - Chia nhóm làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm ví dụ, bài tập - Tham gia chữa bài - Làm việc nhóm",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+            "1.1 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 - Tóm tắt kiến thức Chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Tìm hiểu một số ứng dụng IoT",
+            "Tài liệu đọc": "[1] Chương 1 [3] Chương 1,2 [4] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thảo luận - Chia nhóm làm bài tập nhóm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm ví dụ, bài tập - Tham gia chữa bài - Làm việc nhóm",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+            "CLOs": "1.1 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2 Chương 2: Xử lý dữ liệu cảm biến Cảm biến và cơ cấu chấp hành Khuếch đại, lọc và xử lý tín hiệu Các bộ chuyển đổi ADC, DCA Một số cảm biến thông dụng Thu thập dữ liệu từ cảm biến Các giải thuật xử lý dữ liệu",
+            "[1] Chương 3 [2] Chương 11,12",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.2 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2 Chương 2: Xử lý dữ liệu cảm biến Cảm biến và cơ cấu chấp hành Khuếch đại, lọc và xử lý tín hiệu Các bộ chuyển đổi ADC, DCA Một số cảm biến thông dụng Thu thập dữ liệu từ cảm biến Các giải thuật xử lý dữ liệu",
+            "Tài liệu đọc": "[1] Chương 3 [2] Chương 11,12",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.2 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Seminar 2 - Tóm tắt kiến thức theo nội dung Lecture 2 - Thảo luận về các ví dụ, câu hỏi của seminar 2 - Tìm hiểu nguyên lý hoạt động của một số loại cảm biến thông dụng (Cảm biến nhiệt độ, cảm biến tiệm cận, cảm biến áp suất, cảm biến hồng ngoại, cảm biến phát hiện chuyển động,…)",
+            "[1] Chương 3 [2] Chương 11,12",
+            "Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm các ví dụ và bài tập trong seminar 2 Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+            "1.2 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Seminar 2 - Tóm tắt kiến thức theo nội dung Lecture 2 - Thảo luận về các ví dụ, câu hỏi của seminar 2 - Tìm hiểu nguyên lý hoạt động của một số loại cảm biến thông dụng (Cảm biến nhiệt độ, cảm biến tiệm cận, cảm biến áp suất, cảm biến hồng ngoại, cảm biến phát hiện chuyển động,…)",
+            "Tài liệu đọc": "[1] Chương 3 [2] Chương 11,12",
+            "Hoạt động dạy và học": "Giảng viên; - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm các ví dụ và bài tập trong seminar 2 Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+            "CLOs": "1.2 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3 Chương 3: Kiến trúc mạng IoT IPv6 cho mạng IoT Định tuyến Kiến trúc phân tầng trong IoT Các giao thức phổ biến trong IoT",
+            "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.3 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Lecture 3 Chương 3: Kiến trúc mạng IoT IPv6 cho mạng IoT Định tuyến Kiến trúc phân tầng trong IoT Các giao thức phổ biến trong IoT",
+            "Tài liệu đọc": "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.3 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 - Tóm tắt kiến thức theo nội dung Lecture 3 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3. - Tìm hiểu hoạt động của một số giao thức phổ biến trong IoT (giao thức CoAP, AMQP, MQTT, XMPP,...)",
+            "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm bài tập Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+            "1.3 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 - Tóm tắt kiến thức theo nội dung Lecture 3 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3. - Tìm hiểu hoạt động của một số giao thức phổ biến trong IoT (giao thức CoAP, AMQP, MQTT, XMPP,...)",
+            "Tài liệu đọc": "[2] Chương 4,5,15,16,17,19 [4] Chương 3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn làm bài tập Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+            "CLOs": "1.3 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4 Chương 4: Xây dựng ứng dụng IoT Các bo mạch phần cứng chuyên dụng Arduino Cài đặt môi trường lập trình Arduino IDE Lập trình hiển thị",
+            "[1] Chương 2,3,4",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu phần mềm Arduino IDE Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4 Chương 4: Xây dựng ứng dụng IoT Các bo mạch phần cứng chuyên dụng Arduino Cài đặt môi trường lập trình Arduino IDE Lập trình hiển thị",
+            "Tài liệu đọc": "[1] Chương 2,3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu phần mềm Arduino IDE Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 - Tóm tắt kiến thức theo nội dung Lecture 4 - Thảo luận các câu hỏi của seminar 4. - Cài đặt phần mềm Arduino IDE - Thực hành các ví dụ và bài tập của seminar 4: (1) Hiệu ứng đèn Led (2) Hiển thị Led 7 đoạn (3) Hiển thị LCD",
+            "[1] Chương 2,3,4",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn cài đặt phần mềm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận dẫn - Cài đặt phần mềm - Thực hành",
+            "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 4",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 - Tóm tắt kiến thức theo nội dung Lecture 4 - Thảo luận các câu hỏi của seminar 4. - Cài đặt phần mềm Arduino IDE - Thực hành các ví dụ và bài tập của seminar 4: (1) Hiệu ứng đèn Led (2) Hiển thị Led 7 đoạn (3) Hiển thị LCD",
+            "Tài liệu đọc": "[1] Chương 2,3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn cài đặt phần mềm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận dẫn - Cài đặt phần mềm - Thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 4",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5 Chương 4: Xây dựng ứng dụng IoT 4.4. Lập trình với các loại cảm biến thông dụng 4.5. Lập trình điều khiển cơ cấu chấp hành",
+            "[1] Chương 2,3,4",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5 Chương 4: Xây dựng ứng dụng IoT 4.4. Lập trình với các loại cảm biến thông dụng 4.5. Lập trình điều khiển cơ cấu chấp hành",
+            "Tài liệu đọc": "[1] Chương 2,3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Seminar 5 - Tóm tắt kiến thức theo nội dung Lecture 5. - Thảo luận các câu hỏi của seminar 5. - Thực hành các ví dụ và bài tập của seminar 5: (1) Cảm biến âm thanh (2) IR remote (3) Bật/tắt thiết bị (4) Cảm biến nhiệt độ (5) Cảm biến quang (6) Cảm biến siêu âm (7) Cảm biến chuyển động (8) Đọc vào giá trị tương tự/số, điều khiển bật/tắt (9) Điều khiển động cơ Servo",
+            "[1] Chương 2,3,4",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+            "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 5",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Seminar 5 - Tóm tắt kiến thức theo nội dung Lecture 5. - Thảo luận các câu hỏi của seminar 5. - Thực hành các ví dụ và bài tập của seminar 5: (1) Cảm biến âm thanh (2) IR remote (3) Bật/tắt thiết bị (4) Cảm biến nhiệt độ (5) Cảm biến quang (6) Cảm biến siêu âm (7) Cảm biến chuyển động (8) Đọc vào giá trị tương tự/số, điều khiển bật/tắt (9) Điều khiển động cơ Servo",
+            "Tài liệu đọc": "[1] Chương 2,3,4",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 5",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 6 Chương 4: Xây dựng ứng dụng IoT 4.6. Lập trình điều khiển và trao đổi dữ liệu qua môi trường mạng.",
+            "[1] Chương 5,6,7,8,10,11",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Lecture 6 Chương 4: Xây dựng ứng dụng IoT 4.6. Lập trình điều khiển và trao đổi dữ liệu qua môi trường mạng.",
+            "Tài liệu đọc": "[1] Chương 5,6,7,8,10,11",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ - Minh họa bằng phần mềm mô phỏng Cisco Packet Tracer Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Seminar 6 - Tóm tắt kiến thức theo nội dung Lecture 6. - Thảo luận các câu hỏi của seminar 6. - Thực hành các ví dụ và bài tập của seminar 6: (1) Lập trình điều khiển trong mạng LAN (2) Lập trình điều khiển qua mạng Internet",
+            "[1] Chương 5,6,7,8,10,11",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+            "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 6",
+            "1.4 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Seminar 6 - Tóm tắt kiến thức theo nội dung Lecture 6. - Thảo luận các câu hỏi của seminar 6. - Thực hành các ví dụ và bài tập của seminar 6: (1) Lập trình điều khiển trong mạng LAN (2) Lập trình điều khiển qua mạng Internet",
+            "Tài liệu đọc": "[1] Chương 5,6,7,8,10,11",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm - Hướng dẫn thực hành Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi/Thực hành trong Seminar 6",
+            "CLOs": "1.4 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%)",
+            "",
+            "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Tham gia thảo luận Tham gia chữa bài - Làm bài kiểm tra cá nhân",
+            "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Seminar 7 - Tổng kết lại kiến thức - Bài kiểm tra cá nhân (20%)",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Tham gia thảo luận Tham gia chữa bài - Làm bài kiểm tra cá nhân",
+            "Đánh giá": "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Seminar 8 - Trình bày bài tập nhóm (20%)",
+            "",
+            "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+            "Điểm danh - Bài tập nhóm (Rubric 3)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Seminar 8 - Trình bày bài tập nhóm (20%)",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+            "Đánh giá": "Điểm danh - Bài tập nhóm (Rubric 3)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài kiểm tra cuối kỳ",
+            "",
+            "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm - Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+            "Điểm danh - Bài tập nhóm (Rubric 3)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 9 - Trình bày bài tập nhóm - Hệ thống lại học phần - Hướng dẫn làm bài kiểm tra cuối kỳ",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm - Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ Sinh viên: Trình bày bài tập nhóm - Thảo luận về phần trình bày của các nhóm",
+            "Đánh giá": "Điểm danh - Bài tập nhóm (Rubric 3)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "Toàn bộ nội dung học",
+            "Thi trắc nghiệm khách quan trên máy",
+            "Phụ lục 1: Ma trận đề thi",
+            "1.1 1.2 1.3 1.4"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "Toàn bộ nội dung học",
+            "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+            "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+            "CLOs": "1.1 1.2 1.3 1.4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 59,
+      "table_id": "vi-cntt1154#tbl007",
+      "table_name": null,
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "source_block": 90,
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Phạm Xuân Lâm",
+          "cells": [
+            "TS. Phạm Xuân Lâm",
+            "GS.TS. Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+            "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 65,
+      "table_id": "vi-cntt1154#tbl008",
+      "table_name": "Ma trận đề thi (trắc nghiệm):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 99,
+      "column_labels": [
+        "Nội dung",
+        "CLOs",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1",
+          "cells": [
+            "Lecture 1",
+            "1.1",
+            "5",
+            "5",
+            "0",
+            "10"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 1",
+            "CLOs": "1.1",
+            "Nhớ": "5",
+            "Hiểu": "5",
+            "Vận dụng": "0",
+            "Tổng số câu hỏi": "10"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 2",
+          "cells": [
+            "Lecture 2",
+            "1.2",
+            "3",
+            "6",
+            "5",
+            "14"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 2",
+            "CLOs": "1.2",
+            "Nhớ": "3",
+            "Hiểu": "6",
+            "Vận dụng": "5",
+            "Tổng số câu hỏi": "14"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 3",
+          "cells": [
+            "Lecture 3",
+            "1.3",
+            "2",
+            "6",
+            "2",
+            "10"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 3",
+            "CLOs": "1.3",
+            "Nhớ": "2",
+            "Hiểu": "6",
+            "Vận dụng": "2",
+            "Tổng số câu hỏi": "10"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 4",
+          "cells": [
+            "Lecture 4",
+            "1.4",
+            "0",
+            "1",
+            "4",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 4",
+            "CLOs": "1.4",
+            "Nhớ": "0",
+            "Hiểu": "1",
+            "Vận dụng": "4",
+            "Tổng số câu hỏi": "5"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 5",
+          "cells": [
+            "Lecture 5",
+            "1.4",
+            "0",
+            "1",
+            "5",
+            "6"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 5",
+            "CLOs": "1.4",
+            "Nhớ": "0",
+            "Hiểu": "1",
+            "Vận dụng": "5",
+            "Tổng số câu hỏi": "6"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.4",
+            "0",
+            "1",
+            "4",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 6",
+            "CLOs": "1.4",
+            "Nhớ": "0",
+            "Hiểu": "1",
+            "Vận dụng": "4",
+            "Tổng số câu hỏi": "5"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tổng số câu hỏi",
+          "cells": [
+            "Tổng số câu hỏi",
+            "",
+            "10",
+            "20",
+            "20",
+            "50"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu hỏi",
+            "CLOs": "",
+            "Nhớ": "10",
+            "Hiểu": "20",
+            "Vận dụng": "20",
+            "Tổng số câu hỏi": "50"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "20%",
+            "40%",
+            "40%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLOs": "",
+            "Nhớ": "20%",
+            "Hiểu": "40%",
+            "Vận dụng": "40%",
+            "Tổng số câu hỏi": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 69,
+      "table_id": "vi-cntt1154#tbl009",
+      "table_name": "Đánh giá qua 9 buổi seminar.",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 106,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 72,
+      "table_id": "vi-cntt1154#tbl010",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 109,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+          "cells": [
+            "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 76,
+      "table_id": "vi-cntt1154#tbl011",
+      "table_name": "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 115,
+      "column_labels": [
+        "Nội dung",
+        "CLOs",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1",
+          "cells": [
+            "Lecture 1",
+            "1.1",
+            "2",
+            "5",
+            "1",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 1",
+            "CLOs": "1.1",
+            "Nhớ": "2",
+            "Hiểu": "5",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 2",
+          "cells": [
+            "Lecture 2",
+            "1.2",
+            "2",
+            "5",
+            "1",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 2",
+            "CLOs": "1.2",
+            "Nhớ": "2",
+            "Hiểu": "5",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 3",
+          "cells": [
+            "Lecture 3",
+            "1.3",
+            "2",
+            "5",
+            "1",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 3",
+            "CLOs": "1.3",
+            "Nhớ": "2",
+            "Hiểu": "5",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 4",
+          "cells": [
+            "Lecture 4",
+            "1.4",
+            "2",
+            "2",
+            "2",
+            "6"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 4",
+            "CLOs": "1.4",
+            "Nhớ": "2",
+            "Hiểu": "2",
+            "Vận dụng": "2",
+            "Tổng số câu hỏi": "6"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 5",
+          "cells": [
+            "Lecture 5",
+            "1.4",
+            "2",
+            "1",
+            "2",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 5",
+            "CLOs": "1.4",
+            "Nhớ": "2",
+            "Hiểu": "1",
+            "Vận dụng": "2",
+            "Tổng số câu hỏi": "5"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.4",
+            "2",
+            "2",
+            "1",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 6",
+            "CLOs": "1.4",
+            "Nhớ": "2",
+            "Hiểu": "2",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "5"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tổng số câu hỏi",
+          "cells": [
+            "Tổng số câu hỏi",
+            "",
+            "12",
+            "20",
+            "8",
+            "40"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu hỏi",
+            "CLOs": "",
+            "Nhớ": "12",
+            "Hiểu": "20",
+            "Vận dụng": "8",
+            "Tổng số câu hỏi": "40"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "30%",
+            "50%",
+            "20%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLOs": "",
+            "Nhớ": "30%",
+            "Hiểu": "50%",
+            "Vận dụng": "20%",
+            "Tổng số câu hỏi": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 90,
+      "table_id": "vi-cntt1154#tbl012",
+      "table_name": "Hệ thống giám sát trẻ từ xa",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 131,
+      "column_labels": [
+        "Tiêu chí đánh giá",
+        "CLO",
+        "Trọng số (%)",
+        "Giỏi",
+        "Khá",
+        "Trung bình",
+        "Yếu"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Tiêu chí đánh giá",
+          "cells": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "8,5-10",
+            "7,0 – 8.4",
+            "4,5 – 6,9",
+            "0 - 4,4"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+            "CLO": "CLO",
+            "Trọng số (%)": "Trọng số (%)",
+            "Giỏi": "8,5-10",
+            "Khá": "7,0 – 8.4",
+            "Trung bình": "4,5 – 6,9",
+            "Yếu": "0 - 4,4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Mục tiêu",
+          "cells": [
+            "Mục tiêu",
+            "1.x 2.x 3.x",
+            "5%",
+            "- Mục tiêu rõ ràng, logic, hợp lí, có tính ứng dụng cao",
+            "- Mục tiêu rõ ràng",
+            "- Mục tiêu không rõ",
+            "- Mục tiêu không thực tế hoặc không có mục tiêu"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Mục tiêu",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "5%",
+            "Giỏi": "- Mục tiêu rõ ràng, logic, hợp lí, có tính ứng dụng cao",
+            "Khá": "- Mục tiêu rõ ràng",
+            "Trung bình": "- Mục tiêu không rõ",
+            "Yếu": "- Mục tiêu không thực tế hoặc không có mục tiêu"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Nội dung/Lập trình/Mô phỏng hệ thống",
+          "cells": [
+            "Nội dung/Lập trình/Mô phỏng hệ thống",
+            "1.x 2.x 3.x",
+            "55%",
+            "- Nội dung rất đầy đủ, chi tiết, logic; - Chương trình có chất lượng rất tốt. - Có các ứng dụng phù hợp, chất lượng cao.",
+            "- Nội dung đầy đủ. - Chương trình có chất lượng tốt. - Có thể ứng dụng.",
+            "Nội dung còn sơ sài. - Chương trình đáp ứng yêu cầu cơ bản. - Không có ứng dụng.",
+            "- Nội dung không phù hợp hoặc còn thiếu nhiều. - Gặp khó khăn trong việc viết chương trình"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Nội dung/Lập trình/Mô phỏng hệ thống",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "55%",
+            "Giỏi": "- Nội dung rất đầy đủ, chi tiết, logic; - Chương trình có chất lượng rất tốt. - Có các ứng dụng phù hợp, chất lượng cao.",
+            "Khá": "- Nội dung đầy đủ. - Chương trình có chất lượng tốt. - Có thể ứng dụng.",
+            "Trung bình": "Nội dung còn sơ sài. - Chương trình đáp ứng yêu cầu cơ bản. - Không có ứng dụng.",
+            "Yếu": "- Nội dung không phù hợp hoặc còn thiếu nhiều. - Gặp khó khăn trong việc viết chương trình"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Trình bày quyển Báo cáo",
+          "cells": [
+            "Trình bày quyển Báo cáo",
+            "1.x 2.x 3.x",
+            "20%",
+            "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Sơ đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. - Có sự sáng tạo và hấp dẫn",
+            "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. - Thiếu tính sáng tạo,",
+            "- Chưa đúng định dạng yêu cầu; - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu không phù hợp hoặc không có.",
+            "- Không có định dạng; - Thiếu logic - Ngôn ngữ không phù hợp."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Trình bày quyển Báo cáo",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "20%",
+            "Giỏi": "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Sơ đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. - Có sự sáng tạo và hấp dẫn",
+            "Khá": "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. - Thiếu tính sáng tạo,",
+            "Trung bình": "- Chưa đúng định dạng yêu cầu; - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Sơ đồ, bảng biểu không phù hợp hoặc không có.",
+            "Yếu": "- Không có định dạng; - Thiếu logic - Ngôn ngữ không phù hợp."
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Thuyết trình và tương tác trả lời câu hỏi",
+          "cells": [
+            "Thuyết trình và tương tác trả lời câu hỏi",
+            "1.x 2.x 3.x",
+            "20%",
+            "- Thể hiện sự hiểu biết sâu sắc về chủ đề; trình bày logic, sáng tạo, và hấp dẫn; tương tác tích cực. - Trả lời được tất cả các câu hỏi.",
+            "Thể hiện sự hiểu biết về báo cáo; nội dung trình bày đầy đủ, có cấu trúc nhưng chưa sáng tạo. Trả lời được 2/3 các câu hỏi.",
+            "- Thể hiện hiểu biết về nội dung báo cáo chưa sâu; trình bày đơn giản, không có cấu trúc rõ ràng; chưa tự tin khi tương tác, trao đổi. - Trả lời được 1/2 các câu hỏi.",
+            "- Thể hiện chưa rõ nội dung báo cáo; không tự tin khi tương tác. - Trả lời được dưới 1/2 số câu hỏi"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Thuyết trình và tương tác trả lời câu hỏi",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "20%",
+            "Giỏi": "- Thể hiện sự hiểu biết sâu sắc về chủ đề; trình bày logic, sáng tạo, và hấp dẫn; tương tác tích cực. - Trả lời được tất cả các câu hỏi.",
+            "Khá": "Thể hiện sự hiểu biết về báo cáo; nội dung trình bày đầy đủ, có cấu trúc nhưng chưa sáng tạo. Trả lời được 2/3 các câu hỏi.",
+            "Trung bình": "- Thể hiện hiểu biết về nội dung báo cáo chưa sâu; trình bày đơn giản, không có cấu trúc rõ ràng; chưa tự tin khi tương tác, trao đổi. - Trả lời được 1/2 các câu hỏi.",
+            "Yếu": "- Thể hiện chưa rõ nội dung báo cáo; không tự tin khi tương tác. - Trả lời được dưới 1/2 số câu hỏi"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ-/ĐHKTQD ngày 18 tháng 6 năm 2024)\nTên học phần (tiếng Việt): Mạng kết nối vạn vật\nTên học phần (tiếng Anh): Internet of Things\nTrình độ đào tạo Đại học\nMã học phần: CNTT1154\nSố tín chỉ: 03\nSố giờ trên lớp: 45\nSố giờ tự học: 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Nhập môn Công nghệ thông tin (CNTT1116), Mạng máy tính và truyền số liệu (CNTT1114)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\nMạng kết nối vạn vật (IoT) là học phần tự chọn nằm trong khối kiến thức chuyên sâu của ngành Công nghệ thông tin. Học phần này trình bày các nền tảng (nền tảng phần cứng và phần mềm ứng dụng); các cơ chế xử lý tín hiệu, biểu diễn tín hiệu cảm biến; khả năng giao tiếp với các thiết bị qua các giao thức truyền thông; hệ điều hành mạng các đối tượng thông minh và hướng dẫn xây dựng chương trình ứng dụng IoT.\nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến xây dựng, lập trình và triển khai hệ thống IoT trong thực tế. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề ứng dụng mạng kết nối vạn vật trong thực tế.\nNội dung chính:\n- Một số công nghệ nền tảng của IoT\n- Một số dịch vụ và ứng dụng IoT\n- Một số loại cảm biến và cơ cấu chấp hành\n- Thu thập và xử lý dữ liệu từ cảm biến\n- Các kiến trúc mạng IoT\n- Định tuyến trong mạng tổn hao năng lượng thấp\n- Các giao thức truyền thông trong IoT\n- Lập trình với các loại cảm biến thông dụng\n- Lập trình hiển thị và điều khiển các cơ cấu chấp hành\n- Lập trình điều khiển qua mạng\n4.1. Giáo trình\n[1] Lê Mỹ Hà, Phạm Quang Huy (2019), “Lập trình IoT với Arduino”, Nhà xuất bản Thanh Niên.\n4.2. Tài liệu tham khảo\n[2] Jean-Philippe Vasseur and Adam Dunkels (2010), “Interconnecting Smart Objects with IP – The Next Internet”, Morgan Kaufmann Publisher.\n[3] International Telecommunication Union - ITU (2005), “The Internet of Things”\n[4] Mansaf Alam, Kashish Ara Shakil, Samiya Khan (2020), “Internet of Things (IoT) Concepts and Applications”, Springer.\n4.3. Phần mềm\n[5] Arduino IDE\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nBài kiểm tra cá nhân gồm 40 câu hỏi – 50 phút; mỗi câu 0,25 điểm.\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý một số chủ đề phát triển ứng dụng IoT, ví dụ:\nHệ thống điều khiển thiết bị điện từ xa\nHệ thống Đo quan trắc môi trường từ xa\nHệ thống điểm danh tự động\nHệ thống nhà thông minh\nHệ thống gửi xe thông minh\nHệ thống cảnh báo cháy nổ\nHệ thống cảnh báo ngã ở người già\nHệ thống giám sát trẻ từ xa\nHệ thống giám sát và chăm sóc cây trồng\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:"
+}

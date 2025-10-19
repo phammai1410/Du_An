@@ -1,0 +1,2980 @@
+{
+  "doc_id": "vi-cntt1199",
+  "language": "vi",
+  "course_name_stem": "Bảo mật phần mềm và cơ sở dữ liệu",
+  "course_variant": "",
+  "course_code": "CNTT1199",
+  "source_filename": "Bảo mật phần mềm và cơ sở dữ liệu_CNTT1199.docx",
+  "source_relpath": "data\\raw\\vi\\Bảo mật phần mềm và cơ sở dữ liệu_CNTT1199.docx",
+  "source_hash": "5cd64da7b1d01d51525109f687878b86",
+  "source_modified": "2025-10-11T10:42:50.617951+00:00",
+  "processed_at": "2025-10-17T16:55:20.177096+00:00",
+  "stats": {
+    "paragraphs": 80,
+    "tables": 7,
+    "sections": 17
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt1199#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Tên học phần (tiếng Việt): Bảo mật phần mềm và cơ sở dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Tên học phần (tiếng Anh): Software and Database Security",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Trình độ đào tạo Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Mã học phần: CNTT1199",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Số tín chỉ: 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Số giờ tự học: 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Các học phần tiên quyết:",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 14
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-cntt1199#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "ThS. Phạm Thảo",
+                "thaop@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "ThS. Phạm Thảo",
+                "Email": "thaop@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS. Nguyễn Trung Tuấn",
+                "tuannt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "TS. Nguyễn Trung Tuấn",
+                "Email": "tuannt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Học phần bảo mật phần mềm và cơ sở dữ liệu cung cấp các kiến thức, các công cụ, quy trình và phương pháp nhằm thiết lập bảo mật về bảo mật hệ thống phần mềm và cơ sở dữ liệu. Cách tiếp cận dựa trên cung cấp các nền tảng cơ sở, phương pháp và kịch bản ứng dụng. Cụ thể, Sinh viên sẽ được hướng dẫn quản lý cơ sở dữ liệu nhằm mục đích bảo vệ dữ liệu trong hệ thống cơ sở dữ liệu, đồng thời ngăn chặn rò rỉ, giả mạo và phá hủy dữ liệu. Học phần này cũng cung cấp các kỹ thuật quản lý bảo mật cơ bản được sử dụng trong cơ sở dữ liệu, bao gồm kiểm soát truy cập, quản lý người dùng, quản lý quyền truy cập. Các phương pháp tăng cường bảo mật ứng dụng phần mềm cũng như những vấn đề của phương pháp truy cập và thao tác với cơ sở dữ liệu từ ứng dụng cũng sẽ được phân tích. Ngoài ra, các quy trình tạo chính sách bảo mật, thực hành giám sát liên tục và duy trì các tư thế bảo mật chủ động cũng sẽ được giới thiệu.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Nội dung chính:",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Nguyên tắc cơ bản về bảo mật",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Căn bản bảo mật",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Chi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Các mục tiêu của bảo mật",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Giới thiệu bảo mật cơ sở dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Thiết kế cơ sở dữ liệu an toàn",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Kiểm soát truy cập dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Giám sát tài khoản người dung, tài khoản hệ thống",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Bảo vệ dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Sao lưu và khôi phục dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Bảo mật khi khôi phục dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Theo dõi dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Bảo mật máy chủ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Giám sát và khắc phục sự cố",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Giám sát chủ động",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Rủi ro, giám sát và mã hóa",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Mã hóa cơ sở dữ liệu",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Bảo mật ứng dụng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Nguyên tắc cơ bản về bảo mật ứng dụng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Quy trình phát triển phần mềm",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Phát triển, thử nghiệm và xây dựng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Bảo mật truy cập ứng dụng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Chuỗi kết nối và mật khẩu trong mã",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Các thủ tục và chức năng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Mã hóa file",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Triển khai hạ tầng khóa công khai và thẻ thông minh",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Các kiểu tấn công",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Phát triển phần mềm nội bộ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Kiểm tra bảo mật mã nguồn",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Một số tình huống an ninh doanh nghiệp trong thực tế",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Một số tình huống",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 55
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Quản trị bảo mật",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Quản trị an ninh",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Phân tích phần mềm",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Phân tích mạng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Phân tích phần cứng và thiết bị",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Kiểm tra và báo cáo xâm nhập",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Bảo mật ứng dụng và thiết bị di động",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Bảo mật vật lý của cơ sở dữ liệu và ứng dụng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 63
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "4.1. Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "[1] R. Sarma Danturthi (2024), Database and Application Security: A Practitioner's Guide, Addison-Wesley Professional, ISBN: 9780138073725.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "[2] Bổ sung giáo trình khác (nếu có)",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 68
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "4.2. Tài liệu tham khảo",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "[3] Tài liệu tham khảo khác (nếu có)",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "4.3. Phần mềm",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "[4] Phần mềm sử dụng (nếu có)",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 72
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "table",
+          "order": 66,
+          "table_id": "vi-cntt1199#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 76,
+          "column_labels": [
+            "Mã / Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR/PLO của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã / Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR/PLO của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+                "PLO1.5"
+              ],
+              "column_map": {
+                "Mã / Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+                "CĐR/PLO của CTĐT": "PLO1.5"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Học phần giúp phát triển tích hợp các kỹ năng an toàn bảo mật vào một hệ thống cơ sở dữ liệu và ứng dụng thực tế trong các cơ quan, tổ chức, doanh nghiệp.",
+                "PLO2.3"
+              ],
+              "column_map": {
+                "Mã / Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển tích hợp các kỹ năng an toàn bảo mật vào một hệ thống cơ sở dữ liệu và ứng dụng thực tế trong các cơ quan, tổ chức, doanh nghiệp.",
+                "CĐR/PLO của CTĐT": "PLO2.3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Học phần giúp phát triển khả năng thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc.",
+                "PLO3.1"
+              ],
+              "column_map": {
+                "Mã / Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển khả năng thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc.",
+                "CĐR/PLO của CTĐT": "PLO3.1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG4",
+              "cells": [
+                "CG4",
+                "Học phần giúp phát triển khả năng lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+                "PLO3.2"
+              ],
+              "column_map": {
+                "Mã / Code": "CG4",
+                "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển khả năng lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+                "CĐR/PLO của CTĐT": "PLO3.2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG5",
+              "cells": [
+                "CG5",
+                "Học phần góp phần phát triển khả năng thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học.",
+                "PLO3.3"
+              ],
+              "column_map": {
+                "Mã / Code": "CG5",
+                "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học.",
+                "CĐR/PLO của CTĐT": "PLO3.3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG6",
+              "cells": [
+                "CG6",
+                "Học phần góp phần phát triển khả năng thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chuyên môn.",
+                "PLO3.4"
+              ],
+              "column_map": {
+                "Mã / Code": "CG6",
+                "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chuyên môn.",
+                "CĐR/PLO của CTĐT": "PLO3.4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 67,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "table",
+          "order": 68,
+          "table_id": "vi-cntt1199#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 80,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOij",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOij": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO 1.1",
+                "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO 1.1",
+                "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO 1.2",
+                "Vận dụng các kiến thức chuyên sâu để kiểm soát truy cập dữ liệu, giám sát tài khoản người dùng hệ thống, theo dõi dữ liệu, bảo mật và khôi phục dữ liệu",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO 1.2",
+                "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để kiểm soát truy cập dữ liệu, giám sát tài khoản người dùng hệ thống, theo dõi dữ liệu, bảo mật và khôi phục dữ liệu",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO 1.3",
+                "Vận dụng các kiến thức chuyên sâu phát triển thử nghiệm và xây dựng cơ chế bảo mật ứng dụng, bảo mật chuỗi kết nối, bảo mật từ các thủ tục và chức năng",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO 1.3",
+                "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu phát triển thử nghiệm và xây dựng cơ chế bảo mật ứng dụng, bảo mật chuỗi kết nối, bảo mật từ các thủ tục và chức năng",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO 1.4",
+                "Vận dụng các kiến thức chuyên sâu để đánh giá xây dựng hệ thống phần mềm nội bộ, kiểm tra bảo mật mã nguồn",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO 1.4",
+                "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để đánh giá xây dựng hệ thống phần mềm nội bộ, kiểm tra bảo mật mã nguồn",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO 1.5",
+                "Vận dụng các kiến thức chuyên sâu để quản trị bảo mật, phân tích phần cứng thiết bị, kiểm tra và báo cáo xâm nhập.",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO 1.5",
+                "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để quản trị bảo mật, phân tích phần cứng thiết bị, kiểm tra và báo cáo xâm nhập.",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO 2.1",
+                "Xem xét và vận dụng được các kiến thức về bảo mật phần mềm, bảo mật cơ sở dữ liệu",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO 2.1",
+                "Mô tả CLO": "Xem xét và vận dụng được các kiến thức về bảo mật phần mềm, bảo mật cơ sở dữ liệu",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG3 Kỹ năng",
+              "cells": [
+                "CG3 Kỹ năng",
+                "CLO 3.1",
+                "Thực hành, giải quyết, cấu hình, lập trình và xây dựng cơ chế bảo mật cho các bài toán thực tế có tính khái quát, tổng hợp",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Kỹ năng",
+                "CLOij": "CLO 3.1",
+                "Mô tả CLO": "Thực hành, giải quyết, cấu hình, lập trình và xây dựng cơ chế bảo mật cho các bài toán thực tế có tính khái quát, tổng hợp",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLO 4.1",
+                "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích và trình bày vấn đề bảo mật được thực hiện trong cơ sở dữ liệu và ứng dụng",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO 4.1",
+                "Mô tả CLO": "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích và trình bày vấn đề bảo mật được thực hiện trong cơ sở dữ liệu và ứng dụng",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLO 4.2",
+                "Có kỹ năng sử dụng các công cụ để nâng cao khả năng bảo mật của hệ thống phần mềm và bảo mật cơ sở dữ liệu",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO 4.2",
+                "Mô tả CLO": "Có kỹ năng sử dụng các công cụ để nâng cao khả năng bảo mật của hệ thống phần mềm và bảo mật cơ sở dữ liệu",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLO 4.3",
+                "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO 4.3",
+                "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao",
+                "Mức độ đạt được": "5"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLO 4.4",
+                "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO 4.4",
+                "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao",
+                "Mức độ đạt được": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1199#sec008",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 69,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 84
+        },
+        {
+          "type": "table",
+          "order": 70,
+          "table_id": "vi-cntt1199#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 85,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung / Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR/PLO của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung / Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR/PLO của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+                "Tuần 1-12",
+                "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+                "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời",
+                "10%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung / Bài đánh giá": "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+                "Thời điểm": "Tuần 1-12",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+                "Công cụ và tiêu chí đánh giá": "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời",
+                "Tỷ lệ (%)": "10%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra 60 phút (20%)",
+                "Tuần 10",
+                "CLO1.x CLO2.1 CLO3.1",
+                "Tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+                "40%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài kiểm tra 60 phút (20%)",
+                "Thời điểm": "Tuần 10",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1",
+                "Công cụ và tiêu chí đánh giá": "Tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+                "Tỷ lệ (%)": "40%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Trình bày bài tập nhóm (20%)",
+                "Tuần13, 14",
+                "CLO1.x CLO2.x CLO3.x CLO4.x",
+                "Các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+                "40%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Trình bày bài tập nhóm (20%)",
+                "Thời điểm": "Tuần13, 14",
+                "CLOs": "CLO1.x CLO2.x CLO3.x CLO4.x",
+                "Công cụ và tiêu chí đánh giá": "Các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+                "Tỷ lệ (%)": "40%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Bài thi cuối kỳ",
+                "Lịch thi học phần",
+                "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+                "Thi trắc nghiệm trên máy tính hoặc làm project",
+                "50%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung / Bài đánh giá": "Bài thi cuối kỳ",
+                "Thời điểm": "Lịch thi học phần",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+                "Công cụ và tiêu chí đánh giá": "Thi trắc nghiệm trên máy tính hoặc làm project",
+                "Tỷ lệ (%)": "50%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec009",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1199#sec010",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1199#sec011",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 71,
+          "text": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 90
+        },
+        {
+          "type": "table",
+          "order": 72,
+          "table_id": "vi-cntt1199#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 91,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Đề cương học phần",
+                "Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.x CLO2.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Tài liệu đọc": "Đề cương học phần",
+                "Hoạt động dạy và học": "Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2-3",
+              "cells": [
+                "2-3",
+                "Chương 1: Các nguyên tắc cơ bản về bảo mật 1.1 Căn bản bảo mật 1.2 Chi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ 1.3 Các mục tiêu của bảo mật",
+                "Chương 1",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.1 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "2-3",
+                "Nội dung": "Chương 1: Các nguyên tắc cơ bản về bảo mật 1.1 Căn bản bảo mật 1.2 Chi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ 1.3 Các mục tiêu của bảo mật",
+                "Tài liệu đọc": "Chương 1",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.1 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chương 2: Bảo mật cơ sở dữ liệu 2.1 Thiết kế cơ sở dữ liệu an toàn 2.2 Kiểm soát truy cập dữ liệu 2.3 Giám sát tài khoản người dung, tài khoản hệ thống",
+                "Chương 2",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Bài tập áp dụng",
+                "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.1 Thiết kế cơ sở dữ liệu an toàn 2.2 Kiểm soát truy cập dữ liệu 2.3 Giám sát tài khoản người dung, tài khoản hệ thống",
+                "Tài liệu đọc": "Chương 2",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Bài tập áp dụng",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5-6",
+              "cells": [
+                "5-6",
+                "Chương 2: Bảo mật cơ sở dữ liệu 2.4 Bảo vệ dữ liệu 2.5 Sao lưu và khôi phục dữ liệu 2.6. Bảo mật khi khôi phục dữ liệu 2.7. Theo dõi dữ liệu (tracking) 2.8. Bảo mật máy chủ",
+                "Chương 2",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "5-6",
+                "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.4 Bảo vệ dữ liệu 2.5 Sao lưu và khôi phục dữ liệu 2.6. Bảo mật khi khôi phục dữ liệu 2.7. Theo dõi dữ liệu (tracking) 2.8. Bảo mật máy chủ",
+                "Tài liệu đọc": "Chương 2",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chương 2: Bảo mật cơ sở dữ liệu 2.9. Giám sát và khắc phục sự cố 2.10 Giám sát chủ động 2.11 Rủi ro, giám sát và mã hóa 2.12 Mã hóa cơ sở dữ liệu",
+                "Chương 2",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.9. Giám sát và khắc phục sự cố 2.10 Giám sát chủ động 2.11 Rủi ro, giám sát và mã hóa 2.12 Mã hóa cơ sở dữ liệu",
+                "Tài liệu đọc": "Chương 2",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chương 3: Bảo mật phần mềm 3.1. Nguyên tắc cơ bản về bảo mật ứng dụng 3.2. Quy trình phát triển phần mềm 3.3. Phát triển, thử nghiệm và xây dựng 3.4. Bảo mật truy cập ứng dụng",
+                "Chương 3",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Chương 3: Bảo mật phần mềm 3.1. Nguyên tắc cơ bản về bảo mật ứng dụng 3.2. Quy trình phát triển phần mềm 3.3. Phát triển, thử nghiệm và xây dựng 3.4. Bảo mật truy cập ứng dụng",
+                "Tài liệu đọc": "Chương 3",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chương 3: Bảo mật phần mềm 3.5. Chuỗi kết nối và mật khẩu trong mã 3.6. Các thủ tục và chức năng 3.7. Mã hóa file 3.8. Triển khai hạ tầng khóa công khai và thẻ thông minh",
+                "Chương 3",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Chương 3: Bảo mật phần mềm 3.5. Chuỗi kết nối và mật khẩu trong mã 3.6. Các thủ tục và chức năng 3.7. Mã hóa file 3.8. Triển khai hạ tầng khóa công khai và thẻ thông minh",
+                "Tài liệu đọc": "Chương 3",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chương 3: Bảo mật phần mềm 3.9. Các kiểu tấn công 3.10. Phát triển phần mềm nội bộ 3.11. Kiểm tra bảo mật mã nguồn",
+                "Chương 3",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Chương 3: Bảo mật phần mềm 3.9. Các kiểu tấn công 3.10. Phát triển phần mềm nội bộ 3.11. Kiểm tra bảo mật mã nguồn",
+                "Tài liệu đọc": "Chương 3",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chương 4 : Một số tình huống an ninh phần mềm doanh nghiệp 4.1 Một số tình huống 4.2. Quản trị bảo mật 4.2.1. Quản trị an ninh 4.2.2. Phân tích phần mềm 4.2.3. Phân tích mạng 4.2.4. Phân tích phần cứng và thiết bị 4.2.5. Kiểm tra và báo cáo xâm nhập 4.2.6. Bảo mật ứng dụng và thiết bị di động 4.3. Bảo mật vật lý của cơ sở dữ liệu và ứng dụng",
+                "Chương 4",
+                "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLO1.4 CLO1.5 CLO2.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "11-12",
+                "Nội dung": "Chương 4 : Một số tình huống an ninh phần mềm doanh nghiệp 4.1 Một số tình huống 4.2. Quản trị bảo mật 4.2.1. Quản trị an ninh 4.2.2. Phân tích phần mềm 4.2.3. Phân tích mạng 4.2.4. Phân tích phần cứng và thiết bị 4.2.5. Kiểm tra và báo cáo xâm nhập 4.2.6. Bảo mật ứng dụng và thiết bị di động 4.3. Bảo mật vật lý của cơ sở dữ liệu và ứng dụng",
+                "Tài liệu đọc": "Chương 4",
+                "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+                "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+                "CLOs": "CLO1.4 CLO1.5 CLO2.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "13-14",
+              "cells": [
+                "13-14",
+                "Trình bày bài tập nhóm",
+                "Sinh viên tự tìm tài liệu",
+                "Sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày",
+                "CLO1.x CLO2.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "13-14",
+                "Nội dung": "Trình bày bài tập nhóm",
+                "Tài liệu đọc": "Sinh viên tự tìm tài liệu",
+                "Hoạt động dạy và học": "Sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Đánh giá": "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Nộp bài bài tập nhóm (20%) Hệ thống lại nội dung môn học",
+                "Sinh viên tự tìm tài liệu",
+                "Sinh viên nộp báo cáo Giảng viên đánh giá",
+                "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Đánh giá lẫn nhau",
+                "CLO1.x CLO2.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Nộp bài bài tập nhóm (20%) Hệ thống lại nội dung môn học",
+                "Tài liệu đọc": "Sinh viên tự tìm tài liệu",
+                "Hoạt động dạy và học": "Sinh viên nộp báo cáo Giảng viên đánh giá",
+                "Đánh giá": "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Đánh giá lẫn nhau",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Bài thi cuối kỳ",
+                "",
+                "Sinh viên làm bài thi theo lịch",
+                "Theo yêu cầu bài thi",
+                "CLO1.x CLO2.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "-",
+                "Nội dung": "Bài thi cuối kỳ",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Sinh viên làm bài thi theo lịch",
+                "Đánh giá": "Theo yêu cầu bài thi",
+                "CLOs": "CLO1.x CLO2.1 CLO3.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec012",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 73,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement"
+          ],
+          "source_block": 94
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec013",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1199#sec014",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 74,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "paragraph",
+          "order": 75,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 98
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec015",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 76,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 100
+        },
+        {
+          "type": "paragraph",
+          "order": 77,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 101
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec016",
+      "title": "10.3. Quy định về hành vi trong lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 78,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 103
+        },
+        {
+          "type": "paragraph",
+          "order": 79,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 104
+        },
+        {
+          "type": "paragraph",
+          "order": 80,
+          "text": "Đọc trước tài liệu được yêu cầu;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 105
+        },
+        {
+          "type": "paragraph",
+          "order": 81,
+          "text": "Làm các bài tập về nhà;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 106
+        },
+        {
+          "type": "paragraph",
+          "order": 82,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "paragraph",
+          "order": 83,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 108
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1199#sec017",
+      "title": "10.4. Quy định về nộp bài tập lớn",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-lon",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 84,
+          "text": "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 110
+        },
+        {
+          "type": "paragraph",
+          "order": 85,
+          "text": "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 111
+        },
+        {
+          "type": "table",
+          "order": 86,
+          "table_id": "vi-cntt1199#tbl007",
+          "table_name": null,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 114,
+          "column_labels": [
+            "TRƯỞNG KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS Nguyễn Trung Tuấn",
+              "cells": [
+                "TS Nguyễn Trung Tuấn",
+                "GS.TS Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "TRƯỞNG KHOA": "TS Nguyễn Trung Tuấn",
+                "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt1199#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-cntt1199#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "ThS. Phạm Thảo",
+            "thaop@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "ThS. Phạm Thảo",
+            "Email": "thaop@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS. Nguyễn Trung Tuấn",
+            "tuannt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "TS. Nguyễn Trung Tuấn",
+            "Email": "tuannt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 66,
+      "table_id": "vi-cntt1199#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 76,
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR/PLO của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã / Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR/PLO của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+            "PLO1.5"
+          ],
+          "column_map": {
+            "Mã / Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+            "CĐR/PLO của CTĐT": "PLO1.5"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Học phần giúp phát triển tích hợp các kỹ năng an toàn bảo mật vào một hệ thống cơ sở dữ liệu và ứng dụng thực tế trong các cơ quan, tổ chức, doanh nghiệp.",
+            "PLO2.3"
+          ],
+          "column_map": {
+            "Mã / Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển tích hợp các kỹ năng an toàn bảo mật vào một hệ thống cơ sở dữ liệu và ứng dụng thực tế trong các cơ quan, tổ chức, doanh nghiệp.",
+            "CĐR/PLO của CTĐT": "PLO2.3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Học phần giúp phát triển khả năng thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc.",
+            "PLO3.1"
+          ],
+          "column_map": {
+            "Mã / Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển khả năng thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc.",
+            "CĐR/PLO của CTĐT": "PLO3.1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG4",
+          "cells": [
+            "CG4",
+            "Học phần giúp phát triển khả năng lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+            "PLO3.2"
+          ],
+          "column_map": {
+            "Mã / Code": "CG4",
+            "Mô tả mục tiêu học phần (CG)": "Học phần giúp phát triển khả năng lập kế hoạch, điều phối, quản lý các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động.",
+            "CĐR/PLO của CTĐT": "PLO3.2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG5",
+          "cells": [
+            "CG5",
+            "Học phần góp phần phát triển khả năng thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học.",
+            "PLO3.3"
+          ],
+          "column_map": {
+            "Mã / Code": "CG5",
+            "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học.",
+            "CĐR/PLO của CTĐT": "PLO3.3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG6",
+          "cells": [
+            "CG6",
+            "Học phần góp phần phát triển khả năng thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chuyên môn.",
+            "PLO3.4"
+          ],
+          "column_map": {
+            "Mã / Code": "CG6",
+            "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chuyên môn.",
+            "CĐR/PLO của CTĐT": "PLO3.4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 68,
+      "table_id": "vi-cntt1199#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 80,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOij": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO 1.1",
+            "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO 1.1",
+            "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu theo định hướng bảo mật, đảm bảo an toàn, bảo mật cơ sở dữ liệu và ứng dụng",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO 1.2",
+            "Vận dụng các kiến thức chuyên sâu để kiểm soát truy cập dữ liệu, giám sát tài khoản người dùng hệ thống, theo dõi dữ liệu, bảo mật và khôi phục dữ liệu",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO 1.2",
+            "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để kiểm soát truy cập dữ liệu, giám sát tài khoản người dùng hệ thống, theo dõi dữ liệu, bảo mật và khôi phục dữ liệu",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO 1.3",
+            "Vận dụng các kiến thức chuyên sâu phát triển thử nghiệm và xây dựng cơ chế bảo mật ứng dụng, bảo mật chuỗi kết nối, bảo mật từ các thủ tục và chức năng",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO 1.3",
+            "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu phát triển thử nghiệm và xây dựng cơ chế bảo mật ứng dụng, bảo mật chuỗi kết nối, bảo mật từ các thủ tục và chức năng",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO 1.4",
+            "Vận dụng các kiến thức chuyên sâu để đánh giá xây dựng hệ thống phần mềm nội bộ, kiểm tra bảo mật mã nguồn",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO 1.4",
+            "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để đánh giá xây dựng hệ thống phần mềm nội bộ, kiểm tra bảo mật mã nguồn",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO 1.5",
+            "Vận dụng các kiến thức chuyên sâu để quản trị bảo mật, phân tích phần cứng thiết bị, kiểm tra và báo cáo xâm nhập.",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO 1.5",
+            "Mô tả CLO": "Vận dụng các kiến thức chuyên sâu để quản trị bảo mật, phân tích phần cứng thiết bị, kiểm tra và báo cáo xâm nhập.",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO 2.1",
+            "Xem xét và vận dụng được các kiến thức về bảo mật phần mềm, bảo mật cơ sở dữ liệu",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO 2.1",
+            "Mô tả CLO": "Xem xét và vận dụng được các kiến thức về bảo mật phần mềm, bảo mật cơ sở dữ liệu",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG3 Kỹ năng",
+          "cells": [
+            "CG3 Kỹ năng",
+            "CLO 3.1",
+            "Thực hành, giải quyết, cấu hình, lập trình và xây dựng cơ chế bảo mật cho các bài toán thực tế có tính khái quát, tổng hợp",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Kỹ năng",
+            "CLOij": "CLO 3.1",
+            "Mô tả CLO": "Thực hành, giải quyết, cấu hình, lập trình và xây dựng cơ chế bảo mật cho các bài toán thực tế có tính khái quát, tổng hợp",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLO 4.1",
+            "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích và trình bày vấn đề bảo mật được thực hiện trong cơ sở dữ liệu và ứng dụng",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO 4.1",
+            "Mô tả CLO": "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích và trình bày vấn đề bảo mật được thực hiện trong cơ sở dữ liệu và ứng dụng",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLO 4.2",
+            "Có kỹ năng sử dụng các công cụ để nâng cao khả năng bảo mật của hệ thống phần mềm và bảo mật cơ sở dữ liệu",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO 4.2",
+            "Mô tả CLO": "Có kỹ năng sử dụng các công cụ để nâng cao khả năng bảo mật của hệ thống phần mềm và bảo mật cơ sở dữ liệu",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLO 4.3",
+            "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO 4.3",
+            "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao",
+            "Mức độ đạt được": "5"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "CG4 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLO 4.4",
+            "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG4 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO 4.4",
+            "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao",
+            "Mức độ đạt được": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 70,
+      "table_id": "vi-cntt1199#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 85,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung / Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR/PLO của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung / Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR/PLO của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+            "Tuần 1-12",
+            "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+            "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời",
+            "10%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung / Bài đánh giá": "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+            "Thời điểm": "Tuần 1-12",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+            "Công cụ và tiêu chí đánh giá": "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời",
+            "Tỷ lệ (%)": "10%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra 60 phút (20%)",
+            "Tuần 10",
+            "CLO1.x CLO2.1 CLO3.1",
+            "Tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+            "40%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài kiểm tra 60 phút (20%)",
+            "Thời điểm": "Tuần 10",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1",
+            "Công cụ và tiêu chí đánh giá": "Tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+            "Tỷ lệ (%)": "40%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Trình bày bài tập nhóm (20%)",
+            "Tuần13, 14",
+            "CLO1.x CLO2.x CLO3.x CLO4.x",
+            "Các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+            "40%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Trình bày bài tập nhóm (20%)",
+            "Thời điểm": "Tuần13, 14",
+            "CLOs": "CLO1.x CLO2.x CLO3.x CLO4.x",
+            "Công cụ và tiêu chí đánh giá": "Các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Mức độ hợp tác",
+            "Tỷ lệ (%)": "40%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Bài thi cuối kỳ",
+            "Lịch thi học phần",
+            "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+            "Thi trắc nghiệm trên máy tính hoặc làm project",
+            "50%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung / Bài đánh giá": "Bài thi cuối kỳ",
+            "Thời điểm": "Lịch thi học phần",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1 CLO4.x",
+            "Công cụ và tiêu chí đánh giá": "Thi trắc nghiệm trên máy tính hoặc làm project",
+            "Tỷ lệ (%)": "50%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 72,
+      "table_id": "vi-cntt1199#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 91,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Đề cương học phần",
+            "Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.x CLO2.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Tài liệu đọc": "Đề cương học phần",
+            "Hoạt động dạy và học": "Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2-3",
+          "cells": [
+            "2-3",
+            "Chương 1: Các nguyên tắc cơ bản về bảo mật 1.1 Căn bản bảo mật 1.2 Chi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ 1.3 Các mục tiêu của bảo mật",
+            "Chương 1",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.1 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "2-3",
+            "Nội dung": "Chương 1: Các nguyên tắc cơ bản về bảo mật 1.1 Căn bản bảo mật 1.2 Chi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ 1.3 Các mục tiêu của bảo mật",
+            "Tài liệu đọc": "Chương 1",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.1 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chương 2: Bảo mật cơ sở dữ liệu 2.1 Thiết kế cơ sở dữ liệu an toàn 2.2 Kiểm soát truy cập dữ liệu 2.3 Giám sát tài khoản người dung, tài khoản hệ thống",
+            "Chương 2",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Bài tập áp dụng",
+            "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.1 Thiết kế cơ sở dữ liệu an toàn 2.2 Kiểm soát truy cập dữ liệu 2.3 Giám sát tài khoản người dung, tài khoản hệ thống",
+            "Tài liệu đọc": "Chương 2",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Bài tập áp dụng",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5-6",
+          "cells": [
+            "5-6",
+            "Chương 2: Bảo mật cơ sở dữ liệu 2.4 Bảo vệ dữ liệu 2.5 Sao lưu và khôi phục dữ liệu 2.6. Bảo mật khi khôi phục dữ liệu 2.7. Theo dõi dữ liệu (tracking) 2.8. Bảo mật máy chủ",
+            "Chương 2",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "5-6",
+            "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.4 Bảo vệ dữ liệu 2.5 Sao lưu và khôi phục dữ liệu 2.6. Bảo mật khi khôi phục dữ liệu 2.7. Theo dõi dữ liệu (tracking) 2.8. Bảo mật máy chủ",
+            "Tài liệu đọc": "Chương 2",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chương 2: Bảo mật cơ sở dữ liệu 2.9. Giám sát và khắc phục sự cố 2.10 Giám sát chủ động 2.11 Rủi ro, giám sát và mã hóa 2.12 Mã hóa cơ sở dữ liệu",
+            "Chương 2",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Chương 2: Bảo mật cơ sở dữ liệu 2.9. Giám sát và khắc phục sự cố 2.10 Giám sát chủ động 2.11 Rủi ro, giám sát và mã hóa 2.12 Mã hóa cơ sở dữ liệu",
+            "Tài liệu đọc": "Chương 2",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chương 3: Bảo mật phần mềm 3.1. Nguyên tắc cơ bản về bảo mật ứng dụng 3.2. Quy trình phát triển phần mềm 3.3. Phát triển, thử nghiệm và xây dựng 3.4. Bảo mật truy cập ứng dụng",
+            "Chương 3",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Chương 3: Bảo mật phần mềm 3.1. Nguyên tắc cơ bản về bảo mật ứng dụng 3.2. Quy trình phát triển phần mềm 3.3. Phát triển, thử nghiệm và xây dựng 3.4. Bảo mật truy cập ứng dụng",
+            "Tài liệu đọc": "Chương 3",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chương 3: Bảo mật phần mềm 3.5. Chuỗi kết nối và mật khẩu trong mã 3.6. Các thủ tục và chức năng 3.7. Mã hóa file 3.8. Triển khai hạ tầng khóa công khai và thẻ thông minh",
+            "Chương 3",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Chương 3: Bảo mật phần mềm 3.5. Chuỗi kết nối và mật khẩu trong mã 3.6. Các thủ tục và chức năng 3.7. Mã hóa file 3.8. Triển khai hạ tầng khóa công khai và thẻ thông minh",
+            "Tài liệu đọc": "Chương 3",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chương 3: Bảo mật phần mềm 3.9. Các kiểu tấn công 3.10. Phát triển phần mềm nội bộ 3.11. Kiểm tra bảo mật mã nguồn",
+            "Chương 3",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Chương 3: Bảo mật phần mềm 3.9. Các kiểu tấn công 3.10. Phát triển phần mềm nội bộ 3.11. Kiểm tra bảo mật mã nguồn",
+            "Tài liệu đọc": "Chương 3",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.3 CLO2.1 CLO3.1 CLO4.x"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chương 4 : Một số tình huống an ninh phần mềm doanh nghiệp 4.1 Một số tình huống 4.2. Quản trị bảo mật 4.2.1. Quản trị an ninh 4.2.2. Phân tích phần mềm 4.2.3. Phân tích mạng 4.2.4. Phân tích phần cứng và thiết bị 4.2.5. Kiểm tra và báo cáo xâm nhập 4.2.6. Bảo mật ứng dụng và thiết bị di động 4.3. Bảo mật vật lý của cơ sở dữ liệu và ứng dụng",
+            "Chương 4",
+            "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLO1.4 CLO1.5 CLO2.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "11-12",
+            "Nội dung": "Chương 4 : Một số tình huống an ninh phần mềm doanh nghiệp 4.1 Một số tình huống 4.2. Quản trị bảo mật 4.2.1. Quản trị an ninh 4.2.2. Phân tích phần mềm 4.2.3. Phân tích mạng 4.2.4. Phân tích phần cứng và thiết bị 4.2.5. Kiểm tra và báo cáo xâm nhập 4.2.6. Bảo mật ứng dụng và thiết bị di động 4.3. Bảo mật vật lý của cơ sở dữ liệu và ứng dụng",
+            "Tài liệu đọc": "Chương 4",
+            "Hoạt động dạy và học": "Sinh viên đọc bài trước khi tới lớp Giảng viên giảng lý thuyết Thảo luận các tình huống và câu hỏi giảng viên đặt ra",
+            "Đánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời",
+            "CLOs": "CLO1.4 CLO1.5 CLO2.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "13-14",
+          "cells": [
+            "13-14",
+            "Trình bày bài tập nhóm",
+            "Sinh viên tự tìm tài liệu",
+            "Sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày",
+            "CLO1.x CLO2.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "13-14",
+            "Nội dung": "Trình bày bài tập nhóm",
+            "Tài liệu đọc": "Sinh viên tự tìm tài liệu",
+            "Hoạt động dạy và học": "Sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Đánh giá": "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian trình bày",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Nộp bài bài tập nhóm (20%) Hệ thống lại nội dung môn học",
+            "Sinh viên tự tìm tài liệu",
+            "Sinh viên nộp báo cáo Giảng viên đánh giá",
+            "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Đánh giá lẫn nhau",
+            "CLO1.x CLO2.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Nộp bài bài tập nhóm (20%) Hệ thống lại nội dung môn học",
+            "Tài liệu đọc": "Sinh viên tự tìm tài liệu",
+            "Hoạt động dạy và học": "Sinh viên nộp báo cáo Giảng viên đánh giá",
+            "Đánh giá": "Phiếu đánh giá các tiêu chí: (i) Nội dung (ii) Hình thức (iii) Thời gian nộp (iv) Đánh giá lẫn nhau",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Bài thi cuối kỳ",
+            "",
+            "Sinh viên làm bài thi theo lịch",
+            "Theo yêu cầu bài thi",
+            "CLO1.x CLO2.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "-",
+            "Nội dung": "Bài thi cuối kỳ",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Sinh viên làm bài thi theo lịch",
+            "Đánh giá": "Theo yêu cầu bài thi",
+            "CLOs": "CLO1.x CLO2.1 CLO3.1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 86,
+      "table_id": "vi-cntt1199#tbl007",
+      "table_name": null,
+      "section_path": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "section_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "source_block": 114,
+      "column_labels": [
+        "TRƯỞNG KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS Nguyễn Trung Tuấn",
+          "cells": [
+            "TS Nguyễn Trung Tuấn",
+            "GS.TS Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "TRƯỞNG KHOA": "TS Nguyễn Trung Tuấn",
+            "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số… QĐ/ĐHKTQD ngày 28 tháng 6 năm 2024)\nTên học phần (tiếng Việt): Bảo mật phần mềm và cơ sở dữ liệu\nTên học phần (tiếng Anh): Software and Database Security\nTrình độ đào tạo Đại học\nMã học phần: CNTT1199\nSố tín chỉ: 03\nSố giờ trên lớp: 45\nSố giờ tự học: 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết:\nKhoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\nĐịa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\nHọc phần bảo mật phần mềm và cơ sở dữ liệu cung cấp các kiến thức, các công cụ, quy trình và phương pháp nhằm thiết lập bảo mật về bảo mật hệ thống phần mềm và cơ sở dữ liệu. Cách tiếp cận dựa trên cung cấp các nền tảng cơ sở, phương pháp và kịch bản ứng dụng. Cụ thể, Sinh viên sẽ được hướng dẫn quản lý cơ sở dữ liệu nhằm mục đích bảo vệ dữ liệu trong hệ thống cơ sở dữ liệu, đồng thời ngăn chặn rò rỉ, giả mạo và phá hủy dữ liệu. Học phần này cũng cung cấp các kỹ thuật quản lý bảo mật cơ bản được sử dụng trong cơ sở dữ liệu, bao gồm kiểm soát truy cập, quản lý người dùng, quản lý quyền truy cập. Các phương pháp tăng cường bảo mật ứng dụng phần mềm cũng như những vấn đề của phương pháp truy cập và thao tác với cơ sở dữ liệu từ ứng dụng cũng sẽ được phân tích. Ngoài ra, các quy trình tạo chính sách bảo mật, thực hành giám sát liên tục và duy trì các tư thế bảo mật chủ động cũng sẽ được giới thiệu.\nNội dung chính:\nNguyên tắc cơ bản về bảo mật\nCăn bản bảo mật\nChi tiết về bảo mật: Mã hóa, nén, lập chỉ mục và lưu trữ\nCác mục tiêu của bảo mật\nGiới thiệu bảo mật cơ sở dữ liệu\nThiết kế cơ sở dữ liệu an toàn\nKiểm soát truy cập dữ liệu\nGiám sát tài khoản người dung, tài khoản hệ thống\nBảo vệ dữ liệu\nSao lưu và khôi phục dữ liệu\nBảo mật khi khôi phục dữ liệu\nTheo dõi dữ liệu\nBảo mật máy chủ\nGiám sát và khắc phục sự cố\nGiám sát chủ động\nRủi ro, giám sát và mã hóa\nMã hóa cơ sở dữ liệu\nBảo mật ứng dụng\nNguyên tắc cơ bản về bảo mật ứng dụng\nQuy trình phát triển phần mềm\nPhát triển, thử nghiệm và xây dựng\nBảo mật truy cập ứng dụng\nChuỗi kết nối và mật khẩu trong mã\nCác thủ tục và chức năng\nMã hóa file\nTriển khai hạ tầng khóa công khai và thẻ thông minh\nCác kiểu tấn công\nPhát triển phần mềm nội bộ\nKiểm tra bảo mật mã nguồn\nMột số tình huống an ninh doanh nghiệp trong thực tế\nMột số tình huống\nQuản trị bảo mật\nQuản trị an ninh\nPhân tích phần mềm\nPhân tích mạng\nPhân tích phần cứng và thiết bị\nKiểm tra và báo cáo xâm nhập\nBảo mật ứng dụng và thiết bị di động\nBảo mật vật lý của cơ sở dữ liệu và ứng dụng\n4.1. Giáo trình\n[1] R. Sarma Danturthi (2024), Database and Application Security: A Practitioner's Guide, Addison-Wesley Professional, ISBN: 9780138073725.\n[2] Bổ sung giáo trình khác (nếu có)\n4.2. Tài liệu tham khảo\n[3] Tài liệu tham khảo khác (nếu có)\n4.3. Phần mềm\n[4] Phần mềm sử dụng (nếu có)\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm."
+}

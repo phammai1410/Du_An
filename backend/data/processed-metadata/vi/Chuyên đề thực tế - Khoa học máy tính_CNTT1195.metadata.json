@@ -1,0 +1,344 @@
+{
+  "doc_id": "vi-cntt1195",
+  "language": "vi",
+  "course_code": "CNTT1195",
+  "course_name_vi": "Chuyên đề thực tế ngành Khoa học máy tính",
+  "course_name_en": "Practical Training",
+  "credit": 4,
+  "hours_in_class": 45,
+  "hours_self": 155,
+  "prerequisites": [
+    "Không có"
+  ],
+  "decision_no": null,
+  "source_path": "data\\raw\\vi\\Chuyên đề thực tế - Khoa học máy tính_CNTT1195.docx",
+  "tables": [
+    {
+      "table_id": "vi-cntt1195#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "column_labels": [
+        "Họ tên",
+        "Điện thoại",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Nguyễn Trung Tuấn"
+        },
+        {
+          "row_index": 1,
+          "row_label": "TS. Phạm Minh Hoàn"
+        },
+        {
+          "row_index": 2,
+          "row_label": "TS. Lưu Minh Tuấn"
+        },
+        {
+          "row_index": 3,
+          "row_label": "TS. Nguyễn Thanh Hương"
+        },
+        {
+          "row_index": 4,
+          "row_label": "TS. Đặng Minh Quân"
+        },
+        {
+          "row_index": 5,
+          "row_label": "ThS. Tống Thị Minh Ngọc"
+        },
+        {
+          "row_index": 6,
+          "row_label": "ThS. Nguyễn Quỳnh Mai"
+        },
+        {
+          "row_index": 7,
+          "row_label": "ThS. Cao Thị Thu Hương"
+        },
+        {
+          "row_index": 8,
+          "row_label": "TS. Phạm Xuân Lâm"
+        },
+        {
+          "row_index": 9,
+          "row_label": "ThS. Trần Thị Mỹ Diệp"
+        },
+        {
+          "row_index": 10,
+          "row_label": "ThS. Phạm Đức Trung"
+        },
+        {
+          "row_index": 11,
+          "row_label": "ThS. Phạm Thảo"
+        },
+        {
+          "row_index": 12,
+          "row_label": "TS. Lê Thị Hoài Thu"
+        },
+        {
+          "row_index": 13,
+          "row_label": "TS. Tống Thị Hảo Tâm"
+        },
+        {
+          "row_index": 14,
+          "row_label": "TS. Nguyễn Ngọc Tuấn"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2"
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "column_labels": [
+        "Mục tiêu",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1"
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1"
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG2"
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG2"
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2"
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG3"
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3"
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/ \nBài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí \nđánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Đánh giá quá trình"
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá sau khi thực tế"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl006",
+      "table_name": null,
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS Phạm Xuân Lâm"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl007",
+      "table_name": "Trọng số trong điểm học phần: 50%",
+      "section_path": [
+        "Phụ lục",
+        "Rubric 1. Đánh giá trong buổi đi thực tế"
+      ],
+      "section_labels": [
+        "appendix",
+        "rubric-1-anh-gia-trong-buoi-i-thuc-te"
+      ],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)"
+        },
+        {
+          "row_index": 2,
+          "row_label": "0"
+        },
+        {
+          "row_index": 3,
+          "row_label": "1"
+        },
+        {
+          "row_index": 4,
+          "row_label": "2"
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2"
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl008",
+      "table_name": null,
+      "section_path": [
+        "Phụ lục",
+        "Rubric 1. Đánh giá trong buổi đi thực tế"
+      ],
+      "section_labels": [
+        "appendix",
+        "rubric-1-anh-gia-trong-buoi-i-thuc-te"
+      ],
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Xung phong trả lời - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác."
+        }
+      ]
+    },
+    {
+      "table_id": "vi-cntt1195#tbl009",
+      "table_name": "Trọng số trong điểm học phần: 50%",
+      "section_path": [
+        "Phụ lục",
+        "Rubric 2. Đánh giá bài báo cáo"
+      ],
+      "section_labels": [
+        "appendix",
+        "rubric-2-anh-gia-bai-bao-cao"
+      ],
+      "column_labels": [
+        "Tiêu chí đánh giá",
+        "CLO",
+        "Giỏi",
+        "Khá",
+        "Trung bình",
+        "Yếu"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Tiêu chí đánh giá"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Báo cáo sau buổi thực tế"
+        }
+      ]
+    }
+  ]
+}

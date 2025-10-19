@@ -1,0 +1,3541 @@
+{
+  "doc_id": "en-khmi1101e",
+  "language": "en",
+  "course_name_stem": "Microeconomics 1",
+  "course_variant": "",
+  "course_code": "KHMI1101E",
+  "source_filename": "Microeconomics 1_KHMI1101E.docx",
+  "source_relpath": "data\\raw\\en\\Microeconomics 1_KHMI1101E.docx",
+  "source_hash": "a9cf5fa76de7c62ba4ff623bac21e3b9",
+  "source_modified": "2025-10-11T10:42:50.601947+00:00",
+  "processed_at": "2025-10-17T16:55:27.113233+00:00",
+  "stats": {
+    "paragraphs": 60,
+    "tables": 11,
+    "sections": 14
+  },
+  "sections": [
+    {
+      "section_id": "en-khmi1101e#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Microeconomics 1 Code: KHMI1101E",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "+ Lecture: 27 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Exercise and discussion: 18 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Self-study: 90 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "* Parallel course(s): None.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Prerequisite course(s): None.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "+ Faculty: Economics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Address: 801-3, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Tel: 024 36 280280 Ext: 5817 – 5819",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "+ Department: Microeconomics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "1 Assoc. Prof. Vu Kim Dung, PhD Tel: 0912045463 Email: Dungvk@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "2 Assoc. Prof. Pham Van Minh, PhD Tel: 0904240700 Email: Minhpv@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "3 Assoc. Prof. Cao Thuy Xiem, PhD Tel: 0904538601 Email: Xiemct@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "4 Dinh Thien Duc, PhD Tel: 0913214246 Email: Ducdt@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "5 Hoang Thi Thuy Nga, PhD Tel: 0968158777 Email: Ngaht@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "6 Ngo Tuan Anh, PhD Tel: 0926992989 Email: Ngotuananh@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "7 Dong Thi Ha, PhD Tel: 0912440609 Email: Hadtkth@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "8 Doan Viet Dung, PhD Tel: 0947171333 Email: Dungdv@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "9 Nguyen Hoai Son, PhD Tel: 0904025016 Email: Hoaisonkt@gmail.com",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "10 Assoc. Prof. Vu Ngoc Xuan, PhD Tel: 0916866655 Email: Xuanvn@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "11 Le Thanh Ha, PhD Tel: 0899464808 Email: Lethanhha@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "12 Nguyen Pham Anh, MSc Tel: 0983762605 Email: Anhnp@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "13 Dang Thi Hoa, MSc Tel: 0977382205 Email: Dangthihoa@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "14 Hoang Thi Chinh Thon, MSc Tel: 0868132052 Email: Chinhthon@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "15 Pham Xuan Nam, MSc Tel: 0972172467 Email: Nampx@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "16 Truong Nhu Hieu, MSc Tel: 0989048666 Email: Hieutn@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "17 Nguyen Ngoc Anh, MSc Tel: 0916704558 Email: Nnanh@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "table",
+          "order": 33,
+          "table_id": "en-khmi1101e#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 35,
+          "column_labels": [
+            "Foundation ☐",
+            "Foundation ☐_2",
+            "Fundamental ☐",
+            "Fundamental ☐_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory ☑",
+              "cells": [
+                "Compulsory ☑",
+                "Elective ☐",
+                "Compulsory ☐",
+                "Elective ☐"
+              ],
+              "column_map": {
+                "Foundation ☐": "Compulsory ☑",
+                "Foundation ☐_2": "Elective ☐",
+                "Fundamental ☐": "Compulsory ☐",
+                "Fundamental ☐_2": "Elective ☐"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 37
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Microeconomics 1 is an introductory undergraduate course that provides a solid foundation for economic thinking and analysis. This module begins with an introduction to supply and demand and the fundamental forces that determine equilibrium in a market economy. It introduces a framework for learning about consumer behavior and analyzing consumer decisions. The module then addresses firms and their decisions about optimal production, and the impact of different market structures on firms' behavior. The final part of the module introduces some of the more advanced topics that can be analyzed using microeconomic theory, including international trade and the role of government.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 39
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-khmi1101e#sec004",
+      "title": "*Textbook",
+      "level": 2,
+      "label": "textbook",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "*Textbook"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "textbook"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "- N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "*Textbook"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "textbook"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "- PGS.TS Vũ Kim Dũng – PGS.TS Nguyễn Văn Công (2012), Giáo trình Kinh tế học tập 1, Nhà xuất bản Đại học Kinh tế Quốc dân.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "*Textbook"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "textbook"
+          ],
+          "source_block": 43
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec005",
+      "title": "* Additional references",
+      "level": 2,
+      "label": "additional-references",
+      "path_titles": [
+        "3. LEARNING RESOURCES",
+        "* Additional references"
+      ],
+      "path_labels": [
+        "learning-resources",
+        "additional-references"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "- PGS.TS Hồ Đình Bảo – TS. Hoàng Thị Thuý Nga (2022), Study guide for Microeconomics, NXB Đại học Kinh tế quốc dân, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "* Additional references"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "- The CORE team, The Economy. Available at: https://www.core-econ.org.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES",
+            "* Additional references"
+          ],
+          "section_labels": [
+            "learning-resources",
+            "additional-references"
+          ],
+          "source_block": 46
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec006",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "table",
+          "order": 42,
+          "table_id": "en-khmi1101e#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 52,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Students recognize and understand the basics of microeconomics 1 for simple economic model analysis. The objective of the module is to ensure the scientificity, connection and modernization of interdisciplinary knowledge.",
+                "PLO2",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "Students recognize and understand the basics of microeconomics 1 for simple economic model analysis. The objective of the module is to ensure the scientificity, connection and modernization of interdisciplinary knowledge.",
+                "PLOs": "PLO2",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Students have the skills to apply knowledge to perform legal functions, develop reasoning skills, analyze basic problems of microeconomics into simple economic relationships. Work independently and take responsibility.",
+                "PLO8",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Students have the skills to apply knowledge to perform legal functions, develop reasoning skills, analyze basic problems of microeconomics into simple economic relationships. Work independently and take responsibility.",
+                "PLOs": "PLO8",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "- Have a sense of discipline; Dynamic, enthusiastic and have a spirit of cooperation and responsibility for work. - Ability to self-study and accumulate experience to improve professional qualifications.",
+                "PLO11",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "- Have a sense of discipline; Dynamic, enthusiastic and have a spirit of cooperation and responsibility for work. - Ability to self-study and accumulate experience to improve professional qualifications.",
+                "PLOs": "PLO11",
+                "Proficiency scale": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec007",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "table",
+          "order": 44,
+          "table_id": "en-khmi1101e#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I, T, U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Provide learners with the concepts and basic principles of microeconomics",
+                "ITU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Provide learners with the concepts and basic principles of microeconomics",
+                "Teaching level (I, T, U)": "ITU3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Help learners understand basic theories, models and analysis of simple economic problems",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Help learners understand basic theories, models and analysis of simple economic problems",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Apply basic economic theories and models to analyze, evaluate and explain simple practical problems.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Apply basic economic theories and models to analyze, evaluate and explain simple practical problems.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Develop skills in conducting research, analysis, synthesis and generalization of basic microeconomic issues.",
+                "U3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Develop skills in conducting research, analysis, synthesis and generalization of basic microeconomic issues.",
+                "Teaching level (I, T, U)": "U3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Ability to work independently as well as in a team to solve problems.",
+                "U3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Ability to work independently as well as in a team to solve problems.",
+                "Teaching level (I, T, U)": "U3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+                "U3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+                "Teaching level (I, T, U)": "U3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "U3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "Teaching level (I, T, U)": "U3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec008",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "* Assessment methods:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "- Grading: 10",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "* Assessment summary:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "table",
+          "order": 50,
+          "table_id": "en-khmi1101e#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 62,
+          "column_labels": [
+            "Assessments",
+            "Rubrics",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "Rubrics": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "Rubric 1",
+                "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "10%",
+                "1-15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "Rubrics": "Rubric 1",
+                "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Weighting (%)": "10%",
+                "Week": "1-15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "Rubrics": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Midterm exams",
+              "cells": [
+                "Midterm exams",
+                "Rubric 2",
+                "1.1, 1.2, 1.3, 2.1, 2.2",
+                "40%",
+                "7 & 12"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exams",
+                "Rubrics": "Rubric 2",
+                "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2",
+                "Weighting (%)": "40%",
+                "Week": "7 & 12"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "Rubrics": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "Rubric 3",
+                "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "Rubrics": "Rubric 3",
+                "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Weighting (%)": "50%",
+                "Week": ""
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "* Rubrics:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Rubric 1: Participant",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "table",
+          "order": 53,
+          "table_id": "en-khmi1101e#tbl006",
+          "table_name": "Rubric 1: Participant",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 66,
+          "column_labels": [
+            "Areas of assessment",
+            "Weight-ing (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Attendance",
+              "cells": [
+                "Attendance",
+                "50",
+                "Attend class on time on all lectures. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+                "Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+                "The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+                "Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+              ],
+              "column_map": {
+                "Areas of assessment": "Attendance",
+                "Weight-ing (%)": "50",
+                "Excellence 8.5 – 10 point": "Attend class on time on all lectures. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+                "Good 6.5 – 8.4 point": "Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+                "Fair 4.0 – 6.4 point": "The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+                "Poor 0 – 3.9 point": "Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Responding",
+              "cells": [
+                "Responding",
+                "25",
+                "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+                "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Cutting class or more than twenty minutes late."
+              ],
+              "column_map": {
+                "Areas of assessment": "Responding",
+                "Weight-ing (%)": "25",
+                "Excellence 8.5 – 10 point": "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Good 6.5 – 8.4 point": "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+                "Fair 4.0 – 6.4 point": "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Poor 0 – 3.9 point": "Cutting class or more than twenty minutes late."
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Behavior",
+              "cells": [
+                "Behavior",
+                "25",
+                "The student always followed the teacher's directions, classroom rules.",
+                "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+                "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+                "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+              ],
+              "column_map": {
+                "Areas of assessment": "Behavior",
+                "Weight-ing (%)": "25",
+                "Excellence 8.5 – 10 point": "The student always followed the teacher's directions, classroom rules.",
+                "Good 6.5 – 8.4 point": "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+                "Fair 4.0 – 6.4 point": "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+                "Poor 0 – 3.9 point": "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Rubric 2: Midterm test\n(Mid-term test mainly include three types of questions: calculation",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 68
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "problems, multiple choice questions, and essay questions)",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "table",
+          "order": 56,
+          "table_id": "en-khmi1101e#tbl007",
+          "table_name": "problems, multiple choice questions, and essay questions)",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 70,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Calculation\nproblems",
+              "cells": [
+                "Calculation\nproblems",
+                "50",
+                "Provided accurate solutions to all problems,",
+                "Provided accurate solutions to most problems,",
+                "Provided accurate solutions to some problems or a few problems",
+                "Skipped some problems or provided inaccurate solutions to most problems"
+              ],
+              "column_map": {
+                "Areas of assessment": "Calculation\nproblems",
+                "Weighting (%)": "50",
+                "Excellence 8.5 – 10 point": "Provided accurate solutions to all problems,",
+                "Good 6.5 – 8.4 point": "Provided accurate solutions to most problems,",
+                "Fair 4.0 – 6.4 point": "Provided accurate solutions to some problems or a few problems",
+                "Poor 0 – 3.9 point": "Skipped some problems or provided inaccurate solutions to most problems"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Multiple choice questions",
+              "cells": [
+                "Multiple choice questions",
+                "25",
+                "Scored correctly on more than 85%",
+                "Scored correctly on more than 65%",
+                "Scored correctly on more than 45%",
+                "Scored correctly on less than 45%"
+              ],
+              "column_map": {
+                "Areas of assessment": "Multiple choice questions",
+                "Weighting (%)": "25",
+                "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+                "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+                "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+                "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Essay questions",
+              "cells": [
+                "Essay questions",
+                "25",
+                "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+                "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+                "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+                "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+              ],
+              "column_map": {
+                "Areas of assessment": "Essay questions",
+                "Weighting (%)": "25",
+                "Excellence 8.5 – 10 point": "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+                "Good 6.5 – 8.4 point": "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+                "Fair 4.0 – 6.4 point": "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+                "Poor 0 – 3.9 point": "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Rubric 3: Final exam \n(Final exam includes multiple choice questions. The exam is computer based with randomly generated questions from the test bank)",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "table",
+          "order": 58,
+          "table_id": "en-khmi1101e#tbl008",
+          "table_name": "Rubric 3: Final exam",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 72,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Multiple choice questions",
+              "cells": [
+                "Multiple choice questions",
+                "100",
+                "Scored correctly on more than 85%",
+                "Scored correctly on more than 65%",
+                "Scored correctly on more than 45%",
+                "Scored correctly on less than 45%"
+              ],
+              "column_map": {
+                "Areas of assessment": "Multiple choice questions",
+                "Weighting (%)": "100",
+                "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+                "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+                "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+                "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec009",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "table",
+          "order": 60,
+          "table_id": "en-khmi1101e#tbl009",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 76,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1. Overview The basic concepts Introducing Microeconomics Optimal choice",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 1, 2",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Read carefully the syllabus provided (IU) Lecture (T) In-class exercises (T) Homework 1 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Chapter 1. Overview The basic concepts Introducing Microeconomics Optimal choice",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 1, 2",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Read carefully the syllabus provided (IU) Lecture (T) In-class exercises (T) Homework 1 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2-3",
+              "cells": [
+                "2-3",
+                "Chapter 2. Supply and Demand 2.1. Demand 2.2. Supply 2.3. Market equilibrium 2.4. Government intervention policy",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 4, 6",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 1 discussion (TU) Lecture (T) In-class exercises (T) Homework 2 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "2-3",
+                "Content": "Chapter 2. Supply and Demand 2.1. Demand 2.2. Supply 2.3. Market equilibrium 2.4. Government intervention policy",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 4, 6",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 1 discussion (TU) Lecture (T) In-class exercises (T) Homework 2 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3. Elasticity 3.1. Elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 5",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 2 discussion (TU) Lecture (T) In-class exercises (T) Homework 3 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3. Elasticity 3.1. Elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 5",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 2 discussion (TU) Lecture (T) In-class exercises (T) Homework 3 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "5-6",
+              "cells": [
+                "5-6",
+                "Chapter 4. Consumer theory 4.1. Utility theory 4.2. Consumer’s choices 4.3. Indifference curve analysis",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 21",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 3 discussion (TU) Lecture (T) In-class exercises (T) Homework 4 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "5-6",
+                "Content": "Chapter 4. Consumer theory 4.1. Utility theory 4.2. Consumer’s choices 4.3. Indifference curve analysis",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 21",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 3 discussion (TU) Lecture (T) In-class exercises (T) Homework 4 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Mid-term Test 1",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Mid-term Test 1",
+                "Required readings text": "",
+                "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching-learning activities": "",
+                "Assessment": "Rubric 2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 5. Production theory 5.1. Theory and production function 5.2. Production costs 5.3. Profit and profit maximization",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 13",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 4 discussion (TU) Lecture (T) In-class exercises (T) Homework 5 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 5. Production theory 5.1. Theory and production function 5.2. Production costs 5.3. Profit and profit maximization",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 13",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 4 discussion (TU) Lecture (T) In-class exercises (T) Homework 5 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "9-11",
+              "cells": [
+                "9-11",
+                "Chapter 6. Market structures 6.1. Perfect competition 6.2. Monopoly 6.3. Monopolistic competition 6.4. Oligopoly",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 14, 15, 16, 17",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 5 discussion (TU) Lecture (T) In-class exercises (T) Homework 6 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "9-11",
+                "Content": "Chapter 6. Market structures 6.1. Perfect competition 6.2. Monopoly 6.3. Monopolistic competition 6.4. Oligopoly",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 14, 15, 16, 17",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 5 discussion (TU) Lecture (T) In-class exercises (T) Homework 6 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Review Mid-term Test 2",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Review Mid-term Test 2",
+                "Required readings text": "",
+                "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching-learning activities": "",
+                "Assessment": "Rubric 2"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7. International Trade 7.1. The role of international trade 7.2. Government intervention policies",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 3, 9",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 6 discussion (TU) Lecture (T) In-class exercises (T) Homework 7 (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 7. International Trade 7.1. The role of international trade 7.2. Government intervention policies",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 3, 9",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 6 discussion (TU) Lecture (T) In-class exercises (T) Homework 7 (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.2. The role of the government in the market economy",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 10, 11",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework 8 (U) Lecture (T) In-class exercises (T)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.2. The role of the government in the market economy",
+                "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 10, 11",
+                "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching-learning activities": "Homework 8 (U) Lecture (T) In-class exercises (T)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Review",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Homework 8 discussion (TU)",
+                ""
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Review",
+                "Required readings text": "",
+                "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching-learning activities": "Homework 8 discussion (TU)",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final Exam",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Students take exams according to give schedule",
+                "According to the exam requirement Rubric 3"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final Exam",
+                "Required readings text": "",
+                "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Teaching-learning activities": "Students take exams according to give schedule",
+                "Assessment": "According to the exam requirement Rubric 3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec010",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "table",
+          "order": 62,
+          "table_id": "en-khmi1101e#tbl010",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 80,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Greeting and course introduction, its logic, its role and position in the program Chapter 1. Overview The basic concepts Scarcity Choices The economics problems The circular flow model Introducing Microeconomics The scientific method Microeconomics and Macroeconomics Positive economics and Normative economics Optimal choice Opportunity cost The production possibility frontier Marginal analysis",
+                "Syllabus N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 1 + 2",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Greeting and course introduction, its logic, its role and position in the program Chapter 1. Overview The basic concepts Scarcity Choices The economics problems The circular flow model Introducing Microeconomics The scientific method Microeconomics and Macroeconomics Positive economics and Normative economics Optimal choice Opportunity cost The production possibility frontier Marginal analysis",
+                "Readings requirement": "Syllabus N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 1 + 2",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2. Supply and Demand 2.1. Demand 2.1.1. Demand and quantity demanded 2.1.2. The law of demand 2.1.3. Determinants of demand 2.2. Supply 2.2.1. Supply and quantity supplied 2.2.2. The law of supply 2.2.3. Determinants of supply",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 2. Supply and Demand 2.1. Demand 2.1.1. Demand and quantity demanded 2.1.2. The law of demand 2.1.3. Determinants of demand 2.2. Supply 2.2.1. Supply and quantity supplied 2.2.2. The law of supply 2.2.3. Determinants of supply",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2 (continued) 2.3. Market equilibrium 2.3.1. Determining the equilibrium 2.3.2. Changes in equilibrium 2.4. Government intervention policy 2.4.1. Taxes and subsidy 2.4.2. Price ceiling and price floor",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4 + 6",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 2 (continued) 2.3. Market equilibrium 2.3.1. Determining the equilibrium 2.3.2. Changes in equilibrium 2.4. Government intervention policy 2.4.1. Taxes and subsidy 2.4.2. Price ceiling and price floor",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4 + 6",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3. Elasticity 3.1. Elasticity of demand 3.1.1. The price elastic city of demand 3.1.2. Other elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 5",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3. Elasticity 3.1. Elasticity of demand 3.1.1. The price elastic city of demand 3.1.2. Other elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 5",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4. Consumer theory 4.1. Utility theory 4.1.1. Total utility and marginal utility 4.1.2. Diminishing marginal utility 4.1.3. Utility and the demand curve 4.2. Consumer’s choices 4.2.1. The budget constrant 4.2.2. The consumer’s optimal choice",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4. Consumer theory 4.1. Utility theory 4.1.1. Total utility and marginal utility 4.1.2. Diminishing marginal utility 4.1.3. Utility and the demand curve 4.2. Consumer’s choices 4.2.1. The budget constrant 4.2.2. The consumer’s optimal choice",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 4 (continued) 4.3. Indifference curve analysis 4.3.1. Definitions 4.3.2. Features of the indiference curve 4.3.3. The consumer’s optimal choice",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 4 (continued) 4.3. Indifference curve analysis 4.3.1. Definitions 4.3.2. Features of the indiference curve 4.3.3. The consumer’s optimal choice",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Mid-term test 1",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "",
+                "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Mid-term test 1",
+                "Readings requirement": "",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching and Learning Activities": "",
+                "Assessment tools and criteria": "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 5 : Production theory 5.1. Theory and production function 5.1.1. The production function 5.1.2. Returns to scale 5.1.3. The relationship between average, marginal productivity, and total product 5.2. Production costs 5.2.1. Resource costs 5.2.2. Accounting and economic costs 5.2.3. Short-terms costs 5.3. Profit and profit maximization 5.3.1. The profit function 5.3.2. Profit maximization condition",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 13",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 5 : Production theory 5.1. Theory and production function 5.1.1. The production function 5.1.2. Returns to scale 5.1.3. The relationship between average, marginal productivity, and total product 5.2. Production costs 5.2.1. Resource costs 5.2.2. Accounting and economic costs 5.2.3. Short-terms costs 5.3. Profit and profit maximization 5.3.1. The profit function 5.3.2. Profit maximization condition",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 13",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 6. Market structures 6.1. Perfect competition 6.1.1. The characteristics of perfect competition 6.1.2. Profit maximization and the competitive firm’s supply curve",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 14",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Chapter 6. Market structures 6.1. Perfect competition 6.1.1. The characteristics of perfect competition 6.1.2. Profit maximization and the competitive firm’s supply curve",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 14",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 6. Market structures (continued) 6.2. Monopoly 6.2.1. Characteristics of monopoly 6.2.2. The monopolist’s production and pricing decision 6.2.3. The welfare cost of monopolies",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 15",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 6. Market structures (continued) 6.2. Monopoly 6.2.1. Characteristics of monopoly 6.2.2. The monopolist’s production and pricing decision 6.2.3. The welfare cost of monopolies",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 15",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 6. Market structures (continued) 6.3. Monopolistic competition 6.3.1. Characteristics of monopolistic competition 6.3.1. Profit maximizatin in the short-run and in the long-run 6.4. Oligopoly 6.4.1. Characteristics of oligopoly 6.4.2. The economics of cooperation 6.4.2. The kinked demand model",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 16 + 17",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Chapter 6. Market structures (continued) 6.3. Monopolistic competition 6.3.1. Characteristics of monopolistic competition 6.3.1. Profit maximizatin in the short-run and in the long-run 6.4. Oligopoly 6.4.1. Characteristics of oligopoly 6.4.2. The economics of cooperation 6.4.2. The kinked demand model",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 16 + 17",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Review Midterm Test 2",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Review Midterm Test 2",
+                "Readings requirement": "",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7. International Trade 7.1. The role of international trade 7.1.1. Absolute and comparative advantage 7.1.2. The gain from trade 7.1.3. Imports and exports 7.2. Government intervention policies 7.2.1. Why the government intervenes 7.2.2. Policies on import activities 7.2.3. Policies on export activities",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 3 and 9",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Chapter 7. International Trade 7.1. The role of international trade 7.1.1. Absolute and comparative advantage 7.1.2. The gain from trade 7.1.3. Imports and exports 7.2. Government intervention policies 7.2.1. Why the government intervenes 7.2.2. Policies on import activities 7.2.3. Policies on export activities",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 3 and 9",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.1.1. Imperfect markets 8.1.2. Externalities 8.1.3. Public goods 8.1.4. Information failure 8.1.5. Immobility of factors of production 8.2. The role of the government in the market economy",
+                "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 10 + 11",
+                "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.1.1. Imperfect markets 8.1.2. Externalities 8.1.3. Public goods 8.1.4. Information failure 8.1.5. Immobility of factors of production 8.2. The role of the government in the market economy",
+                "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 10 + 11",
+                "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Review",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Review",
+                "Readings requirement": "",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+                "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Students take exams according to given schedule",
+                "According to the exam requirement"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "According to the exam requirement"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec011",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-khmi1101e#sec012",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 85
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec013",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 87
+        },
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "Students will be awarded points for constructive comments, these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 88
+        },
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 89
+        }
+      ]
+    },
+    {
+      "section_id": "en-khmi1101e#sec014",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 67,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 91
+        },
+        {
+          "type": "paragraph",
+          "order": 68,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 92
+        },
+        {
+          "type": "paragraph",
+          "order": 69,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 93
+        },
+        {
+          "type": "table",
+          "order": 70,
+          "table_id": "en-khmi1101e#tbl011",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 95,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Asso.Prof. PhD Pham The Anh",
+              "cells": [
+                "Asso.Prof. PhD Pham The Anh",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "Asso.Prof. PhD Pham The Anh",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-khmi1101e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued with Decision number 971/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued with Decision number 971/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+            "COURSE SYLLABUS (Issued with Decision number 971/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Course name: Microeconomics 1",
+          "cells": [
+            "Course name: Microeconomics 1",
+            "Course name: Microeconomics 1"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 33,
+      "table_id": "en-khmi1101e#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 35,
+      "column_labels": [
+        "Foundation ☐",
+        "Foundation ☐_2",
+        "Fundamental ☐",
+        "Fundamental ☐_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory ☑",
+          "cells": [
+            "Compulsory ☑",
+            "Elective ☐",
+            "Compulsory ☐",
+            "Elective ☐"
+          ],
+          "column_map": {
+            "Foundation ☐": "Compulsory ☑",
+            "Foundation ☐_2": "Elective ☐",
+            "Fundamental ☐": "Compulsory ☐",
+            "Fundamental ☐_2": "Elective ☐"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 42,
+      "table_id": "en-khmi1101e#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 52,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Students recognize and understand the basics of microeconomics 1 for simple economic model analysis. The objective of the module is to ensure the scientificity, connection and modernization of interdisciplinary knowledge.",
+            "PLO2",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "Students recognize and understand the basics of microeconomics 1 for simple economic model analysis. The objective of the module is to ensure the scientificity, connection and modernization of interdisciplinary knowledge.",
+            "PLOs": "PLO2",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Students have the skills to apply knowledge to perform legal functions, develop reasoning skills, analyze basic problems of microeconomics into simple economic relationships. Work independently and take responsibility.",
+            "PLO8",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Students have the skills to apply knowledge to perform legal functions, develop reasoning skills, analyze basic problems of microeconomics into simple economic relationships. Work independently and take responsibility.",
+            "PLOs": "PLO8",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "- Have a sense of discipline; Dynamic, enthusiastic and have a spirit of cooperation and responsibility for work. - Ability to self-study and accumulate experience to improve professional qualifications.",
+            "PLO11",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "- Have a sense of discipline; Dynamic, enthusiastic and have a spirit of cooperation and responsibility for work. - Ability to self-study and accumulate experience to improve professional qualifications.",
+            "PLOs": "PLO11",
+            "Proficiency scale": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 44,
+      "table_id": "en-khmi1101e#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I, T, U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Provide learners with the concepts and basic principles of microeconomics",
+            "ITU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Provide learners with the concepts and basic principles of microeconomics",
+            "Teaching level (I, T, U)": "ITU3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Help learners understand basic theories, models and analysis of simple economic problems",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Help learners understand basic theories, models and analysis of simple economic problems",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Apply basic economic theories and models to analyze, evaluate and explain simple practical problems.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Apply basic economic theories and models to analyze, evaluate and explain simple practical problems.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Develop skills in conducting research, analysis, synthesis and generalization of basic microeconomic issues.",
+            "U3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Develop skills in conducting research, analysis, synthesis and generalization of basic microeconomic issues.",
+            "Teaching level (I, T, U)": "U3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Ability to work independently as well as in a team to solve problems.",
+            "U3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Ability to work independently as well as in a team to solve problems.",
+            "Teaching level (I, T, U)": "U3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+            "U3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+            "Teaching level (I, T, U)": "U3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "U3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "Teaching level (I, T, U)": "U3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 50,
+      "table_id": "en-khmi1101e#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 62,
+      "column_labels": [
+        "Assessments",
+        "Rubrics",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "Rubrics": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "Rubric 1",
+            "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "10%",
+            "1-15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "Rubrics": "Rubric 1",
+            "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Weighting (%)": "10%",
+            "Week": "1-15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "Rubrics": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Midterm exams",
+          "cells": [
+            "Midterm exams",
+            "Rubric 2",
+            "1.1, 1.2, 1.3, 2.1, 2.2",
+            "40%",
+            "7 & 12"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exams",
+            "Rubrics": "Rubric 2",
+            "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2",
+            "Weighting (%)": "40%",
+            "Week": "7 & 12"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "Rubrics": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "Rubric 3",
+            "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "Rubrics": "Rubric 3",
+            "CLOs": "1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Weighting (%)": "50%",
+            "Week": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 53,
+      "table_id": "en-khmi1101e#tbl006",
+      "table_name": "Rubric 1: Participant",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 66,
+      "column_labels": [
+        "Areas of assessment",
+        "Weight-ing (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Attendance",
+          "cells": [
+            "Attendance",
+            "50",
+            "Attend class on time on all lectures. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+            "Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+            "The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+            "Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+          ],
+          "column_map": {
+            "Areas of assessment": "Attendance",
+            "Weight-ing (%)": "50",
+            "Excellence 8.5 – 10 point": "Attend class on time on all lectures. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+            "Good 6.5 – 8.4 point": "Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+            "Fair 4.0 – 6.4 point": "The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+            "Poor 0 – 3.9 point": "Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Responding",
+          "cells": [
+            "Responding",
+            "25",
+            "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+            "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Cutting class or more than twenty minutes late."
+          ],
+          "column_map": {
+            "Areas of assessment": "Responding",
+            "Weight-ing (%)": "25",
+            "Excellence 8.5 – 10 point": "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Good 6.5 – 8.4 point": "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+            "Fair 4.0 – 6.4 point": "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Poor 0 – 3.9 point": "Cutting class or more than twenty minutes late."
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Behavior",
+          "cells": [
+            "Behavior",
+            "25",
+            "The student always followed the teacher's directions, classroom rules.",
+            "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+            "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+            "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+          ],
+          "column_map": {
+            "Areas of assessment": "Behavior",
+            "Weight-ing (%)": "25",
+            "Excellence 8.5 – 10 point": "The student always followed the teacher's directions, classroom rules.",
+            "Good 6.5 – 8.4 point": "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+            "Fair 4.0 – 6.4 point": "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+            "Poor 0 – 3.9 point": "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 56,
+      "table_id": "en-khmi1101e#tbl007",
+      "table_name": "problems, multiple choice questions, and essay questions)",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 70,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Calculation\nproblems",
+          "cells": [
+            "Calculation\nproblems",
+            "50",
+            "Provided accurate solutions to all problems,",
+            "Provided accurate solutions to most problems,",
+            "Provided accurate solutions to some problems or a few problems",
+            "Skipped some problems or provided inaccurate solutions to most problems"
+          ],
+          "column_map": {
+            "Areas of assessment": "Calculation\nproblems",
+            "Weighting (%)": "50",
+            "Excellence 8.5 – 10 point": "Provided accurate solutions to all problems,",
+            "Good 6.5 – 8.4 point": "Provided accurate solutions to most problems,",
+            "Fair 4.0 – 6.4 point": "Provided accurate solutions to some problems or a few problems",
+            "Poor 0 – 3.9 point": "Skipped some problems or provided inaccurate solutions to most problems"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Multiple choice questions",
+          "cells": [
+            "Multiple choice questions",
+            "25",
+            "Scored correctly on more than 85%",
+            "Scored correctly on more than 65%",
+            "Scored correctly on more than 45%",
+            "Scored correctly on less than 45%"
+          ],
+          "column_map": {
+            "Areas of assessment": "Multiple choice questions",
+            "Weighting (%)": "25",
+            "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+            "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+            "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+            "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Essay questions",
+          "cells": [
+            "Essay questions",
+            "25",
+            "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+            "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+            "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+            "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+          ],
+          "column_map": {
+            "Areas of assessment": "Essay questions",
+            "Weighting (%)": "25",
+            "Excellence 8.5 – 10 point": "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+            "Good 6.5 – 8.4 point": "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+            "Fair 4.0 – 6.4 point": "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+            "Poor 0 – 3.9 point": "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 58,
+      "table_id": "en-khmi1101e#tbl008",
+      "table_name": "Rubric 3: Final exam",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 72,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Multiple choice questions",
+          "cells": [
+            "Multiple choice questions",
+            "100",
+            "Scored correctly on more than 85%",
+            "Scored correctly on more than 65%",
+            "Scored correctly on more than 45%",
+            "Scored correctly on less than 45%"
+          ],
+          "column_map": {
+            "Areas of assessment": "Multiple choice questions",
+            "Weighting (%)": "100",
+            "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+            "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+            "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+            "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 60,
+      "table_id": "en-khmi1101e#tbl009",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 76,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1. Overview The basic concepts Introducing Microeconomics Optimal choice",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 1, 2",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Read carefully the syllabus provided (IU) Lecture (T) In-class exercises (T) Homework 1 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Chapter 1. Overview The basic concepts Introducing Microeconomics Optimal choice",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 1, 2",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Read carefully the syllabus provided (IU) Lecture (T) In-class exercises (T) Homework 1 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2-3",
+          "cells": [
+            "2-3",
+            "Chapter 2. Supply and Demand 2.1. Demand 2.2. Supply 2.3. Market equilibrium 2.4. Government intervention policy",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 4, 6",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 1 discussion (TU) Lecture (T) In-class exercises (T) Homework 2 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "2-3",
+            "Content": "Chapter 2. Supply and Demand 2.1. Demand 2.2. Supply 2.3. Market equilibrium 2.4. Government intervention policy",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 4, 6",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 1 discussion (TU) Lecture (T) In-class exercises (T) Homework 2 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3. Elasticity 3.1. Elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 5",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 2 discussion (TU) Lecture (T) In-class exercises (T) Homework 3 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3. Elasticity 3.1. Elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 5",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 2 discussion (TU) Lecture (T) In-class exercises (T) Homework 3 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "5-6",
+          "cells": [
+            "5-6",
+            "Chapter 4. Consumer theory 4.1. Utility theory 4.2. Consumer’s choices 4.3. Indifference curve analysis",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 21",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 3 discussion (TU) Lecture (T) In-class exercises (T) Homework 4 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "5-6",
+            "Content": "Chapter 4. Consumer theory 4.1. Utility theory 4.2. Consumer’s choices 4.3. Indifference curve analysis",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 21",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 3 discussion (TU) Lecture (T) In-class exercises (T) Homework 4 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Mid-term Test 1",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Mid-term Test 1",
+            "Required readings text": "",
+            "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching-learning activities": "",
+            "Assessment": "Rubric 2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 5. Production theory 5.1. Theory and production function 5.2. Production costs 5.3. Profit and profit maximization",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 13",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 4 discussion (TU) Lecture (T) In-class exercises (T) Homework 5 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 5. Production theory 5.1. Theory and production function 5.2. Production costs 5.3. Profit and profit maximization",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 13",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 4 discussion (TU) Lecture (T) In-class exercises (T) Homework 5 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "9-11",
+          "cells": [
+            "9-11",
+            "Chapter 6. Market structures 6.1. Perfect competition 6.2. Monopoly 6.3. Monopolistic competition 6.4. Oligopoly",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 14, 15, 16, 17",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 5 discussion (TU) Lecture (T) In-class exercises (T) Homework 6 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "9-11",
+            "Content": "Chapter 6. Market structures 6.1. Perfect competition 6.2. Monopoly 6.3. Monopolistic competition 6.4. Oligopoly",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 14, 15, 16, 17",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 5 discussion (TU) Lecture (T) In-class exercises (T) Homework 6 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Review Mid-term Test 2",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Review Mid-term Test 2",
+            "Required readings text": "",
+            "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching-learning activities": "",
+            "Assessment": "Rubric 2"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7. International Trade 7.1. The role of international trade 7.2. Government intervention policies",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 3, 9",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 6 discussion (TU) Lecture (T) In-class exercises (T) Homework 7 (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 7. International Trade 7.1. The role of international trade 7.2. Government intervention policies",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 3, 9",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 6 discussion (TU) Lecture (T) In-class exercises (T) Homework 7 (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.2. The role of the government in the market economy",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 10, 11",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework 8 (U) Lecture (T) In-class exercises (T)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.2. The role of the government in the market economy",
+            "Required readings text": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA. Ch 10, 11",
+            "CLOs": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching-learning activities": "Homework 8 (U) Lecture (T) In-class exercises (T)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Review",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Homework 8 discussion (TU)",
+            ""
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Review",
+            "Required readings text": "",
+            "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching-learning activities": "Homework 8 discussion (TU)",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final Exam",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Students take exams according to give schedule",
+            "According to the exam requirement Rubric 3"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final Exam",
+            "Required readings text": "",
+            "CLOs": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Teaching-learning activities": "Students take exams according to give schedule",
+            "Assessment": "According to the exam requirement Rubric 3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 62,
+      "table_id": "en-khmi1101e#tbl010",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 80,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Greeting and course introduction, its logic, its role and position in the program Chapter 1. Overview The basic concepts Scarcity Choices The economics problems The circular flow model Introducing Microeconomics The scientific method Microeconomics and Macroeconomics Positive economics and Normative economics Optimal choice Opportunity cost The production possibility frontier Marginal analysis",
+            "Syllabus N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 1 + 2",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Greeting and course introduction, its logic, its role and position in the program Chapter 1. Overview The basic concepts Scarcity Choices The economics problems The circular flow model Introducing Microeconomics The scientific method Microeconomics and Macroeconomics Positive economics and Normative economics Optimal choice Opportunity cost The production possibility frontier Marginal analysis",
+            "Readings requirement": "Syllabus N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 1 + 2",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2. Supply and Demand 2.1. Demand 2.1.1. Demand and quantity demanded 2.1.2. The law of demand 2.1.3. Determinants of demand 2.2. Supply 2.2.1. Supply and quantity supplied 2.2.2. The law of supply 2.2.3. Determinants of supply",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 2. Supply and Demand 2.1. Demand 2.1.1. Demand and quantity demanded 2.1.2. The law of demand 2.1.3. Determinants of demand 2.2. Supply 2.2.1. Supply and quantity supplied 2.2.2. The law of supply 2.2.3. Determinants of supply",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2 (continued) 2.3. Market equilibrium 2.3.1. Determining the equilibrium 2.3.2. Changes in equilibrium 2.4. Government intervention policy 2.4.1. Taxes and subsidy 2.4.2. Price ceiling and price floor",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4 + 6",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 2 (continued) 2.3. Market equilibrium 2.3.1. Determining the equilibrium 2.3.2. Changes in equilibrium 2.4. Government intervention policy 2.4.1. Taxes and subsidy 2.4.2. Price ceiling and price floor",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 4 + 6",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3. Elasticity 3.1. Elasticity of demand 3.1.1. The price elastic city of demand 3.1.2. Other elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 5",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3. Elasticity 3.1. Elasticity of demand 3.1.1. The price elastic city of demand 3.1.2. Other elasticity of demand 3.2. Elasticity of supply 3.3. Applications of elasticity of demand and supply",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 5",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4. Consumer theory 4.1. Utility theory 4.1.1. Total utility and marginal utility 4.1.2. Diminishing marginal utility 4.1.3. Utility and the demand curve 4.2. Consumer’s choices 4.2.1. The budget constrant 4.2.2. The consumer’s optimal choice",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4. Consumer theory 4.1. Utility theory 4.1.1. Total utility and marginal utility 4.1.2. Diminishing marginal utility 4.1.3. Utility and the demand curve 4.2. Consumer’s choices 4.2.1. The budget constrant 4.2.2. The consumer’s optimal choice",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 4 (continued) 4.3. Indifference curve analysis 4.3.1. Definitions 4.3.2. Features of the indiference curve 4.3.3. The consumer’s optimal choice",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 4 (continued) 4.3. Indifference curve analysis 4.3.1. Definitions 4.3.2. Features of the indiference curve 4.3.3. The consumer’s optimal choice",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 21",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Mid-term test 1",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "",
+            "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Mid-term test 1",
+            "Readings requirement": "",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching and Learning Activities": "",
+            "Assessment tools and criteria": "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 5 : Production theory 5.1. Theory and production function 5.1.1. The production function 5.1.2. Returns to scale 5.1.3. The relationship between average, marginal productivity, and total product 5.2. Production costs 5.2.1. Resource costs 5.2.2. Accounting and economic costs 5.2.3. Short-terms costs 5.3. Profit and profit maximization 5.3.1. The profit function 5.3.2. Profit maximization condition",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 13",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 5 : Production theory 5.1. Theory and production function 5.1.1. The production function 5.1.2. Returns to scale 5.1.3. The relationship between average, marginal productivity, and total product 5.2. Production costs 5.2.1. Resource costs 5.2.2. Accounting and economic costs 5.2.3. Short-terms costs 5.3. Profit and profit maximization 5.3.1. The profit function 5.3.2. Profit maximization condition",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 13",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 6. Market structures 6.1. Perfect competition 6.1.1. The characteristics of perfect competition 6.1.2. Profit maximization and the competitive firm’s supply curve",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 14",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Chapter 6. Market structures 6.1. Perfect competition 6.1.1. The characteristics of perfect competition 6.1.2. Profit maximization and the competitive firm’s supply curve",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 14",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 6. Market structures (continued) 6.2. Monopoly 6.2.1. Characteristics of monopoly 6.2.2. The monopolist’s production and pricing decision 6.2.3. The welfare cost of monopolies",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 15",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 6. Market structures (continued) 6.2. Monopoly 6.2.1. Characteristics of monopoly 6.2.2. The monopolist’s production and pricing decision 6.2.3. The welfare cost of monopolies",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 15",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 6. Market structures (continued) 6.3. Monopolistic competition 6.3.1. Characteristics of monopolistic competition 6.3.1. Profit maximizatin in the short-run and in the long-run 6.4. Oligopoly 6.4.1. Characteristics of oligopoly 6.4.2. The economics of cooperation 6.4.2. The kinked demand model",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 16 + 17",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Chapter 6. Market structures (continued) 6.3. Monopolistic competition 6.3.1. Characteristics of monopolistic competition 6.3.1. Profit maximizatin in the short-run and in the long-run 6.4. Oligopoly 6.4.1. Characteristics of oligopoly 6.4.2. The economics of cooperation 6.4.2. The kinked demand model",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 16 + 17",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Review Midterm Test 2",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Review Midterm Test 2",
+            "Readings requirement": "",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Calculation problems, Multiple choice questions, and Essay questions Tools: Rubric 2 Method: Multiple choice & Written Exam"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7. International Trade 7.1. The role of international trade 7.1.1. Absolute and comparative advantage 7.1.2. The gain from trade 7.1.3. Imports and exports 7.2. Government intervention policies 7.2.1. Why the government intervenes 7.2.2. Policies on import activities 7.2.3. Policies on export activities",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 3 and 9",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Chapter 7. International Trade 7.1. The role of international trade 7.1.1. Absolute and comparative advantage 7.1.2. The gain from trade 7.1.3. Imports and exports 7.2. Government intervention policies 7.2.1. Why the government intervenes 7.2.2. Policies on import activities 7.2.3. Policies on export activities",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 3 and 9",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.1.1. Imperfect markets 8.1.2. Externalities 8.1.3. Public goods 8.1.4. Information failure 8.1.5. Immobility of factors of production 8.2. The role of the government in the market economy",
+            "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 10 + 11",
+            "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 8. The role of the Government in the market economy 8.1. Market failures 8.1.1. Imperfect markets 8.1.2. Externalities 8.1.3. Public goods 8.1.4. Information failure 8.1.5. Immobility of factors of production 8.2. The role of the government in the market economy",
+            "Readings requirement": "N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA Chapter 10 + 11",
+            "CLO": "CLO.1.1 CLO.1.2 CLO.1.3",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Review",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Review",
+            "Readings requirement": "",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2",
+            "Teaching and Learning Activities": "Homework discussion: the lecturer checked the students’ homework, provide feedbacks and answer any questions. Lectures: the contents of the course are discussed using PowerPoint slides. In-class exercises: basic concepts and techniques are illustrated using examples. To follow the lectures closely, students are encouraged to work along with the instructor on these exercises.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Students take exams according to given schedule",
+            "According to the exam requirement"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "CLO 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 & 3.2",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "According to the exam requirement"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 70,
+      "table_id": "en-khmi1101e#tbl011",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 95,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Asso.Prof. PhD Pham The Anh",
+          "cells": [
+            "Asso.Prof. PhD Pham The Anh",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "Asso.Prof. PhD Pham The Anh",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Microeconomics 1 Code: KHMI1101E\n* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)\n* Credit hours for teaching and learning activities:\n+ Lecture: 27 hrs\n+ Exercise and discussion: 18 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): None.\n* Department conducting the course:\n+ Faculty: Economics\nAddress: 801-3, Building A1, National Economics University\nTel: 024 36 280280 Ext: 5817 – 5819\n+ Department: Microeconomics\n+ Lecturers:\n1 Assoc. Prof. Vu Kim Dung, PhD Tel: 0912045463 Email: Dungvk@neu.edu.vn\n2 Assoc. Prof. Pham Van Minh, PhD Tel: 0904240700 Email: Minhpv@neu.edu.vn\n3 Assoc. Prof. Cao Thuy Xiem, PhD Tel: 0904538601 Email: Xiemct@neu.edu.vn\n4 Dinh Thien Duc, PhD Tel: 0913214246 Email: Ducdt@neu.edu.vn\n5 Hoang Thi Thuy Nga, PhD Tel: 0968158777 Email: Ngaht@neu.edu.vn\n6 Ngo Tuan Anh, PhD Tel: 0926992989 Email: Ngotuananh@neu.edu.vn\n7 Dong Thi Ha, PhD Tel: 0912440609 Email: Hadtkth@neu.edu.vn\n8 Doan Viet Dung, PhD Tel: 0947171333 Email: Dungdv@neu.edu.vn\n9 Nguyen Hoai Son, PhD Tel: 0904025016 Email: Hoaisonkt@gmail.com\n10 Assoc. Prof. Vu Ngoc Xuan, PhD Tel: 0916866655 Email: Xuanvn@neu.edu.vn\n11 Le Thanh Ha, PhD Tel: 0899464808 Email: Lethanhha@neu.edu.vn\n12 Nguyen Pham Anh, MSc Tel: 0983762605 Email: Anhnp@neu.edu.vn\n13 Dang Thi Hoa, MSc Tel: 0977382205 Email: Dangthihoa@neu.edu.vn\n14 Hoang Thi Chinh Thon, MSc Tel: 0868132052 Email: Chinhthon@neu.edu.vn\n15 Pham Xuan Nam, MSc Tel: 0972172467 Email: Nampx@neu.edu.vn\n16 Truong Nhu Hieu, MSc Tel: 0989048666 Email: Hieutn@neu.edu.vn\n17 Nguyen Ngoc Anh, MSc Tel: 0916704558 Email: Nnanh@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment\nMicroeconomics 1 is an introductory undergraduate course that provides a solid foundation for economic thinking and analysis. This module begins with an introduction to supply and demand and the fundamental forces that determine equilibrium in a market economy. It introduces a framework for learning about consumer behavior and analyzing consumer decisions. The module then addresses firms and their decisions about optimal production, and the impact of different market structures on firms' behavior. The final part of the module introduces some of the more advanced topics that can be analyzed using microeconomic theory, including international trade and the role of government.\n- N. Gregory Mankiw (2020), Principles of Economics, 9th Edition, Boston, MA.\n- PGS.TS Vũ Kim Dũng – PGS.TS Nguyễn Văn Công (2012), Giáo trình Kinh tế học tập 1, Nhà xuất bản Đại học Kinh tế Quốc dân.\n- PGS.TS Hồ Đình Bảo – TS. Hoàng Thị Thuý Nga (2022), Study guide for Microeconomics, NXB Đại học Kinh tế quốc dân, Hà Nội.\n- The CORE team, The Economy. Available at: https://www.core-econ.org.\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics:\nRubric 1: Participant\nRubric 2: Midterm test\n(Mid-term test mainly include three types of questions: calculation\nproblems, multiple choice questions, and essay questions)\nRubric 3: Final exam \n(Final exam includes multiple choice questions. The exam is computer based with randomly generated questions from the test bank)\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments, these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

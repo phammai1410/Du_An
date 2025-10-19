@@ -1,0 +1,4045 @@
+{
+  "doc_id": "vi-cntt1191",
+  "language": "vi",
+  "course_name_stem": "Vật lý đại cương",
+  "course_variant": "",
+  "course_code": "CNTT1191",
+  "source_filename": "Vật lý đại cương_CNTT1191.docx",
+  "source_relpath": "data\\raw\\vi\\Vật lý đại cương_CNTT1191.docx",
+  "source_hash": "9c4b9f4ad46346ead111bad0bb4c6441",
+  "source_modified": "2025-10-11T10:42:50.659125+00:00",
+  "processed_at": "2025-10-17T16:55:24.680942+00:00",
+  "stats": {
+    "paragraphs": 66,
+    "tables": 12,
+    "sections": 21
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt1191#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Tên học phần (tiếng Việt): Vật lý đại cương",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Tên học phần (tiếng Anh): General Physics",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Trình độ đào tạo Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Mã học phần: CNTT1191",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Số tín chỉ: 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Số giờ tự học: 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Các học phần tiên quyết: Không",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-cntt1191#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 21,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "TS Tống Thị Hảo Tâm",
+                "tamtth@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "TS Tống Thị Hảo Tâm",
+                "Email": "tamtth@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS Nguyễn Thanh Hương",
+                "huongnt_cntt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "TS Nguyễn Thanh Hương",
+                "Email": "huongnt_cntt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Học phần này bao gồm những kiến thức Vật lý đại cương phần điện từ. Bao gồm các nội dung về: các loại trường (điện trường tĩnh, điện trường xoáy, từ trường), nguồn sinh ra trường, các tính chất của trường, các đại lượng đặc trưng cho trường (cường độ, điện thế, điện thông, từ thông,..); Các định lý, định luật liên quan; Mối quan hệ giữa trường điện và trường từ, trường điện từ thống nhất; Lực trong các trường và ứng dụng; Các tính chất của vật dẫn, điện môi trong điện trường tĩnh và ứng dụng; Bản chất từ tính của vật liệu từ và ứng dụng; Vận dụng xét dao động điện và sóng điện từ. Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ cũng như kĩ năng làm việc nhóm thông qua thực hành các bài tập nhóm, giờ học thảo luận.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Nội dung chính:",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Điện trường tĩnh",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Tác dụng của điện trường tĩnh đối với vật chất: vật dẫn, điện môi",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Từ trường",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Tác dụng của từ trường đối với vật chất: vật liệu thuận từ, nghịch từ, sắt từ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Cảm ứng điện từ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Mỗi quan hệ giữa trường điện và trường từ: trường điện từ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Điện trường và từ trường biến thiên theo thời gian: phương trình Maxwell",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Vận dụng lý thuyết điện và từ khảo sát: dao động điện từ, sóng điện từ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 34
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "4.1. Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "[1]. Lương Duyên Bình, Dư Trí Công, Nguyễn Hữu Hồ (2006), Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "[2]. Lương Duyên Bình (Chủ biên) (2006), Bài tập Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "4.2. Tài liệu tham khảo",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[3]. Tống Thị Hảo Tâm (Chủ biên), Đặng Đình Hải (2019), Bài giảng Vật lý Đại cương (Tâp 1), NXB ĐH Kinh tế Quốc dân.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "[4]. Vũ Thanh Khiết, Nguyễn Phúc Thuần (1992), Điện học, NXB Giáo dục.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "[5]. Đặng Quang Khang (2000), Vật lý Đại cương tập 2- Điện học, ĐH Bách Khoa Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "[6]. Trần Ngọc Hợi (Chủ biên), Phạm Văn Thiều (2006), Vật lý Đại cương các nguyên lý và ứng dụng, tập 2: Điện, từ, dao động và sóng, NXB Giáo dục.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "[7]. David Halliday- Robert Resnick- Jearl Walker, Cơ sở vật lí (tập IV), NXB Giáo dục.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 45
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "vi-cntt1191#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 49,
+          "column_labels": [
+            "Mã / Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã / Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Học phần cung cấp cho người học các kiến thức về: điện học (điện tích, điện trường); từ học (dòng điện tích chuyển động, từ trường); sự tương tác của trường điện và trường từ với môi trường chất; điện trường và từ trường biến thiên, mối quan hệ giữa điện trường và từ trường; phân biệt điện trường tĩnh và điện trường xoáy; mạch dao động điện từ; thu, phát sóng điện từ.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức về: điện học (điện tích, điện trường); từ học (dòng điện tích chuyển động, từ trường); sự tương tác của trường điện và trường từ với môi trường chất; điện trường và từ trường biến thiên, mối quan hệ giữa điện trường và từ trường; phân biệt điện trường tĩnh và điện trường xoáy; mạch dao động điện từ; thu, phát sóng điện từ.",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ…",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ…",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Tạo cơ hội thực hành khả năng làm việc nhóm; Bước đầu trang bị cho người học nhận thức được trách nhiệm, cũng như quyền lợi của cá nhân với tập thể trong hoạt động học cũng như hoạt động thực hành nghệ nghiệp sau này.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Tạo cơ hội thực hành khả năng làm việc nhóm; Bước đầu trang bị cho người học nhận thức được trách nhiệm, cũng như quyền lợi của cá nhân với tập thể trong hoạt động học cũng như hoạt động thực hành nghệ nghiệp sau này.",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "vi-cntt1191#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 54,
+          "column_labels": [
+            "12",
+            "CLOij",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "12": "[1]",
+                "CLOij": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.1",
+                "Có hiểu biết về: Khái niệm điện trường; Các đại lượng đặc trưng cho điện trường; Đường sức điện trường; Nguyên lý chồng chất điện trường; Lực điện; Điện thông; Thế năng, điện thế; Năng lượng điện trường. Áp dụng giải các bài toán sử dụng các định luật/định lý về điện trường (định luật Coulomb, định lý O-G). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường điện (điện môi, vật dẫn) và ứng dụng trong thực tế; Có khả năng giải quyết các bài toán về ảnh hưởng của điện trường lên các vật dẫn và điện môi (vật dẫn cân bằng tĩnh điện, tụ điện);",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG1",
+                "CLOij": "CLO1.1",
+                "Mô tả CLO": "Có hiểu biết về: Khái niệm điện trường; Các đại lượng đặc trưng cho điện trường; Đường sức điện trường; Nguyên lý chồng chất điện trường; Lực điện; Điện thông; Thế năng, điện thế; Năng lượng điện trường. Áp dụng giải các bài toán sử dụng các định luật/định lý về điện trường (định luật Coulomb, định lý O-G). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường điện (điện môi, vật dẫn) và ứng dụng trong thực tế; Có khả năng giải quyết các bài toán về ảnh hưởng của điện trường lên các vật dẫn và điện môi (vật dẫn cân bằng tĩnh điện, tụ điện);",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.2",
+                "Có hiểu biết về: Khái niệm từ trường; Các đại lượng đặc trưng cho từ trường; Đường sức từ trường; Nguyên lý chồng chất từ trường; Lực từ; Từ thông; Năng lượng từ trường; Mối quan hệ tương hỗ giữa từ trường và dòng điện. Áp dụng giải các bài toán sử dụng các định luật về từ trường (định luật Biot-Savart-Laplace, định luật Ampere). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường từ (vật liệu từ) và ứng dụng trong thực tế; Có hiểu biết về bản chất từ tính của các loại vật liệu từ, các tính chất của vật liệu sắt từ, ứng dụng của vật liệu sắt từ.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG1",
+                "CLOij": "CLO1.2",
+                "Mô tả CLO": "Có hiểu biết về: Khái niệm từ trường; Các đại lượng đặc trưng cho từ trường; Đường sức từ trường; Nguyên lý chồng chất từ trường; Lực từ; Từ thông; Năng lượng từ trường; Mối quan hệ tương hỗ giữa từ trường và dòng điện. Áp dụng giải các bài toán sử dụng các định luật về từ trường (định luật Biot-Savart-Laplace, định luật Ampere). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường từ (vật liệu từ) và ứng dụng trong thực tế; Có hiểu biết về bản chất từ tính của các loại vật liệu từ, các tính chất của vật liệu sắt từ, ứng dụng của vật liệu sắt từ.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.3",
+                "Phân tích được mối quan hệ giữa từ trường và điện trường (định luật Faraday, các luận điểm của Maxwell); Phân biệt giữa điện trường tĩnh và điện trường xoáy; Áp dụng giải các bài toán liên quan đến mô tả mối quan hệ giữa từ trường và điện trường; Bài toán hạt điện tích chuyển động trong trường điện từ.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG1",
+                "CLOij": "CLO1.3",
+                "Mô tả CLO": "Phân tích được mối quan hệ giữa từ trường và điện trường (định luật Faraday, các luận điểm của Maxwell); Phân biệt giữa điện trường tĩnh và điện trường xoáy; Áp dụng giải các bài toán liên quan đến mô tả mối quan hệ giữa từ trường và điện trường; Bài toán hạt điện tích chuyển động trong trường điện từ.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.4",
+                "Có hiểu biết về bản chất của các loại dao động điện từ, mạch dao động điện từ và phân tích được ứng dụng của chúng.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG1",
+                "CLOij": "CLO1.4",
+                "Mô tả CLO": "Có hiểu biết về bản chất của các loại dao động điện từ, mạch dao động điện từ và phân tích được ứng dụng của chúng.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.5",
+                "Có hiểu biết về bản chất của sóng điện từ, phân tích được các vấn đề liên quan đến thu phát sóng điện từ và ứng dụng.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG1",
+                "CLOij": "CLO1.5",
+                "Mô tả CLO": "Có hiểu biết về bản chất của sóng điện từ, phân tích được các vấn đề liên quan đến thu phát sóng điện từ và ứng dụng.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.1",
+                "Thành thạo việc tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ đáp ứng các nội dung thảo luận trên lớp, nội dụng học liên quan đến vận dụng, nội dung báo cáo tự học.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG2",
+                "CLOij": "CLO2.1",
+                "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ đáp ứng các nội dung thảo luận trên lớp, nội dụng học liên quan đến vận dụng, nội dung báo cáo tự học.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.2",
+                "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG2",
+                "CLOij": "CLO2.2",
+                "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.1",
+                "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giao.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG3",
+                "CLOij": "CLO3.1",
+                "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giao.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.2",
+                "Thực hành khả năng làm việc nhóm: hoàn thành được vai trò của cá nhân khi tham gia vào các bài tập nhóm, báo cáo nhóm, kiểm tra nhóm.",
+                "3"
+              ],
+              "column_map": {
+                "12": "CG3",
+                "CLOij": "CLO3.2",
+                "Mô tả CLO": "Thực hành khả năng làm việc nhóm: hoàn thành được vai trò của cá nhân khi tham gia vào các bài tập nhóm, báo cáo nhóm, kiểm tra nhóm.",
+                "Mức độ đạt được": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1191#sec008",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "table",
+          "order": 41,
+          "table_id": "vi-cntt1191#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 59,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung / Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung / Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Tất cả các buổi seminar",
+                "CLO1 CLO2 CLO3",
+                "Phụ lục 2: rubric 1",
+                "10%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Thời điểm": "Tất cả các buổi seminar",
+                "CLOs": "CLO1 CLO2 CLO3",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra cá nhân (trắc nghiệm khách quan)",
+                "Tuần 10",
+                "CLO1.1-CLO1.2",
+                "Phụ lục 2: rubric 2",
+                "20%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân (trắc nghiệm khách quan)",
+                "Thời điểm": "Tuần 10",
+                "CLOs": "CLO1.1-CLO1.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 2",
+                "Tỷ lệ (%)": "20%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm",
+                "Tuần 15",
+                "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Phụ lục 2: rubric 3",
+                "20%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài tập nhóm",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 3",
+                "Tỷ lệ (%)": "20%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Toàn bộ nội dung học",
+                "Theo lịch của Trường",
+                "CLO1.1- CLO1.5",
+                "Phụ lục 1: ma trận đề thi",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung / Bài đánh giá": "Toàn bộ nội dung học",
+                "Thời điểm": "Theo lịch của Trường",
+                "CLOs": "CLO1.1- CLO1.5",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 1: ma trận đề thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec009",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1191#sec010",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1191#sec011",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "table",
+          "order": 43,
+          "table_id": "vi-cntt1191#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 66,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Giới thiệu học phần Chia nhóm Giao nội dung bài tập cho các nhóm",
+                "Đề cương học phần",
+                "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide... - Giới thiệu các nội dung bài tập nhóm, phân chia nội dung cho các nhóm Sinh viên; - Xem trước đề cương - Chuẩn bị tài liệu học tập theo hướng dẫn trong đề cương - Đọc các tài liệu - Nhận nhóm học tập & nhận nhiệm vụ nhóm",
+                "",
+                "CLO1 CLO2 CLO3"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Giới thiệu học phần Chia nhóm Giao nội dung bài tập cho các nhóm",
+                "Tài liệu đọc": "Đề cương học phần",
+                "Hoạt động dạy và học": "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide... - Giới thiệu các nội dung bài tập nhóm, phân chia nội dung cho các nhóm Sinh viên; - Xem trước đề cương - Chuẩn bị tài liệu học tập theo hướng dẫn trong đề cương - Đọc các tài liệu - Nhận nhóm học tập & nhận nhiệm vụ nhóm",
+                "Đánh giá": "",
+                "CLOs": "CLO1 CLO2 CLO3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.1. Định luật Coulomb 1.2. Điện trường và các đại lượng đặc trưng cho điện trường",
+                "[1], [2] Chương 1",
+                "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.1. Định luật Coulomb 1.2. Điện trường và các đại lượng đặc trưng cho điện trường",
+                "Tài liệu đọc": "[1], [2] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 2 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.3. Định lý Ostrogradski-Gauss 1.4. Điện thế",
+                "[1], [2] Chương 1",
+                "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Lecture 2 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.3. Định lý Ostrogradski-Gauss 1.4. Điện thế",
+                "Tài liệu đọc": "[1], [2] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn cách phân tích và giải các bài toán áp dụng ĐL O-G",
+                "Slide bài lecture 1,2 và seminar 1",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn cách phân tích và giải các bài toán áp dụng ĐL O-G",
+                "Tài liệu đọc": "Slide bài lecture 1,2 và seminar 1",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 3 Chương 2. Vật chất trong điện trường 2.1. Vật dẫn trong điện trường tĩnh 2.2. Điện môi trong điện trường tĩnh",
+                "[1], [2]: Chương 2",
+                "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2, 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.1 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Lecture 3 Chương 2. Vật chất trong điện trường 2.1. Vật dẫn trong điện trường tĩnh 2.2. Điện môi trong điện trường tĩnh",
+                "Tài liệu đọc": "[1], [2]: Chương 2",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2, 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO3.1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Seminar 2 - Tóm tắt kiến thức chương 2, mục 2.1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Hướng dẫn cách phân tích và giải các bài về vật dẫn và hệ vật dẫn cân bằng tĩnh điện.",
+                "Slide bài lecture 3 và seminar 2",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+                "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 2, mục 2.1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Hướng dẫn cách phân tích và giải các bài về vật dẫn và hệ vật dẫn cân bằng tĩnh điện.",
+                "Tài liệu đọc": "Slide bài lecture 3 và seminar 2",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+                "CLOs": "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 - Tóm tắt kiến thức chương 2, mục 2.2 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Hướng dẫn cách phân tích và giải các bài về tụ điện, tính mật độ điện tích liên kết trong hiện tượng phân cực điện môi.",
+                "Slide bài lecture 3 và seminar 3",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+                "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 - Tóm tắt kiến thức chương 2, mục 2.2 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Hướng dẫn cách phân tích và giải các bài về tụ điện, tính mật độ điện tích liên kết trong hiện tượng phân cực điện môi.",
+                "Tài liệu đọc": "Slide bài lecture 3 và seminar 3",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+                "CLOs": "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4 Chương 3. Từ trường 3.1. Tương tác từ của dòng điện. Định luật Ampere 3.2. Từ trường và các đại lượng đặc trưng cho từ trường 3.3. Từ thông và định lý Ostrogradski-Gauss 3.4. Định lý Ampere về lưu số của cường độ từ trường. Ứng dụng 3.5. Lực từ trường 3.6. Công của từ lực 3.7. Lực Lorentz. Chuyển động của hạt điện trong từ trường đều",
+                "[1], [2]: Chương 4",
+                "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.2 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4 Chương 3. Từ trường 3.1. Tương tác từ của dòng điện. Định luật Ampere 3.2. Từ trường và các đại lượng đặc trưng cho từ trường 3.3. Từ thông và định lý Ostrogradski-Gauss 3.4. Định lý Ampere về lưu số của cường độ từ trường. Ứng dụng 3.5. Lực từ trường 3.6. Công của từ lực 3.7. Lực Lorentz. Chuyển động của hạt điện trong từ trường đều",
+                "Tài liệu đọc": "[1], [2]: Chương 4",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.2 CLO3.1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 5 Chương 4. Vật chất trong từ trường 4.1. Sự từ hóa. Các loại vật liệu từ 4.2. Vật liệu nghịch từ và thuận từ 4.3. Từ trường tổng hợp trong vật liệu từ 4.4. Sắt từ",
+                "[1], [2]: Chương 6",
+                "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.2 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Lecture 5 Chương 4. Vật chất trong từ trường 4.1. Sự từ hóa. Các loại vật liệu từ 4.2. Vật liệu nghịch từ và thuận từ 4.3. Từ trường tổng hợp trong vật liệu từ 4.4. Sắt từ",
+                "Tài liệu đọc": "[1], [2]: Chương 6",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.2 CLO3.1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Seminar 4 - Tóm tắt kiến thức chương 3,4 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Hướng dẫn cách phân tích và giải các bài hạt điện tích chuyển động trong từ trường. - Thảo luận về ứng dụng vật liệu từ trong thực tế",
+                "Slide bài lecture 4,5 và seminar 4",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 4",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Seminar 4 - Tóm tắt kiến thức chương 3,4 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Hướng dẫn cách phân tích và giải các bài hạt điện tích chuyển động trong từ trường. - Thảo luận về ứng dụng vật liệu từ trong thực tế",
+                "Tài liệu đọc": "Slide bài lecture 4,5 và seminar 4",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 4",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Lecture 6 Chương 5. Cảm ứng điện từ 5.1. Các định luật về hiện tượng cảm ứng điện từ. Suất điện động cảm ứng 5.2. Hiện tượng tự cảm. Độ tự cảm. Suất điện động tự cảm. 5.3. Hiệu ứng bề mặt 5.4. Năng lượng từ trường Chương 6. Trường điện từ 6.1. Điện trường xoáy. Luận điểm I của Maxwell. Phương trình Maxwell- Faraday 6.2. Dòng điện dịch. Luận điểm II của Maxwell. Phương trình Maxwell-Ampere 6.3. Trường điện từ. Hệ phương trình trường điện từ. Năng lượng trường điện từ",
+                "[1], [2]: Chương 5, Chương 7",
+                "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.3 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Lecture 6 Chương 5. Cảm ứng điện từ 5.1. Các định luật về hiện tượng cảm ứng điện từ. Suất điện động cảm ứng 5.2. Hiện tượng tự cảm. Độ tự cảm. Suất điện động tự cảm. 5.3. Hiệu ứng bề mặt 5.4. Năng lượng từ trường Chương 6. Trường điện từ 6.1. Điện trường xoáy. Luận điểm I của Maxwell. Phương trình Maxwell- Faraday 6.2. Dòng điện dịch. Luận điểm II của Maxwell. Phương trình Maxwell-Ampere 6.3. Trường điện từ. Hệ phương trình trường điện từ. Năng lượng trường điện từ",
+                "Tài liệu đọc": "[1], [2]: Chương 5, Chương 7",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.3 CLO3.1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Kiểm tra 1 tiết",
+                "",
+                "",
+                "",
+                "CLO1.1-CLO1.2"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Kiểm tra 1 tiết",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1-CLO1.2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Seminar 5 - Tóm tắt kiến thức chương 5,6 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Thảo luận, giải thích hiệu ứng bề mặt. - Tìm hiểu, thảo luận hiệu ứng bề mặt trong thực tế - Thảo luận về điện trường và từ trường biến thiên & mối quan hệ giữa chúng - Thảo luận về dòng điện dẫn và dòng điện dịch",
+                "Slide bài lecture 6 và seminar 5",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, câu hỏi ứng dụng, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+                "CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Seminar 5 - Tóm tắt kiến thức chương 5,6 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Thảo luận, giải thích hiệu ứng bề mặt. - Tìm hiểu, thảo luận hiệu ứng bề mặt trong thực tế - Thảo luận về điện trường và từ trường biến thiên & mối quan hệ giữa chúng - Thảo luận về dòng điện dẫn và dòng điện dịch",
+                "Tài liệu đọc": "Slide bài lecture 6 và seminar 5",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, câu hỏi ứng dụng, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+                "CLOs": "CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 7 Chương 7. Dao động điện từ 7.1. Dao động điện từ, mạch dao động điện 7.2. Cộng hưởng điện 7.3. Ứng dụng của dao động điện từ Chương 8. Sóng điện từ 8.1. Sự tạo thành sóng điện từ 8.2. Tính chất chung của sóng điện từ 8.3. Sóng điện từ truyền trong môi trường 8.4. Năng lượng và năng thông sóng điện từ. 8.5. Thang sóng điện từ.",
+                "[1], [2]: Chương 8, 10",
+                "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5,6 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "CLO1.4 CLO1.5 CLO3.1"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Lecture 7 Chương 7. Dao động điện từ 7.1. Dao động điện từ, mạch dao động điện 7.2. Cộng hưởng điện 7.3. Ứng dụng của dao động điện từ Chương 8. Sóng điện từ 8.1. Sự tạo thành sóng điện từ 8.2. Tính chất chung của sóng điện từ 8.3. Sóng điện từ truyền trong môi trường 8.4. Năng lượng và năng thông sóng điện từ. 8.5. Thang sóng điện từ.",
+                "Tài liệu đọc": "[1], [2]: Chương 8, 10",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5,6 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.4 CLO1.5 CLO3.1"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Seminar 6 - Tóm tắt kiến thức chương 7,8 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Phương pháp giải các bài toán dao động điện từ - Thảo luận về mạch dao động kín, hở - Tìm hiểu, thảo luận về ứng dụng của dao động điện từ/mạch dao động trong thực tế - Thảo luận các ứng dụng của sóng điện từ trong thực tế - Thảo luận nguyên tắc truyền thông của sóng điện từ",
+                "Slide bài lecture 7 và seminar 6",
+                "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+                "CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Seminar 6 - Tóm tắt kiến thức chương 7,8 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Phương pháp giải các bài toán dao động điện từ - Thảo luận về mạch dao động kín, hở - Tìm hiểu, thảo luận về ứng dụng của dao động điện từ/mạch dao động trong thực tế - Thảo luận các ứng dụng của sóng điện từ trong thực tế - Thảo luận nguyên tắc truyền thông của sóng điện từ",
+                "Tài liệu đọc": "Slide bài lecture 7 và seminar 6",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+                "CLOs": "CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Seminar 7 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Trình bày hiểu biết về cảm ứng điện từ và các ứng dụng của hiện tượng này trong thực tế. - Đưa ra một ứng dụng trong đời sống áp dụng hiện tượng cảm ứng điện từ. Dùng các định luật cảm ứng điện từ giải thích cơ chế hoạt động của ứng dụng đó. -Trình bày, giải thích hiệu ứng bề mặt và ứng dụng",
+                "",
+                "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+                "",
+                "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Seminar 7 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Trình bày hiểu biết về cảm ứng điện từ và các ứng dụng của hiện tượng này trong thực tế. - Đưa ra một ứng dụng trong đời sống áp dụng hiện tượng cảm ứng điện từ. Dùng các định luật cảm ứng điện từ giải thích cơ chế hoạt động của ứng dụng đó. -Trình bày, giải thích hiệu ứng bề mặt và ứng dụng",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+                "Đánh giá": "",
+                "CLOs": "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 8 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Phân biệt mạch dao động kín & mạch dao động hở. - Trình bày một số ứng dụng của mạch dao động điện từ LC trong thực tế. - Trình bày các đặc điểm của sóng điện từ và nguyên tắc truyền thông tin bằng sóng điện từ. - Tìm hiểu các ứng dụng của sóng điện từ.",
+                "",
+                "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+                "",
+                "CLO1.3 – CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 8 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Phân biệt mạch dao động kín & mạch dao động hở. - Trình bày một số ứng dụng của mạch dao động điện từ LC trong thực tế. - Trình bày các đặc điểm của sóng điện từ và nguyên tắc truyền thông tin bằng sóng điện từ. - Tìm hiểu các ứng dụng của sóng điện từ.",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+                "Đánh giá": "",
+                "CLOs": "CLO1.3 – CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 18,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "Toàn bộ nội dung học",
+                "Hình thức thi : trắc nghiệm khách quan",
+                "Phụ lục 1: Ma trận đề thi",
+                "CLO1.1- CLO1.5"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "Toàn bộ nội dung học",
+                "Hoạt động dạy và học": "Hình thức thi : trắc nghiệm khách quan",
+                "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+                "CLOs": "CLO1.1- CLO1.5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec012",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 70
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec013",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1191#sec014",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 73
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 74
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec015",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 76
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 77
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec016",
+      "title": "10.3. Quy định về hành vi trong lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Đọc trước tài liệu được yêu cầu.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Làm các bài tập về nhà.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 83
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 84
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec017",
+      "title": "10.4. Quy định về nộp bài tập lớn",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-lon",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 87
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec018",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 57,
+          "table_id": "vi-cntt1191#tbl007",
+          "table_name": null,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+          ],
+          "source_block": 91,
+          "column_labels": [
+            "PHỤ TRÁCH KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS Phạm Xuân Lâm",
+              "cells": [
+                "TS Phạm Xuân Lâm",
+                "GS.TS Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "PHỤ TRÁCH KHOA": "TS Phạm Xuân Lâm",
+                "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec019",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1191#sec020",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 95
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Hình thức: Trắc nghiệm khách quan",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Thời gian: 60 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Số câu hỏi: 40 câu",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 98
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Ma trận đề thi (trắc nghiệm):",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 99
+        },
+        {
+          "type": "table",
+          "order": 63,
+          "table_id": "vi-cntt1191#tbl008",
+          "table_name": "Ma trận đề thi (trắc nghiệm):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 100,
+          "column_labels": [
+            "Nội dung",
+            "CLOs",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1 Lecture 2 Lecture 3",
+              "cells": [
+                "Lecture 1 Lecture 2 Lecture 3",
+                "1.1",
+                "6",
+                "5",
+                "4",
+                "15"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 1 Lecture 2 Lecture 3",
+                "CLOs": "1.1",
+                "Nhớ": "6",
+                "Hiểu": "5",
+                "Vận dụng": "4",
+                "Tổng số câu hỏi": "15"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 4 Lecture 5",
+              "cells": [
+                "Lecture 4 Lecture 5",
+                "1.2",
+                "4",
+                "4",
+                "1",
+                "9"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 4 Lecture 5",
+                "CLOs": "1.2",
+                "Nhớ": "4",
+                "Hiểu": "4",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "9"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.3",
+                "3",
+                "2",
+                "2",
+                "7"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 6",
+                "CLOs": "1.3",
+                "Nhớ": "3",
+                "Hiểu": "2",
+                "Vận dụng": "2",
+                "Tổng số câu hỏi": "7"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 7",
+              "cells": [
+                "Lecture 7",
+                "1.4",
+                "1",
+                "2",
+                "2",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 7",
+                "CLOs": "1.4",
+                "Nhớ": "1",
+                "Hiểu": "2",
+                "Vận dụng": "2",
+                "Tổng số câu hỏi": "5"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 7",
+              "cells": [
+                "Lecture 7",
+                "1.5",
+                "1",
+                "2",
+                "1",
+                "4"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 7",
+                "CLOs": "1.5",
+                "Nhớ": "1",
+                "Hiểu": "2",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Tổng số câu hỏi",
+              "cells": [
+                "Tổng số câu hỏi",
+                "",
+                "15",
+                "15",
+                "10",
+                "40"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu hỏi",
+                "CLOs": "",
+                "Nhớ": "15",
+                "Hiểu": "15",
+                "Vận dụng": "10",
+                "Tổng số câu hỏi": "40"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "37,5%",
+                "37,5%",
+                "25%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLOs": "",
+                "Nhớ": "37,5%",
+                "Hiểu": "37,5%",
+                "Vận dụng": "25%",
+                "Tổng số câu hỏi": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1191#sec021",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Rubric 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 103
+        },
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 104
+        },
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Đánh giá qua 6 buổi seminar.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 105
+        },
+        {
+          "type": "table",
+          "order": 67,
+          "table_id": "vi-cntt1191#tbl009",
+          "table_name": "Đánh giá qua 6 buổi seminar.",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 106,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 68,
+          "text": "* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "paragraph",
+          "order": 69,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 108
+        },
+        {
+          "type": "table",
+          "order": 70,
+          "table_id": "vi-cntt1191#tbl010",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 109,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+              "cells": [
+                "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 71,
+          "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 111
+        },
+        {
+          "type": "paragraph",
+          "order": 72,
+          "text": "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 112
+        },
+        {
+          "type": "paragraph",
+          "order": 73,
+          "text": "Ma trận đề kiểm tra (trắc nghiệm):",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 113
+        },
+        {
+          "type": "table",
+          "order": 74,
+          "table_id": "vi-cntt1191#tbl011",
+          "table_name": "Ma trận đề kiểm tra (trắc nghiệm):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 114,
+          "column_labels": [
+            "Nội dung",
+            "CLOs",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1 Lecture 2 Lecture 3",
+              "cells": [
+                "Lecture 1 Lecture 2 Lecture 3",
+                "1.1",
+                "9",
+                "9",
+                "7",
+                "25"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 1 Lecture 2 Lecture 3",
+                "CLOs": "1.1",
+                "Nhớ": "9",
+                "Hiểu": "9",
+                "Vận dụng": "7",
+                "Tổng số câu hỏi": "25"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 4 Lecture 5",
+              "cells": [
+                "Lecture 4 Lecture 5",
+                "1.2",
+                "6",
+                "6",
+                "3",
+                "15"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 4 Lecture 5",
+                "CLOs": "1.2",
+                "Nhớ": "6",
+                "Hiểu": "6",
+                "Vận dụng": "3",
+                "Tổng số câu hỏi": "15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Tổng số câu hỏi",
+              "cells": [
+                "Tổng số câu hỏi",
+                "",
+                "15",
+                "15",
+                "10",
+                "40"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu hỏi",
+                "CLOs": "",
+                "Nhớ": "15",
+                "Hiểu": "15",
+                "Vận dụng": "10",
+                "Tổng số câu hỏi": "40"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "37,5%",
+                "37,5%",
+                "25%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLOs": "",
+                "Nhớ": "37,5%",
+                "Hiểu": "37,5%",
+                "Vận dụng": "25%",
+                "Tổng số câu hỏi": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 75,
+          "text": "Rubric 3. Đánh giá bài tập nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 116
+        },
+        {
+          "type": "paragraph",
+          "order": 76,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 117
+        },
+        {
+          "type": "table",
+          "order": 77,
+          "table_id": "vi-cntt1191#tbl012",
+          "table_name": "Rubric 3. Đánh giá bài tập nhóm",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 118,
+          "column_labels": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "Giỏi",
+            "Khá",
+            "Trung bình",
+            "Yếu"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Tiêu chí đánh giá",
+              "cells": [
+                "Tiêu chí đánh giá",
+                "CLO",
+                "Trọng số (%)",
+                "8,5-10",
+                "7,0 – 8.4",
+                "4,5 – 6,9",
+                "0 - 4,4"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+                "CLO": "CLO",
+                "Trọng số (%)": "Trọng số (%)",
+                "Giỏi": "8,5-10",
+                "Khá": "7,0 – 8.4",
+                "Trung bình": "4,5 – 6,9",
+                "Yếu": "0 - 4,4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Hiểu biết về nội dung báo cáo",
+              "cells": [
+                "Hiểu biết về nội dung báo cáo",
+                "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "25%",
+                "Có hiểu biết sâu rộng về nội dung báo cáo và có thể áp dụng vào các vấn đề phức tạp.",
+                "Có kiến thức vững cơ bản về nội dung báo cáo.",
+                "Có kiến thức cơ bản về nội dung báo cáo, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp.",
+                "Thiếu kiến thức cơ bản về nội dung báo cáo, cần nhiều hỗ trợ và hướng dẫn để cải thiện các nội dung báo cáo được giao."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Hiểu biết về nội dung báo cáo",
+                "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Có hiểu biết sâu rộng về nội dung báo cáo và có thể áp dụng vào các vấn đề phức tạp.",
+                "Khá": "Có kiến thức vững cơ bản về nội dung báo cáo.",
+                "Trung bình": "Có kiến thức cơ bản về nội dung báo cáo, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp.",
+                "Yếu": "Thiếu kiến thức cơ bản về nội dung báo cáo, cần nhiều hỗ trợ và hướng dẫn để cải thiện các nội dung báo cáo được giao."
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Tính sáng tạo và sự đa dạng",
+              "cells": [
+                "Tính sáng tạo và sự đa dạng",
+                "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "25%",
+                "Sáng tạo trong cách trình bày, tiếp cận vấn đề; Đa dạng trong mình họa bằng hình ảnh, mô phỏng nội dung, ví dụ dẫn chứng",
+                "Có sáng tạo và đa dạng, tuy không xuất sắc như ở mức độ giỏi.",
+                "Thiếu sáng tạo và ít đa dạng, trong việc giải quyết vấn đề.",
+                "Thiếu khả năng tạo, không đa, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Tính sáng tạo và sự đa dạng",
+                "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Sáng tạo trong cách trình bày, tiếp cận vấn đề; Đa dạng trong mình họa bằng hình ảnh, mô phỏng nội dung, ví dụ dẫn chứng",
+                "Khá": "Có sáng tạo và đa dạng, tuy không xuất sắc như ở mức độ giỏi.",
+                "Trung bình": "Thiếu sáng tạo và ít đa dạng, trong việc giải quyết vấn đề.",
+                "Yếu": "Thiếu khả năng tạo, không đa, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Minh hoạ",
+              "cells": [
+                "Minh hoạ",
+                "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "25%",
+                "Minh họa bằng hình ảnh, sơ đồ, thí nghiệm mô phỏng, sản phẩm ứng dụng thực tế",
+                "Có minh họa bằng nhiều hình thức, tuy không xuất sắc như ở mức độ giỏi.",
+                "Có minh họa nhưng sử dụng ít phương thức minh họa, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện.",
+                "Gặp khó khăn trong đưa ra minh hoạ, cần sự hỗ trợ lớn để hoàn thành."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Minh hoạ",
+                "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Minh họa bằng hình ảnh, sơ đồ, thí nghiệm mô phỏng, sản phẩm ứng dụng thực tế",
+                "Khá": "Có minh họa bằng nhiều hình thức, tuy không xuất sắc như ở mức độ giỏi.",
+                "Trung bình": "Có minh họa nhưng sử dụng ít phương thức minh họa, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện.",
+                "Yếu": "Gặp khó khăn trong đưa ra minh hoạ, cần sự hỗ trợ lớn để hoàn thành."
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Trình bày báo cáo",
+              "cells": [
+                "Trình bày báo cáo",
+                "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "25%",
+                "Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng.",
+                "Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác.",
+                "Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo.",
+                "Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Trình bày báo cáo",
+                "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng.",
+                "Khá": "Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác.",
+                "Trung bình": "Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo.",
+                "Yếu": "Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt1191#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-cntt1191#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 21,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "TS Tống Thị Hảo Tâm",
+            "tamtth@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "TS Tống Thị Hảo Tâm",
+            "Email": "tamtth@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS Nguyễn Thanh Hương",
+            "huongnt_cntt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "TS Nguyễn Thanh Hương",
+            "Email": "huongnt_cntt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "vi-cntt1191#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 49,
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã / Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Học phần cung cấp cho người học các kiến thức về: điện học (điện tích, điện trường); từ học (dòng điện tích chuyển động, từ trường); sự tương tác của trường điện và trường từ với môi trường chất; điện trường và từ trường biến thiên, mối quan hệ giữa điện trường và từ trường; phân biệt điện trường tĩnh và điện trường xoáy; mạch dao động điện từ; thu, phát sóng điện từ.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức về: điện học (điện tích, điện trường); từ học (dòng điện tích chuyển động, từ trường); sự tương tác của trường điện và trường từ với môi trường chất; điện trường và từ trường biến thiên, mối quan hệ giữa điện trường và từ trường; phân biệt điện trường tĩnh và điện trường xoáy; mạch dao động điện từ; thu, phát sóng điện từ.",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ…",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ…",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Tạo cơ hội thực hành khả năng làm việc nhóm; Bước đầu trang bị cho người học nhận thức được trách nhiệm, cũng như quyền lợi của cá nhân với tập thể trong hoạt động học cũng như hoạt động thực hành nghệ nghiệp sau này.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Tạo cơ hội thực hành khả năng làm việc nhóm; Bước đầu trang bị cho người học nhận thức được trách nhiệm, cũng như quyền lợi của cá nhân với tập thể trong hoạt động học cũng như hoạt động thực hành nghệ nghiệp sau này.",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "vi-cntt1191#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 54,
+      "column_labels": [
+        "12",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "12": "[1]",
+            "CLOij": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.1",
+            "Có hiểu biết về: Khái niệm điện trường; Các đại lượng đặc trưng cho điện trường; Đường sức điện trường; Nguyên lý chồng chất điện trường; Lực điện; Điện thông; Thế năng, điện thế; Năng lượng điện trường. Áp dụng giải các bài toán sử dụng các định luật/định lý về điện trường (định luật Coulomb, định lý O-G). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường điện (điện môi, vật dẫn) và ứng dụng trong thực tế; Có khả năng giải quyết các bài toán về ảnh hưởng của điện trường lên các vật dẫn và điện môi (vật dẫn cân bằng tĩnh điện, tụ điện);",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG1",
+            "CLOij": "CLO1.1",
+            "Mô tả CLO": "Có hiểu biết về: Khái niệm điện trường; Các đại lượng đặc trưng cho điện trường; Đường sức điện trường; Nguyên lý chồng chất điện trường; Lực điện; Điện thông; Thế năng, điện thế; Năng lượng điện trường. Áp dụng giải các bài toán sử dụng các định luật/định lý về điện trường (định luật Coulomb, định lý O-G). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường điện (điện môi, vật dẫn) và ứng dụng trong thực tế; Có khả năng giải quyết các bài toán về ảnh hưởng của điện trường lên các vật dẫn và điện môi (vật dẫn cân bằng tĩnh điện, tụ điện);",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.2",
+            "Có hiểu biết về: Khái niệm từ trường; Các đại lượng đặc trưng cho từ trường; Đường sức từ trường; Nguyên lý chồng chất từ trường; Lực từ; Từ thông; Năng lượng từ trường; Mối quan hệ tương hỗ giữa từ trường và dòng điện. Áp dụng giải các bài toán sử dụng các định luật về từ trường (định luật Biot-Savart-Laplace, định luật Ampere). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường từ (vật liệu từ) và ứng dụng trong thực tế; Có hiểu biết về bản chất từ tính của các loại vật liệu từ, các tính chất của vật liệu sắt từ, ứng dụng của vật liệu sắt từ.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG1",
+            "CLOij": "CLO1.2",
+            "Mô tả CLO": "Có hiểu biết về: Khái niệm từ trường; Các đại lượng đặc trưng cho từ trường; Đường sức từ trường; Nguyên lý chồng chất từ trường; Lực từ; Từ thông; Năng lượng từ trường; Mối quan hệ tương hỗ giữa từ trường và dòng điện. Áp dụng giải các bài toán sử dụng các định luật về từ trường (định luật Biot-Savart-Laplace, định luật Ampere). Phân tích sự ảnh hưởng lẫn nhau giữa môi trường chất và trường từ (vật liệu từ) và ứng dụng trong thực tế; Có hiểu biết về bản chất từ tính của các loại vật liệu từ, các tính chất của vật liệu sắt từ, ứng dụng của vật liệu sắt từ.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.3",
+            "Phân tích được mối quan hệ giữa từ trường và điện trường (định luật Faraday, các luận điểm của Maxwell); Phân biệt giữa điện trường tĩnh và điện trường xoáy; Áp dụng giải các bài toán liên quan đến mô tả mối quan hệ giữa từ trường và điện trường; Bài toán hạt điện tích chuyển động trong trường điện từ.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG1",
+            "CLOij": "CLO1.3",
+            "Mô tả CLO": "Phân tích được mối quan hệ giữa từ trường và điện trường (định luật Faraday, các luận điểm của Maxwell); Phân biệt giữa điện trường tĩnh và điện trường xoáy; Áp dụng giải các bài toán liên quan đến mô tả mối quan hệ giữa từ trường và điện trường; Bài toán hạt điện tích chuyển động trong trường điện từ.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.4",
+            "Có hiểu biết về bản chất của các loại dao động điện từ, mạch dao động điện từ và phân tích được ứng dụng của chúng.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG1",
+            "CLOij": "CLO1.4",
+            "Mô tả CLO": "Có hiểu biết về bản chất của các loại dao động điện từ, mạch dao động điện từ và phân tích được ứng dụng của chúng.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.5",
+            "Có hiểu biết về bản chất của sóng điện từ, phân tích được các vấn đề liên quan đến thu phát sóng điện từ và ứng dụng.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG1",
+            "CLOij": "CLO1.5",
+            "Mô tả CLO": "Có hiểu biết về bản chất của sóng điện từ, phân tích được các vấn đề liên quan đến thu phát sóng điện từ và ứng dụng.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.1",
+            "Thành thạo việc tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ đáp ứng các nội dung thảo luận trên lớp, nội dụng học liên quan đến vận dụng, nội dung báo cáo tự học.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG2",
+            "CLOij": "CLO2.1",
+            "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ đáp ứng các nội dung thảo luận trên lớp, nội dụng học liên quan đến vận dụng, nội dung báo cáo tự học.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.2",
+            "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG2",
+            "CLOij": "CLO2.2",
+            "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng theo yêu cầu và thời gian quy định.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.1",
+            "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giao.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG3",
+            "CLOij": "CLO3.1",
+            "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giao.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.2",
+            "Thực hành khả năng làm việc nhóm: hoàn thành được vai trò của cá nhân khi tham gia vào các bài tập nhóm, báo cáo nhóm, kiểm tra nhóm.",
+            "3"
+          ],
+          "column_map": {
+            "12": "CG3",
+            "CLOij": "CLO3.2",
+            "Mô tả CLO": "Thực hành khả năng làm việc nhóm: hoàn thành được vai trò của cá nhân khi tham gia vào các bài tập nhóm, báo cáo nhóm, kiểm tra nhóm.",
+            "Mức độ đạt được": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 41,
+      "table_id": "vi-cntt1191#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 59,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung / Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung / Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Tất cả các buổi seminar",
+            "CLO1 CLO2 CLO3",
+            "Phụ lục 2: rubric 1",
+            "10%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Thời điểm": "Tất cả các buổi seminar",
+            "CLOs": "CLO1 CLO2 CLO3",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra cá nhân (trắc nghiệm khách quan)",
+            "Tuần 10",
+            "CLO1.1-CLO1.2",
+            "Phụ lục 2: rubric 2",
+            "20%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân (trắc nghiệm khách quan)",
+            "Thời điểm": "Tuần 10",
+            "CLOs": "CLO1.1-CLO1.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 2",
+            "Tỷ lệ (%)": "20%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm",
+            "Tuần 15",
+            "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Phụ lục 2: rubric 3",
+            "20%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài tập nhóm",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 3",
+            "Tỷ lệ (%)": "20%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Toàn bộ nội dung học",
+            "Theo lịch của Trường",
+            "CLO1.1- CLO1.5",
+            "Phụ lục 1: ma trận đề thi",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung / Bài đánh giá": "Toàn bộ nội dung học",
+            "Thời điểm": "Theo lịch của Trường",
+            "CLOs": "CLO1.1- CLO1.5",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 1: ma trận đề thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 43,
+      "table_id": "vi-cntt1191#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 66,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Giới thiệu học phần Chia nhóm Giao nội dung bài tập cho các nhóm",
+            "Đề cương học phần",
+            "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide... - Giới thiệu các nội dung bài tập nhóm, phân chia nội dung cho các nhóm Sinh viên; - Xem trước đề cương - Chuẩn bị tài liệu học tập theo hướng dẫn trong đề cương - Đọc các tài liệu - Nhận nhóm học tập & nhận nhiệm vụ nhóm",
+            "",
+            "CLO1 CLO2 CLO3"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Giới thiệu học phần Chia nhóm Giao nội dung bài tập cho các nhóm",
+            "Tài liệu đọc": "Đề cương học phần",
+            "Hoạt động dạy và học": "Giảng viên: - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide... - Giới thiệu các nội dung bài tập nhóm, phân chia nội dung cho các nhóm Sinh viên; - Xem trước đề cương - Chuẩn bị tài liệu học tập theo hướng dẫn trong đề cương - Đọc các tài liệu - Nhận nhóm học tập & nhận nhiệm vụ nhóm",
+            "Đánh giá": "",
+            "CLOs": "CLO1 CLO2 CLO3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.1. Định luật Coulomb 1.2. Điện trường và các đại lượng đặc trưng cho điện trường",
+            "[1], [2] Chương 1",
+            "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.1. Định luật Coulomb 1.2. Điện trường và các đại lượng đặc trưng cho điện trường",
+            "Tài liệu đọc": "[1], [2] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 2 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.3. Định lý Ostrogradski-Gauss 1.4. Điện thế",
+            "[1], [2] Chương 1",
+            "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Lecture 2 Giới thiệu học phần Chương 1. Điện trường tĩnh 1.3. Định lý Ostrogradski-Gauss 1.4. Điện thế",
+            "Tài liệu đọc": "[1], [2] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn cách phân tích và giải các bài toán áp dụng ĐL O-G",
+            "Slide bài lecture 1,2 và seminar 1",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn cách phân tích và giải các bài toán áp dụng ĐL O-G",
+            "Tài liệu đọc": "Slide bài lecture 1,2 và seminar 1",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.1 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 3 Chương 2. Vật chất trong điện trường 2.1. Vật dẫn trong điện trường tĩnh 2.2. Điện môi trong điện trường tĩnh",
+            "[1], [2]: Chương 2",
+            "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2, 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.1 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Lecture 3 Chương 2. Vật chất trong điện trường 2.1. Vật dẫn trong điện trường tĩnh 2.2. Điện môi trong điện trường tĩnh",
+            "Tài liệu đọc": "[1], [2]: Chương 2",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2, 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO3.1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Seminar 2 - Tóm tắt kiến thức chương 2, mục 2.1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Hướng dẫn cách phân tích và giải các bài về vật dẫn và hệ vật dẫn cân bằng tĩnh điện.",
+            "Slide bài lecture 3 và seminar 2",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+            "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 2, mục 2.1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Hướng dẫn cách phân tích và giải các bài về vật dẫn và hệ vật dẫn cân bằng tĩnh điện.",
+            "Tài liệu đọc": "Slide bài lecture 3 và seminar 2",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 2",
+            "CLOs": "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 - Tóm tắt kiến thức chương 2, mục 2.2 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Hướng dẫn cách phân tích và giải các bài về tụ điện, tính mật độ điện tích liên kết trong hiện tượng phân cực điện môi.",
+            "Slide bài lecture 3 và seminar 3",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+            "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 - Tóm tắt kiến thức chương 2, mục 2.2 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Hướng dẫn cách phân tích và giải các bài về tụ điện, tính mật độ điện tích liên kết trong hiện tượng phân cực điện môi.",
+            "Tài liệu đọc": "Slide bài lecture 3 và seminar 3",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 3",
+            "CLOs": "CLO1.1 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4 Chương 3. Từ trường 3.1. Tương tác từ của dòng điện. Định luật Ampere 3.2. Từ trường và các đại lượng đặc trưng cho từ trường 3.3. Từ thông và định lý Ostrogradski-Gauss 3.4. Định lý Ampere về lưu số của cường độ từ trường. Ứng dụng 3.5. Lực từ trường 3.6. Công của từ lực 3.7. Lực Lorentz. Chuyển động của hạt điện trong từ trường đều",
+            "[1], [2]: Chương 4",
+            "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.2 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4 Chương 3. Từ trường 3.1. Tương tác từ của dòng điện. Định luật Ampere 3.2. Từ trường và các đại lượng đặc trưng cho từ trường 3.3. Từ thông và định lý Ostrogradski-Gauss 3.4. Định lý Ampere về lưu số của cường độ từ trường. Ứng dụng 3.5. Lực từ trường 3.6. Công của từ lực 3.7. Lực Lorentz. Chuyển động của hạt điện trong từ trường đều",
+            "Tài liệu đọc": "[1], [2]: Chương 4",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.2 CLO3.1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 5 Chương 4. Vật chất trong từ trường 4.1. Sự từ hóa. Các loại vật liệu từ 4.2. Vật liệu nghịch từ và thuận từ 4.3. Từ trường tổng hợp trong vật liệu từ 4.4. Sắt từ",
+            "[1], [2]: Chương 6",
+            "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.2 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Lecture 5 Chương 4. Vật chất trong từ trường 4.1. Sự từ hóa. Các loại vật liệu từ 4.2. Vật liệu nghịch từ và thuận từ 4.3. Từ trường tổng hợp trong vật liệu từ 4.4. Sắt từ",
+            "Tài liệu đọc": "[1], [2]: Chương 6",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.2 CLO3.1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Seminar 4 - Tóm tắt kiến thức chương 3,4 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Hướng dẫn cách phân tích và giải các bài hạt điện tích chuyển động trong từ trường. - Thảo luận về ứng dụng vật liệu từ trong thực tế",
+            "Slide bài lecture 4,5 và seminar 4",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 4",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Seminar 4 - Tóm tắt kiến thức chương 3,4 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Hướng dẫn cách phân tích và giải các bài hạt điện tích chuyển động trong từ trường. - Thảo luận về ứng dụng vật liệu từ trong thực tế",
+            "Tài liệu đọc": "Slide bài lecture 4,5 và seminar 4",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 4",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Lecture 6 Chương 5. Cảm ứng điện từ 5.1. Các định luật về hiện tượng cảm ứng điện từ. Suất điện động cảm ứng 5.2. Hiện tượng tự cảm. Độ tự cảm. Suất điện động tự cảm. 5.3. Hiệu ứng bề mặt 5.4. Năng lượng từ trường Chương 6. Trường điện từ 6.1. Điện trường xoáy. Luận điểm I của Maxwell. Phương trình Maxwell- Faraday 6.2. Dòng điện dịch. Luận điểm II của Maxwell. Phương trình Maxwell-Ampere 6.3. Trường điện từ. Hệ phương trình trường điện từ. Năng lượng trường điện từ",
+            "[1], [2]: Chương 5, Chương 7",
+            "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.3 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Lecture 6 Chương 5. Cảm ứng điện từ 5.1. Các định luật về hiện tượng cảm ứng điện từ. Suất điện động cảm ứng 5.2. Hiện tượng tự cảm. Độ tự cảm. Suất điện động tự cảm. 5.3. Hiệu ứng bề mặt 5.4. Năng lượng từ trường Chương 6. Trường điện từ 6.1. Điện trường xoáy. Luận điểm I của Maxwell. Phương trình Maxwell- Faraday 6.2. Dòng điện dịch. Luận điểm II của Maxwell. Phương trình Maxwell-Ampere 6.3. Trường điện từ. Hệ phương trình trường điện từ. Năng lượng trường điện từ",
+            "Tài liệu đọc": "[1], [2]: Chương 5, Chương 7",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.3 CLO3.1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Kiểm tra 1 tiết",
+            "",
+            "",
+            "",
+            "CLO1.1-CLO1.2"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Kiểm tra 1 tiết",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1-CLO1.2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Seminar 5 - Tóm tắt kiến thức chương 5,6 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Thảo luận, giải thích hiệu ứng bề mặt. - Tìm hiểu, thảo luận hiệu ứng bề mặt trong thực tế - Thảo luận về điện trường và từ trường biến thiên & mối quan hệ giữa chúng - Thảo luận về dòng điện dẫn và dòng điện dịch",
+            "Slide bài lecture 6 và seminar 5",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, câu hỏi ứng dụng, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+            "CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Seminar 5 - Tóm tắt kiến thức chương 5,6 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Thảo luận, giải thích hiệu ứng bề mặt. - Tìm hiểu, thảo luận hiệu ứng bề mặt trong thực tế - Thảo luận về điện trường và từ trường biến thiên & mối quan hệ giữa chúng - Thảo luận về dòng điện dẫn và dòng điện dịch",
+            "Tài liệu đọc": "Slide bài lecture 6 và seminar 5",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, câu hỏi ứng dụng, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+            "CLOs": "CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 7 Chương 7. Dao động điện từ 7.1. Dao động điện từ, mạch dao động điện 7.2. Cộng hưởng điện 7.3. Ứng dụng của dao động điện từ Chương 8. Sóng điện từ 8.1. Sự tạo thành sóng điện từ 8.2. Tính chất chung của sóng điện từ 8.3. Sóng điện từ truyền trong môi trường 8.4. Năng lượng và năng thông sóng điện từ. 8.5. Thang sóng điện từ.",
+            "[1], [2]: Chương 8, 10",
+            "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5,6 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "CLO1.4 CLO1.5 CLO3.1"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Lecture 7 Chương 7. Dao động điện từ 7.1. Dao động điện từ, mạch dao động điện 7.2. Cộng hưởng điện 7.3. Ứng dụng của dao động điện từ Chương 8. Sóng điện từ 8.1. Sự tạo thành sóng điện từ 8.2. Tính chất chung của sóng điện từ 8.3. Sóng điện từ truyền trong môi trường 8.4. Năng lượng và năng thông sóng điện từ. 8.5. Thang sóng điện từ.",
+            "Tài liệu đọc": "[1], [2]: Chương 8, 10",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng một phần lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn SV tự học một số phần - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5,6 Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.4 CLO1.5 CLO3.1"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Seminar 6 - Tóm tắt kiến thức chương 7,8 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Phương pháp giải các bài toán dao động điện từ - Thảo luận về mạch dao động kín, hở - Tìm hiểu, thảo luận về ứng dụng của dao động điện từ/mạch dao động trong thực tế - Thảo luận các ứng dụng của sóng điện từ trong thực tế - Thảo luận nguyên tắc truyền thông của sóng điện từ",
+            "Slide bài lecture 7 và seminar 6",
+            "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+            "CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Seminar 6 - Tóm tắt kiến thức chương 7,8 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Phương pháp giải các bài toán dao động điện từ - Thảo luận về mạch dao động kín, hở - Tìm hiểu, thảo luận về ứng dụng của dao động điện từ/mạch dao động trong thực tế - Thảo luận các ứng dụng của sóng điện từ trong thực tế - Thảo luận nguyên tắc truyền thông của sóng điện từ",
+            "Tài liệu đọc": "Slide bài lecture 7 và seminar 6",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số lý thuyết - Hướng dẫn làm các bài tập ví dụ, bài tập tự luận, thảo luận - Hướng dẫn trả lời câu hỏi trắc nghiệm Sinh viên: - Đọc tài liệu trước - Tham gia thảo luận - Làm bài tập - Tham gia chữa bài",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 5",
+            "CLOs": "CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Seminar 7 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Trình bày hiểu biết về cảm ứng điện từ và các ứng dụng của hiện tượng này trong thực tế. - Đưa ra một ứng dụng trong đời sống áp dụng hiện tượng cảm ứng điện từ. Dùng các định luật cảm ứng điện từ giải thích cơ chế hoạt động của ứng dụng đó. -Trình bày, giải thích hiệu ứng bề mặt và ứng dụng",
+            "",
+            "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+            "",
+            "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Seminar 7 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Trình bày hiểu biết về cảm ứng điện từ và các ứng dụng của hiện tượng này trong thực tế. - Đưa ra một ứng dụng trong đời sống áp dụng hiện tượng cảm ứng điện từ. Dùng các định luật cảm ứng điện từ giải thích cơ chế hoạt động của ứng dụng đó. -Trình bày, giải thích hiệu ứng bề mặt và ứng dụng",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+            "Đánh giá": "",
+            "CLOs": "CLO1.3- CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 8 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Phân biệt mạch dao động kín & mạch dao động hở. - Trình bày một số ứng dụng của mạch dao động điện từ LC trong thực tế. - Trình bày các đặc điểm của sóng điện từ và nguyên tắc truyền thông tin bằng sóng điện từ. - Tìm hiểu các ứng dụng của sóng điện từ.",
+            "",
+            "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+            "",
+            "CLO1.3 – CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 8 Trình bày, báo cáo bài tập nhóm với các nôi dung (mỗi nhóm được giao nội dung khác nhau): - Phân biệt mạch dao động kín & mạch dao động hở. - Trình bày một số ứng dụng của mạch dao động điện từ LC trong thực tế. - Trình bày các đặc điểm của sóng điện từ và nguyên tắc truyền thông tin bằng sóng điện từ. - Tìm hiểu các ứng dụng của sóng điện từ.",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: - Nghe các nhóm thuyết trình - Đặt câu hỏi thảo luận - Đánh giá Sinh viên: - Tìm hiểu, viết báo cáo theo nhóm về nội dung bài tập nhóm được giao - Chuẩn bị bài báo cáo theo nhóm - Từng nhón thuyết trình nội dung báo cáo trước lớp - Trả lời câu hỏi thảo luận - Đặt câu hỏi thảo luận với các nhóm khác",
+            "Đánh giá": "",
+            "CLOs": "CLO1.3 – CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 18,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "Toàn bộ nội dung học",
+            "Hình thức thi : trắc nghiệm khách quan",
+            "Phụ lục 1: Ma trận đề thi",
+            "CLO1.1- CLO1.5"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "Toàn bộ nội dung học",
+            "Hoạt động dạy và học": "Hình thức thi : trắc nghiệm khách quan",
+            "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+            "CLOs": "CLO1.1- CLO1.5"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 57,
+      "table_id": "vi-cntt1191#tbl007",
+      "table_name": null,
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "source_block": 91,
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS Phạm Xuân Lâm",
+          "cells": [
+            "TS Phạm Xuân Lâm",
+            "GS.TS Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "PHỤ TRÁCH KHOA": "TS Phạm Xuân Lâm",
+            "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 63,
+      "table_id": "vi-cntt1191#tbl008",
+      "table_name": "Ma trận đề thi (trắc nghiệm):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 100,
+      "column_labels": [
+        "Nội dung",
+        "CLOs",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1 Lecture 2 Lecture 3",
+          "cells": [
+            "Lecture 1 Lecture 2 Lecture 3",
+            "1.1",
+            "6",
+            "5",
+            "4",
+            "15"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 1 Lecture 2 Lecture 3",
+            "CLOs": "1.1",
+            "Nhớ": "6",
+            "Hiểu": "5",
+            "Vận dụng": "4",
+            "Tổng số câu hỏi": "15"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 4 Lecture 5",
+          "cells": [
+            "Lecture 4 Lecture 5",
+            "1.2",
+            "4",
+            "4",
+            "1",
+            "9"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 4 Lecture 5",
+            "CLOs": "1.2",
+            "Nhớ": "4",
+            "Hiểu": "4",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "9"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.3",
+            "3",
+            "2",
+            "2",
+            "7"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 6",
+            "CLOs": "1.3",
+            "Nhớ": "3",
+            "Hiểu": "2",
+            "Vận dụng": "2",
+            "Tổng số câu hỏi": "7"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 7",
+          "cells": [
+            "Lecture 7",
+            "1.4",
+            "1",
+            "2",
+            "2",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 7",
+            "CLOs": "1.4",
+            "Nhớ": "1",
+            "Hiểu": "2",
+            "Vận dụng": "2",
+            "Tổng số câu hỏi": "5"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 7",
+          "cells": [
+            "Lecture 7",
+            "1.5",
+            "1",
+            "2",
+            "1",
+            "4"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 7",
+            "CLOs": "1.5",
+            "Nhớ": "1",
+            "Hiểu": "2",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Tổng số câu hỏi",
+          "cells": [
+            "Tổng số câu hỏi",
+            "",
+            "15",
+            "15",
+            "10",
+            "40"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu hỏi",
+            "CLOs": "",
+            "Nhớ": "15",
+            "Hiểu": "15",
+            "Vận dụng": "10",
+            "Tổng số câu hỏi": "40"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "37,5%",
+            "37,5%",
+            "25%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLOs": "",
+            "Nhớ": "37,5%",
+            "Hiểu": "37,5%",
+            "Vận dụng": "25%",
+            "Tổng số câu hỏi": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 67,
+      "table_id": "vi-cntt1191#tbl009",
+      "table_name": "Đánh giá qua 6 buổi seminar.",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 106,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 70,
+      "table_id": "vi-cntt1191#tbl010",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 109,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+          "cells": [
+            "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 74,
+      "table_id": "vi-cntt1191#tbl011",
+      "table_name": "Ma trận đề kiểm tra (trắc nghiệm):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 114,
+      "column_labels": [
+        "Nội dung",
+        "CLOs",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1 Lecture 2 Lecture 3",
+          "cells": [
+            "Lecture 1 Lecture 2 Lecture 3",
+            "1.1",
+            "9",
+            "9",
+            "7",
+            "25"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 1 Lecture 2 Lecture 3",
+            "CLOs": "1.1",
+            "Nhớ": "9",
+            "Hiểu": "9",
+            "Vận dụng": "7",
+            "Tổng số câu hỏi": "25"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 4 Lecture 5",
+          "cells": [
+            "Lecture 4 Lecture 5",
+            "1.2",
+            "6",
+            "6",
+            "3",
+            "15"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 4 Lecture 5",
+            "CLOs": "1.2",
+            "Nhớ": "6",
+            "Hiểu": "6",
+            "Vận dụng": "3",
+            "Tổng số câu hỏi": "15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Tổng số câu hỏi",
+          "cells": [
+            "Tổng số câu hỏi",
+            "",
+            "15",
+            "15",
+            "10",
+            "40"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu hỏi",
+            "CLOs": "",
+            "Nhớ": "15",
+            "Hiểu": "15",
+            "Vận dụng": "10",
+            "Tổng số câu hỏi": "40"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "37,5%",
+            "37,5%",
+            "25%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLOs": "",
+            "Nhớ": "37,5%",
+            "Hiểu": "37,5%",
+            "Vận dụng": "25%",
+            "Tổng số câu hỏi": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 77,
+      "table_id": "vi-cntt1191#tbl012",
+      "table_name": "Rubric 3. Đánh giá bài tập nhóm",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 118,
+      "column_labels": [
+        "Tiêu chí đánh giá",
+        "CLO",
+        "Trọng số (%)",
+        "Giỏi",
+        "Khá",
+        "Trung bình",
+        "Yếu"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Tiêu chí đánh giá",
+          "cells": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "8,5-10",
+            "7,0 – 8.4",
+            "4,5 – 6,9",
+            "0 - 4,4"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+            "CLO": "CLO",
+            "Trọng số (%)": "Trọng số (%)",
+            "Giỏi": "8,5-10",
+            "Khá": "7,0 – 8.4",
+            "Trung bình": "4,5 – 6,9",
+            "Yếu": "0 - 4,4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Hiểu biết về nội dung báo cáo",
+          "cells": [
+            "Hiểu biết về nội dung báo cáo",
+            "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "25%",
+            "Có hiểu biết sâu rộng về nội dung báo cáo và có thể áp dụng vào các vấn đề phức tạp.",
+            "Có kiến thức vững cơ bản về nội dung báo cáo.",
+            "Có kiến thức cơ bản về nội dung báo cáo, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp.",
+            "Thiếu kiến thức cơ bản về nội dung báo cáo, cần nhiều hỗ trợ và hướng dẫn để cải thiện các nội dung báo cáo được giao."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Hiểu biết về nội dung báo cáo",
+            "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Có hiểu biết sâu rộng về nội dung báo cáo và có thể áp dụng vào các vấn đề phức tạp.",
+            "Khá": "Có kiến thức vững cơ bản về nội dung báo cáo.",
+            "Trung bình": "Có kiến thức cơ bản về nội dung báo cáo, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp.",
+            "Yếu": "Thiếu kiến thức cơ bản về nội dung báo cáo, cần nhiều hỗ trợ và hướng dẫn để cải thiện các nội dung báo cáo được giao."
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Tính sáng tạo và sự đa dạng",
+          "cells": [
+            "Tính sáng tạo và sự đa dạng",
+            "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "25%",
+            "Sáng tạo trong cách trình bày, tiếp cận vấn đề; Đa dạng trong mình họa bằng hình ảnh, mô phỏng nội dung, ví dụ dẫn chứng",
+            "Có sáng tạo và đa dạng, tuy không xuất sắc như ở mức độ giỏi.",
+            "Thiếu sáng tạo và ít đa dạng, trong việc giải quyết vấn đề.",
+            "Thiếu khả năng tạo, không đa, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Tính sáng tạo và sự đa dạng",
+            "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Sáng tạo trong cách trình bày, tiếp cận vấn đề; Đa dạng trong mình họa bằng hình ảnh, mô phỏng nội dung, ví dụ dẫn chứng",
+            "Khá": "Có sáng tạo và đa dạng, tuy không xuất sắc như ở mức độ giỏi.",
+            "Trung bình": "Thiếu sáng tạo và ít đa dạng, trong việc giải quyết vấn đề.",
+            "Yếu": "Thiếu khả năng tạo, không đa, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Minh hoạ",
+          "cells": [
+            "Minh hoạ",
+            "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "25%",
+            "Minh họa bằng hình ảnh, sơ đồ, thí nghiệm mô phỏng, sản phẩm ứng dụng thực tế",
+            "Có minh họa bằng nhiều hình thức, tuy không xuất sắc như ở mức độ giỏi.",
+            "Có minh họa nhưng sử dụng ít phương thức minh họa, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện.",
+            "Gặp khó khăn trong đưa ra minh hoạ, cần sự hỗ trợ lớn để hoàn thành."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Minh hoạ",
+            "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Minh họa bằng hình ảnh, sơ đồ, thí nghiệm mô phỏng, sản phẩm ứng dụng thực tế",
+            "Khá": "Có minh họa bằng nhiều hình thức, tuy không xuất sắc như ở mức độ giỏi.",
+            "Trung bình": "Có minh họa nhưng sử dụng ít phương thức minh họa, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện.",
+            "Yếu": "Gặp khó khăn trong đưa ra minh hoạ, cần sự hỗ trợ lớn để hoàn thành."
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Trình bày báo cáo",
+          "cells": [
+            "Trình bày báo cáo",
+            "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "25%",
+            "Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng.",
+            "Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác.",
+            "Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo.",
+            "Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Trình bày báo cáo",
+            "CLO": "CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng.",
+            "Khá": "Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác.",
+            "Trung bình": "Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo.",
+            "Yếu": "Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến."
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\nTên học phần (tiếng Việt): Vật lý đại cương\nTên học phần (tiếng Anh): General Physics\nTrình độ đào tạo Đại học\nMã học phần: CNTT1191\nSố tín chỉ: 03\nSố giờ trên lớp: 45\nSố giờ tự học: 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Không\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\nHọc phần này bao gồm những kiến thức Vật lý đại cương phần điện từ. Bao gồm các nội dung về: các loại trường (điện trường tĩnh, điện trường xoáy, từ trường), nguồn sinh ra trường, các tính chất của trường, các đại lượng đặc trưng cho trường (cường độ, điện thế, điện thông, từ thông,..); Các định lý, định luật liên quan; Mối quan hệ giữa trường điện và trường từ, trường điện từ thống nhất; Lực trong các trường và ứng dụng; Các tính chất của vật dẫn, điện môi trong điện trường tĩnh và ứng dụng; Bản chất từ tính của vật liệu từ và ứng dụng; Vận dụng xét dao động điện và sóng điện từ. Hình thành kỹ năng tìm kiếm, thu thập, phân tích trình bày vấn đề, khả năng tự tìm hiểu nâng cao trình độ cũng như kĩ năng làm việc nhóm thông qua thực hành các bài tập nhóm, giờ học thảo luận.\nNội dung chính:\nĐiện trường tĩnh\nTác dụng của điện trường tĩnh đối với vật chất: vật dẫn, điện môi\nTừ trường\nTác dụng của từ trường đối với vật chất: vật liệu thuận từ, nghịch từ, sắt từ\nCảm ứng điện từ\nMỗi quan hệ giữa trường điện và trường từ: trường điện từ\nĐiện trường và từ trường biến thiên theo thời gian: phương trình Maxwell\nVận dụng lý thuyết điện và từ khảo sát: dao động điện từ, sóng điện từ\n4.1. Giáo trình\n[1]. Lương Duyên Bình, Dư Trí Công, Nguyễn Hữu Hồ (2006), Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.\n[2]. Lương Duyên Bình (Chủ biên) (2006), Bài tập Vật lý Đại cương tập 2: Điện- Dao động- Sóng, NXB Giáo dục.\n4.2. Tài liệu tham khảo\n[3]. Tống Thị Hảo Tâm (Chủ biên), Đặng Đình Hải (2019), Bài giảng Vật lý Đại cương (Tâp 1), NXB ĐH Kinh tế Quốc dân.\n[4]. Vũ Thanh Khiết, Nguyễn Phúc Thuần (1992), Điện học, NXB Giáo dục.\n[5]. Đặng Quang Khang (2000), Vật lý Đại cương tập 2- Điện học, ĐH Bách Khoa Hà Nội.\n[6]. Trần Ngọc Hợi (Chủ biên), Phạm Văn Thiều (2006), Vật lý Đại cương các nguyên lý và ứng dụng, tập 2: Điện, từ, dao động và sóng, NXB Giáo dục.\n[7]. David Halliday- Robert Resnick- Jearl Walker, Cơ sở vật lí (tập IV), NXB Giáo dục.\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTrọng số trong điểm học phần: 50%\nHình thức: Trắc nghiệm khách quan\nThời gian: 60 phút\nSố câu hỏi: 40 câu\nMa trận đề thi (trắc nghiệm):\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 6 buổi seminar.\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nMa trận đề kiểm tra (trắc nghiệm):\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)"
+}

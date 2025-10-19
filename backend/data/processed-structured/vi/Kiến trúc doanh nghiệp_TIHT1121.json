@@ -1,0 +1,2191 @@
+{
+  "doc_id": "vi-tiht1121",
+  "language": "vi",
+  "course_name_stem": "Kiến trúc doanh nghiệp",
+  "course_variant": "",
+  "course_code": "TIHT1121",
+  "source_filename": "Kiến trúc doanh nghiệp_TIHT1121.docx",
+  "source_relpath": "data\\raw\\vi\\Kiến trúc doanh nghiệp_TIHT1121.docx",
+  "source_hash": "c97339f456a8cd1bb00b2c29d0046440",
+  "source_modified": "2025-10-11T10:42:50.633202+00:00",
+  "processed_at": "2025-10-17T16:55:21.763491+00:00",
+  "stats": {
+    "paragraphs": 25,
+    "tables": 8,
+    "sections": 11
+  },
+  "sections": [
+    {
+      "section_id": "vi-tiht1121#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "vi-tiht1121#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 6,
+          "column_labels": [
+            "- Tên học phần (tiếng Việt):",
+            "Kiến trúc doanh nghiệp"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Tên học phần (tiếng Anh)",
+              "cells": [
+                "- Tên học phần (tiếng Anh)",
+                "Enterprise Architecture"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Tên học phần (tiếng Anh)",
+                "Kiến trúc doanh nghiệp": "Enterprise Architecture"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Mã số học phần",
+              "cells": [
+                "- Mã số học phần",
+                "TIHT1121"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Mã số học phần",
+                "Kiến trúc doanh nghiệp": "TIHT1121"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Thuộc khối kiến thức",
+              "cells": [
+                "- Thuộc khối kiến thức",
+                "Chuyên ngành"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Thuộc khối kiến thức",
+                "Kiến trúc doanh nghiệp": "Chuyên ngành"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Số tín chỉ",
+              "cells": [
+                "- Số tín chỉ",
+                "3"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Số tín chỉ",
+                "Kiến trúc doanh nghiệp": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "+ Số giờ lý thuyết",
+              "cells": [
+                "+ Số giờ lý thuyết",
+                "25"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "+ Số giờ lý thuyết",
+                "Kiến trúc doanh nghiệp": "25"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+              "cells": [
+                "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+                "20 75 (1 giờ giảng dạy = 3 giờ tự học)"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+                "Kiến trúc doanh nghiệp": "20 75 (1 giờ giảng dạy = 3 giờ tự học)"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "- Các học phần tiên quyết",
+              "cells": [
+                "- Các học phần tiên quyết",
+                "Không"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Các học phần tiên quyết",
+                "Kiến trúc doanh nghiệp": "Không"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec002",
+      "title": "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "level": 1,
+      "label": "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day",
+      "path_titles": [
+        "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "path_labels": [
+        "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Bộ môn quản lý: Hệ thống thông tin quản lý",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Địa chỉ: Phòng 1308 Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Giảng viên tham gia giảng dạy:",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "table",
+          "order": 7,
+          "table_id": "vi-tiht1121#tbl003",
+          "table_name": "Giảng viên tham gia giảng dạy:",
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 11,
+          "column_labels": [
+            "TT",
+            "Họ và tên",
+            "Số điện thoại",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "TS. Đoàn Quang Minh",
+                "0377885769",
+                "doanquangminh@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "1",
+                "Họ và tên": "TS. Đoàn Quang Minh",
+                "Số điện thoại": "0377885769",
+                "Email": "doanquangminh@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "ThS. Đàm Lan Nhi",
+                "0969963004",
+                "damlannhi@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "2",
+                "Họ và tên": "ThS. Đàm Lan Nhi",
+                "Số điện thoại": "0969963004",
+                "Email": "damlannhi@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Học phần Kiến trúc doanh nghiệp thuộc khối kiến thức chuyên ngành của các ngành thuộc lĩnh vực kinh doanh và quản lý. Học phần này cung cấp các kiến thức cơ bản và chuyên sâu về kiến trúc doanh nghiệp.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Học phần bắt đầu với phần giới thiệu về các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp. Tiếp theo, các chuẩn kiến trúc doanh nghiệp điển hình sẽ được đề cập. Sau đó, các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP sẽ được phân tích và thảo luận. Tiếp theo là cách sử dụng công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate. Cuối cùng, học phần tập trung phân tích, thảo luận một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 14
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec004",
+      "title": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "level": 1,
+      "label": "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+      ],
+      "path_labels": [
+        "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "1. David, R., Jeanne W., & Peter W. (2006). Chiến lược kiến trúc doanh nghiệp. Harvard Business Review Press.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Tài liệu khác",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "2. Marc Lankhorst et al. (2017). Enterprise Architecture at Work: Modelling, Communication and Analysis. 4th Edition, Springer.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "3. The Open Group (2018). The Open Group Standard, Version 9.2. Published by The Open Group.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "4. The Open Group (2019). ArchiMate® 3.1 Specification. Published by The Open Group.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 22
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Bảng 5.1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "table",
+          "order": 17,
+          "table_id": "vi-tiht1121#tbl004",
+          "table_name": "Bảng 5.1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 25,
+          "column_labels": [
+            "TT",
+            "Mô tả mục tiêu học phần",
+            "CĐR (PLO) của CTĐT",
+            "Mức độ"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "TT": "[1]",
+                "Mô tả mục tiêu học phần": "[2]",
+                "CĐR (PLO) của CTĐT": "[3]",
+                "Mức độ": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Sinh viên hiểu và áp dụng được quy trình phát triển, kiến trúc doanh nghiệp. Triển khai được các dự án về chuyển đổi số, tái cấu trúc doanh nghiệp",
+                "PLO1.5B",
+                "4"
+              ],
+              "column_map": {
+                "TT": "G1",
+                "Mô tả mục tiêu học phần": "Sinh viên hiểu và áp dụng được quy trình phát triển, kiến trúc doanh nghiệp. Triển khai được các dự án về chuyển đổi số, tái cấu trúc doanh nghiệp",
+                "CĐR (PLO) của CTĐT": "PLO1.5B",
+                "Mức độ": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Sinh viên có kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp. Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+                "PLO2.2.2 PLO2.2.3B",
+                "4"
+              ],
+              "column_map": {
+                "TT": "G2",
+                "Mô tả mục tiêu học phần": "Sinh viên có kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp. Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+                "CĐR (PLO) của CTĐT": "PLO2.2.2 PLO2.2.3B",
+                "Mức độ": "4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "PLO3.1.1 PLO3.1.2 PLO3.2.3",
+                "4"
+              ],
+              "column_map": {
+                "TT": "G3",
+                "Mô tả mục tiêu học phần": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.1.2 PLO3.2.3",
+                "Mức độ": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "table",
+          "order": 19,
+          "table_id": "vi-tiht1121#tbl005",
+          "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 29,
+          "column_labels": [
+            "Mục tiêu HP",
+            "CLOs",
+            "Mô tả CLOs",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "[1]",
+                "CLOs": "[2]",
+                "Mô tả CLOs": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Hiểu rõ các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.1",
+                "Mô tả CLOs": "Hiểu rõ các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Hiểu và giải thích được các chuẩn kiến trúc doanh nghiệp điển hình.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.2",
+                "Mô tả CLOs": "Hiểu và giải thích được các chuẩn kiến trúc doanh nghiệp điển hình.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Triển khai được các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.3",
+                "Mô tả CLOs": "Triển khai được các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Hiểu và sử dụng được công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.4",
+                "Mô tả CLOs": "Hiểu và sử dụng được công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.5",
+                "Hiểu và phân tích được một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.5",
+                "Mô tả CLOs": "Hiểu và phân tích được một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Phát triển các kỹ năng kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G2",
+                "CLOs": "CLO2.1",
+                "Mô tả CLOs": "Phát triển các kỹ năng kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G2",
+                "CLOs": "CLO2.2",
+                "Mô tả CLOs": "Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G3",
+                "CLOs": "CLO3.1",
+                "Mô tả CLOs": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Có năng lực tổ chức hoạt động nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G3",
+                "CLOs": "CLO3.2",
+                "Mô tả CLOs": "Có năng lực tổ chức hoạt động nhóm.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G3",
+                "CLOs": "CLO3.3",
+                "Mô tả CLOs": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "Mức độ đạt được": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Bảng 7.1. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "table",
+          "order": 21,
+          "table_id": "vi-tiht1121#tbl006",
+          "table_name": "Bảng 7.1. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 33,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "CLOs",
+            "Tỷ lệ (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[4]",
+                "[6]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "CLOs": "[4]",
+                "Tỷ lệ (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "10%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Tỷ lệ (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+              "cells": [
+                "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "40%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Tỷ lệ (%)": "40%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+              "cells": [
+                "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+                "CLO1.4 CLO1.5",
+                "40%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+                "CLOs": "CLO1.4 CLO1.5",
+                "Tỷ lệ (%)": "40%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "50%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Tỷ lệ (%)": "50%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Bảng 8.1. Kế hoạch giảng dạy",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "table",
+          "order": 24,
+          "table_id": "vi-tiht1121#tbl007",
+          "table_name": "Bảng 8.1. Kế hoạch giảng dạy",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 37,
+          "column_labels": [
+            "Tuần",
+            "Nội dung giảng dạy",
+            "CLOs",
+            "Công cụ \nđánh giá"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[4]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung giảng dạy": "[2]",
+                "CLOs": "[4]",
+                "Công cụ \nđánh giá": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chương 1 1.1. Kiến trúc doanh nghiệp là gì? 1.2. Mục tiêu của kiến trúc doanh nghiệp",
+                "CLO1.1",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung giảng dạy": "Chương 1 1.1. Kiến trúc doanh nghiệp là gì? 1.2. Mục tiêu của kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.1",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chương 1 1.3. Lịch sử hình thành và phát triển của kiến trúc doanh nghiệp",
+                "CLO1.1",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung giảng dạy": "Chương 1 1.3. Lịch sử hình thành và phát triển của kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.1",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chương 2 2.1. Chuẩn kiến trúc IEEE 1471-2000/ISO/IEC 42010 2.2. Chuẩn kiến trúc Zachman",
+                "CLO1.2",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung giảng dạy": "Chương 2 2.1. Chuẩn kiến trúc IEEE 1471-2000/ISO/IEC 42010 2.2. Chuẩn kiến trúc Zachman",
+                "CLOs": "CLO1.2",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chương 2 2.3. Chuẩn kiến trúc TOGAP 2.4. Một số chuẩn kiến trúc khác",
+                "CLO1.2",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung giảng dạy": "Chương 2 2.3. Chuẩn kiến trúc TOGAP 2.4. Một số chuẩn kiến trúc khác",
+                "CLOs": "CLO1.2",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chương 3 3.1. Giới thiệu phương pháp phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP 3.2. Giai đoạn sơ bộ 3.3. Giai đoạn A – Xây dựng tầm nhìn kiến trúc doanh nghiệp",
+                "CLO1.3",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung giảng dạy": "Chương 3 3.1. Giới thiệu phương pháp phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP 3.2. Giai đoạn sơ bộ 3.3. Giai đoạn A – Xây dựng tầm nhìn kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.3",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chương 3 3.4. Giai đoạn B – Xây dựng kiến trúc về kinh doanh 3.5. Giai đoạn C – Xây dựng kiến trúc về hệ thống thông tin 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ",
+                "CLO1.3",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung giảng dạy": "Chương 3 3.4. Giai đoạn B – Xây dựng kiến trúc về kinh doanh 3.5. Giai đoạn C – Xây dựng kiến trúc về hệ thống thông tin 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ",
+                "CLOs": "CLO1.3",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chương 3 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ 3.7. Giai đoạn E – Các cơ hội và giải pháp 3.8. Giai đoạn F – Lập kế hoạch chuyển đổi kiến trúc doanh nghiệp",
+                "CLO1.3",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung giảng dạy": "Chương 3 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ 3.7. Giai đoạn E – Các cơ hội và giải pháp 3.8. Giai đoạn F – Lập kế hoạch chuyển đổi kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.3",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chương 3 3.1. Tác động của quản trị tri thức tới quản trị nhân sự của tổ chức 3.2. Tác động của quản trị tri thức tới quy trình hoạt động của tổ chức",
+                "CLO1.3",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung giảng dạy": "Chương 3 3.1. Tác động của quản trị tri thức tới quản trị nhân sự của tổ chức 3.2. Tác động của quản trị tri thức tới quy trình hoạt động của tổ chức",
+                "CLOs": "CLO1.3",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chương 3 3.9. Giai đoạn G – Giám sát quá trình triển khai kiến trúc doanh nghiệp 3.10. Giai đoạn H – Quản trị sự thay đổi về kiến trúc doanh nghiệp 3.11. Giai đoạn quản lý các yêu cầu chung về kiến trúc doanh nghiệp",
+                "CLO1.3",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung giảng dạy": "Chương 3 3.9. Giai đoạn G – Giám sát quá trình triển khai kiến trúc doanh nghiệp 3.10. Giai đoạn H – Quản trị sự thay đổi về kiến trúc doanh nghiệp 3.11. Giai đoạn quản lý các yêu cầu chung về kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.3",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chương 4 4.1. Giới thiệu công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate 4.2. Một số khái niệm cơ bản",
+                "CLO1.4",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung giảng dạy": "Chương 4 4.1. Giới thiệu công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate 4.2. Một số khái niệm cơ bản",
+                "CLOs": "CLO1.4",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chương 4 4.3. Cấu trúc ngôn ngữ của ArchiMate 4.4. Các chức năng cơ bản của ArchiMate",
+                "CLO1.4",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung giảng dạy": "Chương 4 4.3. Cấu trúc ngôn ngữ của ArchiMate 4.4. Các chức năng cơ bản của ArchiMate",
+                "CLOs": "CLO1.4",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chương 4 4.5. Cách tạo lập các lớp kiến trúc doanh nghiệp",
+                "CLO1.4",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung giảng dạy": "Chương 4 4.5. Cách tạo lập các lớp kiến trúc doanh nghiệp",
+                "CLOs": "CLO1.4",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chương 5 5.1. Phát triển kiến trúc doanh nghiệp tại quỹ hưu trí ABP Hà Lan 5.2. Phát triển kiến trúc doanh nghiệp tại ngân hàng ABN AMRO",
+                "CLO1.5",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung giảng dạy": "Chương 5 5.1. Phát triển kiến trúc doanh nghiệp tại quỹ hưu trí ABP Hà Lan 5.2. Phát triển kiến trúc doanh nghiệp tại ngân hàng ABN AMRO",
+                "CLOs": "CLO1.5",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chương 5 5.3. Phát triển kiến trúc doanh nghiệp tại tổng cục thuế và hải quan Hà Lan",
+                "CLO1.5",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung giảng dạy": "Chương 5 5.3. Phát triển kiến trúc doanh nghiệp tại tổng cục thuế và hải quan Hà Lan",
+                "CLOs": "CLO1.5",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Tổng kết học phần",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung giảng dạy": "Tổng kết học phần",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec008",
+      "title": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tiht1121#sec009",
+      "title": "9.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "- Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần (50%) nếu có điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 41
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec010",
+      "title": "9.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "- Sinh viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học vì lý do bất khả kháng thì phải xin phép và cần được sự đồng ý của giảng viên. Mỗi buổi vắng mặt không có lý do sẽ bị trừ 1 điểm đánh giá quá trình. Sinh viên vắng mặt quá 3 buổi học dù có lý do hay không có lý do đều bị coi như không hoàn thành khóa học và phải đăng ký học lại.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "- Sinh viên sẽ được cộng điểm cho mỗi lần phát biểu xây dựng bài, có thể được xem xét để bù đắp cho điểm chuyên cần và điểm đánh giá quá trình.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "- Sinh viên không làm bài kiểm tra sẽ nhận điểm 0 (không) cho bài kiểm tra đó.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 45
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tiht1121#sec011",
+      "title": "9.3. Quy định về hành vi lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-lop-hoc",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "- Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "- Tuyệt đối không được ăn uống, làm việc riêng trong giờ học.",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "vi-tiht1121#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "TRƯỞNG KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. Nguyễn Thị Bạch Tuyết",
+              "cells": [
+                "TS. Nguyễn Thị Bạch Tuyết",
+                "PGS.TS. Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "TRƯỞNG KHOA": "TS. Nguyễn Thị Bạch Tuyết",
+                "HIỆU TRƯỞNG": "PGS.TS. Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-tiht1121#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "vi-tiht1121#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "source_block": 6,
+      "column_labels": [
+        "- Tên học phần (tiếng Việt):",
+        "Kiến trúc doanh nghiệp"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Anh)",
+          "cells": [
+            "- Tên học phần (tiếng Anh)",
+            "Enterprise Architecture"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Tên học phần (tiếng Anh)",
+            "Kiến trúc doanh nghiệp": "Enterprise Architecture"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Mã số học phần",
+          "cells": [
+            "- Mã số học phần",
+            "TIHT1121"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Mã số học phần",
+            "Kiến trúc doanh nghiệp": "TIHT1121"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Thuộc khối kiến thức",
+          "cells": [
+            "- Thuộc khối kiến thức",
+            "Chuyên ngành"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Thuộc khối kiến thức",
+            "Kiến trúc doanh nghiệp": "Chuyên ngành"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Số tín chỉ",
+          "cells": [
+            "- Số tín chỉ",
+            "3"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Số tín chỉ",
+            "Kiến trúc doanh nghiệp": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "+ Số giờ lý thuyết",
+          "cells": [
+            "+ Số giờ lý thuyết",
+            "25"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "+ Số giờ lý thuyết",
+            "Kiến trúc doanh nghiệp": "25"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+          "cells": [
+            "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+            "20 75 (1 giờ giảng dạy = 3 giờ tự học)"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "+ Số giờ thảo luận/thực hành + Số giờ tự học",
+            "Kiến trúc doanh nghiệp": "20 75 (1 giờ giảng dạy = 3 giờ tự học)"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "- Các học phần tiên quyết",
+          "cells": [
+            "- Các học phần tiên quyết",
+            "Không"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Các học phần tiên quyết",
+            "Kiến trúc doanh nghiệp": "Không"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "table_id": "vi-tiht1121#tbl003",
+      "table_name": "Giảng viên tham gia giảng dạy:",
+      "section_path": [
+        "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+      ],
+      "source_block": 11,
+      "column_labels": [
+        "TT",
+        "Họ và tên",
+        "Số điện thoại",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "TS. Đoàn Quang Minh",
+            "0377885769",
+            "doanquangminh@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "1",
+            "Họ và tên": "TS. Đoàn Quang Minh",
+            "Số điện thoại": "0377885769",
+            "Email": "doanquangminh@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "ThS. Đàm Lan Nhi",
+            "0969963004",
+            "damlannhi@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "2",
+            "Họ và tên": "ThS. Đàm Lan Nhi",
+            "Số điện thoại": "0969963004",
+            "Email": "damlannhi@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "table_id": "vi-tiht1121#tbl004",
+      "table_name": "Bảng 5.1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 25,
+      "column_labels": [
+        "TT",
+        "Mô tả mục tiêu học phần",
+        "CĐR (PLO) của CTĐT",
+        "Mức độ"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "TT": "[1]",
+            "Mô tả mục tiêu học phần": "[2]",
+            "CĐR (PLO) của CTĐT": "[3]",
+            "Mức độ": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Sinh viên hiểu và áp dụng được quy trình phát triển, kiến trúc doanh nghiệp. Triển khai được các dự án về chuyển đổi số, tái cấu trúc doanh nghiệp",
+            "PLO1.5B",
+            "4"
+          ],
+          "column_map": {
+            "TT": "G1",
+            "Mô tả mục tiêu học phần": "Sinh viên hiểu và áp dụng được quy trình phát triển, kiến trúc doanh nghiệp. Triển khai được các dự án về chuyển đổi số, tái cấu trúc doanh nghiệp",
+            "CĐR (PLO) của CTĐT": "PLO1.5B",
+            "Mức độ": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Sinh viên có kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp. Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+            "PLO2.2.2 PLO2.2.3B",
+            "4"
+          ],
+          "column_map": {
+            "TT": "G2",
+            "Mô tả mục tiêu học phần": "Sinh viên có kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp. Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+            "CĐR (PLO) của CTĐT": "PLO2.2.2 PLO2.2.3B",
+            "Mức độ": "4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "PLO3.1.1 PLO3.1.2 PLO3.2.3",
+            "4"
+          ],
+          "column_map": {
+            "TT": "G3",
+            "Mô tả mục tiêu học phần": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.1.2 PLO3.2.3",
+            "Mức độ": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 19,
+      "table_id": "vi-tiht1121#tbl005",
+      "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 29,
+      "column_labels": [
+        "Mục tiêu HP",
+        "CLOs",
+        "Mô tả CLOs",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "[1]",
+            "CLOs": "[2]",
+            "Mô tả CLOs": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Hiểu rõ các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.1",
+            "Mô tả CLOs": "Hiểu rõ các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Hiểu và giải thích được các chuẩn kiến trúc doanh nghiệp điển hình.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.2",
+            "Mô tả CLOs": "Hiểu và giải thích được các chuẩn kiến trúc doanh nghiệp điển hình.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Triển khai được các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.3",
+            "Mô tả CLOs": "Triển khai được các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Hiểu và sử dụng được công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.4",
+            "Mô tả CLOs": "Hiểu và sử dụng được công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.5",
+            "Hiểu và phân tích được một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.5",
+            "Mô tả CLOs": "Hiểu và phân tích được một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Phát triển các kỹ năng kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G2",
+            "CLOs": "CLO2.1",
+            "Mô tả CLOs": "Phát triển các kỹ năng kỹ năng phân tích, lập kế hoạch, triển khai chuyển đổi số, tái cấu trúc của doanh nghiệp.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G2",
+            "CLOs": "CLO2.2",
+            "Mô tả CLOs": "Có kỹ năng tự tìm hiểu, đọc tài liệu về kiến trúc doanh nghiệp.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G3",
+            "CLOs": "CLO3.1",
+            "Mô tả CLOs": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Có năng lực tổ chức hoạt động nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G3",
+            "CLOs": "CLO3.2",
+            "Mô tả CLOs": "Có năng lực tổ chức hoạt động nhóm.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G3",
+            "CLOs": "CLO3.3",
+            "Mô tả CLOs": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "Mức độ đạt được": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 21,
+      "table_id": "vi-tiht1121#tbl006",
+      "table_name": "Bảng 7.1. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "source_block": 33,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "CLOs",
+        "Tỷ lệ (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[4]",
+            "[6]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "CLOs": "[4]",
+            "Tỷ lệ (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "10%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Tỷ lệ (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+          "cells": [
+            "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "40%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Tỷ lệ (%)": "40%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+          "cells": [
+            "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+            "CLO1.4 CLO1.5",
+            "40%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình (bài kiểm tra trắc nghiệm kết hợp tự luận)",
+            "CLOs": "CLO1.4 CLO1.5",
+            "Tỷ lệ (%)": "40%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "50%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Tỷ lệ (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 24,
+      "table_id": "vi-tiht1121#tbl007",
+      "table_name": "Bảng 8.1. Kế hoạch giảng dạy",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "source_block": 37,
+      "column_labels": [
+        "Tuần",
+        "Nội dung giảng dạy",
+        "CLOs",
+        "Công cụ \nđánh giá"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[4]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung giảng dạy": "[2]",
+            "CLOs": "[4]",
+            "Công cụ \nđánh giá": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chương 1 1.1. Kiến trúc doanh nghiệp là gì? 1.2. Mục tiêu của kiến trúc doanh nghiệp",
+            "CLO1.1",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung giảng dạy": "Chương 1 1.1. Kiến trúc doanh nghiệp là gì? 1.2. Mục tiêu của kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.1",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chương 1 1.3. Lịch sử hình thành và phát triển của kiến trúc doanh nghiệp",
+            "CLO1.1",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung giảng dạy": "Chương 1 1.3. Lịch sử hình thành và phát triển của kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.1",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chương 2 2.1. Chuẩn kiến trúc IEEE 1471-2000/ISO/IEC 42010 2.2. Chuẩn kiến trúc Zachman",
+            "CLO1.2",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung giảng dạy": "Chương 2 2.1. Chuẩn kiến trúc IEEE 1471-2000/ISO/IEC 42010 2.2. Chuẩn kiến trúc Zachman",
+            "CLOs": "CLO1.2",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chương 2 2.3. Chuẩn kiến trúc TOGAP 2.4. Một số chuẩn kiến trúc khác",
+            "CLO1.2",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung giảng dạy": "Chương 2 2.3. Chuẩn kiến trúc TOGAP 2.4. Một số chuẩn kiến trúc khác",
+            "CLOs": "CLO1.2",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chương 3 3.1. Giới thiệu phương pháp phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP 3.2. Giai đoạn sơ bộ 3.3. Giai đoạn A – Xây dựng tầm nhìn kiến trúc doanh nghiệp",
+            "CLO1.3",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung giảng dạy": "Chương 3 3.1. Giới thiệu phương pháp phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP 3.2. Giai đoạn sơ bộ 3.3. Giai đoạn A – Xây dựng tầm nhìn kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.3",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chương 3 3.4. Giai đoạn B – Xây dựng kiến trúc về kinh doanh 3.5. Giai đoạn C – Xây dựng kiến trúc về hệ thống thông tin 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ",
+            "CLO1.3",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung giảng dạy": "Chương 3 3.4. Giai đoạn B – Xây dựng kiến trúc về kinh doanh 3.5. Giai đoạn C – Xây dựng kiến trúc về hệ thống thông tin 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ",
+            "CLOs": "CLO1.3",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chương 3 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ 3.7. Giai đoạn E – Các cơ hội và giải pháp 3.8. Giai đoạn F – Lập kế hoạch chuyển đổi kiến trúc doanh nghiệp",
+            "CLO1.3",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung giảng dạy": "Chương 3 3.6. Giai đoạn D – Xây dựng kiến trúc về công nghệ 3.7. Giai đoạn E – Các cơ hội và giải pháp 3.8. Giai đoạn F – Lập kế hoạch chuyển đổi kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.3",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chương 3 3.1. Tác động của quản trị tri thức tới quản trị nhân sự của tổ chức 3.2. Tác động của quản trị tri thức tới quy trình hoạt động của tổ chức",
+            "CLO1.3",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung giảng dạy": "Chương 3 3.1. Tác động của quản trị tri thức tới quản trị nhân sự của tổ chức 3.2. Tác động của quản trị tri thức tới quy trình hoạt động của tổ chức",
+            "CLOs": "CLO1.3",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chương 3 3.9. Giai đoạn G – Giám sát quá trình triển khai kiến trúc doanh nghiệp 3.10. Giai đoạn H – Quản trị sự thay đổi về kiến trúc doanh nghiệp 3.11. Giai đoạn quản lý các yêu cầu chung về kiến trúc doanh nghiệp",
+            "CLO1.3",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung giảng dạy": "Chương 3 3.9. Giai đoạn G – Giám sát quá trình triển khai kiến trúc doanh nghiệp 3.10. Giai đoạn H – Quản trị sự thay đổi về kiến trúc doanh nghiệp 3.11. Giai đoạn quản lý các yêu cầu chung về kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.3",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chương 4 4.1. Giới thiệu công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate 4.2. Một số khái niệm cơ bản",
+            "CLO1.4",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung giảng dạy": "Chương 4 4.1. Giới thiệu công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate 4.2. Một số khái niệm cơ bản",
+            "CLOs": "CLO1.4",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chương 4 4.3. Cấu trúc ngôn ngữ của ArchiMate 4.4. Các chức năng cơ bản của ArchiMate",
+            "CLO1.4",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung giảng dạy": "Chương 4 4.3. Cấu trúc ngôn ngữ của ArchiMate 4.4. Các chức năng cơ bản của ArchiMate",
+            "CLOs": "CLO1.4",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chương 4 4.5. Cách tạo lập các lớp kiến trúc doanh nghiệp",
+            "CLO1.4",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung giảng dạy": "Chương 4 4.5. Cách tạo lập các lớp kiến trúc doanh nghiệp",
+            "CLOs": "CLO1.4",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chương 5 5.1. Phát triển kiến trúc doanh nghiệp tại quỹ hưu trí ABP Hà Lan 5.2. Phát triển kiến trúc doanh nghiệp tại ngân hàng ABN AMRO",
+            "CLO1.5",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung giảng dạy": "Chương 5 5.1. Phát triển kiến trúc doanh nghiệp tại quỹ hưu trí ABP Hà Lan 5.2. Phát triển kiến trúc doanh nghiệp tại ngân hàng ABN AMRO",
+            "CLOs": "CLO1.5",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chương 5 5.3. Phát triển kiến trúc doanh nghiệp tại tổng cục thuế và hải quan Hà Lan",
+            "CLO1.5",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung giảng dạy": "Chương 5 5.3. Phát triển kiến trúc doanh nghiệp tại tổng cục thuế và hải quan Hà Lan",
+            "CLOs": "CLO1.5",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Tổng kết học phần",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung giảng dạy": "Tổng kết học phần",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Công cụ \nđánh giá": "Mức độ tham gia Mức độ tương tác Chất lượng câu trả lời"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "vi-tiht1121#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "section_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "TRƯỞNG KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Nguyễn Thị Bạch Tuyết",
+          "cells": [
+            "TS. Nguyễn Thị Bạch Tuyết",
+            "PGS.TS. Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "TRƯỞNG KHOA": "TS. Nguyễn Thị Bạch Tuyết",
+            "HIỆU TRƯỞNG": "PGS.TS. Phạm Hồng Chương"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN TỔNG QUÁT\n(Ban hành kèm theo quyết định số QĐ/ĐHKTQD, ngày tháng năm 2022)\nBộ môn quản lý: Hệ thống thông tin quản lý\nĐịa chỉ: Phòng 1308 Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên tham gia giảng dạy:\nHọc phần Kiến trúc doanh nghiệp thuộc khối kiến thức chuyên ngành của các ngành thuộc lĩnh vực kinh doanh và quản lý. Học phần này cung cấp các kiến thức cơ bản và chuyên sâu về kiến trúc doanh nghiệp.\nHọc phần bắt đầu với phần giới thiệu về các khái niệm cơ bản, kiến thức tổng quan về kiến trúc doanh nghiệp. Tiếp theo, các chuẩn kiến trúc doanh nghiệp điển hình sẽ được đề cập. Sau đó, các giai đoạn của quy trình phát triển kiến trúc doanh nghiệp dựa trên chuẩn TOGAP sẽ được phân tích và thảo luận. Tiếp theo là cách sử dụng công cụ mô hình hóa kiến trúc doanh nghiệp ArchiMate. Cuối cùng, học phần tập trung phân tích, thảo luận một số ví dụ điển hình về phát triển kiến trúc doanh nghiệp.\nGiáo trình\n1. David, R., Jeanne W., & Peter W. (2006). Chiến lược kiến trúc doanh nghiệp. Harvard Business Review Press.\nTài liệu khác\n2. Marc Lankhorst et al. (2017). Enterprise Architecture at Work: Modelling, Communication and Analysis. 4th Edition, Springer.\n3. The Open Group (2018). The Open Group Standard, Version 9.2. Published by The Open Group.\n4. The Open Group (2019). ArchiMate® 3.1 Specification. Published by The Open Group.\nBảng 5.1. Mục tiêu học phần\nBảng 6.1. Chuẩn đầu ra học phần (CLO)\nBảng 7.1. Đánh giá học phần\n8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)\nBảng 8.1. Kế hoạch giảng dạy\n- Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần (50%) nếu có điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).\n- Sinh viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học vì lý do bất khả kháng thì phải xin phép và cần được sự đồng ý của giảng viên. Mỗi buổi vắng mặt không có lý do sẽ bị trừ 1 điểm đánh giá quá trình. Sinh viên vắng mặt quá 3 buổi học dù có lý do hay không có lý do đều bị coi như không hoàn thành khóa học và phải đăng ký học lại.\n- Sinh viên sẽ được cộng điểm cho mỗi lần phát biểu xây dựng bài, có thể được xem xét để bù đắp cho điểm chuyên cần và điểm đánh giá quá trình.\n- Sinh viên không làm bài kiểm tra sẽ nhận điểm 0 (không) cho bài kiểm tra đó.\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\n- Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.\n- Tuyệt đối không được ăn uống, làm việc riêng trong giờ học."
+}

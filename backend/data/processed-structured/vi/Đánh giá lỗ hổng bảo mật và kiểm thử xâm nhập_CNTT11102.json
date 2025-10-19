@@ -1,0 +1,2464 @@
+{
+  "doc_id": "vi-cntt11102",
+  "language": "vi",
+  "course_name_stem": "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+  "course_variant": "",
+  "course_code": "CNTT11102",
+  "source_filename": "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
+  "source_relpath": "data\\raw\\vi\\Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
+  "source_hash": "62284aeaf0e9de7b8058419e4f194b0e",
+  "source_modified": "2025-10-11T10:42:50.662111+00:00",
+  "processed_at": "2025-10-17T16:55:24.880920+00:00",
+  "stats": {
+    "paragraphs": 30,
+    "tables": 8,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt11102#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "vi-cntt11102#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 6,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Tên học phần (tiếng Việt):",
+              "cells": [
+                "- Tên học phần (tiếng Việt):",
+                "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Tên học phần (tiếng Anh)",
+              "cells": [
+                "- Tên học phần (tiếng Anh)",
+                "Vulnerability Assessment and Penetration Testing"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Mã số học phần",
+              "cells": [
+                "- Mã số học phần",
+                "CNTT11102"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Thuộc khối kiến thức",
+              "cells": [
+                "- Thuộc khối kiến thức",
+                "Các học phần tự chọn"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "- Số tín chỉ",
+              "cells": [
+                "- Số tín chỉ",
+                "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Số tiết lý thuyết",
+              "cells": [
+                "+ Số tiết lý thuyết",
+                "30"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 6,
+              "row_label": "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+              "cells": [
+                "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+                "15 90"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 7,
+              "row_label": "- Các học phần tiên quyết:",
+              "cells": [
+                "- Các học phần tiên quyết:",
+                "CNTT1168, CNTT1114"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec002",
+      "title": "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "level": 1,
+      "label": "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day",
+      "path_titles": [
+        "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "path_labels": [
+        "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Bộ môn quản lý: Bộ môn Công nghệ thông tin",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Địa chỉ: Phòng 1310 Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Giảng viên:",
+          "is_list": false,
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "table",
+          "order": 7,
+          "table_id": "vi-cntt11102#tbl003",
+          "table_name": "Giảng viên:",
+          "section_path": [
+            "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+          ],
+          "source_block": 11,
+          "column_labels": [
+            "TS. Lưu Minh Tuấn",
+            "0904143460",
+            "tuanlm@neu.edu.vn"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "ThS. Phạm Thảo",
+              "cells": [
+                "ThS. Phạm Thảo",
+                "0966986689",
+                "thaop@neu.edu.vn"
+              ],
+              "column_map": {
+                "TS. Lưu Minh Tuấn": "ThS. Phạm Thảo",
+                "0904143460": "0966986689",
+                "tuanlm@neu.edu.vn": "thaop@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Học phần trang bị cho người học các kiến thức cơ bản và chuyên sâu về phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập, đó là tổng quan về an toàn thông tin như: Đánh giá an toàn hệ thống thông tin, kiểm thử xâm nhập và giới thiệu một số công cụ hỗ trợ; các vấn đề về đánh giá lỗ hổng bảo mật như rà soát hệ thống, phân tích và xác định mục tiêu, xác định điểm yếu mục tiêu; triển khai đánh giá lỗ hổng bảo mật bao gồm Lập kế hoạch đánh giá, thực hiện đánh giá, các hoạt động sau đánh giá. Học phần cũng giới thiệu các vấn đề về kiểm thử xâm nhập, các dạng kiểm thử xâm nhập, vấn đề về khai thác lỗ hổng bảo mật, phân tích lỗ hổng và khai thác hệ thống đã xâm nhập.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 14
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec004",
+      "title": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "level": 1,
+      "label": "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+      ],
+      "path_labels": [
+        "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Giáo trình:",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "[1] Karen Scarfone, Murugiah Souppaya, Amanda Cody and Angela Orebaugh (2008), Technical Guide to Information Security Testing and Assessment, NIST SP 800-115.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "[2] TS. Lương Thế Dũng, ThS. Phạm Minh Thuấn (2016), Giáo trình đánh giá và kiểm định an toàn hệ thống thông tin, Học viện kỹ thuật mật mã.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Tài liệu khác:",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "[3] British Standards Institution - BS ISO/IEC 27001:2005 (2008), Information technology – Security techniques – Information security management systems – Requirements, American National Standards Institute.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "[4] Jeremy Faircloth (2005), Penetration Tester’s Open Source Toolkit – Third Edition, Syngress.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "[5] John Wack, Miles Tracy & Murugiah Souppaya (2003), Guideline on Network Security Testing, NIST SP 800-42.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "[6] Lee Allen (2012), Advanced Penetration Testing for Highly-Secured Environments, Packt Publishing.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "[7] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "[8] Patrick Engebretson (2011), The Basics of Hacking and Penetration Testing, Syngress.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "[9] Thomas Wilhelm (2013), Professional Penetration Testing 2nd - Creating and Learning in a Hacking Lab, Syngress.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "[10] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 27
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Bảng 5.1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "table",
+          "order": 23,
+          "table_id": "vi-cntt11102#tbl004",
+          "table_name": "Bảng 5.1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 30,
+          "column_labels": [
+            "TT",
+            "Mô tả mục tiêu học phần",
+            "CĐR (PLO) của CTĐT",
+            "Mức độ"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "TT": "[1]",
+                "Mô tả mục tiêu học phần": "[2]",
+                "CĐR (PLO) của CTĐT": "[3]",
+                "Mức độ": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "PO1",
+              "cells": [
+                "PO1",
+                "Vận dụng được kiến thức cơ bản về chính trị, xã hội, pháp luật, khoa học tự nhiên và Công nghệ thông tin vào giải quyết các vấn đề thực tiễn trong quá trình phát triển kinh tế-xã hội",
+                "PLO1.1, PLO1.2",
+                "3, 3"
+              ],
+              "column_map": {
+                "TT": "PO1",
+                "Mô tả mục tiêu học phần": "Vận dụng được kiến thức cơ bản về chính trị, xã hội, pháp luật, khoa học tự nhiên và Công nghệ thông tin vào giải quyết các vấn đề thực tiễn trong quá trình phát triển kinh tế-xã hội",
+                "CĐR (PLO) của CTĐT": "PLO1.1, PLO1.2",
+                "Mức độ": "3, 3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "PO2",
+              "cells": [
+                "PO2",
+                "Vận dụng được các kiến thức cơ bản và chuyên sâu về đánh giá lỗ hổng bảo mật và kểm thử xâm nhập, đó là tổng quan về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập; đánh giá lỗ hổng bảo mật; triển khai đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "PLO1.5",
+                "5"
+              ],
+              "column_map": {
+                "TT": "PO2",
+                "Mô tả mục tiêu học phần": "Vận dụng được các kiến thức cơ bản và chuyên sâu về đánh giá lỗ hổng bảo mật và kểm thử xâm nhập, đó là tổng quan về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập; đánh giá lỗ hổng bảo mật; triển khai đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "CĐR (PLO) của CTĐT": "PLO1.5",
+                "Mức độ": "5"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "PO3",
+              "cells": [
+                "PO3",
+                "Thành thạo các kỹ năng về đánh giá lỗ hổng bảo mật, kiểm thử xâm nhập để giải quyết các vấn đề trong thực tiễn của các tổ chức, cơ quan và doanh nghiệp",
+                "PLO1.3, PLO1.4",
+                "4, 4"
+              ],
+              "column_map": {
+                "TT": "PO3",
+                "Mô tả mục tiêu học phần": "Thành thạo các kỹ năng về đánh giá lỗ hổng bảo mật, kiểm thử xâm nhập để giải quyết các vấn đề trong thực tiễn của các tổ chức, cơ quan và doanh nghiệp",
+                "CĐR (PLO) của CTĐT": "PLO1.3, PLO1.4",
+                "Mức độ": "4, 4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "PO4",
+              "cells": [
+                "PO4",
+                "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong các tổ chức, cơ quan và doanh nghiệp",
+                "PLO2.2, PLO2.3",
+                "4"
+              ],
+              "column_map": {
+                "TT": "PO4",
+                "Mô tả mục tiêu học phần": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong các tổ chức, cơ quan và doanh nghiệp",
+                "CĐR (PLO) của CTĐT": "PLO2.2, PLO2.3",
+                "Mức độ": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "PO5",
+              "cells": [
+                "PO5",
+                "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+                "PLO2.1",
+                "4"
+              ],
+              "column_map": {
+                "TT": "PO5",
+                "Mô tả mục tiêu học phần": "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+                "CĐR (PLO) của CTĐT": "PLO2.1",
+                "Mức độ": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "PO6",
+              "cells": [
+                "PO6",
+                "Thể hiện khả năng làm việc độc lập và làm việc theo nhóm, thể hiện quan điểm và bảo vệ quan điểm cá nhân, hiểu và thực hiện đúng đắn trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+                "PLO3.1, PLO3.2, PLO3.3 PLO3.4",
+                "5, 5, 5, 4"
+              ],
+              "column_map": {
+                "TT": "PO6",
+                "Mô tả mục tiêu học phần": "Thể hiện khả năng làm việc độc lập và làm việc theo nhóm, thể hiện quan điểm và bảo vệ quan điểm cá nhân, hiểu và thực hiện đúng đắn trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+                "CĐR (PLO) của CTĐT": "PLO3.1, PLO3.2, PLO3.3 PLO3.4",
+                "Mức độ": "5, 5, 5, 4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "table",
+          "order": 25,
+          "table_id": "vi-cntt11102#tbl005",
+          "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 33,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOs",
+            "Mô tả CLOs*",
+            "Mức độ đạt được**"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOs": "[2]",
+                "Mô tả CLOs*": "[3]",
+                "Mức độ đạt được**": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "PO1",
+              "cells": [
+                "PO1",
+                "CLO1.1",
+                "Vận dụng được thế giới quan, nhân sinh quan, phương pháp luận của Chủ nghĩa Mác-Lênin và của Đảng Cộng sản Việt Nam vào học tập, nghiên cứu, vào đời sống thực tiễn trong quá trình phát triển nền kinh tế thị trường định hướng XHCN.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO1",
+                "CLOs": "CLO1.1",
+                "Mô tả CLOs*": "Vận dụng được thế giới quan, nhân sinh quan, phương pháp luận của Chủ nghĩa Mác-Lênin và của Đảng Cộng sản Việt Nam vào học tập, nghiên cứu, vào đời sống thực tiễn trong quá trình phát triển nền kinh tế thị trường định hướng XHCN.",
+                "Mức độ đạt được**": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "PO1",
+              "cells": [
+                "PO1",
+                "CLO1.2",
+                "Vận dụng được kiến thức cơ bản về pháp luật, kinh tế, quản trị kinh doanh, quản lý vào giải quyết các vấn đề kinh tế-xã hội ở tầm vĩ mô, ngành và doanh nghiệp.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO1",
+                "CLOs": "CLO1.2",
+                "Mô tả CLOs*": "Vận dụng được kiến thức cơ bản về pháp luật, kinh tế, quản trị kinh doanh, quản lý vào giải quyết các vấn đề kinh tế-xã hội ở tầm vĩ mô, ngành và doanh nghiệp.",
+                "Mức độ đạt được**": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "PO1",
+              "cells": [
+                "PO1",
+                "CLO1.3",
+                "Vận dụng được lý thuyết toán học và các kiến thức khoa học tự nhiên để học về lĩnh vực Máy tính và Công nghệ thông tin",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO1",
+                "CLOs": "CLO1.3",
+                "Mô tả CLOs*": "Vận dụng được lý thuyết toán học và các kiến thức khoa học tự nhiên để học về lĩnh vực Máy tính và Công nghệ thông tin",
+                "Mức độ đạt được**": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "PO1",
+              "cells": [
+                "PO1",
+                "CLO1.4",
+                "Vận dụng được các kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin để học về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO1",
+                "CLOs": "CLO1.4",
+                "Mô tả CLOs*": "Vận dụng được các kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin để học về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "Mức độ đạt được**": "3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "PO2",
+              "cells": [
+                "PO2",
+                "CLO2.1",
+                "Vận dụng thích hợp các kiến thức cơ bản về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO2",
+                "CLOs": "CLO2.1",
+                "Mô tả CLOs*": "Vận dụng thích hợp các kiến thức cơ bản về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "PO2",
+              "cells": [
+                "PO2",
+                "CLO2.2",
+                "Vận dụng thành thạo kiến thức về đánh giá lỗ hổng bảo mật",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO2",
+                "CLOs": "CLO2.2",
+                "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về đánh giá lỗ hổng bảo mật",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "PO2",
+              "cells": [
+                "PO2",
+                "CLO2.3",
+                "Vận dụng thành thạo kiến thức về triển khai đánh giá lỗ hổng bảo mật",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO2",
+                "CLOs": "CLO2.3",
+                "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về triển khai đánh giá lỗ hổng bảo mật",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "PO2",
+              "cells": [
+                "PO2",
+                "CLO2.4",
+                "Vận dụng thành thạo kiến thức về kiểm thử xâm nhập",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO2",
+                "CLOs": "CLO2.4",
+                "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về kiểm thử xâm nhập",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "PO3",
+              "cells": [
+                "PO3",
+                "CLO3.1",
+                "Thành thạo kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, đánh giá các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO3",
+                "CLOs": "CLO3.1",
+                "Mô tả CLOs*": "Thành thạo kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, đánh giá các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "PO3",
+              "cells": [
+                "PO3",
+                "CLO3.2",
+                "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về đánh giá lỗ hổng bảo mật cho các hệ thống",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO3",
+                "CLOs": "CLO3.2",
+                "Mô tả CLOs*": "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về đánh giá lỗ hổng bảo mật cho các hệ thống",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "PO3",
+              "cells": [
+                "PO3",
+                "CLO3.3",
+                "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về kiểm thử xâm nhập cho các hệ thống",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO3",
+                "CLOs": "CLO3.3",
+                "Mô tả CLOs*": "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về kiểm thử xâm nhập cho các hệ thống",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "PO4",
+              "cells": [
+                "PO4",
+                "CLO4.1",
+                "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO4",
+                "CLOs": "CLO4.1",
+                "Mô tả CLOs*": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "PO4",
+              "cells": [
+                "PO4",
+                "CLO4.2",
+                "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về kiểm thử xâm nhập",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO4",
+                "CLOs": "CLO4.2",
+                "Mô tả CLOs*": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về kiểm thử xâm nhập",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "PO5",
+              "cells": [
+                "PO5",
+                "CLO5.1",
+                "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO5",
+                "CLOs": "CLO5.1",
+                "Mô tả CLOs*": "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "PO5",
+              "cells": [
+                "PO5",
+                "CLO5.2",
+                "Có khả năng giao tiếp, quản lý dự án, sáng tạo, tư duy logic, và kỹ năng tự học và nghiên cứu",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO5",
+                "CLOs": "CLO5.2",
+                "Mô tả CLOs*": "Có khả năng giao tiếp, quản lý dự án, sáng tạo, tư duy logic, và kỹ năng tự học và nghiên cứu",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "PO6",
+              "cells": [
+                "PO6",
+                "CLO6.1",
+                "Thể hiện khả năng tự học tập, tìm hiểu, nghiên cứu tài liệu để hoàn thành các bài học và bài tập được giao",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO6",
+                "CLOs": "CLO6.1",
+                "Mô tả CLOs*": "Thể hiện khả năng tự học tập, tìm hiểu, nghiên cứu tài liệu để hoàn thành các bài học và bài tập được giao",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "PO6",
+              "cells": [
+                "PO6",
+                "CLO6.2",
+                "Thể hiện ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO6",
+                "CLOs": "CLO6.2",
+                "Mô tả CLOs*": "Thể hiện ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 18,
+              "row_label": "PO6",
+              "cells": [
+                "PO6",
+                "CLO6.3",
+                "Thể hiện khả năng học tập, tìm hiểu, nghiên cứu tài liệu và làm việc theo nhóm",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO6",
+                "CLOs": "CLO6.3",
+                "Mô tả CLOs*": "Thể hiện khả năng học tập, tìm hiểu, nghiên cứu tài liệu và làm việc theo nhóm",
+                "Mức độ đạt được**": "5"
+              }
+            },
+            {
+              "row_index": 19,
+              "row_label": "PO6",
+              "cells": [
+                "PO6",
+                "CLO6.4",
+                "Thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học",
+                "5"
+              ],
+              "column_map": {
+                "Mục tiêu": "PO6",
+                "CLOs": "CLO6.4",
+                "Mô tả CLOs*": "Thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học",
+                "Mức độ đạt được**": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Bảng 7.1. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "table",
+          "order": 27,
+          "table_id": "vi-cntt11102#tbl006",
+          "table_name": "Bảng 7.1. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 36,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung/ \nBài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí \nđánh giá*",
+            "Tỷ lệ (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung/ \nBài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí \nđánh giá*": "[5]",
+                "Tỷ lệ (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "- Ý thức, thái độ tham gia học tập của người học trong việc chuẩn bị bài, tham gia thảo luận, xây dựng bài ở trên lớp - Ý thức của người học trong việc chấp hành các nội quy, quy chế, quy định của trường, của lớp học",
+                "Tuần 1-15",
+                "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO6.1 CLO6.2 CLO6.3",
+                "Công cụ đánh giá: - Nhật ký giảng dạy của giảng viên - Câu hỏi trên lớp - Bài tập được giao Tiêu chí đánh giá: - Đi học đúng giờ - Nghiêm túc học tập trên lớp - Mức độ tương tác - Chất lượng câu trả lời, bài làm",
+                "10%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung/ \nBài đánh giá": "- Ý thức, thái độ tham gia học tập của người học trong việc chuẩn bị bài, tham gia thảo luận, xây dựng bài ở trên lớp - Ý thức của người học trong việc chấp hành các nội quy, quy chế, quy định của trường, của lớp học",
+                "Thời điểm": "Tuần 1-15",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO6.1 CLO6.2 CLO6.3",
+                "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: - Nhật ký giảng dạy của giảng viên - Câu hỏi trên lớp - Bài tập được giao Tiêu chí đánh giá: - Đi học đúng giờ - Nghiêm túc học tập trên lớp - Mức độ tương tác - Chất lượng câu trả lời, bài làm",
+                "Tỷ lệ (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra",
+                "Tuần 10",
+                "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+                "Công cụ đánh giá: Đề kiểm tra tự luận Tiêu chí đánh giá: Theo thang điểm chi tiết của Bài kiểm tra tự luận",
+                "40%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/ \nBài đánh giá": "Bài kiểm tra",
+                "Thời điểm": "Tuần 10",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+                "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: Đề kiểm tra tự luận Tiêu chí đánh giá: Theo thang điểm chi tiết của Bài kiểm tra tự luận",
+                "Tỷ lệ (%)": "40%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập lớn",
+                "Tuần 14-15",
+                "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Công cụ đánh giá: Các chủ đề bài tập lớn của môn học Tiêu chí đánh giá: - Nội dung - Hình thức - Thời gian nộp - Mức độ hợp tác",
+                "40%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/ \nBài đánh giá": "Bài tập lớn",
+                "Thời điểm": "Tuần 14-15",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: Các chủ đề bài tập lớn của môn học Tiêu chí đánh giá: - Nội dung - Hình thức - Thời gian nộp - Mức độ hợp tác",
+                "Tỷ lệ (%)": "40%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Bài thi cuối kỳ",
+                "Lịch thi học phần",
+                "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+                "Theo yêu cầu bài thi",
+                "50%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung/ \nBài đánh giá": "Bài thi cuối kỳ",
+                "Thời điểm": "Lịch thi học phần",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+                "Công cụ và tiêu chí \nđánh giá*": "Theo yêu cầu bài thi",
+                "Tỷ lệ (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec008",
+      "title": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+      "level": 1,
+      "label": "ke-hoach-giang-day-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "path_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Bảng 8.1. Kế hoạch giảng dạy",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "table",
+          "order": 29,
+          "table_id": "vi-cntt11102#tbl007",
+          "table_name": "Bảng 8.1. Kế hoạch giảng dạy",
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 40,
+          "column_labels": [
+            "Tuần",
+            "Nội dung giảng dạy*",
+            "Tài liệu đọc**",
+            "CLOs",
+            "Hoạt động dạy và học***",
+            "Công cụ đánh giá****"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung giảng dạy*": "[2]",
+                "Tài liệu đọc**": "[3]",
+                "CLOs": "[4]",
+                "Hoạt động dạy và học***": "[5]",
+                "Công cụ đánh giá****": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1-3",
+              "cells": [
+                "1-3",
+                "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT Chương 1: Tổng quan về an toàn thông tin 1.1. Giới thiệu chung 1.1.1. Hệ thống và tài nguyên thông tin 1.1.2. Các mối đe dọa và hiểm họa 1.1.3. Kẻ xâm nhập 1.1.4. Các loại hình tấn công 1.1.5. Mục tiêu và nguyên tắc chung của an toàn thông tin 1.2. Đánh giá an toàn hệ thống thông tin 1.2.1. Khái niệm 1.2.2. Vai trò của đánh giá an toàn thông tin 1.2.3. Các phương pháp lđánh giá an toàn thông tin 1.2.4. Các kỹ thuật đánh giá 1.3. Kiểm thử xâm nhập 1.3.1. Giới thiệu về kiểm thử xâm nhập 1.3.2. Vai trò của kiểm thử xâm nhập 1.3.3. Các bước chung của kiểm thử xâm nhập 1.3.4. Phân biệt kiểm thử và kiểm tra 1.4. Giới thiệu một số công cụ hỗ trợ đánh giá và kiểm thử xâm nhập",
+                "Đề cương chi tiết [1] Chapter 1 [2] Chương 1 [3] Chapter 1 [4] Chapter 1 [5] Chapter 1 [6] Chapter 1 [7] Chương 1 [8] Chapter 1 [9] Chapter 1 [10] Chapter 1",
+                "CLO2.1 CLO3.1 CLO4.1 CLO5.1 CLO6.1 CLO6.2",
+                "Giảng dạy: - Thống nhất nội quy, quy định, yêu cầu học tập - Thống nhất phương pháp giảng dạy và học tập - Hướng dẫn tìm kiếm tài liệu - Hướng dẫn dọc, nghiên cứu tài liệu. - Giới thiệu học phần - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Thảo luận các tình huống, các vấn đề liên quan đến an toàn bảo mật thông tin, các dạng tấn công an toàn thông tin, các giải pháp an toàn bảo mật thông tin và câu hỏi giảng viên đặt ra",
+                "- Mức độ tham gia - Mức độ tương tác - Chất lượng câu trả lời - Chất lượng thảo luận"
+              ],
+              "column_map": {
+                "Tuần": "1-3",
+                "Nội dung giảng dạy*": "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT Chương 1: Tổng quan về an toàn thông tin 1.1. Giới thiệu chung 1.1.1. Hệ thống và tài nguyên thông tin 1.1.2. Các mối đe dọa và hiểm họa 1.1.3. Kẻ xâm nhập 1.1.4. Các loại hình tấn công 1.1.5. Mục tiêu và nguyên tắc chung của an toàn thông tin 1.2. Đánh giá an toàn hệ thống thông tin 1.2.1. Khái niệm 1.2.2. Vai trò của đánh giá an toàn thông tin 1.2.3. Các phương pháp lđánh giá an toàn thông tin 1.2.4. Các kỹ thuật đánh giá 1.3. Kiểm thử xâm nhập 1.3.1. Giới thiệu về kiểm thử xâm nhập 1.3.2. Vai trò của kiểm thử xâm nhập 1.3.3. Các bước chung của kiểm thử xâm nhập 1.3.4. Phân biệt kiểm thử và kiểm tra 1.4. Giới thiệu một số công cụ hỗ trợ đánh giá và kiểm thử xâm nhập",
+                "Tài liệu đọc**": "Đề cương chi tiết [1] Chapter 1 [2] Chương 1 [3] Chapter 1 [4] Chapter 1 [5] Chapter 1 [6] Chapter 1 [7] Chương 1 [8] Chapter 1 [9] Chapter 1 [10] Chapter 1",
+                "CLOs": "CLO2.1 CLO3.1 CLO4.1 CLO5.1 CLO6.1 CLO6.2",
+                "Hoạt động dạy và học***": "Giảng dạy: - Thống nhất nội quy, quy định, yêu cầu học tập - Thống nhất phương pháp giảng dạy và học tập - Hướng dẫn tìm kiếm tài liệu - Hướng dẫn dọc, nghiên cứu tài liệu. - Giới thiệu học phần - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Thảo luận các tình huống, các vấn đề liên quan đến an toàn bảo mật thông tin, các dạng tấn công an toàn thông tin, các giải pháp an toàn bảo mật thông tin và câu hỏi giảng viên đặt ra",
+                "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Chất lượng câu trả lời - Chất lượng thảo luận"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "4-6",
+              "cells": [
+                "4-6",
+                "Chương 2: Đánh giá lỗ hổng bảo mật 2.1. Giới thiệu chung 2.2. Rà soát hệ thống 2.2.1. Rà soát tài liệu 2.2.2. Rà soát nhật ký 2.2.3. Rà soát tập luật 2.2.4. Rà soát cấu hình hệ thống 2.2.5. Dò quét mạng 2.2.6. Kiểm tra tính toàn vẹn của tệp tin 2.3. Phân tích và xác định mục tiêu 2.3.1. Khám phá mạng 2.3.2. Xác định cổng và dịch vụ mạng 2.3.3. Dò quét lỗ hổng bảo mật 2.3.4. Dò quét mạng không dây 2.3.5. Một số công cụ phân tích và xác định mục tiêu 2.4. Xác định điểm yếu mục tiêu 4.4.1. Bẻ mật khẩu 4.4.2. Kiểm thử xâm nhập 4.4.3. Kỹ nghệ xã hội 4.4.4. Một số công cụ hỗ trợ xác định điểm yếu mục tiêu",
+                "[1] Chapter 2, 3, 4, 5 [2] Chương 2, 3, 4 [3] Chapter 2 [4] Chapter 2 [5] Chapter 2 [8] Chapter 2, 3 [9] Chapter 2",
+                "CLO2.2 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống thực tế",
+                "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              ],
+              "column_map": {
+                "Tuần": "4-6",
+                "Nội dung giảng dạy*": "Chương 2: Đánh giá lỗ hổng bảo mật 2.1. Giới thiệu chung 2.2. Rà soát hệ thống 2.2.1. Rà soát tài liệu 2.2.2. Rà soát nhật ký 2.2.3. Rà soát tập luật 2.2.4. Rà soát cấu hình hệ thống 2.2.5. Dò quét mạng 2.2.6. Kiểm tra tính toàn vẹn của tệp tin 2.3. Phân tích và xác định mục tiêu 2.3.1. Khám phá mạng 2.3.2. Xác định cổng và dịch vụ mạng 2.3.3. Dò quét lỗ hổng bảo mật 2.3.4. Dò quét mạng không dây 2.3.5. Một số công cụ phân tích và xác định mục tiêu 2.4. Xác định điểm yếu mục tiêu 4.4.1. Bẻ mật khẩu 4.4.2. Kiểm thử xâm nhập 4.4.3. Kỹ nghệ xã hội 4.4.4. Một số công cụ hỗ trợ xác định điểm yếu mục tiêu",
+                "Tài liệu đọc**": "[1] Chapter 2, 3, 4, 5 [2] Chương 2, 3, 4 [3] Chapter 2 [4] Chapter 2 [5] Chapter 2 [8] Chapter 2, 3 [9] Chapter 2",
+                "CLOs": "CLO2.2 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống thực tế",
+                "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "7-9",
+              "cells": [
+                "7-9",
+                "Chương 3: Triển khai đánh giá lỗ hổng bảo mật 3.1. Khái quát chung 3.2. Lập kế hoạch đánh giá 3.2.1. Xây dựng chính sách đánh giá 3.2.2. Xác định các ưu tiên 3.2.3. Lựa chọn và xác định kỹ thuật đánh giá 3.2.4. Lựa chọn nhân lực đánh giá 5.2.5. Lựa chọn tài nguyên và công cụ kỹ thuật 3.2.6. Phát triển kế hoạch đánh giá 3.2.7. Xem xét tính pháp lý 3.3. Thực hiện đánh giá 3.3.1. Phối hợp 3.3.2. Đánh giá 3.3.3. Phân tích . 3.3.4. Xử lý dữ liệu 3.4. Các hoạt động sau đánh giá 3.4.1. Tổng hợp thông tin 3.4.2. Lập báo cáo 3.4.3. Khắc phục/Giảm thiểu 3.4.4. Kiểm định an toàn hệ thống thông tin 3.5. Đánh giá lỗ hổng bảo mật các ứng dụng sử dụng các công cụ hỗ trợ",
+                "[1] Chapter 6, 7 [2] Chương 5, 6, 7 [3] Chapter 3 [4] Chapter 3 [5] Chapter 3 [8] Chapter 3 [9] Chapter 3",
+                "CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học - Định hướng các chủ đề thực hiện bài tập lớn môn học cho các nhóm sinh viên Học tập: - Làm bài tập được giao trước khi tới lớp. - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm nhận nhiệm vụ bài tập lớn được giao",
+                "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              ],
+              "column_map": {
+                "Tuần": "7-9",
+                "Nội dung giảng dạy*": "Chương 3: Triển khai đánh giá lỗ hổng bảo mật 3.1. Khái quát chung 3.2. Lập kế hoạch đánh giá 3.2.1. Xây dựng chính sách đánh giá 3.2.2. Xác định các ưu tiên 3.2.3. Lựa chọn và xác định kỹ thuật đánh giá 3.2.4. Lựa chọn nhân lực đánh giá 5.2.5. Lựa chọn tài nguyên và công cụ kỹ thuật 3.2.6. Phát triển kế hoạch đánh giá 3.2.7. Xem xét tính pháp lý 3.3. Thực hiện đánh giá 3.3.1. Phối hợp 3.3.2. Đánh giá 3.3.3. Phân tích . 3.3.4. Xử lý dữ liệu 3.4. Các hoạt động sau đánh giá 3.4.1. Tổng hợp thông tin 3.4.2. Lập báo cáo 3.4.3. Khắc phục/Giảm thiểu 3.4.4. Kiểm định an toàn hệ thống thông tin 3.5. Đánh giá lỗ hổng bảo mật các ứng dụng sử dụng các công cụ hỗ trợ",
+                "Tài liệu đọc**": "[1] Chapter 6, 7 [2] Chương 5, 6, 7 [3] Chapter 3 [4] Chapter 3 [5] Chapter 3 [8] Chapter 3 [9] Chapter 3",
+                "CLOs": "CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học - Định hướng các chủ đề thực hiện bài tập lớn môn học cho các nhóm sinh viên Học tập: - Làm bài tập được giao trước khi tới lớp. - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm nhận nhiệm vụ bài tập lớn được giao",
+                "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "7-9",
+              "cells": [
+                "7-9",
+                "Kiểm tra giữa kỳ (20%) các chương 1, 2, 3",
+                "",
+                "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+                "- Giảng viên giao đề kiểm tra, giám sát sinh viên làm bài kiểm tra - Sinh viên làm bài kiểm tra",
+                "Đề kiểm tra tự luận"
+              ],
+              "column_map": {
+                "Tuần": "7-9",
+                "Nội dung giảng dạy*": "Kiểm tra giữa kỳ (20%) các chương 1, 2, 3",
+                "Tài liệu đọc**": "",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+                "Hoạt động dạy và học***": "- Giảng viên giao đề kiểm tra, giám sát sinh viên làm bài kiểm tra - Sinh viên làm bài kiểm tra",
+                "Công cụ đánh giá****": "Đề kiểm tra tự luận"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "10-13",
+              "cells": [
+                "10-13",
+                "Chương 4: Kiểm thử xâm nhập 4.1. Giới thiệu 4.2. Các dạng kiểm thử xâm nhập 4.2.1. Tấn công vào yếu tố con người 4.2.2. Xâm nhập vật lý 4.2.3. Tấn công từ bên trong 4.2.4. Xâm nhập mạng 4.3. Khai thác lỗ hổng bảo mật 4.3.1. Khai thác lỗ hổng tràn bộ đệm 4.3.2. Khai thác lỗ hổng sử dụng shellcode 4.4. Phân tích lỗ hổng 4.4.1. Phân tích mã nguồn 4.4.2. Phân tích mã chương trình đã dịch 4.4.3. Kỹ thuật Fuzzing 4.4.4. Khai thác khi tìm ra lỗ hổng 4.4.5. Phòng ngừa khai thác lỗ hổng 4.5. Khai thác hệ thống đã xâm nhập 4.6. Kiểm thử xâm nhập các ứng dụng sử dụng các công cụ hỗ trợ Bài tập lớn môn học",
+                "[2] Chương 8 [3] Chapter 4, 5 [4] Chapter 3 [5] Chapter 3 [6] Chapter 2, 3, 4, 5, 6, 7, 8, 11 [8] Chapter 4, 5 [9] Chapter 4",
+                "CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO6.1 CLO6.2 CLO6.3",
+                "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học - Hướng dẫn, trao đổi làm bài tập lớn môn học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm làm bài tập lớn môn học",
+                "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              ],
+              "column_map": {
+                "Tuần": "10-13",
+                "Nội dung giảng dạy*": "Chương 4: Kiểm thử xâm nhập 4.1. Giới thiệu 4.2. Các dạng kiểm thử xâm nhập 4.2.1. Tấn công vào yếu tố con người 4.2.2. Xâm nhập vật lý 4.2.3. Tấn công từ bên trong 4.2.4. Xâm nhập mạng 4.3. Khai thác lỗ hổng bảo mật 4.3.1. Khai thác lỗ hổng tràn bộ đệm 4.3.2. Khai thác lỗ hổng sử dụng shellcode 4.4. Phân tích lỗ hổng 4.4.1. Phân tích mã nguồn 4.4.2. Phân tích mã chương trình đã dịch 4.4.3. Kỹ thuật Fuzzing 4.4.4. Khai thác khi tìm ra lỗ hổng 4.4.5. Phòng ngừa khai thác lỗ hổng 4.5. Khai thác hệ thống đã xâm nhập 4.6. Kiểm thử xâm nhập các ứng dụng sử dụng các công cụ hỗ trợ Bài tập lớn môn học",
+                "Tài liệu đọc**": "[2] Chương 8 [3] Chapter 4, 5 [4] Chapter 3 [5] Chapter 3 [6] Chapter 2, 3, 4, 5, 6, 7, 8, 11 [8] Chapter 4, 5 [9] Chapter 4",
+                "CLOs": "CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO6.1 CLO6.2 CLO6.3",
+                "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học - Hướng dẫn, trao đổi làm bài tập lớn môn học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm làm bài tập lớn môn học",
+                "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "14-15",
+              "cells": [
+                "14-15",
+                "Trình bày bài tập lớn Nộp bài bài tập lớn (20%)",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "- Các nhóm sinh viên báo cáo bài tập lớn và trả lời câu hỏi - Giảng viên và các nhóm trong lớp đặt câu hỏi, nhận xét - Các nhóm sinh viên chỉnh sửa báo cáo theo các ý kiến góp ý và nộp báo cáo - Giảng viên đánh giá - Giảng viên giải đáp các câu hỏi của sinh viên",
+                "Phiếu đánh giá các tiêu chí: - Nội dung - Hình thức - Thời gian trình bày - Mức độ hợp tác"
+              ],
+              "column_map": {
+                "Tuần": "14-15",
+                "Nội dung giảng dạy*": "Trình bày bài tập lớn Nộp bài bài tập lớn (20%)",
+                "Tài liệu đọc**": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+                "Hoạt động dạy và học***": "- Các nhóm sinh viên báo cáo bài tập lớn và trả lời câu hỏi - Giảng viên và các nhóm trong lớp đặt câu hỏi, nhận xét - Các nhóm sinh viên chỉnh sửa báo cáo theo các ý kiến góp ý và nộp báo cáo - Giảng viên đánh giá - Giảng viên giải đáp các câu hỏi của sinh viên",
+                "Công cụ đánh giá****": "Phiếu đánh giá các tiêu chí: - Nội dung - Hình thức - Thời gian trình bày - Mức độ hợp tác"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Bài thi cuối kỳ",
+              "cells": [
+                "",
+                "Bài thi cuối kỳ",
+                "",
+                "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+                "Sinh viên làm bài thi theo lịch thi của nhà trường",
+                "Theo yêu cầu bài thi cuối học kỳ"
+              ],
+              "column_map": {
+                "Tuần": "",
+                "Nội dung giảng dạy*": "Bài thi cuối kỳ",
+                "Tài liệu đọc**": "",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+                "Hoạt động dạy và học***": "Sinh viên làm bài thi theo lịch thi của nhà trường",
+                "Công cụ đánh giá****": "Theo yêu cầu bài thi cuối học kỳ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec009",
+      "title": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt11102#sec010",
+      "title": "9.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần (50%) nếu có điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).",
+          "is_list": false,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 44
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec011",
+      "title": "9.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Sinh viên/học viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học do lý do bất khả kháng thì phải có giấy tờ chứng minh đầy đủ và hợp lý. Mỗi buổi vắng mặt sẽ bị trừ 1 điểm chuyên cần. Sinh viên vắng quá 3 buổi học dù có lý do hay không có lý do đều bị coi như không hoàn thành khóa học và phải đăng ký học lại.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Sinh viên được xem xét cộng điểm vào điểm chuyên cần, điểm kiểm tra cho việc tích cực xây dựng bài trong các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 47
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt11102#sec012",
+      "title": "9.3. Quy định về hành vi lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-lop-hoc",
+      "path_titles": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Sinh viên phải đi học đúng giờ quy định. Sinh viên đi trễ quá 10 phút sau khi giờ học bắt đầu sẽ không được tham dự buổi học.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Không được làm việc riêng trong giờ học. Tuyệt đối không được sử dụng các thiết bị công nghệ thông tin, truyền thông vào việc riêng trong giờ học.",
+          "is_list": true,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "vi-cntt11102#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "9.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "PHỤ TRÁCH KHOA",
+            "Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. PHẠM XUÂN LÂM",
+              "cells": [
+                "TS. PHẠM XUÂN LÂM",
+                "PGS.TS PHẠM HỒNG CHƯƠNG"
+              ],
+              "column_map": {
+                "PHỤ TRÁCH KHOA": "TS. PHẠM XUÂN LÂM",
+                "Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG": "PGS.TS PHẠM HỒNG CHƯƠNG"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt11102#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "vi-cntt11102#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "source_block": 6,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Việt):",
+          "cells": [
+            "- Tên học phần (tiếng Việt):",
+            "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Tên học phần (tiếng Anh)",
+          "cells": [
+            "- Tên học phần (tiếng Anh)",
+            "Vulnerability Assessment and Penetration Testing"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Mã số học phần",
+          "cells": [
+            "- Mã số học phần",
+            "CNTT11102"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Thuộc khối kiến thức",
+          "cells": [
+            "- Thuộc khối kiến thức",
+            "Các học phần tự chọn"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Số tín chỉ",
+          "cells": [
+            "- Số tín chỉ",
+            "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số tiết lý thuyết",
+          "cells": [
+            "+ Số tiết lý thuyết",
+            "30"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 6,
+          "row_label": "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+          "cells": [
+            "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+            "15 90"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 7,
+          "row_label": "- Các học phần tiên quyết:",
+          "cells": [
+            "- Các học phần tiên quyết:",
+            "CNTT1168, CNTT1114"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "table_id": "vi-cntt11102#tbl003",
+      "table_name": "Giảng viên:",
+      "section_path": [
+        "2. THÔNG TIN BỘ MÔN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "thong-tin-bo-mon-quan-ly-va-giang-vien-giang-day"
+      ],
+      "source_block": 11,
+      "column_labels": [
+        "TS. Lưu Minh Tuấn",
+        "0904143460",
+        "tuanlm@neu.edu.vn"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "ThS. Phạm Thảo",
+          "cells": [
+            "ThS. Phạm Thảo",
+            "0966986689",
+            "thaop@neu.edu.vn"
+          ],
+          "column_map": {
+            "TS. Lưu Minh Tuấn": "ThS. Phạm Thảo",
+            "0904143460": "0966986689",
+            "tuanlm@neu.edu.vn": "thaop@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 23,
+      "table_id": "vi-cntt11102#tbl004",
+      "table_name": "Bảng 5.1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 30,
+      "column_labels": [
+        "TT",
+        "Mô tả mục tiêu học phần",
+        "CĐR (PLO) của CTĐT",
+        "Mức độ"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "TT": "[1]",
+            "Mô tả mục tiêu học phần": "[2]",
+            "CĐR (PLO) của CTĐT": "[3]",
+            "Mức độ": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "PO1",
+          "cells": [
+            "PO1",
+            "Vận dụng được kiến thức cơ bản về chính trị, xã hội, pháp luật, khoa học tự nhiên và Công nghệ thông tin vào giải quyết các vấn đề thực tiễn trong quá trình phát triển kinh tế-xã hội",
+            "PLO1.1, PLO1.2",
+            "3, 3"
+          ],
+          "column_map": {
+            "TT": "PO1",
+            "Mô tả mục tiêu học phần": "Vận dụng được kiến thức cơ bản về chính trị, xã hội, pháp luật, khoa học tự nhiên và Công nghệ thông tin vào giải quyết các vấn đề thực tiễn trong quá trình phát triển kinh tế-xã hội",
+            "CĐR (PLO) của CTĐT": "PLO1.1, PLO1.2",
+            "Mức độ": "3, 3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "PO2",
+          "cells": [
+            "PO2",
+            "Vận dụng được các kiến thức cơ bản và chuyên sâu về đánh giá lỗ hổng bảo mật và kểm thử xâm nhập, đó là tổng quan về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập; đánh giá lỗ hổng bảo mật; triển khai đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "PLO1.5",
+            "5"
+          ],
+          "column_map": {
+            "TT": "PO2",
+            "Mô tả mục tiêu học phần": "Vận dụng được các kiến thức cơ bản và chuyên sâu về đánh giá lỗ hổng bảo mật và kểm thử xâm nhập, đó là tổng quan về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập; đánh giá lỗ hổng bảo mật; triển khai đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "CĐR (PLO) của CTĐT": "PLO1.5",
+            "Mức độ": "5"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "PO3",
+          "cells": [
+            "PO3",
+            "Thành thạo các kỹ năng về đánh giá lỗ hổng bảo mật, kiểm thử xâm nhập để giải quyết các vấn đề trong thực tiễn của các tổ chức, cơ quan và doanh nghiệp",
+            "PLO1.3, PLO1.4",
+            "4, 4"
+          ],
+          "column_map": {
+            "TT": "PO3",
+            "Mô tả mục tiêu học phần": "Thành thạo các kỹ năng về đánh giá lỗ hổng bảo mật, kiểm thử xâm nhập để giải quyết các vấn đề trong thực tiễn của các tổ chức, cơ quan và doanh nghiệp",
+            "CĐR (PLO) của CTĐT": "PLO1.3, PLO1.4",
+            "Mức độ": "4, 4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "PO4",
+          "cells": [
+            "PO4",
+            "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong các tổ chức, cơ quan và doanh nghiệp",
+            "PLO2.2, PLO2.3",
+            "4"
+          ],
+          "column_map": {
+            "TT": "PO4",
+            "Mô tả mục tiêu học phần": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong các tổ chức, cơ quan và doanh nghiệp",
+            "CĐR (PLO) của CTĐT": "PLO2.2, PLO2.3",
+            "Mức độ": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "PO5",
+          "cells": [
+            "PO5",
+            "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+            "PLO2.1",
+            "4"
+          ],
+          "column_map": {
+            "TT": "PO5",
+            "Mô tả mục tiêu học phần": "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+            "CĐR (PLO) của CTĐT": "PLO2.1",
+            "Mức độ": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "PO6",
+          "cells": [
+            "PO6",
+            "Thể hiện khả năng làm việc độc lập và làm việc theo nhóm, thể hiện quan điểm và bảo vệ quan điểm cá nhân, hiểu và thực hiện đúng đắn trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+            "PLO3.1, PLO3.2, PLO3.3 PLO3.4",
+            "5, 5, 5, 4"
+          ],
+          "column_map": {
+            "TT": "PO6",
+            "Mô tả mục tiêu học phần": "Thể hiện khả năng làm việc độc lập và làm việc theo nhóm, thể hiện quan điểm và bảo vệ quan điểm cá nhân, hiểu và thực hiện đúng đắn trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+            "CĐR (PLO) của CTĐT": "PLO3.1, PLO3.2, PLO3.3 PLO3.4",
+            "Mức độ": "5, 5, 5, 4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 25,
+      "table_id": "vi-cntt11102#tbl005",
+      "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 33,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOs",
+        "Mô tả CLOs*",
+        "Mức độ đạt được**"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOs": "[2]",
+            "Mô tả CLOs*": "[3]",
+            "Mức độ đạt được**": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "PO1",
+          "cells": [
+            "PO1",
+            "CLO1.1",
+            "Vận dụng được thế giới quan, nhân sinh quan, phương pháp luận của Chủ nghĩa Mác-Lênin và của Đảng Cộng sản Việt Nam vào học tập, nghiên cứu, vào đời sống thực tiễn trong quá trình phát triển nền kinh tế thị trường định hướng XHCN.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO1",
+            "CLOs": "CLO1.1",
+            "Mô tả CLOs*": "Vận dụng được thế giới quan, nhân sinh quan, phương pháp luận của Chủ nghĩa Mác-Lênin và của Đảng Cộng sản Việt Nam vào học tập, nghiên cứu, vào đời sống thực tiễn trong quá trình phát triển nền kinh tế thị trường định hướng XHCN.",
+            "Mức độ đạt được**": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "PO1",
+          "cells": [
+            "PO1",
+            "CLO1.2",
+            "Vận dụng được kiến thức cơ bản về pháp luật, kinh tế, quản trị kinh doanh, quản lý vào giải quyết các vấn đề kinh tế-xã hội ở tầm vĩ mô, ngành và doanh nghiệp.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO1",
+            "CLOs": "CLO1.2",
+            "Mô tả CLOs*": "Vận dụng được kiến thức cơ bản về pháp luật, kinh tế, quản trị kinh doanh, quản lý vào giải quyết các vấn đề kinh tế-xã hội ở tầm vĩ mô, ngành và doanh nghiệp.",
+            "Mức độ đạt được**": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "PO1",
+          "cells": [
+            "PO1",
+            "CLO1.3",
+            "Vận dụng được lý thuyết toán học và các kiến thức khoa học tự nhiên để học về lĩnh vực Máy tính và Công nghệ thông tin",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO1",
+            "CLOs": "CLO1.3",
+            "Mô tả CLOs*": "Vận dụng được lý thuyết toán học và các kiến thức khoa học tự nhiên để học về lĩnh vực Máy tính và Công nghệ thông tin",
+            "Mức độ đạt được**": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "PO1",
+          "cells": [
+            "PO1",
+            "CLO1.4",
+            "Vận dụng được các kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin để học về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO1",
+            "CLOs": "CLO1.4",
+            "Mô tả CLOs*": "Vận dụng được các kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin để học về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "Mức độ đạt được**": "3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "PO2",
+          "cells": [
+            "PO2",
+            "CLO2.1",
+            "Vận dụng thích hợp các kiến thức cơ bản về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO2",
+            "CLOs": "CLO2.1",
+            "Mô tả CLOs*": "Vận dụng thích hợp các kiến thức cơ bản về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "PO2",
+          "cells": [
+            "PO2",
+            "CLO2.2",
+            "Vận dụng thành thạo kiến thức về đánh giá lỗ hổng bảo mật",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO2",
+            "CLOs": "CLO2.2",
+            "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về đánh giá lỗ hổng bảo mật",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "PO2",
+          "cells": [
+            "PO2",
+            "CLO2.3",
+            "Vận dụng thành thạo kiến thức về triển khai đánh giá lỗ hổng bảo mật",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO2",
+            "CLOs": "CLO2.3",
+            "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về triển khai đánh giá lỗ hổng bảo mật",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "PO2",
+          "cells": [
+            "PO2",
+            "CLO2.4",
+            "Vận dụng thành thạo kiến thức về kiểm thử xâm nhập",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO2",
+            "CLOs": "CLO2.4",
+            "Mô tả CLOs*": "Vận dụng thành thạo kiến thức về kiểm thử xâm nhập",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "PO3",
+          "cells": [
+            "PO3",
+            "CLO3.1",
+            "Thành thạo kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, đánh giá các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO3",
+            "CLOs": "CLO3.1",
+            "Mô tả CLOs*": "Thành thạo kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, đánh giá các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "PO3",
+          "cells": [
+            "PO3",
+            "CLO3.2",
+            "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về đánh giá lỗ hổng bảo mật cho các hệ thống",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO3",
+            "CLOs": "CLO3.2",
+            "Mô tả CLOs*": "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về đánh giá lỗ hổng bảo mật cho các hệ thống",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "PO3",
+          "cells": [
+            "PO3",
+            "CLO3.3",
+            "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về kiểm thử xâm nhập cho các hệ thống",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO3",
+            "CLOs": "CLO3.3",
+            "Mô tả CLOs*": "Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về kiểm thử xâm nhập cho các hệ thống",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "PO4",
+          "cells": [
+            "PO4",
+            "CLO4.1",
+            "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO4",
+            "CLOs": "CLO4.1",
+            "Mô tả CLOs*": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "PO4",
+          "cells": [
+            "PO4",
+            "CLO4.2",
+            "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về kiểm thử xâm nhập",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO4",
+            "CLOs": "CLO4.2",
+            "Mô tả CLOs*": "Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về kiểm thử xâm nhập",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "PO5",
+          "cells": [
+            "PO5",
+            "CLO5.1",
+            "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO5",
+            "CLOs": "CLO5.1",
+            "Mô tả CLOs*": "Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "PO5",
+          "cells": [
+            "PO5",
+            "CLO5.2",
+            "Có khả năng giao tiếp, quản lý dự án, sáng tạo, tư duy logic, và kỹ năng tự học và nghiên cứu",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO5",
+            "CLOs": "CLO5.2",
+            "Mô tả CLOs*": "Có khả năng giao tiếp, quản lý dự án, sáng tạo, tư duy logic, và kỹ năng tự học và nghiên cứu",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "PO6",
+          "cells": [
+            "PO6",
+            "CLO6.1",
+            "Thể hiện khả năng tự học tập, tìm hiểu, nghiên cứu tài liệu để hoàn thành các bài học và bài tập được giao",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO6",
+            "CLOs": "CLO6.1",
+            "Mô tả CLOs*": "Thể hiện khả năng tự học tập, tìm hiểu, nghiên cứu tài liệu để hoàn thành các bài học và bài tập được giao",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "PO6",
+          "cells": [
+            "PO6",
+            "CLO6.2",
+            "Thể hiện ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO6",
+            "CLOs": "CLO6.2",
+            "Mô tả CLOs*": "Thể hiện ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 18,
+          "row_label": "PO6",
+          "cells": [
+            "PO6",
+            "CLO6.3",
+            "Thể hiện khả năng học tập, tìm hiểu, nghiên cứu tài liệu và làm việc theo nhóm",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO6",
+            "CLOs": "CLO6.3",
+            "Mô tả CLOs*": "Thể hiện khả năng học tập, tìm hiểu, nghiên cứu tài liệu và làm việc theo nhóm",
+            "Mức độ đạt được**": "5"
+          }
+        },
+        {
+          "row_index": 19,
+          "row_label": "PO6",
+          "cells": [
+            "PO6",
+            "CLO6.4",
+            "Thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học",
+            "5"
+          ],
+          "column_map": {
+            "Mục tiêu": "PO6",
+            "CLOs": "CLO6.4",
+            "Mô tả CLOs*": "Thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học",
+            "Mức độ đạt được**": "5"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 27,
+      "table_id": "vi-cntt11102#tbl006",
+      "table_name": "Bảng 7.1. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "source_block": 36,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/ \nBài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí \nđánh giá*",
+        "Tỷ lệ (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung/ \nBài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí \nđánh giá*": "[5]",
+            "Tỷ lệ (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "- Ý thức, thái độ tham gia học tập của người học trong việc chuẩn bị bài, tham gia thảo luận, xây dựng bài ở trên lớp - Ý thức của người học trong việc chấp hành các nội quy, quy chế, quy định của trường, của lớp học",
+            "Tuần 1-15",
+            "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO6.1 CLO6.2 CLO6.3",
+            "Công cụ đánh giá: - Nhật ký giảng dạy của giảng viên - Câu hỏi trên lớp - Bài tập được giao Tiêu chí đánh giá: - Đi học đúng giờ - Nghiêm túc học tập trên lớp - Mức độ tương tác - Chất lượng câu trả lời, bài làm",
+            "10%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung/ \nBài đánh giá": "- Ý thức, thái độ tham gia học tập của người học trong việc chuẩn bị bài, tham gia thảo luận, xây dựng bài ở trên lớp - Ý thức của người học trong việc chấp hành các nội quy, quy chế, quy định của trường, của lớp học",
+            "Thời điểm": "Tuần 1-15",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO6.1 CLO6.2 CLO6.3",
+            "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: - Nhật ký giảng dạy của giảng viên - Câu hỏi trên lớp - Bài tập được giao Tiêu chí đánh giá: - Đi học đúng giờ - Nghiêm túc học tập trên lớp - Mức độ tương tác - Chất lượng câu trả lời, bài làm",
+            "Tỷ lệ (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra",
+            "Tuần 10",
+            "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+            "Công cụ đánh giá: Đề kiểm tra tự luận Tiêu chí đánh giá: Theo thang điểm chi tiết của Bài kiểm tra tự luận",
+            "40%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/ \nBài đánh giá": "Bài kiểm tra",
+            "Thời điểm": "Tuần 10",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+            "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: Đề kiểm tra tự luận Tiêu chí đánh giá: Theo thang điểm chi tiết của Bài kiểm tra tự luận",
+            "Tỷ lệ (%)": "40%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập lớn",
+            "Tuần 14-15",
+            "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Công cụ đánh giá: Các chủ đề bài tập lớn của môn học Tiêu chí đánh giá: - Nội dung - Hình thức - Thời gian nộp - Mức độ hợp tác",
+            "40%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/ \nBài đánh giá": "Bài tập lớn",
+            "Thời điểm": "Tuần 14-15",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Công cụ và tiêu chí \nđánh giá*": "Công cụ đánh giá: Các chủ đề bài tập lớn của môn học Tiêu chí đánh giá: - Nội dung - Hình thức - Thời gian nộp - Mức độ hợp tác",
+            "Tỷ lệ (%)": "40%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Bài thi cuối kỳ",
+            "Lịch thi học phần",
+            "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+            "Theo yêu cầu bài thi",
+            "50%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung/ \nBài đánh giá": "Bài thi cuối kỳ",
+            "Thời điểm": "Lịch thi học phần",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+            "Công cụ và tiêu chí \nđánh giá*": "Theo yêu cầu bài thi",
+            "Tỷ lệ (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 29,
+      "table_id": "vi-cntt11102#tbl007",
+      "table_name": "Bảng 8.1. Kế hoạch giảng dạy",
+      "section_path": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "section_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "source_block": 40,
+      "column_labels": [
+        "Tuần",
+        "Nội dung giảng dạy*",
+        "Tài liệu đọc**",
+        "CLOs",
+        "Hoạt động dạy và học***",
+        "Công cụ đánh giá****"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung giảng dạy*": "[2]",
+            "Tài liệu đọc**": "[3]",
+            "CLOs": "[4]",
+            "Hoạt động dạy và học***": "[5]",
+            "Công cụ đánh giá****": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1-3",
+          "cells": [
+            "1-3",
+            "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT Chương 1: Tổng quan về an toàn thông tin 1.1. Giới thiệu chung 1.1.1. Hệ thống và tài nguyên thông tin 1.1.2. Các mối đe dọa và hiểm họa 1.1.3. Kẻ xâm nhập 1.1.4. Các loại hình tấn công 1.1.5. Mục tiêu và nguyên tắc chung của an toàn thông tin 1.2. Đánh giá an toàn hệ thống thông tin 1.2.1. Khái niệm 1.2.2. Vai trò của đánh giá an toàn thông tin 1.2.3. Các phương pháp lđánh giá an toàn thông tin 1.2.4. Các kỹ thuật đánh giá 1.3. Kiểm thử xâm nhập 1.3.1. Giới thiệu về kiểm thử xâm nhập 1.3.2. Vai trò của kiểm thử xâm nhập 1.3.3. Các bước chung của kiểm thử xâm nhập 1.3.4. Phân biệt kiểm thử và kiểm tra 1.4. Giới thiệu một số công cụ hỗ trợ đánh giá và kiểm thử xâm nhập",
+            "Đề cương chi tiết [1] Chapter 1 [2] Chương 1 [3] Chapter 1 [4] Chapter 1 [5] Chapter 1 [6] Chapter 1 [7] Chương 1 [8] Chapter 1 [9] Chapter 1 [10] Chapter 1",
+            "CLO2.1 CLO3.1 CLO4.1 CLO5.1 CLO6.1 CLO6.2",
+            "Giảng dạy: - Thống nhất nội quy, quy định, yêu cầu học tập - Thống nhất phương pháp giảng dạy và học tập - Hướng dẫn tìm kiếm tài liệu - Hướng dẫn dọc, nghiên cứu tài liệu. - Giới thiệu học phần - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Thảo luận các tình huống, các vấn đề liên quan đến an toàn bảo mật thông tin, các dạng tấn công an toàn thông tin, các giải pháp an toàn bảo mật thông tin và câu hỏi giảng viên đặt ra",
+            "- Mức độ tham gia - Mức độ tương tác - Chất lượng câu trả lời - Chất lượng thảo luận"
+          ],
+          "column_map": {
+            "Tuần": "1-3",
+            "Nội dung giảng dạy*": "Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT Chương 1: Tổng quan về an toàn thông tin 1.1. Giới thiệu chung 1.1.1. Hệ thống và tài nguyên thông tin 1.1.2. Các mối đe dọa và hiểm họa 1.1.3. Kẻ xâm nhập 1.1.4. Các loại hình tấn công 1.1.5. Mục tiêu và nguyên tắc chung của an toàn thông tin 1.2. Đánh giá an toàn hệ thống thông tin 1.2.1. Khái niệm 1.2.2. Vai trò của đánh giá an toàn thông tin 1.2.3. Các phương pháp lđánh giá an toàn thông tin 1.2.4. Các kỹ thuật đánh giá 1.3. Kiểm thử xâm nhập 1.3.1. Giới thiệu về kiểm thử xâm nhập 1.3.2. Vai trò của kiểm thử xâm nhập 1.3.3. Các bước chung của kiểm thử xâm nhập 1.3.4. Phân biệt kiểm thử và kiểm tra 1.4. Giới thiệu một số công cụ hỗ trợ đánh giá và kiểm thử xâm nhập",
+            "Tài liệu đọc**": "Đề cương chi tiết [1] Chapter 1 [2] Chương 1 [3] Chapter 1 [4] Chapter 1 [5] Chapter 1 [6] Chapter 1 [7] Chương 1 [8] Chapter 1 [9] Chapter 1 [10] Chapter 1",
+            "CLOs": "CLO2.1 CLO3.1 CLO4.1 CLO5.1 CLO6.1 CLO6.2",
+            "Hoạt động dạy và học***": "Giảng dạy: - Thống nhất nội quy, quy định, yêu cầu học tập - Thống nhất phương pháp giảng dạy và học tập - Hướng dẫn tìm kiếm tài liệu - Hướng dẫn dọc, nghiên cứu tài liệu. - Giới thiệu học phần - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Thảo luận các tình huống, các vấn đề liên quan đến an toàn bảo mật thông tin, các dạng tấn công an toàn thông tin, các giải pháp an toàn bảo mật thông tin và câu hỏi giảng viên đặt ra",
+            "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Chất lượng câu trả lời - Chất lượng thảo luận"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "4-6",
+          "cells": [
+            "4-6",
+            "Chương 2: Đánh giá lỗ hổng bảo mật 2.1. Giới thiệu chung 2.2. Rà soát hệ thống 2.2.1. Rà soát tài liệu 2.2.2. Rà soát nhật ký 2.2.3. Rà soát tập luật 2.2.4. Rà soát cấu hình hệ thống 2.2.5. Dò quét mạng 2.2.6. Kiểm tra tính toàn vẹn của tệp tin 2.3. Phân tích và xác định mục tiêu 2.3.1. Khám phá mạng 2.3.2. Xác định cổng và dịch vụ mạng 2.3.3. Dò quét lỗ hổng bảo mật 2.3.4. Dò quét mạng không dây 2.3.5. Một số công cụ phân tích và xác định mục tiêu 2.4. Xác định điểm yếu mục tiêu 4.4.1. Bẻ mật khẩu 4.4.2. Kiểm thử xâm nhập 4.4.3. Kỹ nghệ xã hội 4.4.4. Một số công cụ hỗ trợ xác định điểm yếu mục tiêu",
+            "[1] Chapter 2, 3, 4, 5 [2] Chương 2, 3, 4 [3] Chapter 2 [4] Chapter 2 [5] Chapter 2 [8] Chapter 2, 3 [9] Chapter 2",
+            "CLO2.2 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống thực tế",
+            "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          ],
+          "column_map": {
+            "Tuần": "4-6",
+            "Nội dung giảng dạy*": "Chương 2: Đánh giá lỗ hổng bảo mật 2.1. Giới thiệu chung 2.2. Rà soát hệ thống 2.2.1. Rà soát tài liệu 2.2.2. Rà soát nhật ký 2.2.3. Rà soát tập luật 2.2.4. Rà soát cấu hình hệ thống 2.2.5. Dò quét mạng 2.2.6. Kiểm tra tính toàn vẹn của tệp tin 2.3. Phân tích và xác định mục tiêu 2.3.1. Khám phá mạng 2.3.2. Xác định cổng và dịch vụ mạng 2.3.3. Dò quét lỗ hổng bảo mật 2.3.4. Dò quét mạng không dây 2.3.5. Một số công cụ phân tích và xác định mục tiêu 2.4. Xác định điểm yếu mục tiêu 4.4.1. Bẻ mật khẩu 4.4.2. Kiểm thử xâm nhập 4.4.3. Kỹ nghệ xã hội 4.4.4. Một số công cụ hỗ trợ xác định điểm yếu mục tiêu",
+            "Tài liệu đọc**": "[1] Chapter 2, 3, 4, 5 [2] Chương 2, 3, 4 [3] Chapter 2 [4] Chapter 2 [5] Chapter 2 [8] Chapter 2, 3 [9] Chapter 2",
+            "CLOs": "CLO2.2 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống thực tế",
+            "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "7-9",
+          "cells": [
+            "7-9",
+            "Chương 3: Triển khai đánh giá lỗ hổng bảo mật 3.1. Khái quát chung 3.2. Lập kế hoạch đánh giá 3.2.1. Xây dựng chính sách đánh giá 3.2.2. Xác định các ưu tiên 3.2.3. Lựa chọn và xác định kỹ thuật đánh giá 3.2.4. Lựa chọn nhân lực đánh giá 5.2.5. Lựa chọn tài nguyên và công cụ kỹ thuật 3.2.6. Phát triển kế hoạch đánh giá 3.2.7. Xem xét tính pháp lý 3.3. Thực hiện đánh giá 3.3.1. Phối hợp 3.3.2. Đánh giá 3.3.3. Phân tích . 3.3.4. Xử lý dữ liệu 3.4. Các hoạt động sau đánh giá 3.4.1. Tổng hợp thông tin 3.4.2. Lập báo cáo 3.4.3. Khắc phục/Giảm thiểu 3.4.4. Kiểm định an toàn hệ thống thông tin 3.5. Đánh giá lỗ hổng bảo mật các ứng dụng sử dụng các công cụ hỗ trợ",
+            "[1] Chapter 6, 7 [2] Chương 5, 6, 7 [3] Chapter 3 [4] Chapter 3 [5] Chapter 3 [8] Chapter 3 [9] Chapter 3",
+            "CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học - Định hướng các chủ đề thực hiện bài tập lớn môn học cho các nhóm sinh viên Học tập: - Làm bài tập được giao trước khi tới lớp. - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm nhận nhiệm vụ bài tập lớn được giao",
+            "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          ],
+          "column_map": {
+            "Tuần": "7-9",
+            "Nội dung giảng dạy*": "Chương 3: Triển khai đánh giá lỗ hổng bảo mật 3.1. Khái quát chung 3.2. Lập kế hoạch đánh giá 3.2.1. Xây dựng chính sách đánh giá 3.2.2. Xác định các ưu tiên 3.2.3. Lựa chọn và xác định kỹ thuật đánh giá 3.2.4. Lựa chọn nhân lực đánh giá 5.2.5. Lựa chọn tài nguyên và công cụ kỹ thuật 3.2.6. Phát triển kế hoạch đánh giá 3.2.7. Xem xét tính pháp lý 3.3. Thực hiện đánh giá 3.3.1. Phối hợp 3.3.2. Đánh giá 3.3.3. Phân tích . 3.3.4. Xử lý dữ liệu 3.4. Các hoạt động sau đánh giá 3.4.1. Tổng hợp thông tin 3.4.2. Lập báo cáo 3.4.3. Khắc phục/Giảm thiểu 3.4.4. Kiểm định an toàn hệ thống thông tin 3.5. Đánh giá lỗ hổng bảo mật các ứng dụng sử dụng các công cụ hỗ trợ",
+            "Tài liệu đọc**": "[1] Chapter 6, 7 [2] Chương 5, 6, 7 [3] Chapter 3 [4] Chapter 3 [5] Chapter 3 [8] Chapter 3 [9] Chapter 3",
+            "CLOs": "CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học - Định hướng các chủ đề thực hiện bài tập lớn môn học cho các nhóm sinh viên Học tập: - Làm bài tập được giao trước khi tới lớp. - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm nhận nhiệm vụ bài tập lớn được giao",
+            "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "7-9",
+          "cells": [
+            "7-9",
+            "Kiểm tra giữa kỳ (20%) các chương 1, 2, 3",
+            "",
+            "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+            "- Giảng viên giao đề kiểm tra, giám sát sinh viên làm bài kiểm tra - Sinh viên làm bài kiểm tra",
+            "Đề kiểm tra tự luận"
+          ],
+          "column_map": {
+            "Tuần": "7-9",
+            "Nội dung giảng dạy*": "Kiểm tra giữa kỳ (20%) các chương 1, 2, 3",
+            "Tài liệu đọc**": "",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2",
+            "Hoạt động dạy và học***": "- Giảng viên giao đề kiểm tra, giám sát sinh viên làm bài kiểm tra - Sinh viên làm bài kiểm tra",
+            "Công cụ đánh giá****": "Đề kiểm tra tự luận"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "10-13",
+          "cells": [
+            "10-13",
+            "Chương 4: Kiểm thử xâm nhập 4.1. Giới thiệu 4.2. Các dạng kiểm thử xâm nhập 4.2.1. Tấn công vào yếu tố con người 4.2.2. Xâm nhập vật lý 4.2.3. Tấn công từ bên trong 4.2.4. Xâm nhập mạng 4.3. Khai thác lỗ hổng bảo mật 4.3.1. Khai thác lỗ hổng tràn bộ đệm 4.3.2. Khai thác lỗ hổng sử dụng shellcode 4.4. Phân tích lỗ hổng 4.4.1. Phân tích mã nguồn 4.4.2. Phân tích mã chương trình đã dịch 4.4.3. Kỹ thuật Fuzzing 4.4.4. Khai thác khi tìm ra lỗ hổng 4.4.5. Phòng ngừa khai thác lỗ hổng 4.5. Khai thác hệ thống đã xâm nhập 4.6. Kiểm thử xâm nhập các ứng dụng sử dụng các công cụ hỗ trợ Bài tập lớn môn học",
+            "[2] Chương 8 [3] Chapter 4, 5 [4] Chapter 3 [5] Chapter 3 [6] Chapter 2, 3, 4, 5, 6, 7, 8, 11 [8] Chapter 4, 5 [9] Chapter 4",
+            "CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO6.1 CLO6.2 CLO6.3",
+            "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học - Hướng dẫn, trao đổi làm bài tập lớn môn học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm làm bài tập lớn môn học",
+            "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          ],
+          "column_map": {
+            "Tuần": "10-13",
+            "Nội dung giảng dạy*": "Chương 4: Kiểm thử xâm nhập 4.1. Giới thiệu 4.2. Các dạng kiểm thử xâm nhập 4.2.1. Tấn công vào yếu tố con người 4.2.2. Xâm nhập vật lý 4.2.3. Tấn công từ bên trong 4.2.4. Xâm nhập mạng 4.3. Khai thác lỗ hổng bảo mật 4.3.1. Khai thác lỗ hổng tràn bộ đệm 4.3.2. Khai thác lỗ hổng sử dụng shellcode 4.4. Phân tích lỗ hổng 4.4.1. Phân tích mã nguồn 4.4.2. Phân tích mã chương trình đã dịch 4.4.3. Kỹ thuật Fuzzing 4.4.4. Khai thác khi tìm ra lỗ hổng 4.4.5. Phòng ngừa khai thác lỗ hổng 4.5. Khai thác hệ thống đã xâm nhập 4.6. Kiểm thử xâm nhập các ứng dụng sử dụng các công cụ hỗ trợ Bài tập lớn môn học",
+            "Tài liệu đọc**": "[2] Chương 8 [3] Chapter 4, 5 [4] Chapter 3 [5] Chapter 3 [6] Chapter 2, 3, 4, 5, 6, 7, 8, 11 [8] Chapter 4, 5 [9] Chapter 4",
+            "CLOs": "CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO6.1 CLO6.2 CLO6.3",
+            "Hoạt động dạy và học***": "Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học - Hướng dẫn, trao đổi làm bài tập lớn môn học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm làm bài tập lớn môn học",
+            "Công cụ đánh giá****": "- Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "14-15",
+          "cells": [
+            "14-15",
+            "Trình bày bài tập lớn Nộp bài bài tập lớn (20%)",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "- Các nhóm sinh viên báo cáo bài tập lớn và trả lời câu hỏi - Giảng viên và các nhóm trong lớp đặt câu hỏi, nhận xét - Các nhóm sinh viên chỉnh sửa báo cáo theo các ý kiến góp ý và nộp báo cáo - Giảng viên đánh giá - Giảng viên giải đáp các câu hỏi của sinh viên",
+            "Phiếu đánh giá các tiêu chí: - Nội dung - Hình thức - Thời gian trình bày - Mức độ hợp tác"
+          ],
+          "column_map": {
+            "Tuần": "14-15",
+            "Nội dung giảng dạy*": "Trình bày bài tập lớn Nộp bài bài tập lớn (20%)",
+            "Tài liệu đọc**": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4",
+            "Hoạt động dạy và học***": "- Các nhóm sinh viên báo cáo bài tập lớn và trả lời câu hỏi - Giảng viên và các nhóm trong lớp đặt câu hỏi, nhận xét - Các nhóm sinh viên chỉnh sửa báo cáo theo các ý kiến góp ý và nộp báo cáo - Giảng viên đánh giá - Giảng viên giải đáp các câu hỏi của sinh viên",
+            "Công cụ đánh giá****": "Phiếu đánh giá các tiêu chí: - Nội dung - Hình thức - Thời gian trình bày - Mức độ hợp tác"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Bài thi cuối kỳ",
+          "cells": [
+            "",
+            "Bài thi cuối kỳ",
+            "",
+            "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+            "Sinh viên làm bài thi theo lịch thi của nhà trường",
+            "Theo yêu cầu bài thi cuối học kỳ"
+          ],
+          "column_map": {
+            "Tuần": "",
+            "Nội dung giảng dạy*": "Bài thi cuối kỳ",
+            "Tài liệu đọc**": "",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO2.4",
+            "Hoạt động dạy và học***": "Sinh viên làm bài thi theo lịch thi của nhà trường",
+            "Công cụ đánh giá****": "Theo yêu cầu bài thi cuối học kỳ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "vi-cntt11102#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "section_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. PHẠM XUÂN LÂM",
+          "cells": [
+            "TS. PHẠM XUÂN LÂM",
+            "PGS.TS PHẠM HỒNG CHƯƠNG"
+          ],
+          "column_map": {
+            "PHỤ TRÁCH KHOA": "TS. PHẠM XUÂN LÂM",
+            "Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG": "PGS.TS PHẠM HỒNG CHƯƠNG"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Ban hành kèm theo Quyết định số 628/QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)\nBộ môn quản lý: Bộ môn Công nghệ thông tin\nĐịa chỉ: Phòng 1310 Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên:\nHọc phần trang bị cho người học các kiến thức cơ bản và chuyên sâu về phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập, đó là tổng quan về an toàn thông tin như: Đánh giá an toàn hệ thống thông tin, kiểm thử xâm nhập và giới thiệu một số công cụ hỗ trợ; các vấn đề về đánh giá lỗ hổng bảo mật như rà soát hệ thống, phân tích và xác định mục tiêu, xác định điểm yếu mục tiêu; triển khai đánh giá lỗ hổng bảo mật bao gồm Lập kế hoạch đánh giá, thực hiện đánh giá, các hoạt động sau đánh giá. Học phần cũng giới thiệu các vấn đề về kiểm thử xâm nhập, các dạng kiểm thử xâm nhập, vấn đề về khai thác lỗ hổng bảo mật, phân tích lỗ hổng và khai thác hệ thống đã xâm nhập.\nHọc phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nGiáo trình:\n[1] Karen Scarfone, Murugiah Souppaya, Amanda Cody and Angela Orebaugh (2008), Technical Guide to Information Security Testing and Assessment, NIST SP 800-115.\n[2] TS. Lương Thế Dũng, ThS. Phạm Minh Thuấn (2016), Giáo trình đánh giá và kiểm định an toàn hệ thống thông tin, Học viện kỹ thuật mật mã.\nTài liệu khác:\n[3] British Standards Institution - BS ISO/IEC 27001:2005 (2008), Information technology – Security techniques – Information security management systems – Requirements, American National Standards Institute.\n[4] Jeremy Faircloth (2005), Penetration Tester’s Open Source Toolkit – Third Edition, Syngress.\n[5] John Wack, Miles Tracy & Murugiah Souppaya (2003), Guideline on Network Security Testing, NIST SP 800-42.\n[6] Lee Allen (2012), Advanced Penetration Testing for Highly-Secured Environments, Packt Publishing.\n[7] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà nội.\n[8] Patrick Engebretson (2011), The Basics of Hacking and Penetration Testing, Syngress.\n[9] Thomas Wilhelm (2013), Professional Penetration Testing 2nd - Creating and Learning in a Hacking Lab, Syngress.\n[10] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.\nBảng 5.1. Mục tiêu học phần\nBảng 6.1. Chuẩn đầu ra học phần (CLO)\nBảng 7.1. Đánh giá học phần\nBảng 8.1. Kế hoạch giảng dạy\nSinh viên được tham dự thi cuối kỳ/thi kết thúc học phần (50%) nếu có điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).\nSinh viên/học viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học do lý do bất khả kháng thì phải có giấy tờ chứng minh đầy đủ và hợp lý. Mỗi buổi vắng mặt sẽ bị trừ 1 điểm chuyên cần. Sinh viên vắng quá 3 buổi học dù có lý do hay không có lý do đều bị coi như không hoàn thành khóa học và phải đăng ký học lại.\nSinh viên được xem xét cộng điểm vào điểm chuyên cần, điểm kiểm tra cho việc tích cực xây dựng bài trong các buổi học.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\nSinh viên phải đi học đúng giờ quy định. Sinh viên đi trễ quá 10 phút sau khi giờ học bắt đầu sẽ không được tham dự buổi học.\nTuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.\nKhông được làm việc riêng trong giờ học. Tuyệt đối không được sử dụng các thiết bị công nghệ thông tin, truyền thông vào việc riêng trong giờ học."
+}

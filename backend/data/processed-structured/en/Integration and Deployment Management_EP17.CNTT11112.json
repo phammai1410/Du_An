@@ -1,0 +1,1996 @@
+{
+  "doc_id": "en-ep17-cntt11112",
+  "language": "en",
+  "course_name_stem": "Integration and Deployment Management",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11112",
+  "source_filename": "Integration and Deployment Management_EP17.CNTT11112.docx",
+  "source_relpath": "data\\raw\\en\\Integration and Deployment Management_EP17.CNTT11112.docx",
+  "source_hash": "f131de9349addab6fba7462468fac32d",
+  "source_modified": "2025-10-11T10:42:50.597954+00:00",
+  "processed_at": "2025-10-17T16:55:26.673844+00:00",
+  "stats": {
+    "paragraphs": 42,
+    "tables": 7,
+    "sections": 11
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-cntt11112#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Integration and Deployment Management Code: CNTT11112",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Credits: 3 (45)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "+ Lecture: 25 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Exercises in class: 10 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Presentation and Discussion: 10 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Self-study: 60 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Parallel course(s):",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Prerequisite course(s): CNTT1128",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "1. MSc. Phạm Thảo Tel: 0966986689 Email: thaop@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "2. PhD Lê Thị Hoài Thu Tel: 0912727529 Email: thulth@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "* The course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "en-ep17-cntt11112#tbl002",
+          "table_name": "* The course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory □",
+                "Elective (x)"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory □",
+                "Fundamental (x)_2": "Elective (x)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD. Additionally, the course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins. Furthermore, students will be organized into groups to explore various technologies more comprehensively, enabling them to present and discuss individual or group solutions to relevant issues.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "The focus of the lessons is to provide:",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Understanding the core principles of DevOps and their relationship to CI/CD",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "In-depth and practical knowledge of Unit Testing",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Comprehensive coverage of Source Control",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Practical exercises on integration testing",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Practice with big bang and incremental testing approaches.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Establishment of a successful CI environment and pipeline",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Application of DevOps in business scenarios",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Business drivers for adopting DevOps in big data contexts.",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Introduction to Cloud Computing",
+          "is_list": true,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 35
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "* Textbooks/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[1] Continuous Integration, Delivery, and Deployment (2017), by Sander Rossel, Packt",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "* Additional references:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 40
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "en-ep17-cntt11112#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 43,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD.",
+                "PLO1.3 PLO1.4 PLO1.5",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD.",
+                "PLOs": "PLO1.3 PLO1.4 PLO1.5",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "The course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins",
+                "PLO2.2",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "The course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins",
+                "PLOs": "PLO2.2",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+                "PLO3.1 PLO3.4",
+                "4, 4, 4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+                "PLOs": "PLO3.1 PLO3.4",
+                "Proficiency scale": "4, 4, 4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "en-ep17-cntt11112#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 47,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I, T, U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "The course provides fundamental knowledge of Continuous Integration (CI) and Continuous Delivery (CD).",
+                "I3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "The course provides fundamental knowledge of Continuous Integration (CI) and Continuous Delivery (CD).",
+                "Teaching level (I, T, U)": "I3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Develop skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks",
+                "ITU4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Develop skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks",
+                "Teaching level (I, T, U)": "ITU4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CLO1.3",
+              "cells": [
+                "",
+                "CLO1.3",
+                "Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins.",
+                "ITU4"
+              ],
+              "column_map": {
+                "Goals": "",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins.",
+                "Teaching level (I, T, U)": "ITU4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "The students have skilled in searching, synthesizing, analyzing, and using CI, CD, and testing tool",
+                "TU4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "The students have skilled in searching, synthesizing, analyzing, and using CI, CD, and testing tool",
+                "Teaching level (I, T, U)": "TU4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study CI, CD, and testing tool related materials to complete assigned assignments.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Ability to self-study CI, CD, and testing tool related materials to complete assigned assignments.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software.",
+                "U4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software.",
+                "Teaching level (I, T, U)": "U4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "table",
+          "order": 38,
+          "table_id": "en-ep17-cntt11112#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 50,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant: Learning attitude Answers questions Discussions",
+              "cells": [
+                "Participant: Learning attitude Answers questions Discussions",
+                "CLO1.x CLO2.x CLO3.x",
+                "10%",
+                "1,2,3,4,5 ,7,8,9,10,11"
+              ],
+              "column_map": {
+                "Assessments": "Participant: Learning attitude Answers questions Discussions",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "10%",
+                "Week": "1,2,3,4,5 ,7,8,9,10,11"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment"
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "Midterm assessment",
+                "Week": "Midterm assessment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group Project Presentation",
+              "cells": [
+                "Group Project Presentation",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "20%",
+                "12"
+              ],
+              "column_map": {
+                "Assessments": "Group Project Presentation",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Weighting (%)": "20%",
+                "Week": "12"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Group Project Report",
+              "cells": [
+                "Group Project Report",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "20%",
+                "13"
+              ],
+              "column_map": {
+                "Assessments": "Group Project Report",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Weighting (%)": "20%",
+                "Week": "13"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "All CLOs",
+                "50%",
+                "As scheduled"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "50%",
+                "Week": "As scheduled"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec007",
+      "title": "7. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "7. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Table 7.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "7. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 40,
+          "table_id": "en-ep17-cntt11112#tbl006",
+          "table_name": "Table 7.1. Lesson plan for the course",
+          "section_path": [
+            "7. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Introduce • Course outlines • Development environment and support tools",
+                "Course outline",
+                "CLO1.1 CLO3.1",
+                "Introduction to course Announce classroom rules. Instructions for installing the IDE",
+                "Level of participation Level of interaction Quality of answers"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Introduce • Course outlines • Development environment and support tools",
+                "Readings requirement": "Course outline",
+                "CLO": "CLO1.1 CLO3.1",
+                "Teaching and Learning Activities": "Introduction to course Announce classroom rules. Instructions for installing the IDE",
+                "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2-3",
+              "cells": [
+                "2-3",
+                "Chapter 1: Introduction, basic concept, and definitions Introduction to Software Development Overview of Continuous Integration (CI) Overview of Continuous Delivery (CD) Principles of DevOps Software Integration Software Testing",
+                "[1] Chapter 1, 2, 3",
+                "CLO1.1 CLO2.1 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "2-3",
+                "Content": "Chapter 1: Introduction, basic concept, and definitions Introduction to Software Development Overview of Continuous Integration (CI) Overview of Continuous Delivery (CD) Principles of DevOps Software Integration Software Testing",
+                "Readings requirement": "[1] Chapter 1, 2, 3",
+                "CLO": "CLO1.1 CLO2.1 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4-5",
+              "cells": [
+                "4-5",
+                "Chapter 2: Working with the CI Environment and Source Control 2.1. Setting up a CI Environment (Such as Jenkins) 2.2. Version Control with Git 2.3. Automation with Gulp 2.4. Automation with Jenkins 2.5. Other tools",
+                "[1] Chapter 2, 3",
+                "CLO1.1 CLO1.2 CLO2.1 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "4-5",
+                "Content": "Chapter 2: Working with the CI Environment and Source Control 2.1. Setting up a CI Environment (Such as Jenkins) 2.2. Version Control with Git 2.3. Automation with Gulp 2.4. Automation with Jenkins 2.5. Other tools",
+                "Readings requirement": "[1] Chapter 2, 3",
+                "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "6-7",
+              "cells": [
+                "6-7",
+                "Chapter 3: Testing 3.1. A Node JS and MongoDB Web Application",
+                "[1] Chapter 3",
+                "CLO1.2 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "6-7",
+                "Content": "Chapter 3: Testing 3.1. A Node JS and MongoDB Web Application",
+                "Readings requirement": "[1] Chapter 3",
+                "CLO": "CLO1.2 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "8-9",
+              "cells": [
+                "8-9",
+                "Chapter 3: Testing 3.2 A C# .NET Core and Postgres SQL Web App",
+                "[1] Chapter 3",
+                "CLO1.2 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "8-9",
+                "Content": "Chapter 3: Testing 3.2 A C# .NET Core and Postgres SQL Web App",
+                "Readings requirement": "[1] Chapter 3",
+                "CLO": "CLO1.2 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 3: Testing 3.3 Jenkins Plugins 3.4 Jenkins Pipelines 3.5 JUnit 3.6 Selenium",
+                "[1] Chapter 3",
+                "CLO1.2 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 3: Testing 3.3 Jenkins Plugins 3.4 Jenkins Pipelines 3.5 JUnit 3.6 Selenium",
+                "Readings requirement": "[1] Chapter 3",
+                "CLO": "CLO1.2 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 3: Testing 3.5 Testing a Web API",
+                "[1] Chapter 3",
+                "CLO1.2 CLO1.3 CLO2.1 CLO3.x",
+                "Reading at home Lecturing Group discussion in class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 3: Testing 3.5 Testing a Web API",
+                "Readings requirement": "[1] Chapter 3",
+                "CLO": "CLO1.2 CLO1.3 CLO2.1 CLO3.x",
+                "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+                "Assessment tools and criteria": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "13-14",
+              "cells": [
+                "13-14",
+                "Group project presentation",
+                "",
+                "CLO1.1 CLO1.2 CLO3.x",
+                "Group presentation.",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Week": "13-14",
+                "Content": "Group project presentation",
+                "Readings requirement": "",
+                "CLO": "CLO1.1 CLO1.2 CLO3.x",
+                "Teaching and Learning Activities": "Group presentation.",
+                "Assessment tools and criteria": "Participation Group presentation"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec008",
+      "title": "8. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec009",
+      "title": "8.1. Requirements for taking final /terminal exams.",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.1. Requirements for taking final /terminal exams."
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Students are allowed to take the final exam if their attendance score reaches five points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.1. Requirements for taking final /terminal exams."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 58
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec010",
+      "title": "8.2. Requirements for attending classes.",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.2. Requirements for attending classes."
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Students are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, one point will be deducted one point. Students who miss classes more than three times, with or without reason, will be considered failing to complete the course and must re-register.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Students will be awarded points for constructive comments. These points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.2. Requirements for attending classes."
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 62
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11112#sec011",
+      "title": "8.3. Requirements for in-class behavior",
+      "level": 2,
+      "label": "requirements-for-in-class-behavior",
+      "path_titles": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Students must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "table",
+          "order": 48,
+          "table_id": "en-ep17-cntt11112#tbl007",
+          "table_name": null,
+          "section_path": [
+            "8. COURSE REQUIREMENT & EXPECTATION",
+            "8.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 67,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-cntt11112#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Software Engineering (SE)",
+          "cells": [
+            "Bachelor of Software Engineering (SE)",
+            "Bachelor of Software Engineering (SE)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "en-ep17-cntt11112#tbl002",
+      "table_name": "* The course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 19,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory □",
+            "Elective (x)"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory □",
+            "Fundamental (x)_2": "Elective (x)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "en-ep17-cntt11112#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 43,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD.",
+            "PLO1.3 PLO1.4 PLO1.5",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD.",
+            "PLOs": "PLO1.3 PLO1.4 PLO1.5",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "The course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins",
+            "PLO2.2",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "The course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins",
+            "PLOs": "PLO2.2",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+            "PLO3.1 PLO3.4",
+            "4, 4, 4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "The course contributes to the development of the ability to work independently or in a team, to properly understand the responsibility of job performance and professional ethics.",
+            "PLOs": "PLO3.1 PLO3.4",
+            "Proficiency scale": "4, 4, 4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "en-ep17-cntt11112#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 47,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I, T, U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "The course provides fundamental knowledge of Continuous Integration (CI) and Continuous Delivery (CD).",
+            "I3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "The course provides fundamental knowledge of Continuous Integration (CI) and Continuous Delivery (CD).",
+            "Teaching level (I, T, U)": "I3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Develop skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks",
+            "ITU4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Develop skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks",
+            "Teaching level (I, T, U)": "ITU4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CLO1.3",
+          "cells": [
+            "",
+            "CLO1.3",
+            "Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins.",
+            "ITU4"
+          ],
+          "column_map": {
+            "Goals": "",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins.",
+            "Teaching level (I, T, U)": "ITU4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "The students have skilled in searching, synthesizing, analyzing, and using CI, CD, and testing tool",
+            "TU4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "The students have skilled in searching, synthesizing, analyzing, and using CI, CD, and testing tool",
+            "Teaching level (I, T, U)": "TU4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study CI, CD, and testing tool related materials to complete assigned assignments.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Ability to self-study CI, CD, and testing tool related materials to complete assigned assignments.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Consciously organize class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the exercises assigned by the lecturer.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software.",
+            "U4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Proper understanding of responsibility in job performance, professional ethics in work related to integration and deployment of software.",
+            "Teaching level (I, T, U)": "U4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 38,
+      "table_id": "en-ep17-cntt11112#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 50,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant: Learning attitude Answers questions Discussions",
+          "cells": [
+            "Participant: Learning attitude Answers questions Discussions",
+            "CLO1.x CLO2.x CLO3.x",
+            "10%",
+            "1,2,3,4,5 ,7,8,9,10,11"
+          ],
+          "column_map": {
+            "Assessments": "Participant: Learning attitude Answers questions Discussions",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "10%",
+            "Week": "1,2,3,4,5 ,7,8,9,10,11"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment"
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "Midterm assessment",
+            "Week": "Midterm assessment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group Project Presentation",
+          "cells": [
+            "Group Project Presentation",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "20%",
+            "12"
+          ],
+          "column_map": {
+            "Assessments": "Group Project Presentation",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Weighting (%)": "20%",
+            "Week": "12"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Group Project Report",
+          "cells": [
+            "Group Project Report",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "20%",
+            "13"
+          ],
+          "column_map": {
+            "Assessments": "Group Project Report",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Weighting (%)": "20%",
+            "Week": "13"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "All CLOs",
+            "50%",
+            "As scheduled"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "50%",
+            "Week": "As scheduled"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 40,
+      "table_id": "en-ep17-cntt11112#tbl006",
+      "table_name": "Table 7.1. Lesson plan for the course",
+      "section_path": [
+        "7. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Introduce • Course outlines • Development environment and support tools",
+            "Course outline",
+            "CLO1.1 CLO3.1",
+            "Introduction to course Announce classroom rules. Instructions for installing the IDE",
+            "Level of participation Level of interaction Quality of answers"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Introduce • Course outlines • Development environment and support tools",
+            "Readings requirement": "Course outline",
+            "CLO": "CLO1.1 CLO3.1",
+            "Teaching and Learning Activities": "Introduction to course Announce classroom rules. Instructions for installing the IDE",
+            "Assessment tools and criteria": "Level of participation Level of interaction Quality of answers"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2-3",
+          "cells": [
+            "2-3",
+            "Chapter 1: Introduction, basic concept, and definitions Introduction to Software Development Overview of Continuous Integration (CI) Overview of Continuous Delivery (CD) Principles of DevOps Software Integration Software Testing",
+            "[1] Chapter 1, 2, 3",
+            "CLO1.1 CLO2.1 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "2-3",
+            "Content": "Chapter 1: Introduction, basic concept, and definitions Introduction to Software Development Overview of Continuous Integration (CI) Overview of Continuous Delivery (CD) Principles of DevOps Software Integration Software Testing",
+            "Readings requirement": "[1] Chapter 1, 2, 3",
+            "CLO": "CLO1.1 CLO2.1 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4-5",
+          "cells": [
+            "4-5",
+            "Chapter 2: Working with the CI Environment and Source Control 2.1. Setting up a CI Environment (Such as Jenkins) 2.2. Version Control with Git 2.3. Automation with Gulp 2.4. Automation with Jenkins 2.5. Other tools",
+            "[1] Chapter 2, 3",
+            "CLO1.1 CLO1.2 CLO2.1 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "4-5",
+            "Content": "Chapter 2: Working with the CI Environment and Source Control 2.1. Setting up a CI Environment (Such as Jenkins) 2.2. Version Control with Git 2.3. Automation with Gulp 2.4. Automation with Jenkins 2.5. Other tools",
+            "Readings requirement": "[1] Chapter 2, 3",
+            "CLO": "CLO1.1 CLO1.2 CLO2.1 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "6-7",
+          "cells": [
+            "6-7",
+            "Chapter 3: Testing 3.1. A Node JS and MongoDB Web Application",
+            "[1] Chapter 3",
+            "CLO1.2 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "6-7",
+            "Content": "Chapter 3: Testing 3.1. A Node JS and MongoDB Web Application",
+            "Readings requirement": "[1] Chapter 3",
+            "CLO": "CLO1.2 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "8-9",
+          "cells": [
+            "8-9",
+            "Chapter 3: Testing 3.2 A C# .NET Core and Postgres SQL Web App",
+            "[1] Chapter 3",
+            "CLO1.2 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "8-9",
+            "Content": "Chapter 3: Testing 3.2 A C# .NET Core and Postgres SQL Web App",
+            "Readings requirement": "[1] Chapter 3",
+            "CLO": "CLO1.2 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 3: Testing 3.3 Jenkins Plugins 3.4 Jenkins Pipelines 3.5 JUnit 3.6 Selenium",
+            "[1] Chapter 3",
+            "CLO1.2 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 3: Testing 3.3 Jenkins Plugins 3.4 Jenkins Pipelines 3.5 JUnit 3.6 Selenium",
+            "Readings requirement": "[1] Chapter 3",
+            "CLO": "CLO1.2 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 3: Testing 3.5 Testing a Web API",
+            "[1] Chapter 3",
+            "CLO1.2 CLO1.3 CLO2.1 CLO3.x",
+            "Reading at home Lecturing Group discussion in class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 3: Testing 3.5 Testing a Web API",
+            "Readings requirement": "[1] Chapter 3",
+            "CLO": "CLO1.2 CLO1.3 CLO2.1 CLO3.x",
+            "Teaching and Learning Activities": "Reading at home Lecturing Group discussion in class",
+            "Assessment tools and criteria": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "13-14",
+          "cells": [
+            "13-14",
+            "Group project presentation",
+            "",
+            "CLO1.1 CLO1.2 CLO3.x",
+            "Group presentation.",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Week": "13-14",
+            "Content": "Group project presentation",
+            "Readings requirement": "",
+            "CLO": "CLO1.1 CLO1.2 CLO3.x",
+            "Teaching and Learning Activities": "Group presentation.",
+            "Assessment tools and criteria": "Participation Group presentation"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 48,
+      "table_id": "en-ep17-cntt11112#tbl007",
+      "table_name": null,
+      "section_path": [
+        "8. COURSE REQUIREMENT & EXPECTATION",
+        "8.3. Requirements for in-class behavior"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behavior"
+      ],
+      "source_block": 67,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Integration and Deployment Management Code: CNTT11112\n* Credits: 3 (45)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs.\n+ Exercises in class: 10 hrs.\n+ Presentation and Discussion: 10 hrs.\n+ Self-study: 60 hrs.\n* Parallel course(s):\n* Prerequisite course(s): CNTT1128\n* Department conducting the course:\n+ Faculty: Information Technology; Room 1310, Building A1, National Economics University; Phone number: 024.36280.280 (6334)\n+ Lecturers:\n1. MSc. Phạm Thảo Tel: 0966986689 Email: thaop@neu.edu.vn\n2. PhD Lê Thị Hoài Thu Tel: 0912727529 Email: thulth@neu.edu.vn\n* The course:\n* Course language: In English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.10, Building A1, National Economics University\nThis course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD. Additionally, the course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins. Furthermore, students will be organized into groups to explore various technologies more comprehensively, enabling them to present and discuss individual or group solutions to relevant issues.\nThe focus of the lessons is to provide:\nUnderstanding the core principles of DevOps and their relationship to CI/CD\nIn-depth and practical knowledge of Unit Testing\nComprehensive coverage of Source Control\nPractical exercises on integration testing\nPractice with big bang and incremental testing approaches.\nEstablishment of a successful CI environment and pipeline\nApplication of DevOps in business scenarios\nBusiness drivers for adopting DevOps in big data contexts.\nIntroduction to Cloud Computing\n* Textbooks/Lecture Notes:\n[1] Continuous Integration, Delivery, and Deployment (2017), by Sander Rossel, Packt\n* Additional references:\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\nTable 7.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches five points or more (on the scale of 10).\nStudents are responsible for attending all classes. In the case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, one point will be deducted one point. Students who miss classes more than three times, with or without reason, will be considered failing to complete the course and must re-register.\nStudents will be awarded points for constructive comments. These points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is prohibited.\nStudents must come to class on time. Students over 10 minutes late after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

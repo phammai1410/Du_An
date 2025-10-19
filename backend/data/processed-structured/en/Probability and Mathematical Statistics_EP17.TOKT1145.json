@@ -1,0 +1,4132 @@
+{
+  "doc_id": "en-ep17-tokt1145",
+  "language": "en",
+  "course_name_stem": "Probability and Mathematical Statistics",
+  "course_variant": "",
+  "course_code": "EP17.TOKT1145",
+  "source_filename": "Probability and Mathematical Statistics_EP17.TOKT1145.docx",
+  "source_relpath": "data\\raw\\en\\Probability and Mathematical Statistics_EP17.TOKT1145.docx",
+  "source_hash": "f88639b0e5d6337382ff729c0feebb26",
+  "source_modified": "2025-10-11T10:42:50.606945+00:00",
+  "processed_at": "2025-10-17T16:55:27.545969+00:00",
+  "stats": {
+    "paragraphs": 54,
+    "tables": 12,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-tokt1145#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Probability and Statistics Code: TOKT1145",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "+ Lecture: 30 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Exercise and discussion: 15 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Self-study: 90 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "* Parallel course(s): None.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Prerequisite course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "+ Faculty: Mathematical Economics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Address: Suite 1108, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Tel: 024 36 280280 Ext: 6146",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "+ Department: Mathematical Economics",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "1. Bui Duong Hai, MSc Tel: Email: haibd@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "2. Nguyen Hai Duong, MSc Tel: Email: duong79tkt@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "3. Vu Thi Bich Ngọc, MSc Tel: Email: ngocvu@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "4. Nguyen Thi Thuy Trang, MSc Tel: Email: thuytrang@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "5. Mai Cam Tu, MSc Tel: Email: tumc@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "* Kind of course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "table",
+          "order": 21,
+          "table_id": "en-ep17-tokt1145#tbl002",
+          "table_name": "* Kind of course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 24,
+          "column_labels": [
+            "Foundation ☐",
+            "Foundation ☐_2",
+            "Fundamental ☐",
+            "Fundamental ☐_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory",
+              "cells": [
+                "Compulsory",
+                "Elective ☐",
+                "Compulsory ☐",
+                "Elective ☐"
+              ],
+              "column_map": {
+                "Foundation ☐": "Compulsory",
+                "Foundation ☐_2": "Elective ☐",
+                "Fundamental ☐": "Compulsory ☐",
+                "Fundamental ☐_2": "Elective ☐"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 26
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "This course is a study of quantitative methods used in data analysis and economic-business decision making, including descriptive statistics and inferential statistics. The course provides students theory and appropriate techniques of interpreting, analyzing, deducing information from data. Topics include the role of statistics in modern business environments and for management information, data collection, data tabulation, probability concepts and probability distributions, sampling distribution, interval estimation, hypothesis testing and regression.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 28
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "* Textbooks/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "[1] Main text: Anderson, Sweeney, Williams, Camm, Cochran (2017), Statistics for Business and Economics, 12th Edition, South-Western, chapter 1 to 11 and 14 to 16.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "[2] Paul Newbold, William L. Carlson, Betty Thorne (2013), Statistics for Business and Economics, 8th Edition, Pearson, chapter 1 to 12.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "[3] Additional: Linda H., John F. (2013). Applied Statistics for Business and Management using Microsoft Excel, Springer.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "[4] Additional: Verma J. P. (2013). Data Analysis in Management with SPSS Software, Springer.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Other requirement materials & Information",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "a. Microsoft Excel with Data Analysis Toolpak",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "b. SPSS software, STATA, R, Python",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "c. Excel Guidebook, NEU",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "d. Data by the teachers",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 40
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "en-ep17-tokt1145#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Course Goals",
+            "Goal Description",
+            "Program Learning Outcomes (PLO)",
+            "Level of competence"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Course Goals": "[1]",
+                "Goal Description": "[2]",
+                "Program Learning Outcomes (PLO)": "[3]",
+                "Level of competence": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Understand the role and significant of statistics in economics and business; Present data in convenient and informative way, interpret and analyze graph, numerical statistics, using software and presentation tools; Understand concepts and application of probability, probability distribution; Apply inferential statistics in economics and business decision making; Using linear regression and correlation to analyze relationship of economic and business variables.",
+                "PLO2",
+                "1"
+              ],
+              "column_map": {
+                "Course Goals": "G1",
+                "Goal Description": "Understand the role and significant of statistics in economics and business; Present data in convenient and informative way, interpret and analyze graph, numerical statistics, using software and presentation tools; Understand concepts and application of probability, probability distribution; Apply inferential statistics in economics and business decision making; Using linear regression and correlation to analyze relationship of economic and business variables.",
+                "Program Learning Outcomes (PLO)": "PLO2",
+                "Level of competence": "1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Using English for communication and software fluently.",
+                "PLO14, PLO15",
+                "3"
+              ],
+              "column_map": {
+                "Course Goals": "G2",
+                "Goal Description": "Using English for communication and software fluently.",
+                "Program Learning Outcomes (PLO)": "PLO14, PLO15",
+                "Level of competence": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "table",
+          "order": 38,
+          "table_id": "en-ep17-tokt1145#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 48,
+          "column_labels": [
+            "Course goals",
+            "CLO",
+            "Descriptions",
+            "Level of competence"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Course goals": "[1]",
+                "CLO": "[2]",
+                "Descriptions": "[3]",
+                "Level of competence": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 1.1",
+                "Recognize statistical problems in any fields of study, connect problems with statistic concepts",
+                "IT1"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 1.1",
+                "Descriptions": "Recognize statistical problems in any fields of study, connect problems with statistic concepts",
+                "Level of competence": "IT1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 1.2",
+                "Distinguish statistic branches, population and sample, types of variables, and operations could be applied",
+                "TU1"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 1.2",
+                "Descriptions": "Distinguish statistic branches, population and sample, types of variables, and operations could be applied",
+                "Level of competence": "TU1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.1",
+                "Use appropriate graph to present information",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 2.1",
+                "Descriptions": "Use appropriate graph to present information",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.2",
+                "Calculate accurately statistics with relevant variables",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 2.2",
+                "Descriptions": "Calculate accurately statistics with relevant variables",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.3",
+                "Compare data and variable by using statistical value, graph",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 2.3",
+                "Descriptions": "Compare data and variable by using statistical value, graph",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.4",
+                "Summarize, analyze and make conclusion about economic and business problems",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 2.4",
+                "Descriptions": "Summarize, analyze and make conclusion about economic and business problems",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.5",
+                "Suggestion for questions and new measures",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 2.5",
+                "Descriptions": "Suggestion for questions and new measures",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 3.1",
+                "Understand the concepts and formulae of basic probability, calculate accurately probabilities",
+                "IT 1"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 3.1",
+                "Descriptions": "Understand the concepts and formulae of basic probability, calculate accurately probabilities",
+                "Level of competence": "IT 1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 3.2",
+                "Apply probability concepts: Expect value, variance,",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 3.2",
+                "Descriptions": "Apply probability concepts: Expect value, variance,",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 3.3",
+                "Apply probability distribution in economic, finance, investment, business problems",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 3.3",
+                "Descriptions": "Apply probability distribution in economic, finance, investment, business problems",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 3.4",
+                "Make decision on probability and parameters",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 3.4",
+                "Descriptions": "Make decision on probability and parameters",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 4.1",
+                "Understand concepts of point estimate, unbiased, efficient estimator, maximum likelihood estimator, indicate best unbiased estimator",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 4.1",
+                "Descriptions": "Understand concepts of point estimate, unbiased, efficient estimator, maximum likelihood estimator, indicate best unbiased estimator",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 4.2",
+                "Apply correct interval estimate for appropriate parameter in economic and business",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 4.2",
+                "Descriptions": "Apply correct interval estimate for appropriate parameter in economic and business",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 4.3",
+                "Apply correct hypothesis testing for appropriate parameter in economic and business",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 4.3",
+                "Descriptions": "Apply correct hypothesis testing for appropriate parameter in economic and business",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 4.4",
+                "Distinguish estimate, hypothesis testing, one and two populations",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 4.4",
+                "Descriptions": "Distinguish estimate, hypothesis testing, one and two populations",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 4.5",
+                "Establish appropriate hypothesis and testing method for problems",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 4.5",
+                "Descriptions": "Establish appropriate hypothesis and testing method for problems",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.1",
+                "Understand concept of regression model",
+                "IT 1"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.1",
+                "Descriptions": "Understand concept of regression model",
+                "Level of competence": "IT 1"
+              }
+            },
+            {
+              "row_index": 18,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.2",
+                "Interpret estimated coefficients and other statistics on regression",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.2",
+                "Descriptions": "Interpret estimated coefficients and other statistics on regression",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 19,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.3",
+                "Hypothesis testing and confidence interval of regression coefficients; goodness of fit test",
+                "TU 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.3",
+                "Descriptions": "Hypothesis testing and confidence interval of regression coefficients; goodness of fit test",
+                "Level of competence": "TU 2"
+              }
+            },
+            {
+              "row_index": 20,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.4",
+                "Apply regression to analyze economic and business relationship",
+                "TU 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.4",
+                "Descriptions": "Apply regression to analyze economic and business relationship",
+                "Level of competence": "TU 3"
+              }
+            },
+            {
+              "row_index": 21,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.1",
+                "Using correct function, tool in software",
+                "U 2"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.1",
+                "Descriptions": "Using correct function, tool in software",
+                "Level of competence": "U 2"
+              }
+            },
+            {
+              "row_index": 22,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 5.2",
+                "Build module in software to solve statistic problems",
+                "U 3"
+              ],
+              "column_map": {
+                "Course goals": "G1",
+                "CLO": "CLO 5.2",
+                "Descriptions": "Build module in software to solve statistic problems",
+                "Level of competence": "U 3"
+              }
+            },
+            {
+              "row_index": 23,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO 6.1",
+                "Use Excel, Powerpoint to draw graphs, summarize data",
+                "U 2"
+              ],
+              "column_map": {
+                "Course goals": "G2",
+                "CLO": "CLO 6.1",
+                "Descriptions": "Use Excel, Powerpoint to draw graphs, summarize data",
+                "Level of competence": "U 2"
+              }
+            },
+            {
+              "row_index": 24,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO 6.2",
+                "Use Excel to implement testing and regression",
+                "U 3"
+              ],
+              "column_map": {
+                "Course goals": "G2",
+                "CLO": "CLO 6.2",
+                "Descriptions": "Use Excel to implement testing and regression",
+                "Level of competence": "U 3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "* Assessment methods:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "- Grading: 10",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "* Assessment summary:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Table 6.1. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 55
+        },
+        {
+          "type": "table",
+          "order": 44,
+          "table_id": "en-ep17-tokt1145#tbl005",
+          "table_name": "Table 6.1. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 56,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "CLO 1.1, 1.2,",
+                "10%",
+                "1-15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "CLOs": "CLO 1.1, 1.2,",
+                "Weighting (%)": "10%",
+                "Week": "1-15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group assignment",
+              "cells": [
+                "Group assignment",
+                "CLO",
+                "40%",
+                "5"
+              ],
+              "column_map": {
+                "Assessments": "Group assignment",
+                "CLOs": "CLO",
+                "Weighting (%)": "40%",
+                "Week": "5"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Midterm test",
+              "cells": [
+                "Midterm test",
+                "CLO",
+                "40%",
+                "10"
+              ],
+              "column_map": {
+                "Assessments": "Midterm test",
+                "CLOs": "CLO",
+                "Weighting (%)": "40%",
+                "Week": "10"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "CLO",
+                "50%",
+                "By program"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "CLO",
+                "Weighting (%)": "50%",
+                "Week": "By program"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "* Rubrics:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Table 6.2. Rubric 1",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "table",
+          "order": 47,
+          "table_id": "en-ep17-tokt1145#tbl006",
+          "table_name": "Table 6.2. Rubric 1",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 60,
+          "column_labels": [
+            "Participant",
+            "Weight",
+            "Excellent 9 - 10",
+            "Good 7 - 8",
+            "Fair 5 - 6",
+            "Poor 0 - 4"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Attendance",
+              "cells": [
+                "Attendance",
+                "50%",
+                "No absence",
+                "Absence 1 – 2 classes",
+                "Absence 3 class",
+                "Absence more than 3 classes"
+              ],
+              "column_map": {
+                "Participant": "Attendance",
+                "Weight": "50%",
+                "Excellent 9 - 10": "No absence",
+                "Good 7 - 8": "Absence 1 – 2 classes",
+                "Fair 5 - 6": "Absence 3 class",
+                "Poor 0 - 4": "Absence more than 3 classes"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Discussion",
+              "cells": [
+                "Discussion",
+                "40%",
+                "Good answers for class questions, good discussion on assignment topic, being volunteer",
+                "Answer class questions, and discussion on assignment topic",
+                "Answer class questions, or express opinion on group assignment",
+                "No answer, no discussion, no express opinion of group work"
+              ],
+              "column_map": {
+                "Participant": "Discussion",
+                "Weight": "40%",
+                "Excellent 9 - 10": "Good answers for class questions, good discussion on assignment topic, being volunteer",
+                "Good 7 - 8": "Answer class questions, and discussion on assignment topic",
+                "Fair 5 - 6": "Answer class questions, or express opinion on group assignment",
+                "Poor 0 - 4": "No answer, no discussion, no express opinion of group work"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Home exercise",
+              "cells": [
+                "Home exercise",
+                "10%",
+                "Answer all compulsory and optional exercises",
+                "Answer all compulsory exercises",
+                "Answer several compulsory exercises",
+                "Do not answer home exercises"
+              ],
+              "column_map": {
+                "Participant": "Home exercise",
+                "Weight": "10%",
+                "Excellent 9 - 10": "Answer all compulsory and optional exercises",
+                "Good 7 - 8": "Answer all compulsory exercises",
+                "Fair 5 - 6": "Answer several compulsory exercises",
+                "Poor 0 - 4": "Do not answer home exercises"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Table 6.3. Rubric 2",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "table",
+          "order": 49,
+          "table_id": "en-ep17-tokt1145#tbl007",
+          "table_name": "Table 6.3. Rubric 2",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 63,
+          "column_labels": [
+            "Group Assignment",
+            "Weight",
+            "Excellent 8,5 - 10",
+            "Good 6,5 – 8,4",
+            "Fair 4,0 – 6,4",
+            "Poor 0 – 3,9"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Design",
+              "cells": [
+                "Design",
+                "20%",
+                "Impressive design and colors, no format mistake",
+                "Good design and appropriate color, several format mistake",
+                "Not unique design and format, many mistakes",
+                "Not follow unique design or standard format"
+              ],
+              "column_map": {
+                "Group Assignment": "Design",
+                "Weight": "20%",
+                "Excellent 8,5 - 10": "Impressive design and colors, no format mistake",
+                "Good 6,5 – 8,4": "Good design and appropriate color, several format mistake",
+                "Fair 4,0 – 6,4": "Not unique design and format, many mistakes",
+                "Poor 0 – 3,9": "Not follow unique design or standard format"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Statistic analysis",
+              "cells": [
+                "Statistic analysis",
+                "30%",
+                "Using most of all statistic tools and analyze effectively",
+                "Using appropriate statistic tools, apply in relevant data",
+                "Using several statistical tools, some are irrelevant",
+                "Not using statistical tools to analyze data"
+              ],
+              "column_map": {
+                "Group Assignment": "Statistic analysis",
+                "Weight": "30%",
+                "Excellent 8,5 - 10": "Using most of all statistic tools and analyze effectively",
+                "Good 6,5 – 8,4": "Using appropriate statistic tools, apply in relevant data",
+                "Fair 4,0 – 6,4": "Using several statistical tools, some are irrelevant",
+                "Poor 0 – 3,9": "Not using statistical tools to analyze data"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Comment",
+              "cells": [
+                "Comment",
+                "20%",
+                "Good comment base on statistical analysis, connect to the actual circumstance",
+                "Appropriate comment on statistical results, summary and conclusion are appropriate",
+                "Several comments are inappropriate, or not relevant to data",
+                "No comment or conclusion"
+              ],
+              "column_map": {
+                "Group Assignment": "Comment",
+                "Weight": "20%",
+                "Excellent 8,5 - 10": "Good comment base on statistical analysis, connect to the actual circumstance",
+                "Good 6,5 – 8,4": "Appropriate comment on statistical results, summary and conclusion are appropriate",
+                "Fair 4,0 – 6,4": "Several comments are inappropriate, or not relevant to data",
+                "Poor 0 – 3,9": "No comment or conclusion"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Present",
+              "cells": [
+                "Present",
+                "30%",
+                "Impressive presentation, eye contact, fluent English, many member present",
+                "Good present, several mistake in speaking, at least half of member present",
+                "Present is difficult to follow, many mistake in English, only one or two member present",
+                "Cannot present the results or not in English"
+              ],
+              "column_map": {
+                "Group Assignment": "Present",
+                "Weight": "30%",
+                "Excellent 8,5 - 10": "Impressive presentation, eye contact, fluent English, many member present",
+                "Good 6,5 – 8,4": "Good present, several mistake in speaking, at least half of member present",
+                "Fair 4,0 – 6,4": "Present is difficult to follow, many mistake in English, only one or two member present",
+                "Poor 0 – 3,9": "Cannot present the results or not in English"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Table 6.4. Rubric 3",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "table",
+          "order": 51,
+          "table_id": "en-ep17-tokt1145#tbl008",
+          "table_name": "Table 6.4. Rubric 3",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 67,
+          "column_labels": [
+            "Midterm test",
+            "Weight",
+            "Excellent 8,5 - 10",
+            "Good 6,5 – 8,4",
+            "Fair 4,0 – 6,4",
+            "Poor 0 – 3,9"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Test",
+              "cells": [
+                "Test",
+                "100%",
+                "Correct 17 – 20 questions",
+                "Correct 13 – 16 questions",
+                "Correct 8 – 12 questions",
+                "Correct 0 – 7 questions"
+              ],
+              "column_map": {
+                "Midterm test": "Test",
+                "Weight": "100%",
+                "Excellent 8,5 - 10": "Correct 17 – 20 questions",
+                "Good 6,5 – 8,4": "Correct 13 – 16 questions",
+                "Fair 4,0 – 6,4": "Correct 8 – 12 questions",
+                "Poor 0 – 3,9": "Correct 0 – 7 questions"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Table 6.5. Rubric 4",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "table",
+          "order": 53,
+          "table_id": "en-ep17-tokt1145#tbl009",
+          "table_name": "Table 6.5. Rubric 4",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 71,
+          "column_labels": [
+            "Final Exam",
+            "Weight",
+            "Excellent 8,5 - 10",
+            "Good 6,5 – 8,4",
+            "Fair 4,0 – 6,4",
+            "Poor 0 – 3,9"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Calculation",
+              "cells": [
+                "Calculation",
+                "50%",
+                "Mostly correct, only one or two mistakes",
+                "Correct in most questions",
+                "Correct in several questions",
+                "Incorrect in most questions"
+              ],
+              "column_map": {
+                "Final Exam": "Calculation",
+                "Weight": "50%",
+                "Excellent 8,5 - 10": "Mostly correct, only one or two mistakes",
+                "Good 6,5 – 8,4": "Correct in most questions",
+                "Fair 4,0 – 6,4": "Correct in several questions",
+                "Poor 0 – 3,9": "Incorrect in most questions"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Analyze and discuss",
+              "cells": [
+                "Analyze and discuss",
+                "50%",
+                "Good analysis, adequate comment, deep discussion",
+                "Simply analysis and discussion in most of questions",
+                "Poor analysis and discussion in several questions",
+                "Very poor analysis or no discussion"
+              ],
+              "column_map": {
+                "Final Exam": "Analyze and discuss",
+                "Weight": "50%",
+                "Excellent 8,5 - 10": "Good analysis, adequate comment, deep discussion",
+                "Good 6,5 – 8,4": "Simply analysis and discussion in most of questions",
+                "Fair 4,0 – 6,4": "Poor analysis and discussion in several questions",
+                "Poor 0 – 3,9": "Very poor analysis or no discussion"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "General: % of correct answers",
+              "cells": [
+                "General: % of correct answers",
+                "",
+                "85-100%",
+                "65-84%",
+                "40-64%",
+                "0 – 39%"
+              ],
+              "column_map": {
+                "Final Exam": "General: % of correct answers",
+                "Weight": "",
+                "Excellent 8,5 - 10": "85-100%",
+                "Good 6,5 – 8,4": "65-84%",
+                "Fair 4,0 – 6,4": "40-64%",
+                "Poor 0 – 3,9": "0 – 39%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Table 7.1. Course Outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "table",
+          "order": 55,
+          "table_id": "en-ep17-tokt1145#tbl010",
+          "table_name": "Table 7.1. Course Outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 77,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Reading",
+            "CLO",
+            "Activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "1. Introduction and Basic Concepts - Concepts - Data, variable - Excel practic",
+                "[1] Chapter 1, 2",
+                "1.1 1.2",
+                "Read syllabus (IU) Lecture (T) - Install Data Analysis Toolpak into Microsoft Excel",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "1. Introduction and Basic Concepts - Concepts - Data, variable - Excel practic",
+                "Reading": "[1] Chapter 1, 2",
+                "CLO": "1.1 1.2",
+                "Activities": "Read syllabus (IU) Lecture (T) - Install Data Analysis Toolpak into Microsoft Excel",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2-3",
+              "cells": [
+                "2-3",
+                "Descriptive Statistics Tables and Charts Numerical Statistics: - Central Tendency - Measure of Variability - Measure of Shape - Measure of Relationship",
+                "[1] Chapter 2, 3",
+                "2.2 2.3 2.4 2.5",
+                "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "2-3",
+                "Content": "Descriptive Statistics Tables and Charts Numerical Statistics: - Central Tendency - Measure of Variability - Measure of Shape - Measure of Relationship",
+                "Reading": "[1] Chapter 2, 3",
+                "CLO": "2.2 2.3 2.4 2.5",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Basic Probability - Concepts - Rule of probablitys -",
+                "[1] Chapter 4",
+                "3.1",
+                "Previous homework discussion (TU) Lecture (T) Homework (U) Discuss on presentation (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Basic Probability - Concepts - Rule of probablitys -",
+                "Reading": "[1] Chapter 4",
+                "CLO": "3.1",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U) Discuss on presentation (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Presentation: Description of data",
+                "",
+                "",
+                "Present and discuss (U)",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Presentation: Description of data",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "Present and discuss (U)",
+                "Assessment": "Rubric 2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "6-7",
+              "cells": [
+                "6-7",
+                "Random variable Discrete and Continuous",
+                "[1] Chapter 5, 6",
+                "3.2 3.3 3.4",
+                "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "6-7",
+                "Content": "Random variable Discrete and Continuous",
+                "Reading": "[1] Chapter 5, 6",
+                "CLO": "3.2 3.3 3.4",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "8-9",
+              "cells": [
+                "8-9",
+                "Sampling distribution and Estimation - Sampling distribution - Point Estimate - Confidence interval - Confidence interval for 3 parameters: mean, variance, proportion",
+                "[1] Chapter 7, 8",
+                "4.1 4.2",
+                "Previous homework discussion (TU) Lecture (T) Homework (U) Prepare for midterm",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "8-9",
+                "Content": "Sampling distribution and Estimation - Sampling distribution - Point Estimate - Confidence interval - Confidence interval for 3 parameters: mean, variance, proportion",
+                "Reading": "[1] Chapter 7, 8",
+                "CLO": "4.1 4.2",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U) Prepare for midterm",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Midterm test",
+                "",
+                "",
+                "Test in 45 minutes",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Midterm test",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "Test in 45 minutes",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "10-12",
+              "cells": [
+                "10-12",
+                "Hypothesis testing - Theory of hypothesis testing - Testing for one parameter - Testing for two parameter",
+                "[1] Chapter 9, 10",
+                "4.3 4.4 4.5",
+                "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "10-12",
+                "Content": "Hypothesis testing - Theory of hypothesis testing - Testing for one parameter - Testing for two parameter",
+                "Reading": "[1] Chapter 9, 10",
+                "CLO": "4.3 4.4 4.5",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "13-14",
+              "cells": [
+                "13-14",
+                "Regression - Single linear regression - Multiple regression",
+                "[1] Chapter 15, 16",
+                "5.1 5.2 5.3 5.4",
+                "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "13-14",
+                "Content": "Regression - Single linear regression - Multiple regression",
+                "Reading": "[1] Chapter 15, 16",
+                "CLO": "5.1 5.2 5.3 5.4",
+                "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Revision",
+                "",
+                "",
+                "",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Revision",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "Final Exam",
+              "cells": [
+                "",
+                "Final Exam",
+                "",
+                "",
+                "According to the given schedule",
+                "According to the exam requirement"
+              ],
+              "column_map": {
+                "Week": "",
+                "Content": "Final Exam",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "According to the given schedule",
+                "Assessment": "According to the exam requirement"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "table",
+          "order": 57,
+          "table_id": "en-ep17-tokt1145#tbl011",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 83,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Reading",
+            "CLO",
+            "Activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1. Introduction 1.1. Concepts 1.2. Branches of Statistics - Descriptive statistics - Inferential statistics 1.3. Structure of data set - Obervation, variable, value 1.4. Type of variables - Nominal - Ordinal - Scale 1.5. Excel tool introduce",
+                "[1] Chapter 1",
+                "1.1",
+                "Introducing the syllabus, regulations Lecture Intruduce software: Excel Install Data analysis took pak Introduce data set Home work",
+                "Attendance Rubric 1"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Lecture 1. Introduction 1.1. Concepts 1.2. Branches of Statistics - Descriptive statistics - Inferential statistics 1.3. Structure of data set - Obervation, variable, value 1.4. Type of variables - Nominal - Ordinal - Scale 1.5. Excel tool introduce",
+                "Reading": "[1] Chapter 1",
+                "CLO": "1.1",
+                "Activities": "Introducing the syllabus, regulations Lecture Intruduce software: Excel Install Data analysis took pak Introduce data set Home work",
+                "Assessment": "Attendance Rubric 1"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 2. Tables and Charts 2.1. Frequency table - Frequency and relative frequency table - Cross-table 2.2. Charts - Pie chart - Column chart - Stacked chart - Histogram - Line chart - Bubble chart - Radar chart",
+                "[1] Chapter 2",
+                "1.2",
+                "Solve previous home work Lecture Discussion Excel practice Groups member register Data for each group Home work",
+                "Attendance discussion Volunteer Rubric 1"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Lecture 2. Tables and Charts 2.1. Frequency table - Frequency and relative frequency table - Cross-table 2.2. Charts - Pie chart - Column chart - Stacked chart - Histogram - Line chart - Bubble chart - Radar chart",
+                "Reading": "[1] Chapter 2",
+                "CLO": "1.2",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice Groups member register Data for each group Home work",
+                "Assessment": "Attendance discussion Volunteer Rubric 1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 3. Numerical statistics 3.1. Central tendency - Mean - Median - Mode 3.2. Measure of variability - Range - Variance and Standard deviation - Coefficient of variation - Quartiles and Interquartile range - Boxplot 3.3. Measure of shape - Skewness - Kurtosis 3.4. Measure of relationship - Covariance - Correlation",
+                "[1] Chapter 3",
+                "2.2 2.3 2.4 2.5",
+                "Solve previous home work Lecture Discussion Excel practice Discuss on group’s data",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Lecture 3. Numerical statistics 3.1. Central tendency - Mean - Median - Mode 3.2. Measure of variability - Range - Variance and Standard deviation - Coefficient of variation - Quartiles and Interquartile range - Boxplot 3.3. Measure of shape - Skewness - Kurtosis 3.4. Measure of relationship - Covariance - Correlation",
+                "Reading": "[1] Chapter 3",
+                "CLO": "2.2 2.3 2.4 2.5",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice Discuss on group’s data",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 4. Basic Probability 4.1. Concept - Experiment, Outcome - Event 4.3. Classical probabiltiy - Probability - Classical formula 4.4. Rule of interaction - Interaction - Interaction probability - Conditional probability 4.5. Rule of union - Union of events - Rule of union 4.6. Total probability - Total probability - Bayes’ probablity",
+                "[1] Chapter 4",
+                "3.1",
+                "Solve previous home work Lecture Discussion Excel practice Discuss on group’s assignment",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Lecture 4. Basic Probability 4.1. Concept - Experiment, Outcome - Event 4.3. Classical probabiltiy - Probability - Classical formula 4.4. Rule of interaction - Interaction - Interaction probability - Conditional probability 4.5. Rule of union - Union of events - Rule of union 4.6. Total probability - Total probability - Bayes’ probablity",
+                "Reading": "[1] Chapter 4",
+                "CLO": "3.1",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice Discuss on group’s assignment",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Presentation: Group present",
+                "",
+                "",
+                "Present by group Listen, disscuss, and evaluate",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Presentation: Group present",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "Present by group Listen, disscuss, and evaluate",
+                "Assessment": "Rubric 2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 5. Discrete Probability 5.1. Random variable 5.2. Probability distribution - Probabiity table 5.3. Parameter - Expected value - Variance - Standard deviation 5.4. Bernoulli distribution 5.5. Binomial distribution - Formula, expected value, variance 5.6. Poisson distribution",
+                "[1] Chapter 5",
+                "3.2 3.3",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Lecture 5. Discrete Probability 5.1. Random variable 5.2. Probability distribution - Probabiity table 5.3. Parameter - Expected value - Variance - Standard deviation 5.4. Bernoulli distribution 5.5. Binomial distribution - Formula, expected value, variance 5.6. Poisson distribution",
+                "Reading": "[1] Chapter 5",
+                "CLO": "3.2 3.3",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 6. Continuos distribution 6.1. Distribution 6.2. Parameter - Expected value - Variance 6.3. Uniform distribution - Mean and variance 6.4. Normal distribution - Definition - Standardized normal - Probability formula - Application",
+                "[1] Chapter 6",
+                "3.3 3.4",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Lecture 6. Continuos distribution 6.1. Distribution 6.2. Parameter - Expected value - Variance 6.3. Uniform distribution - Mean and variance 6.4. Normal distribution - Definition - Standardized normal - Probability formula - Application",
+                "Reading": "[1] Chapter 6",
+                "CLO": "3.3 3.4",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 7. Sampling distribution 7.1. Distribution of sample mean 7.2. Distribution of sample variance 7.3. Distribution of sample proportion 7.4. Point estimate of parameter - Estimator of mean - Estimator of variance - Estimator of proportion",
+                "[1] Chapter 7",
+                "4.1 4.2",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Lecture 7. Sampling distribution 7.1. Distribution of sample mean 7.2. Distribution of sample variance 7.3. Distribution of sample proportion 7.4. Point estimate of parameter - Estimator of mean - Estimator of variance - Estimator of proportion",
+                "Reading": "[1] Chapter 7",
+                "CLO": "4.1 4.2",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 8. Confidence Interval 8.1. Confidence interval - Confidence level - Intervale - Interval width 8.2. CI for mean - Formula - Application - Problem of sample size 8.3. CI for variance - Formula and application 8.4. CI of proportion - Formula - Application - Problem of sample size",
+                "[1] Chapter 8",
+                "4.2",
+                "Solve previous home work Lecture Discussion Excel practice Prepare for midterm test",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Lecture 8. Confidence Interval 8.1. Confidence interval - Confidence level - Intervale - Interval width 8.2. CI for mean - Formula - Application - Problem of sample size 8.3. CI for variance - Formula and application 8.4. CI of proportion - Formula - Application - Problem of sample size",
+                "Reading": "[1] Chapter 8",
+                "CLO": "4.2",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice Prepare for midterm test",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Midterm test (45 minutes)",
+                "",
+                "",
+                "",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Midterm test (45 minutes)",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Lecture 9. Hypothesis testing 9.1. Hypothesis - Hypotheses pair 9.2. Decision and error - Reject and not reject - Error type I - Error type II - Significant level 9.3. Procedure of testing - Rejection area - Statistical value, critical value - p-value",
+                "[1] Chapter 9",
+                "4.3",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Lecture 9. Hypothesis testing 9.1. Hypothesis - Hypotheses pair 9.2. Decision and error - Reject and not reject - Error type I - Error type II - Significant level 9.3. Procedure of testing - Rejection area - Statistical value, critical value - p-value",
+                "Reading": "[1] Chapter 9",
+                "CLO": "4.3",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 10. Testing for One parameter 10.1. Test for mean - Formula - Application 10.2. Test for variance - Formula - Application 10.3. Test for proportion - Formula - Application",
+                "[1] Chapter 9",
+                "4.3 4.4",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Lecture 10. Testing for One parameter 10.1. Test for mean - Formula - Application 10.2. Test for variance - Formula - Application 10.3. Test for proportion - Formula - Application",
+                "Reading": "[1] Chapter 9",
+                "CLO": "4.3 4.4",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 11. Testing for Two parameters 11.1. Dependent and Independent samples - Pair samples - Independent samples 11.2. Test for two means - Formula - Application 11.3. Test for two variances - Formula - Application 11.4. Test for two proportions - Formula - Application",
+                "[1] Chapter 10",
+                "4.4 4.5",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Attendance discussion Exercise Rubric 1"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Lecture 11. Testing for Two parameters 11.1. Dependent and Independent samples - Pair samples - Independent samples 11.2. Test for two means - Formula - Application 11.3. Test for two variances - Formula - Application 11.4. Test for two proportions - Formula - Application",
+                "Reading": "[1] Chapter 10",
+                "CLO": "4.4 4.5",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Attendance discussion Exercise Rubric 1"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 12. Single regression 12.1. Model - Poupulation regression model - Sample regression 12.2. Estimate - Least squares estimation - Estimated coefficient 12.3. T-test for coefficient - T-test for significant of coefficient",
+                "[1] Chapter 14, 15",
+                "5.1 5.2 5.3",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Assignment submission Rubric 3"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Lecture 12. Single regression 12.1. Model - Poupulation regression model - Sample regression 12.2. Estimate - Least squares estimation - Estimated coefficient 12.3. T-test for coefficient - T-test for significant of coefficient",
+                "Reading": "[1] Chapter 14, 15",
+                "CLO": "5.1 5.2 5.3",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Assignment submission Rubric 3"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Lecture 13. Multiple regression 13.1. Model - PRF and SRF - Interpret coefficient 13.2. Estimate - Estimated coefficient - Standard error - Coefficient of determination 13.3. T-test and F-test - T-test for coefficient - F-test for overall significant",
+                "[1] Chapter 16",
+                "5.3 5.4",
+                "Solve previous home work Lecture Discussion Excel practice",
+                "Eviews Test, Rubric 2"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Lecture 13. Multiple regression 13.1. Model - PRF and SRF - Interpret coefficient 13.2. Estimate - Estimated coefficient - Standard error - Coefficient of determination 13.3. T-test and F-test - T-test for coefficient - F-test for overall significant",
+                "Reading": "[1] Chapter 16",
+                "CLO": "5.3 5.4",
+                "Activities": "Solve previous home work Lecture Discussion Excel practice",
+                "Assessment": "Eviews Test, Rubric 2"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Revision - Summary content of the course - Revision of final exam",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Revision - Summary content of the course - Revision of final exam",
+                "Reading": "",
+                "CLO": "",
+                "Activities": "",
+                "Assessment": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 87
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 89
+        },
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Students will be awarded points for constructive comments, these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 90
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 91
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tokt1145#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 93
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 94
+        },
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 95
+        },
+        {
+          "type": "table",
+          "order": 65,
+          "table_id": "en-ep17-tokt1145#tbl012",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 97,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Nguyen Manh The",
+              "cells": [
+                "PhD Nguyen Manh The",
+                "Prof. Dr Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Nguyen Manh The",
+                "NEU’s President": "Prof. Dr Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-tokt1145#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued with Decision number 968/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued with Decision number 968/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+            "COURSE SYLLABUS (Issued with Decision number 968/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Program name: Bachelor of Software Enginerring",
+          "cells": [
+            "Program name: Bachelor of Software Enginerring",
+            "Program name: Bachelor of Software Enginerring"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 21,
+      "table_id": "en-ep17-tokt1145#tbl002",
+      "table_name": "* Kind of course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 24,
+      "column_labels": [
+        "Foundation ☐",
+        "Foundation ☐_2",
+        "Fundamental ☐",
+        "Fundamental ☐_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory",
+          "cells": [
+            "Compulsory",
+            "Elective ☐",
+            "Compulsory ☐",
+            "Elective ☐"
+          ],
+          "column_map": {
+            "Foundation ☐": "Compulsory",
+            "Foundation ☐_2": "Elective ☐",
+            "Fundamental ☐": "Compulsory ☐",
+            "Fundamental ☐_2": "Elective ☐"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "en-ep17-tokt1145#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Course Goals",
+        "Goal Description",
+        "Program Learning Outcomes (PLO)",
+        "Level of competence"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Course Goals": "[1]",
+            "Goal Description": "[2]",
+            "Program Learning Outcomes (PLO)": "[3]",
+            "Level of competence": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Understand the role and significant of statistics in economics and business; Present data in convenient and informative way, interpret and analyze graph, numerical statistics, using software and presentation tools; Understand concepts and application of probability, probability distribution; Apply inferential statistics in economics and business decision making; Using linear regression and correlation to analyze relationship of economic and business variables.",
+            "PLO2",
+            "1"
+          ],
+          "column_map": {
+            "Course Goals": "G1",
+            "Goal Description": "Understand the role and significant of statistics in economics and business; Present data in convenient and informative way, interpret and analyze graph, numerical statistics, using software and presentation tools; Understand concepts and application of probability, probability distribution; Apply inferential statistics in economics and business decision making; Using linear regression and correlation to analyze relationship of economic and business variables.",
+            "Program Learning Outcomes (PLO)": "PLO2",
+            "Level of competence": "1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Using English for communication and software fluently.",
+            "PLO14, PLO15",
+            "3"
+          ],
+          "column_map": {
+            "Course Goals": "G2",
+            "Goal Description": "Using English for communication and software fluently.",
+            "Program Learning Outcomes (PLO)": "PLO14, PLO15",
+            "Level of competence": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 38,
+      "table_id": "en-ep17-tokt1145#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 48,
+      "column_labels": [
+        "Course goals",
+        "CLO",
+        "Descriptions",
+        "Level of competence"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Course goals": "[1]",
+            "CLO": "[2]",
+            "Descriptions": "[3]",
+            "Level of competence": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 1.1",
+            "Recognize statistical problems in any fields of study, connect problems with statistic concepts",
+            "IT1"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 1.1",
+            "Descriptions": "Recognize statistical problems in any fields of study, connect problems with statistic concepts",
+            "Level of competence": "IT1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 1.2",
+            "Distinguish statistic branches, population and sample, types of variables, and operations could be applied",
+            "TU1"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 1.2",
+            "Descriptions": "Distinguish statistic branches, population and sample, types of variables, and operations could be applied",
+            "Level of competence": "TU1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.1",
+            "Use appropriate graph to present information",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 2.1",
+            "Descriptions": "Use appropriate graph to present information",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.2",
+            "Calculate accurately statistics with relevant variables",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 2.2",
+            "Descriptions": "Calculate accurately statistics with relevant variables",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.3",
+            "Compare data and variable by using statistical value, graph",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 2.3",
+            "Descriptions": "Compare data and variable by using statistical value, graph",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.4",
+            "Summarize, analyze and make conclusion about economic and business problems",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 2.4",
+            "Descriptions": "Summarize, analyze and make conclusion about economic and business problems",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.5",
+            "Suggestion for questions and new measures",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 2.5",
+            "Descriptions": "Suggestion for questions and new measures",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 3.1",
+            "Understand the concepts and formulae of basic probability, calculate accurately probabilities",
+            "IT 1"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 3.1",
+            "Descriptions": "Understand the concepts and formulae of basic probability, calculate accurately probabilities",
+            "Level of competence": "IT 1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 3.2",
+            "Apply probability concepts: Expect value, variance,",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 3.2",
+            "Descriptions": "Apply probability concepts: Expect value, variance,",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 3.3",
+            "Apply probability distribution in economic, finance, investment, business problems",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 3.3",
+            "Descriptions": "Apply probability distribution in economic, finance, investment, business problems",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 3.4",
+            "Make decision on probability and parameters",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 3.4",
+            "Descriptions": "Make decision on probability and parameters",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 4.1",
+            "Understand concepts of point estimate, unbiased, efficient estimator, maximum likelihood estimator, indicate best unbiased estimator",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 4.1",
+            "Descriptions": "Understand concepts of point estimate, unbiased, efficient estimator, maximum likelihood estimator, indicate best unbiased estimator",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 4.2",
+            "Apply correct interval estimate for appropriate parameter in economic and business",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 4.2",
+            "Descriptions": "Apply correct interval estimate for appropriate parameter in economic and business",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 4.3",
+            "Apply correct hypothesis testing for appropriate parameter in economic and business",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 4.3",
+            "Descriptions": "Apply correct hypothesis testing for appropriate parameter in economic and business",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 4.4",
+            "Distinguish estimate, hypothesis testing, one and two populations",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 4.4",
+            "Descriptions": "Distinguish estimate, hypothesis testing, one and two populations",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 4.5",
+            "Establish appropriate hypothesis and testing method for problems",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 4.5",
+            "Descriptions": "Establish appropriate hypothesis and testing method for problems",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.1",
+            "Understand concept of regression model",
+            "IT 1"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.1",
+            "Descriptions": "Understand concept of regression model",
+            "Level of competence": "IT 1"
+          }
+        },
+        {
+          "row_index": 18,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.2",
+            "Interpret estimated coefficients and other statistics on regression",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.2",
+            "Descriptions": "Interpret estimated coefficients and other statistics on regression",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 19,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.3",
+            "Hypothesis testing and confidence interval of regression coefficients; goodness of fit test",
+            "TU 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.3",
+            "Descriptions": "Hypothesis testing and confidence interval of regression coefficients; goodness of fit test",
+            "Level of competence": "TU 2"
+          }
+        },
+        {
+          "row_index": 20,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.4",
+            "Apply regression to analyze economic and business relationship",
+            "TU 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.4",
+            "Descriptions": "Apply regression to analyze economic and business relationship",
+            "Level of competence": "TU 3"
+          }
+        },
+        {
+          "row_index": 21,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.1",
+            "Using correct function, tool in software",
+            "U 2"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.1",
+            "Descriptions": "Using correct function, tool in software",
+            "Level of competence": "U 2"
+          }
+        },
+        {
+          "row_index": 22,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 5.2",
+            "Build module in software to solve statistic problems",
+            "U 3"
+          ],
+          "column_map": {
+            "Course goals": "G1",
+            "CLO": "CLO 5.2",
+            "Descriptions": "Build module in software to solve statistic problems",
+            "Level of competence": "U 3"
+          }
+        },
+        {
+          "row_index": 23,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO 6.1",
+            "Use Excel, Powerpoint to draw graphs, summarize data",
+            "U 2"
+          ],
+          "column_map": {
+            "Course goals": "G2",
+            "CLO": "CLO 6.1",
+            "Descriptions": "Use Excel, Powerpoint to draw graphs, summarize data",
+            "Level of competence": "U 2"
+          }
+        },
+        {
+          "row_index": 24,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO 6.2",
+            "Use Excel to implement testing and regression",
+            "U 3"
+          ],
+          "column_map": {
+            "Course goals": "G2",
+            "CLO": "CLO 6.2",
+            "Descriptions": "Use Excel to implement testing and regression",
+            "Level of competence": "U 3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 44,
+      "table_id": "en-ep17-tokt1145#tbl005",
+      "table_name": "Table 6.1. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 56,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "CLO 1.1, 1.2,",
+            "10%",
+            "1-15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "CLOs": "CLO 1.1, 1.2,",
+            "Weighting (%)": "10%",
+            "Week": "1-15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group assignment",
+          "cells": [
+            "Group assignment",
+            "CLO",
+            "40%",
+            "5"
+          ],
+          "column_map": {
+            "Assessments": "Group assignment",
+            "CLOs": "CLO",
+            "Weighting (%)": "40%",
+            "Week": "5"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Midterm test",
+          "cells": [
+            "Midterm test",
+            "CLO",
+            "40%",
+            "10"
+          ],
+          "column_map": {
+            "Assessments": "Midterm test",
+            "CLOs": "CLO",
+            "Weighting (%)": "40%",
+            "Week": "10"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "CLO",
+            "50%",
+            "By program"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "CLO",
+            "Weighting (%)": "50%",
+            "Week": "By program"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 47,
+      "table_id": "en-ep17-tokt1145#tbl006",
+      "table_name": "Table 6.2. Rubric 1",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 60,
+      "column_labels": [
+        "Participant",
+        "Weight",
+        "Excellent 9 - 10",
+        "Good 7 - 8",
+        "Fair 5 - 6",
+        "Poor 0 - 4"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Attendance",
+          "cells": [
+            "Attendance",
+            "50%",
+            "No absence",
+            "Absence 1 – 2 classes",
+            "Absence 3 class",
+            "Absence more than 3 classes"
+          ],
+          "column_map": {
+            "Participant": "Attendance",
+            "Weight": "50%",
+            "Excellent 9 - 10": "No absence",
+            "Good 7 - 8": "Absence 1 – 2 classes",
+            "Fair 5 - 6": "Absence 3 class",
+            "Poor 0 - 4": "Absence more than 3 classes"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Discussion",
+          "cells": [
+            "Discussion",
+            "40%",
+            "Good answers for class questions, good discussion on assignment topic, being volunteer",
+            "Answer class questions, and discussion on assignment topic",
+            "Answer class questions, or express opinion on group assignment",
+            "No answer, no discussion, no express opinion of group work"
+          ],
+          "column_map": {
+            "Participant": "Discussion",
+            "Weight": "40%",
+            "Excellent 9 - 10": "Good answers for class questions, good discussion on assignment topic, being volunteer",
+            "Good 7 - 8": "Answer class questions, and discussion on assignment topic",
+            "Fair 5 - 6": "Answer class questions, or express opinion on group assignment",
+            "Poor 0 - 4": "No answer, no discussion, no express opinion of group work"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Home exercise",
+          "cells": [
+            "Home exercise",
+            "10%",
+            "Answer all compulsory and optional exercises",
+            "Answer all compulsory exercises",
+            "Answer several compulsory exercises",
+            "Do not answer home exercises"
+          ],
+          "column_map": {
+            "Participant": "Home exercise",
+            "Weight": "10%",
+            "Excellent 9 - 10": "Answer all compulsory and optional exercises",
+            "Good 7 - 8": "Answer all compulsory exercises",
+            "Fair 5 - 6": "Answer several compulsory exercises",
+            "Poor 0 - 4": "Do not answer home exercises"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 49,
+      "table_id": "en-ep17-tokt1145#tbl007",
+      "table_name": "Table 6.3. Rubric 2",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 63,
+      "column_labels": [
+        "Group Assignment",
+        "Weight",
+        "Excellent 8,5 - 10",
+        "Good 6,5 – 8,4",
+        "Fair 4,0 – 6,4",
+        "Poor 0 – 3,9"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Design",
+          "cells": [
+            "Design",
+            "20%",
+            "Impressive design and colors, no format mistake",
+            "Good design and appropriate color, several format mistake",
+            "Not unique design and format, many mistakes",
+            "Not follow unique design or standard format"
+          ],
+          "column_map": {
+            "Group Assignment": "Design",
+            "Weight": "20%",
+            "Excellent 8,5 - 10": "Impressive design and colors, no format mistake",
+            "Good 6,5 – 8,4": "Good design and appropriate color, several format mistake",
+            "Fair 4,0 – 6,4": "Not unique design and format, many mistakes",
+            "Poor 0 – 3,9": "Not follow unique design or standard format"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Statistic analysis",
+          "cells": [
+            "Statistic analysis",
+            "30%",
+            "Using most of all statistic tools and analyze effectively",
+            "Using appropriate statistic tools, apply in relevant data",
+            "Using several statistical tools, some are irrelevant",
+            "Not using statistical tools to analyze data"
+          ],
+          "column_map": {
+            "Group Assignment": "Statistic analysis",
+            "Weight": "30%",
+            "Excellent 8,5 - 10": "Using most of all statistic tools and analyze effectively",
+            "Good 6,5 – 8,4": "Using appropriate statistic tools, apply in relevant data",
+            "Fair 4,0 – 6,4": "Using several statistical tools, some are irrelevant",
+            "Poor 0 – 3,9": "Not using statistical tools to analyze data"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Comment",
+          "cells": [
+            "Comment",
+            "20%",
+            "Good comment base on statistical analysis, connect to the actual circumstance",
+            "Appropriate comment on statistical results, summary and conclusion are appropriate",
+            "Several comments are inappropriate, or not relevant to data",
+            "No comment or conclusion"
+          ],
+          "column_map": {
+            "Group Assignment": "Comment",
+            "Weight": "20%",
+            "Excellent 8,5 - 10": "Good comment base on statistical analysis, connect to the actual circumstance",
+            "Good 6,5 – 8,4": "Appropriate comment on statistical results, summary and conclusion are appropriate",
+            "Fair 4,0 – 6,4": "Several comments are inappropriate, or not relevant to data",
+            "Poor 0 – 3,9": "No comment or conclusion"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Present",
+          "cells": [
+            "Present",
+            "30%",
+            "Impressive presentation, eye contact, fluent English, many member present",
+            "Good present, several mistake in speaking, at least half of member present",
+            "Present is difficult to follow, many mistake in English, only one or two member present",
+            "Cannot present the results or not in English"
+          ],
+          "column_map": {
+            "Group Assignment": "Present",
+            "Weight": "30%",
+            "Excellent 8,5 - 10": "Impressive presentation, eye contact, fluent English, many member present",
+            "Good 6,5 – 8,4": "Good present, several mistake in speaking, at least half of member present",
+            "Fair 4,0 – 6,4": "Present is difficult to follow, many mistake in English, only one or two member present",
+            "Poor 0 – 3,9": "Cannot present the results or not in English"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 51,
+      "table_id": "en-ep17-tokt1145#tbl008",
+      "table_name": "Table 6.4. Rubric 3",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 67,
+      "column_labels": [
+        "Midterm test",
+        "Weight",
+        "Excellent 8,5 - 10",
+        "Good 6,5 – 8,4",
+        "Fair 4,0 – 6,4",
+        "Poor 0 – 3,9"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Test",
+          "cells": [
+            "Test",
+            "100%",
+            "Correct 17 – 20 questions",
+            "Correct 13 – 16 questions",
+            "Correct 8 – 12 questions",
+            "Correct 0 – 7 questions"
+          ],
+          "column_map": {
+            "Midterm test": "Test",
+            "Weight": "100%",
+            "Excellent 8,5 - 10": "Correct 17 – 20 questions",
+            "Good 6,5 – 8,4": "Correct 13 – 16 questions",
+            "Fair 4,0 – 6,4": "Correct 8 – 12 questions",
+            "Poor 0 – 3,9": "Correct 0 – 7 questions"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 53,
+      "table_id": "en-ep17-tokt1145#tbl009",
+      "table_name": "Table 6.5. Rubric 4",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 71,
+      "column_labels": [
+        "Final Exam",
+        "Weight",
+        "Excellent 8,5 - 10",
+        "Good 6,5 – 8,4",
+        "Fair 4,0 – 6,4",
+        "Poor 0 – 3,9"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Calculation",
+          "cells": [
+            "Calculation",
+            "50%",
+            "Mostly correct, only one or two mistakes",
+            "Correct in most questions",
+            "Correct in several questions",
+            "Incorrect in most questions"
+          ],
+          "column_map": {
+            "Final Exam": "Calculation",
+            "Weight": "50%",
+            "Excellent 8,5 - 10": "Mostly correct, only one or two mistakes",
+            "Good 6,5 – 8,4": "Correct in most questions",
+            "Fair 4,0 – 6,4": "Correct in several questions",
+            "Poor 0 – 3,9": "Incorrect in most questions"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Analyze and discuss",
+          "cells": [
+            "Analyze and discuss",
+            "50%",
+            "Good analysis, adequate comment, deep discussion",
+            "Simply analysis and discussion in most of questions",
+            "Poor analysis and discussion in several questions",
+            "Very poor analysis or no discussion"
+          ],
+          "column_map": {
+            "Final Exam": "Analyze and discuss",
+            "Weight": "50%",
+            "Excellent 8,5 - 10": "Good analysis, adequate comment, deep discussion",
+            "Good 6,5 – 8,4": "Simply analysis and discussion in most of questions",
+            "Fair 4,0 – 6,4": "Poor analysis and discussion in several questions",
+            "Poor 0 – 3,9": "Very poor analysis or no discussion"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "General: % of correct answers",
+          "cells": [
+            "General: % of correct answers",
+            "",
+            "85-100%",
+            "65-84%",
+            "40-64%",
+            "0 – 39%"
+          ],
+          "column_map": {
+            "Final Exam": "General: % of correct answers",
+            "Weight": "",
+            "Excellent 8,5 - 10": "85-100%",
+            "Good 6,5 – 8,4": "65-84%",
+            "Fair 4,0 – 6,4": "40-64%",
+            "Poor 0 – 3,9": "0 – 39%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 55,
+      "table_id": "en-ep17-tokt1145#tbl010",
+      "table_name": "Table 7.1. Course Outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 77,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Reading",
+        "CLO",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "1. Introduction and Basic Concepts - Concepts - Data, variable - Excel practic",
+            "[1] Chapter 1, 2",
+            "1.1 1.2",
+            "Read syllabus (IU) Lecture (T) - Install Data Analysis Toolpak into Microsoft Excel",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "1. Introduction and Basic Concepts - Concepts - Data, variable - Excel practic",
+            "Reading": "[1] Chapter 1, 2",
+            "CLO": "1.1 1.2",
+            "Activities": "Read syllabus (IU) Lecture (T) - Install Data Analysis Toolpak into Microsoft Excel",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2-3",
+          "cells": [
+            "2-3",
+            "Descriptive Statistics Tables and Charts Numerical Statistics: - Central Tendency - Measure of Variability - Measure of Shape - Measure of Relationship",
+            "[1] Chapter 2, 3",
+            "2.2 2.3 2.4 2.5",
+            "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "2-3",
+            "Content": "Descriptive Statistics Tables and Charts Numerical Statistics: - Central Tendency - Measure of Variability - Measure of Shape - Measure of Relationship",
+            "Reading": "[1] Chapter 2, 3",
+            "CLO": "2.2 2.3 2.4 2.5",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Basic Probability - Concepts - Rule of probablitys -",
+            "[1] Chapter 4",
+            "3.1",
+            "Previous homework discussion (TU) Lecture (T) Homework (U) Discuss on presentation (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Basic Probability - Concepts - Rule of probablitys -",
+            "Reading": "[1] Chapter 4",
+            "CLO": "3.1",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U) Discuss on presentation (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Presentation: Description of data",
+            "",
+            "",
+            "Present and discuss (U)",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Presentation: Description of data",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "Present and discuss (U)",
+            "Assessment": "Rubric 2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "6-7",
+          "cells": [
+            "6-7",
+            "Random variable Discrete and Continuous",
+            "[1] Chapter 5, 6",
+            "3.2 3.3 3.4",
+            "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "6-7",
+            "Content": "Random variable Discrete and Continuous",
+            "Reading": "[1] Chapter 5, 6",
+            "CLO": "3.2 3.3 3.4",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "8-9",
+          "cells": [
+            "8-9",
+            "Sampling distribution and Estimation - Sampling distribution - Point Estimate - Confidence interval - Confidence interval for 3 parameters: mean, variance, proportion",
+            "[1] Chapter 7, 8",
+            "4.1 4.2",
+            "Previous homework discussion (TU) Lecture (T) Homework (U) Prepare for midterm",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "8-9",
+            "Content": "Sampling distribution and Estimation - Sampling distribution - Point Estimate - Confidence interval - Confidence interval for 3 parameters: mean, variance, proportion",
+            "Reading": "[1] Chapter 7, 8",
+            "CLO": "4.1 4.2",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U) Prepare for midterm",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Midterm test",
+            "",
+            "",
+            "Test in 45 minutes",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Midterm test",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "Test in 45 minutes",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "10-12",
+          "cells": [
+            "10-12",
+            "Hypothesis testing - Theory of hypothesis testing - Testing for one parameter - Testing for two parameter",
+            "[1] Chapter 9, 10",
+            "4.3 4.4 4.5",
+            "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "10-12",
+            "Content": "Hypothesis testing - Theory of hypothesis testing - Testing for one parameter - Testing for two parameter",
+            "Reading": "[1] Chapter 9, 10",
+            "CLO": "4.3 4.4 4.5",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "13-14",
+          "cells": [
+            "13-14",
+            "Regression - Single linear regression - Multiple regression",
+            "[1] Chapter 15, 16",
+            "5.1 5.2 5.3 5.4",
+            "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "13-14",
+            "Content": "Regression - Single linear regression - Multiple regression",
+            "Reading": "[1] Chapter 15, 16",
+            "CLO": "5.1 5.2 5.3 5.4",
+            "Activities": "Previous homework discussion (TU) Lecture (T) Homework (U)",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Revision",
+            "",
+            "",
+            "",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Revision",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "Final Exam",
+          "cells": [
+            "",
+            "Final Exam",
+            "",
+            "",
+            "According to the given schedule",
+            "According to the exam requirement"
+          ],
+          "column_map": {
+            "Week": "",
+            "Content": "Final Exam",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "According to the given schedule",
+            "Assessment": "According to the exam requirement"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 57,
+      "table_id": "en-ep17-tokt1145#tbl011",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 83,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Reading",
+        "CLO",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1. Introduction 1.1. Concepts 1.2. Branches of Statistics - Descriptive statistics - Inferential statistics 1.3. Structure of data set - Obervation, variable, value 1.4. Type of variables - Nominal - Ordinal - Scale 1.5. Excel tool introduce",
+            "[1] Chapter 1",
+            "1.1",
+            "Introducing the syllabus, regulations Lecture Intruduce software: Excel Install Data analysis took pak Introduce data set Home work",
+            "Attendance Rubric 1"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Lecture 1. Introduction 1.1. Concepts 1.2. Branches of Statistics - Descriptive statistics - Inferential statistics 1.3. Structure of data set - Obervation, variable, value 1.4. Type of variables - Nominal - Ordinal - Scale 1.5. Excel tool introduce",
+            "Reading": "[1] Chapter 1",
+            "CLO": "1.1",
+            "Activities": "Introducing the syllabus, regulations Lecture Intruduce software: Excel Install Data analysis took pak Introduce data set Home work",
+            "Assessment": "Attendance Rubric 1"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 2. Tables and Charts 2.1. Frequency table - Frequency and relative frequency table - Cross-table 2.2. Charts - Pie chart - Column chart - Stacked chart - Histogram - Line chart - Bubble chart - Radar chart",
+            "[1] Chapter 2",
+            "1.2",
+            "Solve previous home work Lecture Discussion Excel practice Groups member register Data for each group Home work",
+            "Attendance discussion Volunteer Rubric 1"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Lecture 2. Tables and Charts 2.1. Frequency table - Frequency and relative frequency table - Cross-table 2.2. Charts - Pie chart - Column chart - Stacked chart - Histogram - Line chart - Bubble chart - Radar chart",
+            "Reading": "[1] Chapter 2",
+            "CLO": "1.2",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice Groups member register Data for each group Home work",
+            "Assessment": "Attendance discussion Volunteer Rubric 1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 3. Numerical statistics 3.1. Central tendency - Mean - Median - Mode 3.2. Measure of variability - Range - Variance and Standard deviation - Coefficient of variation - Quartiles and Interquartile range - Boxplot 3.3. Measure of shape - Skewness - Kurtosis 3.4. Measure of relationship - Covariance - Correlation",
+            "[1] Chapter 3",
+            "2.2 2.3 2.4 2.5",
+            "Solve previous home work Lecture Discussion Excel practice Discuss on group’s data",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Lecture 3. Numerical statistics 3.1. Central tendency - Mean - Median - Mode 3.2. Measure of variability - Range - Variance and Standard deviation - Coefficient of variation - Quartiles and Interquartile range - Boxplot 3.3. Measure of shape - Skewness - Kurtosis 3.4. Measure of relationship - Covariance - Correlation",
+            "Reading": "[1] Chapter 3",
+            "CLO": "2.2 2.3 2.4 2.5",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice Discuss on group’s data",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 4. Basic Probability 4.1. Concept - Experiment, Outcome - Event 4.3. Classical probabiltiy - Probability - Classical formula 4.4. Rule of interaction - Interaction - Interaction probability - Conditional probability 4.5. Rule of union - Union of events - Rule of union 4.6. Total probability - Total probability - Bayes’ probablity",
+            "[1] Chapter 4",
+            "3.1",
+            "Solve previous home work Lecture Discussion Excel practice Discuss on group’s assignment",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Lecture 4. Basic Probability 4.1. Concept - Experiment, Outcome - Event 4.3. Classical probabiltiy - Probability - Classical formula 4.4. Rule of interaction - Interaction - Interaction probability - Conditional probability 4.5. Rule of union - Union of events - Rule of union 4.6. Total probability - Total probability - Bayes’ probablity",
+            "Reading": "[1] Chapter 4",
+            "CLO": "3.1",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice Discuss on group’s assignment",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Presentation: Group present",
+            "",
+            "",
+            "Present by group Listen, disscuss, and evaluate",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Presentation: Group present",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "Present by group Listen, disscuss, and evaluate",
+            "Assessment": "Rubric 2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 5. Discrete Probability 5.1. Random variable 5.2. Probability distribution - Probabiity table 5.3. Parameter - Expected value - Variance - Standard deviation 5.4. Bernoulli distribution 5.5. Binomial distribution - Formula, expected value, variance 5.6. Poisson distribution",
+            "[1] Chapter 5",
+            "3.2 3.3",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Lecture 5. Discrete Probability 5.1. Random variable 5.2. Probability distribution - Probabiity table 5.3. Parameter - Expected value - Variance - Standard deviation 5.4. Bernoulli distribution 5.5. Binomial distribution - Formula, expected value, variance 5.6. Poisson distribution",
+            "Reading": "[1] Chapter 5",
+            "CLO": "3.2 3.3",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 6. Continuos distribution 6.1. Distribution 6.2. Parameter - Expected value - Variance 6.3. Uniform distribution - Mean and variance 6.4. Normal distribution - Definition - Standardized normal - Probability formula - Application",
+            "[1] Chapter 6",
+            "3.3 3.4",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Lecture 6. Continuos distribution 6.1. Distribution 6.2. Parameter - Expected value - Variance 6.3. Uniform distribution - Mean and variance 6.4. Normal distribution - Definition - Standardized normal - Probability formula - Application",
+            "Reading": "[1] Chapter 6",
+            "CLO": "3.3 3.4",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 7. Sampling distribution 7.1. Distribution of sample mean 7.2. Distribution of sample variance 7.3. Distribution of sample proportion 7.4. Point estimate of parameter - Estimator of mean - Estimator of variance - Estimator of proportion",
+            "[1] Chapter 7",
+            "4.1 4.2",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Lecture 7. Sampling distribution 7.1. Distribution of sample mean 7.2. Distribution of sample variance 7.3. Distribution of sample proportion 7.4. Point estimate of parameter - Estimator of mean - Estimator of variance - Estimator of proportion",
+            "Reading": "[1] Chapter 7",
+            "CLO": "4.1 4.2",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 8. Confidence Interval 8.1. Confidence interval - Confidence level - Intervale - Interval width 8.2. CI for mean - Formula - Application - Problem of sample size 8.3. CI for variance - Formula and application 8.4. CI of proportion - Formula - Application - Problem of sample size",
+            "[1] Chapter 8",
+            "4.2",
+            "Solve previous home work Lecture Discussion Excel practice Prepare for midterm test",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Lecture 8. Confidence Interval 8.1. Confidence interval - Confidence level - Intervale - Interval width 8.2. CI for mean - Formula - Application - Problem of sample size 8.3. CI for variance - Formula and application 8.4. CI of proportion - Formula - Application - Problem of sample size",
+            "Reading": "[1] Chapter 8",
+            "CLO": "4.2",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice Prepare for midterm test",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Midterm test (45 minutes)",
+            "",
+            "",
+            "",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Midterm test (45 minutes)",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Lecture 9. Hypothesis testing 9.1. Hypothesis - Hypotheses pair 9.2. Decision and error - Reject and not reject - Error type I - Error type II - Significant level 9.3. Procedure of testing - Rejection area - Statistical value, critical value - p-value",
+            "[1] Chapter 9",
+            "4.3",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Lecture 9. Hypothesis testing 9.1. Hypothesis - Hypotheses pair 9.2. Decision and error - Reject and not reject - Error type I - Error type II - Significant level 9.3. Procedure of testing - Rejection area - Statistical value, critical value - p-value",
+            "Reading": "[1] Chapter 9",
+            "CLO": "4.3",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 10. Testing for One parameter 10.1. Test for mean - Formula - Application 10.2. Test for variance - Formula - Application 10.3. Test for proportion - Formula - Application",
+            "[1] Chapter 9",
+            "4.3 4.4",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Lecture 10. Testing for One parameter 10.1. Test for mean - Formula - Application 10.2. Test for variance - Formula - Application 10.3. Test for proportion - Formula - Application",
+            "Reading": "[1] Chapter 9",
+            "CLO": "4.3 4.4",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 11. Testing for Two parameters 11.1. Dependent and Independent samples - Pair samples - Independent samples 11.2. Test for two means - Formula - Application 11.3. Test for two variances - Formula - Application 11.4. Test for two proportions - Formula - Application",
+            "[1] Chapter 10",
+            "4.4 4.5",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Attendance discussion Exercise Rubric 1"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Lecture 11. Testing for Two parameters 11.1. Dependent and Independent samples - Pair samples - Independent samples 11.2. Test for two means - Formula - Application 11.3. Test for two variances - Formula - Application 11.4. Test for two proportions - Formula - Application",
+            "Reading": "[1] Chapter 10",
+            "CLO": "4.4 4.5",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Attendance discussion Exercise Rubric 1"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 12. Single regression 12.1. Model - Poupulation regression model - Sample regression 12.2. Estimate - Least squares estimation - Estimated coefficient 12.3. T-test for coefficient - T-test for significant of coefficient",
+            "[1] Chapter 14, 15",
+            "5.1 5.2 5.3",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Assignment submission Rubric 3"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Lecture 12. Single regression 12.1. Model - Poupulation regression model - Sample regression 12.2. Estimate - Least squares estimation - Estimated coefficient 12.3. T-test for coefficient - T-test for significant of coefficient",
+            "Reading": "[1] Chapter 14, 15",
+            "CLO": "5.1 5.2 5.3",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Assignment submission Rubric 3"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Lecture 13. Multiple regression 13.1. Model - PRF and SRF - Interpret coefficient 13.2. Estimate - Estimated coefficient - Standard error - Coefficient of determination 13.3. T-test and F-test - T-test for coefficient - F-test for overall significant",
+            "[1] Chapter 16",
+            "5.3 5.4",
+            "Solve previous home work Lecture Discussion Excel practice",
+            "Eviews Test, Rubric 2"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Lecture 13. Multiple regression 13.1. Model - PRF and SRF - Interpret coefficient 13.2. Estimate - Estimated coefficient - Standard error - Coefficient of determination 13.3. T-test and F-test - T-test for coefficient - F-test for overall significant",
+            "Reading": "[1] Chapter 16",
+            "CLO": "5.3 5.4",
+            "Activities": "Solve previous home work Lecture Discussion Excel practice",
+            "Assessment": "Eviews Test, Rubric 2"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Revision - Summary content of the course - Revision of final exam",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Revision - Summary content of the course - Revision of final exam",
+            "Reading": "",
+            "CLO": "",
+            "Activities": "",
+            "Assessment": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 65,
+      "table_id": "en-ep17-tokt1145#tbl012",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 97,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Nguyen Manh The",
+          "cells": [
+            "PhD Nguyen Manh The",
+            "Prof. Dr Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Nguyen Manh The",
+            "NEU’s President": "Prof. Dr Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Probability and Statistics Code: TOKT1145\n* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)\n* Credit hours for teaching and learning activities:\n+ Lecture: 30 hrs\n+ Exercise and discussion: 15 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): None\n* Department conducting the course:\n+ Faculty: Mathematical Economics\nAddress: Suite 1108, Building A1, National Economics University\nTel: 024 36 280280 Ext: 6146\n+ Department: Mathematical Economics\n+ Lecturers:\n1. Bui Duong Hai, MSc Tel: Email: haibd@neu.edu.vn\n2. Nguyen Hai Duong, MSc Tel: Email: duong79tkt@neu.edu.vn\n3. Vu Thi Bich Ngọc, MSc Tel: Email: ngocvu@neu.edu.vn\n4. Nguyen Thi Thuy Trang, MSc Tel: Email: thuytrang@neu.edu.vn\n5. Mai Cam Tu, MSc Tel: Email: tumc@neu.edu.vn\n* Kind of course:\n* Course language: In English\n* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment\nThis course is a study of quantitative methods used in data analysis and economic-business decision making, including descriptive statistics and inferential statistics. The course provides students theory and appropriate techniques of interpreting, analyzing, deducing information from data. Topics include the role of statistics in modern business environments and for management information, data collection, data tabulation, probability concepts and probability distributions, sampling distribution, interval estimation, hypothesis testing and regression.\n* Textbooks/Lecture Notes:\n[1] Main text: Anderson, Sweeney, Williams, Camm, Cochran (2017), Statistics for Business and Economics, 12th Edition, South-Western, chapter 1 to 11 and 14 to 16.\n[2] Paul Newbold, William L. Carlson, Betty Thorne (2013), Statistics for Business and Economics, 8th Edition, Pearson, chapter 1 to 12.\n[3] Additional: Linda H., John F. (2013). Applied Statistics for Business and Management using Microsoft Excel, Springer.\n[4] Additional: Verma J. P. (2013). Data Analysis in Management with SPSS Software, Springer.\nOther requirement materials & Information\na. Microsoft Excel with Data Analysis Toolpak\nb. SPSS software, STATA, R, Python\nc. Excel Guidebook, NEU\nd. Data by the teachers\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6.1. Assessment summary\n* Rubrics:\nTable 6.2. Rubric 1\nTable 6.3. Rubric 2\nTable 6.4. Rubric 3\nTable 6.5. Rubric 4\nTable 7.1. Course Outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments, these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

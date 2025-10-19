@@ -1,0 +1,2162 @@
+{
+  "doc_id": "en-cntt1187e",
+  "language": "en",
+  "course_name_stem": "Data science Programming",
+  "course_variant": "",
+  "course_code": "CNTT1187E",
+  "source_filename": "Data science Programming_CNTT1187E.docx",
+  "source_relpath": "data\\raw\\en\\Data science Programming_CNTT1187E.docx",
+  "source_hash": "8c4769d5e909d2da168233ae1702f0ea",
+  "source_modified": "2025-10-11T10:42:50.586222+00:00",
+  "processed_at": "2025-10-17T16:55:25.658515+00:00",
+  "stats": {
+    "paragraphs": 26,
+    "tables": 7,
+    "sections": 11
+  },
+  "sections": [
+    {
+      "section_id": "en-cntt1187e#sec001",
+      "title": "1. GENERAL INFORMATION",
+      "level": 1,
+      "label": "general-information",
+      "path_titles": [
+        "1. GENERAL INFORMATION"
+      ],
+      "path_labels": [
+        "general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "en-cntt1187e#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 4,
+          "column_labels": [
+            "- Title",
+            "Data science Programming"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Course Number",
+              "cells": [
+                "- Course Number",
+                "CNTT1187E"
+              ],
+              "column_map": {
+                "- Title": "- Course Number",
+                "Data science Programming": "CNTT1187E"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Number of credits",
+              "cells": [
+                "- Number of credits",
+                "3"
+              ],
+              "column_map": {
+                "- Title": "- Number of credits",
+                "Data science Programming": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "+ Theoretical hours",
+              "cells": [
+                "+ Theoretical hours",
+                "10"
+              ],
+              "column_map": {
+                "- Title": "+ Theoretical hours",
+                "Data science Programming": "10"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "+ Discussion and group work period",
+              "cells": [
+                "+ Discussion and group work period",
+                "30"
+              ],
+              "column_map": {
+                "- Title": "+ Discussion and group work period",
+                "Data science Programming": "30"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "- Course Prerequisites:",
+              "cells": [
+                "- Course Prerequisites:",
+                "CNTT1116"
+              ],
+              "column_map": {
+                "- Title": "- Course Prerequisites:",
+                "Data science Programming": "CNTT1116"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec002",
+      "title": "2. LECTURER’S INFORMATION",
+      "level": 1,
+      "label": "lecturers-information",
+      "path_titles": [
+        "2. LECTURER’S INFORMATION"
+      ],
+      "path_labels": [
+        "lecturers-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Full name: Nguyen Trung Tuan Title: PhD",
+          "is_list": true,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Address: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Road, Hai Ba Trung District, Hanoi, Vietnam",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Phone number: 0913537768 Email: tuannt@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Full name: Tong Thi Minh Ngoc Title: MSc",
+          "is_list": true,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Phone number: 0913002241 Email: ngoctm@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 11
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec003",
+      "title": "3. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "This course provides basic knowledge Data Analytical. Data Analytical Programming is a specialized course that provides content so that students can understand data and its basic characteristics. Students of analysis is the nature of data, classifying data, giving appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to set up a program to perform data analysis setup with applied information data analysis problems. , math problems. Advanced data analysis with software packages that unify and connect data from database management systems.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "The course provides learners with knowledge about the process of data collection and processing, data preprocessing, data representation, some basic and advanced data analysis methods. The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice more independent working skills, teamwork skills, problem presentation skills as well as a sense of professional ethics.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 14
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec004",
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "level": 1,
+      "label": "learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Course Book(s):",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "[1] Nguyen Van Tuan, Analyze data with R, Ho Chi Minh City Publishing, 2020.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Reference Book(s):",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "[2] Ngo Van Thu, Practical statistics textbook, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "[4] Software R and https://cran.r-project.org.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Software(s): https://cran.r-project.org.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 23
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec005",
+      "title": "5. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "5. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Table 5.1. Course Learning Outcomes",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "table",
+          "order": 20,
+          "table_id": "en-cntt1187e#tbl003",
+          "table_name": "Table 5.1. Course Learning Outcomes",
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 27,
+          "column_labels": [
+            "Goal",
+            "CLO",
+            "Description",
+            "Capacity level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLO": "[2]",
+                "Description": "[3]",
+                "Capacity level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, some basic and advanced data analysis methods.",
+                "PLO 1.5A",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "The course provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, some basic and advanced data analysis methods.",
+                "Description": "PLO 1.5A",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis.",
+                "PLO 2.2.2A",
+                "4U, 4U, 4U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis.",
+                "Description": "PLO 2.2.2A",
+                "Capacity level": "4U, 4U, 4U"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+                "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "3, 3, 3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+                "Description": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "Capacity level": "3, 3, 3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec006",
+      "title": "6. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Table 6.1. Course learning outcomes",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "table",
+          "order": 22,
+          "table_id": "en-cntt1187e#tbl004",
+          "table_name": "Table 6.1. Course learning outcomes",
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 30,
+          "column_labels": [
+            "Goal",
+            "CLOs",
+            "Description",
+            "Capacity level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLOs": "[2]",
+                "Description": "[3]",
+                "Capacity level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understanding data and methods of preprocessing and representing data",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.1",
+                "Description": "Understanding data and methods of preprocessing and representing data",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understand basic and advanced data analysis methods",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.2",
+                "Description": "Understand basic and advanced data analysis methods",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Proficient use R programming for data analysis",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.1",
+                "Description": "Proficient use R programming for data analysis",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Proficient in basic data analysis",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.2",
+                "Description": "Proficient in basic data analysis",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.3",
+                "Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.3",
+                "Description": "Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study and read materials to complete lessons and assignments",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.1",
+                "Description": "Ability to self-study and read materials to complete lessons and assignments",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.2",
+                "Description": "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities.",
+                "Capacity level": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec007",
+      "title": "7. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Table 7.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "table",
+          "order": 24,
+          "table_id": "en-cntt1187e#tbl005",
+          "table_name": "Table 7.1. Course assessment",
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 34,
+          "column_labels": [
+            "Type of Assessment",
+            "Content",
+            "Week",
+            "CLOs",
+            "Assessment criteria",
+            "Proportion (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Type of Assessment": "[1]",
+                "Content": "[2]",
+                "Week": "[3]",
+                "CLOs": "[4]",
+                "Assessment criteria": "[5]",
+                "Proportion (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Class Participation",
+              "cells": [
+                "Class Participation",
+                "Class attendance",
+                "Week 1-14",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Evaluating participation of students at class, learning attitude and homework",
+                "10%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Class Participation",
+                "Content": "Class attendance",
+                "Week": "Week 1-14",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Assessment criteria": "Evaluating participation of students at class, learning attitude and homework",
+                "Proportion (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Mid-term",
+              "cells": [
+                "Mid-term",
+                "Test 1",
+                "Week 9",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Programming test",
+                "40%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Mid-term",
+                "Content": "Test 1",
+                "Week": "Week 9",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Assessment criteria": "Programming test",
+                "Proportion (%)": "40%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Mid-term",
+              "cells": [
+                "Mid-term",
+                "Test 2",
+                "Week 13",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "Programming test",
+                "40%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Mid-term",
+                "Content": "Test 2",
+                "Week": "Week 13",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Assessment criteria": "Programming test",
+                "Proportion (%)": "40%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Final test",
+              "cells": [
+                "Final test",
+                "All chapters",
+                "Exam schedule",
+                "All CLOs",
+                "Final Exam",
+                "50%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Final test",
+                "Content": "All chapters",
+                "Week": "Exam schedule",
+                "CLOs": "All CLOs",
+                "Assessment criteria": "Final Exam",
+                "Proportion (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Table 8.1. Lesson plan",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-cntt1187e#tbl006",
+          "table_name": "Table 8.1. Lesson plan",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 42,
+          "column_labels": [
+            "Session/Week",
+            "Content",
+            "Reading",
+            "CLOs",
+            "Activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Session/Week": "[1]",
+                "Content": "[2]",
+                "Reading": "[3]",
+                "CLOs": "[4]",
+                "Activities": "[5]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction: objectives, role, position of the course in the training program",
+                "Detailed course syllabus",
+                "CLO1.1 CLO3.1",
+                "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Session/Week": "1",
+                "Content": "Course introduction: objectives, role, position of the course in the training program",
+                "Reading": "Detailed course syllabus",
+                "CLOs": "CLO1.1 CLO3.1",
+                "Activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+                "Assessment": "Participation Interaction"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1. Introduction to Data Overview of Data Introduction to information collection and processing",
+                "[3] Chapter 3",
+                "CLO1.1 CLO1.2",
+                "Reading at home Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "1",
+                "Content": "Chapter 1. Introduction to Data Overview of Data Introduction to information collection and processing",
+                "Reading": "[3] Chapter 3",
+                "CLOs": "CLO1.1 CLO1.2",
+                "Activities": "Reading at home Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1. Introduction to Data 1.3 Classification Data 1.4 Preprocessing Data",
+                "[3] Chapter 1 [3] Chapter 3",
+                "CLO1.1 CLO1.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Session/Week": "2",
+                "Content": "Chapter 1. Introduction to Data 1.3 Classification Data 1.4 Preprocessing Data",
+                "Reading": "[3] Chapter 1 [3] Chapter 3",
+                "CLOs": "CLO1.1 CLO1.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 1. Introduction to Data 1.4 Preprocessing Data 1.5 Show Data",
+                "[1] Chapter 2, 3 [3] Chapter 4",
+                "CLO1.1 CLO1.2 CLO3.1",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "3",
+                "Content": "Chapter 1. Introduction to Data 1.4 Preprocessing Data 1.5 Show Data",
+                "Reading": "[1] Chapter 2, 3 [3] Chapter 4",
+                "CLOs": "CLO1.1 CLO1.2 CLO3.1",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2. R programming language 2.1 Introduction to R 2.2 Install R and packages 2.3 Syntax R",
+                "[1] Session 1",
+                "CLO1.2 CLO2.1 CLO3.1",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "4",
+                "Content": "Chapter 2. R programming language 2.1 Introduction to R 2.2 Install R and packages 2.3 Syntax R",
+                "Reading": "[1] Session 1",
+                "CLOs": "CLO1.2 CLO2.1 CLO3.1",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 2. R programming language 2.4 Import and Edit data 2.5 Functions in R",
+                "[1] Session 2",
+                "CLO1.2 CLO2.2 CLO3.1",
+                "Reading at home Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "5",
+                "Content": "Chapter 2. R programming language 2.4 Import and Edit data 2.5 Functions in R",
+                "Reading": "[1] Session 2",
+                "CLOs": "CLO1.2 CLO2.2 CLO3.1",
+                "Activities": "Reading at home Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 2. R programming language 2.6 Data visualization",
+                "[1] Session 7,8",
+                "CLO1.2 CLO2.2 CLO3.1",
+                "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "6",
+                "Content": "Chapter 2. R programming language 2.6 Data visualization",
+                "Reading": "[1] Session 7,8",
+                "CLOs": "CLO1.2 CLO2.2 CLO3.1",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 3. Hypothesis testing 3.1 Purpose and meaning of testing 3.2 Test the relationship between two qualitative variables 3.3 Sample mean test",
+                "[1] Session 6",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Reading at home Do homework Lecturing",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "7",
+                "Content": "Chapter 3. Hypothesis testing 3.1 Purpose and meaning of testing 3.2 Test the relationship between two qualitative variables 3.3 Sample mean test",
+                "Reading": "[1] Session 6",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 3. Hypothesis testing 3.4 Test for the mean of two independent samples 3.5 Two-sample mean test 3.6 Multiple-sample averaging test",
+                "[1] Session 6",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Take a computer programming test Correct the test",
+                "Participation Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "8",
+                "Content": "Chapter 3. Hypothesis testing 3.4 Test for the mean of two independent samples 3.5 Two-sample mean test 3.6 Multiple-sample averaging test",
+                "Reading": "[1] Session 6",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Activities": "Take a computer programming test Correct the test",
+                "Assessment": "Participation Answer Quality"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 4. Descriptive statistical analysis 4.1 Make a frequency distribution 4.2 Make a summary table of many variables 4.3 Make a table to analyze the relationship between two qualitative variables",
+                "[1] Session 9,14",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Reading at home Do homework Lecturing",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "9",
+                "Content": "Chapter 4. Descriptive statistical analysis 4.1 Make a frequency distribution 4.2 Make a summary table of many variables 4.3 Make a table to analyze the relationship between two qualitative variables",
+                "Reading": "[1] Session 9,14",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Midterm (Test 1 )",
+                "",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Take a computer programming test Correct the test",
+                "Participation Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "10",
+                "Content": "Midterm (Test 1 )",
+                "Reading": "",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Activities": "Take a computer programming test Correct the test",
+                "Assessment": "Participation Answer Quality"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11 - 12",
+              "cells": [
+                "11 - 12",
+                "Chapter 4. Descriptive statistical analysis 4.4 Regression Analysis 4.5 Regression Logistics",
+                "[1] Session 10, 12",
+                "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Reading at home Do homework Lecturing",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "11 - 12",
+                "Content": "Chapter 4. Descriptive statistical analysis 4.4 Regression Analysis 4.5 Regression Logistics",
+                "Reading": "[1] Session 10, 12",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Midterm (Test 2)",
+                "class",
+                "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+                "Take a computer programming test Correct the test",
+                "Participation Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "13",
+                "Content": "Midterm (Test 2)",
+                "Reading": "class",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+                "Activities": "Take a computer programming test Correct the test",
+                "Assessment": "Participation Answer Quality"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 5. Advanced analytical methods 5.1 Data classification 5.2 Decision Tree",
+                "[4] packages arules, arulesViz, party [4] packages factoextra, NbClust",
+                "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "14",
+                "Content": "Chapter 5. Advanced analytical methods 5.1 Data classification 5.2 Decision Tree",
+                "Reading": "[4] packages arules, arulesViz, party [4] packages factoextra, NbClust",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Chapter 5. Advanced analytical methods 5.3 Clustering data 5.4 Financial Data Analysis",
+                "[4] packages quantmod",
+                "CLO1.2 CLO2.1 CLO2.3CLO3.1 CLO3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "15",
+                "Content": "Chapter 5. Advanced analytical methods 5.3 Clustering data 5.4 Financial Data Analysis",
+                "Reading": "[4] packages quantmod",
+                "CLOs": "CLO1.2 CLO2.1 CLO2.3CLO3.1 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "All chapters",
+                "CLO2.1 CLO2.2 CLO2.3 CLO3.1",
+                "",
+                "Programming on the computers"
+              ],
+              "column_map": {
+                "Session/Week": "15",
+                "Content": "Course review",
+                "Reading": "All chapters",
+                "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1",
+                "Activities": "",
+                "Assessment": "Programming on the computers"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec009",
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION",
+      "level": 1,
+      "label": "course-requirements-and-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1187e#sec010",
+      "title": "9.1. Attendance Requirements",
+      "level": 2,
+      "label": "attendance-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "attendance-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Students are required to fully take part in class lectures and activities.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 49
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1187e#sec011",
+      "title": "9.2. In-class behavior Requirements",
+      "level": 2,
+      "label": "in-class-behavior-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class behavior Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Cellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "en-cntt1187e#tbl007",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "DEPARTMENT",
+            "LECTURER"
+          ],
+          "rows": []
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-cntt1187e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+          "cells": [
+            "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "en-cntt1187e#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "section_labels": [
+        "general-information"
+      ],
+      "source_block": 4,
+      "column_labels": [
+        "- Title",
+        "Data science Programming"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Course Number",
+          "cells": [
+            "- Course Number",
+            "CNTT1187E"
+          ],
+          "column_map": {
+            "- Title": "- Course Number",
+            "Data science Programming": "CNTT1187E"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Number of credits",
+          "cells": [
+            "- Number of credits",
+            "3"
+          ],
+          "column_map": {
+            "- Title": "- Number of credits",
+            "Data science Programming": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "+ Theoretical hours",
+          "cells": [
+            "+ Theoretical hours",
+            "10"
+          ],
+          "column_map": {
+            "- Title": "+ Theoretical hours",
+            "Data science Programming": "10"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "+ Discussion and group work period",
+          "cells": [
+            "+ Discussion and group work period",
+            "30"
+          ],
+          "column_map": {
+            "- Title": "+ Discussion and group work period",
+            "Data science Programming": "30"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Course Prerequisites:",
+          "cells": [
+            "- Course Prerequisites:",
+            "CNTT1116"
+          ],
+          "column_map": {
+            "- Title": "- Course Prerequisites:",
+            "Data science Programming": "CNTT1116"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 20,
+      "table_id": "en-cntt1187e#tbl003",
+      "table_name": "Table 5.1. Course Learning Outcomes",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 27,
+      "column_labels": [
+        "Goal",
+        "CLO",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLO": "[2]",
+            "Description": "[3]",
+            "Capacity level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, some basic and advanced data analysis methods.",
+            "PLO 1.5A",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "The course provides learners with knowledge about data collection and processing processes, data preprocessing, data representation, some basic and advanced data analysis methods.",
+            "Description": "PLO 1.5A",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis.",
+            "PLO 2.2.2A",
+            "4U, 4U, 4U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis.",
+            "Description": "PLO 2.2.2A",
+            "Capacity level": "4U, 4U, 4U"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+            "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "3, 3, 3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+            "Description": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "Capacity level": "3, 3, 3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 22,
+      "table_id": "en-cntt1187e#tbl004",
+      "table_name": "Table 6.1. Course learning outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 30,
+      "column_labels": [
+        "Goal",
+        "CLOs",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLOs": "[2]",
+            "Description": "[3]",
+            "Capacity level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understanding data and methods of preprocessing and representing data",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.1",
+            "Description": "Understanding data and methods of preprocessing and representing data",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understand basic and advanced data analysis methods",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.2",
+            "Description": "Understand basic and advanced data analysis methods",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Proficient use R programming for data analysis",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.1",
+            "Description": "Proficient use R programming for data analysis",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Proficient in basic data analysis",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.2",
+            "Description": "Proficient in basic data analysis",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.3",
+            "Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.3",
+            "Description": "Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study and read materials to complete lessons and assignments",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.1",
+            "Description": "Ability to self-study and read materials to complete lessons and assignments",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.2",
+            "Description": "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities.",
+            "Capacity level": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 24,
+      "table_id": "en-cntt1187e#tbl005",
+      "table_name": "Table 7.1. Course assessment",
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 34,
+      "column_labels": [
+        "Type of Assessment",
+        "Content",
+        "Week",
+        "CLOs",
+        "Assessment criteria",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Type of Assessment": "[1]",
+            "Content": "[2]",
+            "Week": "[3]",
+            "CLOs": "[4]",
+            "Assessment criteria": "[5]",
+            "Proportion (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation",
+          "cells": [
+            "Class Participation",
+            "Class attendance",
+            "Week 1-14",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Evaluating participation of students at class, learning attitude and homework",
+            "10%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Class Participation",
+            "Content": "Class attendance",
+            "Week": "Week 1-14",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Assessment criteria": "Evaluating participation of students at class, learning attitude and homework",
+            "Proportion (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Mid-term",
+          "cells": [
+            "Mid-term",
+            "Test 1",
+            "Week 9",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Programming test",
+            "40%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Mid-term",
+            "Content": "Test 1",
+            "Week": "Week 9",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Assessment criteria": "Programming test",
+            "Proportion (%)": "40%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Mid-term",
+          "cells": [
+            "Mid-term",
+            "Test 2",
+            "Week 13",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "Programming test",
+            "40%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Mid-term",
+            "Content": "Test 2",
+            "Week": "Week 13",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Assessment criteria": "Programming test",
+            "Proportion (%)": "40%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final test",
+          "cells": [
+            "Final test",
+            "All chapters",
+            "Exam schedule",
+            "All CLOs",
+            "Final Exam",
+            "50%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Final test",
+            "Content": "All chapters",
+            "Week": "Exam schedule",
+            "CLOs": "All CLOs",
+            "Assessment criteria": "Final Exam",
+            "Proportion (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-cntt1187e#tbl006",
+      "table_name": "Table 8.1. Lesson plan",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 42,
+      "column_labels": [
+        "Session/Week",
+        "Content",
+        "Reading",
+        "CLOs",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Session/Week": "[1]",
+            "Content": "[2]",
+            "Reading": "[3]",
+            "CLOs": "[4]",
+            "Activities": "[5]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction: objectives, role, position of the course in the training program",
+            "Detailed course syllabus",
+            "CLO1.1 CLO3.1",
+            "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Session/Week": "1",
+            "Content": "Course introduction: objectives, role, position of the course in the training program",
+            "Reading": "Detailed course syllabus",
+            "CLOs": "CLO1.1 CLO3.1",
+            "Activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+            "Assessment": "Participation Interaction"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1. Introduction to Data Overview of Data Introduction to information collection and processing",
+            "[3] Chapter 3",
+            "CLO1.1 CLO1.2",
+            "Reading at home Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "1",
+            "Content": "Chapter 1. Introduction to Data Overview of Data Introduction to information collection and processing",
+            "Reading": "[3] Chapter 3",
+            "CLOs": "CLO1.1 CLO1.2",
+            "Activities": "Reading at home Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1. Introduction to Data 1.3 Classification Data 1.4 Preprocessing Data",
+            "[3] Chapter 1 [3] Chapter 3",
+            "CLO1.1 CLO1.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Session/Week": "2",
+            "Content": "Chapter 1. Introduction to Data 1.3 Classification Data 1.4 Preprocessing Data",
+            "Reading": "[3] Chapter 1 [3] Chapter 3",
+            "CLOs": "CLO1.1 CLO1.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 1. Introduction to Data 1.4 Preprocessing Data 1.5 Show Data",
+            "[1] Chapter 2, 3 [3] Chapter 4",
+            "CLO1.1 CLO1.2 CLO3.1",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "3",
+            "Content": "Chapter 1. Introduction to Data 1.4 Preprocessing Data 1.5 Show Data",
+            "Reading": "[1] Chapter 2, 3 [3] Chapter 4",
+            "CLOs": "CLO1.1 CLO1.2 CLO3.1",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2. R programming language 2.1 Introduction to R 2.2 Install R and packages 2.3 Syntax R",
+            "[1] Session 1",
+            "CLO1.2 CLO2.1 CLO3.1",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "4",
+            "Content": "Chapter 2. R programming language 2.1 Introduction to R 2.2 Install R and packages 2.3 Syntax R",
+            "Reading": "[1] Session 1",
+            "CLOs": "CLO1.2 CLO2.1 CLO3.1",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 2. R programming language 2.4 Import and Edit data 2.5 Functions in R",
+            "[1] Session 2",
+            "CLO1.2 CLO2.2 CLO3.1",
+            "Reading at home Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "5",
+            "Content": "Chapter 2. R programming language 2.4 Import and Edit data 2.5 Functions in R",
+            "Reading": "[1] Session 2",
+            "CLOs": "CLO1.2 CLO2.2 CLO3.1",
+            "Activities": "Reading at home Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 2. R programming language 2.6 Data visualization",
+            "[1] Session 7,8",
+            "CLO1.2 CLO2.2 CLO3.1",
+            "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "6",
+            "Content": "Chapter 2. R programming language 2.6 Data visualization",
+            "Reading": "[1] Session 7,8",
+            "CLOs": "CLO1.2 CLO2.2 CLO3.1",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 3. Hypothesis testing 3.1 Purpose and meaning of testing 3.2 Test the relationship between two qualitative variables 3.3 Sample mean test",
+            "[1] Session 6",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Reading at home Do homework Lecturing",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "7",
+            "Content": "Chapter 3. Hypothesis testing 3.1 Purpose and meaning of testing 3.2 Test the relationship between two qualitative variables 3.3 Sample mean test",
+            "Reading": "[1] Session 6",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 3. Hypothesis testing 3.4 Test for the mean of two independent samples 3.5 Two-sample mean test 3.6 Multiple-sample averaging test",
+            "[1] Session 6",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Take a computer programming test Correct the test",
+            "Participation Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "8",
+            "Content": "Chapter 3. Hypothesis testing 3.4 Test for the mean of two independent samples 3.5 Two-sample mean test 3.6 Multiple-sample averaging test",
+            "Reading": "[1] Session 6",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Activities": "Take a computer programming test Correct the test",
+            "Assessment": "Participation Answer Quality"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 4. Descriptive statistical analysis 4.1 Make a frequency distribution 4.2 Make a summary table of many variables 4.3 Make a table to analyze the relationship between two qualitative variables",
+            "[1] Session 9,14",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Reading at home Do homework Lecturing",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "9",
+            "Content": "Chapter 4. Descriptive statistical analysis 4.1 Make a frequency distribution 4.2 Make a summary table of many variables 4.3 Make a table to analyze the relationship between two qualitative variables",
+            "Reading": "[1] Session 9,14",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Midterm (Test 1 )",
+            "",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Take a computer programming test Correct the test",
+            "Participation Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "10",
+            "Content": "Midterm (Test 1 )",
+            "Reading": "",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Activities": "Take a computer programming test Correct the test",
+            "Assessment": "Participation Answer Quality"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11 - 12",
+          "cells": [
+            "11 - 12",
+            "Chapter 4. Descriptive statistical analysis 4.4 Regression Analysis 4.5 Regression Logistics",
+            "[1] Session 10, 12",
+            "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Reading at home Do homework Lecturing",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "11 - 12",
+            "Content": "Chapter 4. Descriptive statistical analysis 4.4 Regression Analysis 4.5 Regression Logistics",
+            "Reading": "[1] Session 10, 12",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Midterm (Test 2)",
+            "class",
+            "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+            "Take a computer programming test Correct the test",
+            "Participation Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "13",
+            "Content": "Midterm (Test 2)",
+            "Reading": "class",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+            "Activities": "Take a computer programming test Correct the test",
+            "Assessment": "Participation Answer Quality"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 5. Advanced analytical methods 5.1 Data classification 5.2 Decision Tree",
+            "[4] packages arules, arulesViz, party [4] packages factoextra, NbClust",
+            "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "14",
+            "Content": "Chapter 5. Advanced analytical methods 5.1 Data classification 5.2 Decision Tree",
+            "Reading": "[4] packages arules, arulesViz, party [4] packages factoextra, NbClust",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Chapter 5. Advanced analytical methods 5.3 Clustering data 5.4 Financial Data Analysis",
+            "[4] packages quantmod",
+            "CLO1.2 CLO2.1 CLO2.3CLO3.1 CLO3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "15",
+            "Content": "Chapter 5. Advanced analytical methods 5.3 Clustering data 5.4 Financial Data Analysis",
+            "Reading": "[4] packages quantmod",
+            "CLOs": "CLO1.2 CLO2.1 CLO2.3CLO3.1 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "All chapters",
+            "CLO2.1 CLO2.2 CLO2.3 CLO3.1",
+            "",
+            "Programming on the computers"
+          ],
+          "column_map": {
+            "Session/Week": "15",
+            "Content": "Course review",
+            "Reading": "All chapters",
+            "CLOs": "CLO2.1 CLO2.2 CLO2.3 CLO3.1",
+            "Activities": "",
+            "Assessment": "Programming on the computers"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "en-cntt1187e#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class behavior Requirements"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+        "DEPARTMENT",
+        "LECTURER"
+      ],
+      "rows": []
+    }
+  ],
+  "full_text": "DETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)\nFull name: Nguyen Trung Tuan Title: PhD\nAddress: R1310, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam\nPhone number: 0913537768 Email: tuannt@neu.edu.vn\nFull name: Tong Thi Minh Ngoc Title: MSc\nPhone number: 0913002241 Email: ngoctm@neu.edu.vn\nThis course provides basic knowledge Data Analytical. Data Analytical Programming is a specialized course that provides content so that students can understand data and its basic characteristics. Students of analysis is the nature of data, classifying data, giving appropriate data analysis methods. Students can understand and use R data analysis software (or equivalent software) to set up a program to perform data analysis setup with applied information data analysis problems. , math problems. Advanced data analysis with software packages that unify and connect data from database management systems.\nThe course provides learners with knowledge about the process of data collection and processing, data preprocessing, data representation, some basic and advanced data analysis methods. The course teaches learners the skills to use R data analysis software to perform basic analyzes and other advanced analyzes such as clustering, decision trees, and financial data analysis. Through the learning process, students will practice more independent working skills, teamwork skills, problem presentation skills as well as a sense of professional ethics.\nCourse Book(s):\n[1] Nguyen Van Tuan, Analyze data with R, Ho Chi Minh City Publishing, 2020.\nReference Book(s):\n[2] Ngo Van Thu, Practical statistics textbook, National Economics University\n[3] Data Mining - Concepts and Techniques - 3Rd - Han, Kamber and Pei - Morgan\n[4] Software R and https://cran.r-project.org.\nSoftware(s): https://cran.r-project.org.\nTable 5.1. Course Learning Outcomes\nTable 6.1. Course learning outcomes\nTable 7.1. Course assessment\nTable 8.1. Lesson plan\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\nThe course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration."
+}

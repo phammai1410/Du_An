@@ -1,0 +1,2292 @@
+{
+  "doc_id": "en-ep17-cntt11107",
+  "language": "en",
+  "course_name_stem": "Parallel and Distributed Programming",
+  "course_variant": "",
+  "course_code": "EP17.CNTT11107",
+  "source_filename": "Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "source_relpath": "data\\raw\\en\\Parallel and Distributed Programming_EP17.CNTT11107.docx",
+  "source_hash": "4f49b7cc79313c6d6adaedc9b8d1564b",
+  "source_modified": "2025-10-11T10:42:50.604948+00:00",
+  "processed_at": "2025-10-17T16:55:27.347472+00:00",
+  "stats": {
+    "paragraphs": 33,
+    "tables": 7,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-cntt11107#sec001",
+      "title": "1. GENERAL INFORMATION",
+      "level": 1,
+      "label": "general-information",
+      "path_titles": [
+        "1. GENERAL INFORMATION"
+      ],
+      "path_labels": [
+        "general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "- Title: Parallel and Distributed programming",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "- Course number: EP17.CNTT11107",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "- Type of course In-depth knowledge",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "- Number of credits 3",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "+ Theory hours 30",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "+ Discuss/Practice hours",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "+ Self-study hours 15",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "90",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "- Prerequisite courses: CNTT1128; CNTT1116; CNTT1114",
+          "is_list": false,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec002",
+      "title": "2. DEPARTMENT AND TEACHER",
+      "level": 1,
+      "label": "department-and-teacher",
+      "path_titles": [
+        "2. DEPARTMENT AND TEACHER"
+      ],
+      "path_labels": [
+        "department-and-teacher"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Faculty: Information Technology",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT AND TEACHER"
+          ],
+          "section_labels": [
+            "department-and-teacher"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT AND TEACHER"
+          ],
+          "section_labels": [
+            "department-and-teacher"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Lecturer:",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT AND TEACHER"
+          ],
+          "section_labels": [
+            "department-and-teacher"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "en-ep17-cntt11107#tbl002",
+          "table_name": "Lecturer:",
+          "section_path": [
+            "2. DEPARTMENT AND TEACHER"
+          ],
+          "section_labels": [
+            "department-and-teacher"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "Dr. Đặng Minh Quân",
+            "0364102376",
+            "quandm@neu.edu.vn"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "MSc. Cao Thi Thu Hương",
+              "cells": [
+                "MSc. Cao Thi Thu Hương",
+                "0983168238",
+                "huongct@neu.edu.vn"
+              ],
+              "column_map": {
+                "Dr. Đặng Minh Quân": "MSc. Cao Thi Thu Hương",
+                "0364102376": "0983168238",
+                "quandm@neu.edu.vn": "huongct@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec003",
+      "title": "3. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Parallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "The course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 23
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec004",
+      "title": "4. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "4. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Course books:",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Reference books:",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 28
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec005",
+      "title": "5. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "5. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Table 5.1. Course Objectives",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "table",
+          "order": 24,
+          "table_id": "en-ep17-cntt11107#tbl003",
+          "table_name": "Table 5.1. Course Objectives",
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 31,
+          "column_labels": [
+            "No.",
+            "Objectives",
+            "PLO",
+            "Level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "No.": "[1]",
+                "Objectives": "[2]",
+                "PLO": "[3]",
+                "Level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming",
+                "PLO 1.4.3",
+                "4"
+              ],
+              "column_map": {
+                "No.": "G1",
+                "Objectives": "The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming",
+                "PLO": "PLO 1.4.3",
+                "Level": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+                "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+                "4U, 4U, 4U"
+              ],
+              "column_map": {
+                "No.": "G2",
+                "Objectives": "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+                "PLO": "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+                "Level": "4U, 4U, 4U"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+                "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "4, 4, 4"
+              ],
+              "column_map": {
+                "No.": "G3",
+                "Objectives": "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+                "PLO": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "Level": "4, 4, 4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec006",
+      "title": "6. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Table 6.1. Course Learning Outcomes",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-ep17-cntt11107#tbl004",
+          "table_name": "Table 6.1. Course Learning Outcomes",
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 34,
+          "column_labels": [
+            "Goal",
+            "CLOs",
+            "CLOs description*",
+            "Level of achievement**"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLOs": "[2]",
+                "CLOs description*": "[3]",
+                "Level of achievement**": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Explain the parallel and distributed decomposition patterns and program structure patterns.",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs description*": "Explain the parallel and distributed decomposition patterns and program structure patterns.",
+                "Level of achievement**": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Explain the operating model of multi threads, OpenMP, MPI, CUDA.",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs description*": "Explain the operating model of multi threads, OpenMP, MPI, CUDA.",
+                "Level of achievement**": "2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs description*": "Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs.",
+                "Level of achievement**": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Apply learned knowledge to solve exercises and situations of each learning content.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs description*": "Apply learned knowledge to solve exercises and situations of each learning content.",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs description*": "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Ability to work in a team to jointly solve a professional problem on time.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs description*": "Ability to work in a team to jointly solve a professional problem on time.",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "",
+                "CLOs description*": "",
+                "Level of achievement**": ""
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study, self-find materials to complete assigned exercises and assignments.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs description*": "Ability to self-study, self-find materials to complete assigned exercises and assignments.",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Ability to organize and coordinate working groups to solve a course’s problem.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs description*": "Ability to organize and coordinate working groups to solve a course’s problem.",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs description*": "Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "Level of achievement**": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec007",
+      "title": "7. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 7.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-ep17-cntt11107#tbl005",
+          "table_name": "Table 7.1. Course assessment",
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 38,
+          "column_labels": [
+            "Assessment method",
+            "Description",
+            "Time",
+            "CLOs",
+            "Assessment indicators*",
+            "Rate (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Assessment method": "[1]",
+                "Description": "[2]",
+                "Time": "[3]",
+                "CLOs": "[4]",
+                "Assessment indicators*": "[5]",
+                "Rate (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Diligence",
+              "cells": [
+                "Diligence",
+                "Learning attitude in class Answer questions in class Answer discussion questions",
+                "Week 1-12",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+                "10%"
+              ],
+              "column_map": {
+                "Assessment method": "Diligence",
+                "Description": "Learning attitude in class Answer questions in class Answer discussion questions",
+                "Time": "Week 1-12",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Assessment indicators*": "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+                "Rate (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Assessment of the process",
+              "cells": [
+                "Assessment of the process",
+                "Midterm exam",
+                "Week 8",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+                "40%"
+              ],
+              "column_map": {
+                "Assessment method": "Assessment of the process",
+                "Description": "Midterm exam",
+                "Time": "Week 8",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Assessment indicators*": "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+                "Rate (%)": "40%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "End of term assessment",
+              "cells": [
+                "End of term assessment",
+                "Final exam",
+                "Semester exam schedule",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "As per exam requirements",
+                "50%"
+              ],
+              "column_map": {
+                "Assessment method": "End of term assessment",
+                "Description": "Final exam",
+                "Time": "Semester exam schedule",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Assessment indicators*": "As per exam requirements",
+                "Rate (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec008",
+      "title": "8. TEACHING PLAN",
+      "level": 1,
+      "label": "teaching-plan",
+      "path_titles": [
+        "8. TEACHING PLAN"
+      ],
+      "path_labels": [
+        "teaching-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 8.1. Lesson plan",
+          "is_list": false,
+          "section_path": [
+            "8. TEACHING PLAN"
+          ],
+          "section_labels": [
+            "teaching-plan"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-ep17-cntt11107#tbl006",
+          "table_name": "Table 8.1. Lesson plan",
+          "section_path": [
+            "8. TEACHING PLAN"
+          ],
+          "section_labels": [
+            "teaching-plan"
+          ],
+          "source_block": 41,
+          "column_labels": [
+            "Class",
+            "Topics*",
+            "Required readings text **",
+            "CLOs",
+            "Teaching and learning activities***",
+            "Assessment methods****"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Class": "[1]",
+                "Topics*": "[2]",
+                "Required readings text **": "[3]",
+                "CLOs": "[4]",
+                "Teaching and learning activities***": "[5]",
+                "Assessment methods****": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+                "Course outline",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+                "Participation level Level of interaction Answer quality"
+              ],
+              "column_map": {
+                "Class": "1",
+                "Topics*": "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+                "Required readings text **": "Course outline",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+                "Assessment methods****": "Participation level Level of interaction Answer quality"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns",
+                "[1] Chapter 2",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "2",
+                "Topics*": "Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns",
+                "Required readings text **": "[1] Chapter 2",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns",
+                "[1] Chapter 2",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "3",
+                "Topics*": "Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns",
+                "Required readings text **": "[1] Chapter 2",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs",
+                "[1] Chapter 3",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "4",
+                "Topics*": "Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs",
+                "Required readings text **": "[1] Chapter 3",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications",
+                "[1] Chapter 3",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "5",
+                "Topics*": "Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications",
+                "Required readings text **": "[1] Chapter 3",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning",
+                "[1] Chapter 4",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "6",
+                "Topics*": "Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning",
+                "Required readings text **": "[1] Chapter 4",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism",
+                "[1] Chapter 4",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "7",
+                "Topics*": "Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism",
+                "Required readings text **": "[1] Chapter 4",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Midterm exam (20%)",
+                "",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "",
+                "Essay/quiz test"
+              ],
+              "column_map": {
+                "Class": "8",
+                "Topics*": "Midterm exam (20%)",
+                "Required readings text **": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Teaching and learning activities***": "",
+                "Assessment methods****": "Essay/quiz test"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study",
+                "[1] Chapter 4",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "9",
+                "Topics*": "Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study",
+                "Required readings text **": "[1] Chapter 4",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture",
+                "[1] Chapter 5",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "10",
+                "Topics*": "Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture",
+                "Required readings text **": "[1] Chapter 5",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Class": "10",
+                "Topics*": "",
+                "Required readings text **": "",
+                "CLOs": "",
+                "Teaching and learning activities***": "",
+                "Assessment methods****": ""
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications",
+                "[1] Chapter 5",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "11",
+                "Topics*": "Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications",
+                "Required readings text **": "[1] Chapter 5",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 4: MPI 4.5 Node management 4.6 One-sides communications",
+                "[1] Chapter 5",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "12",
+                "Topics*": "Chapter 4: MPI 4.5 Node management 4.6 One-sides communications",
+                "Required readings text **": "[1] Chapter 5",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model",
+                "[1] Chapter 6",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "13",
+                "Topics*": "Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model",
+                "Required readings text **": "[1] Chapter 6",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques",
+                "[1] Chapter 6",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "14",
+                "Topics*": "Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques",
+                "Required readings text **": "[1] Chapter 6",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study",
+                "[1] Chapter 6",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Class": "15",
+                "Topics*": "Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study",
+                "Required readings text **": "[1] Chapter 6",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Students take exams according to schedule",
+                "As per exam requirements"
+              ],
+              "column_map": {
+                "Class": "-",
+                "Topics*": "Final exam",
+                "Required readings text **": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Teaching and learning activities***": "Students take exams according to schedule",
+                "Assessment methods****": "As per exam requirements"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec009",
+      "title": "9. CLASS REGULATION",
+      "level": 1,
+      "label": "class-regulation",
+      "path_titles": [
+        "9. CLASS REGULATION"
+      ],
+      "path_labels": [
+        "class-regulation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec010",
+      "title": "9.1. Requirements for taking final/terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. CLASS REGULATION",
+        "9.1. Requirements for taking final/terminal exams"
+      ],
+      "path_labels": [
+        "class-regulation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.1. Requirements for taking final/terminal exams"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 44
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. CLASS REGULATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "class-regulation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Students will be added points for each construction speech, which can be compensated for attendance points and test scores.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 47
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-cntt11107#sec012",
+      "title": "9.3. Requirements for in-class behavior",
+      "level": 2,
+      "label": "requirements-for-in-class-behavior",
+      "path_titles": [
+        "9. CLASS REGULATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "path_labels": [
+        "class-regulation",
+        "requirements-for-in-class-behavior"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Absolutely do not make noise, affecting others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "en-ep17-cntt11107#tbl007",
+          "table_name": null,
+          "section_path": [
+            "9. CLASS REGULATION",
+            "9.3. Requirements for in-class behavior"
+          ],
+          "section_labels": [
+            "class-regulation",
+            "requirements-for-in-class-behavior"
+          ],
+          "source_block": 56,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof. PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-cntt11107#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "en-ep17-cntt11107#tbl002",
+      "table_name": "Lecturer:",
+      "section_path": [
+        "2. DEPARTMENT AND TEACHER"
+      ],
+      "section_labels": [
+        "department-and-teacher"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "Dr. Đặng Minh Quân",
+        "0364102376",
+        "quandm@neu.edu.vn"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MSc. Cao Thi Thu Hương",
+          "cells": [
+            "MSc. Cao Thi Thu Hương",
+            "0983168238",
+            "huongct@neu.edu.vn"
+          ],
+          "column_map": {
+            "Dr. Đặng Minh Quân": "MSc. Cao Thi Thu Hương",
+            "0364102376": "0983168238",
+            "quandm@neu.edu.vn": "huongct@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 24,
+      "table_id": "en-ep17-cntt11107#tbl003",
+      "table_name": "Table 5.1. Course Objectives",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 31,
+      "column_labels": [
+        "No.",
+        "Objectives",
+        "PLO",
+        "Level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "No.": "[1]",
+            "Objectives": "[2]",
+            "PLO": "[3]",
+            "Level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming",
+            "PLO 1.4.3",
+            "4"
+          ],
+          "column_map": {
+            "No.": "G1",
+            "Objectives": "The course provides learners with knowledge - Basic concepts of paralell and distributed programming - Multi threads parallel programming model - OpenMP programming - MPI programming - CUDA programming",
+            "PLO": "PLO 1.4.3",
+            "Level": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+            "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+            "4U, 4U, 4U"
+          ],
+          "column_map": {
+            "No.": "G2",
+            "Objectives": "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+            "PLO": "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+            "Level": "4U, 4U, 4U"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+            "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "4, 4, 4"
+          ],
+          "column_map": {
+            "No.": "G3",
+            "Objectives": "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+            "PLO": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "Level": "4, 4, 4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-ep17-cntt11107#tbl004",
+      "table_name": "Table 6.1. Course Learning Outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 34,
+      "column_labels": [
+        "Goal",
+        "CLOs",
+        "CLOs description*",
+        "Level of achievement**"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLOs": "[2]",
+            "CLOs description*": "[3]",
+            "Level of achievement**": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Explain the parallel and distributed decomposition patterns and program structure patterns.",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs description*": "Explain the parallel and distributed decomposition patterns and program structure patterns.",
+            "Level of achievement**": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Explain the operating model of multi threads, OpenMP, MPI, CUDA.",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs description*": "Explain the operating model of multi threads, OpenMP, MPI, CUDA.",
+            "Level of achievement**": "2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs description*": "Synthesize single knowledge to analyze the operating mechanism of parallel and distributed programs.",
+            "Level of achievement**": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Apply learned knowledge to solve exercises and situations of each learning content.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs description*": "Apply learned knowledge to solve exercises and situations of each learning content.",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs description*": "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Ability to work in a team to jointly solve a professional problem on time.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs description*": "Ability to work in a team to jointly solve a professional problem on time.",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "",
+            "CLOs description*": "",
+            "Level of achievement**": ""
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study, self-find materials to complete assigned exercises and assignments.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs description*": "Ability to self-study, self-find materials to complete assigned exercises and assignments.",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Ability to organize and coordinate working groups to solve a course’s problem.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs description*": "Ability to organize and coordinate working groups to solve a course’s problem.",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs description*": "Consciously follow class discipline, comply with classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "Level of achievement**": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-ep17-cntt11107#tbl005",
+      "table_name": "Table 7.1. Course assessment",
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 38,
+      "column_labels": [
+        "Assessment method",
+        "Description",
+        "Time",
+        "CLOs",
+        "Assessment indicators*",
+        "Rate (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Assessment method": "[1]",
+            "Description": "[2]",
+            "Time": "[3]",
+            "CLOs": "[4]",
+            "Assessment indicators*": "[5]",
+            "Rate (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Diligence",
+          "cells": [
+            "Diligence",
+            "Learning attitude in class Answer questions in class Answer discussion questions",
+            "Week 1-12",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+            "10%"
+          ],
+          "column_map": {
+            "Assessment method": "Diligence",
+            "Description": "Learning attitude in class Answer questions in class Answer discussion questions",
+            "Time": "Week 1-12",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Assessment indicators*": "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+            "Rate (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Assessment of the process",
+          "cells": [
+            "Assessment of the process",
+            "Midterm exam",
+            "Week 8",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+            "40%"
+          ],
+          "column_map": {
+            "Assessment method": "Assessment of the process",
+            "Description": "Midterm exam",
+            "Time": "Week 8",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Assessment indicators*": "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+            "Rate (%)": "40%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "End of term assessment",
+          "cells": [
+            "End of term assessment",
+            "Final exam",
+            "Semester exam schedule",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "As per exam requirements",
+            "50%"
+          ],
+          "column_map": {
+            "Assessment method": "End of term assessment",
+            "Description": "Final exam",
+            "Time": "Semester exam schedule",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Assessment indicators*": "As per exam requirements",
+            "Rate (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-ep17-cntt11107#tbl006",
+      "table_name": "Table 8.1. Lesson plan",
+      "section_path": [
+        "8. TEACHING PLAN"
+      ],
+      "section_labels": [
+        "teaching-plan"
+      ],
+      "source_block": 41,
+      "column_labels": [
+        "Class",
+        "Topics*",
+        "Required readings text **",
+        "CLOs",
+        "Teaching and learning activities***",
+        "Assessment methods****"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Class": "[1]",
+            "Topics*": "[2]",
+            "Required readings text **": "[3]",
+            "CLOs": "[4]",
+            "Teaching and learning activities***": "[5]",
+            "Assessment methods****": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+            "Course outline",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+            "Participation level Level of interaction Answer quality"
+          ],
+          "column_map": {
+            "Class": "1",
+            "Topics*": "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+            "Required readings text **": "Course outline",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+            "Assessment methods****": "Participation level Level of interaction Answer quality"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns",
+            "[1] Chapter 2",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "2",
+            "Topics*": "Chapter 1: Parallel and distributed program design 1.1 The PCAM methodology 1.2 Decomposition patterns",
+            "Required readings text **": "[1] Chapter 2",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns",
+            "[1] Chapter 2",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "3",
+            "Topics*": "Chapter 1: Parallel and distributed program design 1.3 Program structure patterns 1.4 Matching between decomposition patterns and program structure patterns",
+            "Required readings text **": "[1] Chapter 2",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs",
+            "[1] Chapter 3",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "4",
+            "Topics*": "Chapter 2: Multi threads programming 2.1 The concept of threads 2.2 Design multi threads programs",
+            "Required readings text **": "[1] Chapter 3",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications",
+            "[1] Chapter 3",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "5",
+            "Topics*": "Chapter 2: Multi threads programming 2.3 Semaphores and applications 2.4 Monitor and applications",
+            "Required readings text **": "[1] Chapter 3",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning",
+            "[1] Chapter 4",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "6",
+            "Topics*": "Chapter 3: OpenMP 3.1 OpenMP concept 3.2 Partitioning",
+            "Required readings text **": "[1] Chapter 4",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism",
+            "[1] Chapter 4",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "7",
+            "Topics*": "Chapter 3: OpenMP 3.3 Loop-level parallelism 3.4 Task parallelism",
+            "Required readings text **": "[1] Chapter 4",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Midterm exam (20%)",
+            "",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "",
+            "Essay/quiz test"
+          ],
+          "column_map": {
+            "Class": "8",
+            "Topics*": "Midterm exam (20%)",
+            "Required readings text **": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Teaching and learning activities***": "",
+            "Assessment methods****": "Essay/quiz test"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study",
+            "[1] Chapter 4",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "9",
+            "Topics*": "Chapter 3: OpenMP 3.5 Synchronization constructs 3.6 Case study",
+            "Required readings text **": "[1] Chapter 4",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture",
+            "[1] Chapter 5",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "10",
+            "Topics*": "Chapter 4: MPI 4.1 Concept of distributed memory programming and MPI 4.2 MPI program architecture",
+            "Required readings text **": "[1] Chapter 5",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Class": "10",
+            "Topics*": "",
+            "Required readings text **": "",
+            "CLOs": "",
+            "Teaching and learning activities***": "",
+            "Assessment methods****": ""
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications",
+            "[1] Chapter 5",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "11",
+            "Topics*": "Chapter 4: MPI 4.3 Point to point communication 4.4 Collective communications",
+            "Required readings text **": "[1] Chapter 5",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 4: MPI 4.5 Node management 4.6 One-sides communications",
+            "[1] Chapter 5",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "12",
+            "Topics*": "Chapter 4: MPI 4.5 Node management 4.6 One-sides communications",
+            "Required readings text **": "[1] Chapter 5",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model",
+            "[1] Chapter 6",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "13",
+            "Topics*": "Chapter 5: GPU programming - CUDA 5.1 Concepts of GPU programming 5.2 CUDA’s programming model",
+            "Required readings text **": "[1] Chapter 6",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques",
+            "[1] Chapter 6",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "14",
+            "Topics*": "Chapter 5: GPU programming - CUDA 5.3 Memory hierarchy 5.4 Optimization techniques",
+            "Required readings text **": "[1] Chapter 6",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study",
+            "[1] Chapter 6",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Class": "15",
+            "Topics*": "Chapter 5: GPU programming - CUDA 5.5 Dynamic parallelism 5.6 Case study",
+            "Required readings text **": "[1] Chapter 6",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment methods****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Students take exams according to schedule",
+            "As per exam requirements"
+          ],
+          "column_map": {
+            "Class": "-",
+            "Topics*": "Final exam",
+            "Required readings text **": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Teaching and learning activities***": "Students take exams according to schedule",
+            "Assessment methods****": "As per exam requirements"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "en-ep17-cntt11107#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. CLASS REGULATION",
+        "9.3. Requirements for in-class behavior"
+      ],
+      "section_labels": [
+        "class-regulation",
+        "requirements-for-in-class-behavior"
+      ],
+      "source_block": 56,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof. PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2024)\nProgram name : Bachelor of Software Engineering\n- Title: Parallel and Distributed programming\n- Course number: EP17.CNTT11107\n- Type of course In-depth knowledge\n- Number of credits 3\n+ Theory hours 30\n+ Discuss/Practice hours\n+ Self-study hours 15\n90\n- Prerequisite courses: CNTT1128; CNTT1116; CNTT1114\nFaculty: Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nParallel and Distributed programming allows the development of programs and applications that run simultaneously on multiple interconnected computing devices. With the growing popularity of computer networks and multi-core processors, parallel and distributed programming makes it possible to take advantage of the performance of these hardware platforms. The module presents key concepts of parallel and distributed programming, such as synchronization techniques, shared memory models, and message passing. Furthermore, it also explores popular frameworks and libraries for building powerful and scalable parallel, distributed systems.\nThe course also aims to train thinking ability, computing skills and improve the ability to apply algorithms to analyze and research problems in the field of parallel and distributed programming. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\nCourse books:\n[1] Gerassimos Barlas (2015). Multicore and GPU Programming: An Integrated Approach. Morgan Kaufmann.\nReference books:\n[2] Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj (2022). Programming Massively Parallel Processors: A Hands-on Approach, 4th edition. Morgan Kaufmann\nTable 5.1. Course Objectives\nTable 6.1. Course Learning Outcomes\nTable 7.1. Course assessment\nTable 8.1. Lesson plan\nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
+}

@@ -1,0 +1,2717 @@
+{
+  "doc_id": "en-cntt1128e",
+  "language": "en",
+  "course_name_stem": "Principles of Programming",
+  "course_variant": "",
+  "course_code": "CNTT1128E",
+  "source_filename": "Principles of Programming_CNTT1128E.docx",
+  "source_relpath": "data\\raw\\en\\Principles of Programming_CNTT1128E.docx",
+  "source_hash": "863d0cdd33feaaee3993c845fbee9e29",
+  "source_modified": "2025-10-11T10:42:50.605947+00:00",
+  "processed_at": "2025-10-17T16:55:27.403747+00:00",
+  "stats": {
+    "paragraphs": 45,
+    "tables": 9,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-cntt1128e#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Title: Principles of Programming Code: CNTT1128E",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Credit hours for teaching and learning activities:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Lecture: 30 hrs",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Exercises on class: 15 hrs",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Exercise and discussion (Tutor): 15 hrs",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Self-study: 90 hrs.",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Parallel course(s): None",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Department conducting the course:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Lecturers:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "PhD. Phạm Xuân Lâm Email: lampx@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "MA. Nguyễn Quỳnh Mai Email: mainq@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "PhD. Phạm Minh Hoàn Email: hoanpm@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "MA. Cao Thị Thu Hương Email: huongct@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "MA. Trần Thị Mỹ Diệp Email: diepttm@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "PhD. Tống Thị Hảo Tâm Email: tamtth@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "PhD. Lê Thị Hoài Thu Email: thulh@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "MA. Phạm Thảo Email: thaop@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "PhD. Nguyễn Thanh Hương Email: huongnt_cntt@neu.edu.vn",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Kind of the course:",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "table",
+          "order": 24,
+          "table_id": "en-cntt1128e#tbl003",
+          "table_name": "Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 25,
+          "column_labels": [
+            "Foundation (x)",
+            "Foundation (x)_2",
+            "Fundamental □",
+            "Fundamental □_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory (x)",
+              "cells": [
+                "Compulsory (x)",
+                "Elective □",
+                "Compulsory □",
+                "Elective □"
+              ],
+              "column_map": {
+                "Foundation (x)": "Compulsory (x)",
+                "Foundation (x)_2": "Elective □",
+                "Fundamental □": "Compulsory □",
+                "Fundamental □_2": "Elective □"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Course language: In English",
+          "is_list": true,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 26
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "This course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "The course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 29
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Course Book(s):",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Reference Book(s):",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[2]. Pham Van At (2020). Basic and Advanced C Programming Techniques, Bach Khoa Publishing House",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "[3] Applied C: An Introduction and More. McGraw – Hill Higher Education",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Software(s):",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "[1] Visual Studio Code",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "[2] Code::Blocks",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 38
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Table 4.1. Course Goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "en-cntt1128e#tbl004",
+          "table_name": "Table 4.1. Course Goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 41,
+          "column_labels": [
+            "Goal",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "Goals Description": "[2]",
+                "PLOs": "[3]",
+                "Proficiency scale": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures.",
+                "PLO 1.3 PLO1.4 PLO1.5",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "Goals Description": "Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures.",
+                "PLOs": "PLO 1.3 PLO1.4 PLO1.5",
+                "Proficiency scale": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology.",
+                "PLO2.1 PLO 2.2 PLO2.3",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "Goals Description": "Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology.",
+                "PLOs": "PLO2.1 PLO 2.2 PLO2.3",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+                "PLO 3.1 PLO3.4",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "Goals Description": "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+                "PLOs": "PLO 3.1 PLO3.4",
+                "Proficiency scale": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Table 5.1. Course learning outcomes",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "en-cntt1128e#tbl005",
+          "table_name": "Table 5.1. Course learning outcomes",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Goal",
+            "CLO",
+            "CLO Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage",
+                "T"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO1.1",
+                "CLO Description": "Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO1.2",
+                "CLO Description": "Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Practice, program to solve real problems.",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO1.3",
+                "CLO Description": "Practice, program to solve real problems.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language.",
+                "T"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO2.1",
+                "CLO Description": "Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Have coordination skills to solve group assignments, ensure completion of work on schedule",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO2.2",
+                "CLO Description": "Have coordination skills to solve group assignments, ensure completion of work on schedule",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.3",
+                "Skilled in using tools to optimize code and reduce programming time.",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO2.3",
+                "CLO Description": "Skilled in using tools to optimize code and reduce programming time.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study and read materials to complete lessons and assignments in the C programming language",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO3.1",
+                "CLO Description": "Ability to self-study and read materials to complete lessons and assignments in the C programming language",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities",
+                "U"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO3.2",
+                "CLO Description": "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities",
+                "Teaching level (I,T,U)": "U"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Table 6.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "table",
+          "order": 41,
+          "table_id": "en-cntt1128e#tbl006",
+          "table_name": "Table 6.1. Course assessment",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 48,
+          "column_labels": [
+            "Type of Assessment",
+            "CLOs",
+            "Weighting (%)",
+            "Assessment criteria",
+            "Proportion (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[4]",
+                "",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Type of Assessment": "[1]",
+                "CLOs": "[4]",
+                "Weighting (%)": "",
+                "Assessment criteria": "[5]",
+                "Proportion (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Class Participation",
+              "cells": [
+                "Class Participation",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "10%",
+                "Evaluating participation of students at class, learning attitude and homework",
+                "Week 1-14"
+              ],
+              "column_map": {
+                "Type of Assessment": "Class Participation",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Weighting (%)": "10%",
+                "Assessment criteria": "Evaluating participation of students at class, learning attitude and homework",
+                "Proportion (%)": "Week 1-14"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Mid-term",
+              "cells": [
+                "Mid-term",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "40%",
+                "Multi choice test",
+                "Week 9"
+              ],
+              "column_map": {
+                "Type of Assessment": "Mid-term",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Weighting (%)": "40%",
+                "Assessment criteria": "Multi choice test",
+                "Proportion (%)": "Week 9"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Mid-term",
+              "cells": [
+                "Mid-term",
+                "CLO1.1 CLO1.2 CLO1.3",
+                "40%",
+                "Programming test",
+                "Week 13"
+              ],
+              "column_map": {
+                "Type of Assessment": "Mid-term",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+                "Weighting (%)": "40%",
+                "Assessment criteria": "Programming test",
+                "Proportion (%)": "Week 13"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Final test",
+              "cells": [
+                "Final test",
+                "All CLOs",
+                "50%",
+                "Final Exam",
+                "Exam schedule"
+              ],
+              "column_map": {
+                "Type of Assessment": "Final test",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "50%",
+                "Assessment criteria": "Final Exam",
+                "Proportion (%)": "Exam schedule"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Table 7.1. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 43,
+          "table_id": "en-cntt1128e#tbl007",
+          "table_name": "Table 7.1. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction: objectives, role, position of the course in the training program",
+                "Detailed course syllabus",
+                "CLO1.1 CLO3.1",
+                "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction: objectives, role, position of the course in the training program",
+                "Required readings text": "Detailed course syllabus",
+                "CLOs": "CLO1.1 CLO3.1",
+                "Teaching-learning activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+                "[1] Chapter 1 [2] Chapter 1",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Reading at home Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+                "Required readings text": "[1] Chapter 1 [2] Chapter 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Teaching-learning activities": "Reading at home Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment",
+                "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment",
+                "Required readings text": "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises",
+                "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises",
+                "Required readings text": "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Data I/O Data input function Data output function",
+                "[1] Chapter 4 [2] Chapter 5",
+                "CLO1.1 CLO1.2 CLO3.2",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Data I/O Data input function Data output function",
+                "Required readings text": "[1] Chapter 4 [2] Chapter 5",
+                "CLOs": "CLO1.1 CLO1.2 CLO3.2",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6 -7",
+              "cells": [
+                "6 -7",
+                "Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test",
+                "[1] Chapter 5 [2] Chapter 6",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Reading at home Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "6 -7",
+                "Content": "Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test",
+                "Required readings text": "[1] Chapter 5 [2] Chapter 6",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Teaching-learning activities": "Reading at home Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "8-9",
+              "cells": [
+                "8-9",
+                "Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1)",
+                "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+                "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+                "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test"
+              ],
+              "column_map": {
+                "Week": "8-9",
+                "Content": "Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1)",
+                "Required readings text": "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+                "CLOs": "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises",
+                "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+                "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises",
+                "Required readings text": "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+                "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+                "[1] Chapter 7 [2] Chapter 12",
+                "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+                "Required readings text": "[1] Chapter 7 [2] Chapter 12",
+                "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Midterm (Test 2)",
+                "",
+                "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+                "Take a computer programming test Correct the test"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Midterm (Test 2)",
+                "Required readings text": "",
+                "CLOs": "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+                "Teaching-learning activities": "Take a computer programming test Correct the test"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 9: File in C Definition File operations File I/O error control Questions and exercises",
+                "[1] Chapter 10 [2] Chapter 14",
+                "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 9: File in C Definition File operations File I/O error control Questions and exercises",
+                "Required readings text": "[1] Chapter 10 [2] Chapter 14",
+                "CLOs": "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "All chapters",
+                "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Discussion at class"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course review",
+                "Required readings text": "All chapters",
+                "CLOs": "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Teaching-learning activities": "Discussion at class"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Table 8. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "table",
+          "order": 45,
+          "table_id": "en-cntt1128e#tbl008",
+          "table_name": "Table 8. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 56,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Reading",
+            "CLOs",
+            "Activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Reading": "[3]",
+                "CLOs": "[4]",
+                "Activities": "[5]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction: objectives, role, position of the course in the training program",
+                "Detailed course syllabus",
+                "CLO1.1 CLO3.1",
+                "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction: objectives, role, position of the course in the training program",
+                "Reading": "Detailed course syllabus",
+                "CLOs": "CLO1.1 CLO3.1",
+                "Activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+                "Assessment": "Participation Interaction"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+              "cells": [
+                "",
+                "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+                "[1] Chapter 1 [2] Chapter 1",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Reading at home Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "",
+                "Content": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+                "Reading": "[1] Chapter 1 [2] Chapter 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Activities": "Reading at home Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment",
+                "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment",
+                "Reading": "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises",
+                "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises",
+                "Reading": "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function",
+                "[1] Chapter 4 [2] Chapter 5",
+                "CLO1.1 CLO1.2 CLO3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function",
+                "Reading": "[1] Chapter 4 [2] Chapter 5",
+                "CLOs": "CLO1.1 CLO1.2 CLO3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6 -7",
+              "cells": [
+                "6 -7",
+                "Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test",
+                "[1] Chapter 5 [2] Chapter 6",
+                "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Reading at home Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "6 -7",
+                "Content": "Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test",
+                "Reading": "[1] Chapter 5 [2] Chapter 6",
+                "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+                "Activities": "Reading at home Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8-9",
+              "cells": [
+                "8-9",
+                "Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1)",
+                "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+                "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+                "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "8-9",
+                "Content": "Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1)",
+                "Reading": "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+                "CLOs": "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises",
+                "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+                "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises",
+                "Reading": "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+                "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "11 -12",
+              "cells": [
+                "11 -12",
+                "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+                "[1] Chapter 7 [2] Chapter 12",
+                "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "11 -12",
+                "Content": "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+                "Reading": "[1] Chapter 7 [2] Chapter 12",
+                "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Midterm (Test 2)",
+                "",
+                "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+                "Take a computer programming test Correct the test",
+                "Participation Answer Quality"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Midterm (Test 2)",
+                "Reading": "",
+                "CLOs": "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+                "Activities": "Take a computer programming test Correct the test",
+                "Assessment": "Participation Answer Quality"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Chapter 9: File in C 9.1. Definition 9.2. File operations 9.3. File I/O error control 9.4. Questions and exercises",
+                "[1] Chapter 10 [2] Chapter 14",
+                "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Reading at home Do homework Lecturing Case discussion at class",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Chapter 9: File in C 9.1. Definition 9.2. File operations 9.3. File I/O error control 9.4. Questions and exercises",
+                "Reading": "[1] Chapter 10 [2] Chapter 14",
+                "CLOs": "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "All chapters",
+                "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Discussion at class",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course review",
+                "Reading": "All chapters",
+                "CLOs": "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+                "Activities": "Discussion at class",
+                "Assessment": "Participation Interaction"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec009",
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION",
+      "level": 1,
+      "label": "course-requirements-and-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1128e#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 59
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 63
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1128e#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 65
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "table",
+          "order": 53,
+          "table_id": "en-cntt1128e#tbl009",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 68,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "PhD Pham Xuan Lam",
+              "cells": [
+                "PhD Pham Xuan Lam",
+                "Prof.PhD Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "PhD Pham Xuan Lam",
+                "NEU’s President": "Prof.PhD Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-cntt1128e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+          "cells": [
+            "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 1,
+      "table_id": "en-cntt1128e#tbl002",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 1,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": null,
+          "cells": [
+            ""
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 24,
+      "table_id": "en-cntt1128e#tbl003",
+      "table_name": "Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 25,
+      "column_labels": [
+        "Foundation (x)",
+        "Foundation (x)_2",
+        "Fundamental □",
+        "Fundamental □_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory (x)",
+          "cells": [
+            "Compulsory (x)",
+            "Elective □",
+            "Compulsory □",
+            "Elective □"
+          ],
+          "column_map": {
+            "Foundation (x)": "Compulsory (x)",
+            "Foundation (x)_2": "Elective □",
+            "Fundamental □": "Compulsory □",
+            "Fundamental □_2": "Elective □"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "en-cntt1128e#tbl004",
+      "table_name": "Table 4.1. Course Goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 41,
+      "column_labels": [
+        "Goal",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "Goals Description": "[2]",
+            "PLOs": "[3]",
+            "Proficiency scale": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures.",
+            "PLO 1.3 PLO1.4 PLO1.5",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "Goals Description": "Provide basic knowledge about: programming methods and thinking, solving problems on computers, basic programming structures, basic algorithms, data structures.",
+            "PLOs": "PLO 1.3 PLO1.4 PLO1.5",
+            "Proficiency scale": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology.",
+            "PLO2.1 PLO 2.2 PLO2.3",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "Goals Description": "Provide learners with skills to search, collect, analyze and present problems. Practice good professional skills to solve problems in Information Technology.",
+            "PLOs": "PLO2.1 PLO 2.2 PLO2.3",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+            "PLO 3.1 PLO3.4",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "Goals Description": "Develop the ability to work independently as well as in a team. Responsible in work and professional ethics.",
+            "PLOs": "PLO 3.1 PLO3.4",
+            "Proficiency scale": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "en-cntt1128e#tbl005",
+      "table_name": "Table 5.1. Course learning outcomes",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Goal",
+        "CLO",
+        "CLO Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage",
+            "T"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO1.1",
+            "CLO Description": "Describe the basic concepts of programming, the process of solving problems on computers, basic data types and structured data types, programming structures. Provide basic and popular algorithms. Explanation of function, pointer and their meaning and usage",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO1.2",
+            "CLO Description": "Apply knowledge of programming structures (branching, iteration), algorithms and data types to write programs",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Practice, program to solve real problems.",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO1.3",
+            "CLO Description": "Practice, program to solve real problems.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language.",
+            "T"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO2.1",
+            "CLO Description": "Have skills in searching, collecting, synthesizing and analyzing to solve problems using C programming language.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Have coordination skills to solve group assignments, ensure completion of work on schedule",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO2.2",
+            "CLO Description": "Have coordination skills to solve group assignments, ensure completion of work on schedule",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.3",
+            "Skilled in using tools to optimize code and reduce programming time.",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO2.3",
+            "CLO Description": "Skilled in using tools to optimize code and reduce programming time.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study and read materials to complete lessons and assignments in the C programming language",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO3.1",
+            "CLO Description": "Ability to self-study and read materials to complete lessons and assignments in the C programming language",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities",
+            "U"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO3.2",
+            "CLO Description": "Follow class rules. Have spirit of cooperation and personal responsibility for assigned activities",
+            "Teaching level (I,T,U)": "U"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 41,
+      "table_id": "en-cntt1128e#tbl006",
+      "table_name": "Table 6.1. Course assessment",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 48,
+      "column_labels": [
+        "Type of Assessment",
+        "CLOs",
+        "Weighting (%)",
+        "Assessment criteria",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[4]",
+            "",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Type of Assessment": "[1]",
+            "CLOs": "[4]",
+            "Weighting (%)": "",
+            "Assessment criteria": "[5]",
+            "Proportion (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation",
+          "cells": [
+            "Class Participation",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "10%",
+            "Evaluating participation of students at class, learning attitude and homework",
+            "Week 1-14"
+          ],
+          "column_map": {
+            "Type of Assessment": "Class Participation",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Weighting (%)": "10%",
+            "Assessment criteria": "Evaluating participation of students at class, learning attitude and homework",
+            "Proportion (%)": "Week 1-14"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Mid-term",
+          "cells": [
+            "Mid-term",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "40%",
+            "Multi choice test",
+            "Week 9"
+          ],
+          "column_map": {
+            "Type of Assessment": "Mid-term",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Weighting (%)": "40%",
+            "Assessment criteria": "Multi choice test",
+            "Proportion (%)": "Week 9"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Mid-term",
+          "cells": [
+            "Mid-term",
+            "CLO1.1 CLO1.2 CLO1.3",
+            "40%",
+            "Programming test",
+            "Week 13"
+          ],
+          "column_map": {
+            "Type of Assessment": "Mid-term",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3",
+            "Weighting (%)": "40%",
+            "Assessment criteria": "Programming test",
+            "Proportion (%)": "Week 13"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final test",
+          "cells": [
+            "Final test",
+            "All CLOs",
+            "50%",
+            "Final Exam",
+            "Exam schedule"
+          ],
+          "column_map": {
+            "Type of Assessment": "Final test",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "50%",
+            "Assessment criteria": "Final Exam",
+            "Proportion (%)": "Exam schedule"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 43,
+      "table_id": "en-cntt1128e#tbl007",
+      "table_name": "Table 7.1. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction: objectives, role, position of the course in the training program",
+            "Detailed course syllabus",
+            "CLO1.1 CLO3.1",
+            "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction: objectives, role, position of the course in the training program",
+            "Required readings text": "Detailed course syllabus",
+            "CLOs": "CLO1.1 CLO3.1",
+            "Teaching-learning activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+            "[1] Chapter 1 [2] Chapter 1",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Reading at home Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+            "Required readings text": "[1] Chapter 1 [2] Chapter 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Teaching-learning activities": "Reading at home Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment",
+            "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 2. Basic concepts of the C programming language Basic concepts Rules for writing programs General structure of a program Introduction to the C programming environment",
+            "Required readings text": "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises",
+            "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Basic data types and operators in C Basic data types Variables, arrays, and storage classes Expressions and operators Value type conversion Questions and exercises",
+            "Required readings text": "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Data I/O Data input function Data output function",
+            "[1] Chapter 4 [2] Chapter 5",
+            "CLO1.1 CLO1.2 CLO3.2",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Data I/O Data input function Data output function",
+            "Required readings text": "[1] Chapter 4 [2] Chapter 5",
+            "CLOs": "CLO1.1 CLO1.2 CLO3.2",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6 -7",
+          "cells": [
+            "6 -7",
+            "Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test",
+            "[1] Chapter 5 [2] Chapter 6",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Reading at home Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "6 -7",
+            "Content": "Chapter 5: Control Structures in C Branching structure (if, switch, go to, break, continue) he “for” loop structure The “while” and “do …while” loop structures Questions and exercises Mini test",
+            "Required readings text": "[1] Chapter 5 [2] Chapter 6",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Teaching-learning activities": "Reading at home Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "8-9",
+          "cells": [
+            "8-9",
+            "Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1)",
+            "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+            "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+            "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test"
+          ],
+          "column_map": {
+            "Week": "8-9",
+            "Content": "Chapter 6: Function in C Definition of function Function construction How to pass parameters in a function Example Distinguishing variable types Recursive Functions Standard Function Library Questions and exercises Mid-term (Test 1)",
+            "Required readings text": "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+            "CLOs": "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises",
+            "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+            "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 7: Pointer in C Pointer data (definition, declarations, operations) Pointers and one-dimensional arrays Pointers with 2-D arrays Pointers and Strings Questions and exercises",
+            "Required readings text": "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+            "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+            "[1] Chapter 7 [2] Chapter 12",
+            "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+            "Required readings text": "[1] Chapter 7 [2] Chapter 12",
+            "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Midterm (Test 2)",
+            "",
+            "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+            "Take a computer programming test Correct the test"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Midterm (Test 2)",
+            "Required readings text": "",
+            "CLOs": "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+            "Teaching-learning activities": "Take a computer programming test Correct the test"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 9: File in C Definition File operations File I/O error control Questions and exercises",
+            "[1] Chapter 10 [2] Chapter 14",
+            "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 9: File in C Definition File operations File I/O error control Questions and exercises",
+            "Required readings text": "[1] Chapter 10 [2] Chapter 14",
+            "CLOs": "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Teaching-learning activities": "Reading at home Do homework Lecturing Case discussion at class"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "All chapters",
+            "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Discussion at class"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course review",
+            "Required readings text": "All chapters",
+            "CLOs": "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Teaching-learning activities": "Discussion at class"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 45,
+      "table_id": "en-cntt1128e#tbl008",
+      "table_name": "Table 8. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 56,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Reading",
+        "CLOs",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Reading": "[3]",
+            "CLOs": "[4]",
+            "Activities": "[5]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction: objectives, role, position of the course in the training program",
+            "Detailed course syllabus",
+            "CLO1.1 CLO3.1",
+            "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction: objectives, role, position of the course in the training program",
+            "Reading": "Detailed course syllabus",
+            "CLOs": "CLO1.1 CLO3.1",
+            "Activities": "Introduction to the course Instructions for finding and reading references Requirements and regulations for the course",
+            "Assessment": "Participation Interaction"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+          "cells": [
+            "",
+            "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+            "[1] Chapter 1 [2] Chapter 1",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Reading at home Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "",
+            "Content": "Chapter 1. Basic concepts of programming The process of solving problems on the computer Programs and programming The development history of C programming language Programming techniques Algorithm Data structure",
+            "Reading": "[1] Chapter 1 [2] Chapter 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Activities": "Reading at home Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment",
+            "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 2. Basic concepts of the C programming language 2.1. Basic concepts 2.2. Rules for writing programs 2.3. General structure of a program 2.4. Introduction to the C programming environment",
+            "Reading": "[1] Chapter 1 [2] Chapter 2 [3] Session 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.1",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises",
+            "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Basic data types and operators in C 3.1. Basic data types 3.2. Variables, arrays, and storage classes 3.3. Expressions and operators 3.4. Value type conversion 3.5. Questions and exercises",
+            "Reading": "[1] Chapter 2, 3 [2] Chapter 3 [4] Chapter 4",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function",
+            "[1] Chapter 4 [2] Chapter 5",
+            "CLO1.1 CLO1.2 CLO3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Data I/O 4.1. Data input function 4.2. Data output function",
+            "Reading": "[1] Chapter 4 [2] Chapter 5",
+            "CLOs": "CLO1.1 CLO1.2 CLO3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6 -7",
+          "cells": [
+            "6 -7",
+            "Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test",
+            "[1] Chapter 5 [2] Chapter 6",
+            "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Reading at home Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "6 -7",
+            "Content": "Chapter 5: Control Structures in C 5.1. Branching structure (if, switch, go to, break, continue) 5.2. The “for” loop structure 5.3. The “while” and “do …while” loop structures 5.4. Questions and exercises Mini test",
+            "Reading": "[1] Chapter 5 [2] Chapter 6",
+            "CLOs": "CLO1.1 CLO1.2 CLO 2.1 CLO 3.2",
+            "Activities": "Reading at home Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8-9",
+          "cells": [
+            "8-9",
+            "Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1)",
+            "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+            "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+            "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "8-9",
+            "Content": "Chapter 6: Function in C 6.1. Definition of function 6.2. Function construction 6.3. How to pass parameters in a function 6.4. Example 6.5. Distinguishing variable types 6.6. Recursive Functions 6.7. Standard Function Library 6.8. Questions and exercises Mid-term (Test 1)",
+            "Reading": "[1] Chapter 6 [2] Chapter 9 [3] Session 15",
+            "CLOs": "CLO1.1 CLO 1.3 CLO 2.3 CLO 3.1",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class Take a multi choice test",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises",
+            "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+            "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 7: Pointer in C 7.1. Pointer data (definition, declarations, operations) 7.2. Pointers and one-dimensional arrays 7.3. Pointers with 2-D arrays 7.4. Pointers and Strings 7.5. Questions and exercises",
+            "Reading": "[1] Chapter 6 [2] Chapter 10 [4] Chapter 12",
+            "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "11 -12",
+          "cells": [
+            "11 -12",
+            "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+            "[1] Chapter 7 [2] Chapter 12",
+            "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "11 -12",
+            "Content": "Chapter 8: Structure in C Structure (definition, declaration, access) Array of structures Exploiting and using structure Example Union Enum Questions and exercises",
+            "Reading": "[1] Chapter 7 [2] Chapter 12",
+            "CLOs": "CLO1.1 CLO1.3 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Midterm (Test 2)",
+            "",
+            "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+            "Take a computer programming test Correct the test",
+            "Participation Answer Quality"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Midterm (Test 2)",
+            "Reading": "",
+            "CLOs": "CLO1.2 CLO1.3 CLO 2.3 CLO 3.2",
+            "Activities": "Take a computer programming test Correct the test",
+            "Assessment": "Participation Answer Quality"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Chapter 9: File in C 9.1. Definition 9.2. File operations 9.3. File I/O error control 9.4. Questions and exercises",
+            "[1] Chapter 10 [2] Chapter 14",
+            "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Reading at home Do homework Lecturing Case discussion at class",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Chapter 9: File in C 9.1. Definition 9.2. File operations 9.3. File I/O error control 9.4. Questions and exercises",
+            "Reading": "[1] Chapter 10 [2] Chapter 14",
+            "CLOs": "CLO 1.1 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Activities": "Reading at home Do homework Lecturing Case discussion at class",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "All chapters",
+            "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Discussion at class",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course review",
+            "Reading": "All chapters",
+            "CLOs": "CLO 1.2 CLO 1.3 CLO 2.3 CLO 3.2",
+            "Activities": "Discussion at class",
+            "Assessment": "Participation Interaction"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 53,
+      "table_id": "en-cntt1128e#tbl009",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 68,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "PhD Pham Xuan Lam",
+          "cells": [
+            "PhD Pham Xuan Lam",
+            "Prof.PhD Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "PhD Pham Xuan Lam",
+            "NEU’s President": "Prof.PhD Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "Title: Principles of Programming Code: CNTT1128E\nCredits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\nCredit hours for teaching and learning activities:\nLecture: 30 hrs\nExercises on class: 15 hrs\nExercise and discussion (Tutor): 15 hrs\nSelf-study: 90 hrs.\nParallel course(s): None\nPrerequisite course(s): Introduction of Information Technology, Discrete Mathematics\nDepartment conducting the course:\nFaculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\nLecturers:\nPhD. Phạm Xuân Lâm Email: lampx@neu.edu.vn\nMA. Nguyễn Quỳnh Mai Email: mainq@neu.edu.vn\nPhD. Phạm Minh Hoàn Email: hoanpm@neu.edu.vn\nMA. Cao Thị Thu Hương Email: huongct@neu.edu.vn\nMA. Trần Thị Mỹ Diệp Email: diepttm@neu.edu.vn\nPhD. Tống Thị Hảo Tâm Email: tamtth@neu.edu.vn\nPhD. Lê Thị Hoài Thu Email: thulh@neu.edu.vn\nMA. Phạm Thảo Email: thaop@neu.edu.vn\nPhD. Nguyễn Thanh Hương Email: huongnt_cntt@neu.edu.vn\nKind of the course:\nCourse language: In English\nThis course provides basic knowledge about methods, programming thinking and solving problems on computers such as: basic programming structures, algorithms, data structure.\nThe course trains learners with basic computer programming skills through the C programming language and the ability to research, analyze and design functional modules. In addition, this course equips learners with the necessary knowledge and skills to apply the learned thinking and knowledge in the study of related subsequent programming subjects in the training program.\nCourse Book(s):\n[1]. Jeri R. Hanly, Elliot B. Koffman. Problem Solving and Program Design in C, (8th Edition)\nReference Book(s):\n[2]. Pham Van At (2020). Basic and Advanced C Programming Techniques, Bach Khoa Publishing House\n[3] Applied C: An Introduction and More. McGraw – Hill Higher Education\nSoftware(s):\n[1] Visual Studio Code\n[2] Code::Blocks\nTable 4.1. Course Goals\nTable 5.1. Course learning outcomes\nTable 6.1. Course assessment\nTable 7.1. Course outline\nTable 8. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

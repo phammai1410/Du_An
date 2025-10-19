@@ -1,0 +1,3985 @@
+{
+  "doc_id": "en-ep17-lucs1129",
+  "language": "en",
+  "course_name_stem": "Fundamentals of Laws",
+  "course_variant": "",
+  "course_code": "EP17.LUCS1129",
+  "source_filename": "Fundamentals of Laws_EP17.LUCS1129.docx",
+  "source_relpath": "data\\raw\\en\\Fundamentals of Laws_EP17.LUCS1129.docx",
+  "source_hash": "e6e94bae17d1b35080c32d0d8d2ba7bc",
+  "source_modified": "2025-10-11T10:42:50.594126+00:00",
+  "processed_at": "2025-10-17T16:55:26.437824+00:00",
+  "stats": {
+    "paragraphs": 51,
+    "tables": 11,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-lucs1129#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Fundamentals of Laws",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Code: EP17.LUCS1129",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 30 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Exercise and discussion: 15 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Self-study: 90 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Parallel course(s): None.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Prerequisite course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Department conducting the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "+ Faculty: Faculty of Law",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Address: 1010, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Tel: 024 36 280280 Ext: 5817 – 5819",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "1. Tran Thi Hong Nhung , PhD Tel: 0983217890 Email: nhungth@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "2. Nguyen Thi Dan Phuong, PhD Tel: 09936122960 Email: Ntdanphuong102@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "en-ep17-lucs1129#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "Foundation ☑",
+            "Foundation ☑_2",
+            "Fundamental ☐",
+            "Fundamental ☐_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory ☑",
+              "cells": [
+                "Compulsory ☑",
+                "Elective ☐",
+                "Compulsory ☐",
+                "Elective ☐"
+              ],
+              "column_map": {
+                "Foundation ☑": "Compulsory ☑",
+                "Foundation ☑_2": "Elective ☐",
+                "Fundamental ☐": "Compulsory ☐",
+                "Fundamental ☐_2": "Elective ☐"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 22
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "The course includes the following main contents: Basic knowledge that is about the state and the law in general and Vietnam such as: (1) origin, nature, characteristics, functions and organs of the state, forms of government. (2) Origin, nature of law, regulative mechanism of law for social relations: legal norm, legal relations, legal implementation, the delict, legal duty and responsibility; (3) Sourses of the law (4) The legal system. Some sectors of both public and private laws in Vietnam including respectively: Administrative law, Criminal law, Civil law and Business law.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 25
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "* Textbooks/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Hans Kelsen (2007), “General Theory Law and State”, Harward University Press",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Jaap Hage – Bram Akkermans (2014), “Intronductio to Law”, Springer International Publishing Switzerland.",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "* Additional references:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Paul Richards (2017), “Law of Contract”, Pearson Longman",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Sarah Riches’and Vida Allen (2009), “Business Law”, Pearson Longman",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Legal nomartive documents",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Other resources:",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "https://na.gov.vn",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "https://gov.vn",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "htttps://thuvienphapluat.com.vn",
+          "is_list": true,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 37
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "en-ep17-lucs1129#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 40,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Understanding and applying background legal knowledge in terms of the state in general and the socialist republic of Vietnam in particular such as: origin, nature, characteristics, functions, organs and forms of governemnt.",
+                "PLO2",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "Understanding and applying background legal knowledge in terms of the state in general and the socialist republic of Vietnam in particular such as: origin, nature, characteristics, functions, organs and forms of governemnt.",
+                "PLOs": "PLO2",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Understanding and applying background legal knowledge in terms of the law in general and the law in Vietnam in particular such as: origin, concept and basic characteristics of law; legal norm, legal relationship, subjects of legal relationship, legal implementation, the delict, legal duty and responsibility, sources of the law and the legal system.",
+                "PLO2",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Understanding and applying background legal knowledge in terms of the law in general and the law in Vietnam in particular such as: origin, concept and basic characteristics of law; legal norm, legal relationship, subjects of legal relationship, legal implementation, the delict, legal duty and responsibility, sources of the law and the legal system.",
+                "PLOs": "PLO2",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Understanding some sectors of both public and private laws in Vietnam such as: Administrative law, Criminal Law, Civil Law and Business Law. Applying to the fields of the law for situations in fact, specially with regards to Administrative Law, Criminal Law, Civil Law and Business Law",
+                "PLO2",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "Understanding some sectors of both public and private laws in Vietnam such as: Administrative law, Criminal Law, Civil Law and Business Law. Applying to the fields of the law for situations in fact, specially with regards to Administrative Law, Criminal Law, Civil Law and Business Law",
+                "PLOs": "PLO2",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+                "PLO7",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G4",
+                "Goals Description": "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+                "PLOs": "PLO7",
+                "Proficiency scale": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+                "PL011",
+                "3"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "Goals Description": "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+                "PLOs": "PL011",
+                "Proficiency scale": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "en-ep17-lucs1129#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I, T, U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understanding and applying background legal knowledge in terms of origin and nature of the state in general.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of origin and nature of the state in general.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understanding and applying background legal knowledge in terms of characteristics of the state in general.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of characteristics of the state in general.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Understanding and applying background legal knowledge in terms of organs of the state in general.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of organs of the state in general.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Understanding and applying background legal knowledge in terms of forms of government.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of forms of government.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.5",
+                "Understanding and applying the system organs of the socialist republic of Vietnam",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.5",
+                "CLOs Description": "Understanding and applying the system organs of the socialist republic of Vietnam",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Understanding and applying background legal knowledge in terms of origin of the law.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of origin of the law.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Understanding and applying background legal knowledge in terms of concept and basic characteristic of the law.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of concept and basic characteristic of the law.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.3",
+                "Understanding and applying background legal knowledge in terms of legal norm",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.3",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of legal norm",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.4",
+                "Understanding and applying background legal knowledge in terms of legal relationship",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.4",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of legal relationship",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.5",
+                "Understanding and applying background legal knowledge in terms of the delict",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.5",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of the delict",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.6",
+                "Understanding and applying background legal knowledge in terms of sources of law.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.6",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of sources of law.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.7",
+                "Understanding and applying background legal knowledge in terms of legal system",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.7",
+                "CLOs Description": "Understanding and applying background legal knowledge in terms of legal system",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Understanding and applying the main contents of Adminstrative law.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Understanding and applying the main contents of Adminstrative law.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Understanding and applying the main contents of Criminal Law.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Understanding and applying the main contents of Criminal Law.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Understanding and applying the main contents of Civil Law.",
+                "TU2"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Understanding and applying the main contents of Civil Law.",
+                "Teaching level (I, T, U)": "TU2"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.4",
+                "Understanding and applying the main contents of Business Law and applying it for some situations in fact.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.4",
+                "CLOs Description": "Understanding and applying the main contents of Business Law and applying it for some situations in fact.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "CLO4.1",
+                "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G4",
+                "CLOs": "CLO4.1",
+                "CLOs Description": "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "G5",
+              "cells": [
+                "G5",
+                "CLO5.1",
+                "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+                "TU3"
+              ],
+              "column_map": {
+                "Goals": "G5",
+                "CLOs": "CLO5.1",
+                "CLOs Description": "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+                "Teaching level (I, T, U)": "TU3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "* Assessment methods:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "- Grading: 10",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "* Assessment summary:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 42,
+          "table_id": "en-ep17-lucs1129#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "Assessments",
+            "Rubrics",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "Rubrics": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "Rubric 1",
+                "1.1-51",
+                "10%",
+                "1-15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "Rubrics": "Rubric 1",
+                "CLOs": "1.1-51",
+                "Weighting (%)": "10%",
+                "Week": "1-15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "Rubrics": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group Assignment",
+              "cells": [
+                "Group Assignment",
+                "Rubric 3",
+                "1.1 -1.5; 4.1; 5.1",
+                "20%",
+                "7"
+              ],
+              "column_map": {
+                "Assessments": "Group Assignment",
+                "Rubrics": "Rubric 3",
+                "CLOs": "1.1 -1.5; 4.1; 5.1",
+                "Weighting (%)": "20%",
+                "Week": "7"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Individual Midterm exam",
+              "cells": [
+                "Individual Midterm exam",
+                "Rubric 2",
+                "2.1 -2.7; 3.1-3.2",
+                "20%",
+                "14"
+              ],
+              "column_map": {
+                "Assessments": "Individual Midterm exam",
+                "Rubrics": "Rubric 2",
+                "CLOs": "2.1 -2.7; 3.1-3.2",
+                "Weighting (%)": "20%",
+                "Week": "14"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "Rubrics": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "Rubric 2",
+                "1-1.5; 2.1-2.7; 3.1-3.4; 5.1",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "Rubrics": "Rubric 2",
+                "CLOs": "1-1.5; 2.1-2.7; 3.1-3.4; 5.1",
+                "Weighting (%)": "50%",
+                "Week": ""
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "* Rubrics:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 52
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Rubric 1: Participant",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "table",
+          "order": 45,
+          "table_id": "en-ep17-lucs1129#tbl006",
+          "table_name": "Rubric 1: Participant",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 54,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Attendance",
+              "cells": [
+                "Attendance",
+                "50",
+                "Attend class on time. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+                "Ten minutes late. Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+                "Fifteen minutes late. The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+                "Did not attend classes or was significantly late. Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+              ],
+              "column_map": {
+                "Areas of assessment": "Attendance",
+                "Weighting (%)": "50",
+                "Excellence 8.5 – 10 point": "Attend class on time. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+                "Good 6.5 – 8.4 point": "Ten minutes late. Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+                "Fair 4.0 – 6.4 point": "Fifteen minutes late. The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+                "Poor 0 – 3.9 point": "Did not attend classes or was significantly late. Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Responding",
+              "cells": [
+                "Responding",
+                "25",
+                "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+                "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Cutting class or more than twenty minutes late."
+              ],
+              "column_map": {
+                "Areas of assessment": "Responding",
+                "Weighting (%)": "25",
+                "Excellence 8.5 – 10 point": "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Good 6.5 – 8.4 point": "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+                "Fair 4.0 – 6.4 point": "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+                "Poor 0 – 3.9 point": "Cutting class or more than twenty minutes late."
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Behavior",
+              "cells": [
+                "Behavior",
+                "25",
+                "The student always followed the teacher's directions, classroom rules.",
+                "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+                "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+                "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+              ],
+              "column_map": {
+                "Areas of assessment": "Behavior",
+                "Weighting (%)": "25",
+                "Excellence 8.5 – 10 point": "The student always followed the teacher's directions, classroom rules.",
+                "Good 6.5 – 8.4 point": "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+                "Fair 4.0 – 6.4 point": "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+                "Poor 0 – 3.9 point": "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Rubric 2: Midterm test and final exam \n(Mid-term test and final exam mainly include three types of questions: situation questions, multiple choice questions, and essay questions)",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "table",
+          "order": 47,
+          "table_id": "en-ep17-lucs1129#tbl007",
+          "table_name": "Rubric 2: Midterm test and final exam",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 57,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Situation questions",
+              "cells": [
+                "Situation questions",
+                "40",
+                "Provided accurate solutions to all problems,",
+                "Provided accurate solutions to most problems,",
+                "Provided accurate solutions to some problems or a few problems",
+                "Skipped some problems or provided inaccurate solutions to most problems"
+              ],
+              "column_map": {
+                "Areas of assessment": "Situation questions",
+                "Weighting (%)": "40",
+                "Excellence 8.5 – 10 point": "Provided accurate solutions to all problems,",
+                "Good 6.5 – 8.4 point": "Provided accurate solutions to most problems,",
+                "Fair 4.0 – 6.4 point": "Provided accurate solutions to some problems or a few problems",
+                "Poor 0 – 3.9 point": "Skipped some problems or provided inaccurate solutions to most problems"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Multiple choice questions",
+              "cells": [
+                "Multiple choice questions",
+                "30",
+                "Scored correctly on more than 85%",
+                "Scored correctly on more than 65%",
+                "Scored correctly on more than 45%",
+                "Scored correctly on less than 45%"
+              ],
+              "column_map": {
+                "Areas of assessment": "Multiple choice questions",
+                "Weighting (%)": "30",
+                "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+                "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+                "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+                "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Essay questions",
+              "cells": [
+                "Essay questions",
+                "30",
+                "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+                "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+                "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+                "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+              ],
+              "column_map": {
+                "Areas of assessment": "Essay questions",
+                "Weighting (%)": "30",
+                "Excellence 8.5 – 10 point": "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+                "Good 6.5 – 8.4 point": "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+                "Fair 4.0 – 6.4 point": "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+                "Poor 0 – 3.9 point": "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Rubric 3: Group Assignment",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "table",
+          "order": 49,
+          "table_id": "en-ep17-lucs1129#tbl008",
+          "table_name": "Rubric 3: Group Assignment",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 60,
+          "column_labels": [
+            "Areas of assessment",
+            "Weighting (%)",
+            "Excellence 8.5 – 10 point",
+            "Good 6.5 – 8.4 point",
+            "Fair 4.0 – 6.4 point",
+            "Poor 0 – 3.9 point"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Reports (Content, Structure, Format..)",
+              "cells": [
+                "Reports (Content, Structure, Format..)",
+                "60%",
+                "The analysis is clear, rigorous, with full theoretical and practical bases. Well-organized structure and resonable with requirements of the content Unified form and standards as prescribed.",
+                "The analysis is quite clear, rigorous, with most of theoretical and practical bases. Quite balanced structure, satisfy the requirements of the content Quite unified form and standards as prescribed.",
+                "The analysis is relatively clear and rigorous, with a relatively theoretical and practical basis. The structure is relatively balanced and reasonable with the requirements of the content Relatively unified form and standards according to regulations. However, many spelling cores and different formats.",
+                "The analysis is not clear, rigorous and enough theoretical and practical bases. Not well-organized structure and reasonable with the requirements of the content Not unified form and standards as prescribed. Too much mistakes"
+              ],
+              "column_map": {
+                "Areas of assessment": "Reports (Content, Structure, Format..)",
+                "Weighting (%)": "60%",
+                "Excellence 8.5 – 10 point": "The analysis is clear, rigorous, with full theoretical and practical bases. Well-organized structure and resonable with requirements of the content Unified form and standards as prescribed.",
+                "Good 6.5 – 8.4 point": "The analysis is quite clear, rigorous, with most of theoretical and practical bases. Quite balanced structure, satisfy the requirements of the content Quite unified form and standards as prescribed.",
+                "Fair 4.0 – 6.4 point": "The analysis is relatively clear and rigorous, with a relatively theoretical and practical basis. The structure is relatively balanced and reasonable with the requirements of the content Relatively unified form and standards according to regulations. However, many spelling cores and different formats.",
+                "Poor 0 – 3.9 point": "The analysis is not clear, rigorous and enough theoretical and practical bases. Not well-organized structure and reasonable with the requirements of the content Not unified form and standards as prescribed. Too much mistakes"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Time",
+              "cells": [
+                "Time",
+                "10%",
+                "Submitted reports and required doccuments on time",
+                "Submitted reports and required doccuments on time",
+                "Submitted reports and required doccuments up to seven day late",
+                "Submitted reports and required doccuments more than seven day late"
+              ],
+              "column_map": {
+                "Areas of assessment": "Time",
+                "Weighting (%)": "10%",
+                "Excellence 8.5 – 10 point": "Submitted reports and required doccuments on time",
+                "Good 6.5 – 8.4 point": "Submitted reports and required doccuments on time",
+                "Fair 4.0 – 6.4 point": "Submitted reports and required doccuments up to seven day late",
+                "Poor 0 – 3.9 point": "Submitted reports and required doccuments more than seven day late"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Presentation",
+              "cells": [
+                "Presentation",
+                "30%",
+                "Show good presentation skills; skills in using sign language in presentation activities. Listen and answer well all the questions",
+                "Show relatively good presentation skills; be able to use some sign language during the presentation Listen and answer the questions quite well",
+                "Not really confident and able to convey at a limited level; Limited use of sign language. The ability to listen and answer questions is limited.",
+                "Inability to present the contents of the assignment. Inability to interact with listeners."
+              ],
+              "column_map": {
+                "Areas of assessment": "Presentation",
+                "Weighting (%)": "30%",
+                "Excellence 8.5 – 10 point": "Show good presentation skills; skills in using sign language in presentation activities. Listen and answer well all the questions",
+                "Good 6.5 – 8.4 point": "Show relatively good presentation skills; be able to use some sign language during the presentation Listen and answer the questions quite well",
+                "Fair 4.0 – 6.4 point": "Not really confident and able to convey at a limited level; Limited use of sign language. The ability to listen and answer questions is limited.",
+                "Poor 0 – 3.9 point": "Inability to present the contents of the assignment. Inability to interact with listeners."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "table",
+          "order": 51,
+          "table_id": "en-ep17-lucs1129#tbl009",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 65,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.1 CLO 5.1",
+                "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLOs": "CLO 1.1 CLO 5.1",
+                "Teaching-learning activities": "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1 1.2. Characteristics of the state 1.3. Functions of the state",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.2, 1.3 CLO 4.1",
+                "Lecture Homework 2: Show the diferences between the communist party and the state",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 1 1.2. Characteristics of the state 1.3. Functions of the state",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLOs": "CLO 1.2, 1.3 CLO 4.1",
+                "Teaching-learning activities": "Lecture Homework 2: Show the diferences between the communist party and the state",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 1 1.4 The organs of the state 1.5. Forms of government Review Outline of Gourp Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+                "Lecture Homework 3: Forms of government of ASEAN states",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 1 1.4 The organs of the state 1.5. Forms of government Review Outline of Gourp Assignment",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLOs": "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+                "Teaching-learning activities": "Lecture Homework 3: Forms of government of ASEAN states",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 2.1-2.3",
+                "Lecture Homework 4: Study the differences between Natural theory and Positivist .theory",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLOs": "CLO 2.1-2.3",
+                "Teaching-learning activities": "Lecture Homework 4: Study the differences between Natural theory and Positivist .theory",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 2. The Law 2.2. Regulative mechanism of the law 2.3 Sources of the law",
+                "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 2.3-2.6",
+                "Lecture Homework 5: Study sources of the law in Vietnam.",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 2. The Law 2.2. Regulative mechanism of the law 2.3 Sources of the law",
+                "Required readings text": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLOs": "CLO 2.3-2.6",
+                "Teaching-learning activities": "Lecture Homework 5: Study sources of the law in Vietnam.",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 2. The Law 2.3 Sources of the law 2.4 Legal system",
+                "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 2.6-2.7",
+                "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 2. The Law 2.3 Sources of the law 2.4 Legal system",
+                "Required readings text": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLOs": "CLO 2.6-2.7",
+                "Teaching-learning activities": "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Present the reports of Group Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+                "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Present the reports of Group Assignment",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+                "CLOs": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Teaching-learning activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Present the reports of Group Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+                "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Rubric 3"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Present the reports of Group Assignment",
+                "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+                "CLOs": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Teaching-learning activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Assessment": "Rubric 3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "9 -10",
+              "cells": [
+                "9 -10",
+                "Charpter 3 3.1 Administrative Law",
+                "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.1",
+                "Lecture Homework 7: Studying and discussing an administrative case",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "9 -10",
+                "Content": "Charpter 3 3.1 Administrative Law",
+                "Required readings text": "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLOs": "CLO 3.1",
+                "Teaching-learning activities": "Lecture Homework 7: Studying and discussing an administrative case",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "10-11",
+              "cells": [
+                "10-11",
+                "Chapter 3 3.2 Criminal Law",
+                "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.2",
+                "Lecture Homework 8: Studying and discussing a criminal case",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "10-11",
+                "Content": "Chapter 3 3.2 Criminal Law",
+                "Required readings text": "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLOs": "CLO 3.2",
+                "Teaching-learning activities": "Lecture Homework 8: Studying and discussing a criminal case",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter. 4 4.1 Civil Law",
+                "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.3",
+                "Lecture Homework 9: Studying and discussing a civil case",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter. 4 4.1 Civil Law",
+                "Required readings text": "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLOs": "CLO 3.3",
+                "Teaching-learning activities": "Lecture Homework 9: Studying and discussing a civil case",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "12-13",
+              "cells": [
+                "12-13",
+                "Chapter. 4 4.2 Business Law",
+                "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+                "CLO 3.4",
+                "Lecture Homework 10: Studying and discussing a business case",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "12-13",
+                "Content": "Chapter. 4 4.2 Business Law",
+                "Required readings text": "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+                "CLOs": "CLO 3.4",
+                "Teaching-learning activities": "Lecture Homework 10: Studying and discussing a business case",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Midterm Test",
+                "",
+                "CLO 2.1-2.7 CLO 3.1-.3.2",
+                "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+                "Rubric 2"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Midterm Test",
+                "Required readings text": "",
+                "CLOs": "CLO 2.1-2.7 CLO 3.1-.3.2",
+                "Teaching-learning activities": "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+                "Assessment": "Rubric 2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Review",
+                "",
+                "",
+                "Review",
+                "Rubric 1"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Review",
+                "Required readings text": "",
+                "CLOs": "",
+                "Teaching-learning activities": "Review",
+                "Assessment": "Rubric 1"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "Final exam",
+              "cells": [
+                "",
+                "Final exam",
+                "",
+                "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+                "Students take exams according to give schedule",
+                "According to the exam requirement Rubric 2"
+              ],
+              "column_map": {
+                "Week": "",
+                "Content": "Final exam",
+                "Required readings text": "",
+                "CLOs": "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+                "Teaching-learning activities": "Students take exams according to give schedule",
+                "Assessment": "According to the exam requirement Rubric 2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 68
+        },
+        {
+          "type": "table",
+          "order": 53,
+          "table_id": "en-ep17-lucs1129#tbl010",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 69,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state 1.1.1 Origin of the state 1.1.2 Nature of the state",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.1 CLO 5.1",
+                "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state 1.1.1 Origin of the state 1.1.2 Nature of the state",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO": "CLO 1.1 CLO 5.1",
+                "Teaching and Learning Activities": "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1 1.2. Characteristics of the state 1.2.1 State Power 1.2.2 Sovereignty 1.2.3 Enacting the law 1.2.4 Administrative Units 1.3. Functions of the state 1.3.1 Concepts 1.3.2 Classfication",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.2, 1.3 CLO 4.1",
+                "Lecture Homework 2: Show the differences between the communist party and the state",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 1 1.2. Characteristics of the state 1.2.1 State Power 1.2.2 Sovereignty 1.2.3 Enacting the law 1.2.4 Administrative Units 1.3. Functions of the state 1.3.1 Concepts 1.3.2 Classfication",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO": "CLO 1.2, 1.3 CLO 4.1",
+                "Teaching and Learning Activities": "Lecture Homework 2: Show the differences between the communist party and the state",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 1 1.4 The organs of the state 1.4.1 Definition 1.4.2 Establishment 1.4.2 Classification 1.5. Forms of government 1.5.1 Momarchy/ Republic 1.5.2 Centralization/Decentralization Chapter 1 Review Outline of Gourp Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+                "Lecture Homework 3: Forms of government of ASEAN states",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 1 1.4 The organs of the state 1.4.1 Definition 1.4.2 Establishment 1.4.2 Classification 1.5. Forms of government 1.5.1 Momarchy/ Republic 1.5.2 Centralization/Decentralization Chapter 1 Review Outline of Gourp Assignment",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO": "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+                "Teaching and Learning Activities": "Lecture Homework 3: Forms of government of ASEAN states",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 2.1-2.3",
+                "Lecture Homework 4: Study the differences between Natural theory and Positivist theory",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO": "CLO 2.1-2.3",
+                "Teaching and Learning Activities": "Lecture Homework 4: Study the differences between Natural theory and Positivist theory",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 2. The Law 2.1. General issues of the law 2.1.1. Origin of the law 2.1.2.Concept and basic characteristics of the law 2.1.3. Roles of the law 2.2 Regulative mechanism of the law 2.2.1 Legal norm 2.2.2 Legal relationship 2.2.3 The delict, the legal duty and liability",
+                "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO 2.3-2.6",
+                "Lecture Homework 5: Study sources of the law in Vietnam.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 2. The Law 2.1. General issues of the law 2.1.1. Origin of the law 2.1.2.Concept and basic characteristics of the law 2.1.3. Roles of the law 2.2 Regulative mechanism of the law 2.2.1 Legal norm 2.2.2 Legal relationship 2.2.3 The delict, the legal duty and liability",
+                "Readings requirement": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+                "CLO": "CLO 2.3-2.6",
+                "Teaching and Learning Activities": "Lecture Homework 5: Study sources of the law in Vietnam.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 2. The Law 2.3 Sources of the law 2.3.1. Concept of the legal sources 2.3.2. Kinds of the legal sources 2.3.3. Legal normative documents 2.4 Legal system 2.4.1 Definition of the legal system 2.4.2 Components of the legal system",
+                "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 2.6-2.7",
+                "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 2. The Law 2.3 Sources of the law 2.3.1. Concept of the legal sources 2.3.2. Kinds of the legal sources 2.3.3. Legal normative documents 2.4 Legal system 2.4.1 Definition of the legal system 2.4.2 Components of the legal system",
+                "Readings requirement": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO": "CLO 2.6-2.7",
+                "Teaching and Learning Activities": "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Present the reports of Group Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+                "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Present the reports of Group Assignment",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+                "CLO": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Teaching and Learning Activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Present the reports of Group Assignment",
+                "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+                "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Present the reports of Group Assignment",
+                "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+                "CLO": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+                "Teaching and Learning Activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9 -10",
+              "cells": [
+                "9 -10",
+                "Charpter 3 3.1 Administrative Law 3.1.1. General summary of the administrative law 3.1.2. Main contents of the administrative law",
+                "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.1",
+                "Lecture Homework 7: Studying and discussing an administrative case",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "9 -10",
+                "Content": "Charpter 3 3.1 Administrative Law 3.1.1. General summary of the administrative law 3.1.2. Main contents of the administrative law",
+                "Readings requirement": "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO": "CLO 3.1",
+                "Teaching and Learning Activities": "Lecture Homework 7: Studying and discussing an administrative case",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10-11",
+              "cells": [
+                "10-11",
+                "Chapter 3 3.2 Criminal Law 3.2.1. General summary of the criminal law 3.2.2. Crime 3.2.3 Sentence",
+                "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.2",
+                "Lecture Homework 8: Studying and discussing a criminal case",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "10-11",
+                "Content": "Chapter 3 3.2 Criminal Law 3.2.1. General summary of the criminal law 3.2.2. Crime 3.2.3 Sentence",
+                "Readings requirement": "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO": "CLO 3.2",
+                "Teaching and Learning Activities": "Lecture Homework 8: Studying and discussing a criminal case",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11-12",
+              "cells": [
+                "11-12",
+                "Chapter. 4 4.1 Civil Law 4.1.1. General concepts of the civil law 4.1.2. Main contents of the civil law",
+                "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO 3.3",
+                "Lecture Homework 9: Studying and discussing a civil case",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              ],
+              "column_map": {
+                "Week": "11-12",
+                "Content": "Chapter. 4 4.1 Civil Law 4.1.1. General concepts of the civil law 4.1.2. Main contents of the civil law",
+                "Readings requirement": "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+                "CLO": "CLO 3.3",
+                "Teaching and Learning Activities": "Lecture Homework 9: Studying and discussing a civil case",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12-13",
+              "cells": [
+                "12-13",
+                "Chapter. 4 4.2 Business Law 4.2.1. General contents of the business law 4.2.2. Business organization types 4.2.3 Business transactions",
+                "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+                "CLO 3.4",
+                "Lecture Homework 10: Studying and discussing a business case",
+                ""
+              ],
+              "column_map": {
+                "Week": "12-13",
+                "Content": "Chapter. 4 4.2 Business Law 4.2.1. General contents of the business law 4.2.2. Business organization types 4.2.3 Business transactions",
+                "Readings requirement": "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+                "CLO": "CLO 3.4",
+                "Teaching and Learning Activities": "Lecture Homework 10: Studying and discussing a business case",
+                "Assessment tools and criteria": ""
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Midterm Test",
+                "",
+                "CLO 2.1-2.7 CLO 3.1-.3.2",
+                "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+                "Number of correct answers."
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Midterm Test",
+                "Readings requirement": "",
+                "CLO": "CLO 2.1-2.7 CLO 3.1-.3.2",
+                "Teaching and Learning Activities": "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+                "Assessment tools and criteria": "Number of correct answers."
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Review",
+                "",
+                "",
+                "Review",
+                "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Review",
+                "Readings requirement": "",
+                "CLO": "",
+                "Teaching and Learning Activities": "Review",
+                "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+                "Students take exams according to give schedule",
+                "According to the exam requirement"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+                "Teaching and Learning Activities": "Students take exams according to give schedule",
+                "Assessment tools and criteria": "According to the exam requirement"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 74
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 76
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Students will be awarded points for constructive comments, these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 77
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 78
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-lucs1129#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "table",
+          "order": 61,
+          "table_id": "en-ep17-lucs1129#tbl011",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 84,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Faculty Dean PhD. Hoang Xuan Truong",
+              "cells": [
+                "Faculty Dean PhD. Hoang Xuan Truong",
+                "NEU’s President Prof. PhD Pham Hong Chuong"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-lucs1129#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD by NEU’s President, 30th August 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD by NEU’s President, 30th August 2023)",
+            "COURSE SYLLABUS (Issued with Decision number 974/QĐ-ĐHKTQD by NEU’s President, 30th August 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Program name : Bachelor of Software Engineering",
+          "cells": [
+            "Program name : Bachelor of Software Engineering",
+            "Program name : Bachelor of Software Engineering"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "en-ep17-lucs1129#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "Foundation ☑",
+        "Foundation ☑_2",
+        "Fundamental ☐",
+        "Fundamental ☐_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory ☑",
+          "cells": [
+            "Compulsory ☑",
+            "Elective ☐",
+            "Compulsory ☐",
+            "Elective ☐"
+          ],
+          "column_map": {
+            "Foundation ☑": "Compulsory ☑",
+            "Foundation ☑_2": "Elective ☐",
+            "Fundamental ☐": "Compulsory ☐",
+            "Fundamental ☐_2": "Elective ☐"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "en-ep17-lucs1129#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 40,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Understanding and applying background legal knowledge in terms of the state in general and the socialist republic of Vietnam in particular such as: origin, nature, characteristics, functions, organs and forms of governemnt.",
+            "PLO2",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "Understanding and applying background legal knowledge in terms of the state in general and the socialist republic of Vietnam in particular such as: origin, nature, characteristics, functions, organs and forms of governemnt.",
+            "PLOs": "PLO2",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Understanding and applying background legal knowledge in terms of the law in general and the law in Vietnam in particular such as: origin, concept and basic characteristics of law; legal norm, legal relationship, subjects of legal relationship, legal implementation, the delict, legal duty and responsibility, sources of the law and the legal system.",
+            "PLO2",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Understanding and applying background legal knowledge in terms of the law in general and the law in Vietnam in particular such as: origin, concept and basic characteristics of law; legal norm, legal relationship, subjects of legal relationship, legal implementation, the delict, legal duty and responsibility, sources of the law and the legal system.",
+            "PLOs": "PLO2",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Understanding some sectors of both public and private laws in Vietnam such as: Administrative law, Criminal Law, Civil Law and Business Law. Applying to the fields of the law for situations in fact, specially with regards to Administrative Law, Criminal Law, Civil Law and Business Law",
+            "PLO2",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "Understanding some sectors of both public and private laws in Vietnam such as: Administrative law, Criminal Law, Civil Law and Business Law. Applying to the fields of the law for situations in fact, specially with regards to Administrative Law, Criminal Law, Civil Law and Business Law",
+            "PLOs": "PLO2",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+            "PLO7",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G4",
+            "Goals Description": "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+            "PLOs": "PLO7",
+            "Proficiency scale": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+            "PL011",
+            "3"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "Goals Description": "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+            "PLOs": "PL011",
+            "Proficiency scale": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "en-ep17-lucs1129#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I, T, U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understanding and applying background legal knowledge in terms of origin and nature of the state in general.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of origin and nature of the state in general.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understanding and applying background legal knowledge in terms of characteristics of the state in general.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of characteristics of the state in general.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Understanding and applying background legal knowledge in terms of organs of the state in general.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of organs of the state in general.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Understanding and applying background legal knowledge in terms of forms of government.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of forms of government.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.5",
+            "Understanding and applying the system organs of the socialist republic of Vietnam",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.5",
+            "CLOs Description": "Understanding and applying the system organs of the socialist republic of Vietnam",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Understanding and applying background legal knowledge in terms of origin of the law.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of origin of the law.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Understanding and applying background legal knowledge in terms of concept and basic characteristic of the law.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of concept and basic characteristic of the law.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.3",
+            "Understanding and applying background legal knowledge in terms of legal norm",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.3",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of legal norm",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.4",
+            "Understanding and applying background legal knowledge in terms of legal relationship",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.4",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of legal relationship",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.5",
+            "Understanding and applying background legal knowledge in terms of the delict",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.5",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of the delict",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.6",
+            "Understanding and applying background legal knowledge in terms of sources of law.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.6",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of sources of law.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.7",
+            "Understanding and applying background legal knowledge in terms of legal system",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.7",
+            "CLOs Description": "Understanding and applying background legal knowledge in terms of legal system",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Understanding and applying the main contents of Adminstrative law.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Understanding and applying the main contents of Adminstrative law.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Understanding and applying the main contents of Criminal Law.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Understanding and applying the main contents of Criminal Law.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Understanding and applying the main contents of Civil Law.",
+            "TU2"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Understanding and applying the main contents of Civil Law.",
+            "Teaching level (I, T, U)": "TU2"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.4",
+            "Understanding and applying the main contents of Business Law and applying it for some situations in fact.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.4",
+            "CLOs Description": "Understanding and applying the main contents of Business Law and applying it for some situations in fact.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "CLO4.1",
+            "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G4",
+            "CLOs": "CLO4.1",
+            "CLOs Description": "Having independent working skills, teamwork skills, communication skills. Having skills in analyzing, synthesizing and evaluating legal information and opinions to solve basic situations that arise in professional activities.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "G5",
+          "cells": [
+            "G5",
+            "CLO5.1",
+            "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+            "TU3"
+          ],
+          "column_map": {
+            "Goals": "G5",
+            "CLOs": "CLO5.1",
+            "CLOs Description": "Having the autonomous ability in trained legal knowledge and responsibilities of citizen.There is creativity, profession in the process of performing assigned tasks.",
+            "Teaching level (I, T, U)": "TU3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 42,
+      "table_id": "en-ep17-lucs1129#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "Assessments",
+        "Rubrics",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "Rubrics": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "Rubric 1",
+            "1.1-51",
+            "10%",
+            "1-15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "Rubrics": "Rubric 1",
+            "CLOs": "1.1-51",
+            "Weighting (%)": "10%",
+            "Week": "1-15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "Rubrics": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group Assignment",
+          "cells": [
+            "Group Assignment",
+            "Rubric 3",
+            "1.1 -1.5; 4.1; 5.1",
+            "20%",
+            "7"
+          ],
+          "column_map": {
+            "Assessments": "Group Assignment",
+            "Rubrics": "Rubric 3",
+            "CLOs": "1.1 -1.5; 4.1; 5.1",
+            "Weighting (%)": "20%",
+            "Week": "7"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Individual Midterm exam",
+          "cells": [
+            "Individual Midterm exam",
+            "Rubric 2",
+            "2.1 -2.7; 3.1-3.2",
+            "20%",
+            "14"
+          ],
+          "column_map": {
+            "Assessments": "Individual Midterm exam",
+            "Rubrics": "Rubric 2",
+            "CLOs": "2.1 -2.7; 3.1-3.2",
+            "Weighting (%)": "20%",
+            "Week": "14"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "Rubrics": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "Rubric 2",
+            "1-1.5; 2.1-2.7; 3.1-3.4; 5.1",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "Rubrics": "Rubric 2",
+            "CLOs": "1-1.5; 2.1-2.7; 3.1-3.4; 5.1",
+            "Weighting (%)": "50%",
+            "Week": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 45,
+      "table_id": "en-ep17-lucs1129#tbl006",
+      "table_name": "Rubric 1: Participant",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 54,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Attendance",
+          "cells": [
+            "Attendance",
+            "50",
+            "Attend class on time. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+            "Ten minutes late. Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+            "Fifteen minutes late. The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+            "Did not attend classes or was significantly late. Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+          ],
+          "column_map": {
+            "Areas of assessment": "Attendance",
+            "Weighting (%)": "50",
+            "Excellence 8.5 – 10 point": "Attend class on time. Submitted all assignments with more than 85% accuracy. Attended at least 90% of classes.",
+            "Good 6.5 – 8.4 point": "Ten minutes late. Submitted at least 65% of assignments with more than 65% accuracy. Attended at least 80% of classes",
+            "Fair 4.0 – 6.4 point": "Fifteen minutes late. The student leaves once for a short emergency. Submitted at least 50% of assignments with more than 50% accuracy. Attended at least 60% of classes",
+            "Poor 0 – 3.9 point": "Did not attend classes or was significantly late. Submitted less than 50% of assignments with less than 50% accuracy. Attended less than 50% of classes"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Responding",
+          "cells": [
+            "Responding",
+            "25",
+            "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+            "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Cutting class or more than twenty minutes late."
+          ],
+          "column_map": {
+            "Areas of assessment": "Responding",
+            "Weighting (%)": "25",
+            "Excellence 8.5 – 10 point": "Students ALWAYS RESPONDED, 100%-85%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Good 6.5 – 8.4 point": "Students OFTEN RESPONDED, 84%-65% to both the teachers and students\nquestions, ideas, and opinions.",
+            "Fair 4.0 – 6.4 point": "Students NEVER RESPONDED, 0%, to both the teachers and students\nquestions, ideas, and opinions.",
+            "Poor 0 – 3.9 point": "Cutting class or more than twenty minutes late."
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Behavior",
+          "cells": [
+            "Behavior",
+            "25",
+            "The student always followed the teacher's directions, classroom rules.",
+            "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+            "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+            "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+          ],
+          "column_map": {
+            "Areas of assessment": "Behavior",
+            "Weighting (%)": "25",
+            "Excellence 8.5 – 10 point": "The student always followed the teacher's directions, classroom rules.",
+            "Good 6.5 – 8.4 point": "The student mostly followed the teacher's directions, classroom rules. The student has to be redirected at least once.",
+            "Fair 4.0 – 6.4 point": "The student mostly followed the teacher's directions, classroom rules.\n The student has to be redirected thrice.",
+            "Poor 0 – 3.9 point": "For the majority of the period, the student did not follow any teacher's directions, classroom rules."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 47,
+      "table_id": "en-ep17-lucs1129#tbl007",
+      "table_name": "Rubric 2: Midterm test and final exam",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 57,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Situation questions",
+          "cells": [
+            "Situation questions",
+            "40",
+            "Provided accurate solutions to all problems,",
+            "Provided accurate solutions to most problems,",
+            "Provided accurate solutions to some problems or a few problems",
+            "Skipped some problems or provided inaccurate solutions to most problems"
+          ],
+          "column_map": {
+            "Areas of assessment": "Situation questions",
+            "Weighting (%)": "40",
+            "Excellence 8.5 – 10 point": "Provided accurate solutions to all problems,",
+            "Good 6.5 – 8.4 point": "Provided accurate solutions to most problems,",
+            "Fair 4.0 – 6.4 point": "Provided accurate solutions to some problems or a few problems",
+            "Poor 0 – 3.9 point": "Skipped some problems or provided inaccurate solutions to most problems"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Multiple choice questions",
+          "cells": [
+            "Multiple choice questions",
+            "30",
+            "Scored correctly on more than 85%",
+            "Scored correctly on more than 65%",
+            "Scored correctly on more than 45%",
+            "Scored correctly on less than 45%"
+          ],
+          "column_map": {
+            "Areas of assessment": "Multiple choice questions",
+            "Weighting (%)": "30",
+            "Excellence 8.5 – 10 point": "Scored correctly on more than 85%",
+            "Good 6.5 – 8.4 point": "Scored correctly on more than 65%",
+            "Fair 4.0 – 6.4 point": "Scored correctly on more than 45%",
+            "Poor 0 – 3.9 point": "Scored correctly on less than 45%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Essay questions",
+          "cells": [
+            "Essay questions",
+            "30",
+            "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+            "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+            "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+            "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+          ],
+          "column_map": {
+            "Areas of assessment": "Essay questions",
+            "Weighting (%)": "30",
+            "Excellence 8.5 – 10 point": "Gave detailed and insightful responses to all essay questions. Supporting evidence is convincing, accurate and detailed. Well written with clear focus",
+            "Good 6.5 – 8.4 point": "Gave detailed responses to most essay questions. Supporting evidence is sufficient and accurate. Well written",
+            "Fair 4.0 – 6.4 point": "Gave limited or unclear responses to some essay questions. Supporting evidence is insufficient. Writing is unclear",
+            "Poor 0 – 3.9 point": "Gave poor responses to most essay questions. Supporting evidence is vague or missing. Poorly written."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 49,
+      "table_id": "en-ep17-lucs1129#tbl008",
+      "table_name": "Rubric 3: Group Assignment",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 60,
+      "column_labels": [
+        "Areas of assessment",
+        "Weighting (%)",
+        "Excellence 8.5 – 10 point",
+        "Good 6.5 – 8.4 point",
+        "Fair 4.0 – 6.4 point",
+        "Poor 0 – 3.9 point"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Reports (Content, Structure, Format..)",
+          "cells": [
+            "Reports (Content, Structure, Format..)",
+            "60%",
+            "The analysis is clear, rigorous, with full theoretical and practical bases. Well-organized structure and resonable with requirements of the content Unified form and standards as prescribed.",
+            "The analysis is quite clear, rigorous, with most of theoretical and practical bases. Quite balanced structure, satisfy the requirements of the content Quite unified form and standards as prescribed.",
+            "The analysis is relatively clear and rigorous, with a relatively theoretical and practical basis. The structure is relatively balanced and reasonable with the requirements of the content Relatively unified form and standards according to regulations. However, many spelling cores and different formats.",
+            "The analysis is not clear, rigorous and enough theoretical and practical bases. Not well-organized structure and reasonable with the requirements of the content Not unified form and standards as prescribed. Too much mistakes"
+          ],
+          "column_map": {
+            "Areas of assessment": "Reports (Content, Structure, Format..)",
+            "Weighting (%)": "60%",
+            "Excellence 8.5 – 10 point": "The analysis is clear, rigorous, with full theoretical and practical bases. Well-organized structure and resonable with requirements of the content Unified form and standards as prescribed.",
+            "Good 6.5 – 8.4 point": "The analysis is quite clear, rigorous, with most of theoretical and practical bases. Quite balanced structure, satisfy the requirements of the content Quite unified form and standards as prescribed.",
+            "Fair 4.0 – 6.4 point": "The analysis is relatively clear and rigorous, with a relatively theoretical and practical basis. The structure is relatively balanced and reasonable with the requirements of the content Relatively unified form and standards according to regulations. However, many spelling cores and different formats.",
+            "Poor 0 – 3.9 point": "The analysis is not clear, rigorous and enough theoretical and practical bases. Not well-organized structure and reasonable with the requirements of the content Not unified form and standards as prescribed. Too much mistakes"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Time",
+          "cells": [
+            "Time",
+            "10%",
+            "Submitted reports and required doccuments on time",
+            "Submitted reports and required doccuments on time",
+            "Submitted reports and required doccuments up to seven day late",
+            "Submitted reports and required doccuments more than seven day late"
+          ],
+          "column_map": {
+            "Areas of assessment": "Time",
+            "Weighting (%)": "10%",
+            "Excellence 8.5 – 10 point": "Submitted reports and required doccuments on time",
+            "Good 6.5 – 8.4 point": "Submitted reports and required doccuments on time",
+            "Fair 4.0 – 6.4 point": "Submitted reports and required doccuments up to seven day late",
+            "Poor 0 – 3.9 point": "Submitted reports and required doccuments more than seven day late"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Presentation",
+          "cells": [
+            "Presentation",
+            "30%",
+            "Show good presentation skills; skills in using sign language in presentation activities. Listen and answer well all the questions",
+            "Show relatively good presentation skills; be able to use some sign language during the presentation Listen and answer the questions quite well",
+            "Not really confident and able to convey at a limited level; Limited use of sign language. The ability to listen and answer questions is limited.",
+            "Inability to present the contents of the assignment. Inability to interact with listeners."
+          ],
+          "column_map": {
+            "Areas of assessment": "Presentation",
+            "Weighting (%)": "30%",
+            "Excellence 8.5 – 10 point": "Show good presentation skills; skills in using sign language in presentation activities. Listen and answer well all the questions",
+            "Good 6.5 – 8.4 point": "Show relatively good presentation skills; be able to use some sign language during the presentation Listen and answer the questions quite well",
+            "Fair 4.0 – 6.4 point": "Not really confident and able to convey at a limited level; Limited use of sign language. The ability to listen and answer questions is limited.",
+            "Poor 0 – 3.9 point": "Inability to present the contents of the assignment. Inability to interact with listeners."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 51,
+      "table_id": "en-ep17-lucs1129#tbl009",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 65,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.1 CLO 5.1",
+            "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLOs": "CLO 1.1 CLO 5.1",
+            "Teaching-learning activities": "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1 1.2. Characteristics of the state 1.3. Functions of the state",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.2, 1.3 CLO 4.1",
+            "Lecture Homework 2: Show the diferences between the communist party and the state",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 1 1.2. Characteristics of the state 1.3. Functions of the state",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLOs": "CLO 1.2, 1.3 CLO 4.1",
+            "Teaching-learning activities": "Lecture Homework 2: Show the diferences between the communist party and the state",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 1 1.4 The organs of the state 1.5. Forms of government Review Outline of Gourp Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+            "Lecture Homework 3: Forms of government of ASEAN states",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 1 1.4 The organs of the state 1.5. Forms of government Review Outline of Gourp Assignment",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLOs": "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+            "Teaching-learning activities": "Lecture Homework 3: Forms of government of ASEAN states",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 2.1-2.3",
+            "Lecture Homework 4: Study the differences between Natural theory and Positivist .theory",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLOs": "CLO 2.1-2.3",
+            "Teaching-learning activities": "Lecture Homework 4: Study the differences between Natural theory and Positivist .theory",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 2. The Law 2.2. Regulative mechanism of the law 2.3 Sources of the law",
+            "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 2.3-2.6",
+            "Lecture Homework 5: Study sources of the law in Vietnam.",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 2. The Law 2.2. Regulative mechanism of the law 2.3 Sources of the law",
+            "Required readings text": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLOs": "CLO 2.3-2.6",
+            "Teaching-learning activities": "Lecture Homework 5: Study sources of the law in Vietnam.",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 2. The Law 2.3 Sources of the law 2.4 Legal system",
+            "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 2.6-2.7",
+            "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 2. The Law 2.3 Sources of the law 2.4 Legal system",
+            "Required readings text": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLOs": "CLO 2.6-2.7",
+            "Teaching-learning activities": "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Present the reports of Group Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+            "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Present the reports of Group Assignment",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+            "CLOs": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Teaching-learning activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Present the reports of Group Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+            "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Rubric 3"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Present the reports of Group Assignment",
+            "Required readings text": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+            "CLOs": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Teaching-learning activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Assessment": "Rubric 3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "9 -10",
+          "cells": [
+            "9 -10",
+            "Charpter 3 3.1 Administrative Law",
+            "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.1",
+            "Lecture Homework 7: Studying and discussing an administrative case",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "9 -10",
+            "Content": "Charpter 3 3.1 Administrative Law",
+            "Required readings text": "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLOs": "CLO 3.1",
+            "Teaching-learning activities": "Lecture Homework 7: Studying and discussing an administrative case",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "10-11",
+          "cells": [
+            "10-11",
+            "Chapter 3 3.2 Criminal Law",
+            "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.2",
+            "Lecture Homework 8: Studying and discussing a criminal case",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "10-11",
+            "Content": "Chapter 3 3.2 Criminal Law",
+            "Required readings text": "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLOs": "CLO 3.2",
+            "Teaching-learning activities": "Lecture Homework 8: Studying and discussing a criminal case",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter. 4 4.1 Civil Law",
+            "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.3",
+            "Lecture Homework 9: Studying and discussing a civil case",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter. 4 4.1 Civil Law",
+            "Required readings text": "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLOs": "CLO 3.3",
+            "Teaching-learning activities": "Lecture Homework 9: Studying and discussing a civil case",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "12-13",
+          "cells": [
+            "12-13",
+            "Chapter. 4 4.2 Business Law",
+            "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+            "CLO 3.4",
+            "Lecture Homework 10: Studying and discussing a business case",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "12-13",
+            "Content": "Chapter. 4 4.2 Business Law",
+            "Required readings text": "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+            "CLOs": "CLO 3.4",
+            "Teaching-learning activities": "Lecture Homework 10: Studying and discussing a business case",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Midterm Test",
+            "",
+            "CLO 2.1-2.7 CLO 3.1-.3.2",
+            "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+            "Rubric 2"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Midterm Test",
+            "Required readings text": "",
+            "CLOs": "CLO 2.1-2.7 CLO 3.1-.3.2",
+            "Teaching-learning activities": "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+            "Assessment": "Rubric 2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Review",
+            "",
+            "",
+            "Review",
+            "Rubric 1"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Review",
+            "Required readings text": "",
+            "CLOs": "",
+            "Teaching-learning activities": "Review",
+            "Assessment": "Rubric 1"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "Final exam",
+          "cells": [
+            "",
+            "Final exam",
+            "",
+            "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+            "Students take exams according to give schedule",
+            "According to the exam requirement Rubric 2"
+          ],
+          "column_map": {
+            "Week": "",
+            "Content": "Final exam",
+            "Required readings text": "",
+            "CLOs": "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+            "Teaching-learning activities": "Students take exams according to give schedule",
+            "Assessment": "According to the exam requirement Rubric 2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 53,
+      "table_id": "en-ep17-lucs1129#tbl010",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 69,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state 1.1.1 Origin of the state 1.1.2 Nature of the state",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.1 CLO 5.1",
+            "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Introduction the course Chapter 1: The State 1.1. Origin, nature of the state 1.1.1 Origin of the state 1.1.2 Nature of the state",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO": "CLO 1.1 CLO 5.1",
+            "Teaching and Learning Activities": "Read carefully the syllabus provided Lecture Homework 1: Show classess of the sates in society",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1 1.2. Characteristics of the state 1.2.1 State Power 1.2.2 Sovereignty 1.2.3 Enacting the law 1.2.4 Administrative Units 1.3. Functions of the state 1.3.1 Concepts 1.3.2 Classfication",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.2, 1.3 CLO 4.1",
+            "Lecture Homework 2: Show the differences between the communist party and the state",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 1 1.2. Characteristics of the state 1.2.1 State Power 1.2.2 Sovereignty 1.2.3 Enacting the law 1.2.4 Administrative Units 1.3. Functions of the state 1.3.1 Concepts 1.3.2 Classfication",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO": "CLO 1.2, 1.3 CLO 4.1",
+            "Teaching and Learning Activities": "Lecture Homework 2: Show the differences between the communist party and the state",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 1 1.4 The organs of the state 1.4.1 Definition 1.4.2 Establishment 1.4.2 Classification 1.5. Forms of government 1.5.1 Momarchy/ Republic 1.5.2 Centralization/Decentralization Chapter 1 Review Outline of Gourp Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+            "Lecture Homework 3: Forms of government of ASEAN states",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 1 1.4 The organs of the state 1.4.1 Definition 1.4.2 Establishment 1.4.2 Classification 1.5. Forms of government 1.5.1 Momarchy/ Republic 1.5.2 Centralization/Decentralization Chapter 1 Review Outline of Gourp Assignment",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO": "CLO 1.4, 1.5 CLO 4.1 CLO 5.1",
+            "Teaching and Learning Activities": "Lecture Homework 3: Forms of government of ASEAN states",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 2.1-2.3",
+            "Lecture Homework 4: Study the differences between Natural theory and Positivist theory",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 2. The Law 2.1. General issues of the law 2.2. Regulative mechanism of the law",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1, 2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO": "CLO 2.1-2.3",
+            "Teaching and Learning Activities": "Lecture Homework 4: Study the differences between Natural theory and Positivist theory",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 2. The Law 2.1. General issues of the law 2.1.1. Origin of the law 2.1.2.Concept and basic characteristics of the law 2.1.3. Roles of the law 2.2 Regulative mechanism of the law 2.2.1 Legal norm 2.2.2 Legal relationship 2.2.3 The delict, the legal duty and liability",
+            "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO 2.3-2.6",
+            "Lecture Homework 5: Study sources of the law in Vietnam.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 2. The Law 2.1. General issues of the law 2.1.1. Origin of the law 2.1.2.Concept and basic characteristics of the law 2.1.3. Roles of the law 2.2 Regulative mechanism of the law 2.2.1 Legal norm 2.2.2 Legal relationship 2.2.3 The delict, the legal duty and liability",
+            "Readings requirement": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press",
+            "CLO": "CLO 2.3-2.6",
+            "Teaching and Learning Activities": "Lecture Homework 5: Study sources of the law in Vietnam.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 2. The Law 2.3 Sources of the law 2.3.1. Concept of the legal sources 2.3.2. Kinds of the legal sources 2.3.3. Legal normative documents 2.4 Legal system 2.4.1 Definition of the legal system 2.4.2 Components of the legal system",
+            "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 2.6-2.7",
+            "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 2. The Law 2.3 Sources of the law 2.3.1. Concept of the legal sources 2.3.2. Kinds of the legal sources 2.3.3. Legal normative documents 2.4 Legal system 2.4.1 Definition of the legal system 2.4.2 Components of the legal system",
+            "Readings requirement": "Part I of Hans Kelsen (2007), General Theory Law and State, Harward University Press Chapter 1,2,3 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO": "CLO 2.6-2.7",
+            "Teaching and Learning Activities": "Lecture Homework 6: Make comparision betwwen Common Law and Civil Law.",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Present the reports of Group Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+            "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Present the reports of Group Assignment",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal c diccujhts",
+            "CLO": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Teaching and Learning Activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Present the reports of Group Assignment",
+            "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+            "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Present the reports of Group Assignment",
+            "Readings requirement": "Part II of Hans Kelsen (2007), General Theory Law and State, Harward University Press Legal doccuments",
+            "CLO": "CLO 1.1-1.5 CLO 4.1 CLO 5.1",
+            "Teaching and Learning Activities": "Present the group assigment report Make questions for the presentation group Answer the questions",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9 -10",
+          "cells": [
+            "9 -10",
+            "Charpter 3 3.1 Administrative Law 3.1.1. General summary of the administrative law 3.1.2. Main contents of the administrative law",
+            "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.1",
+            "Lecture Homework 7: Studying and discussing an administrative case",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "9 -10",
+            "Content": "Charpter 3 3.1 Administrative Law 3.1.1. General summary of the administrative law 3.1.2. Main contents of the administrative law",
+            "Readings requirement": "Chapter 9 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO": "CLO 3.1",
+            "Teaching and Learning Activities": "Lecture Homework 7: Studying and discussing an administrative case",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10-11",
+          "cells": [
+            "10-11",
+            "Chapter 3 3.2 Criminal Law 3.2.1. General summary of the criminal law 3.2.2. Crime 3.2.3 Sentence",
+            "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.2",
+            "Lecture Homework 8: Studying and discussing a criminal case",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "10-11",
+            "Content": "Chapter 3 3.2 Criminal Law 3.2.1. General summary of the criminal law 3.2.2. Crime 3.2.3 Sentence",
+            "Readings requirement": "Chapter 7 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO": "CLO 3.2",
+            "Teaching and Learning Activities": "Lecture Homework 8: Studying and discussing a criminal case",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11-12",
+          "cells": [
+            "11-12",
+            "Chapter. 4 4.1 Civil Law 4.1.1. General concepts of the civil law 4.1.2. Main contents of the civil law",
+            "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO 3.3",
+            "Lecture Homework 9: Studying and discussing a civil case",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          ],
+          "column_map": {
+            "Week": "11-12",
+            "Content": "Chapter. 4 4.1 Civil Law 4.1.1. General concepts of the civil law 4.1.2. Main contents of the civil law",
+            "Readings requirement": "Chapter 4,5,6 of Jaap Hage – Bram Akkermans (2014), Intronduction to Law, Springer International Publishing Switzerland.",
+            "CLO": "CLO 3.3",
+            "Teaching and Learning Activities": "Lecture Homework 9: Studying and discussing a civil case",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check & Work Assignment"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12-13",
+          "cells": [
+            "12-13",
+            "Chapter. 4 4.2 Business Law 4.2.1. General contents of the business law 4.2.2. Business organization types 4.2.3 Business transactions",
+            "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+            "CLO 3.4",
+            "Lecture Homework 10: Studying and discussing a business case",
+            ""
+          ],
+          "column_map": {
+            "Week": "12-13",
+            "Content": "Chapter. 4 4.2 Business Law 4.2.1. General contents of the business law 4.2.2. Business organization types 4.2.3 Business transactions",
+            "Readings requirement": "Sarah Riches’and Vida Allen (2009), Business Law, Pearson Longman",
+            "CLO": "CLO 3.4",
+            "Teaching and Learning Activities": "Lecture Homework 10: Studying and discussing a business case",
+            "Assessment tools and criteria": ""
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Midterm Test",
+            "",
+            "CLO 2.1-2.7 CLO 3.1-.3.2",
+            "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+            "Number of correct answers."
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Midterm Test",
+            "Readings requirement": "",
+            "CLO": "CLO 2.1-2.7 CLO 3.1-.3.2",
+            "Teaching and Learning Activities": "01 midterm test in the form of multiple-choice questions are given in class. 50 minutes",
+            "Assessment tools and criteria": "Number of correct answers."
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Review",
+            "",
+            "",
+            "Review",
+            "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Review",
+            "Readings requirement": "",
+            "CLO": "",
+            "Teaching and Learning Activities": "Review",
+            "Assessment tools and criteria": "Criteria: Attendance, Responding & Behavior Tools: Rubric 1 Method: Attendance Check"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+            "Students take exams according to give schedule",
+            "According to the exam requirement"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "CLO1.1, 1.2, 1.3, 1.4. 1.5, 2.1, \n3.1 & 3.2",
+            "Teaching and Learning Activities": "Students take exams according to give schedule",
+            "Assessment tools and criteria": "According to the exam requirement"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 61,
+      "table_id": "en-ep17-lucs1129#tbl011",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 84,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Faculty Dean PhD. Hoang Xuan Truong",
+          "cells": [
+            "Faculty Dean PhD. Hoang Xuan Truong",
+            "NEU’s President Prof. PhD Pham Hong Chuong"
+          ],
+          "column_map": null
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Fundamentals of Laws\n* Code: EP17.LUCS1129\n* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)\n* Credit hours for teaching and learning activities:\n+ Lecture: 30 hrs\n+ Exercise and discussion: 15 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): None\n* Department conducting the course:\n+ Faculty: Faculty of Law\nAddress: 1010, Building A1, National Economics University\nTel: 024 36 280280 Ext: 5817 – 5819\n+ Lecturers:\n1. Tran Thi Hong Nhung , PhD Tel: 0983217890 Email: nhungth@neu.edu.vn\n2. Nguyen Thi Dan Phuong, PhD Tel: 09936122960 Email: Ntdanphuong102@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Office hours: Monday-Thursday, 10:00-11:00 am, or by appointment\nThe course includes the following main contents: Basic knowledge that is about the state and the law in general and Vietnam such as: (1) origin, nature, characteristics, functions and organs of the state, forms of government. (2) Origin, nature of law, regulative mechanism of law for social relations: legal norm, legal relations, legal implementation, the delict, legal duty and responsibility; (3) Sourses of the law (4) The legal system. Some sectors of both public and private laws in Vietnam including respectively: Administrative law, Criminal law, Civil law and Business law.\n* Textbooks/Lecture Notes:\nHans Kelsen (2007), “General Theory Law and State”, Harward University Press\nJaap Hage – Bram Akkermans (2014), “Intronductio to Law”, Springer International Publishing Switzerland.\n* Additional references:\nPaul Richards (2017), “Law of Contract”, Pearson Longman\nSarah Riches’and Vida Allen (2009), “Business Law”, Pearson Longman\nLegal nomartive documents\nOther resources:\nhttps://na.gov.vn\nhttps://gov.vn\nhtttps://thuvienphapluat.com.vn\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\n* Rubrics:\nRubric 1: Participant\nRubric 2: Midterm test and final exam \n(Mid-term test and final exam mainly include three types of questions: situation questions, multiple choice questions, and essay questions)\nRubric 3: Group Assignment\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments, these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

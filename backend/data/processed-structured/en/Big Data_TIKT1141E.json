@@ -1,0 +1,2034 @@
+{
+  "doc_id": "en-tikt1141e",
+  "language": "en",
+  "course_name_stem": "Big Data",
+  "course_variant": "",
+  "course_code": "TIKT1141E",
+  "source_filename": "Big Data_TIKT1141E.docx",
+  "source_relpath": "data\\raw\\en\\Big Data_TIKT1141E.docx",
+  "source_hash": "d3b90728f849dc064a1adf6aef42eec1",
+  "source_modified": "2025-10-11T10:42:50.580213+00:00",
+  "processed_at": "2025-10-17T16:55:25.291135+00:00",
+  "stats": {
+    "paragraphs": 26,
+    "tables": 7,
+    "sections": 11
+  },
+  "sections": [
+    {
+      "section_id": "en-tikt1141e#sec001",
+      "title": "1. GENERAL INFORMATION",
+      "level": 1,
+      "label": "general-information",
+      "path_titles": [
+        "1. GENERAL INFORMATION"
+      ],
+      "path_labels": [
+        "general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "en-tikt1141e#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 4,
+          "column_labels": [
+            "- Title",
+            "Big Data"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Course Number",
+              "cells": [
+                "- Course Number",
+                "TIKT1141E"
+              ],
+              "column_map": {
+                "- Title": "- Course Number",
+                "Big Data": "TIKT1141E"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Credit",
+              "cells": [
+                "- Credit",
+                "3"
+              ],
+              "column_map": {
+                "- Title": "- Credit",
+                "Big Data": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Course Prerequisites:",
+              "cells": [
+                "- Course Prerequisites:",
+                "CNTT1116"
+              ],
+              "column_map": {
+                "- Title": "- Course Prerequisites:",
+                "Big Data": "CNTT1116"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec002",
+      "title": "2. LECTURER’S INFORMATION",
+      "level": 1,
+      "label": "lecturers-information",
+      "path_titles": [
+        "2. LECTURER’S INFORMATION"
+      ],
+      "path_labels": [
+        "lecturers-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Full name: Nguyen Thi Bach Tuyet Title: PhD",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Address: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Road, Hai Ba Trung District, Hanoi, Vietnam Phone number: Email:",
+          "is_list": false,
+          "section_path": [
+            "2. LECTURER’S INFORMATION"
+          ],
+          "section_labels": [
+            "lecturers-information"
+          ],
+          "source_block": 8
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec003",
+      "title": "3. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Học phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "This course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 11
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec004",
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "level": 1,
+      "label": "learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Course Book(s):",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Hrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Reference Book(s):",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Steve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Paul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Judith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "[2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Rahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015",
+          "is_list": true,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Software(s):",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "[8] Hadoop, SQL Server; R",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 22
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec005",
+      "title": "5. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "5. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Table 5.1. Course Learning Outcomes",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "table",
+          "order": 20,
+          "table_id": "en-tikt1141e#tbl003",
+          "table_name": "Table 5.1. Course Learning Outcomes",
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 26,
+          "column_labels": [
+            "No",
+            "Goal Description",
+            "Program Learning Outcomes (PLO)",
+            "Capability Level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "No": "[1]",
+                "Goal Description": "[2]",
+                "Program Learning Outcomes (PLO)": "[3]",
+                "Capability Level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems.",
+                "PLO 1.3.1",
+                "3"
+              ],
+              "column_map": {
+                "No": "G1",
+                "Goal Description": "Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems.",
+                "Program Learning Outcomes (PLO)": "PLO 1.3.1",
+                "Capability Level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally.",
+                "PLO 1.3.1, 1.4.1",
+                "4"
+              ],
+              "column_map": {
+                "No": "G2",
+                "Goal Description": "Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally.",
+                "Program Learning Outcomes (PLO)": "PLO 1.3.1, 1.4.1",
+                "Capability Level": "4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Ability to read documents and self-study typical big data mining algorithms.",
+                "PLO 2.1, 2.2",
+                "4U"
+              ],
+              "column_map": {
+                "No": "G3",
+                "Goal Description": "Ability to read documents and self-study typical big data mining algorithms.",
+                "Program Learning Outcomes (PLO)": "PLO 2.1, 2.2",
+                "Capability Level": "4U"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+                "PLO 3.1.1, 3.1.2, 3.2.3",
+                "4"
+              ],
+              "column_map": {
+                "No": "G4",
+                "Goal Description": "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+                "Program Learning Outcomes (PLO)": "PLO 3.1.1, 3.1.2, 3.2.3",
+                "Capability Level": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec006",
+      "title": "6. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Table 6.1. Course learning outcomes",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "table",
+          "order": 22,
+          "table_id": "en-tikt1141e#tbl004",
+          "table_name": "Table 6.1. Course learning outcomes",
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 33,
+          "column_labels": [
+            "Goal",
+            "CLO",
+            "Description",
+            "Capacity level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLO": "[2]",
+                "Description": "[3]",
+                "Capacity level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 1.1",
+                "Understand the concepts of big data and the meaning and application of big data mining problems in practice.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO 1.1",
+                "Description": "Understand the concepts of big data and the meaning and application of big data mining problems in practice.",
+                "Capacity level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.1",
+                "Understand the meaning and application of big data mining problems to real problems.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO 2.1",
+                "Description": "Understand the meaning and application of big data mining problems to real problems.",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.2",
+                "Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO 2.2",
+                "Description": "Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data.",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO 2.3",
+                "Ability to use R programming language to analyze big data",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLO": "CLO 2.3",
+                "Description": "Ability to use R programming language to analyze big data",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO 2.4",
+                "Use tools in implementing and programming on big data.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO 2.4",
+                "Description": "Use tools in implementing and programming on big data.",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO 2.5",
+                "Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLO": "CLO 2.5",
+                "Description": "Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice.",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO 3.1",
+                "Ability to read documents and self-study typical big data mining algorithms.",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO 3.1",
+                "Description": "Ability to read documents and self-study typical big data mining algorithms.",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO 3.2",
+                "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+                "4U"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLO": "CLO 3.2",
+                "Description": "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+                "Capacity level": "4U"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "CLO 4.1",
+                "Improve teamwork skills in group work",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G4",
+                "CLO": "CLO 4.1",
+                "Description": "Improve teamwork skills in group work",
+                "Capacity level": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G4",
+              "cells": [
+                "G4",
+                "CLO 4.2",
+                "Propose solutions to companies in particular situations",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G4",
+                "CLO": "CLO 4.2",
+                "Description": "Propose solutions to companies in particular situations",
+                "Capacity level": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec007",
+      "title": "7. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Table 7.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "table",
+          "order": 24,
+          "table_id": "en-tikt1141e#tbl005",
+          "table_name": "Table 7.1. Course assessment",
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 37,
+          "column_labels": [
+            "Type of Assessment",
+            "CLOs",
+            "Proportion (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[4]",
+                "[6]"
+              ],
+              "column_map": {
+                "Type of Assessment": "[1]",
+                "CLOs": "[4]",
+                "Proportion (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Class Participation",
+              "cells": [
+                "Class Participation",
+                "CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5",
+                "10%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Class Participation",
+                "CLOs": "CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5",
+                "Proportion (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Group Project",
+              "cells": [
+                "Group Project",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "20%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Group Project",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Proportion (%)": "20%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group Project",
+              "cells": [
+                "Group Project",
+                "",
+                "20%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Group Project",
+                "CLOs": "",
+                "Proportion (%)": "20%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Final Exam",
+              "cells": [
+                "Final Exam",
+                "All CLOs",
+                "50%"
+              ],
+              "column_map": {
+                "Type of Assessment": "Final Exam",
+                "CLOs": "All CLOs",
+                "Proportion (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Table 8.1. Lesson Plan",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-tikt1141e#tbl006",
+          "table_name": "Table 8.1. Lesson Plan",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 41,
+          "column_labels": [
+            "Session/Week",
+            "Content",
+            "CLOs",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[4]",
+                "[6]"
+              ],
+              "column_map": {
+                "Session/Week": "[1]",
+                "Content": "[2]",
+                "CLOs": "[4]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data",
+                "CLO 1.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "1",
+                "Content": "Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data",
+                "CLOs": "CLO 1.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data",
+                "CLO 2.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "2",
+                "Content": "Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data",
+                "CLOs": "CLO 2.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets",
+                "CLO 2.1, 3.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "3",
+                "Content": "Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets",
+                "CLOs": "CLO 2.1, 3.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment",
+                "CLO 2.2",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "4",
+                "Content": "Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment",
+                "CLOs": "CLO 2.2",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture",
+                "CLO 2.1, 3.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "5",
+                "Content": "Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture",
+                "CLOs": "CLO 2.1, 3.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration",
+                "CLO 3.1, 3.2, 4.1",
+                "Participation Group Discussion"
+              ],
+              "column_map": {
+                "Session/Week": "6",
+                "Content": "Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration",
+                "CLOs": "CLO 3.1, 3.2, 4.1",
+                "Assessment": "Participation Group Discussion"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system",
+                "CLO 2.3, 3.1, 4.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "7",
+                "Content": "Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system",
+                "CLOs": "CLO 2.3, 3.1, 4.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce",
+                "CLO 2.3, 3.1, 4.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "8",
+                "Content": "Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce",
+                "CLOs": "CLO 2.3, 3.1, 4.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights",
+                "CLO 2.4, 3.2, 4.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "9",
+                "Content": "Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights",
+                "CLOs": "CLO 2.4, 3.2, 4.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs",
+                "CLO 2.5, 3.2, 4.1, 4.2",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "10",
+                "Content": "Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs",
+                "CLOs": "CLO 2.5, 3.2, 4.1, 4.2",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R",
+                "CLO 2.5",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "11",
+                "Content": "Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R",
+                "CLOs": "CLO 2.5",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Session/Week": "12",
+                "Content": "Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Assessment": "Participation Group presentation"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data",
+                "CLO 1.1",
+                "Participation Interaction Answer Quality"
+              ],
+              "column_map": {
+                "Session/Week": "13",
+                "Content": "Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data",
+                "CLOs": "CLO 1.1",
+                "Assessment": "Participation Interaction Answer Quality"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group project presentation",
+                "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Session/Week": "14",
+                "Content": "Group project presentation",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+                "Assessment": "Participation Group presentation"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Group project presentation",
+                "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+                "Participation Group presentation"
+              ],
+              "column_map": {
+                "Session/Week": "15",
+                "Content": "Group project presentation",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+                "Assessment": "Participation Group presentation"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec009",
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION",
+      "level": 1,
+      "label": "course-requirements-and-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-tikt1141e#sec010",
+      "title": "9.1. Attendance Requirements",
+      "level": 2,
+      "label": "attendance-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Attendance Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "attendance-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Students are required to fully take part in class lectures and activities.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Students are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Attendance Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "attendance-requirements"
+          ],
+          "source_block": 46
+        }
+      ]
+    },
+    {
+      "section_id": "en-tikt1141e#sec011",
+      "title": "9.2. In-class Behavior Requirements",
+      "level": 2,
+      "label": "in-class-behavior-requirements",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "The course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Cellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "en-tikt1141e#tbl007",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. In-class Behavior Requirements"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "in-class-behavior-requirements"
+          ],
+          "source_block": 52,
+          "column_labels": [
+            "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "DEPARTMENT",
+            "LECTURER"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Nguyen Thi Bach Tuyet, PhD",
+              "cells": [
+                "",
+                "Nguyen Thi Bach Tuyet, PhD",
+                "Nguyen Thi Bach Tuyet, PhD"
+              ],
+              "column_map": {
+                "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS": "",
+                "DEPARTMENT": "Nguyen Thi Bach Tuyet, PhD",
+                "LECTURER": "Nguyen Thi Bach Tuyet, PhD"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-tikt1141e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+          "cells": [
+            "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "en-tikt1141e#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "section_labels": [
+        "general-information"
+      ],
+      "source_block": 4,
+      "column_labels": [
+        "- Title",
+        "Big Data"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Course Number",
+          "cells": [
+            "- Course Number",
+            "TIKT1141E"
+          ],
+          "column_map": {
+            "- Title": "- Course Number",
+            "Big Data": "TIKT1141E"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Credit",
+          "cells": [
+            "- Credit",
+            "3"
+          ],
+          "column_map": {
+            "- Title": "- Credit",
+            "Big Data": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Course Prerequisites:",
+          "cells": [
+            "- Course Prerequisites:",
+            "CNTT1116"
+          ],
+          "column_map": {
+            "- Title": "- Course Prerequisites:",
+            "Big Data": "CNTT1116"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 20,
+      "table_id": "en-tikt1141e#tbl003",
+      "table_name": "Table 5.1. Course Learning Outcomes",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 26,
+      "column_labels": [
+        "No",
+        "Goal Description",
+        "Program Learning Outcomes (PLO)",
+        "Capability Level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "No": "[1]",
+            "Goal Description": "[2]",
+            "Program Learning Outcomes (PLO)": "[3]",
+            "Capability Level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems.",
+            "PLO 1.3.1",
+            "3"
+          ],
+          "column_map": {
+            "No": "G1",
+            "Goal Description": "Understand the concepts of big data and the meaning and application of big data mining problems in practice. Understand the meaning and application of big data mining problems to real problems.",
+            "Program Learning Outcomes (PLO)": "PLO 1.3.1",
+            "Capability Level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally.",
+            "PLO 1.3.1, 1.4.1",
+            "4"
+          ],
+          "column_map": {
+            "No": "G2",
+            "Goal Description": "Use tools in implementing and programming on big data. Be responsible for learning, being honest and using the software legally.",
+            "Program Learning Outcomes (PLO)": "PLO 1.3.1, 1.4.1",
+            "Capability Level": "4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Ability to read documents and self-study typical big data mining algorithms.",
+            "PLO 2.1, 2.2",
+            "4U"
+          ],
+          "column_map": {
+            "No": "G3",
+            "Goal Description": "Ability to read documents and self-study typical big data mining algorithms.",
+            "Program Learning Outcomes (PLO)": "PLO 2.1, 2.2",
+            "Capability Level": "4U"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+            "PLO 3.1.1, 3.1.2, 3.2.3",
+            "4"
+          ],
+          "column_map": {
+            "No": "G4",
+            "Goal Description": "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+            "Program Learning Outcomes (PLO)": "PLO 3.1.1, 3.1.2, 3.2.3",
+            "Capability Level": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 22,
+      "table_id": "en-tikt1141e#tbl004",
+      "table_name": "Table 6.1. Course learning outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 33,
+      "column_labels": [
+        "Goal",
+        "CLO",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLO": "[2]",
+            "Description": "[3]",
+            "Capacity level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 1.1",
+            "Understand the concepts of big data and the meaning and application of big data mining problems in practice.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO 1.1",
+            "Description": "Understand the concepts of big data and the meaning and application of big data mining problems in practice.",
+            "Capacity level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.1",
+            "Understand the meaning and application of big data mining problems to real problems.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO 2.1",
+            "Description": "Understand the meaning and application of big data mining problems to real problems.",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.2",
+            "Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO 2.2",
+            "Description": "Capable of using HDFS to store big data in a Hadoop environment; using Hadoop-MapReduce, Hadoop-Spark to analyze and process Big data.",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO 2.3",
+            "Ability to use R programming language to analyze big data",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLO": "CLO 2.3",
+            "Description": "Ability to use R programming language to analyze big data",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO 2.4",
+            "Use tools in implementing and programming on big data.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO 2.4",
+            "Description": "Use tools in implementing and programming on big data.",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO 2.5",
+            "Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLO": "CLO 2.5",
+            "Description": "Be responsible for learning, being honest and using the software legally. Capable of implementing big data applications in practice.",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO 3.1",
+            "Ability to read documents and self-study typical big data mining algorithms.",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO 3.1",
+            "Description": "Ability to read documents and self-study typical big data mining algorithms.",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO 3.2",
+            "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+            "4U"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLO": "CLO 3.2",
+            "Description": "Use tools to assist in analyzing textual and temporal data through supporting tools in real-world problems.",
+            "Capacity level": "4U"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "CLO 4.1",
+            "Improve teamwork skills in group work",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G4",
+            "CLO": "CLO 4.1",
+            "Description": "Improve teamwork skills in group work",
+            "Capacity level": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G4",
+          "cells": [
+            "G4",
+            "CLO 4.2",
+            "Propose solutions to companies in particular situations",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G4",
+            "CLO": "CLO 4.2",
+            "Description": "Propose solutions to companies in particular situations",
+            "Capacity level": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 24,
+      "table_id": "en-tikt1141e#tbl005",
+      "table_name": "Table 7.1. Course assessment",
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 37,
+      "column_labels": [
+        "Type of Assessment",
+        "CLOs",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[4]",
+            "[6]"
+          ],
+          "column_map": {
+            "Type of Assessment": "[1]",
+            "CLOs": "[4]",
+            "Proportion (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation",
+          "cells": [
+            "Class Participation",
+            "CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5",
+            "10%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Class Participation",
+            "CLOs": "CLO 1.1, 2.1, 2.2, 2.3, 2.4, 2.5",
+            "Proportion (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Group Project",
+          "cells": [
+            "Group Project",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "20%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Group Project",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Proportion (%)": "20%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group Project",
+          "cells": [
+            "Group Project",
+            "",
+            "20%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Group Project",
+            "CLOs": "",
+            "Proportion (%)": "20%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final Exam",
+          "cells": [
+            "Final Exam",
+            "All CLOs",
+            "50%"
+          ],
+          "column_map": {
+            "Type of Assessment": "Final Exam",
+            "CLOs": "All CLOs",
+            "Proportion (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-tikt1141e#tbl006",
+      "table_name": "Table 8.1. Lesson Plan",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 41,
+      "column_labels": [
+        "Session/Week",
+        "Content",
+        "CLOs",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[4]",
+            "[6]"
+          ],
+          "column_map": {
+            "Session/Week": "[1]",
+            "Content": "[2]",
+            "CLOs": "[4]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data",
+            "CLO 1.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "1",
+            "Content": "Chapter 1: Introduction to Big Data Big Data Definition History of Big Data Characteristics of Big Data",
+            "CLOs": "CLO 1.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data",
+            "CLO 2.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "2",
+            "Content": "Chapter 1: Introduction to Big Data Difference between data and big data Applications of big data Advanced Concepts of Big Data",
+            "CLOs": "CLO 2.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets",
+            "CLO 2.1, 3.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "3",
+            "Content": "Chapter 2: Big Data Analysis 2.1. The Ubiquity of Big Data Opportunities 2.2. Data-Analytic Thinking 2.3. Analytics with BigSheets",
+            "CLOs": "CLO 2.1, 3.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment",
+            "CLO 2.2",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "4",
+            "Content": "Chapter 2: Big Data Analysis 2.4. Static data analysis 2.5. Real-time, dynamic analysis data 2.6. Flow calculation with SmartCloud environment",
+            "CLOs": "CLO 2.2",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture",
+            "CLO 2.1, 3.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "5",
+            "Content": "Chapter 3: Hadoop Foundation 3.1. Introducing Hadoop 3.2. History of Hadoop 3.3. Hadoop Architecture",
+            "CLOs": "CLO 2.1, 3.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration",
+            "CLO 3.1, 3.2, 4.1",
+            "Participation Group Discussion"
+          ],
+          "column_map": {
+            "Session/Week": "6",
+            "Content": "Chapter 3: Hadoop Foundation 3.3. Components of Hadoop 3.4. Hadoop Administration",
+            "CLOs": "CLO 3.1, 3.2, 4.1",
+            "Assessment": "Participation Group Discussion"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system",
+            "CLO 2.3, 3.1, 4.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "7",
+            "Content": "Chapter 3: Hadoop Foundation 3.5. Hadoop solution for Big data management and mining 3.6. Hadoop's file storage and management system",
+            "CLOs": "CLO 2.3, 3.1, 4.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce",
+            "CLO 2.3, 3.1, 4.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "8",
+            "Content": "Chapter 4: Programming MapReduce 4.1. Introducing MapReduce 4.2. Programming MapReduce",
+            "CLOs": "CLO 2.3, 3.1, 4.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights",
+            "CLO 2.4, 3.2, 4.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "9",
+            "Content": "Chapter 4: Programming MapReduce 4.3. Programming MapReduce using BigInsights",
+            "CLOs": "CLO 2.4, 3.2, 4.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs",
+            "CLO 2.5, 3.2, 4.1, 4.2",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "10",
+            "Content": "Chapter 5: Spark 5.1. Introduction to Apache Spark 5.2. Applications 5.3. Spark's opportunities and challenges 5.4. RDDs",
+            "CLOs": "CLO 2.5, 3.2, 4.1, 4.2",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R",
+            "CLO 2.5",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "11",
+            "Content": "Chapter 6: Data Analytics with R 6.1. A few concepts before starting with R 6.2. Data with R 6.3. Graphic with R 6.4. Big Data Analytics with R",
+            "CLOs": "CLO 2.5",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Session/Week": "12",
+            "Content": "Chapter 7: Application data big development tools 4.1. Pig 4.2. Jaql",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Assessment": "Participation Group presentation"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data",
+            "CLO 1.1",
+            "Participation Interaction Answer Quality"
+          ],
+          "column_map": {
+            "Session/Week": "13",
+            "Content": "Chapter 7: Application data big development tools 4.3. Move data and to Hadoop with Flume 4.4. Using Hbase for real-time access to big data",
+            "CLOs": "CLO 1.1",
+            "Assessment": "Participation Interaction Answer Quality"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group project presentation",
+            "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Session/Week": "14",
+            "Content": "Group project presentation",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+            "Assessment": "Participation Group presentation"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Group project presentation",
+            "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+            "Participation Group presentation"
+          ],
+          "column_map": {
+            "Session/Week": "15",
+            "Content": "Group project presentation",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2 CLO 2.1, 3.1",
+            "Assessment": "Participation Group presentation"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "en-tikt1141e#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. In-class Behavior Requirements"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "in-class-behavior-requirements"
+      ],
+      "source_block": 52,
+      "column_labels": [
+        "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS",
+        "DEPARTMENT",
+        "LECTURER"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Nguyen Thi Bach Tuyet, PhD",
+          "cells": [
+            "",
+            "Nguyen Thi Bach Tuyet, PhD",
+            "Nguyen Thi Bach Tuyet, PhD"
+          ],
+          "column_map": {
+            "INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS": "",
+            "DEPARTMENT": "Nguyen Thi Bach Tuyet, PhD",
+            "LECTURER": "Nguyen Thi Bach Tuyet, PhD"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "DETAILED COURSE SYLLABUS\n(Decision of NEU...................., ...../...../ 2021)\nFull name: Nguyen Thi Bach Tuyet Title: PhD\nAddress: R1308, 13th floor., Building A1, The National Economics University, 207 Giai Phong\nRoad, Hai Ba Trung District, Hanoi, Vietnam Phone number: Email:\nHọc phần này giới thiệu tổng quan về khái niệm, đặc trưng cũng như những thách thức của Big Data từ góc nhìn kinh doanh và kỹ thuật. Các đặc trưng cơ bản về dữ liệu lớn: dung lượng lớn, tốc độ sinh dữ liệu lớn, tính đa dạng và không đầy đủ của dữ liệu. Giới thiệu các kỹ thuật, công cụ giải các bài toán về dữ liệu lớn, phân tích, dự đoán nhằm trích xuất một giá trị lớn hơn từ dữ liệu. Giúp người học khám phá một số ứng dụng liên quan đến hoạt động của các doanh nghiệp lớn từ bán hàng, tiếp thị và các chuỗi sản xuất và cung ứng bằng cách dùng các kỹ thuật xử lý song song dựa trên map-reduce và nền tảng liên quan. Người học sẽ được cung cấp kiến thức tổng quan về các khái niệm, các kỹ thuật, các công cụ và công nghệ liên quan đến Big Data. Người học sẽ tìm hiểu các mô hình lưu trữ khác nhau, các phương pháp xử lý và các công cụ report có sẵn để làm việc với Big Data. Quan trọng hơn là người học sẽ được tìm hiểu các chức năng cốt lõi của mỗi thành phần trong Big Data và biết cách tích hợp nó để tạo thành giải pháp thống nhất mang lại lợi ích kinh doanh. Ngoài ra, học phần còn giới thiệu một số phương pháp và công cụ phổ biến để khai thác và quản lý Big data như Hadoop, MapReduce và Spark.\nThis course provides an overview of the concept, features, and challenges of Big Data from a business and technical perspective. The basic characteristics of big data: large capacity, large data generation rate, diversity and incompleteness of data. Introduce techniques and tools to solve big data problems, analyze and predict to extract a larger value from the data. Help learners explore a number of applications related to the operations of large enterprises from sales, marketing and production and supply chains using map-reduce and background parallel processing techniques related platform. Learners will be provided with an overview of the concepts, techniques, tools and technologies related to Big Data. Learners will learn the different storage models, processing methods, and reporting tools available for working with Big Data. More importantly, learners will learn the core functions of each component in Big Data and know how to integrate it to form a unified solution that brings business benefits. In addition, the course also introduces some popular methods and tools for mining and managing Big data such as Hadoop, MapReduce and Spark.\nCourse Book(s):\nHrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati: Big Data - A Primer, Springer 2015.\nReference Book(s):\nSteve Williams (2016), Business Intelligence Strategy and Big Data Analytics A General Management Perspective, Morgan Kaufmann, ISBN 978-0-12-809198-2\nPaul Zikopoulos, Dirk deRoos, David Corrigan, Tom Deutsch, Krishnan Parasuraman, James Giles, Harness the Power of Big Data, Mc Graw Hill, 2012.\nJudith Hurwitz, Alan Nugent, Dr. Fern Halper, Marcia Kaufman, Big Data for Dummies, John Wiley & Sons. Inc, 2013.\n[2] Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman: Mining of Massive Datasets, 2014\nRahul Beakta (2015). Big Data And Hadoop: A review Paper. BUEST, Baddi, RIEECE-2015\nSoftware(s):\n[8] Hadoop, SQL Server; R\nTable 5.1. Course Learning Outcomes\nTable 6.1. Course learning outcomes\nTable 7.1. Course assessment\nTable 8.1. Lesson Plan\nStudents are required to fully take part in class lectures and activities.\nStudents are allowed to be absent maximum 30% of the class hours.Students who is absent over 30% is not qualified to take the final exam.\nThe course is carried out with respect to both lecturer and students. All behaviorthatmight adversely affectthe stakeholders are prohibited.\nStudents need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\nCellphone, laptop, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for anyother entertainment purposes while in class duration."
+}

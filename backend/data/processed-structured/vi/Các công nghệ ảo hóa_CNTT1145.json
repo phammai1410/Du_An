@@ -1,0 +1,4415 @@
+{
+  "doc_id": "vi-cntt1145",
+  "language": "vi",
+  "course_name_stem": "Các công nghệ ảo hóa",
+  "course_variant": "",
+  "course_code": "CNTT1145",
+  "source_filename": "Các công nghệ ảo hóa_CNTT1145.docx",
+  "source_relpath": "data\\raw\\vi\\Các công nghệ ảo hóa_CNTT1145.docx",
+  "source_hash": "4b2ae0ea36e52ac5e04916136a070293",
+  "source_modified": "2025-10-11T10:42:50.620436+00:00",
+  "processed_at": "2025-10-17T16:55:20.469999+00:00",
+  "stats": {
+    "paragraphs": 62,
+    "tables": 12,
+    "sections": 24
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt1145#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Tên học phần (tiếng Việt): Các công nghệ ảo hóa",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Tên học phần (tiếng Anh): Virtualization Technologies",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Trình độ đào tạo Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Mã học phần: CNTT1145",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Số tín chỉ: 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Số giờ tự học: 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Các học phần tiên quyết:",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "CNTT1110; CNTT1112",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 16
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "level": 1,
+      "label": "faculty_and_instructors",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "path_labels": [
+        "faculty_and_instructors"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "(Management Faculty and Teachers)",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "vi-cntt1145#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 22,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email NEU"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "TS. Đặng Minh Quân",
+                "quandm@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "TS. Đặng Minh Quân",
+                "Email NEU": "quandm@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS. Nguyễn Thanh Hương",
+                "huongnt_cntt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "TS. Nguyễn Thanh Hương",
+                "Email NEU": "huongnt_cntt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Các công nghệ ảo hóa là học phần cung cấp kiến thức về: Tổ chức và chức năng của hypervisor; Nguyên lý hoạt động và chức năng của các loại công nghệ ảo hóa như ảo hóa hệ thống, mô phỏng máy, các trình quản lý tài nguyên ảo; Các khái niệm về ảo hóa tài nguyên chung: bộ nhớ ảo, CPU ảo, hệ điều hành trừu tượng; Máy ảo cơ bản và bối cảnh lịch sử. Yêu cầu chính thức cho các máy ảo; Ảo hóa toàn bộ hệ thống: các máy ảo loại I và II, ảo hóa song song, ảo hóa thiết bị; Ảo hóa trong thực tế: quản lý tài nguyên ảo, di chuyển trực tiếp, lưu trữ bộ nhớ, chống lỗi.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Học phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực trung tâm dữ liệu ảo hóa. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Nội dung chính:",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Khái niệm ảo hóa, các loại ảo hóa",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Hypervisor loại 1, loại 2",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Máy ảo, các tài nguyên trong máy ảo",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Lập lịch CPU cho máy ảo",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Quản lý bộ nhớ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Ảo hóa mạng",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Quản lý lưu trữ",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Trung tâm dữ liệu ảo hóa",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 35
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec005",
+      "title": "4.1. Giáo trình",
+      "level": 2,
+      "label": "giao-trinh",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.1. Giáo trình"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+        "giao-trinh"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "[1] Mathew Portnoy (2016) Virtualization Essentials, Sybex.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+            "4.1. Giáo trình"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+            "giao-trinh"
+          ],
+          "source_block": 39
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec006",
+      "title": "4.2. Tài liệu tham khảo",
+      "level": 2,
+      "label": "tai-lieu-tham-khao",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.2. Tài liệu tham khảo"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+        "tai-lieu-tham-khao"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "[2] Jim Smith & Ravi Nair. Virtual Machines: Versatile Platforms for Systems and Proesses, 1st edition, Morgan Kaufmann, 2005.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+            "4.2. Tài liệu tham khảo"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+            "tai-lieu-tham-khao"
+          ],
+          "source_block": 41
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec007",
+      "title": "4.3. Phần mềm",
+      "level": 2,
+      "label": "phan-mem",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+        "4.3. Phần mềm"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+        "phan-mem"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec008",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "table",
+          "order": 33,
+          "table_id": "vi-cntt1145#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 47,
+          "column_labels": [
+            "Mã / Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR/PLO của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã / Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR/PLO của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Học phần cung cấp cho người học các kiến thức Khái niệm căn bản về ảo hóa, hypervisor, máy ảo Cơ chế hoạt động của hypervisor trong việc quản lý CPU, RAM, lưu trữ và mạng. Cơ chế hoạt động của trung tâm dữ liệu ảo hóa.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức Khái niệm căn bản về ảo hóa, hypervisor, máy ảo Cơ chế hoạt động của hypervisor trong việc quản lý CPU, RAM, lưu trữ và mạng. Cơ chế hoạt động của trung tâm dữ liệu ảo hóa.",
+                "CĐR/PLO của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Học phần hướng dẫn cho người học các kỹ năng xử lý các tình huống chuyên môn một cách có hệ thống. Sinh viên biết cách phối hợp với nhau để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Học phần hướng dẫn cho người học các kỹ năng xử lý các tình huống chuyên môn một cách có hệ thống. Sinh viên biết cách phối hợp với nhau để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+                "CĐR/PLO của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập cũng như khả năng làm việc nhóm để cùng giải quyết các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập cũng như khả năng làm việc nhóm để cùng giải quyết các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT.",
+                "CĐR/PLO của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec009",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 35,
+          "table_id": "vi-cntt1145#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "Mục tiêu",
+            "CLO",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLO": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.1",
+                "Nêu được các khái niệm ảo hóa, hypervisor, máy ảo",
+                "I"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLO": "CLO1.1",
+                "Mô tả CLO": "Nêu được các khái niệm ảo hóa, hypervisor, máy ảo",
+                "Mức độ đạt được": "I"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.2",
+                "Giải thích được cơ chế quản lý các tài nguyên ảo hóa như CPU, RAM, lưu trữ, mạng",
+                "II"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLO": "CLO1.2",
+                "Mô tả CLO": "Giải thích được cơ chế quản lý các tài nguyên ảo hóa như CPU, RAM, lưu trữ, mạng",
+                "Mức độ đạt được": "II"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.3",
+                "Tổng hợp các kiến thức đơn lẻ để phân tích được cơ chế hoạt động của trung tâm dữ liệu ảo hóa",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLO": "CLO1.3",
+                "Mô tả CLO": "Tổng hợp các kiến thức đơn lẻ để phân tích được cơ chế hoạt động của trung tâm dữ liệu ảo hóa",
+                "Mức độ đạt được": "III"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.4",
+                "Vận dụng các kiến thức đã học để giải quyết các bài tập, các tình huống của từng nội dung học tập.",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLO": "CLO1.4",
+                "Mô tả CLO": "Vận dụng các kiến thức đã học để giải quyết các bài tập, các tình huống của từng nội dung học tập.",
+                "Mức độ đạt được": "III"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.1",
+                "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, giải quyết các vấn đề đặc trưng của chuyên ngành",
+                "II"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLO": "CLO2.1",
+                "Mô tả CLO": "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, giải quyết các vấn đề đặc trưng của chuyên ngành",
+                "Mức độ đạt được": "II"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.2",
+                "Có kỹ năng làm việc nhóm để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLO": "CLO2.2",
+                "Mô tả CLO": "Có kỹ năng làm việc nhóm để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+                "Mức độ đạt được": "III"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO3.1",
+                "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO": "CLO3.1",
+                "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                "Mức độ đạt được": "III"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO3.2",
+                "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO": "CLO3.2",
+                "Mô tả CLO": "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+                "Mức độ đạt được": "III"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO3.3",
+                "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+                "III"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+                "CLO": "CLO3.3",
+                "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+                "Mức độ đạt được": "III"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec010",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec011",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "vi-cntt1145#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 57,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung / Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR/PLO của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung / Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR/PLO của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+                "Tuần 1-12",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1",
+                "10%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung / Bài đánh giá": "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+                "Thời điểm": "Tuần 1-12",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Công cụ và tiêu chí đánh giá": "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra giữa kỳ",
+                "Tuần 8",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường.",
+                "40%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài kiểm tra giữa kỳ",
+                "Thời điểm": "Tuần 8",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Công cụ và tiêu chí đánh giá": "Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường.",
+                "Tỷ lệ (%)": "40%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Trình bày nhóm: Báo cáo phân tích nguyên lý hoạt động của một công nghệ cụ thể trong trung tâm dữ liệu ảo hóa..",
+                "Tuần 13, 14",
+                "CLO1.x, CLO2.x, CLO3.x",
+                "Xem Phụ lục 2, rubrics 2",
+                "40%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Trình bày nhóm: Báo cáo phân tích nguyên lý hoạt động của một công nghệ cụ thể trong trung tâm dữ liệu ảo hóa..",
+                "Thời điểm": "Tuần 13, 14",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+                "Công cụ và tiêu chí đánh giá": "Xem Phụ lục 2, rubrics 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Bài thi cuối kỳ",
+                "Lịch thi học phần",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Theo yêu cầu bài thi",
+                "50%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung / Bài đánh giá": "Bài thi cuối kỳ",
+                "Thời điểm": "Lịch thi học phần",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Công cụ và tiêu chí đánh giá": "Theo yêu cầu bài thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR/PLO của CTĐT": "…"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec012",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec013",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec014",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "table",
+          "order": 39,
+          "table_id": "vi-cntt1145#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 63,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1. Chương 1: Tổng quan về các công nghệ ảo hóa 1.1 Hiện trạng và xu hướng trong trung tâm dữ liệu 1.2 Định nghĩa về ảo hóa 1.3 Các loại ảo hóa phổ biến 1.4 Các công nghệ chính của ảo hóa máy chủ",
+                "[1] Chương 1",
+                "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1. Chương 1: Tổng quan về các công nghệ ảo hóa 1.1 Hiện trạng và xu hướng trong trung tâm dữ liệu 1.2 Định nghĩa về ảo hóa 1.3 Các loại ảo hóa phổ biến 1.4 Các công nghệ chính của ảo hóa máy chủ",
+                "Tài liệu đọc": "[1] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 - Tóm tắt kiến thức về các công nghệ ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1",
+                "[1] Chương 1",
+                "Giảng viên - Nhắc lại các kiến thức về các công nghệ ảo hóa đã học: khái niệm, xu thế công nghệ, các loại ảo hóa - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 - Tóm tắt kiến thức về các công nghệ ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1",
+                "Tài liệu đọc": "[1] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về các công nghệ ảo hóa đã học: khái niệm, xu thế công nghệ, các loại ảo hóa - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2. Chương 2: Hypervisors 2.1 Khái niệm hypervisor 2.2 Hypervisor loại 1 2.3 Hypervisor loại 2 2.4 Các giải pháp hypervisor Chương 3: Máy ảo 3.1 Khái niệm máy ảo 3.2 Các tài nguyên trong máy ảo 3.3 Cơ chế làm việc của máy ảo",
+                "[1] Chương 2, Chương 3",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2. Chương 2: Hypervisors 2.1 Khái niệm hypervisor 2.2 Hypervisor loại 1 2.3 Hypervisor loại 2 2.4 Các giải pháp hypervisor Chương 3: Máy ảo 3.1 Khái niệm máy ảo 3.2 Các tài nguyên trong máy ảo 3.3 Cơ chế làm việc của máy ảo",
+                "Tài liệu đọc": "[1] Chương 2, Chương 3",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Seminar 2 - Tóm tắt kiến thức về hypervisor, máy ảo - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2",
+                "[1] Chương 2, Chương 3",
+                "Giảng viên - Nhắc lại các kiến thức về hypervisor, máy ảo đã học: khái niệm, phân loại, cơ chế làm việc, các tài nguyên máy ảo. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Seminar 2 - Tóm tắt kiến thức về hypervisor, máy ảo - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2",
+                "Tài liệu đọc": "[1] Chương 2, Chương 3",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về hypervisor, máy ảo đã học: khái niệm, phân loại, cơ chế làm việc, các tài nguyên máy ảo. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3. Chương 4: Lập lịch CPU 4.1 Khái niệm CPU trong máy ảo 4.2 Thuật toán round robin 4.3 Thuật toán credit",
+                "[1] Chương 7",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Lecture 3. Chương 4: Lập lịch CPU 4.1 Khái niệm CPU trong máy ảo 4.2 Thuật toán round robin 4.3 Thuật toán credit",
+                "Tài liệu đọc": "[1] Chương 7",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 - Tóm tắt kiến thức về lập lịch CPU - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3",
+                "[1] Chương 7",
+                "Giảng viên - Nhắc lại các kiến thức về lập lịch CPU đã học: khái niệm CPU, các thuật toán lập lịch. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 - Tóm tắt kiến thức về lập lịch CPU - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3",
+                "Tài liệu đọc": "[1] Chương 7",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về lập lịch CPU đã học: khái niệm CPU, các thuật toán lập lịch. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4. Chương 5: Quản lý bộ nhớ 5.1 Khái niệm về quản lý bộ nhớ trong máy ảo 5.2 Các thuật toán thu hồi bộ nhớ TSP, ballooning 5.3 Các thuật toán thu hồi bộ nhớ swap, nén trang 5.4 Cơ chế phân bổ bộ nhớ",
+                "[1] Chương 8",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 4 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4. Chương 5: Quản lý bộ nhớ 5.1 Khái niệm về quản lý bộ nhớ trong máy ảo 5.2 Các thuật toán thu hồi bộ nhớ TSP, ballooning 5.3 Các thuật toán thu hồi bộ nhớ swap, nén trang 5.4 Cơ chế phân bổ bộ nhớ",
+                "Tài liệu đọc": "[1] Chương 8",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 4 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 - Tóm tắt kiến thức về quản lý bộ nhớ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4",
+                "[1] Chương 8",
+                "Giảng viên - Nhắc lại các kiến thức về quản lý bộ nhớ đã học: khái niệm, các thuật toán thu hồi bộ nhớ, phân bổ bộ nhớ - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 - Tóm tắt kiến thức về quản lý bộ nhớ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4",
+                "Tài liệu đọc": "[1] Chương 8",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về quản lý bộ nhớ đã học: khái niệm, các thuật toán thu hồi bộ nhớ, phân bổ bộ nhớ - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5. Chương 6: Ảo hóa mạng 6.1 Khái niệm mạng trong máy ảo 6.2 Mạng nội bộ 6.3 Mạng ra ngoài Chương 7: Quản lý lưu trữ 7.1 Khái niệm ảo hóa lưu trữ 7.2 Các loại lưu trữ 7.3 Cơ chế làm việc của ảo hóa lưu trữ",
+                "[1] Chương 9, Chương 10",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 5 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5. Chương 6: Ảo hóa mạng 6.1 Khái niệm mạng trong máy ảo 6.2 Mạng nội bộ 6.3 Mạng ra ngoài Chương 7: Quản lý lưu trữ 7.1 Khái niệm ảo hóa lưu trữ 7.2 Các loại lưu trữ 7.3 Cơ chế làm việc của ảo hóa lưu trữ",
+                "Tài liệu đọc": "[1] Chương 9, Chương 10",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 5 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Seminar 5 - Tóm tắt kiến thức về ảo hóa mạng và ảo hóa lưu trữ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5",
+                "[1] Chương 9, Chương 10",
+                "Giảng viên - Nhắc lại các kiến thức về ảo hóa mạng và ảo hóa lưu trữ đã học: khái niệm, các loại mạng, các loại lưu trữ. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Seminar 5 - Tóm tắt kiến thức về ảo hóa mạng và ảo hóa lưu trữ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5",
+                "Tài liệu đọc": "[1] Chương 9, Chương 10",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về ảo hóa mạng và ảo hóa lưu trữ đã học: khái niệm, các loại mạng, các loại lưu trữ. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 6. Chương 8: Trung tâm dữ liệu ảo hóa 8.1 Kiến trúc phần cứng và phần mềm trong trung tâm dữ liệu 8.2 Các tiện ích của trung tâm dữ liệu",
+                "[1] Chương 13",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 6 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, các tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Lecture 6. Chương 8: Trung tâm dữ liệu ảo hóa 8.1 Kiến trúc phần cứng và phần mềm trong trung tâm dữ liệu 8.2 Các tiện ích của trung tâm dữ liệu",
+                "Tài liệu đọc": "[1] Chương 13",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 6 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, các tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Seminar 6 - Tóm tắt kiến thức về trung tâm dữ liệu ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6",
+                "[1] Chương 13",
+                "Giảng viên - Nhắc lại các kiến thức về trung tâm dữ liệu ảo hóa đã học: kiến trúc, các tiện ích. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Seminar 6 - Tóm tắt kiến thức về trung tâm dữ liệu ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6",
+                "Tài liệu đọc": "[1] Chương 13",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về trung tâm dữ liệu ảo hóa đã học: kiến trúc, các tiện ích. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Trình bày bài tập nhóm",
+                "",
+                "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+                "CLO1.x, CLO2.x, CLO3.x"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Trình bày bài tập nhóm",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Đánh giá": "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Trình bày bài tập nhóm",
+                "",
+                "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+                "CLO1.x, CLO2.x, CLO3.x"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Trình bày bài tập nhóm",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+                "Đánh giá": "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi",
+                "",
+                "Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo",
+                "- Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo",
+                "Đánh giá": "- Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "Chương 1 đến 8",
+                "Thi tự luận trên giấy",
+                "Xem Phụ lục 1: ma trận đề thi",
+                "CLO1.x, CLO2.1, CLO3.3"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "Chương 1 đến 8",
+                "Hoạt động dạy và học": "Thi tự luận trên giấy",
+                "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec015",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessement"
+          ],
+          "source_block": 66
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec016",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec017",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 70
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec018",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 72
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 73
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec019",
+      "title": "10.3. Quy định về hành vi trong lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 76
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Đọc trước tài liệu được yêu cầu;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 77
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Làm các bài tập về nhà;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 80
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec020",
+      "title": "10.4. Quy định về nộp bài tập lớn",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-lon",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 83
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec021",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Tháng 6 năm 2024.",
+          "is_list": false,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "table",
+          "order": 54,
+          "table_id": "vi-cntt1145#tbl007",
+          "table_name": "Tháng 6 năm 2024.",
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 88,
+          "column_labels": [
+            "PHỤ TRÁCH KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. Phạm Xuân Lâm",
+              "cells": [
+                "TS. Phạm Xuân Lâm",
+                "GS.TS. Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+                "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec022",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1145#sec023",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 92
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Hình thức: Tự luận trên giấy",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 93
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Thời gian: 90 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 94
+        },
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Số câu hỏi: 5 câu. Mỗi câu 0,25 điểm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 95
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Ma trận đề thi (tự luận):",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "table",
+          "order": 60,
+          "table_id": "vi-cntt1145#tbl008",
+          "table_name": "Ma trận đề thi (tự luận):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 98,
+          "column_labels": [
+            "Câu hỏi",
+            "CLOs",
+            "Số điểm",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi thành phần"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Câu 1",
+              "cells": [
+                "Câu 1",
+                "1.x 2.1 3.3",
+                "1",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 1",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.x 2.1 3.3",
+                "0.5",
+                "1",
+                "",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "0.5",
+                "Nhớ": "1",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.x 2.1 3.3",
+                "0.5",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "0.5",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Câu 2",
+              "cells": [
+                "Câu 2",
+                "1.x 2.1 3.3",
+                "1",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 2",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.x 2.1 3.3",
+                "0.5",
+                "1",
+                "",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "0.5",
+                "Nhớ": "1",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.x 2.1 3.3",
+                "0.5",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "0.5",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Câu 3",
+              "cells": [
+                "Câu 3",
+                "1.x 2.1 3.3",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 3",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.x 2.1 3.3",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.x 2.1 3.3",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "Câu 4",
+              "cells": [
+                "Câu 4",
+                "1.x 2.1 3.3",
+                "3",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 4",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "3",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.x 2.1 3.3",
+                "1.5",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1.5",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.x 2.1 3.3",
+                "1.5",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1.5",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "Câu 5",
+              "cells": [
+                "Câu 5",
+                "1.x 2.1 3.3",
+                "3",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 5",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "3",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.x 2.1 3.3",
+                "1.5",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1.5",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.x 2.1 3.3",
+                "1.5",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.x 2.1 3.3",
+                "Số điểm": "1.5",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "Tổng số câu hỏi thành phần",
+              "cells": [
+                "Tổng số câu hỏi thành phần",
+                "",
+                "10",
+                "2",
+                "4",
+                "4",
+                "10"
+              ],
+              "column_map": {
+                "Câu hỏi": "Tổng số câu hỏi thành phần",
+                "CLOs": "",
+                "Số điểm": "10",
+                "Nhớ": "2",
+                "Hiểu": "4",
+                "Vận dụng": "4",
+                "Tổng số câu hỏi thành phần": "10"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "Tổng số điểm",
+              "cells": [
+                "Tổng số điểm",
+                "",
+                "10",
+                "1",
+                "3.5",
+                "5.5",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Tổng số điểm",
+                "CLOs": "",
+                "Số điểm": "10",
+                "Nhớ": "1",
+                "Hiểu": "3.5",
+                "Vận dụng": "5.5",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "100%",
+                "20%",
+                "40%",
+                "40%",
+                "100%"
+              ],
+              "column_map": {
+                "Câu hỏi": "Tỷ trọng",
+                "CLOs": "",
+                "Số điểm": "100%",
+                "Nhớ": "20%",
+                "Hiểu": "40%",
+                "Vận dụng": "40%",
+                "Tổng số câu hỏi thành phần": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1145#sec024",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Rubrics 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 100
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 101
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Đánh giá qua 7 buổi seminar.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 102
+        },
+        {
+          "type": "table",
+          "order": 64,
+          "table_id": "vi-cntt1145#tbl009",
+          "table_name": "Đánh giá qua 7 buổi seminar.",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 104,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 105
+        },
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "table",
+          "order": 67,
+          "table_id": "vi-cntt1145#tbl010",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 108,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+              "cells": [
+                "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+                "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+                "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 68,
+          "text": "CLO của đánh giá chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 109
+        },
+        {
+          "type": "table",
+          "order": 69,
+          "table_id": "vi-cntt1145#tbl011",
+          "table_name": "CLO của đánh giá chuyên cần",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 110,
+          "column_labels": [
+            "Cách thức đánh giá",
+            "3.1",
+            "3.2",
+            "3.3"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Điểm danh",
+              "cells": [
+                "Điểm danh",
+                "´",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Điểm danh",
+                "3.1": "´",
+                "3.2": "",
+                "3.3": ""
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Trả lời câu hỏi, bài tập",
+              "cells": [
+                "Trả lời câu hỏi, bài tập",
+                "´",
+                "´",
+                "´"
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Trả lời câu hỏi, bài tập",
+                "3.1": "´",
+                "3.2": "´",
+                "3.3": "´"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đăng kí nhóm đúng thời hạn",
+              "cells": [
+                "Đăng kí nhóm đúng thời hạn",
+                "´",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Đăng kí nhóm đúng thời hạn",
+                "3.1": "´",
+                "3.2": "",
+                "3.3": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+              "cells": [
+                "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+                "",
+                "´",
+                ""
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+                "3.1": "",
+                "3.2": "´",
+                "3.3": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+              "cells": [
+                "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+                "",
+                "´",
+                ""
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+                "3.1": "",
+                "3.2": "´",
+                "3.3": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+              "cells": [
+                "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+                "",
+                "",
+                "´"
+              ],
+              "column_map": {
+                "Cách thức đánh giá": "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+                "3.1": "",
+                "3.2": "",
+                "3.3": "´"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 70,
+          "text": "Rubrics 2. Đánh giá bài tập lớn",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 112
+        },
+        {
+          "type": "paragraph",
+          "order": 71,
+          "text": "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 113
+        },
+        {
+          "type": "paragraph",
+          "order": 72,
+          "text": "Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 114
+        },
+        {
+          "type": "table",
+          "order": 73,
+          "table_id": "vi-cntt1145#tbl012",
+          "table_name": "Rubrics 2. Đánh giá bài tập lớn",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 115,
+          "column_labels": [
+            "Tiêu chí",
+            "CLO",
+            "Tỷ trọng %",
+            "Giỏi 8,5 – 10",
+            "Khá 7,0 – 8,4",
+            "Trung bình 4,5 – 6,9",
+            "Yếu 0 – 4,4"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Chủ đề - mục tiêu",
+              "cells": [
+                "Chủ đề - mục tiêu",
+                "1.1 3.1 3.2",
+                "20%",
+                "- Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể",
+                "- Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ",
+                "- Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp",
+                "- Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra"
+              ],
+              "column_map": {
+                "Tiêu chí": "Chủ đề - mục tiêu",
+                "CLO": "1.1 3.1 3.2",
+                "Tỷ trọng %": "20%",
+                "Giỏi 8,5 – 10": "- Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể",
+                "Khá 7,0 – 8,4": "- Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ",
+                "Trung bình 4,5 – 6,9": "- Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp",
+                "Yếu 0 – 4,4": "- Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "1.1 1.4 2.1",
+                "60%",
+                "- Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao.",
+                "- Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng.",
+                "- Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng.",
+                "- Kiến thức lý thuyết không phù hợp hoặc không có kiến thức"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "CLO": "1.1 1.4 2.1",
+                "Tỷ trọng %": "60%",
+                "Giỏi 8,5 – 10": "- Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao.",
+                "Khá 7,0 – 8,4": "- Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng.",
+                "Trung bình 4,5 – 6,9": "- Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng.",
+                "Yếu 0 – 4,4": "- Kiến thức lý thuyết không phù hợp hoặc không có kiến thức"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Trình bày",
+              "cells": [
+                "Trình bày",
+                "3.3",
+                "20%",
+                "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế.",
+                "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ.",
+                "- Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có.",
+                "- Không có định dạng; - Ngôn ngữ không phù hợp."
+              ],
+              "column_map": {
+                "Tiêu chí": "Trình bày",
+                "CLO": "3.3",
+                "Tỷ trọng %": "20%",
+                "Giỏi 8,5 – 10": "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế.",
+                "Khá 7,0 – 8,4": "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ.",
+                "Trung bình 4,5 – 6,9": "- Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có.",
+                "Yếu 0 – 4,4": "- Không có định dạng; - Ngôn ngữ không phù hợp."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt1145#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "vi-cntt1145#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "faculty_and_instructors"
+      ],
+      "source_block": 22,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email NEU"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "TS. Đặng Minh Quân",
+            "quandm@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "TS. Đặng Minh Quân",
+            "Email NEU": "quandm@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS. Nguyễn Thanh Hương",
+            "huongnt_cntt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "TS. Nguyễn Thanh Hương",
+            "Email NEU": "huongnt_cntt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 33,
+      "table_id": "vi-cntt1145#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 47,
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR/PLO của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã / Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR/PLO của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Học phần cung cấp cho người học các kiến thức Khái niệm căn bản về ảo hóa, hypervisor, máy ảo Cơ chế hoạt động của hypervisor trong việc quản lý CPU, RAM, lưu trữ và mạng. Cơ chế hoạt động của trung tâm dữ liệu ảo hóa.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức Khái niệm căn bản về ảo hóa, hypervisor, máy ảo Cơ chế hoạt động của hypervisor trong việc quản lý CPU, RAM, lưu trữ và mạng. Cơ chế hoạt động của trung tâm dữ liệu ảo hóa.",
+            "CĐR/PLO của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Học phần hướng dẫn cho người học các kỹ năng xử lý các tình huống chuyên môn một cách có hệ thống. Sinh viên biết cách phối hợp với nhau để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Học phần hướng dẫn cho người học các kỹ năng xử lý các tình huống chuyên môn một cách có hệ thống. Sinh viên biết cách phối hợp với nhau để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+            "CĐR/PLO của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập cũng như khả năng làm việc nhóm để cùng giải quyết các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập cũng như khả năng làm việc nhóm để cùng giải quyết các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT.",
+            "CĐR/PLO của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 35,
+      "table_id": "vi-cntt1145#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "Mục tiêu",
+        "CLO",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLO": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.1",
+            "Nêu được các khái niệm ảo hóa, hypervisor, máy ảo",
+            "I"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLO": "CLO1.1",
+            "Mô tả CLO": "Nêu được các khái niệm ảo hóa, hypervisor, máy ảo",
+            "Mức độ đạt được": "I"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.2",
+            "Giải thích được cơ chế quản lý các tài nguyên ảo hóa như CPU, RAM, lưu trữ, mạng",
+            "II"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLO": "CLO1.2",
+            "Mô tả CLO": "Giải thích được cơ chế quản lý các tài nguyên ảo hóa như CPU, RAM, lưu trữ, mạng",
+            "Mức độ đạt được": "II"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.3",
+            "Tổng hợp các kiến thức đơn lẻ để phân tích được cơ chế hoạt động của trung tâm dữ liệu ảo hóa",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLO": "CLO1.3",
+            "Mô tả CLO": "Tổng hợp các kiến thức đơn lẻ để phân tích được cơ chế hoạt động của trung tâm dữ liệu ảo hóa",
+            "Mức độ đạt được": "III"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.4",
+            "Vận dụng các kiến thức đã học để giải quyết các bài tập, các tình huống của từng nội dung học tập.",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLO": "CLO1.4",
+            "Mô tả CLO": "Vận dụng các kiến thức đã học để giải quyết các bài tập, các tình huống của từng nội dung học tập.",
+            "Mức độ đạt được": "III"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.1",
+            "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, giải quyết các vấn đề đặc trưng của chuyên ngành",
+            "II"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLO": "CLO2.1",
+            "Mô tả CLO": "Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, giải quyết các vấn đề đặc trưng của chuyên ngành",
+            "Mức độ đạt được": "II"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.2",
+            "Có kỹ năng làm việc nhóm để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLO": "CLO2.2",
+            "Mô tả CLO": "Có kỹ năng làm việc nhóm để cùng giải quyết một vấn đề chuyên môn đúng thời hạn.",
+            "Mức độ đạt được": "III"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO3.1",
+            "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO": "CLO3.1",
+            "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            "Mức độ đạt được": "III"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO3.2",
+            "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO": "CLO3.2",
+            "Mô tả CLO": "Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học.",
+            "Mức độ đạt được": "III"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO3.3",
+            "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+            "III"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ tự chịu trách nhiệm",
+            "CLO": "CLO3.3",
+            "Mô tả CLO": "Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao.",
+            "Mức độ đạt được": "III"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "vi-cntt1145#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 57,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung / Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR/PLO của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung / Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR/PLO của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+            "Tuần 1-12",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1",
+            "10%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung / Bài đánh giá": "Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận",
+            "Thời điểm": "Tuần 1-12",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Công cụ và tiêu chí đánh giá": "Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra giữa kỳ",
+            "Tuần 8",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường.",
+            "40%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài kiểm tra giữa kỳ",
+            "Thời điểm": "Tuần 8",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Công cụ và tiêu chí đánh giá": "Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường.",
+            "Tỷ lệ (%)": "40%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Trình bày nhóm: Báo cáo phân tích nguyên lý hoạt động của một công nghệ cụ thể trong trung tâm dữ liệu ảo hóa..",
+            "Tuần 13, 14",
+            "CLO1.x, CLO2.x, CLO3.x",
+            "Xem Phụ lục 2, rubrics 2",
+            "40%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Trình bày nhóm: Báo cáo phân tích nguyên lý hoạt động của một công nghệ cụ thể trong trung tâm dữ liệu ảo hóa..",
+            "Thời điểm": "Tuần 13, 14",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+            "Công cụ và tiêu chí đánh giá": "Xem Phụ lục 2, rubrics 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Bài thi cuối kỳ",
+            "Lịch thi học phần",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Theo yêu cầu bài thi",
+            "50%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung / Bài đánh giá": "Bài thi cuối kỳ",
+            "Thời điểm": "Lịch thi học phần",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Công cụ và tiêu chí đánh giá": "Theo yêu cầu bài thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR/PLO của CTĐT": "…"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 39,
+      "table_id": "vi-cntt1145#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 63,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1. Chương 1: Tổng quan về các công nghệ ảo hóa 1.1 Hiện trạng và xu hướng trong trung tâm dữ liệu 1.2 Định nghĩa về ảo hóa 1.3 Các loại ảo hóa phổ biến 1.4 Các công nghệ chính của ảo hóa máy chủ",
+            "[1] Chương 1",
+            "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1. Chương 1: Tổng quan về các công nghệ ảo hóa 1.1 Hiện trạng và xu hướng trong trung tâm dữ liệu 1.2 Định nghĩa về ảo hóa 1.3 Các loại ảo hóa phổ biến 1.4 Các công nghệ chính của ảo hóa máy chủ",
+            "Tài liệu đọc": "[1] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 - Tóm tắt kiến thức về các công nghệ ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1",
+            "[1] Chương 1",
+            "Giảng viên - Nhắc lại các kiến thức về các công nghệ ảo hóa đã học: khái niệm, xu thế công nghệ, các loại ảo hóa - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 - Tóm tắt kiến thức về các công nghệ ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1",
+            "Tài liệu đọc": "[1] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về các công nghệ ảo hóa đã học: khái niệm, xu thế công nghệ, các loại ảo hóa - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2. Chương 2: Hypervisors 2.1 Khái niệm hypervisor 2.2 Hypervisor loại 1 2.3 Hypervisor loại 2 2.4 Các giải pháp hypervisor Chương 3: Máy ảo 3.1 Khái niệm máy ảo 3.2 Các tài nguyên trong máy ảo 3.3 Cơ chế làm việc của máy ảo",
+            "[1] Chương 2, Chương 3",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2. Chương 2: Hypervisors 2.1 Khái niệm hypervisor 2.2 Hypervisor loại 1 2.3 Hypervisor loại 2 2.4 Các giải pháp hypervisor Chương 3: Máy ảo 3.1 Khái niệm máy ảo 3.2 Các tài nguyên trong máy ảo 3.3 Cơ chế làm việc của máy ảo",
+            "Tài liệu đọc": "[1] Chương 2, Chương 3",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Seminar 2 - Tóm tắt kiến thức về hypervisor, máy ảo - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2",
+            "[1] Chương 2, Chương 3",
+            "Giảng viên - Nhắc lại các kiến thức về hypervisor, máy ảo đã học: khái niệm, phân loại, cơ chế làm việc, các tài nguyên máy ảo. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Seminar 2 - Tóm tắt kiến thức về hypervisor, máy ảo - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2",
+            "Tài liệu đọc": "[1] Chương 2, Chương 3",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về hypervisor, máy ảo đã học: khái niệm, phân loại, cơ chế làm việc, các tài nguyên máy ảo. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3. Chương 4: Lập lịch CPU 4.1 Khái niệm CPU trong máy ảo 4.2 Thuật toán round robin 4.3 Thuật toán credit",
+            "[1] Chương 7",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Lecture 3. Chương 4: Lập lịch CPU 4.1 Khái niệm CPU trong máy ảo 4.2 Thuật toán round robin 4.3 Thuật toán credit",
+            "Tài liệu đọc": "[1] Chương 7",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 - Tóm tắt kiến thức về lập lịch CPU - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3",
+            "[1] Chương 7",
+            "Giảng viên - Nhắc lại các kiến thức về lập lịch CPU đã học: khái niệm CPU, các thuật toán lập lịch. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 - Tóm tắt kiến thức về lập lịch CPU - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3",
+            "Tài liệu đọc": "[1] Chương 7",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về lập lịch CPU đã học: khái niệm CPU, các thuật toán lập lịch. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4. Chương 5: Quản lý bộ nhớ 5.1 Khái niệm về quản lý bộ nhớ trong máy ảo 5.2 Các thuật toán thu hồi bộ nhớ TSP, ballooning 5.3 Các thuật toán thu hồi bộ nhớ swap, nén trang 5.4 Cơ chế phân bổ bộ nhớ",
+            "[1] Chương 8",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 4 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4. Chương 5: Quản lý bộ nhớ 5.1 Khái niệm về quản lý bộ nhớ trong máy ảo 5.2 Các thuật toán thu hồi bộ nhớ TSP, ballooning 5.3 Các thuật toán thu hồi bộ nhớ swap, nén trang 5.4 Cơ chế phân bổ bộ nhớ",
+            "Tài liệu đọc": "[1] Chương 8",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 4 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 - Tóm tắt kiến thức về quản lý bộ nhớ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4",
+            "[1] Chương 8",
+            "Giảng viên - Nhắc lại các kiến thức về quản lý bộ nhớ đã học: khái niệm, các thuật toán thu hồi bộ nhớ, phân bổ bộ nhớ - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 - Tóm tắt kiến thức về quản lý bộ nhớ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4",
+            "Tài liệu đọc": "[1] Chương 8",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về quản lý bộ nhớ đã học: khái niệm, các thuật toán thu hồi bộ nhớ, phân bổ bộ nhớ - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5. Chương 6: Ảo hóa mạng 6.1 Khái niệm mạng trong máy ảo 6.2 Mạng nội bộ 6.3 Mạng ra ngoài Chương 7: Quản lý lưu trữ 7.1 Khái niệm ảo hóa lưu trữ 7.2 Các loại lưu trữ 7.3 Cơ chế làm việc của ảo hóa lưu trữ",
+            "[1] Chương 9, Chương 10",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 5 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5. Chương 6: Ảo hóa mạng 6.1 Khái niệm mạng trong máy ảo 6.2 Mạng nội bộ 6.3 Mạng ra ngoài Chương 7: Quản lý lưu trữ 7.1 Khái niệm ảo hóa lưu trữ 7.2 Các loại lưu trữ 7.3 Cơ chế làm việc của ảo hóa lưu trữ",
+            "Tài liệu đọc": "[1] Chương 9, Chương 10",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 5 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Seminar 5 - Tóm tắt kiến thức về ảo hóa mạng và ảo hóa lưu trữ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5",
+            "[1] Chương 9, Chương 10",
+            "Giảng viên - Nhắc lại các kiến thức về ảo hóa mạng và ảo hóa lưu trữ đã học: khái niệm, các loại mạng, các loại lưu trữ. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Seminar 5 - Tóm tắt kiến thức về ảo hóa mạng và ảo hóa lưu trữ - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5",
+            "Tài liệu đọc": "[1] Chương 9, Chương 10",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về ảo hóa mạng và ảo hóa lưu trữ đã học: khái niệm, các loại mạng, các loại lưu trữ. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 6. Chương 8: Trung tâm dữ liệu ảo hóa 8.1 Kiến trúc phần cứng và phần mềm trong trung tâm dữ liệu 8.2 Các tiện ích của trung tâm dữ liệu",
+            "[1] Chương 13",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 6 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, các tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Lecture 6. Chương 8: Trung tâm dữ liệu ảo hóa 8.1 Kiến trúc phần cứng và phần mềm trong trung tâm dữ liệu 8.2 Các tiện ích của trung tâm dữ liệu",
+            "Tài liệu đọc": "[1] Chương 13",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide lecture 6 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, các tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Seminar 6 - Tóm tắt kiến thức về trung tâm dữ liệu ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6",
+            "[1] Chương 13",
+            "Giảng viên - Nhắc lại các kiến thức về trung tâm dữ liệu ảo hóa đã học: kiến trúc, các tiện ích. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Seminar 6 - Tóm tắt kiến thức về trung tâm dữ liệu ảo hóa - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6",
+            "Tài liệu đọc": "[1] Chương 13",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức về trung tâm dữ liệu ảo hóa đã học: kiến trúc, các tiện ích. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong bài tập",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Trình bày bài tập nhóm",
+            "",
+            "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+            "CLO1.x, CLO2.x, CLO3.x"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Trình bày bài tập nhóm",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Đánh giá": "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Trình bày bài tập nhóm",
+            "",
+            "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+            "CLO1.x, CLO2.x, CLO3.x"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Trình bày bài tập nhóm",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét",
+            "Đánh giá": "Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi",
+            "",
+            "Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo",
+            "- Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo",
+            "Đánh giá": "- Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "Chương 1 đến 8",
+            "Thi tự luận trên giấy",
+            "Xem Phụ lục 1: ma trận đề thi",
+            "CLO1.x, CLO2.1, CLO3.3"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "Chương 1 đến 8",
+            "Hoạt động dạy và học": "Thi tự luận trên giấy",
+            "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 54,
+      "table_id": "vi-cntt1145#tbl007",
+      "table_name": "Tháng 6 năm 2024.",
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "source_block": 88,
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Phạm Xuân Lâm",
+          "cells": [
+            "TS. Phạm Xuân Lâm",
+            "GS.TS. Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+            "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 60,
+      "table_id": "vi-cntt1145#tbl008",
+      "table_name": "Ma trận đề thi (tự luận):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 98,
+      "column_labels": [
+        "Câu hỏi",
+        "CLOs",
+        "Số điểm",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi thành phần"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Câu 1",
+          "cells": [
+            "Câu 1",
+            "1.x 2.1 3.3",
+            "1",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 1",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.x 2.1 3.3",
+            "0.5",
+            "1",
+            "",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "0.5",
+            "Nhớ": "1",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.x 2.1 3.3",
+            "0.5",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "0.5",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Câu 2",
+          "cells": [
+            "Câu 2",
+            "1.x 2.1 3.3",
+            "1",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 2",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.x 2.1 3.3",
+            "0.5",
+            "1",
+            "",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "0.5",
+            "Nhớ": "1",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.x 2.1 3.3",
+            "0.5",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "0.5",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Câu 3",
+          "cells": [
+            "Câu 3",
+            "1.x 2.1 3.3",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 3",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.x 2.1 3.3",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.x 2.1 3.3",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "Câu 4",
+          "cells": [
+            "Câu 4",
+            "1.x 2.1 3.3",
+            "3",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 4",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "3",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.x 2.1 3.3",
+            "1.5",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1.5",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.x 2.1 3.3",
+            "1.5",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1.5",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "Câu 5",
+          "cells": [
+            "Câu 5",
+            "1.x 2.1 3.3",
+            "3",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 5",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "3",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.x 2.1 3.3",
+            "1.5",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1.5",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.x 2.1 3.3",
+            "1.5",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.x 2.1 3.3",
+            "Số điểm": "1.5",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "Tổng số câu hỏi thành phần",
+          "cells": [
+            "Tổng số câu hỏi thành phần",
+            "",
+            "10",
+            "2",
+            "4",
+            "4",
+            "10"
+          ],
+          "column_map": {
+            "Câu hỏi": "Tổng số câu hỏi thành phần",
+            "CLOs": "",
+            "Số điểm": "10",
+            "Nhớ": "2",
+            "Hiểu": "4",
+            "Vận dụng": "4",
+            "Tổng số câu hỏi thành phần": "10"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "Tổng số điểm",
+          "cells": [
+            "Tổng số điểm",
+            "",
+            "10",
+            "1",
+            "3.5",
+            "5.5",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Tổng số điểm",
+            "CLOs": "",
+            "Số điểm": "10",
+            "Nhớ": "1",
+            "Hiểu": "3.5",
+            "Vận dụng": "5.5",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "100%",
+            "20%",
+            "40%",
+            "40%",
+            "100%"
+          ],
+          "column_map": {
+            "Câu hỏi": "Tỷ trọng",
+            "CLOs": "",
+            "Số điểm": "100%",
+            "Nhớ": "20%",
+            "Hiểu": "40%",
+            "Vận dụng": "40%",
+            "Tổng số câu hỏi thành phần": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 64,
+      "table_id": "vi-cntt1145#tbl009",
+      "table_name": "Đánh giá qua 7 buổi seminar.",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 104,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 67,
+      "table_id": "vi-cntt1145#tbl010",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 108,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+          "cells": [
+            "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác.",
+            "Tích cực": "- Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "- Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm.",
+            "Không tham gia": "- Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 69,
+      "table_id": "vi-cntt1145#tbl011",
+      "table_name": "CLO của đánh giá chuyên cần",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 110,
+      "column_labels": [
+        "Cách thức đánh giá",
+        "3.1",
+        "3.2",
+        "3.3"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Điểm danh",
+          "cells": [
+            "Điểm danh",
+            "´",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Điểm danh",
+            "3.1": "´",
+            "3.2": "",
+            "3.3": ""
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Trả lời câu hỏi, bài tập",
+          "cells": [
+            "Trả lời câu hỏi, bài tập",
+            "´",
+            "´",
+            "´"
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Trả lời câu hỏi, bài tập",
+            "3.1": "´",
+            "3.2": "´",
+            "3.3": "´"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đăng kí nhóm đúng thời hạn",
+          "cells": [
+            "Đăng kí nhóm đúng thời hạn",
+            "´",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Đăng kí nhóm đúng thời hạn",
+            "3.1": "´",
+            "3.2": "",
+            "3.3": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+          "cells": [
+            "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+            "",
+            "´",
+            ""
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Trả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác",
+            "3.1": "",
+            "3.2": "´",
+            "3.3": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+          "cells": [
+            "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+            "",
+            "´",
+            ""
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Trả lời về nội dung của nhóm, thảo luận nội dung nhóm khác",
+            "3.1": "",
+            "3.2": "´",
+            "3.3": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+          "cells": [
+            "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+            "",
+            "",
+            "´"
+          ],
+          "column_map": {
+            "Cách thức đánh giá": "Trả lời về trình bày của nhóm, thảo luận trình bày nhóm khác",
+            "3.1": "",
+            "3.2": "",
+            "3.3": "´"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 73,
+      "table_id": "vi-cntt1145#tbl012",
+      "table_name": "Rubrics 2. Đánh giá bài tập lớn",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 115,
+      "column_labels": [
+        "Tiêu chí",
+        "CLO",
+        "Tỷ trọng %",
+        "Giỏi 8,5 – 10",
+        "Khá 7,0 – 8,4",
+        "Trung bình 4,5 – 6,9",
+        "Yếu 0 – 4,4"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Chủ đề - mục tiêu",
+          "cells": [
+            "Chủ đề - mục tiêu",
+            "1.1 3.1 3.2",
+            "20%",
+            "- Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể",
+            "- Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ",
+            "- Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp",
+            "- Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra"
+          ],
+          "column_map": {
+            "Tiêu chí": "Chủ đề - mục tiêu",
+            "CLO": "1.1 3.1 3.2",
+            "Tỷ trọng %": "20%",
+            "Giỏi 8,5 – 10": "- Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể",
+            "Khá 7,0 – 8,4": "- Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ",
+            "Trung bình 4,5 – 6,9": "- Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp",
+            "Yếu 0 – 4,4": "- Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "1.1 1.4 2.1",
+            "60%",
+            "- Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao.",
+            "- Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng.",
+            "- Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng.",
+            "- Kiến thức lý thuyết không phù hợp hoặc không có kiến thức"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "CLO": "1.1 1.4 2.1",
+            "Tỷ trọng %": "60%",
+            "Giỏi 8,5 – 10": "- Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao.",
+            "Khá 7,0 – 8,4": "- Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng.",
+            "Trung bình 4,5 – 6,9": "- Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng.",
+            "Yếu 0 – 4,4": "- Kiến thức lý thuyết không phù hợp hoặc không có kiến thức"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Trình bày",
+          "cells": [
+            "Trình bày",
+            "3.3",
+            "20%",
+            "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế.",
+            "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ.",
+            "- Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có.",
+            "- Không có định dạng; - Ngôn ngữ không phù hợp."
+          ],
+          "column_map": {
+            "Tiêu chí": "Trình bày",
+            "CLO": "3.3",
+            "Tỷ trọng %": "20%",
+            "Giỏi 8,5 – 10": "- Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế.",
+            "Khá 7,0 – 8,4": "- Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ.",
+            "Trung bình 4,5 – 6,9": "- Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có.",
+            "Yếu 0 – 4,4": "- Không có định dạng; - Ngôn ngữ không phù hợp."
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định số 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\nTên học phần (tiếng Việt): Các công nghệ ảo hóa\nTên học phần (tiếng Anh): Virtualization Technologies\nTrình độ đào tạo Đại học\nMã học phần: CNTT1145\nSố tín chỉ: 03\nSố giờ trên lớp: 45\nSố giờ tự học: 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết:\nCNTT1110; CNTT1112\n(Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\nCác công nghệ ảo hóa là học phần cung cấp kiến thức về: Tổ chức và chức năng của hypervisor; Nguyên lý hoạt động và chức năng của các loại công nghệ ảo hóa như ảo hóa hệ thống, mô phỏng máy, các trình quản lý tài nguyên ảo; Các khái niệm về ảo hóa tài nguyên chung: bộ nhớ ảo, CPU ảo, hệ điều hành trừu tượng; Máy ảo cơ bản và bối cảnh lịch sử. Yêu cầu chính thức cho các máy ảo; Ảo hóa toàn bộ hệ thống: các máy ảo loại I và II, ảo hóa song song, ảo hóa thiết bị; Ảo hóa trong thực tế: quản lý tài nguyên ảo, di chuyển trực tiếp, lưu trữ bộ nhớ, chống lỗi.\nHọc phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực trung tâm dữ liệu ảo hóa. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.\nNội dung chính:\nKhái niệm ảo hóa, các loại ảo hóa\nHypervisor loại 1, loại 2\nMáy ảo, các tài nguyên trong máy ảo\nLập lịch CPU cho máy ảo\nQuản lý bộ nhớ\nẢo hóa mạng\nQuản lý lưu trữ\nTrung tâm dữ liệu ảo hóa\n[1] Mathew Portnoy (2016) Virtualization Essentials, Sybex.\n[2] Jim Smith & Ravi Nair. Virtual Machines: Versatile Platforms for Systems and Proesses, 1st edition, Morgan Kaufmann, 2005.\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTháng 6 năm 2024.\nTrọng số trong điểm học phần: 50%\nHình thức: Tự luận trên giấy\nThời gian: 90 phút\nSố câu hỏi: 5 câu. Mỗi câu 0,25 điểm\nMa trận đề thi (tự luận):\nRubrics 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 7 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nCLO của đánh giá chuyên cần\nRubrics 2. Đánh giá bài tập lớn\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nĐánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình"
+}

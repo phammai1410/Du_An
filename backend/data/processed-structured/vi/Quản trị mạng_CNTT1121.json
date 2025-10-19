@@ -1,0 +1,4927 @@
+{
+  "doc_id": "vi-cntt1121",
+  "language": "vi",
+  "course_name_stem": "Quản trị mạng",
+  "course_variant": "",
+  "course_code": "CNTT1121",
+  "source_filename": "Quản trị mạng_CNTT1121.docx",
+  "source_relpath": "data\\raw\\vi\\Quản trị mạng_CNTT1121.docx",
+  "source_hash": "7999a05fb50c17a0c6f54a2ff9f3a6d2",
+  "source_modified": "2025-10-11T10:42:50.653102+00:00",
+  "processed_at": "2025-10-17T16:55:23.997065+00:00",
+  "stats": {
+    "paragraphs": 84,
+    "tables": 12,
+    "sections": 21
+  },
+  "sections": [
+    {
+      "section_id": "vi-cntt1121#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (General Information)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Tên học phần (tiếng Việt): Quản trị mạng",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Tên học phần (tiếng Anh): Network Management",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Trình độ đào tạo Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Mã học phần: CNTT1121",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "Số tín chỉ: 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Số giờ tự học: 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Các học phần tiên quyết: Mạng máy tính và truyền số liệu",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Địa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-cntt1121#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 20,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "ThS. Cao Thị Thu Hương",
+                "huongct@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "ThS. Cao Thị Thu Hương",
+                "Email": "huongct@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS. Nguyễn Thanh Hương",
+                "huongnt_cntt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "TS. Nguyễn Thanh Hương",
+                "Email": "huongnt_cntt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Quản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Học phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Nội dung chính:",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Mô hình hệ thống quản trị mạng.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Giao thức quản trị mạng đơn giản SNMP.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Phần mềm mô phỏng (Packet Tracer, ...).",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Cấu trúc, nguyên tắc hoạt động của các thiết bị mạng.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Cấu hình quản trị các thiết bị mạng.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Quản trị hệ thống Windows Server.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Cấu hình chính sách nhóm.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Cấu hình chính sách hệ thống.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 33
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Quản lý tài nguyên mạng.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Cài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Bảo mật mạng.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 36
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "4.1. Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Tài liệu khác:",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "4.2. Tài liệu tham khảo",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "4.3. Phần mềm",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "[6] Cisco Packet Tracer",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "[7] VMWare",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "[8] Windows Server",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 49
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "table",
+          "order": 44,
+          "table_id": "vi-cntt1121#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 52,
+          "column_labels": [
+            "Mã / Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã / Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản.",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế.",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+                ""
+              ],
+              "column_map": {
+                "Mã / Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "table",
+          "order": 46,
+          "table_id": "vi-cntt1121#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOij",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOij": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.1",
+                "Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.1",
+                "Mô tả CLO": "Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.2",
+                "Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.2",
+                "Mô tả CLO": "Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.3",
+                "Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server, Mail server,…",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.3",
+                "Mô tả CLO": "Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server, Mail server,…",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1 Kiến thức",
+              "cells": [
+                "CG1 Kiến thức",
+                "CLO1.4",
+                "Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1 Kiến thức",
+                "CLOij": "CLO1.4",
+                "Mô tả CLO": "Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.1",
+                "Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.1",
+                "Mô tả CLO": "Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.2",
+                "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.2",
+                "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG2 Kỹ năng",
+              "cells": [
+                "CG2 Kỹ năng",
+                "CLO2.3",
+                "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2 Kỹ năng",
+                "CLOij": "CLO2.3",
+                "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.1",
+                "Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.1",
+                "Mô tả CLO": "Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.2",
+                "Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.2",
+                "Mô tả CLO": "Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+              "cells": [
+                "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLO3.3",
+                "Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+                "CLOij": "CLO3.3",
+                "Mô tả CLO": "Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc.",
+                "Mức độ đạt được": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1121#sec008",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "table",
+          "order": 48,
+          "table_id": "vi-cntt1121#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 61,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung / Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung / Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Tất cả các buổi seminar",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: rubric 1",
+                "10%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+                "Thời điểm": "Tất cả các buổi seminar",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng)",
+                "Tuần 13",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: rubric 2",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng)",
+                "Thời điểm": "Tuần 13",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình)",
+                "Tuần 14-15",
+                "1.x 2.x 3.x",
+                "Phụ lục 2: rubric 3",
+                "40%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung / Bài đánh giá": "Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình)",
+                "Thời điểm": "Tuần 14-15",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 3",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+                "Theo lịch của Trường",
+                "1.x 2.x 3.x",
+                "Phụ lục 1: ma trận đề thi",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung / Bài đánh giá": "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+                "Thời điểm": "Theo lịch của Trường",
+                "CLOs": "1.x 2.x 3.x",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 1: ma trận đề thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec009",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1121#sec010",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1121#sec011",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "table",
+          "order": 50,
+          "table_id": "vi-cntt1121#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 67,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP",
+                "[1] Chương 1",
+                "Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết",
+                "",
+                "1.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP",
+                "Tài liệu đọc": "[1] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết",
+                "Đánh giá": "",
+                "CLOs": "1.1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP",
+                "[2] Chương x",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành",
+                "1.1 1.2 2.2 3.1"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP",
+                "Tài liệu đọc": "[2] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành",
+                "CLOs": "1.1 1.2 2.2 3.1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh",
+                "",
+                "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "",
+                "1.2"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh",
+                "[1] Chương 2",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành",
+                "1.2 2.1 2.2 3.1 3.2"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh",
+                "Tài liệu đọc": "[1] Chương 2",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành",
+                "CLOs": "1.2 2.1 2.2 3.1 3.2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng",
+                "[3] Chương 3 [4] Chương 1",
+                "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "",
+                "1.2"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng",
+                "Tài liệu đọc": "[3] Chương 3 [4] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web",
+                "[3] Chương 3 [4] Chương 1",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành",
+                "1.2 2.1 2.2 3.1 3.2"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web",
+                "Tài liệu đọc": "[3] Chương 3 [4] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành",
+                "CLOs": "1.2 2.1 2.2 3.1 3.2"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm",
+                "[5] Chương x",
+                "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "",
+                "1.3"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm",
+                "Tài liệu đọc": "[5] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm",
+                "[5] Chương x",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành",
+                "1.3 2.1 2.2 3.1 3.2"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm",
+                "Tài liệu đọc": "[5] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành",
+                "CLOs": "1.3 2.1 2.2 3.1 3.2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu",
+                "[5] Chương x",
+                "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "",
+                "1.3"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu",
+                "Tài liệu đọc": "[5] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống",
+                "[5] Chương x",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành",
+                "1.3 2.1 2.2 3.2"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống",
+                "Tài liệu đọc": "[5] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành",
+                "CLOs": "1.3 2.1 2.2 3.2"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng",
+                "[1] Chương x",
+                "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "",
+                "1.4"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng",
+                "Tài liệu đọc": "[1] Chương x",
+                "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "1.4"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản",
+                "[1] Chương 3",
+                "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành",
+                "1.4 2.1 2.2 3.1 3.2"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản",
+                "Tài liệu đọc": "[1] Chương 3",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+                "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành",
+                "CLOs": "1.4 2.1 2.2 3.1 3.2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân",
+                "",
+                "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân",
+                "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân",
+                "Đánh giá": "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Seminar 8 Trình bày bài tập nhóm",
+                "",
+                "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+                "Điểm danh Bài tập nhóm (Rubric 3)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Seminar 8 Trình bày bài tập nhóm",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+                "Đánh giá": "Điểm danh Bài tập nhóm (Rubric 3)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ",
+                "",
+                "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+                "Điểm danh Bài tập nhóm (Rubric 3)",
+                "1.x 2.x 3.x"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+                "Đánh giá": "Điểm danh Bài tập nhóm (Rubric 3)",
+                "CLOs": "1.x 2.x 3.x"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "Toàn bộ nội dung học",
+                "Thi trắc nghiệm khách quan trên máy",
+                "Phụ lục 1: Ma trận đề thi",
+                "1.1 1.2 1.3 1.4"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "Toàn bộ nội dung học",
+                "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+                "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+                "CLOs": "1.1 1.2 1.3 1.4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec012",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 70
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec013",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1121#sec014",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 73
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 74
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec015",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 76
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 77
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec016",
+      "title": "10.3. Quy định về hành vi trong lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Đọc trước tài liệu được yêu cầu.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Làm các bài tập về nhà.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 83
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc"
+          ],
+          "source_block": 84
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec017",
+      "title": "10.4. Quy định về nộp bài tập lớn",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-lon",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.4. Quy định về nộp bài tập lớn"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-lon"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.4. Quy định về nộp bài tập lớn"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-lon"
+          ],
+          "source_block": 87
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec018",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 64,
+          "table_id": "vi-cntt1121#tbl007",
+          "table_name": null,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+          ],
+          "source_block": 91,
+          "column_labels": [
+            "PHỤ TRÁCH KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. Phạm Xuân Lâm",
+              "cells": [
+                "TS. Phạm Xuân Lâm",
+                "GS.TS Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+                "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec019",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-cntt1121#sec020",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 65,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 95
+        },
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "paragraph",
+          "order": 67,
+          "text": "Thời gian: 60 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "paragraph",
+          "order": 68,
+          "text": "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 98
+        },
+        {
+          "type": "paragraph",
+          "order": 69,
+          "text": "Ma trận đề thi (trắc nghiệm):",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 99
+        },
+        {
+          "type": "table",
+          "order": 70,
+          "table_id": "vi-cntt1121#tbl008",
+          "table_name": "Ma trận đề thi (trắc nghiệm):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 100,
+          "column_labels": [
+            "Nội dung",
+            "CLOs",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1",
+              "cells": [
+                "Lecture 1",
+                "1.1",
+                "3",
+                "5",
+                "0",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 1",
+                "CLOs": "1.1",
+                "Nhớ": "3",
+                "Hiểu": "5",
+                "Vận dụng": "0",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 2",
+              "cells": [
+                "Lecture 2",
+                "1.2",
+                "2",
+                "4",
+                "3",
+                "9"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 2",
+                "CLOs": "1.2",
+                "Nhớ": "2",
+                "Hiểu": "4",
+                "Vận dụng": "3",
+                "Tổng số câu hỏi": "9"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 3",
+              "cells": [
+                "Lecture 3",
+                "1.2",
+                "2",
+                "3",
+                "3",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 3",
+                "CLOs": "1.2",
+                "Nhớ": "2",
+                "Hiểu": "3",
+                "Vận dụng": "3",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 4",
+              "cells": [
+                "Lecture 4",
+                "1.3",
+                "2",
+                "4",
+                "3",
+                "9"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 4",
+                "CLOs": "1.3",
+                "Nhớ": "2",
+                "Hiểu": "4",
+                "Vận dụng": "3",
+                "Tổng số câu hỏi": "9"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 5",
+              "cells": [
+                "Lecture 5",
+                "1.3",
+                "2",
+                "3",
+                "3",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 5",
+                "CLOs": "1.3",
+                "Nhớ": "2",
+                "Hiểu": "3",
+                "Vận dụng": "3",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.4",
+                "3",
+                "5",
+                "0",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Lecture 6",
+                "CLOs": "1.4",
+                "Nhớ": "3",
+                "Hiểu": "5",
+                "Vận dụng": "0",
+                "Tổng số câu hỏi": "8"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tổng số câu hỏi",
+              "cells": [
+                "Tổng số câu hỏi",
+                "",
+                "12",
+                "20",
+                "18",
+                "50"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu hỏi",
+                "CLOs": "",
+                "Nhớ": "12",
+                "Hiểu": "20",
+                "Vận dụng": "18",
+                "Tổng số câu hỏi": "50"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "24%",
+                "40%",
+                "36%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLOs": "",
+                "Nhớ": "24%",
+                "Hiểu": "40%",
+                "Vận dụng": "36%",
+                "Tổng số câu hỏi": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-cntt1121#sec021",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 71,
+          "text": "Rubric 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 103
+        },
+        {
+          "type": "paragraph",
+          "order": 72,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 104
+        },
+        {
+          "type": "paragraph",
+          "order": 73,
+          "text": "Đánh giá qua 9 buổi seminar.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 105
+        },
+        {
+          "type": "table",
+          "order": 74,
+          "table_id": "vi-cntt1121#tbl009",
+          "table_name": "Đánh giá qua 9 buổi seminar.",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 106,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 75,
+          "text": "* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "paragraph",
+          "order": 76,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 108
+        },
+        {
+          "type": "table",
+          "order": 77,
+          "table_id": "vi-cntt1121#tbl010",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 109,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+              "cells": [
+                "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 78,
+          "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 110
+        },
+        {
+          "type": "paragraph",
+          "order": 79,
+          "text": "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 111
+        },
+        {
+          "type": "paragraph",
+          "order": 80,
+          "text": "Ma trận đề kiểm tra (tự luận):",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 112
+        },
+        {
+          "type": "table",
+          "order": 81,
+          "table_id": "vi-cntt1121#tbl011",
+          "table_name": "Ma trận đề kiểm tra (tự luận):",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 113,
+          "column_labels": [
+            "Câu hỏi",
+            "CLOs",
+            "Số điểm",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng số câu hỏi thành phần"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Câu 1",
+              "cells": [
+                "Câu 1",
+                "1.1",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 1",
+                "CLOs": "1.1",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.1",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.1",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Câu 2",
+              "cells": [
+                "Câu 2",
+                "1.1",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 2",
+                "CLOs": "1.1",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.1",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.1",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Câu 3",
+              "cells": [
+                "Câu 3",
+                "1.1",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 3",
+                "CLOs": "1.1",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.1",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.1",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.1",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "Câu 4",
+              "cells": [
+                "Câu 4",
+                "1.1 1.2",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 4",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.1 1.2",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.1 1.2",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "Câu 5",
+              "cells": [
+                "Câu 5",
+                "1.1 1.2",
+                "2",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Câu 5",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "2",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "a.",
+              "cells": [
+                "a.",
+                "1.1 1.2",
+                "1",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "a.",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "1",
+                "Vận dụng": "",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "b.",
+              "cells": [
+                "b.",
+                "1.1 1.2",
+                "1",
+                "",
+                "",
+                "1",
+                "1"
+              ],
+              "column_map": {
+                "Câu hỏi": "b.",
+                "CLOs": "1.1 1.2",
+                "Số điểm": "1",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Tổng số câu hỏi thành phần": "1"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "Tổng số câu hỏi thành phần",
+              "cells": [
+                "Tổng số câu hỏi thành phần",
+                "",
+                "10",
+                "0",
+                "5",
+                "5",
+                "10"
+              ],
+              "column_map": {
+                "Câu hỏi": "Tổng số câu hỏi thành phần",
+                "CLOs": "",
+                "Số điểm": "10",
+                "Nhớ": "0",
+                "Hiểu": "5",
+                "Vận dụng": "5",
+                "Tổng số câu hỏi thành phần": "10"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "Tổng số điểm",
+              "cells": [
+                "Tổng số điểm",
+                "",
+                "10",
+                "0",
+                "5",
+                "5",
+                ""
+              ],
+              "column_map": {
+                "Câu hỏi": "Tổng số điểm",
+                "CLOs": "",
+                "Số điểm": "10",
+                "Nhớ": "0",
+                "Hiểu": "5",
+                "Vận dụng": "5",
+                "Tổng số câu hỏi thành phần": ""
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "",
+                "100%",
+                "0%",
+                "50%",
+                "50%",
+                "100%"
+              ],
+              "column_map": {
+                "Câu hỏi": "Tỷ trọng",
+                "CLOs": "",
+                "Số điểm": "100%",
+                "Nhớ": "0%",
+                "Hiểu": "50%",
+                "Vận dụng": "50%",
+                "Tổng số câu hỏi thành phần": "100%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 82,
+          "text": "Rubric 3. Đánh giá bài tập nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 115
+        },
+        {
+          "type": "paragraph",
+          "order": 83,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 116
+        },
+        {
+          "type": "paragraph",
+          "order": 84,
+          "text": "Sinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 117
+        },
+        {
+          "type": "paragraph",
+          "order": 85,
+          "text": "Hệ thống tên miền (DNS)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 118
+        },
+        {
+          "type": "paragraph",
+          "order": 86,
+          "text": "Cấp phát địa chỉ IP động (DHCP)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 119
+        },
+        {
+          "type": "paragraph",
+          "order": 87,
+          "text": "Thư điện tử (E-mail)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 120
+        },
+        {
+          "type": "paragraph",
+          "order": 88,
+          "text": "Web (HTTP/HTTPS)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 121
+        },
+        {
+          "type": "paragraph",
+          "order": 89,
+          "text": "Truyền tệp (FTP)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 122
+        },
+        {
+          "type": "paragraph",
+          "order": 90,
+          "text": "Mạng riêng ảo (VPN)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 123
+        },
+        {
+          "type": "paragraph",
+          "order": 91,
+          "text": "Hệ thống tường lửa (Firewall)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 124
+        },
+        {
+          "type": "paragraph",
+          "order": 92,
+          "text": "Hệ thống phát hiện xâm nhập trái phép (IDS)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 125
+        },
+        {
+          "type": "paragraph",
+          "order": 93,
+          "text": "Hệ thống Wifi",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 126
+        },
+        {
+          "type": "paragraph",
+          "order": 94,
+          "text": "Bên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 127
+        },
+        {
+          "type": "table",
+          "order": 95,
+          "table_id": "vi-cntt1121#tbl012",
+          "table_name": "Hệ thống Wifi",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 129,
+          "column_labels": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "Giỏi",
+            "Khá",
+            "Trung bình",
+            "Yếu"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Tiêu chí đánh giá",
+              "cells": [
+                "Tiêu chí đánh giá",
+                "CLO",
+                "Trọng số (%)",
+                "8,5-10",
+                "7,0 – 8.4",
+                "4,5 – 6,9",
+                "0 - 4,4"
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+                "CLO": "CLO",
+                "Trọng số (%)": "Trọng số (%)",
+                "Giỏi": "8,5-10",
+                "Khá": "7,0 – 8.4",
+                "Trung bình": "4,5 – 6,9",
+                "Yếu": "0 - 4,4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Triển khai và quản trị hệ thống",
+              "cells": [
+                "Triển khai và quản trị hệ thống",
+                "1.x 2.x 3.x",
+                "25%",
+                "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống.",
+                "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập.",
+                "Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất.",
+                "Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Triển khai và quản trị hệ thống",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống.",
+                "Khá": "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập.",
+                "Trung bình": "Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất.",
+                "Yếu": "Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất."
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Sự chính xác và hiệu quả",
+              "cells": [
+                "Sự chính xác và hiệu quả",
+                "1.x 2.x 3.x",
+                "25%",
+                "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập.",
+                "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập.",
+                "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả.",
+                "Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Sự chính xác và hiệu quả",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập.",
+                "Khá": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập.",
+                "Trung bình": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả.",
+                "Yếu": "Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập."
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+              "cells": [
+                "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+                "1.x 2.x 3.x",
+                "25%",
+                "Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch.",
+                "Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng.",
+                "Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng.",
+                "Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch.",
+                "Khá": "Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng.",
+                "Trung bình": "Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng.",
+                "Yếu": "Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch."
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Trình bày báo cáo",
+              "cells": [
+                "Trình bày báo cáo",
+                "1.x 2.x 3.x",
+                "25%",
+                "Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu.",
+                "Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp.",
+                "Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi.",
+                "Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
+              ],
+              "column_map": {
+                "Tiêu chí đánh giá": "Trình bày báo cáo",
+                "CLO": "1.x 2.x 3.x",
+                "Trọng số (%)": "25%",
+                "Giỏi": "Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu.",
+                "Khá": "Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp.",
+                "Trung bình": "Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi.",
+                "Yếu": "Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-cntt1121#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐH KINH TẾ QUỐC DÂN _______________________",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc _______________________"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-cntt1121#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 20,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "ThS. Cao Thị Thu Hương",
+            "huongct@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "ThS. Cao Thị Thu Hương",
+            "Email": "huongct@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS. Nguyễn Thanh Hương",
+            "huongnt_cntt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "TS. Nguyễn Thanh Hương",
+            "Email": "huongnt_cntt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 44,
+      "table_id": "vi-cntt1121#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 52,
+      "column_labels": [
+        "Mã / Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã / Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Học phần cung cấp cho người học các kiến thức cơ bản về quản trị mạng giúp sinh viên có thể hiểu được những kiến thức cơ bản nhất về một hệ thống quản trị mạng; quản trị các thiết bị mạng, các dịch vụ mạng. Sinh viên có thể cấu hình quản trị các thiết bị mạng và các dịch vụ mạng cơ bản.",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng nghề nghiệp để giải quyết vấn đề liên quan đến quản trị mạng thực tế.",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+            ""
+          ],
+          "column_map": {
+            "Mã / Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Học phần góp phần phát triển khả năng tự làm việc độc lập và làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp.",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 46,
+      "table_id": "vi-cntt1121#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOij": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.1",
+            "Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.1",
+            "Mô tả CLO": "Giải thích được những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng, các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.2",
+            "Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.2",
+            "Mô tả CLO": "Giải thích chức năng của các thiết bị mạng cơ bản. Thực hành thành thạo các thao tác cấu hình các thiết bị mạng sử dụng công cụ mô phỏng.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.3",
+            "Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server, Mail server,…",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.3",
+            "Mô tả CLO": "Thực hành thành thạo các thao tác tổ chức và quản lý người dùng trên môi trường Windows server; thiết lập và triển khai chính sách nhóm; quản lý tài nguyên dùng chung trên mạng như thư mục, tập tin; cấu hình và quản lý các dịch vụ mạng: DNS, DHCP, Web server, File server, Mail server,…",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1 Kiến thức",
+          "cells": [
+            "CG1 Kiến thức",
+            "CLO1.4",
+            "Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1 Kiến thức",
+            "CLOij": "CLO1.4",
+            "Mô tả CLO": "Trình bày được các khái niệm liên quan đến bảo mật hệ thống: cấu trúc firewall, các chức năng cơ bản và cách phân loại cũng như ưu nhược điểm của các loại firewall; có khả năng giải thích kiến thức về firewall trong quản trị và bảo mật hệ thống mạng",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.1",
+            "Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.1",
+            "Mô tả CLO": "Thành thạo sử dụng các công cụ để cấu hình tối ưu cho các thiết bị mạng trong các mô hình mạng.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.2",
+            "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.2",
+            "Mô tả CLO": "Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến quản trị mạng.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG2 Kỹ năng",
+          "cells": [
+            "CG2 Kỹ năng",
+            "CLO2.3",
+            "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2 Kỹ năng",
+            "CLOij": "CLO2.3",
+            "Mô tả CLO": "Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.1",
+            "Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.1",
+            "Mô tả CLO": "Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.2",
+            "Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.2",
+            "Mô tả CLO": "Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "CG3 Năng lực tự chủ, trách nhiệm",
+          "cells": [
+            "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLO3.3",
+            "Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3 Năng lực tự chủ, trách nhiệm",
+            "CLOij": "CLO3.3",
+            "Mô tả CLO": "Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc.",
+            "Mức độ đạt được": "2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 48,
+      "table_id": "vi-cntt1121#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 61,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung / Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung / Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Tất cả các buổi seminar",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: rubric 1",
+            "10%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung / Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar",
+            "Thời điểm": "Tất cả các buổi seminar",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng)",
+            "Tuần 13",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: rubric 2",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài kiểm tra cá nhân – 20% (thực hành cấu hình thiết bị mạng)",
+            "Thời điểm": "Tuần 13",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình)",
+            "Tuần 14-15",
+            "1.x 2.x 3.x",
+            "Phụ lục 2: rubric 3",
+            "40%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung / Bài đánh giá": "Bài tập nhóm – 20% (nghiên cứu, cấu hình dịch vụ, thuyết trình)",
+            "Thời điểm": "Tuần 14-15",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2: rubric 3",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+            "Theo lịch của Trường",
+            "1.x 2.x 3.x",
+            "Phụ lục 1: ma trận đề thi",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung / Bài đánh giá": "Toàn bộ nội dung học (trắc nghiệm khách quan trên máy)",
+            "Thời điểm": "Theo lịch của Trường",
+            "CLOs": "1.x 2.x 3.x",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 1: ma trận đề thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 50,
+      "table_id": "vi-cntt1121#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 67,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP",
+            "[1] Chương 1",
+            "Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết",
+            "",
+            "1.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Chương 1: Tổng quan về quản trị mạng 1.1. Giới thiệu chung về quản trị mạng 1.2. Hệ thống quản trị mạng 1.3. Giao thức quản trị mạng đơn giản SNMP",
+            "Tài liệu đọc": "[1] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu Xem lại các kiến thức của học phần tiên quyết",
+            "Đánh giá": "",
+            "CLOs": "1.1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP",
+            "[2] Chương x",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành",
+            "1.1 1.2 2.2 3.1"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 Câu hỏi lý thuyết Thực hành: Giám sát và quản lý thiết bị mạng bằng SNMP",
+            "Tài liệu đọc": "[2] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành",
+            "CLOs": "1.1 1.2 2.2 3.1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh",
+            "",
+            "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "",
+            "1.2"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2 Chương 2. Quản trị thiết bị mạng 2.1. Các thiết bị mạng 2.2. Cấu hình Router, Switch cơ bản 2.3. Giao thức định tuyến tĩnh",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh",
+            "[1] Chương 2",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành",
+            "1.2 2.1 2.2 3.1 3.2"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Seminar 2 Câu hỏi lý thuyết về các thiết bị mạng, về giao thức định tuyến tĩnh Thực hành: Cấu hình Router, Switch cơ bản Kết nối 2 mạng LAN Cấu hình định tuyến tĩnh",
+            "Tài liệu đọc": "[1] Chương 2",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành",
+            "CLOs": "1.2 2.1 2.2 3.1 3.2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng",
+            "[3] Chương 3 [4] Chương 1",
+            "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "",
+            "1.2"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Lecture 3 Chương 2. Quản trị thiết bị mạng 2.4. Giao thức định tuyến động 2.5. Cấu hình một số dịch vụ mạng",
+            "Tài liệu đọc": "[3] Chương 3 [4] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web",
+            "[3] Chương 3 [4] Chương 1",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành",
+            "1.2 2.1 2.2 3.1 3.2"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 Câu hỏi lý thuyết về các giao thức định tuyến động Thực hành: Cấu hình định tuyến động với giao thức RIPv2 Cấu hình định tuyến động với giao thức OSPF Cấu hình dịch vụ email, DHCP, Web",
+            "Tài liệu đọc": "[3] Chương 3 [4] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành",
+            "CLOs": "1.2 2.1 2.2 3.1 3.2"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm",
+            "[5] Chương x",
+            "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "",
+            "1.3"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4 Chương 3. Quản trị hệ thống Windows Server 3.1. Giới thiệu Windows server 3.2. Quản trị Active Directory 3.3. Quản lý tài khoản người dùng và nhóm",
+            "Tài liệu đọc": "[5] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm",
+            "[5] Chương x",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành",
+            "1.3 2.1 2.2 3.1 3.2"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 Câu hỏi lý thuyết Thực hành: Cài đặt Window Server Quản trị tài khoản người dùng, tài khoản nhóm",
+            "Tài liệu đọc": "[5] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành",
+            "CLOs": "1.3 2.1 2.2 3.1 3.2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu",
+            "[5] Chương x",
+            "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "",
+            "1.3"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5 Chương 3. Quản trị hệ thống Windows Server 3.4. Chính sách hệ thống và chính sách nhóm 3.5. Quản trị file 3.6. Quản trị đĩa 3.7. Các dịch vụ mạng 3.8. Sao lưu và phục hồi dữ liệu",
+            "Tài liệu đọc": "[5] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống",
+            "[5] Chương x",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành",
+            "1.3 2.1 2.2 3.2"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Seminar 5 Câu hỏi lý thuyết về chương 3 Thực hành: cấu hình chính sách nhóm và chính sách hệ thống",
+            "Tài liệu đọc": "[5] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành",
+            "CLOs": "1.3 2.1 2.2 3.2"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng",
+            "[1] Chương x",
+            "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "",
+            "1.4"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Lecture 6 Chương 4. Bảo mật mạng 4.1. Các khái niệm cơ bản về bảo mật mạng 4.2. Một số nguy cơ tấn công 4.3. Một số giải pháp bảo mật mạng",
+            "Tài liệu đọc": "[1] Chương x",
+            "Hoạt động dạy và học": "Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "1.4"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản",
+            "[1] Chương 3",
+            "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành",
+            "1.4 2.1 2.2 3.1 3.2"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Seminar 6 Câu hỏi lý thuyết về chương 4 Thực hành: các bài lab về bảo mật mạng cơ bản",
+            "Tài liệu đọc": "[1] Chương 3",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài",
+            "Đánh giá": "Điểm danh Trả lời câu hỏi trong Seminar 6 Làm bài tập thực hành",
+            "CLOs": "1.4 2.1 2.2 3.1 3.2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân",
+            "",
+            "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân",
+            "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân",
+            "Đánh giá": "Điểm danh Bài kiểm tra cá nhân (Rubric 2)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Seminar 8 Trình bày bài tập nhóm",
+            "",
+            "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+            "Điểm danh Bài tập nhóm (Rubric 3)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Seminar 8 Trình bày bài tập nhóm",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+            "Đánh giá": "Điểm danh Bài tập nhóm (Rubric 3)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ",
+            "",
+            "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+            "Điểm danh Bài tập nhóm (Rubric 3)",
+            "1.x 2.x 3.x"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài kiểm tra cuối kỳ",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm",
+            "Đánh giá": "Điểm danh Bài tập nhóm (Rubric 3)",
+            "CLOs": "1.x 2.x 3.x"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "Toàn bộ nội dung học",
+            "Thi trắc nghiệm khách quan trên máy",
+            "Phụ lục 1: Ma trận đề thi",
+            "1.1 1.2 1.3 1.4"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "Toàn bộ nội dung học",
+            "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+            "Đánh giá": "Phụ lục 1: Ma trận đề thi",
+            "CLOs": "1.1 1.2 1.3 1.4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 64,
+      "table_id": "vi-cntt1121#tbl007",
+      "table_name": null,
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024."
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-6-nam-2024"
+      ],
+      "source_block": 91,
+      "column_labels": [
+        "PHỤ TRÁCH KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Phạm Xuân Lâm",
+          "cells": [
+            "TS. Phạm Xuân Lâm",
+            "GS.TS Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "PHỤ TRÁCH KHOA": "TS. Phạm Xuân Lâm",
+            "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 70,
+      "table_id": "vi-cntt1121#tbl008",
+      "table_name": "Ma trận đề thi (trắc nghiệm):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 100,
+      "column_labels": [
+        "Nội dung",
+        "CLOs",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1",
+          "cells": [
+            "Lecture 1",
+            "1.1",
+            "3",
+            "5",
+            "0",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 1",
+            "CLOs": "1.1",
+            "Nhớ": "3",
+            "Hiểu": "5",
+            "Vận dụng": "0",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 2",
+          "cells": [
+            "Lecture 2",
+            "1.2",
+            "2",
+            "4",
+            "3",
+            "9"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 2",
+            "CLOs": "1.2",
+            "Nhớ": "2",
+            "Hiểu": "4",
+            "Vận dụng": "3",
+            "Tổng số câu hỏi": "9"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 3",
+          "cells": [
+            "Lecture 3",
+            "1.2",
+            "2",
+            "3",
+            "3",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 3",
+            "CLOs": "1.2",
+            "Nhớ": "2",
+            "Hiểu": "3",
+            "Vận dụng": "3",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 4",
+          "cells": [
+            "Lecture 4",
+            "1.3",
+            "2",
+            "4",
+            "3",
+            "9"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 4",
+            "CLOs": "1.3",
+            "Nhớ": "2",
+            "Hiểu": "4",
+            "Vận dụng": "3",
+            "Tổng số câu hỏi": "9"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 5",
+          "cells": [
+            "Lecture 5",
+            "1.3",
+            "2",
+            "3",
+            "3",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 5",
+            "CLOs": "1.3",
+            "Nhớ": "2",
+            "Hiểu": "3",
+            "Vận dụng": "3",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.4",
+            "3",
+            "5",
+            "0",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Lecture 6",
+            "CLOs": "1.4",
+            "Nhớ": "3",
+            "Hiểu": "5",
+            "Vận dụng": "0",
+            "Tổng số câu hỏi": "8"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tổng số câu hỏi",
+          "cells": [
+            "Tổng số câu hỏi",
+            "",
+            "12",
+            "20",
+            "18",
+            "50"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu hỏi",
+            "CLOs": "",
+            "Nhớ": "12",
+            "Hiểu": "20",
+            "Vận dụng": "18",
+            "Tổng số câu hỏi": "50"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "24%",
+            "40%",
+            "36%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLOs": "",
+            "Nhớ": "24%",
+            "Hiểu": "40%",
+            "Vận dụng": "36%",
+            "Tổng số câu hỏi": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 74,
+      "table_id": "vi-cntt1121#tbl009",
+      "table_name": "Đánh giá qua 9 buổi seminar.",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 106,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 77,
+      "table_id": "vi-cntt1121#tbl010",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 109,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+          "cells": [
+            "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 81,
+      "table_id": "vi-cntt1121#tbl011",
+      "table_name": "Ma trận đề kiểm tra (tự luận):",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 113,
+      "column_labels": [
+        "Câu hỏi",
+        "CLOs",
+        "Số điểm",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng số câu hỏi thành phần"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Câu 1",
+          "cells": [
+            "Câu 1",
+            "1.1",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 1",
+            "CLOs": "1.1",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.1",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.1",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Câu 2",
+          "cells": [
+            "Câu 2",
+            "1.1",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 2",
+            "CLOs": "1.1",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.1",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.1",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Câu 3",
+          "cells": [
+            "Câu 3",
+            "1.1",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 3",
+            "CLOs": "1.1",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.1",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.1",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.1",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "Câu 4",
+          "cells": [
+            "Câu 4",
+            "1.1 1.2",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 4",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.1 1.2",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.1 1.2",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "Câu 5",
+          "cells": [
+            "Câu 5",
+            "1.1 1.2",
+            "2",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Câu 5",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "2",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "a.",
+          "cells": [
+            "a.",
+            "1.1 1.2",
+            "1",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "a.",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "1",
+            "Vận dụng": "",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "b.",
+          "cells": [
+            "b.",
+            "1.1 1.2",
+            "1",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          "column_map": {
+            "Câu hỏi": "b.",
+            "CLOs": "1.1 1.2",
+            "Số điểm": "1",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Tổng số câu hỏi thành phần": "1"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "Tổng số câu hỏi thành phần",
+          "cells": [
+            "Tổng số câu hỏi thành phần",
+            "",
+            "10",
+            "0",
+            "5",
+            "5",
+            "10"
+          ],
+          "column_map": {
+            "Câu hỏi": "Tổng số câu hỏi thành phần",
+            "CLOs": "",
+            "Số điểm": "10",
+            "Nhớ": "0",
+            "Hiểu": "5",
+            "Vận dụng": "5",
+            "Tổng số câu hỏi thành phần": "10"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "Tổng số điểm",
+          "cells": [
+            "Tổng số điểm",
+            "",
+            "10",
+            "0",
+            "5",
+            "5",
+            ""
+          ],
+          "column_map": {
+            "Câu hỏi": "Tổng số điểm",
+            "CLOs": "",
+            "Số điểm": "10",
+            "Nhớ": "0",
+            "Hiểu": "5",
+            "Vận dụng": "5",
+            "Tổng số câu hỏi thành phần": ""
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "",
+            "100%",
+            "0%",
+            "50%",
+            "50%",
+            "100%"
+          ],
+          "column_map": {
+            "Câu hỏi": "Tỷ trọng",
+            "CLOs": "",
+            "Số điểm": "100%",
+            "Nhớ": "0%",
+            "Hiểu": "50%",
+            "Vận dụng": "50%",
+            "Tổng số câu hỏi thành phần": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 95,
+      "table_id": "vi-cntt1121#tbl012",
+      "table_name": "Hệ thống Wifi",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 129,
+      "column_labels": [
+        "Tiêu chí đánh giá",
+        "CLO",
+        "Trọng số (%)",
+        "Giỏi",
+        "Khá",
+        "Trung bình",
+        "Yếu"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Tiêu chí đánh giá",
+          "cells": [
+            "Tiêu chí đánh giá",
+            "CLO",
+            "Trọng số (%)",
+            "8,5-10",
+            "7,0 – 8.4",
+            "4,5 – 6,9",
+            "0 - 4,4"
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Tiêu chí đánh giá",
+            "CLO": "CLO",
+            "Trọng số (%)": "Trọng số (%)",
+            "Giỏi": "8,5-10",
+            "Khá": "7,0 – 8.4",
+            "Trung bình": "4,5 – 6,9",
+            "Yếu": "0 - 4,4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Triển khai và quản trị hệ thống",
+          "cells": [
+            "Triển khai và quản trị hệ thống",
+            "1.x 2.x 3.x",
+            "25%",
+            "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống.",
+            "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập.",
+            "Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất.",
+            "Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Triển khai và quản trị hệ thống",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách chuyên nghiệp, đảm bảo tính ổn định và hiệu suất cao của hệ thống.",
+            "Khá": "Triển khai và quản trị các dịch vụ mạng mô phỏng một cách tương đối ổn định và hiệu quả, đáp ứng được yêu cầu cơ bản của bài tập.",
+            "Trung bình": "Triển khai và quản trị các dịch vụ mạng mô phỏng cơ bản, có thể gặp một số vấn đề về ổn định và hiệu suất.",
+            "Yếu": "Không triển khai và quản trị các dịch vụ mạng mô phỏng hoặc hệ thống không đảm bảo ổn định và hiệu suất."
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Sự chính xác và hiệu quả",
+          "cells": [
+            "Sự chính xác và hiệu quả",
+            "1.x 2.x 3.x",
+            "25%",
+            "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập.",
+            "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập.",
+            "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả.",
+            "Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Sự chính xác và hiệu quả",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, đáp ứng được các yêu cầu của bài tập.",
+            "Khá": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động một cách tương đối đúng và hiệu quả, đáp ứng được một phần các yêu cầu của bài tập.",
+            "Trung bình": "Đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động cơ bản, nhưng có thể gặp một số vấn đề về chính xác và hiệu quả.",
+            "Yếu": "Không đảm bảo rằng các dịch vụ mạng mô phỏng hoạt động đúng và hiệu quả, không đáp ứng được các yêu cầu của bài tập."
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+          "cells": [
+            "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+            "1.x 2.x 3.x",
+            "25%",
+            "Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch.",
+            "Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng.",
+            "Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng.",
+            "Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Sản phẩm demo trên VMWare hoặc Packet Tracer",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Thể hiện sản phẩm demo một cách chuyên nghiệp, có thể hiển thị tính năng và chức năng của hệ thống mạng mô phỏng một cách rõ ràng và minh bạch.",
+            "Khá": "Thể hiện sản phẩm demo một cách tương đối minh bạch, cho phép người xem hiểu được tính năng và chức năng của hệ thống mạng mô phỏng.",
+            "Trung bình": "Thể hiện sản phẩm demo cơ bản, nhưng có thể gặp khó khăn trong việc giới thiệu tính năng và chức năng.",
+            "Yếu": "Không thể hiện sản phẩm demo hoặc sản phẩm demo không rõ ràng và không minh bạch."
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Trình bày báo cáo",
+          "cells": [
+            "Trình bày báo cáo",
+            "1.x 2.x 3.x",
+            "25%",
+            "Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu.",
+            "Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp.",
+            "Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi.",
+            "Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
+          ],
+          "column_map": {
+            "Tiêu chí đánh giá": "Trình bày báo cáo",
+            "CLO": "1.x 2.x 3.x",
+            "Trọng số (%)": "25%",
+            "Giỏi": "Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu.",
+            "Khá": "Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp.",
+            "Trung bình": "Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi.",
+            "Yếu": "Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic."
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "ĐỀ CƯƠNG HỌC PHẦN CHI TIẾT\n(Detailed Course Syllabus)\n(Ban hành kèm theo Quyết định 628 QĐ-ĐHKTQD ngày 18 tháng 6 năm 2024)\nTên học phần (tiếng Việt): Quản trị mạng\nTên học phần (tiếng Anh): Network Management\nTrình độ đào tạo Đại học\nMã học phần: CNTT1121\nSố tín chỉ: 03\nSố giờ trên lớp: 45\nSố giờ tự học: 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Mạng máy tính và truyền số liệu\nKhoa/Viện quản lý học phần: Khoa Công nghệ thông tin\nĐịa chỉ: P.1310 - P.1311, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\nGiảng viên giảng dạy học phần:\nQuản trị mạng học phần nằm trong khối kiến thức bổ trợ chuyên ngành Công nghệ thông tin. Học phần cung cấp các kiến thức về: Tổng quan hệ thống quản trị mạng: những khái niệm, những kiến thức cơ bản nhất về một hệ thống quản trị mạng; các thủ tục hoạt động và các cơ chế bảo mật của giao thức quản trị mạng đơn giản SNMP; Quản trị các thiết bị mạng, cấu trúc và hoạt động của card giao tiếp mạng, bộ chuyển tiếp, bộ tập trung, cầu nối, bộ chuyển mạch, bộ định tuyến; Cấu hình bộ định tuyến với phần mềm mô phỏng; Quản trị hệ thống, cấu hình chính sách nhóm, cấu hình các dịch vụ mạng, quản lý tài nguyên với Windows Server; Bảo mật mạng với hệ thống tường lửa.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức và công nghệ liên quan đến quản trị mạng bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các thiết bị, các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp giải quyết các vấn đề về quản trị mạng trong thực tế.\nNội dung chính:\nMô hình hệ thống quản trị mạng.\nGiao thức quản trị mạng đơn giản SNMP.\nPhần mềm mô phỏng (Packet Tracer, ...).\nCấu trúc, nguyên tắc hoạt động của các thiết bị mạng.\nCấu hình quản trị các thiết bị mạng.\nQuản trị hệ thống Windows Server.\nCấu hình chính sách nhóm.\nCấu hình chính sách hệ thống.\nQuản lý tài nguyên mạng.\nCài đặt và quản trị các dịch vụ mang (DHCP, DNS, Mail, Web, ...).\nBảo mật mạng.\n4.1. Giáo trình\n[1] Lê Hoài Nghĩa (2005) Giáo trình Quản trị mạng, Nhà xuất bản Đại Học Quốc Gia, Tp HCM.\nTài liệu khác:\n[2]. Diệp Thanh Nguyên (2011), SNMP toàn tập, Chương 1,2.\n4.2. Tài liệu tham khảo\n[3]. Mohamed M. Alani (2017) Guide to Cisco Routers Configuration_ Becoming a Router Geek, Springer International Publishing.\n[4] Cisco Networking Academy (2017), Routing and Switching Essentials v6 Companion Guide, Cisco Press.\n[5] William R. Stanek (2016), Windows Server 2016_ Domain Infrastructure\n4.3. Phần mềm\n[6] Cisco Packet Tracer\n[7] VMWare\n[8] Windows Server\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 60 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 9 buổi seminar.\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nMa trận đề kiểm tra (tự luận):\nRubric 3. Đánh giá bài tập nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý triển khai các hệ thống cho một tổ chức, doanh nghiệp. Ví dụ:\nHệ thống tên miền (DNS)\nCấp phát địa chỉ IP động (DHCP)\nThư điện tử (E-mail)\nWeb (HTTP/HTTPS)\nTruyền tệp (FTP)\nMạng riêng ảo (VPN)\nHệ thống tường lửa (Firewall)\nHệ thống phát hiện xâm nhập trái phép (IDS)\nHệ thống Wifi\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự sđề xuất triển khai các dịch vụ khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:"
+}

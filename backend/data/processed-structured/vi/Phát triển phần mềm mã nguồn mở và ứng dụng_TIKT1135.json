@@ -1,0 +1,4841 @@
+{
+  "doc_id": "vi-tikt1135",
+  "language": "vi",
+  "course_name_stem": "Phát triển phần mềm mã nguồn mở và ứng dụng",
+  "course_variant": "",
+  "course_code": "TIKT1135",
+  "source_filename": "Phát triển phần mềm mã nguồn mở và ứng dụng_TIKT1135.docx",
+  "source_relpath": "data\\raw\\vi\\Phát triển phần mềm mã nguồn mở và ứng dụng_TIKT1135.docx",
+  "source_hash": "98bd9e2053519ca72b42d378e6a9a6bf",
+  "source_modified": "2025-10-11T10:42:50.647552+00:00",
+  "processed_at": "2025-10-17T16:55:23.410521+00:00",
+  "stats": {
+    "paragraphs": 49,
+    "tables": 14,
+    "sections": 23
+  },
+  "sections": [
+    {
+      "section_id": "vi-tikt1135#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 1,
+          "table_id": "vi-tikt1135#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 3,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Tên học phần (tiếng Việt):",
+              "cells": [
+                "- Tên học phần (tiếng Việt):",
+                "Phát triển phần mềm mã nguồn mở và ứng dụng"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Tên học phần (tiếng Anh):",
+              "cells": [
+                "- Tên học phần (tiếng Anh):",
+                "Development of Open Source Software and Applications"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Mã số học phần:",
+              "cells": [
+                "- Mã số học phần:",
+                "TIKT1135"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Trình độ đào tạo:",
+              "cells": [
+                "- Trình độ đào tạo:",
+                "Đại học"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "- Số tín chỉ:",
+              "cells": [
+                "- Số tín chỉ:",
+                "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Số tiết lý thuyết:",
+              "cells": [
+                "+ Số tiết lý thuyết:",
+                "25"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 6,
+              "row_label": "+ Số giờ tự học:",
+              "cells": [
+                "+ Số giờ tự học:",
+                "105"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 7,
+              "row_label": "- Các học phần tiên quyết:",
+              "cells": [
+                "- Các học phần tiên quyết:",
+                "CNTT1128 - Cơ sở lập trình"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Khoa/Viện quản lý: Khoa Hệ thống thông tin quản lý",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Địa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Giảng viên tham gia giảng dạy:",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "table",
+          "order": 5,
+          "table_id": "vi-tikt1135#tbl003",
+          "table_name": "Giảng viên tham gia giảng dạy:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 8,
+          "column_labels": [
+            "TT",
+            "Họ và tên",
+            "Số điện thoại",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "ThS. Phùng Tiến Hải",
+                "0903216863",
+                "phungtienhai@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "1",
+                "Họ và tên": "ThS. Phùng Tiến Hải",
+                "Số điện thoại": "0903216863",
+                "Email": "phungtienhai@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS Trần Quang Yên",
+                "0982425588",
+                "yentq@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "2",
+                "Họ và tên": "TS Trần Quang Yên",
+                "Số điện thoại": "0982425588",
+                "Email": "yentq@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "ThS. Trần Dũng Khánh",
+                "0919900084",
+                "kanmoloko@gmail.com"
+              ],
+              "column_map": {
+                "TT": "3",
+                "Họ và tên": "ThS. Trần Dũng Khánh",
+                "Số điện thoại": "0919900084",
+                "Email": "kanmoloko@gmail.com"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Học phần Phát triển phần mềm mã nguồn mở và ứng dụng nhằm giúp cho sinh viên hiểu được: (1) các khái niệm liên quan đến phần mềm mã nguồn mở; (2) giấy phép trong mã nguồn mở; (3) những lợi ích của việc sử dụng phần mềm mã nguồn mở trong việc phát triển các ứng dụng. Sinh viên sẽ được giới thiệu một số phần mềm mã nguồn mở thường được dùng trong việc phát triển các ứng dụng như các DBMS, Web Server,... Một số môi trường phát triển ứng dụng mã nguồn mở như Eclipse, Netbean cũng được giới thiệu trong môn học",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 10
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec004",
+      "title": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+      "level": 1,
+      "label": "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+      "path_titles": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)"
+      ],
+      "path_labels": [
+        "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec005",
+      "title": "Giáo trình:",
+      "level": 2,
+      "label": "giao-trinh",
+      "path_titles": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+        "Giáo trình:"
+      ],
+      "path_labels": [
+        "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+        "giao-trinh"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "[1] Trần Quang Yên, Phùng Tiến Hải (2024), Giáo trình Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Giáo trình:"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "giao-trinh"
+          ],
+          "source_block": 13
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec006",
+      "title": "Tài liệu khác",
+      "level": 2,
+      "label": "tai-lieu-khac",
+      "path_titles": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+        "Tài liệu khác"
+      ],
+      "path_labels": [
+        "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+        "tai-lieu-khac"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "[2] Free/Open source software development, Stefan Koch, Idea Group Publishing 2005, ISBN 1-59140-371-5",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "[3] Open Source Software Implementation and Management, Paul Kavanagh, Elsevier Digital Press 2004, ISBN: 1-55558-320-2",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "[4] Understanding Open Source and Free Software Licensing, Andrew M. St. Laurent, O'Reilly Media, Inc.2004, ISBN: 978-0-59-600581-8",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "[5] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "[6] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "[7] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "[8] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARE)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "tai-lieu-tham-khao-learning-resources-course-books-reference-books-and-software",
+            "tai-lieu-khac"
+          ],
+          "source_block": 21
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec007",
+      "title": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-tikt1135#tbl004",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 25,
+          "column_labels": [
+            "Mã/Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR (PLO) của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã/Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR (PLO) của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Hiểu và làm chủ quy trình phát triển phần mềm mã nguồn mở Phát triển, vận hành và bảo trì các phần mềm dùng mã nguồn mở trong hệ thống thông tin quản lý ứng dụng cho các lĩnh vực kinh tế, quản lý và quản trị kinh doanh",
+                "PLO1.3.3.1 PLO1.3.3.3 PLO1.5"
+              ],
+              "column_map": {
+                "Mã/Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Hiểu và làm chủ quy trình phát triển phần mềm mã nguồn mở Phát triển, vận hành và bảo trì các phần mềm dùng mã nguồn mở trong hệ thống thông tin quản lý ứng dụng cho các lĩnh vực kinh tế, quản lý và quản trị kinh doanh",
+                "CĐR (PLO) của CTĐT": "PLO1.3.3.1 PLO1.3.3.3 PLO1.5"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Có kỹ năng giao tiếp bằng văn bản; viết báo cáo và thuyết trình chuyên môn liên quan tới phát triển và ứng dụng phần mềm mã nguồn mở cho tổ chức, doanh nghiệp; Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển và ứng dụng phần mềm mã nguồn mở Có khả năng vận dụng được những nguyên tắc cơ bản và chuyên sâu của quy trình phát triển phần mềm, làm chủ việc phát triển và triển khai ứng dụng phần mềm mã nguồn mở",
+                "PLO2.1.2.1 PLO2.1.2.3 PLO2.2.3"
+              ],
+              "column_map": {
+                "Mã/Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Có kỹ năng giao tiếp bằng văn bản; viết báo cáo và thuyết trình chuyên môn liên quan tới phát triển và ứng dụng phần mềm mã nguồn mở cho tổ chức, doanh nghiệp; Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển và ứng dụng phần mềm mã nguồn mở Có khả năng vận dụng được những nguyên tắc cơ bản và chuyên sâu của quy trình phát triển phần mềm, làm chủ việc phát triển và triển khai ứng dụng phần mềm mã nguồn mở",
+                "CĐR (PLO) của CTĐT": "PLO2.1.2.1 PLO2.1.2.3 PLO2.2.3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm Có năng lực tổ chức các hoạt động nhóm Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực hệ thống thông tin",
+                "PLO3.1.1 PLO3.2.3"
+              ],
+              "column_map": {
+                "Mã/Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm Có năng lực tổ chức các hoạt động nhóm Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực hệ thống thông tin",
+                "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.2.3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec008",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "vi-tikt1135#tbl005",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 29,
+          "column_labels": [
+            "Mục tiêu HP",
+            "CLOs",
+            "Mô tả CLOs*",
+            "Mức độ đạt được**"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "[1]",
+                "CLOs": "[2]",
+                "Mô tả CLOs*": "[3]",
+                "Mức độ đạt được**": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.1",
+                "Hiểu rõ các thuật ngữ và khái niệm liên quan đến phần mềm mã nguồn mở",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG1",
+                "CLOs": "CLO1.1",
+                "Mô tả CLOs*": "Hiểu rõ các thuật ngữ và khái niệm liên quan đến phần mềm mã nguồn mở",
+                "Mức độ đạt được**": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.2",
+                "Giải thích được một số giấy phép mã nguồn mở",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG1",
+                "CLOs": "CLO1.2",
+                "Mô tả CLOs*": "Giải thích được một số giấy phép mã nguồn mở",
+                "Mức độ đạt được**": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.3",
+                "Hiểu rõ các chức năng và triển khai ứng dụng được một số phần mềm mã nguồn mở mà tổ chức, doanh nghiệp thường có nhu cầu sử dụng",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG1",
+                "CLOs": "CLO1.3",
+                "Mô tả CLOs*": "Hiểu rõ các chức năng và triển khai ứng dụng được một số phần mềm mã nguồn mở mà tổ chức, doanh nghiệp thường có nhu cầu sử dụng",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.4",
+                "Vận dụng được quy trình phát triển, triển khai ứng dụng phần mềm mã nguồn mở",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG1",
+                "CLOs": "CLO1.4",
+                "Mô tả CLOs*": "Vận dụng được quy trình phát triển, triển khai ứng dụng phần mềm mã nguồn mở",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.5",
+                "Thực hiện thành thạo việc phát triển và triển khai các phần mềm mã nguồn mở cho tổ chức, doanh nghiệp",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG1",
+                "CLOs": "CLO1.5",
+                "Mô tả CLOs*": "Thực hiện thành thạo việc phát triển và triển khai các phần mềm mã nguồn mở cho tổ chức, doanh nghiệp",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.1",
+                "Nâng cao các kỹ năng phân tích, thiết kế, phát triển phần mềm dựa trên mã nguồn mở",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG2",
+                "CLOs": "CLO2.1",
+                "Mô tả CLOs*": "Nâng cao các kỹ năng phân tích, thiết kế, phát triển phần mềm dựa trên mã nguồn mở",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.2",
+                "Nâng cao kỹ năng tự tìm hiểu, đọc tài liệu về phần mềm mã nguồn mở; quy trình phát triển phần mềm mã nguồn mở và triển khai ứng dụng",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG2",
+                "CLOs": "CLO2.2",
+                "Mô tả CLOs*": "Nâng cao kỹ năng tự tìm hiểu, đọc tài liệu về phần mềm mã nguồn mở; quy trình phát triển phần mềm mã nguồn mở và triển khai ứng dụng",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.1",
+                "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG3",
+                "CLOs": "CLO3.1",
+                "Mô tả CLOs*": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.2",
+                "Có năng lực tổ chức hoạt động nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG3",
+                "CLOs": "CLO3.2",
+                "Mô tả CLOs*": "Có năng lực tổ chức hoạt động nhóm.",
+                "Mức độ đạt được**": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.3",
+                "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "CG3",
+                "CLOs": "CLO3.3",
+                "Mô tả CLOs*": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "Mức độ đạt được**": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec009",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec010",
+      "title": "7.1. Đánh giá học phần",
+      "level": 2,
+      "label": "anh-gia-hoc-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.1. Đánh giá học phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "anh-gia-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+            "7.1. Đánh giá học phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "anh-gia-hoc-phan"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "table",
+          "order": 20,
+          "table_id": "vi-tikt1135#tbl006",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+            "7.1. Đánh giá học phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "anh-gia-hoc-phan"
+          ],
+          "source_block": 33,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung/Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung/Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận, làm bài tập thực hành tại các buổi seminar",
+                "Tuần 1-15",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Phụ lục 2 Rubric 1",
+                "10%",
+                "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung/Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập thực hành tại các buổi seminar",
+                "Thời điểm": "Tuần 1-15",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài số 1 (cá nhân) Chủ đề (giảng viên đưa ra bài tập tình huống)",
+                "Tuần 8",
+                "CLO1.1 CLO1.2",
+                "Phụ lục 2 Rubric 2",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Bài số 1 (cá nhân) Chủ đề (giảng viên đưa ra bài tập tình huống)",
+                "Thời điểm": "Tuần 8",
+                "CLOs": "CLO1.1 CLO1.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Nội dung giải quyết (kết hợp với phần mềm)",
+                "Tuần 8",
+                "CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 2",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Nội dung giải quyết (kết hợp với phần mềm)",
+                "Thời điểm": "Tuần 8",
+                "CLOs": "CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Nhận xét Thời gian: 60 phút; trọng số 20%",
+                "Tuần 8",
+                "CLO2.2",
+                "Phụ lục 2 Rubric 2",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Nhận xét Thời gian: 60 phút; trọng số 20%",
+                "Thời điểm": "Tuần 8",
+                "CLOs": "CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm Chia mỗi nhóm từ 5-7 sinh viên",
+                "Tuần 15",
+                "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Bài tập nhóm Chia mỗi nhóm từ 5-7 sinh viên",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Lựa chọn chủ đề",
+                "Tuần 15",
+                "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Lựa chọn chủ đề",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Xác định vấn đề cần giải quyết, khảo sát thu thập tài liệu phục vụ việc giải quyết vấn đề",
+                "Tuần 15",
+                "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Xác định vấn đề cần giải quyết, khảo sát thu thập tài liệu phục vụ việc giải quyết vấn đề",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Triển khai thực hiện quy trình phát triển một phần mềm ứng dụng dựa trên mã nguồn mở Lập kế hoạch các mục công việc",
+                "Tuần 15",
+                "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Triển khai thực hiện quy trình phát triển một phần mềm ứng dụng dựa trên mã nguồn mở Lập kế hoạch các mục công việc",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Thực hiện kế hoạch công việc",
+                "Tuần 15",
+                "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Thực hiện kế hoạch công việc",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Đánh giá những thuận lợi, khó khăn khi thực hiện các hạng mục theo kế hoạch công việc Mỗi nhóm trình bày 15 phút; tỷ trọng 20%",
+                "Tuần 15",
+                "CLO1.5",
+                "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung/Bài đánh giá": "Đánh giá những thuận lợi, khó khăn khi thực hiện các hạng mục theo kế hoạch công việc Mỗi nhóm trình bày 15 phút; tỷ trọng 20%",
+                "Thời điểm": "Tuần 15",
+                "CLOs": "CLO1.5",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Bài thi cuối kỳ Thời lượng 60’ Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại",
+                "Theo lịch của nhà trường",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Phụ lục 1 Ma trận đề thi",
+                "50%",
+                "PLO 1.3 PLO 1.4 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung/Bài đánh giá": "Bài thi cuối kỳ Thời lượng 60’ Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại",
+                "Thời điểm": "Theo lịch của nhà trường",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 1 Ma trận đề thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec011",
+      "title": "7.2. Ma trận đề thi (Phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.2. Ma trận đề thi (Phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec012",
+      "title": "7.3. Các Rubrics (Phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.3. Các Rubrics (Phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec013",
+      "title": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+      "level": 1,
+      "label": "ke-hoach-giang-day-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "path_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "table",
+          "order": 22,
+          "table_id": "vi-tikt1135#tbl007",
+          "table_name": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 41,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Đề cương học phần",
+                "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+                "",
+                "CLO1.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Tài liệu đọc": "Đề cương học phần",
+                "Hoạt động dạy và học": "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chương 1: Giới thiệu tổng quan 1.1. Một số khái niệm và quá trình phát triển của phần mềm mã nguồn mở 1.2. Cộng đồng phát triển phần mềm mã nguồn mở 1.3. Tiềm năng ứng dụng của phần mềm mã nguồn mở 1.4. Một số vấn đề quan tâm đối với phần mềm mã nguồn mở Chương 2: Vấn đề pháp lý đối với phần mềm mã nguồn mở 2.1. Tổng quan về Giấy phép phần mềm mã nguồn mở 2.2. Các giấy phép: GNU, LGPL và Mozilla Licences 2.3. Các giấy phép: MIT, BSD, APACHE 2.4. Các giấy phép: QPL, Artistic 2.5. Tác động pháp lý của cấp phép phần mềm mã nguồn mở 2.6. Phát triển phần mềm mã nguồn mở và giấy phép phần mềm mã nguồn mở",
+                "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 1, 2 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.1 CLO1.2 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Chương 1: Giới thiệu tổng quan 1.1. Một số khái niệm và quá trình phát triển của phần mềm mã nguồn mở 1.2. Cộng đồng phát triển phần mềm mã nguồn mở 1.3. Tiềm năng ứng dụng của phần mềm mã nguồn mở 1.4. Một số vấn đề quan tâm đối với phần mềm mã nguồn mở Chương 2: Vấn đề pháp lý đối với phần mềm mã nguồn mở 2.1. Tổng quan về Giấy phép phần mềm mã nguồn mở 2.2. Các giấy phép: GNU, LGPL và Mozilla Licences 2.3. Các giấy phép: MIT, BSD, APACHE 2.4. Các giấy phép: QPL, Artistic 2.5. Tác động pháp lý của cấp phép phần mềm mã nguồn mở 2.6. Phát triển phần mềm mã nguồn mở và giấy phép phần mềm mã nguồn mở",
+                "Tài liệu đọc": "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 1, 2 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1, 2",
+                "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+                "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài Sinh viên: - Đọc trước tài liệu -Tham gia thảo luận, trả lời câu hỏi",
+                "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Thảo luận",
+                "CLO1.1 CLO1.2 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1, 2",
+                "Tài liệu đọc": "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài Sinh viên: - Đọc trước tài liệu -Tham gia thảo luận, trả lời câu hỏi",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Thảo luận",
+                "CLOs": "CLO1.1 CLO1.2 CLO2.2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2 Chương 3: Hệ điều hành mã nguồn mở 3.1. Giới thiệu 3.2. Các bản phân phối Linux 3.3. Sử dụng cơ bản Ubuntu",
+                "[1] Chương 3",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 3 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2 Chương 3: Hệ điều hành mã nguồn mở 3.1. Giới thiệu 3.2. Các bản phân phối Linux 3.3. Sử dụng cơ bản Ubuntu",
+                "Tài liệu đọc": "[1] Chương 3",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 3 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Seminar 2 - Tóm tắt lại kiến thức chương 3 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành HĐH mã nguồn mở",
+                "[1] Chương 3",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận và thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Thảo luận, thực hành",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Seminar 2 - Tóm tắt lại kiến thức chương 3 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành HĐH mã nguồn mở",
+                "Tài liệu đọc": "[1] Chương 3",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận và thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Thảo luận, thực hành",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3 Chương 4: Ngôn ngữ lập trình mã nguồn mở 4.1. Giới thiệu 4.2. Một số NNLT mã nguồn mở 4.3. Sử dụng cơ bản NNLT Python",
+                "[1] Chương 4",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 4 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Lecture 3 Chương 4: Ngôn ngữ lập trình mã nguồn mở 4.1. Giới thiệu 4.2. Một số NNLT mã nguồn mở 4.3. Sử dụng cơ bản NNLT Python",
+                "Tài liệu đọc": "[1] Chương 4",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 4 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành NNLT mã nguồn mở",
+                "[1] Chương 4",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.1"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành NNLT mã nguồn mở",
+                "Tài liệu đọc": "[1] Chương 4",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.1"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4 Chương 5: Hệ quản trị CSDL mã nguồn mở 5.1. Giới thiệu 5.2. Sử dụng cơ bản Hệ quản trị cơ sở dữ liệu MySQL",
+                "[1] Chương 5",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4 Chương 5: Hệ quản trị CSDL mã nguồn mở 5.1. Giới thiệu 5.2. Sử dụng cơ bản Hệ quản trị cơ sở dữ liệu MySQL",
+                "Tài liệu đọc": "[1] Chương 5",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 Tóm tắt lại kiến thức đã học tại buổi Lecture 4 Thảo luận về các ví dụ, câu hỏi của Seminar 4 Thực hành DBMS mã nguồn mở",
+                "[1] Chương 5",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4 - Làm bài tập thực hành",
+                "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 Tóm tắt lại kiến thức đã học tại buổi Lecture 4 Thảo luận về các ví dụ, câu hỏi của Seminar 4 Thực hành DBMS mã nguồn mở",
+                "Tài liệu đọc": "[1] Chương 5",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4 - Làm bài tập thực hành",
+                "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5 Chương 6: Phần mềm ứng dụng mã nguồn mở 6.1. Bộ phần mềm ứng dụng trong văn phòng 6.2. Phần mềm quản trị nội dung 6.3. Phần mềm ERP",
+                "[1] Chương 6",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 6 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5 Chương 6: Phần mềm ứng dụng mã nguồn mở 6.1. Bộ phần mềm ứng dụng trong văn phòng 6.2. Phần mềm quản trị nội dung 6.3. Phần mềm ERP",
+                "Tài liệu đọc": "[1] Chương 6",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 6 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Seminar 5 Tóm tắt lại kiến thức đã học tại buổi Lecture 5 Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành",
+                "[1] Chương 6",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập thực hành",
+                "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Seminar 5 Tóm tắt lại kiến thức đã học tại buổi Lecture 5 Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành",
+                "Tài liệu đọc": "[1] Chương 6",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập thực hành",
+                "CLOs": "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 6 Chương 7: Nguyên lý và mô hình Phát triển phần mềm 7.1. Nguyên lý phát triển phần mềm mã nguồn mở 7.2. Một số mô hình phát triển phần mềm Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.1. Giới thiệu 8.2. Môi trường Eclipse",
+                "[1] Chương 7, 8",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 7, 8 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.4 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Lecture 6 Chương 7: Nguyên lý và mô hình Phát triển phần mềm 7.1. Nguyên lý phát triển phần mềm mã nguồn mở 7.2. Một số mô hình phát triển phần mềm Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.1. Giới thiệu 8.2. Môi trường Eclipse",
+                "Tài liệu đọc": "[1] Chương 7, 8",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 7, 8 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Seminar 6 Tóm tắt lại kiến thức đã học tại buổi Lecture 6 Thảo luận về các ví dụ, câu hỏi của Seminar 6 Thực hành Eclipse",
+                "[1] Chương 7, 8",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 6 - Làm bài tập thực hành",
+                "CLO1.4 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Seminar 6 Tóm tắt lại kiến thức đã học tại buổi Lecture 6 Thảo luận về các ví dụ, câu hỏi của Seminar 6 Thực hành Eclipse",
+                "Tài liệu đọc": "[1] Chương 7, 8",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 6 - Làm bài tập thực hành",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 7 Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.3. Môi trường NetBeans 8.4. Một số môi trường phát triển khác Chương 9: Hệ thống kiểm soát phiên bản 9.1. Giới thiệu 9.2. Hệ thống kiểm soát phiên bản GIT",
+                "[1] Chương 8, 9",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 8, 9 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "",
+                "CLO1.4 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Lecture 7 Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.3. Môi trường NetBeans 8.4. Một số môi trường phát triển khác Chương 9: Hệ thống kiểm soát phiên bản 9.1. Giới thiệu 9.2. Hệ thống kiểm soát phiên bản GIT",
+                "Tài liệu đọc": "[1] Chương 8, 9",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 8, 9 và các tài liệu liên quan Chia nhóm, Thảo luận",
+                "Đánh giá": "",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Seminar 7 Tóm tắt lại kiến thức đã học tại buổi Lecture 7 Thảo luận về các ví dụ, câu hỏi của Seminar 7 Thực hành NetBeans và một số môi trường phát triển khác Thực hành Hệ thống quản lý phiên bản GIT",
+                "[1] Chương 8, 9",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 7 - Làm bài tập thực hành",
+                "CLO1.4 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Seminar 7 Tóm tắt lại kiến thức đã học tại buổi Lecture 7 Thảo luận về các ví dụ, câu hỏi của Seminar 7 Thực hành NetBeans và một số môi trường phát triển khác Thực hành Hệ thống quản lý phiên bản GIT",
+                "Tài liệu đọc": "[1] Chương 8, 9",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 7 - Làm bài tập thực hành",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Lecture 8/Seminar 8 Thuyết trình bài tập nhóm Ôn tập Tổng kết",
+                "",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi Sinh viên: - Thảo luận - Làm bài kiểm tra cá nhân lần 2 theo cách thuyết trình: Nhóm thuyết trình - Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm - Hỏi đáp",
+                "- Trả lời câu hỏi thuộc nội dung Seminar 8 - Làm bài kiểm tra cá nhân lần 2 (Rubric 3)",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Lecture 8/Seminar 8 Thuyết trình bài tập nhóm Ôn tập Tổng kết",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi Sinh viên: - Thảo luận - Làm bài kiểm tra cá nhân lần 2 theo cách thuyết trình: Nhóm thuyết trình - Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm - Hỏi đáp",
+                "Đánh giá": "- Trả lời câu hỏi thuộc nội dung Seminar 8 - Làm bài kiểm tra cá nhân lần 2 (Rubric 3)",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "Toàn bộ nội dung học phần",
+                "Thi kết thúc học phần",
+                "Phụ lục 1: Ma trận đề thi Rubric 4",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "Toàn bộ nội dung học phần",
+                "Hoạt động dạy và học": "Thi kết thúc học phần",
+                "Đánh giá": "Phụ lục 1: Ma trận đề thi Rubric 4",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec014",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 45
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec015",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec016",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "- Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang điểm 10)",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 49
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec017",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 51
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 52
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec018",
+      "title": "10.3. Quy định về hành vi lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "10.3. Quy định về hành vi lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 55
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Đọc trước tài liệu được yêu cầu.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Làm các bài tập về nhà.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 59
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec019",
+      "title": "10.4. Quy định về nộp bài tập nhóm",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-nhom",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "10.4. Quy định về nộp bài tập nhóm"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-nop-bai-tap-nhom"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Người học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.4. Quy định về nộp bài tập nhóm"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-nhom"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Sau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+            "10.4. Quy định về nộp bài tập nhóm"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-nop-bai-tap-nhom"
+          ],
+          "source_block": 62
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec020",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time):",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time):"
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Tháng 7 năm 2024",
+          "is_list": false,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time):"
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "table",
+          "order": 37,
+          "table_id": "vi-tikt1135#tbl008",
+          "table_name": "Tháng 7 năm 2024",
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time):"
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 65,
+          "column_labels": [
+            "TRƯỞNG KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS. Nguyễn Thị Bạch Tuyết",
+              "cells": [
+                "TS. Nguyễn Thị Bạch Tuyết",
+                "GS.TS. Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "TRƯỞNG KHOA": "TS. Nguyễn Thị Bạch Tuyết",
+                "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec021",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1135#sec022",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Hình thức: Thi viết trên giấy",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Thời gian: 60 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Số câu hỏi: 5 câu. Mỗi câu 2,0 điểm.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 72
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Ma trận đề thi tự luận:",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 73
+        },
+        {
+          "type": "table",
+          "order": 43,
+          "table_id": "vi-tikt1135#tbl009",
+          "table_name": "Ma trận đề thi tự luận:",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 74,
+          "column_labels": [
+            "Nội dung",
+            "CLO",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Phân tích",
+            "Tổng"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Chương 1, 2",
+              "cells": [
+                "Chương 1, 2",
+                "1.2",
+                "0.5",
+                "0.5",
+                "",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 1, 2",
+                "CLO": "1.2",
+                "Nhớ": "0.5",
+                "Hiểu": "0.5",
+                "Vận dụng": "",
+                "Phân tích": "",
+                "Tổng": "1"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chương 3,4,5,6",
+              "cells": [
+                "Chương 3,4,5,6",
+                "1.3",
+                "",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 3,4,5,6",
+                "CLO": "1.3",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Phân tích": "",
+                "Tổng": "1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Chương 3,4,5,6",
+              "cells": [
+                "Chương 3,4,5,6",
+                "1.5",
+                "",
+                "",
+                "1",
+                "",
+                "1"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 3,4,5,6",
+                "CLO": "1.5",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Phân tích": "",
+                "Tổng": "1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Chương 7,8,9",
+              "cells": [
+                "Chương 7,8,9",
+                "1.4",
+                "",
+                "",
+                "1",
+                "1",
+                "2"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 7,8,9",
+                "CLO": "1.4",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "1",
+                "Phân tích": "1",
+                "Tổng": "2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": null,
+              "cells": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Nội dung": "",
+                "CLO": "",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Phân tích": "",
+                "Tổng": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Tổng số câu",
+              "cells": [
+                "Tổng số câu",
+                "Tổng số câu",
+                "",
+                "",
+                "",
+                "",
+                "5"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu",
+                "CLO": "Tổng số câu",
+                "Nhớ": "",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Phân tích": "",
+                "Tổng": "5"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "Tỷ trọng",
+                "10%",
+                "10%",
+                "60%",
+                "20%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLO": "Tỷ trọng",
+                "Nhớ": "10%",
+                "Hiểu": "10%",
+                "Vận dụng": "60%",
+                "Phân tích": "20%",
+                "Tổng": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1135#sec023",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Rubric 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 77
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Đánh giá qua 8 buổi seminar",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "table",
+          "order": 47,
+          "table_id": "vi-tikt1135#tbl010",
+          "table_name": "Đánh giá qua 8 buổi seminar",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 80,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "table",
+          "order": 50,
+          "table_id": "vi-tikt1135#tbl011",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 83,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+              "cells": [
+                "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân lần 1",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 84
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 85
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Đánh giá qua kết quả làm bài kiểm tra theo hình thức thực hành",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Tổng số câu hỏi: 4 câu, mỗi câu 0,25 điểm.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 87
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Thời gian: 45 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 88
+        },
+        {
+          "type": "table",
+          "order": 56,
+          "table_id": "vi-tikt1135#tbl012",
+          "table_name": "Thời gian: 45 phút",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 89,
+          "column_labels": [
+            "Tiêu chí",
+            "Trọng số (%)",
+            "Tốt 8.5 – 10 điểm",
+            "Khá 6.5 – 8.4 điểm",
+            "Trung bình 4.0 – 6.4 điểm",
+            "Kém 0 – 3.9 điểm"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Thái độ tham dự",
+              "cells": [
+                "Thái độ tham dự",
+                "20",
+                "Tích cực nêu vấn đề thảo luận và chia sẻ",
+                "Có tham gia thảo luận và chia sẻ",
+                "Thỉnh thoảng tham gia thảo luận và chia sẻ",
+                "Không tham gia thảo luận và chia sẻ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Thái độ tham dự",
+                "Trọng số (%)": "20",
+                "Tốt 8.5 – 10 điểm": "Tích cực nêu vấn đề thảo luận và chia sẻ",
+                "Khá 6.5 – 8.4 điểm": "Có tham gia thảo luận và chia sẻ",
+                "Trung bình 4.0 – 6.4 điểm": "Thỉnh thoảng tham gia thảo luận và chia sẻ",
+                "Kém 0 – 3.9 điểm": "Không tham gia thảo luận và chia sẻ"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Kết quả thực hành",
+              "cells": [
+                "Kết quả thực hành",
+                "40",
+                "Kết quả thực hành đầy đủ và đáp ứng hoàn toàn các yêu cầu",
+                "Kết quả thực hành đầy đủ và đáp ứng khá tốt các yêu cầu, còn sai sót nhỏ",
+                "Kết quả thực hành đầy đủ và đáp ứng tương đối các yêu cầu, có 1 sai sót quan trọng",
+                "Kết quả thực hành không đầy đủ/Không đáp ứng yêu cầu"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kết quả thực hành",
+                "Trọng số (%)": "40",
+                "Tốt 8.5 – 10 điểm": "Kết quả thực hành đầy đủ và đáp ứng hoàn toàn các yêu cầu",
+                "Khá 6.5 – 8.4 điểm": "Kết quả thực hành đầy đủ và đáp ứng khá tốt các yêu cầu, còn sai sót nhỏ",
+                "Trung bình 4.0 – 6.4 điểm": "Kết quả thực hành đầy đủ và đáp ứng tương đối các yêu cầu, có 1 sai sót quan trọng",
+                "Kém 0 – 3.9 điểm": "Kết quả thực hành không đầy đủ/Không đáp ứng yêu cầu"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Kết quả thực hành",
+              "cells": [
+                "Kết quả thực hành",
+                "30",
+                "Giải thích và chứng minh rõ ràng",
+                "Giải thích và chứng minh khá rõ ràng",
+                "Giải thích và chứng minh tương đối rõ ràng",
+                "Giải thích và chứng minh không rõ ràng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kết quả thực hành",
+                "Trọng số (%)": "30",
+                "Tốt 8.5 – 10 điểm": "Giải thích và chứng minh rõ ràng",
+                "Khá 6.5 – 8.4 điểm": "Giải thích và chứng minh khá rõ ràng",
+                "Trung bình 4.0 – 6.4 điểm": "Giải thích và chứng minh tương đối rõ ràng",
+                "Kém 0 – 3.9 điểm": "Giải thích và chứng minh không rõ ràng"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Báo cáo thực hành",
+              "cells": [
+                "Báo cáo thực hành",
+                "10",
+                "Đúng format và đúng hạn",
+                "Điềm tuỳ theo mức độ đáp ứng",
+                "Điềm tuỳ theo mức độ đáp ứng",
+                "Điềm tuỳ theo mức độ đáp ứng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Báo cáo thực hành",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Đúng format và đúng hạn",
+                "Khá 6.5 – 8.4 điểm": "Điềm tuỳ theo mức độ đáp ứng",
+                "Trung bình 4.0 – 6.4 điểm": "Điềm tuỳ theo mức độ đáp ứng",
+                "Kém 0 – 3.9 điểm": "Điềm tuỳ theo mức độ đáp ứng"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Rubric 3. Đánh giá thuyết trình theo nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 91
+        },
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 92
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Đánh giá qua kết quả theo nhóm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 93
+        },
+        {
+          "type": "table",
+          "order": 60,
+          "table_id": "vi-tikt1135#tbl013",
+          "table_name": "Đánh giá qua kết quả theo nhóm",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 94,
+          "column_labels": [
+            "Tiêu chí",
+            "Trọng số (%)",
+            "Tốt 8.5 – 10 điểm",
+            "Khá 6.5 – 8.4 điểm",
+            "Trung bình 4.0 – 6.4 điểm",
+            "Kém 0 – 3.9 điểm"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "10",
+                "Phong phú hơn yêu cầu",
+                "Đầy đủ theo yêu cầu",
+                "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Thiếu nhiều nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+                "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+                "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "20",
+                "Chính xác, khoa học",
+                "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "20",
+                "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+                "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Cấu trúc bài và slides rất hợp lý",
+                "Cấu trúc bài và slides khá hợp lý",
+                "Cấu trúc bài và slides tương đối hợp lý",
+                "Cấu trúc bài và slides chưa hợp lý"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+                "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+                "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+                "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Rất trực quan và thẩm mỹ",
+                "Khá trực quan và thẩm mỹ",
+                "Tương đối trực quan và thẩm mỹ",
+                "Ít/Không trực quan và thẩm mỹ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+                "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+                "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Kỹ năng trình bày",
+              "cells": [
+                "Kỹ năng trình bày",
+                "10",
+                "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kỹ năng trình bày",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Tương tác cử chỉ",
+              "cells": [
+                "Tương tác cử chỉ",
+                "10",
+                "Tương tác bằng mắt và cử chỉ tốt",
+                "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Không tương tác bằng mắt và cử chỉ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Tương tác cử chỉ",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+                "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Quản lý thời gian",
+              "cells": [
+                "Quản lý thời gian",
+                "10",
+                "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Quá giờ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Quản lý thời gian",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Kém 0 – 3.9 điểm": "Quá giờ"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Trả lời câu hỏi",
+              "cells": [
+                "Trả lời câu hỏi",
+                "10",
+                "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Không trả lời được đa số câu hỏi đặt đúng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Trả lời câu hỏi",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Sự phối hợp trong nhóm",
+              "cells": [
+                "Sự phối hợp trong nhóm",
+                "10",
+                "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Không thề hiện sự kết nối trong nhóm"
+              ],
+              "column_map": {
+                "Tiêu chí": "Sự phối hợp trong nhóm",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Rubric 4. Đánh giá bài thi cuối kỳ",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "table",
+          "order": 62,
+          "table_id": "vi-tikt1135#tbl014",
+          "table_name": "Rubric 4. Đánh giá bài thi cuối kỳ",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 97,
+          "column_labels": [
+            "Tiêu chí",
+            "Trọng số %",
+            "Tốt 8.5 – 10 điểm",
+            "Khá 6.5 – 8.4 điểm",
+            "Trung bình 4.0 – 6.4 điểm",
+            "Kém 0 – 3.9 điểm"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Phương pháp giải",
+              "cells": [
+                "Phương pháp giải",
+                "30",
+                "Cách giải sáng tạo /nhiều cách",
+                "Đúng phương pháp",
+                "Đúng phương pháp nhưng chưa đến kết quả",
+                "Sai phương pháp"
+              ],
+              "column_map": {
+                "Tiêu chí": "Phương pháp giải",
+                "Trọng số %": "30",
+                "Tốt 8.5 – 10 điểm": "Cách giải sáng tạo /nhiều cách",
+                "Khá 6.5 – 8.4 điểm": "Đúng phương pháp",
+                "Trung bình 4.0 – 6.4 điểm": "Đúng phương pháp nhưng chưa đến kết quả",
+                "Kém 0 – 3.9 điểm": "Sai phương pháp"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lập luận",
+              "cells": [
+                "Lập luận",
+                "40",
+                "Suy luận logic và căn cứ vững chắc",
+                "Suy luận logic và có căn cứ, còn sai sót nhỏ",
+                "Suy luận logic và có căn cứ, còn sai sót khá quan trọng (tuỳ mức độ: 2.0-1.0 đ)",
+                "Suy luận thiếu logic, không có căn cứ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Lập luận",
+                "Trọng số %": "40",
+                "Tốt 8.5 – 10 điểm": "Suy luận logic và căn cứ vững chắc",
+                "Khá 6.5 – 8.4 điểm": "Suy luận logic và có căn cứ, còn sai sót nhỏ",
+                "Trung bình 4.0 – 6.4 điểm": "Suy luận logic và có căn cứ, còn sai sót khá quan trọng (tuỳ mức độ: 2.0-1.0 đ)",
+                "Kém 0 – 3.9 điểm": "Suy luận thiếu logic, không có căn cứ"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Kết quả",
+              "cells": [
+                "Kết quả",
+                "15",
+                "Kết quả đúng",
+                "Kết quả có sai sót, ít ảnh hưởng",
+                "Kết quả sai sót ảnh hưởng nhiều (tuỳ mức độ: 1.0-0.5 đ)",
+                "Sai kết quả hoàn toàn do sai phương pháp"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kết quả",
+                "Trọng số %": "15",
+                "Tốt 8.5 – 10 điểm": "Kết quả đúng",
+                "Khá 6.5 – 8.4 điểm": "Kết quả có sai sót, ít ảnh hưởng",
+                "Trung bình 4.0 – 6.4 điểm": "Kết quả sai sót ảnh hưởng nhiều (tuỳ mức độ: 1.0-0.5 đ)",
+                "Kém 0 – 3.9 điểm": "Sai kết quả hoàn toàn do sai phương pháp"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Trình bày bài giải",
+              "cells": [
+                "Trình bày bài giải",
+                "15",
+                "Cẩn thận, rõ ràng",
+                "Khá cẩn thận, vài chỗ chưa rõ ràng",
+                "Tương đối cẩn thận, nhiều chỗ chưa rõ ràng",
+                "Cẩu thả và chưa rõ ràng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Trình bày bài giải",
+                "Trọng số %": "15",
+                "Tốt 8.5 – 10 điểm": "Cẩn thận, rõ ràng",
+                "Khá 6.5 – 8.4 điểm": "Khá cẩn thận, vài chỗ chưa rõ ràng",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối cẩn thận, nhiều chỗ chưa rõ ràng",
+                "Kém 0 – 3.9 điểm": "Cẩu thả và chưa rõ ràng"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-tikt1135#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": null,
+          "cells": [
+            "",
+            ""
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+          "cells": [
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)",
+          "cells": [
+            "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)",
+            "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 1,
+      "table_id": "vi-tikt1135#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "source_block": 3,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Việt):",
+          "cells": [
+            "- Tên học phần (tiếng Việt):",
+            "Phát triển phần mềm mã nguồn mở và ứng dụng"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Tên học phần (tiếng Anh):",
+          "cells": [
+            "- Tên học phần (tiếng Anh):",
+            "Development of Open Source Software and Applications"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Mã số học phần:",
+          "cells": [
+            "- Mã số học phần:",
+            "TIKT1135"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Trình độ đào tạo:",
+          "cells": [
+            "- Trình độ đào tạo:",
+            "Đại học"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Số tín chỉ:",
+          "cells": [
+            "- Số tín chỉ:",
+            "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số tiết lý thuyết:",
+          "cells": [
+            "+ Số tiết lý thuyết:",
+            "25"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 6,
+          "row_label": "+ Số giờ tự học:",
+          "cells": [
+            "+ Số giờ tự học:",
+            "105"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 7,
+          "row_label": "- Các học phần tiên quyết:",
+          "cells": [
+            "- Các học phần tiên quyết:",
+            "CNTT1128 - Cơ sở lập trình"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "table_id": "vi-tikt1135#tbl003",
+      "table_name": "Giảng viên tham gia giảng dạy:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 8,
+      "column_labels": [
+        "TT",
+        "Họ và tên",
+        "Số điện thoại",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "ThS. Phùng Tiến Hải",
+            "0903216863",
+            "phungtienhai@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "1",
+            "Họ và tên": "ThS. Phùng Tiến Hải",
+            "Số điện thoại": "0903216863",
+            "Email": "phungtienhai@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS Trần Quang Yên",
+            "0982425588",
+            "yentq@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "2",
+            "Họ và tên": "TS Trần Quang Yên",
+            "Số điện thoại": "0982425588",
+            "Email": "yentq@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "ThS. Trần Dũng Khánh",
+            "0919900084",
+            "kanmoloko@gmail.com"
+          ],
+          "column_map": {
+            "TT": "3",
+            "Họ và tên": "ThS. Trần Dũng Khánh",
+            "Số điện thoại": "0919900084",
+            "Email": "kanmoloko@gmail.com"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-tikt1135#tbl004",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 25,
+      "column_labels": [
+        "Mã/Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR (PLO) của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã/Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR (PLO) của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Hiểu và làm chủ quy trình phát triển phần mềm mã nguồn mở Phát triển, vận hành và bảo trì các phần mềm dùng mã nguồn mở trong hệ thống thông tin quản lý ứng dụng cho các lĩnh vực kinh tế, quản lý và quản trị kinh doanh",
+            "PLO1.3.3.1 PLO1.3.3.3 PLO1.5"
+          ],
+          "column_map": {
+            "Mã/Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Hiểu và làm chủ quy trình phát triển phần mềm mã nguồn mở Phát triển, vận hành và bảo trì các phần mềm dùng mã nguồn mở trong hệ thống thông tin quản lý ứng dụng cho các lĩnh vực kinh tế, quản lý và quản trị kinh doanh",
+            "CĐR (PLO) của CTĐT": "PLO1.3.3.1 PLO1.3.3.3 PLO1.5"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Có kỹ năng giao tiếp bằng văn bản; viết báo cáo và thuyết trình chuyên môn liên quan tới phát triển và ứng dụng phần mềm mã nguồn mở cho tổ chức, doanh nghiệp; Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển và ứng dụng phần mềm mã nguồn mở Có khả năng vận dụng được những nguyên tắc cơ bản và chuyên sâu của quy trình phát triển phần mềm, làm chủ việc phát triển và triển khai ứng dụng phần mềm mã nguồn mở",
+            "PLO2.1.2.1 PLO2.1.2.3 PLO2.2.3"
+          ],
+          "column_map": {
+            "Mã/Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Có kỹ năng giao tiếp bằng văn bản; viết báo cáo và thuyết trình chuyên môn liên quan tới phát triển và ứng dụng phần mềm mã nguồn mở cho tổ chức, doanh nghiệp; Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển và ứng dụng phần mềm mã nguồn mở Có khả năng vận dụng được những nguyên tắc cơ bản và chuyên sâu của quy trình phát triển phần mềm, làm chủ việc phát triển và triển khai ứng dụng phần mềm mã nguồn mở",
+            "CĐR (PLO) của CTĐT": "PLO2.1.2.1 PLO2.1.2.3 PLO2.2.3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm Có năng lực tổ chức các hoạt động nhóm Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực hệ thống thông tin",
+            "PLO3.1.1 PLO3.2.3"
+          ],
+          "column_map": {
+            "Mã/Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm Có năng lực tổ chức các hoạt động nhóm Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực hệ thống thông tin",
+            "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.2.3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "vi-tikt1135#tbl005",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 29,
+      "column_labels": [
+        "Mục tiêu HP",
+        "CLOs",
+        "Mô tả CLOs*",
+        "Mức độ đạt được**"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "[1]",
+            "CLOs": "[2]",
+            "Mô tả CLOs*": "[3]",
+            "Mức độ đạt được**": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.1",
+            "Hiểu rõ các thuật ngữ và khái niệm liên quan đến phần mềm mã nguồn mở",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG1",
+            "CLOs": "CLO1.1",
+            "Mô tả CLOs*": "Hiểu rõ các thuật ngữ và khái niệm liên quan đến phần mềm mã nguồn mở",
+            "Mức độ đạt được**": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.2",
+            "Giải thích được một số giấy phép mã nguồn mở",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG1",
+            "CLOs": "CLO1.2",
+            "Mô tả CLOs*": "Giải thích được một số giấy phép mã nguồn mở",
+            "Mức độ đạt được**": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.3",
+            "Hiểu rõ các chức năng và triển khai ứng dụng được một số phần mềm mã nguồn mở mà tổ chức, doanh nghiệp thường có nhu cầu sử dụng",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG1",
+            "CLOs": "CLO1.3",
+            "Mô tả CLOs*": "Hiểu rõ các chức năng và triển khai ứng dụng được một số phần mềm mã nguồn mở mà tổ chức, doanh nghiệp thường có nhu cầu sử dụng",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.4",
+            "Vận dụng được quy trình phát triển, triển khai ứng dụng phần mềm mã nguồn mở",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG1",
+            "CLOs": "CLO1.4",
+            "Mô tả CLOs*": "Vận dụng được quy trình phát triển, triển khai ứng dụng phần mềm mã nguồn mở",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.5",
+            "Thực hiện thành thạo việc phát triển và triển khai các phần mềm mã nguồn mở cho tổ chức, doanh nghiệp",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG1",
+            "CLOs": "CLO1.5",
+            "Mô tả CLOs*": "Thực hiện thành thạo việc phát triển và triển khai các phần mềm mã nguồn mở cho tổ chức, doanh nghiệp",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.1",
+            "Nâng cao các kỹ năng phân tích, thiết kế, phát triển phần mềm dựa trên mã nguồn mở",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG2",
+            "CLOs": "CLO2.1",
+            "Mô tả CLOs*": "Nâng cao các kỹ năng phân tích, thiết kế, phát triển phần mềm dựa trên mã nguồn mở",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.2",
+            "Nâng cao kỹ năng tự tìm hiểu, đọc tài liệu về phần mềm mã nguồn mở; quy trình phát triển phần mềm mã nguồn mở và triển khai ứng dụng",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG2",
+            "CLOs": "CLO2.2",
+            "Mô tả CLOs*": "Nâng cao kỹ năng tự tìm hiểu, đọc tài liệu về phần mềm mã nguồn mở; quy trình phát triển phần mềm mã nguồn mở và triển khai ứng dụng",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.1",
+            "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG3",
+            "CLOs": "CLO3.1",
+            "Mô tả CLOs*": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.2",
+            "Có năng lực tổ chức hoạt động nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG3",
+            "CLOs": "CLO3.2",
+            "Mô tả CLOs*": "Có năng lực tổ chức hoạt động nhóm.",
+            "Mức độ đạt được**": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.3",
+            "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "CG3",
+            "CLOs": "CLO3.3",
+            "Mô tả CLOs*": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "Mức độ đạt được**": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 20,
+      "table_id": "vi-tikt1135#tbl006",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.1. Đánh giá học phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "anh-gia-hoc-phan"
+      ],
+      "source_block": 33,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung/Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận, làm bài tập thực hành tại các buổi seminar",
+            "Tuần 1-15",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Phụ lục 2 Rubric 1",
+            "10%",
+            "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung/Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận, làm bài tập thực hành tại các buổi seminar",
+            "Thời điểm": "Tuần 1-15",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài số 1 (cá nhân) Chủ đề (giảng viên đưa ra bài tập tình huống)",
+            "Tuần 8",
+            "CLO1.1 CLO1.2",
+            "Phụ lục 2 Rubric 2",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Bài số 1 (cá nhân) Chủ đề (giảng viên đưa ra bài tập tình huống)",
+            "Thời điểm": "Tuần 8",
+            "CLOs": "CLO1.1 CLO1.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Nội dung giải quyết (kết hợp với phần mềm)",
+            "Tuần 8",
+            "CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 2",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Nội dung giải quyết (kết hợp với phần mềm)",
+            "Thời điểm": "Tuần 8",
+            "CLOs": "CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Nhận xét Thời gian: 60 phút; trọng số 20%",
+            "Tuần 8",
+            "CLO2.2",
+            "Phụ lục 2 Rubric 2",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Nhận xét Thời gian: 60 phút; trọng số 20%",
+            "Thời điểm": "Tuần 8",
+            "CLOs": "CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm Chia mỗi nhóm từ 5-7 sinh viên",
+            "Tuần 15",
+            "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Bài tập nhóm Chia mỗi nhóm từ 5-7 sinh viên",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Lựa chọn chủ đề",
+            "Tuần 15",
+            "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Lựa chọn chủ đề",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Xác định vấn đề cần giải quyết, khảo sát thu thập tài liệu phục vụ việc giải quyết vấn đề",
+            "Tuần 15",
+            "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Xác định vấn đề cần giải quyết, khảo sát thu thập tài liệu phục vụ việc giải quyết vấn đề",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Triển khai thực hiện quy trình phát triển một phần mềm ứng dụng dựa trên mã nguồn mở Lập kế hoạch các mục công việc",
+            "Tuần 15",
+            "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Triển khai thực hiện quy trình phát triển một phần mềm ứng dụng dựa trên mã nguồn mở Lập kế hoạch các mục công việc",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Thực hiện kế hoạch công việc",
+            "Tuần 15",
+            "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Thực hiện kế hoạch công việc",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Đánh giá những thuận lợi, khó khăn khi thực hiện các hạng mục theo kế hoạch công việc Mỗi nhóm trình bày 15 phút; tỷ trọng 20%",
+            "Tuần 15",
+            "CLO1.5",
+            "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung/Bài đánh giá": "Đánh giá những thuận lợi, khó khăn khi thực hiện các hạng mục theo kế hoạch công việc Mỗi nhóm trình bày 15 phút; tỷ trọng 20%",
+            "Thời điểm": "Tuần 15",
+            "CLOs": "CLO1.5",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3 Tính khả thi của đề xuất",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Bài thi cuối kỳ Thời lượng 60’ Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại",
+            "Theo lịch của nhà trường",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Phụ lục 1 Ma trận đề thi",
+            "50%",
+            "PLO 1.3 PLO 1.4 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung/Bài đánh giá": "Bài thi cuối kỳ Thời lượng 60’ Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại",
+            "Thời điểm": "Theo lịch của nhà trường",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 1 Ma trận đề thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 22,
+      "table_id": "vi-tikt1135#tbl007",
+      "table_name": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+      "section_path": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "section_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "source_block": 41,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Đề cương học phần",
+            "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+            "",
+            "CLO1.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Tài liệu đọc": "Đề cương học phần",
+            "Hoạt động dạy và học": "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chương 1: Giới thiệu tổng quan 1.1. Một số khái niệm và quá trình phát triển của phần mềm mã nguồn mở 1.2. Cộng đồng phát triển phần mềm mã nguồn mở 1.3. Tiềm năng ứng dụng của phần mềm mã nguồn mở 1.4. Một số vấn đề quan tâm đối với phần mềm mã nguồn mở Chương 2: Vấn đề pháp lý đối với phần mềm mã nguồn mở 2.1. Tổng quan về Giấy phép phần mềm mã nguồn mở 2.2. Các giấy phép: GNU, LGPL và Mozilla Licences 2.3. Các giấy phép: MIT, BSD, APACHE 2.4. Các giấy phép: QPL, Artistic 2.5. Tác động pháp lý của cấp phép phần mềm mã nguồn mở 2.6. Phát triển phần mềm mã nguồn mở và giấy phép phần mềm mã nguồn mở",
+            "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 1, 2 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.1 CLO1.2 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Chương 1: Giới thiệu tổng quan 1.1. Một số khái niệm và quá trình phát triển của phần mềm mã nguồn mở 1.2. Cộng đồng phát triển phần mềm mã nguồn mở 1.3. Tiềm năng ứng dụng của phần mềm mã nguồn mở 1.4. Một số vấn đề quan tâm đối với phần mềm mã nguồn mở Chương 2: Vấn đề pháp lý đối với phần mềm mã nguồn mở 2.1. Tổng quan về Giấy phép phần mềm mã nguồn mở 2.2. Các giấy phép: GNU, LGPL và Mozilla Licences 2.3. Các giấy phép: MIT, BSD, APACHE 2.4. Các giấy phép: QPL, Artistic 2.5. Tác động pháp lý của cấp phép phần mềm mã nguồn mở 2.6. Phát triển phần mềm mã nguồn mở và giấy phép phần mềm mã nguồn mở",
+            "Tài liệu đọc": "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 1, 2 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1, 2",
+            "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+            "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài Sinh viên: - Đọc trước tài liệu -Tham gia thảo luận, trả lời câu hỏi",
+            "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Thảo luận",
+            "CLO1.1 CLO1.2 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1, 2",
+            "Tài liệu đọc": "[1] Chương 1, 2 [3] Chapter 1 , 13 [4] Chapter 1; 2; 3; 4; 6; 7",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài Sinh viên: - Đọc trước tài liệu -Tham gia thảo luận, trả lời câu hỏi",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Thảo luận",
+            "CLOs": "CLO1.1 CLO1.2 CLO2.2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2 Chương 3: Hệ điều hành mã nguồn mở 3.1. Giới thiệu 3.2. Các bản phân phối Linux 3.3. Sử dụng cơ bản Ubuntu",
+            "[1] Chương 3",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 3 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2 Chương 3: Hệ điều hành mã nguồn mở 3.1. Giới thiệu 3.2. Các bản phân phối Linux 3.3. Sử dụng cơ bản Ubuntu",
+            "Tài liệu đọc": "[1] Chương 3",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 3 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Seminar 2 - Tóm tắt lại kiến thức chương 3 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành HĐH mã nguồn mở",
+            "[1] Chương 3",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận và thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Thảo luận, thực hành",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Seminar 2 - Tóm tắt lại kiến thức chương 3 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành HĐH mã nguồn mở",
+            "Tài liệu đọc": "[1] Chương 3",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận và thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Thảo luận, thực hành",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3 Chương 4: Ngôn ngữ lập trình mã nguồn mở 4.1. Giới thiệu 4.2. Một số NNLT mã nguồn mở 4.3. Sử dụng cơ bản NNLT Python",
+            "[1] Chương 4",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 4 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Lecture 3 Chương 4: Ngôn ngữ lập trình mã nguồn mở 4.1. Giới thiệu 4.2. Một số NNLT mã nguồn mở 4.3. Sử dụng cơ bản NNLT Python",
+            "Tài liệu đọc": "[1] Chương 4",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 4 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành NNLT mã nguồn mở",
+            "[1] Chương 4",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.1"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành NNLT mã nguồn mở",
+            "Tài liệu đọc": "[1] Chương 4",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.1"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4 Chương 5: Hệ quản trị CSDL mã nguồn mở 5.1. Giới thiệu 5.2. Sử dụng cơ bản Hệ quản trị cơ sở dữ liệu MySQL",
+            "[1] Chương 5",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4 Chương 5: Hệ quản trị CSDL mã nguồn mở 5.1. Giới thiệu 5.2. Sử dụng cơ bản Hệ quản trị cơ sở dữ liệu MySQL",
+            "Tài liệu đọc": "[1] Chương 5",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 Tóm tắt lại kiến thức đã học tại buổi Lecture 4 Thảo luận về các ví dụ, câu hỏi của Seminar 4 Thực hành DBMS mã nguồn mở",
+            "[1] Chương 5",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4 - Làm bài tập thực hành",
+            "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 Tóm tắt lại kiến thức đã học tại buổi Lecture 4 Thảo luận về các ví dụ, câu hỏi của Seminar 4 Thực hành DBMS mã nguồn mở",
+            "Tài liệu đọc": "[1] Chương 5",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4 - Làm bài tập thực hành",
+            "CLOs": "CLO1.2 CLO1.3 CLO1.5 CLO2.2"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5 Chương 6: Phần mềm ứng dụng mã nguồn mở 6.1. Bộ phần mềm ứng dụng trong văn phòng 6.2. Phần mềm quản trị nội dung 6.3. Phần mềm ERP",
+            "[1] Chương 6",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 6 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5 Chương 6: Phần mềm ứng dụng mã nguồn mở 6.1. Bộ phần mềm ứng dụng trong văn phòng 6.2. Phần mềm quản trị nội dung 6.3. Phần mềm ERP",
+            "Tài liệu đọc": "[1] Chương 6",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 6 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Seminar 5 Tóm tắt lại kiến thức đã học tại buổi Lecture 5 Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành",
+            "[1] Chương 6",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập thực hành",
+            "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Seminar 5 Tóm tắt lại kiến thức đã học tại buổi Lecture 5 Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành",
+            "Tài liệu đọc": "[1] Chương 6",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập thực hành",
+            "CLOs": "CLO1.3 CLO1.5 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 6 Chương 7: Nguyên lý và mô hình Phát triển phần mềm 7.1. Nguyên lý phát triển phần mềm mã nguồn mở 7.2. Một số mô hình phát triển phần mềm Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.1. Giới thiệu 8.2. Môi trường Eclipse",
+            "[1] Chương 7, 8",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 7, 8 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.4 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Lecture 6 Chương 7: Nguyên lý và mô hình Phát triển phần mềm 7.1. Nguyên lý phát triển phần mềm mã nguồn mở 7.2. Một số mô hình phát triển phần mềm Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.1. Giới thiệu 8.2. Môi trường Eclipse",
+            "Tài liệu đọc": "[1] Chương 7, 8",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 7, 8 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Seminar 6 Tóm tắt lại kiến thức đã học tại buổi Lecture 6 Thảo luận về các ví dụ, câu hỏi của Seminar 6 Thực hành Eclipse",
+            "[1] Chương 7, 8",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 6 - Làm bài tập thực hành",
+            "CLO1.4 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Seminar 6 Tóm tắt lại kiến thức đã học tại buổi Lecture 6 Thảo luận về các ví dụ, câu hỏi của Seminar 6 Thực hành Eclipse",
+            "Tài liệu đọc": "[1] Chương 7, 8",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 6 - Làm bài tập thực hành",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 7 Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.3. Môi trường NetBeans 8.4. Một số môi trường phát triển khác Chương 9: Hệ thống kiểm soát phiên bản 9.1. Giới thiệu 9.2. Hệ thống kiểm soát phiên bản GIT",
+            "[1] Chương 8, 9",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 8, 9 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "",
+            "CLO1.4 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Lecture 7 Chương 8: Môi trường phát triển phần mềm mã nguồn mở và tiện ích GNU Building System 8.3. Môi trường NetBeans 8.4. Một số môi trường phát triển khác Chương 9: Hệ thống kiểm soát phiên bản 9.1. Giới thiệu 9.2. Hệ thống kiểm soát phiên bản GIT",
+            "Tài liệu đọc": "[1] Chương 8, 9",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Giới thiệu ví dụ trong slide Hướng dẫn đọc giáo trình, tài liệu tham khảo Sinh viên Học ở nhà: đọc trước tài liệu chương 8, 9 và các tài liệu liên quan Chia nhóm, Thảo luận",
+            "Đánh giá": "",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Seminar 7 Tóm tắt lại kiến thức đã học tại buổi Lecture 7 Thảo luận về các ví dụ, câu hỏi của Seminar 7 Thực hành NetBeans và một số môi trường phát triển khác Thực hành Hệ thống quản lý phiên bản GIT",
+            "[1] Chương 8, 9",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 7 - Làm bài tập thực hành",
+            "CLO1.4 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Seminar 7 Tóm tắt lại kiến thức đã học tại buổi Lecture 7 Thảo luận về các ví dụ, câu hỏi của Seminar 7 Thực hành NetBeans và một số môi trường phát triển khác Thực hành Hệ thống quản lý phiên bản GIT",
+            "Tài liệu đọc": "[1] Chương 8, 9",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 7 - Làm bài tập thực hành",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Lecture 8/Seminar 8 Thuyết trình bài tập nhóm Ôn tập Tổng kết",
+            "",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi Sinh viên: - Thảo luận - Làm bài kiểm tra cá nhân lần 2 theo cách thuyết trình: Nhóm thuyết trình - Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm - Hỏi đáp",
+            "- Trả lời câu hỏi thuộc nội dung Seminar 8 - Làm bài kiểm tra cá nhân lần 2 (Rubric 3)",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Lecture 8/Seminar 8 Thuyết trình bài tập nhóm Ôn tập Tổng kết",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi Sinh viên: - Thảo luận - Làm bài kiểm tra cá nhân lần 2 theo cách thuyết trình: Nhóm thuyết trình - Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm - Hỏi đáp",
+            "Đánh giá": "- Trả lời câu hỏi thuộc nội dung Seminar 8 - Làm bài kiểm tra cá nhân lần 2 (Rubric 3)",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "Toàn bộ nội dung học phần",
+            "Thi kết thúc học phần",
+            "Phụ lục 1: Ma trận đề thi Rubric 4",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "Toàn bộ nội dung học phần",
+            "Hoạt động dạy và học": "Thi kết thúc học phần",
+            "Đánh giá": "Phụ lục 1: Ma trận đề thi Rubric 4",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 37,
+      "table_id": "vi-tikt1135#tbl008",
+      "table_name": "Tháng 7 năm 2024",
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time):"
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "source_block": 65,
+      "column_labels": [
+        "TRƯỞNG KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS. Nguyễn Thị Bạch Tuyết",
+          "cells": [
+            "TS. Nguyễn Thị Bạch Tuyết",
+            "GS.TS. Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "TRƯỞNG KHOA": "TS. Nguyễn Thị Bạch Tuyết",
+            "HIỆU TRƯỞNG": "GS.TS. Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 43,
+      "table_id": "vi-tikt1135#tbl009",
+      "table_name": "Ma trận đề thi tự luận:",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 74,
+      "column_labels": [
+        "Nội dung",
+        "CLO",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Phân tích",
+        "Tổng"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Chương 1, 2",
+          "cells": [
+            "Chương 1, 2",
+            "1.2",
+            "0.5",
+            "0.5",
+            "",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 1, 2",
+            "CLO": "1.2",
+            "Nhớ": "0.5",
+            "Hiểu": "0.5",
+            "Vận dụng": "",
+            "Phân tích": "",
+            "Tổng": "1"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chương 3,4,5,6",
+          "cells": [
+            "Chương 3,4,5,6",
+            "1.3",
+            "",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 3,4,5,6",
+            "CLO": "1.3",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Phân tích": "",
+            "Tổng": "1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Chương 3,4,5,6",
+          "cells": [
+            "Chương 3,4,5,6",
+            "1.5",
+            "",
+            "",
+            "1",
+            "",
+            "1"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 3,4,5,6",
+            "CLO": "1.5",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Phân tích": "",
+            "Tổng": "1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Chương 7,8,9",
+          "cells": [
+            "Chương 7,8,9",
+            "1.4",
+            "",
+            "",
+            "1",
+            "1",
+            "2"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 7,8,9",
+            "CLO": "1.4",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "1",
+            "Phân tích": "1",
+            "Tổng": "2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": null,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Nội dung": "",
+            "CLO": "",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Phân tích": "",
+            "Tổng": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Tổng số câu",
+          "cells": [
+            "Tổng số câu",
+            "Tổng số câu",
+            "",
+            "",
+            "",
+            "",
+            "5"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu",
+            "CLO": "Tổng số câu",
+            "Nhớ": "",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Phân tích": "",
+            "Tổng": "5"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "Tỷ trọng",
+            "10%",
+            "10%",
+            "60%",
+            "20%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLO": "Tỷ trọng",
+            "Nhớ": "10%",
+            "Hiểu": "10%",
+            "Vận dụng": "60%",
+            "Phân tích": "20%",
+            "Tổng": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 47,
+      "table_id": "vi-tikt1135#tbl010",
+      "table_name": "Đánh giá qua 8 buổi seminar",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 80,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 50,
+      "table_id": "vi-tikt1135#tbl011",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 83,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+          "cells": [
+            "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 56,
+      "table_id": "vi-tikt1135#tbl012",
+      "table_name": "Thời gian: 45 phút",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 89,
+      "column_labels": [
+        "Tiêu chí",
+        "Trọng số (%)",
+        "Tốt 8.5 – 10 điểm",
+        "Khá 6.5 – 8.4 điểm",
+        "Trung bình 4.0 – 6.4 điểm",
+        "Kém 0 – 3.9 điểm"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Thái độ tham dự",
+          "cells": [
+            "Thái độ tham dự",
+            "20",
+            "Tích cực nêu vấn đề thảo luận và chia sẻ",
+            "Có tham gia thảo luận và chia sẻ",
+            "Thỉnh thoảng tham gia thảo luận và chia sẻ",
+            "Không tham gia thảo luận và chia sẻ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Thái độ tham dự",
+            "Trọng số (%)": "20",
+            "Tốt 8.5 – 10 điểm": "Tích cực nêu vấn đề thảo luận và chia sẻ",
+            "Khá 6.5 – 8.4 điểm": "Có tham gia thảo luận và chia sẻ",
+            "Trung bình 4.0 – 6.4 điểm": "Thỉnh thoảng tham gia thảo luận và chia sẻ",
+            "Kém 0 – 3.9 điểm": "Không tham gia thảo luận và chia sẻ"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Kết quả thực hành",
+          "cells": [
+            "Kết quả thực hành",
+            "40",
+            "Kết quả thực hành đầy đủ và đáp ứng hoàn toàn các yêu cầu",
+            "Kết quả thực hành đầy đủ và đáp ứng khá tốt các yêu cầu, còn sai sót nhỏ",
+            "Kết quả thực hành đầy đủ và đáp ứng tương đối các yêu cầu, có 1 sai sót quan trọng",
+            "Kết quả thực hành không đầy đủ/Không đáp ứng yêu cầu"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kết quả thực hành",
+            "Trọng số (%)": "40",
+            "Tốt 8.5 – 10 điểm": "Kết quả thực hành đầy đủ và đáp ứng hoàn toàn các yêu cầu",
+            "Khá 6.5 – 8.4 điểm": "Kết quả thực hành đầy đủ và đáp ứng khá tốt các yêu cầu, còn sai sót nhỏ",
+            "Trung bình 4.0 – 6.4 điểm": "Kết quả thực hành đầy đủ và đáp ứng tương đối các yêu cầu, có 1 sai sót quan trọng",
+            "Kém 0 – 3.9 điểm": "Kết quả thực hành không đầy đủ/Không đáp ứng yêu cầu"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Kết quả thực hành",
+          "cells": [
+            "Kết quả thực hành",
+            "30",
+            "Giải thích và chứng minh rõ ràng",
+            "Giải thích và chứng minh khá rõ ràng",
+            "Giải thích và chứng minh tương đối rõ ràng",
+            "Giải thích và chứng minh không rõ ràng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kết quả thực hành",
+            "Trọng số (%)": "30",
+            "Tốt 8.5 – 10 điểm": "Giải thích và chứng minh rõ ràng",
+            "Khá 6.5 – 8.4 điểm": "Giải thích và chứng minh khá rõ ràng",
+            "Trung bình 4.0 – 6.4 điểm": "Giải thích và chứng minh tương đối rõ ràng",
+            "Kém 0 – 3.9 điểm": "Giải thích và chứng minh không rõ ràng"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Báo cáo thực hành",
+          "cells": [
+            "Báo cáo thực hành",
+            "10",
+            "Đúng format và đúng hạn",
+            "Điềm tuỳ theo mức độ đáp ứng",
+            "Điềm tuỳ theo mức độ đáp ứng",
+            "Điềm tuỳ theo mức độ đáp ứng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Báo cáo thực hành",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Đúng format và đúng hạn",
+            "Khá 6.5 – 8.4 điểm": "Điềm tuỳ theo mức độ đáp ứng",
+            "Trung bình 4.0 – 6.4 điểm": "Điềm tuỳ theo mức độ đáp ứng",
+            "Kém 0 – 3.9 điểm": "Điềm tuỳ theo mức độ đáp ứng"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 60,
+      "table_id": "vi-tikt1135#tbl013",
+      "table_name": "Đánh giá qua kết quả theo nhóm",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 94,
+      "column_labels": [
+        "Tiêu chí",
+        "Trọng số (%)",
+        "Tốt 8.5 – 10 điểm",
+        "Khá 6.5 – 8.4 điểm",
+        "Trung bình 4.0 – 6.4 điểm",
+        "Kém 0 – 3.9 điểm"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "10",
+            "Phong phú hơn yêu cầu",
+            "Đầy đủ theo yêu cầu",
+            "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Thiếu nhiều nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+            "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+            "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "20",
+            "Chính xác, khoa học",
+            "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "20",
+            "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+            "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Cấu trúc bài và slides rất hợp lý",
+            "Cấu trúc bài và slides khá hợp lý",
+            "Cấu trúc bài và slides tương đối hợp lý",
+            "Cấu trúc bài và slides chưa hợp lý"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+            "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+            "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+            "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Rất trực quan và thẩm mỹ",
+            "Khá trực quan và thẩm mỹ",
+            "Tương đối trực quan và thẩm mỹ",
+            "Ít/Không trực quan và thẩm mỹ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+            "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+            "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Kỹ năng trình bày",
+          "cells": [
+            "Kỹ năng trình bày",
+            "10",
+            "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kỹ năng trình bày",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Tương tác cử chỉ",
+          "cells": [
+            "Tương tác cử chỉ",
+            "10",
+            "Tương tác bằng mắt và cử chỉ tốt",
+            "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Không tương tác bằng mắt và cử chỉ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Tương tác cử chỉ",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+            "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Quản lý thời gian",
+          "cells": [
+            "Quản lý thời gian",
+            "10",
+            "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Quá giờ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Quản lý thời gian",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Kém 0 – 3.9 điểm": "Quá giờ"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Trả lời câu hỏi",
+          "cells": [
+            "Trả lời câu hỏi",
+            "10",
+            "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Không trả lời được đa số câu hỏi đặt đúng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Trả lời câu hỏi",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Sự phối hợp trong nhóm",
+          "cells": [
+            "Sự phối hợp trong nhóm",
+            "10",
+            "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Không thề hiện sự kết nối trong nhóm"
+          ],
+          "column_map": {
+            "Tiêu chí": "Sự phối hợp trong nhóm",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 62,
+      "table_id": "vi-tikt1135#tbl014",
+      "table_name": "Rubric 4. Đánh giá bài thi cuối kỳ",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 97,
+      "column_labels": [
+        "Tiêu chí",
+        "Trọng số %",
+        "Tốt 8.5 – 10 điểm",
+        "Khá 6.5 – 8.4 điểm",
+        "Trung bình 4.0 – 6.4 điểm",
+        "Kém 0 – 3.9 điểm"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Phương pháp giải",
+          "cells": [
+            "Phương pháp giải",
+            "30",
+            "Cách giải sáng tạo /nhiều cách",
+            "Đúng phương pháp",
+            "Đúng phương pháp nhưng chưa đến kết quả",
+            "Sai phương pháp"
+          ],
+          "column_map": {
+            "Tiêu chí": "Phương pháp giải",
+            "Trọng số %": "30",
+            "Tốt 8.5 – 10 điểm": "Cách giải sáng tạo /nhiều cách",
+            "Khá 6.5 – 8.4 điểm": "Đúng phương pháp",
+            "Trung bình 4.0 – 6.4 điểm": "Đúng phương pháp nhưng chưa đến kết quả",
+            "Kém 0 – 3.9 điểm": "Sai phương pháp"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lập luận",
+          "cells": [
+            "Lập luận",
+            "40",
+            "Suy luận logic và căn cứ vững chắc",
+            "Suy luận logic và có căn cứ, còn sai sót nhỏ",
+            "Suy luận logic và có căn cứ, còn sai sót khá quan trọng (tuỳ mức độ: 2.0-1.0 đ)",
+            "Suy luận thiếu logic, không có căn cứ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Lập luận",
+            "Trọng số %": "40",
+            "Tốt 8.5 – 10 điểm": "Suy luận logic và căn cứ vững chắc",
+            "Khá 6.5 – 8.4 điểm": "Suy luận logic và có căn cứ, còn sai sót nhỏ",
+            "Trung bình 4.0 – 6.4 điểm": "Suy luận logic và có căn cứ, còn sai sót khá quan trọng (tuỳ mức độ: 2.0-1.0 đ)",
+            "Kém 0 – 3.9 điểm": "Suy luận thiếu logic, không có căn cứ"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Kết quả",
+          "cells": [
+            "Kết quả",
+            "15",
+            "Kết quả đúng",
+            "Kết quả có sai sót, ít ảnh hưởng",
+            "Kết quả sai sót ảnh hưởng nhiều (tuỳ mức độ: 1.0-0.5 đ)",
+            "Sai kết quả hoàn toàn do sai phương pháp"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kết quả",
+            "Trọng số %": "15",
+            "Tốt 8.5 – 10 điểm": "Kết quả đúng",
+            "Khá 6.5 – 8.4 điểm": "Kết quả có sai sót, ít ảnh hưởng",
+            "Trung bình 4.0 – 6.4 điểm": "Kết quả sai sót ảnh hưởng nhiều (tuỳ mức độ: 1.0-0.5 đ)",
+            "Kém 0 – 3.9 điểm": "Sai kết quả hoàn toàn do sai phương pháp"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Trình bày bài giải",
+          "cells": [
+            "Trình bày bài giải",
+            "15",
+            "Cẩn thận, rõ ràng",
+            "Khá cẩn thận, vài chỗ chưa rõ ràng",
+            "Tương đối cẩn thận, nhiều chỗ chưa rõ ràng",
+            "Cẩu thả và chưa rõ ràng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Trình bày bài giải",
+            "Trọng số %": "15",
+            "Tốt 8.5 – 10 điểm": "Cẩn thận, rõ ràng",
+            "Khá 6.5 – 8.4 điểm": "Khá cẩn thận, vài chỗ chưa rõ ràng",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối cẩn thận, nhiều chỗ chưa rõ ràng",
+            "Kém 0 – 3.9 điểm": "Cẩu thả và chưa rõ ràng"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "Khoa/Viện quản lý: Khoa Hệ thống thông tin quản lý\nĐịa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên tham gia giảng dạy:\nHọc phần Phát triển phần mềm mã nguồn mở và ứng dụng nhằm giúp cho sinh viên hiểu được: (1) các khái niệm liên quan đến phần mềm mã nguồn mở; (2) giấy phép trong mã nguồn mở; (3) những lợi ích của việc sử dụng phần mềm mã nguồn mở trong việc phát triển các ứng dụng. Sinh viên sẽ được giới thiệu một số phần mềm mã nguồn mở thường được dùng trong việc phát triển các ứng dụng như các DBMS, Web Server,... Một số môi trường phát triển ứng dụng mã nguồn mở như Eclipse, Netbean cũng được giới thiệu trong môn học\n[1] Trần Quang Yên, Phùng Tiến Hải (2024), Giáo trình Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD\n[2] Free/Open source software development, Stefan Koch, Idea Group Publishing 2005, ISBN 1-59140-371-5\n[3] Open Source Software Implementation and Management, Paul Kavanagh, Elsevier Digital Press 2004, ISBN: 1-55558-320-2\n[4] Understanding Open Source and Free Software Licensing, Andrew M. St. Laurent, O'Reilly Media, Inc.2004, ISBN: 978-0-59-600581-8\n[5] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[6] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013\n[7] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[8] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và nội dung giảng dạy\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n- Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang điểm 10)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.\nTháng 7 năm 2024\nTrọng số trong điểm học phần: 50%\nHình thức: Thi viết trên giấy\nThời gian: 60 phút\nSố câu hỏi: 5 câu. Mỗi câu 2,0 điểm.\nMa trận đề thi tự luận:\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 8 buổi seminar\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá bài kiểm tra cá nhân lần 1\nTrọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nĐánh giá qua kết quả làm bài kiểm tra theo hình thức thực hành\nTổng số câu hỏi: 4 câu, mỗi câu 0,25 điểm.\nThời gian: 45 phút\nRubric 3. Đánh giá thuyết trình theo nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nĐánh giá qua kết quả theo nhóm\nRubric 4. Đánh giá bài thi cuối kỳ"
+}

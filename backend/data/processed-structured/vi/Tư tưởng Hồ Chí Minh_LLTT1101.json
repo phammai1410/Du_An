@@ -1,0 +1,4080 @@
+{
+  "doc_id": "vi-lltt1101",
+  "language": "vi",
+  "course_name_stem": "Tư tưởng Hồ Chí Minh",
+  "course_variant": "",
+  "course_code": "LLTT1101",
+  "source_filename": "Tư tưởng Hồ Chí Minh_LLTT1101.docx",
+  "source_relpath": "data\\raw\\vi\\Tư tưởng Hồ Chí Minh_LLTT1101.docx",
+  "source_hash": "09bfb00fee0956eee44a83b991c233cf",
+  "source_modified": "2025-10-11T10:42:50.659125+00:00",
+  "processed_at": "2025-10-17T16:55:24.603104+00:00",
+  "stats": {
+    "paragraphs": 52,
+    "tables": 13,
+    "sections": 17
+  },
+  "sections": [
+    {
+      "section_id": "vi-lltt1101#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 1,
+          "table_id": "vi-lltt1101#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 3,
+          "column_labels": [
+            "- Tên học phần (tiếng Việt):",
+            "Tư tưởng Hồ Chí Minh"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Tên học phần (tiếng Anh)",
+              "cells": [
+                "- Tên học phần (tiếng Anh)",
+                "Ho Chi Minh Ideology"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Tên học phần (tiếng Anh)",
+                "Tư tưởng Hồ Chí Minh": "Ho Chi Minh Ideology"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Mã số học phần",
+              "cells": [
+                "- Mã số học phần",
+                "LLTT1101"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Mã số học phần",
+                "Tư tưởng Hồ Chí Minh": "LLTT1101"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Thuộc khối kiến thức",
+              "cells": [
+                "- Thuộc khối kiến thức",
+                "Kiến thức giáo dục đại cương"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Thuộc khối kiến thức",
+                "Tư tưởng Hồ Chí Minh": "Kiến thức giáo dục đại cương"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Số tín chỉ",
+              "cells": [
+                "- Số tín chỉ",
+                "02"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Số tín chỉ",
+                "Tư tưởng Hồ Chí Minh": "02"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "+ Số giờ trên lớp",
+              "cells": [
+                "+ Số giờ trên lớp",
+                "30"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "+ Số giờ trên lớp",
+                "Tư tưởng Hồ Chí Minh": "30"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Số giờ tự học",
+              "cells": [
+                "+ Số giờ tự học",
+                "60"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "+ Số giờ tự học",
+                "Tư tưởng Hồ Chí Minh": "60"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "- Các học phần tiên quyết",
+              "cells": [
+                "- Các học phần tiên quyết",
+                "Triết học Mác - Lênin, Kinh tế chính trị Mác-Lênin, Chủ nghĩa xã hội khoa học"
+              ],
+              "column_map": {
+                "- Tên học phần (tiếng Việt):": "- Các học phần tiên quyết",
+                "Tư tưởng Hồ Chí Minh": "Triết học Mác - Lênin, Kinh tế chính trị Mác-Lênin, Chủ nghĩa xã hội khoa học"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "level": 1,
+      "label": "faculty_and_instructors",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "path_labels": [
+        "faculty_and_instructors"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Khoa/viện quản lý học phần: Khoa Lý luận chính trị",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Địa chỉ: Phòng 1015 Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Giảng viên giảng dạy:",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "table",
+          "order": 5,
+          "table_id": "vi-lltt1101#tbl003",
+          "table_name": "Giảng viên giảng dạy:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 8,
+          "column_labels": [
+            "TT",
+            "Họ và tên",
+            "Số điện thoại",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "TS.GVC. Nguyễn Hồng Sơn",
+                "0912212302",
+                "sonnh@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "1",
+                "Họ và tên": "TS.GVC. Nguyễn Hồng Sơn",
+                "Số điện thoại": "0912212302",
+                "Email": "sonnh@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "TS.GVC. Nguyễn Thị Bích Thủy",
+                "0977827782",
+                "thuyntb@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "2",
+                "Họ và tên": "TS.GVC. Nguyễn Thị Bích Thủy",
+                "Số điện thoại": "0977827782",
+                "Email": "thuyntb@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "TS.GVC. Nguyễn Chí Thiện",
+                "0913059808",
+                "thiennc@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "3",
+                "Họ và tên": "TS.GVC. Nguyễn Chí Thiện",
+                "Số điện thoại": "0913059808",
+                "Email": "thiennc@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "TS.GVC. Lê Thị Hoa",
+                "0912139918",
+                "hoalt@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "4",
+                "Họ và tên": "TS.GVC. Lê Thị Hoa",
+                "Số điện thoại": "0912139918",
+                "Email": "hoalt@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "TS.GVC. Nguyễn Quang Trung",
+                "0911133533",
+                "trungnqml@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "5",
+                "Họ và tên": "TS.GVC. Nguyễn Quang Trung",
+                "Số điện thoại": "0911133533",
+                "Email": "trungnqml@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "TS.GVC. Nguyễn Thùy Linh",
+                "0916251915",
+                "linhnt@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "6",
+                "Họ và tên": "TS.GVC. Nguyễn Thùy Linh",
+                "Số điện thoại": "0916251915",
+                "Email": "linhnt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "- Học phần gồm 6 chương, trang bị cho sinh viên những kiến thức cơ bản về nguồn gốc, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; Những nội dung cơ bản về tư tưởng Hồ Chí Minh; Sự vận dụng tư tưởng Hồ Chí Minh của Đảng cộng sản Việt Nam trong sự nghiệp cách mạng.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "- Hình thành cho sinh viên khả năng tư duy độc lập, phân tích, đánh giá, vận dụng sáng tạo tư tưởng Hồ Chí Minh vào giải quyết các vấn đề trong thực tiễn đời sống, học tập và công tác.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "- Giúp sinh viên củng cố lập trường cách mạng, kiên định mục tiêu lý tưởng độc lập dân tộc gắn liền với chu nghĩa xã hội; Góp phần giáo dục đạo đức, tư cách, phẩm chất cách mạng, đóng góp thiết thực và hiệu quả cho sự nghiệp cách mạng.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Nội dung chính",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "- Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "- Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "- Tư tưởng Hồ Chí Minh về dân tộc và chủ nghĩa xã hội.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "- Tư tưởng Hồ Chí Minh về Đảng cộng sản và Nhà nước của nhân dân, do nhân dân, vì nhân dân.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "- Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "- Tư tưởng Hồ Chí Minh về văn hoá, đạo đức và con người.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 19
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Giáo trình",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "[1] Bộ Giáo dục và Đào tạo (2021), Giáo trình Tư tưởng Hồ Chí Minh, NXB Chính trị Quốc gia Sự thật, Hà Nội",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Tài liệu tham khảo",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "[2] Slide Bài giảng tư tưởng Hồ Chí Minh chuẩn do nhóm giảng viên tư tưởng Hồ Chí Minh – Khoa Lý luận Chính trị, Đại học KTQD biên soạn.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "[3]. Phạm Ngọc Anh – Bùi Đình Phong (2003), Tư tưởng Hồ Chí Minh về xây dựng Nhà nước pháp quyền kiểu mới ở Việt Nam, Nxb Lao động, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "[4]. Hồ Chí Minh (2011), Toàn tập, tập 1 -15, Nxb Chính trị Quốc gia, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "[5]. Học viện chính trị quốc gia Hồ Chí Minh – Viện Hồ Chí Minh và các lãnh tụ của Đảng (2004), Tư tưởng Hồ Chí Minh về đại đoàn kết với vấn đề phát huy sức mạnh đại đoàn kết dân tộc trong thời kỳ mới, Nxb Chính trị Quốc gia, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "[6]. Nguyễn Bá Linh (2009), Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội, Nxb Chính trị Quốc gia, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "[7]. Đặng Xuân Kỳ (chủ biên) (2005), Tư tưởng Hồ Chí Minh về xây dựng con người và phát triển văn hóa, Nxb Chính trị Quốc gia, Hà Nội.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 29
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec005",
+      "title": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Bảng 5.1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "vi-lltt1101#tbl004",
+          "table_name": "Bảng 5.1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 32,
+          "column_labels": [
+            "Mã/Code (CGx)",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR (PLO) của CTĐT*"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR (PLO) của CTĐT*": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "- Sinh viên hiểu được đối tượng, phương pháp nghiên cứu, ý nghĩa học tập của môn học Tư tưởng Hồ Chí Minh. - Sinh viên hiểu được cơ sở lý luận và thực tiễn đối với sự hình thành tư tưởng Hồ Chí Minh; nhận thức được các giai đoạn phát triển chủ yếu của tư tưởng Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam. - Nhận thức được tính khoa học, cách mạng và tính sáng tạo của Hồ Chí Minh trong việc vận dụng những nguyên lý Macxit vào thực tiễn cách mạng; đồng thời thấy rõ vai trò, ý nghĩa to lớn của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam và cách mạng thế giới.",
+                "PLO1.1.2 PLO1.2.2 PLO1.2.3"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "- Sinh viên hiểu được đối tượng, phương pháp nghiên cứu, ý nghĩa học tập của môn học Tư tưởng Hồ Chí Minh. - Sinh viên hiểu được cơ sở lý luận và thực tiễn đối với sự hình thành tư tưởng Hồ Chí Minh; nhận thức được các giai đoạn phát triển chủ yếu của tư tưởng Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam. - Nhận thức được tính khoa học, cách mạng và tính sáng tạo của Hồ Chí Minh trong việc vận dụng những nguyên lý Macxit vào thực tiễn cách mạng; đồng thời thấy rõ vai trò, ý nghĩa to lớn của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam và cách mạng thế giới.",
+                "CĐR (PLO) của CTĐT*": "PLO1.1.2 PLO1.2.2 PLO1.2.3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "- Có kỹ năng vận dụng, liên hệ những nội dung cơ bản trong tư tưởng Hồ Chí Minh vào thực tiễn đổi mới ở Việt Nam hiện nay. - Sinh viên hình thành năng lực tư duy khoa học; có kỹ năng nhận thức và giải quyết đúng đắn cả về mặt lý luận và thực tiễn các vấn đề đặt ra trong cuộc sống. - Xây dựng và củng cố niềm tin vào chế độ xã hội chủ nghĩa, tiếp thêm sức mạnh về ý chí và hành động phấn đấu cho lý tưởng cách mạng.",
+                "PLO2.1.1"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "- Có kỹ năng vận dụng, liên hệ những nội dung cơ bản trong tư tưởng Hồ Chí Minh vào thực tiễn đổi mới ở Việt Nam hiện nay. - Sinh viên hình thành năng lực tư duy khoa học; có kỹ năng nhận thức và giải quyết đúng đắn cả về mặt lý luận và thực tiễn các vấn đề đặt ra trong cuộc sống. - Xây dựng và củng cố niềm tin vào chế độ xã hội chủ nghĩa, tiếp thêm sức mạnh về ý chí và hành động phấn đấu cho lý tưởng cách mạng.",
+                "CĐR (PLO) của CTĐT*": "PLO2.1.1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Từng bước xây dựng, rèn luyện phương pháp và phong cách tư duy, phong cách làm việc khoa học, tự chủ, đổi mới và sáng tạo.",
+                "PLO3.1.1"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "G3",
+                "Mô tả mục tiêu học phần (CG)": "Từng bước xây dựng, rèn luyện phương pháp và phong cách tư duy, phong cách làm việc khoa học, tự chủ, đổi mới và sáng tạo.",
+                "CĐR (PLO) của CTĐT*": "PLO3.1.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec006",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 35
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "vi-lltt1101#tbl005",
+          "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 36,
+          "column_labels": [
+            "Mục tiêu HP",
+            "CLOs",
+            "Mô tả CLOs*",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "[1]",
+                "CLOs": "[2]",
+                "Mô tả CLOs*": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Giúp cho người học hiểu được cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; thấy rõ cuộc đời sự nghiệp cách mạng cao cả, vĩ đại của Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam qua các thời kỳ lịch sử.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.1",
+                "Mô tả CLOs*": "Giúp cho người học hiểu được cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; thấy rõ cuộc đời sự nghiệp cách mạng cao cả, vĩ đại của Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam qua các thời kỳ lịch sử.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Giúp cho người học hiểu rõ những nội dung cơ bản trong tư tưởng Hồ Chí Minh; nhận thức được bản chất khoa học cách mạng, tính hệ thống, toàn diện trong tư tưởng Hồ Chí Minh về cách mạng Việt Nam.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.2",
+                "Mô tả CLOs*": "Giúp cho người học hiểu rõ những nội dung cơ bản trong tư tưởng Hồ Chí Minh; nhận thức được bản chất khoa học cách mạng, tính hệ thống, toàn diện trong tư tưởng Hồ Chí Minh về cách mạng Việt Nam.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Giúp cho người học hiểu rõ vai trò của Hồ Chí Minh trong việc vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, kế thừa những giá trị truyền thống tốt đẹp của dân tộc và tinh hoa văn hóa, văn minh của nhân loại, xây dựng đường lối, chiến lược phù hợp, sáng tạo, đưa cách mạng Việt Nam đi tới thắng lợi, góp phần quan trọng vào tiến trình cách mạng thế giới.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G1",
+                "CLOs": "CLO1.3",
+                "Mô tả CLOs*": "Giúp cho người học hiểu rõ vai trò của Hồ Chí Minh trong việc vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, kế thừa những giá trị truyền thống tốt đẹp của dân tộc và tinh hoa văn hóa, văn minh của nhân loại, xây dựng đường lối, chiến lược phù hợp, sáng tạo, đưa cách mạng Việt Nam đi tới thắng lợi, góp phần quan trọng vào tiến trình cách mạng thế giới.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Có kỹ năng vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội; về đoàn kết dân tộc, đoàn kết quốc tế, văn hóa, đạo đức, con người trong phân tích sự nghiệp đổi mới đất nước hiện nay.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G2",
+                "CLOs": "CLO2.1",
+                "Mô tả CLOs*": "Có kỹ năng vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội; về đoàn kết dân tộc, đoàn kết quốc tế, văn hóa, đạo đức, con người trong phân tích sự nghiệp đổi mới đất nước hiện nay.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Có kỹ năng phân tích, liên hệ tư tưởng Hồ Chí Minh về Đảng, Nhà nước với thực tiễn xây dựng Đảng và Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở Việt Nam hiện nay.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G2",
+                "CLOs": "CLO2.2",
+                "Mô tả CLOs*": "Có kỹ năng phân tích, liên hệ tư tưởng Hồ Chí Minh về Đảng, Nhà nước với thực tiễn xây dựng Đảng và Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở Việt Nam hiện nay.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Giúp cho người học nâng cao năng lực tư duy lý luận; nâng cao bản lĩnh chính trị, ý thức và trách nhiệm công dân, thường xuyên tu dưỡng và rèn luyện theo tư tưởng, đạo đức và phong cách Hồ Chí Minh.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G3",
+                "CLOs": "CLO3.1",
+                "Mô tả CLOs*": "Giúp cho người học nâng cao năng lực tư duy lý luận; nâng cao bản lĩnh chính trị, ý thức và trách nhiệm công dân, thường xuyên tu dưỡng và rèn luyện theo tư tưởng, đạo đức và phong cách Hồ Chí Minh.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Góp phần giúp người học hình thành phương pháp và kỹ năng làm việc khoa học, kỹ năng phát hiện và giải quyết vấn đề; kỹ năng thuyết trình, phản biện, phát huy tính tự chủ, sáng tạo của mỗi cá nhân và tính liên kết cộng đồng trong học tập, nghiên cứu khoa học.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "G3",
+                "CLOs": "CLO3.2",
+                "Mô tả CLOs*": "Góp phần giúp người học hình thành phương pháp và kỹ năng làm việc khoa học, kỹ năng phát hiện và giải quyết vấn đề; kỹ năng thuyết trình, phản biện, phát huy tính tự chủ, sáng tạo của mỗi cá nhân và tính liên kết cộng đồng trong học tập, nghiên cứu khoa học.",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CLO3.3",
+              "cells": [
+                "",
+                "CLO3.3",
+                "Có tinh thần trách nhiệm cao, có kỹ năng ứng xử chuyên nghiệp đáp ứng yêu cầu đổi mới, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế hiện nay.",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu HP": "",
+                "CLOs": "CLO3.3",
+                "Mô tả CLOs*": "Có tinh thần trách nhiệm cao, có kỹ năng ứng xử chuyên nghiệp đáp ứng yêu cầu đổi mới, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế hiện nay.",
+                "Mức độ đạt được": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec007",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Bảng 7.1. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 39
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "vi-lltt1101#tbl006",
+          "table_name": "Bảng 7.1. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 40,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung/ \nBài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Tiêu chí đánh giá*",
+            "Tỷ lệ (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung/ \nBài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Tiêu chí đánh giá*": "[5]",
+                "Tỷ lệ (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+                "Các buổi seminar",
+                "3.1 3.2",
+                "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp - Mức độ hoàn thành đúng hạn các bài tập các nhân/ nhóm Phụ lục 2, rubrics 1",
+                "10%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung/ \nBài đánh giá": "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+                "Thời điểm": "Các buổi seminar",
+                "CLOs": "3.1 3.2",
+                "Tiêu chí đánh giá*": "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp - Mức độ hoàn thành đúng hạn các bài tập các nhân/ nhóm Phụ lục 2, rubrics 1",
+                "Tỷ lệ (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá giữa kỳ lần 1",
+              "cells": [
+                "Đánh giá giữa kỳ lần 1",
+                "Bài tập nhóm Nhóm 5-6 sinh viên Chủ đề: Giáo viên lớp seminar cung cấp Nhóm xây dựng đề cương, nghiên cứu, viết báo cáo theo quy định Bài tập lớn được giáo viên lớp seminar quy định. Kết quả là một bài viết khoảng từ 8 đến 12 trang (không bắt buộc thuyết trình)",
+                "Nộp bản cuối",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Mức độ hoàn thành bài tập nhóm (đúng thời gian, chất lượng gắn với mức độ đạt được kiến thức, kỹ năng theo yêu cầu của chuẩn đầu ra học phần Phụ lục 2, rubrics 2",
+                "20%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá giữa kỳ lần 1",
+                "Nội dung/ \nBài đánh giá": "Bài tập nhóm Nhóm 5-6 sinh viên Chủ đề: Giáo viên lớp seminar cung cấp Nhóm xây dựng đề cương, nghiên cứu, viết báo cáo theo quy định Bài tập lớn được giáo viên lớp seminar quy định. Kết quả là một bài viết khoảng từ 8 đến 12 trang (không bắt buộc thuyết trình)",
+                "Thời điểm": "Nộp bản cuối",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Tiêu chí đánh giá*": "Mức độ hoàn thành bài tập nhóm (đúng thời gian, chất lượng gắn với mức độ đạt được kiến thức, kỹ năng theo yêu cầu của chuẩn đầu ra học phần Phụ lục 2, rubrics 2",
+                "Tỷ lệ (%)": "20%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+              "cells": [
+                "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+                "Sinh viên làm Bài tập cá nhân do giáo viên giao chủ đề. Quy cách, thể lệ do giảng viên quy định. Số lượng trang từ 6-8 trang.",
+                "Thời gian làm bài tập do giảng viên seminar quyết định",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Bài tập đáp ứng yêu cầu đánh giá kiến thức cơ bản và kiến thức vận dụng",
+                "20%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+                "Nội dung/ \nBài đánh giá": "Sinh viên làm Bài tập cá nhân do giáo viên giao chủ đề. Quy cách, thể lệ do giảng viên quy định. Số lượng trang từ 6-8 trang.",
+                "Thời điểm": "Thời gian làm bài tập do giảng viên seminar quyết định",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Tiêu chí đánh giá*": "Bài tập đáp ứng yêu cầu đánh giá kiến thức cơ bản và kiến thức vận dụng",
+                "Tỷ lệ (%)": "20%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Đánh giá toàn bộ kiến thức môn học.",
+                "Theo lịch thi của Trường",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "- Trắc nghiệm khách quan trên máy. Thời gian làm bài 50 phút/80 câu. - Xem phụ lục 1: Ma trận đề thi.",
+                "50%"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung/ \nBài đánh giá": "Đánh giá toàn bộ kiến thức môn học.",
+                "Thời điểm": "Theo lịch thi của Trường",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+                "Tiêu chí đánh giá*": "- Trắc nghiệm khách quan trên máy. Thời gian làm bài 50 phút/80 câu. - Xem phụ lục 1: Ma trận đề thi.",
+                "Tỷ lệ (%)": "50%"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Ma trận đề thi (phụ lục 1)",
+          "is_list": true,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Các rubrics (phụ lục 2)",
+          "is_list": true,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment"
+          ],
+          "source_block": 43
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec008",
+      "title": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+      "level": 1,
+      "label": "ke-hoach-giang-day-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "path_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Bảng 8.1. Kế hoạch và nội dung giảng dạy",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 48
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "vi-lltt1101#tbl007",
+          "table_name": "Bảng 8.1. Kế hoạch và nội dung giảng dạy",
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 49,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1. Chương 1: Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh 1. Khái niệm tư tưởng Hồ Chí Minh 2. Đối tượng nghiên cứu 3. Phương pháp nghiên cứu 4. Ý nghĩa học tập môn học tư tưởng Hồ Chí Minh",
+                "[1] Chương 1 [2] Chương 1 [4]",
+                "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide bài giảng, quy định thi, kiểm tra, đánh giá, hướng dẫn kế hoạch học tập; xây dựng các nhóm học tập. - Giảng lý thuyết bài 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết. - Phân nhóm thảo luận và đưa ra các nội dung, yêu cầu thảo luận dành cho seminar 1. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1. Chương 1: Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh 1. Khái niệm tư tưởng Hồ Chí Minh 2. Đối tượng nghiên cứu 3. Phương pháp nghiên cứu 4. Ý nghĩa học tập môn học tư tưởng Hồ Chí Minh",
+                "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [4]",
+                "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide bài giảng, quy định thi, kiểm tra, đánh giá, hướng dẫn kế hoạch học tập; xây dựng các nhóm học tập. - Giảng lý thuyết bài 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết. - Phân nhóm thảo luận và đưa ra các nội dung, yêu cầu thảo luận dành cho seminar 1. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 - Tóm tắt kiến thức chương 1. - Thảo luận về phương pháp tiếp cận cũng như các nội dung chủ yếu của Chương 1.",
+                "[1] Chương 1 [2] Chương 1 [4]",
+                "Giảng viên - Tóm tắt kiến thức chương 1. - Chủ trì thảo luận nhóm. - Tổng kết, đánh giá và gợi mở những kiến thức cần tiếp tục nghiên cứu. Sinh viên: - Đọc tài liệu trước. - Tham gia thảo luận xung quanh các kiến thức cơ bản của Chương 1.",
+                "- Điểm danh - Trả lời câu hỏi trong nội dung của seminar 1 - Mức độ hoàn thành các bài tập trên lớp - Phụ lục 2, rubrics 1",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1. - Thảo luận về phương pháp tiếp cận cũng như các nội dung chủ yếu của Chương 1.",
+                "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [4]",
+                "Hoạt động dạy và học": "Giảng viên - Tóm tắt kiến thức chương 1. - Chủ trì thảo luận nhóm. - Tổng kết, đánh giá và gợi mở những kiến thức cần tiếp tục nghiên cứu. Sinh viên: - Đọc tài liệu trước. - Tham gia thảo luận xung quanh các kiến thức cơ bản của Chương 1.",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong nội dung của seminar 1 - Mức độ hoàn thành các bài tập trên lớp - Phụ lục 2, rubrics 1",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 1. Cơ sở hình thành tư tưởng Hồ Chí Minh 2. Quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh",
+                "[1] Chương 2 [2] Chương 2 [4]",
+                "Giảng viên - Giảng lý thuyết theo nội dung bài giảng/Slide chương 2 - Hướng dẫn sinh viên đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên đọc trước tài liệu chuẩn bị các câu hỏi thảo luận cho buổi seminar 2 Sinh viên Đọc trước các nội dung bài giảng chương 2 trong tài liệu [1] và [2] và chuẩn bị câu hỏi và các nội dung thảo luận cho buổi seminar 2.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 1. Cơ sở hình thành tư tưởng Hồ Chí Minh 2. Quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh",
+                "Tài liệu đọc": "[1] Chương 2 [2] Chương 2 [4]",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung bài giảng/Slide chương 2 - Hướng dẫn sinh viên đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên đọc trước tài liệu chuẩn bị các câu hỏi thảo luận cho buổi seminar 2 Sinh viên Đọc trước các nội dung bài giảng chương 2 trong tài liệu [1] và [2] và chuẩn bị câu hỏi và các nội dung thảo luận cho buổi seminar 2.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Seminar 2 - Tóm tắt kiến thức chương 2, mục 1,2. - Các nhóm trình bày các chủ đề được phân công.",
+                "[1] Chương 2 [2] Chương 2 [4]",
+                "Giảng viên - Tóm tắt kiến thức chương 2 mục 1, 2. - Hướng dẫn thảo luận về các nội dung chủ yếu trong mục 1, 2 chương 2. + Các nội dung chính cần thảo luận. + Các vấn đề, tình huống đặt ra cần phân tích, làm rõ. + Tổng kết, gợi mở các vấn đề cần tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước - Tham gia thảo luận. - Trả lời các câu hỏi và đưa ra các câu hỏi, các vấn đề, tình huống cần được tiếp tục là rõ.",
+                "- Điểm danh. - Trình bày về chủ đề nhóm. - Thảo luận, trả lời câu hỏi và đưa ra các câu hỏi, vấn đề cần được tiếp tục làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 2, mục 1,2. - Các nhóm trình bày các chủ đề được phân công.",
+                "Tài liệu đọc": "[1] Chương 2 [2] Chương 2 [4]",
+                "Hoạt động dạy và học": "Giảng viên - Tóm tắt kiến thức chương 2 mục 1, 2. - Hướng dẫn thảo luận về các nội dung chủ yếu trong mục 1, 2 chương 2. + Các nội dung chính cần thảo luận. + Các vấn đề, tình huống đặt ra cần phân tích, làm rõ. + Tổng kết, gợi mở các vấn đề cần tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước - Tham gia thảo luận. - Trả lời các câu hỏi và đưa ra các câu hỏi, các vấn đề, tình huống cần được tiếp tục là rõ.",
+                "Đánh giá": "- Điểm danh. - Trình bày về chủ đề nhóm. - Thảo luận, trả lời câu hỏi và đưa ra các câu hỏi, vấn đề cần được tiếp tục làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 3. Giá trị tư tưởng Hồ Chí Minh Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 1. Tư tưởng Hồ Chí Minh về độc lập dân tộc",
+                "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+                "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 2, 3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống dành cho buổi seminar 3.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Lecture 3 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 3. Giá trị tư tưởng Hồ Chí Minh Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 1. Tư tưởng Hồ Chí Minh về độc lập dân tộc",
+                "Tài liệu đọc": "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+                "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 2, 3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống dành cho buổi seminar 3.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Seminar 3 - Tóm tắt kiến thức chương 2, mục 3; chương 3, mục 1. - Các nhóm trình bày các chủ đề được phân công.",
+                "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản chương 2, mục 3 và chương 3, mục 1. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Seminar 3 - Tóm tắt kiến thức chương 2, mục 3; chương 3, mục 1. - Các nhóm trình bày các chủ đề được phân công.",
+                "Tài liệu đọc": "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 2, mục 3 và chương 3, mục 1. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 4 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 2. Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội 3. Tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội",
+                "[1] Chương 3 [2] Chương 3 [4], [6]",
+                "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 2,3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 4.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Lecture 4 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 2. Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội 3. Tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội",
+                "Tài liệu đọc": "[1] Chương 3 [2] Chương 3 [4], [6]",
+                "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 2,3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 4.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công. - Giao bài tập cá nhân giữa kỳ",
+                "[1] Chương 3 [2] Chương 3 [4], [6]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản chương 3, mục 2,3. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Hướng dẫn làm bài tập cá nhân giữa kỳ; yêu cầu về hình thức và nội dung, thời hạn nộp bài. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công. - Giao bài tập cá nhân giữa kỳ",
+                "Tài liệu đọc": "[1] Chương 3 [2] Chương 3 [4], [6]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 3, mục 2,3. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Hướng dẫn làm bài tập cá nhân giữa kỳ; yêu cầu về hình thức và nội dung, thời hạn nộp bài. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 4. Vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội trong sự nghiệp cách mạng Việt Nam trong giai đoạn hiện nay Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam",
+                "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+                "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 4; chương 4, mục 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 5. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 5.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 4. Vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội trong sự nghiệp cách mạng Việt Nam trong giai đoạn hiện nay Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam",
+                "Tài liệu đọc": "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+                "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 4; chương 4, mục 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 5. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 5.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Seminar 5 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Seminar 5 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "Tài liệu đọc": "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+              "cells": [
+                "",
+                "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+                "[1] Chương 4 [2] Chương 4 [3], [4]",
+                "",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "",
+                "Nội dung": "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+                "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3], [4]",
+                "Hoạt động dạy và học": "",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Seminar 6 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "[1] Chương 4 [2] Chương 4 [3], [4]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Seminar 6 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3], [4]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 7 Chương 5: tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế 1. Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc 2. Tư tưởng Hồ Chí Minh về đoàn kết quốc tế 3. Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong giai đoạn hiện nay",
+                "[1] Chương 5 [2] Chương 5 [4], [5]",
+                "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 5. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 6. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 6.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Lecture 7 Chương 5: tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế 1. Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc 2. Tư tưởng Hồ Chí Minh về đoàn kết quốc tế 3. Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong giai đoạn hiện nay",
+                "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [5]",
+                "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 5. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 6. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 6.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "[1] Chương 5 [2] Chương 5 [4], [5]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Thu Bài tập cá nhân giữa kỳ. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận. - Nộp Bài tập cá nhân giữa kỳ.",
+                "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [5]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Thu Bài tập cá nhân giữa kỳ. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận. - Nộp Bài tập cá nhân giữa kỳ.",
+                "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Lecture 8 Chương 6: Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người 1 Tư tưởng Hồ Chí Minh về văn hoá 2. Tư tưởng Hồ Chí Minh về đạo đức 3. Tư tưởng Hồ Chí Minh về con người 4. Xây dựng văn hoá, đạo đức, con người Việt Nam hiện nay theo tư tưởng Hồ Chí Minh",
+                "[1] Chương 5 [2] Chương 5 [4], [7]",
+                "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 6. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 7. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 7.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Lecture 8 Chương 6: Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người 1 Tư tưởng Hồ Chí Minh về văn hoá 2. Tư tưởng Hồ Chí Minh về đạo đức 3. Tư tưởng Hồ Chí Minh về con người 4. Xây dựng văn hoá, đạo đức, con người Việt Nam hiện nay theo tư tưởng Hồ Chí Minh",
+                "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [7]",
+                "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 6. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 7. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 7.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "[1] Chương 5 [2] Chương 5 [4], [7]",
+                "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu chương 6. - Khái quát các kiến thức chủ yếu, các vấn đề có tính hệ thống và tính tương quang giữa các khối kiến thức môn học, cần nghiên cứu, ôn tập. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+                "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [7]",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu chương 6. - Khái quát các kiến thức chủ yếu, các vấn đề có tính hệ thống và tính tương quang giữa các khối kiến thức môn học, cần nghiên cứu, ôn tập. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "… (Toàn bộ / Các bài nào, chương nào…)",
+                "Thi trắc nghiệm khách quan trên máy",
+                "Xem Phụ lục 1: ma trận đề thi",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "… (Toàn bộ / Các bài nào, chương nào…)",
+                "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+                "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+                "CLOs": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec009",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment"
+          ],
+          "source_block": 54
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec010",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-lltt1101#sec011",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 58
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec012",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "- Sinh viên/học viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học do lý do bất khả kháng thì phải có giấy tờ chứng minh đầy đủ và hợp lý.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "- Sinh viên có trách nhiệm chủ động nghiên cứu tài liệu, chủ động chuẩn bị bài học trước khi đến lớp theo hướng dẫn và yêu cầu của giảng viên",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 61
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "- Sinh viên vắng quá 20% tổng số buổi học của học phần sẽ bị coi như không hoàn thành khóa học và phải đăng ký học lại.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 62
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "- Sinh viên nộp bài tập cá nhân muộn so với thời gian quy định của giảng viên sẽ nhận điểm 0 của bài tập đó.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 63
+        },
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "- Về trao đổi giữa giảng viên và sinh viên: Khuyến khích sinh viên tham gia thảo luận, phản hồi trực tiếp với giảng viên về nội dung học phần, phương pháp dạy và học, tài liệu giảng dạy và đọc. Giảng viên khuyến khích sinh viên phản hồi về hình thức, phương pháp và nội dung kiểm tra, đánh giá kết quả học tập của sinh viên. Sinh viên có thể giao trao đổi với giảng viên trên lớp, trong giờ hành chính hoặc qua email. Những thông tin phản hồi của sinh viên có giá trị góp phần nâng cao chất lượng dạy và học của học phần.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 64
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec013",
+      "title": "10.3. Quy định về hành vi lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-lop-hoc",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi lớp học"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 66
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Đọc trước tài liệu được yêu cầu;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 68
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Làm các bài tập về nhà;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "- Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "- Tuyệt đối không được ăn uống, nhai kẹo cao su, sử dụng các thiết bị như điện thoại, máy nghe nhạc trong giờ học.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "- Máy tính xách tay, máy tính bảng chỉ được thực hiện vào mục đích ghi chép bài giảng, tính toán phục vụ bài giảng, bài tập, tuyệt đối không dùng vào việc khác.",
+          "is_list": false,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 72
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec014",
+      "title": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "level": 1,
+      "label": "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time",
+      "path_titles": [
+        "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "path_labels": [
+        "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Tháng 6 năm 2024",
+          "is_list": false,
+          "section_path": [
+            "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 74
+        },
+        {
+          "type": "table",
+          "order": 51,
+          "table_id": "vi-lltt1101#tbl008",
+          "table_name": "Tháng 6 năm 2024",
+          "section_path": [
+            "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 75,
+          "column_labels": [
+            "TRƯỞNG KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS Nguyễn Thị Hoàn",
+              "cells": [
+                "TS Nguyễn Thị Hoàn",
+                "GS.TS Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "TRƯỞNG KHOA": "TS Nguyễn Thị Hoàn",
+                "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec015",
+      "title": "Phụ lục",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "Phụ lục"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-lltt1101#sec016",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "Phụ lục",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Hình thức: Thi trắc nghiệm khách quan trên máy tính",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Thời gian: 50 phút",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Số câu hỏi: 80 câu. Mỗi câu 0,125 điểm",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 81
+        },
+        {
+          "type": "table",
+          "order": 56,
+          "table_id": "vi-lltt1101#tbl009",
+          "table_name": "Thời gian: 50 phút",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 83,
+          "column_labels": [
+            "Bài",
+            "CLO",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 1",
+              "cells": [
+                "Lecture 1",
+                "1.1, 2.1",
+                "4",
+                "",
+                "",
+                "4"
+              ],
+              "column_map": {
+                "Bài": "Lecture 1",
+                "CLO": "1.1, 2.1",
+                "Nhớ": "4",
+                "Hiểu": "",
+                "Vận dụng": "",
+                "Tổng": "4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 2",
+              "cells": [
+                "Lecture 2",
+                "1.2, 1.3",
+                "6",
+                "8",
+                "2",
+                "16"
+              ],
+              "column_map": {
+                "Bài": "Lecture 2",
+                "CLO": "1.2, 1.3",
+                "Nhớ": "6",
+                "Hiểu": "8",
+                "Vận dụng": "2",
+                "Tổng": "16"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 3",
+              "cells": [
+                "Lecture 3",
+                "1.4, 2.4",
+                "10",
+                "8",
+                "4",
+                "22"
+              ],
+              "column_map": {
+                "Bài": "Lecture 3",
+                "CLO": "1.4, 2.4",
+                "Nhớ": "10",
+                "Hiểu": "8",
+                "Vận dụng": "4",
+                "Tổng": "22"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 4",
+              "cells": [
+                "Lecture 4",
+                "1.1, 2.1",
+                "3",
+                "2",
+                "1",
+                "6"
+              ],
+              "column_map": {
+                "Bài": "Lecture 4",
+                "CLO": "1.1, 2.1",
+                "Nhớ": "3",
+                "Hiểu": "2",
+                "Vận dụng": "1",
+                "Tổng": "6"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 5",
+              "cells": [
+                "Lecture 5",
+                "1.5, 2.5",
+                "5",
+                "5",
+                "2",
+                "12"
+              ],
+              "column_map": {
+                "Bài": "Lecture 5",
+                "CLO": "1.5, 2.5",
+                "Nhớ": "5",
+                "Hiểu": "5",
+                "Vận dụng": "2",
+                "Tổng": "12"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.2, 3.3",
+                "5",
+                "5",
+                "2",
+                "12"
+              ],
+              "column_map": {
+                "Bài": "Lecture 6",
+                "CLO": "1.2, 3.3",
+                "Nhớ": "5",
+                "Hiểu": "5",
+                "Vận dụng": "2",
+                "Tổng": "12"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Câu hỏi tổng hợp",
+              "cells": [
+                "Câu hỏi tổng hợp",
+                "3.1, 3.2, 3.4",
+                "",
+                "6",
+                "2",
+                "8"
+              ],
+              "column_map": {
+                "Bài": "Câu hỏi tổng hợp",
+                "CLO": "3.1, 3.2, 3.4",
+                "Nhớ": "",
+                "Hiểu": "6",
+                "Vận dụng": "2",
+                "Tổng": "8"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tổng số câu",
+              "cells": [
+                "Tổng số câu",
+                "Tổng số câu",
+                "33",
+                "34",
+                "13",
+                "80"
+              ],
+              "column_map": {
+                "Bài": "Tổng số câu",
+                "CLO": "Tổng số câu",
+                "Nhớ": "33",
+                "Hiểu": "34",
+                "Vận dụng": "13",
+                "Tổng": "80"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Tỷ lrọng",
+              "cells": [
+                "Tỷ lrọng",
+                "Tỷ lrọng",
+                "40%",
+                "40%",
+                "20%",
+                "100%"
+              ],
+              "column_map": {
+                "Bài": "Tỷ lrọng",
+                "CLO": "Tỷ lrọng",
+                "Nhớ": "40%",
+                "Hiểu": "40%",
+                "Vận dụng": "20%",
+                "Tổng": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-lltt1101#sec017",
+      "title": "Phụ lục 2. Các rubric",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubric",
+      "path_titles": [
+        "Phụ lục",
+        "Phụ lục 2. Các rubric"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "Rubric 1: Chuyên cần/Participant",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "table",
+          "order": 58,
+          "table_id": "vi-lltt1101#tbl010",
+          "table_name": "Rubric 1: Chuyên cần/Participant",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 87,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi có mặt trên lớp",
+              "cells": [
+                "Số buổi có mặt trên lớp",
+                "50%",
+                "15 buổi",
+                "14 buổi",
+                "13 buổi",
+                "12 buổi"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Thái độ học tập trên lớp",
+              "cells": [
+                "Thái độ học tập trên lớp",
+                "30%",
+                "Nghiêm túc, chấp hành kỷ luật lớp học giữ trật tự",
+                "Bị nhắc nhở 1 lần",
+                "Bị nhắc từ 2 lần",
+                "Bị nhắc nhở nhiều lần"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Tích cực xây dựng bài",
+              "cells": [
+                "Tích cực xây dựng bài",
+                "20%",
+                "Trả lời đúng nhiều câu hỏi",
+                "Trả lời đúng một câu hỏi",
+                "Có tham gia thảo luận",
+                "Không tham gia thảo luận"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 59,
+          "text": "Rubric 2: Bài tập nhóm",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "table",
+          "order": 60,
+          "table_id": "vi-lltt1101#tbl011",
+          "table_name": "Rubric 2: Bài tập nhóm",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 97,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+              "cells": [
+                "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+                "30%",
+                "Đầy đủ nội dung, có sáng tạo",
+                "Đầy đủ nội dung",
+                "Đầy đủ nội dung",
+                "Chưa đầy đủ"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Kỹ năng Thuyết trình",
+              "cells": [
+                "Kỹ năng Thuyết trình",
+                "30%",
+                "Có kịch bản hay, thuyết trình lưu loát",
+                "Có kịch bản, thuyết trình tốt",
+                "Thuyết trình đạt yêu cầu",
+                "Không đạt yêu cầu"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Trả lời các câu hỏi của các nhóm",
+              "cells": [
+                "Trả lời các câu hỏi của các nhóm",
+                "20%",
+                "Trả lời đúng trên 5 câu hỏi",
+                "Trả lời đúng từ 1 đến 4 câu hỏi",
+                "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+                "Không trả lời câu hỏi nào."
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "Trả lời các câu hỏi của giáo viên",
+              "cells": [
+                "Trả lời các câu hỏi của giáo viên",
+                "20%",
+                "Trả lời đúng trên 5 câu hỏi",
+                "Trả lời đúng từ 1 đến 4 câu hỏi",
+                "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+                "Không trả lời câu hỏi nào."
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 61,
+          "text": "Rubric 3 : Bài tập cá nhân",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 99
+        },
+        {
+          "type": "table",
+          "order": 62,
+          "table_id": "vi-lltt1101#tbl012",
+          "table_name": "Rubric 3 : Bài tập cá nhân",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 100,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nộp đúng thời hạn quy định",
+              "cells": [
+                "Nộp đúng thời hạn quy định",
+                "10%",
+                "Nộp đúng thời gian quy đinh",
+                "Nộp không đúng hạn 1 ngày",
+                "Nộp không đúng hạn 3 ngày",
+                "Nộp không đúng hạn 5 ngày"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Hệ thống được những vấn đề lý luận",
+              "cells": [
+                "Hệ thống được những vấn đề lý luận",
+                "20%",
+                "Luận giải đầy đủ cơ sở lý luận",
+                "Luận giải được ¾ cơ sở lý luận",
+                "Luận giải được ½ cơ sở lý luận",
+                "Không liên hệ được"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+              "cells": [
+                "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+                "30%",
+                "Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ",
+                "Số liệu tương đối cập nhật, phân tích khái quát",
+                "Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu",
+                "Khảo sát sơ sài"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đề xuất được một số giải pháp",
+              "cells": [
+                "Đề xuất được một số giải pháp",
+                "30%",
+                "Các giải pháp hay, có tính khả thi",
+                "Các giải pháp tương đối khả thi",
+                "Giải pháp sơ sài",
+                "Không đưa ra được giải pháp"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+              "cells": [
+                "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+                "5%",
+                "Nộp đúng thời gian quy đinh",
+                "Nộp không đúng hạn 1 ngày",
+                "Nộp không đúng hạn 3 ngày",
+                "Nộp không đúng hạn 5 ngày"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 63,
+          "text": "Rubric 4 : Bài thi cuối kỳ",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 101
+        },
+        {
+          "type": "table",
+          "order": 64,
+          "table_id": "vi-lltt1101#tbl013",
+          "table_name": "Rubric 4 : Bài thi cuối kỳ",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2. Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 103,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Trình bày những kiến thức của nội dung được hỏi",
+              "cells": [
+                "Trình bày những kiến thức của nội dung được hỏi",
+                "40%",
+                "Trình bày đầy đủ những kiến thức của nội dung được hỏi",
+                "Trình bày được ¾ những kiến thức của nội dung được hỏi",
+                "Trình bày được ½ những kiến thức của nội dung được hỏi",
+                "Trình bày được ít hơn 1/3 những kiến thức của nội dung được hỏi"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn",
+              "cells": [
+                "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn",
+                "30%",
+                "Luận giải đầy đủ cơ sở lý luận có gắn với thực tiễn",
+                "Luận giải được ¾ cơ sở lý luận có gắn với thực tiễn",
+                "Luận giải được ½ cơ sở lý luận có gắn với thực tiễn",
+                "Không luận giải được"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đảm bảo tập trung nhất quán, không lạc đề",
+              "cells": [
+                "Đảm bảo tập trung nhất quán, không lạc đề",
+                "30%",
+                "Có phân tích logic, không lạc đề",
+                "Không lạc đề",
+                "Không tập trung nhất quán",
+                "Lạc đề"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-lltt1101#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": null,
+          "cells": [
+            "",
+            ""
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+          "cells": [
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+          "cells": [
+            "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+            "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 1,
+      "table_id": "vi-lltt1101#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "source_block": 3,
+      "column_labels": [
+        "- Tên học phần (tiếng Việt):",
+        "Tư tưởng Hồ Chí Minh"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Anh)",
+          "cells": [
+            "- Tên học phần (tiếng Anh)",
+            "Ho Chi Minh Ideology"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Tên học phần (tiếng Anh)",
+            "Tư tưởng Hồ Chí Minh": "Ho Chi Minh Ideology"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Mã số học phần",
+          "cells": [
+            "- Mã số học phần",
+            "LLTT1101"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Mã số học phần",
+            "Tư tưởng Hồ Chí Minh": "LLTT1101"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Thuộc khối kiến thức",
+          "cells": [
+            "- Thuộc khối kiến thức",
+            "Kiến thức giáo dục đại cương"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Thuộc khối kiến thức",
+            "Tư tưởng Hồ Chí Minh": "Kiến thức giáo dục đại cương"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Số tín chỉ",
+          "cells": [
+            "- Số tín chỉ",
+            "02"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Số tín chỉ",
+            "Tư tưởng Hồ Chí Minh": "02"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "+ Số giờ trên lớp",
+          "cells": [
+            "+ Số giờ trên lớp",
+            "30"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "+ Số giờ trên lớp",
+            "Tư tưởng Hồ Chí Minh": "30"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số giờ tự học",
+          "cells": [
+            "+ Số giờ tự học",
+            "60"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "+ Số giờ tự học",
+            "Tư tưởng Hồ Chí Minh": "60"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "- Các học phần tiên quyết",
+          "cells": [
+            "- Các học phần tiên quyết",
+            "Triết học Mác - Lênin, Kinh tế chính trị Mác-Lênin, Chủ nghĩa xã hội khoa học"
+          ],
+          "column_map": {
+            "- Tên học phần (tiếng Việt):": "- Các học phần tiên quyết",
+            "Tư tưởng Hồ Chí Minh": "Triết học Mác - Lênin, Kinh tế chính trị Mác-Lênin, Chủ nghĩa xã hội khoa học"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "table_id": "vi-lltt1101#tbl003",
+      "table_name": "Giảng viên giảng dạy:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "faculty_and_instructors"
+      ],
+      "source_block": 8,
+      "column_labels": [
+        "TT",
+        "Họ và tên",
+        "Số điện thoại",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "TS.GVC. Nguyễn Hồng Sơn",
+            "0912212302",
+            "sonnh@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "1",
+            "Họ và tên": "TS.GVC. Nguyễn Hồng Sơn",
+            "Số điện thoại": "0912212302",
+            "Email": "sonnh@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "TS.GVC. Nguyễn Thị Bích Thủy",
+            "0977827782",
+            "thuyntb@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "2",
+            "Họ và tên": "TS.GVC. Nguyễn Thị Bích Thủy",
+            "Số điện thoại": "0977827782",
+            "Email": "thuyntb@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "TS.GVC. Nguyễn Chí Thiện",
+            "0913059808",
+            "thiennc@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "3",
+            "Họ và tên": "TS.GVC. Nguyễn Chí Thiện",
+            "Số điện thoại": "0913059808",
+            "Email": "thiennc@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "TS.GVC. Lê Thị Hoa",
+            "0912139918",
+            "hoalt@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "4",
+            "Họ và tên": "TS.GVC. Lê Thị Hoa",
+            "Số điện thoại": "0912139918",
+            "Email": "hoalt@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "TS.GVC. Nguyễn Quang Trung",
+            "0911133533",
+            "trungnqml@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "5",
+            "Họ và tên": "TS.GVC. Nguyễn Quang Trung",
+            "Số điện thoại": "0911133533",
+            "Email": "trungnqml@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "TS.GVC. Nguyễn Thùy Linh",
+            "0916251915",
+            "linhnt@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "6",
+            "Họ và tên": "TS.GVC. Nguyễn Thùy Linh",
+            "Số điện thoại": "0916251915",
+            "Email": "linhnt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "vi-lltt1101#tbl004",
+      "table_name": "Bảng 5.1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 32,
+      "column_labels": [
+        "Mã/Code (CGx)",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR (PLO) của CTĐT*"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR (PLO) của CTĐT*": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "- Sinh viên hiểu được đối tượng, phương pháp nghiên cứu, ý nghĩa học tập của môn học Tư tưởng Hồ Chí Minh. - Sinh viên hiểu được cơ sở lý luận và thực tiễn đối với sự hình thành tư tưởng Hồ Chí Minh; nhận thức được các giai đoạn phát triển chủ yếu của tư tưởng Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam. - Nhận thức được tính khoa học, cách mạng và tính sáng tạo của Hồ Chí Minh trong việc vận dụng những nguyên lý Macxit vào thực tiễn cách mạng; đồng thời thấy rõ vai trò, ý nghĩa to lớn của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam và cách mạng thế giới.",
+            "PLO1.1.2 PLO1.2.2 PLO1.2.3"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "- Sinh viên hiểu được đối tượng, phương pháp nghiên cứu, ý nghĩa học tập của môn học Tư tưởng Hồ Chí Minh. - Sinh viên hiểu được cơ sở lý luận và thực tiễn đối với sự hình thành tư tưởng Hồ Chí Minh; nhận thức được các giai đoạn phát triển chủ yếu của tư tưởng Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam. - Nhận thức được tính khoa học, cách mạng và tính sáng tạo của Hồ Chí Minh trong việc vận dụng những nguyên lý Macxit vào thực tiễn cách mạng; đồng thời thấy rõ vai trò, ý nghĩa to lớn của tư tưởng Hồ Chí Minh đối với cách mạng Việt Nam và cách mạng thế giới.",
+            "CĐR (PLO) của CTĐT*": "PLO1.1.2 PLO1.2.2 PLO1.2.3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "- Có kỹ năng vận dụng, liên hệ những nội dung cơ bản trong tư tưởng Hồ Chí Minh vào thực tiễn đổi mới ở Việt Nam hiện nay. - Sinh viên hình thành năng lực tư duy khoa học; có kỹ năng nhận thức và giải quyết đúng đắn cả về mặt lý luận và thực tiễn các vấn đề đặt ra trong cuộc sống. - Xây dựng và củng cố niềm tin vào chế độ xã hội chủ nghĩa, tiếp thêm sức mạnh về ý chí và hành động phấn đấu cho lý tưởng cách mạng.",
+            "PLO2.1.1"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "- Có kỹ năng vận dụng, liên hệ những nội dung cơ bản trong tư tưởng Hồ Chí Minh vào thực tiễn đổi mới ở Việt Nam hiện nay. - Sinh viên hình thành năng lực tư duy khoa học; có kỹ năng nhận thức và giải quyết đúng đắn cả về mặt lý luận và thực tiễn các vấn đề đặt ra trong cuộc sống. - Xây dựng và củng cố niềm tin vào chế độ xã hội chủ nghĩa, tiếp thêm sức mạnh về ý chí và hành động phấn đấu cho lý tưởng cách mạng.",
+            "CĐR (PLO) của CTĐT*": "PLO2.1.1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Từng bước xây dựng, rèn luyện phương pháp và phong cách tư duy, phong cách làm việc khoa học, tự chủ, đổi mới và sáng tạo.",
+            "PLO3.1.1"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "G3",
+            "Mô tả mục tiêu học phần (CG)": "Từng bước xây dựng, rèn luyện phương pháp và phong cách tư duy, phong cách làm việc khoa học, tự chủ, đổi mới và sáng tạo.",
+            "CĐR (PLO) của CTĐT*": "PLO3.1.1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "vi-lltt1101#tbl005",
+      "table_name": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 36,
+      "column_labels": [
+        "Mục tiêu HP",
+        "CLOs",
+        "Mô tả CLOs*",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "[1]",
+            "CLOs": "[2]",
+            "Mô tả CLOs*": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Giúp cho người học hiểu được cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; thấy rõ cuộc đời sự nghiệp cách mạng cao cả, vĩ đại của Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam qua các thời kỳ lịch sử.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.1",
+            "Mô tả CLOs*": "Giúp cho người học hiểu được cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; thấy rõ cuộc đời sự nghiệp cách mạng cao cả, vĩ đại của Hồ Chí Minh gắn với thực tiễn cách mạng Việt Nam qua các thời kỳ lịch sử.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Giúp cho người học hiểu rõ những nội dung cơ bản trong tư tưởng Hồ Chí Minh; nhận thức được bản chất khoa học cách mạng, tính hệ thống, toàn diện trong tư tưởng Hồ Chí Minh về cách mạng Việt Nam.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.2",
+            "Mô tả CLOs*": "Giúp cho người học hiểu rõ những nội dung cơ bản trong tư tưởng Hồ Chí Minh; nhận thức được bản chất khoa học cách mạng, tính hệ thống, toàn diện trong tư tưởng Hồ Chí Minh về cách mạng Việt Nam.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Giúp cho người học hiểu rõ vai trò của Hồ Chí Minh trong việc vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, kế thừa những giá trị truyền thống tốt đẹp của dân tộc và tinh hoa văn hóa, văn minh của nhân loại, xây dựng đường lối, chiến lược phù hợp, sáng tạo, đưa cách mạng Việt Nam đi tới thắng lợi, góp phần quan trọng vào tiến trình cách mạng thế giới.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G1",
+            "CLOs": "CLO1.3",
+            "Mô tả CLOs*": "Giúp cho người học hiểu rõ vai trò của Hồ Chí Minh trong việc vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin, kế thừa những giá trị truyền thống tốt đẹp của dân tộc và tinh hoa văn hóa, văn minh của nhân loại, xây dựng đường lối, chiến lược phù hợp, sáng tạo, đưa cách mạng Việt Nam đi tới thắng lợi, góp phần quan trọng vào tiến trình cách mạng thế giới.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Có kỹ năng vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội; về đoàn kết dân tộc, đoàn kết quốc tế, văn hóa, đạo đức, con người trong phân tích sự nghiệp đổi mới đất nước hiện nay.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G2",
+            "CLOs": "CLO2.1",
+            "Mô tả CLOs*": "Có kỹ năng vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội; về đoàn kết dân tộc, đoàn kết quốc tế, văn hóa, đạo đức, con người trong phân tích sự nghiệp đổi mới đất nước hiện nay.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Có kỹ năng phân tích, liên hệ tư tưởng Hồ Chí Minh về Đảng, Nhà nước với thực tiễn xây dựng Đảng và Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở Việt Nam hiện nay.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G2",
+            "CLOs": "CLO2.2",
+            "Mô tả CLOs*": "Có kỹ năng phân tích, liên hệ tư tưởng Hồ Chí Minh về Đảng, Nhà nước với thực tiễn xây dựng Đảng và Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở Việt Nam hiện nay.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Giúp cho người học nâng cao năng lực tư duy lý luận; nâng cao bản lĩnh chính trị, ý thức và trách nhiệm công dân, thường xuyên tu dưỡng và rèn luyện theo tư tưởng, đạo đức và phong cách Hồ Chí Minh.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G3",
+            "CLOs": "CLO3.1",
+            "Mô tả CLOs*": "Giúp cho người học nâng cao năng lực tư duy lý luận; nâng cao bản lĩnh chính trị, ý thức và trách nhiệm công dân, thường xuyên tu dưỡng và rèn luyện theo tư tưởng, đạo đức và phong cách Hồ Chí Minh.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Góp phần giúp người học hình thành phương pháp và kỹ năng làm việc khoa học, kỹ năng phát hiện và giải quyết vấn đề; kỹ năng thuyết trình, phản biện, phát huy tính tự chủ, sáng tạo của mỗi cá nhân và tính liên kết cộng đồng trong học tập, nghiên cứu khoa học.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "G3",
+            "CLOs": "CLO3.2",
+            "Mô tả CLOs*": "Góp phần giúp người học hình thành phương pháp và kỹ năng làm việc khoa học, kỹ năng phát hiện và giải quyết vấn đề; kỹ năng thuyết trình, phản biện, phát huy tính tự chủ, sáng tạo của mỗi cá nhân và tính liên kết cộng đồng trong học tập, nghiên cứu khoa học.",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CLO3.3",
+          "cells": [
+            "",
+            "CLO3.3",
+            "Có tinh thần trách nhiệm cao, có kỹ năng ứng xử chuyên nghiệp đáp ứng yêu cầu đổi mới, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế hiện nay.",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu HP": "",
+            "CLOs": "CLO3.3",
+            "Mô tả CLOs*": "Có tinh thần trách nhiệm cao, có kỹ năng ứng xử chuyên nghiệp đáp ứng yêu cầu đổi mới, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế hiện nay.",
+            "Mức độ đạt được": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "vi-lltt1101#tbl006",
+      "table_name": "Bảng 7.1. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "source_block": 40,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/ \nBài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Tiêu chí đánh giá*",
+        "Tỷ lệ (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung/ \nBài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Tiêu chí đánh giá*": "[5]",
+            "Tỷ lệ (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+            "Các buổi seminar",
+            "3.1 3.2",
+            "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp - Mức độ hoàn thành đúng hạn các bài tập các nhân/ nhóm Phụ lục 2, rubrics 1",
+            "10%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung/ \nBài đánh giá": "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+            "Thời điểm": "Các buổi seminar",
+            "CLOs": "3.1 3.2",
+            "Tiêu chí đánh giá*": "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp - Mức độ hoàn thành đúng hạn các bài tập các nhân/ nhóm Phụ lục 2, rubrics 1",
+            "Tỷ lệ (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá giữa kỳ lần 1",
+          "cells": [
+            "Đánh giá giữa kỳ lần 1",
+            "Bài tập nhóm Nhóm 5-6 sinh viên Chủ đề: Giáo viên lớp seminar cung cấp Nhóm xây dựng đề cương, nghiên cứu, viết báo cáo theo quy định Bài tập lớn được giáo viên lớp seminar quy định. Kết quả là một bài viết khoảng từ 8 đến 12 trang (không bắt buộc thuyết trình)",
+            "Nộp bản cuối",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Mức độ hoàn thành bài tập nhóm (đúng thời gian, chất lượng gắn với mức độ đạt được kiến thức, kỹ năng theo yêu cầu của chuẩn đầu ra học phần Phụ lục 2, rubrics 2",
+            "20%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá giữa kỳ lần 1",
+            "Nội dung/ \nBài đánh giá": "Bài tập nhóm Nhóm 5-6 sinh viên Chủ đề: Giáo viên lớp seminar cung cấp Nhóm xây dựng đề cương, nghiên cứu, viết báo cáo theo quy định Bài tập lớn được giáo viên lớp seminar quy định. Kết quả là một bài viết khoảng từ 8 đến 12 trang (không bắt buộc thuyết trình)",
+            "Thời điểm": "Nộp bản cuối",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Tiêu chí đánh giá*": "Mức độ hoàn thành bài tập nhóm (đúng thời gian, chất lượng gắn với mức độ đạt được kiến thức, kỹ năng theo yêu cầu của chuẩn đầu ra học phần Phụ lục 2, rubrics 2",
+            "Tỷ lệ (%)": "20%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+          "cells": [
+            "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+            "Sinh viên làm Bài tập cá nhân do giáo viên giao chủ đề. Quy cách, thể lệ do giảng viên quy định. Số lượng trang từ 6-8 trang.",
+            "Thời gian làm bài tập do giảng viên seminar quyết định",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Bài tập đáp ứng yêu cầu đánh giá kiến thức cơ bản và kiến thức vận dụng",
+            "20%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá giữa kỳ lần 2: Bài tập cá nhân",
+            "Nội dung/ \nBài đánh giá": "Sinh viên làm Bài tập cá nhân do giáo viên giao chủ đề. Quy cách, thể lệ do giảng viên quy định. Số lượng trang từ 6-8 trang.",
+            "Thời điểm": "Thời gian làm bài tập do giảng viên seminar quyết định",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Tiêu chí đánh giá*": "Bài tập đáp ứng yêu cầu đánh giá kiến thức cơ bản và kiến thức vận dụng",
+            "Tỷ lệ (%)": "20%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Đánh giá toàn bộ kiến thức môn học.",
+            "Theo lịch thi của Trường",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "- Trắc nghiệm khách quan trên máy. Thời gian làm bài 50 phút/80 câu. - Xem phụ lục 1: Ma trận đề thi.",
+            "50%"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung/ \nBài đánh giá": "Đánh giá toàn bộ kiến thức môn học.",
+            "Thời điểm": "Theo lịch thi của Trường",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2 CLO3.3",
+            "Tiêu chí đánh giá*": "- Trắc nghiệm khách quan trên máy. Thời gian làm bài 50 phút/80 câu. - Xem phụ lục 1: Ma trận đề thi.",
+            "Tỷ lệ (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "vi-lltt1101#tbl007",
+      "table_name": "Bảng 8.1. Kế hoạch và nội dung giảng dạy",
+      "section_path": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "section_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "source_block": 49,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1. Chương 1: Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh 1. Khái niệm tư tưởng Hồ Chí Minh 2. Đối tượng nghiên cứu 3. Phương pháp nghiên cứu 4. Ý nghĩa học tập môn học tư tưởng Hồ Chí Minh",
+            "[1] Chương 1 [2] Chương 1 [4]",
+            "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide bài giảng, quy định thi, kiểm tra, đánh giá, hướng dẫn kế hoạch học tập; xây dựng các nhóm học tập. - Giảng lý thuyết bài 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết. - Phân nhóm thảo luận và đưa ra các nội dung, yêu cầu thảo luận dành cho seminar 1. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1. Chương 1: Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh 1. Khái niệm tư tưởng Hồ Chí Minh 2. Đối tượng nghiên cứu 3. Phương pháp nghiên cứu 4. Ý nghĩa học tập môn học tư tưởng Hồ Chí Minh",
+            "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [4]",
+            "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide bài giảng, quy định thi, kiểm tra, đánh giá, hướng dẫn kế hoạch học tập; xây dựng các nhóm học tập. - Giảng lý thuyết bài 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết. - Phân nhóm thảo luận và đưa ra các nội dung, yêu cầu thảo luận dành cho seminar 1. Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 - Tóm tắt kiến thức chương 1. - Thảo luận về phương pháp tiếp cận cũng như các nội dung chủ yếu của Chương 1.",
+            "[1] Chương 1 [2] Chương 1 [4]",
+            "Giảng viên - Tóm tắt kiến thức chương 1. - Chủ trì thảo luận nhóm. - Tổng kết, đánh giá và gợi mở những kiến thức cần tiếp tục nghiên cứu. Sinh viên: - Đọc tài liệu trước. - Tham gia thảo luận xung quanh các kiến thức cơ bản của Chương 1.",
+            "- Điểm danh - Trả lời câu hỏi trong nội dung của seminar 1 - Mức độ hoàn thành các bài tập trên lớp - Phụ lục 2, rubrics 1",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1. - Thảo luận về phương pháp tiếp cận cũng như các nội dung chủ yếu của Chương 1.",
+            "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [4]",
+            "Hoạt động dạy và học": "Giảng viên - Tóm tắt kiến thức chương 1. - Chủ trì thảo luận nhóm. - Tổng kết, đánh giá và gợi mở những kiến thức cần tiếp tục nghiên cứu. Sinh viên: - Đọc tài liệu trước. - Tham gia thảo luận xung quanh các kiến thức cơ bản của Chương 1.",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong nội dung của seminar 1 - Mức độ hoàn thành các bài tập trên lớp - Phụ lục 2, rubrics 1",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 1. Cơ sở hình thành tư tưởng Hồ Chí Minh 2. Quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh",
+            "[1] Chương 2 [2] Chương 2 [4]",
+            "Giảng viên - Giảng lý thuyết theo nội dung bài giảng/Slide chương 2 - Hướng dẫn sinh viên đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên đọc trước tài liệu chuẩn bị các câu hỏi thảo luận cho buổi seminar 2 Sinh viên Đọc trước các nội dung bài giảng chương 2 trong tài liệu [1] và [2] và chuẩn bị câu hỏi và các nội dung thảo luận cho buổi seminar 2.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 1. Cơ sở hình thành tư tưởng Hồ Chí Minh 2. Quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh",
+            "Tài liệu đọc": "[1] Chương 2 [2] Chương 2 [4]",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung bài giảng/Slide chương 2 - Hướng dẫn sinh viên đọc giáo trình, tài liệu tham khảo. - Yêu cầu sinh viên đọc trước tài liệu chuẩn bị các câu hỏi thảo luận cho buổi seminar 2 Sinh viên Đọc trước các nội dung bài giảng chương 2 trong tài liệu [1] và [2] và chuẩn bị câu hỏi và các nội dung thảo luận cho buổi seminar 2.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Seminar 2 - Tóm tắt kiến thức chương 2, mục 1,2. - Các nhóm trình bày các chủ đề được phân công.",
+            "[1] Chương 2 [2] Chương 2 [4]",
+            "Giảng viên - Tóm tắt kiến thức chương 2 mục 1, 2. - Hướng dẫn thảo luận về các nội dung chủ yếu trong mục 1, 2 chương 2. + Các nội dung chính cần thảo luận. + Các vấn đề, tình huống đặt ra cần phân tích, làm rõ. + Tổng kết, gợi mở các vấn đề cần tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước - Tham gia thảo luận. - Trả lời các câu hỏi và đưa ra các câu hỏi, các vấn đề, tình huống cần được tiếp tục là rõ.",
+            "- Điểm danh. - Trình bày về chủ đề nhóm. - Thảo luận, trả lời câu hỏi và đưa ra các câu hỏi, vấn đề cần được tiếp tục làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 2, mục 1,2. - Các nhóm trình bày các chủ đề được phân công.",
+            "Tài liệu đọc": "[1] Chương 2 [2] Chương 2 [4]",
+            "Hoạt động dạy và học": "Giảng viên - Tóm tắt kiến thức chương 2 mục 1, 2. - Hướng dẫn thảo luận về các nội dung chủ yếu trong mục 1, 2 chương 2. + Các nội dung chính cần thảo luận. + Các vấn đề, tình huống đặt ra cần phân tích, làm rõ. + Tổng kết, gợi mở các vấn đề cần tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước - Tham gia thảo luận. - Trả lời các câu hỏi và đưa ra các câu hỏi, các vấn đề, tình huống cần được tiếp tục là rõ.",
+            "Đánh giá": "- Điểm danh. - Trình bày về chủ đề nhóm. - Thảo luận, trả lời câu hỏi và đưa ra các câu hỏi, vấn đề cần được tiếp tục làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 3. Giá trị tư tưởng Hồ Chí Minh Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 1. Tư tưởng Hồ Chí Minh về độc lập dân tộc",
+            "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+            "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 2, 3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống dành cho buổi seminar 3.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Lecture 3 Chương 2: Cơ sở, quá trình hình thành và phát triển của tư tưởng Hồ Chí Minh 3. Giá trị tư tưởng Hồ Chí Minh Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 1. Tư tưởng Hồ Chí Minh về độc lập dân tộc",
+            "Tài liệu đọc": "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+            "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 2, 3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống dành cho buổi seminar 3.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Seminar 3 - Tóm tắt kiến thức chương 2, mục 3; chương 3, mục 1. - Các nhóm trình bày các chủ đề được phân công.",
+            "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản chương 2, mục 3 và chương 3, mục 1. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Seminar 3 - Tóm tắt kiến thức chương 2, mục 3; chương 3, mục 1. - Các nhóm trình bày các chủ đề được phân công.",
+            "Tài liệu đọc": "[1] Chương 2, Chương 3 [2] Chương 2, Chương 3 [4], [6]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 2, mục 3 và chương 3, mục 1. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 4 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 2. Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội 3. Tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội",
+            "[1] Chương 3 [2] Chương 3 [4], [6]",
+            "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 2,3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 4.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Lecture 4 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 2. Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội 3. Tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội",
+            "Tài liệu đọc": "[1] Chương 3 [2] Chương 3 [4], [6]",
+            "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 2,3. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 3. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 4.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công. - Giao bài tập cá nhân giữa kỳ",
+            "[1] Chương 3 [2] Chương 3 [4], [6]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản chương 3, mục 2,3. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Hướng dẫn làm bài tập cá nhân giữa kỳ; yêu cầu về hình thức và nội dung, thời hạn nộp bài. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công. - Giao bài tập cá nhân giữa kỳ",
+            "Tài liệu đọc": "[1] Chương 3 [2] Chương 3 [4], [6]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 3, mục 2,3. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Hướng dẫn làm bài tập cá nhân giữa kỳ; yêu cầu về hình thức và nội dung, thời hạn nộp bài. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 4. Vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội trong sự nghiệp cách mạng Việt Nam trong giai đoạn hiện nay Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam",
+            "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+            "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 4; chương 4, mục 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 5. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 5.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5 Chương 3: Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội 4. Vận dụng tư tưởng Hồ Chí Minh về độc lập dân tộc gắn liền với chủ nghĩa xã hội trong sự nghiệp cách mạng Việt Nam trong giai đoạn hiện nay Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam",
+            "Tài liệu đọc": "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+            "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 3, mục 4; chương 4, mục 1. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 5. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 5.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Seminar 5 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Seminar 5 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "Tài liệu đọc": "[1] Chương 3,4 [2] Chương 3,4 [3], [4], [6]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+          "cells": [
+            "",
+            "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+            "[1] Chương 4 [2] Chương 4 [3], [4]",
+            "",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "",
+            "Nội dung": "Lecture 6 Chương 4: Tư tưởng Hồ Chí Minh về Đảng cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân 1. Tư tưởng Hồ Chí Minh về Nhà nước của nhân dân, do nhân dân, vì nhân dân 2. Vận dụng tư tưởng Hồ Chí Minh vào công tác xây dựng Đảng và xây dựng Nhà nước",
+            "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3], [4]",
+            "Hoạt động dạy và học": "",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Seminar 6 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "[1] Chương 4 [2] Chương 4 [3], [4]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Seminar 6 - Tóm tắt kiến thức chương 3, mục 2,3. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3], [4]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản đã học. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 7 Chương 5: tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế 1. Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc 2. Tư tưởng Hồ Chí Minh về đoàn kết quốc tế 3. Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong giai đoạn hiện nay",
+            "[1] Chương 5 [2] Chương 5 [4], [5]",
+            "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 5. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 6. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 6.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Lecture 7 Chương 5: tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế 1. Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc 2. Tư tưởng Hồ Chí Minh về đoàn kết quốc tế 3. Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế trong giai đoạn hiện nay",
+            "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [5]",
+            "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 5. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 6. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 6.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "[1] Chương 5 [2] Chương 5 [4], [5]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Thu Bài tập cá nhân giữa kỳ. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận. - Nộp Bài tập cá nhân giữa kỳ.",
+            "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [5]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu. - Thu Bài tập cá nhân giữa kỳ. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận. - Nộp Bài tập cá nhân giữa kỳ.",
+            "Đánh giá": "- Điểm danh - Trình bày các chủ đề nhóm được phân công. - Thảo luận các chủ đề. - Trả lời câu hỏi, tình huống được đưa ra. - Đặt câu hỏi, tình huống phát sinh cần được làm rõ.",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Lecture 8 Chương 6: Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người 1 Tư tưởng Hồ Chí Minh về văn hoá 2. Tư tưởng Hồ Chí Minh về đạo đức 3. Tư tưởng Hồ Chí Minh về con người 4. Xây dựng văn hoá, đạo đức, con người Việt Nam hiện nay theo tư tưởng Hồ Chí Minh",
+            "[1] Chương 5 [2] Chương 5 [4], [7]",
+            "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 6. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 7. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 7.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Lecture 8 Chương 6: Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người 1 Tư tưởng Hồ Chí Minh về văn hoá 2. Tư tưởng Hồ Chí Minh về đạo đức 3. Tư tưởng Hồ Chí Minh về con người 4. Xây dựng văn hoá, đạo đức, con người Việt Nam hiện nay theo tư tưởng Hồ Chí Minh",
+            "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [7]",
+            "Hoạt động dạy và học": "- Giảng lý thuyết theo nội dung Bài giảng / slide chương 6. - Hướng dẫn đọc giáo trình, tài liệu tham khảo. - Đưa ra các chủ đề và phân công các nhóm chuẩn bị cho buổi seminar 7. - Yêu cầu sinh viên chuẩn bị kiến thức, xem trước các ví dụ, câu hỏi, tình huống thảo luận dành cho buổi seminar 7.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "[1] Chương 5 [2] Chương 5 [4], [7]",
+            "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu chương 6. - Khái quát các kiến thức chủ yếu, các vấn đề có tính hệ thống và tính tương quang giữa các khối kiến thức môn học, cần nghiên cứu, ôn tập. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 7 - Tóm tắt kiến thức chương 5. - Các nhóm trình bày các chủ đề đã được phân công.",
+            "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [4], [7]",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức cơ bản chương 5. - Nêu các câu hỏi, các tình huống cần trao đổi, thảo luận. - Tổng kết, đánh giá, gợi mở các vấn đề cần được tiếp tục nghiên cứu chương 6. - Khái quát các kiến thức chủ yếu, các vấn đề có tính hệ thống và tính tương quang giữa các khối kiến thức môn học, cần nghiên cứu, ôn tập. Sinh viên - Đọc tài liệu trước. - Các nhóm tham gia thảo luận. - Trả lời và đưa ra các câu hỏi, tình huống thảo luận.",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "… (Toàn bộ / Các bài nào, chương nào…)",
+            "Thi trắc nghiệm khách quan trên máy",
+            "Xem Phụ lục 1: ma trận đề thi",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "… (Toàn bộ / Các bài nào, chương nào…)",
+            "Hoạt động dạy và học": "Thi trắc nghiệm khách quan trên máy",
+            "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+            "CLOs": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 51,
+      "table_id": "vi-lltt1101#tbl008",
+      "table_name": "Tháng 6 năm 2024",
+      "section_path": [
+        "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "section_labels": [
+        "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "source_block": 75,
+      "column_labels": [
+        "TRƯỞNG KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS Nguyễn Thị Hoàn",
+          "cells": [
+            "TS Nguyễn Thị Hoàn",
+            "GS.TS Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "TRƯỞNG KHOA": "TS Nguyễn Thị Hoàn",
+            "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 56,
+      "table_id": "vi-lltt1101#tbl009",
+      "table_name": "Thời gian: 50 phút",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 83,
+      "column_labels": [
+        "Bài",
+        "CLO",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 1",
+          "cells": [
+            "Lecture 1",
+            "1.1, 2.1",
+            "4",
+            "",
+            "",
+            "4"
+          ],
+          "column_map": {
+            "Bài": "Lecture 1",
+            "CLO": "1.1, 2.1",
+            "Nhớ": "4",
+            "Hiểu": "",
+            "Vận dụng": "",
+            "Tổng": "4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 2",
+          "cells": [
+            "Lecture 2",
+            "1.2, 1.3",
+            "6",
+            "8",
+            "2",
+            "16"
+          ],
+          "column_map": {
+            "Bài": "Lecture 2",
+            "CLO": "1.2, 1.3",
+            "Nhớ": "6",
+            "Hiểu": "8",
+            "Vận dụng": "2",
+            "Tổng": "16"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 3",
+          "cells": [
+            "Lecture 3",
+            "1.4, 2.4",
+            "10",
+            "8",
+            "4",
+            "22"
+          ],
+          "column_map": {
+            "Bài": "Lecture 3",
+            "CLO": "1.4, 2.4",
+            "Nhớ": "10",
+            "Hiểu": "8",
+            "Vận dụng": "4",
+            "Tổng": "22"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 4",
+          "cells": [
+            "Lecture 4",
+            "1.1, 2.1",
+            "3",
+            "2",
+            "1",
+            "6"
+          ],
+          "column_map": {
+            "Bài": "Lecture 4",
+            "CLO": "1.1, 2.1",
+            "Nhớ": "3",
+            "Hiểu": "2",
+            "Vận dụng": "1",
+            "Tổng": "6"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 5",
+          "cells": [
+            "Lecture 5",
+            "1.5, 2.5",
+            "5",
+            "5",
+            "2",
+            "12"
+          ],
+          "column_map": {
+            "Bài": "Lecture 5",
+            "CLO": "1.5, 2.5",
+            "Nhớ": "5",
+            "Hiểu": "5",
+            "Vận dụng": "2",
+            "Tổng": "12"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.2, 3.3",
+            "5",
+            "5",
+            "2",
+            "12"
+          ],
+          "column_map": {
+            "Bài": "Lecture 6",
+            "CLO": "1.2, 3.3",
+            "Nhớ": "5",
+            "Hiểu": "5",
+            "Vận dụng": "2",
+            "Tổng": "12"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Câu hỏi tổng hợp",
+          "cells": [
+            "Câu hỏi tổng hợp",
+            "3.1, 3.2, 3.4",
+            "",
+            "6",
+            "2",
+            "8"
+          ],
+          "column_map": {
+            "Bài": "Câu hỏi tổng hợp",
+            "CLO": "3.1, 3.2, 3.4",
+            "Nhớ": "",
+            "Hiểu": "6",
+            "Vận dụng": "2",
+            "Tổng": "8"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tổng số câu",
+          "cells": [
+            "Tổng số câu",
+            "Tổng số câu",
+            "33",
+            "34",
+            "13",
+            "80"
+          ],
+          "column_map": {
+            "Bài": "Tổng số câu",
+            "CLO": "Tổng số câu",
+            "Nhớ": "33",
+            "Hiểu": "34",
+            "Vận dụng": "13",
+            "Tổng": "80"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Tỷ lrọng",
+          "cells": [
+            "Tỷ lrọng",
+            "Tỷ lrọng",
+            "40%",
+            "40%",
+            "20%",
+            "100%"
+          ],
+          "column_map": {
+            "Bài": "Tỷ lrọng",
+            "CLO": "Tỷ lrọng",
+            "Nhớ": "40%",
+            "Hiểu": "40%",
+            "Vận dụng": "20%",
+            "Tổng": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 58,
+      "table_id": "vi-lltt1101#tbl010",
+      "table_name": "Rubric 1: Chuyên cần/Participant",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2. Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 87,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi có mặt trên lớp",
+          "cells": [
+            "Số buổi có mặt trên lớp",
+            "50%",
+            "15 buổi",
+            "14 buổi",
+            "13 buổi",
+            "12 buổi"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Thái độ học tập trên lớp",
+          "cells": [
+            "Thái độ học tập trên lớp",
+            "30%",
+            "Nghiêm túc, chấp hành kỷ luật lớp học giữ trật tự",
+            "Bị nhắc nhở 1 lần",
+            "Bị nhắc từ 2 lần",
+            "Bị nhắc nhở nhiều lần"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Tích cực xây dựng bài",
+          "cells": [
+            "Tích cực xây dựng bài",
+            "20%",
+            "Trả lời đúng nhiều câu hỏi",
+            "Trả lời đúng một câu hỏi",
+            "Có tham gia thảo luận",
+            "Không tham gia thảo luận"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 60,
+      "table_id": "vi-lltt1101#tbl011",
+      "table_name": "Rubric 2: Bài tập nhóm",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2. Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 97,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+          "cells": [
+            "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+            "30%",
+            "Đầy đủ nội dung, có sáng tạo",
+            "Đầy đủ nội dung",
+            "Đầy đủ nội dung",
+            "Chưa đầy đủ"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Kỹ năng Thuyết trình",
+          "cells": [
+            "Kỹ năng Thuyết trình",
+            "30%",
+            "Có kịch bản hay, thuyết trình lưu loát",
+            "Có kịch bản, thuyết trình tốt",
+            "Thuyết trình đạt yêu cầu",
+            "Không đạt yêu cầu"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Trả lời các câu hỏi của các nhóm",
+          "cells": [
+            "Trả lời các câu hỏi của các nhóm",
+            "20%",
+            "Trả lời đúng trên 5 câu hỏi",
+            "Trả lời đúng từ 1 đến 4 câu hỏi",
+            "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+            "Không trả lời câu hỏi nào."
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "Trả lời các câu hỏi của giáo viên",
+          "cells": [
+            "Trả lời các câu hỏi của giáo viên",
+            "20%",
+            "Trả lời đúng trên 5 câu hỏi",
+            "Trả lời đúng từ 1 đến 4 câu hỏi",
+            "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+            "Không trả lời câu hỏi nào."
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 62,
+      "table_id": "vi-lltt1101#tbl012",
+      "table_name": "Rubric 3 : Bài tập cá nhân",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2. Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 100,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nộp đúng thời hạn quy định",
+          "cells": [
+            "Nộp đúng thời hạn quy định",
+            "10%",
+            "Nộp đúng thời gian quy đinh",
+            "Nộp không đúng hạn 1 ngày",
+            "Nộp không đúng hạn 3 ngày",
+            "Nộp không đúng hạn 5 ngày"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Hệ thống được những vấn đề lý luận",
+          "cells": [
+            "Hệ thống được những vấn đề lý luận",
+            "20%",
+            "Luận giải đầy đủ cơ sở lý luận",
+            "Luận giải được ¾ cơ sở lý luận",
+            "Luận giải được ½ cơ sở lý luận",
+            "Không liên hệ được"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+          "cells": [
+            "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+            "30%",
+            "Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ",
+            "Số liệu tương đối cập nhật, phân tích khái quát",
+            "Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu",
+            "Khảo sát sơ sài"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đề xuất được một số giải pháp",
+          "cells": [
+            "Đề xuất được một số giải pháp",
+            "30%",
+            "Các giải pháp hay, có tính khả thi",
+            "Các giải pháp tương đối khả thi",
+            "Giải pháp sơ sài",
+            "Không đưa ra được giải pháp"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+          "cells": [
+            "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+            "5%",
+            "Nộp đúng thời gian quy đinh",
+            "Nộp không đúng hạn 1 ngày",
+            "Nộp không đúng hạn 3 ngày",
+            "Nộp không đúng hạn 5 ngày"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 64,
+      "table_id": "vi-lltt1101#tbl013",
+      "table_name": "Rubric 4 : Bài thi cuối kỳ",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2. Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 103,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Trình bày những kiến thức của nội dung được hỏi",
+          "cells": [
+            "Trình bày những kiến thức của nội dung được hỏi",
+            "40%",
+            "Trình bày đầy đủ những kiến thức của nội dung được hỏi",
+            "Trình bày được ¾ những kiến thức của nội dung được hỏi",
+            "Trình bày được ½ những kiến thức của nội dung được hỏi",
+            "Trình bày được ít hơn 1/3 những kiến thức của nội dung được hỏi"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn",
+          "cells": [
+            "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn",
+            "30%",
+            "Luận giải đầy đủ cơ sở lý luận có gắn với thực tiễn",
+            "Luận giải được ¾ cơ sở lý luận có gắn với thực tiễn",
+            "Luận giải được ½ cơ sở lý luận có gắn với thực tiễn",
+            "Không luận giải được"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đảm bảo tập trung nhất quán, không lạc đề",
+          "cells": [
+            "Đảm bảo tập trung nhất quán, không lạc đề",
+            "30%",
+            "Có phân tích logic, không lạc đề",
+            "Không lạc đề",
+            "Không tập trung nhất quán",
+            "Lạc đề"
+          ],
+          "column_map": null
+        }
+      ]
+    }
+  ],
+  "full_text": "Khoa/viện quản lý học phần: Khoa Lý luận chính trị\nĐịa chỉ: Phòng 1015 Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên giảng dạy:\n- Học phần gồm 6 chương, trang bị cho sinh viên những kiến thức cơ bản về nguồn gốc, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; Những nội dung cơ bản về tư tưởng Hồ Chí Minh; Sự vận dụng tư tưởng Hồ Chí Minh của Đảng cộng sản Việt Nam trong sự nghiệp cách mạng.\n- Hình thành cho sinh viên khả năng tư duy độc lập, phân tích, đánh giá, vận dụng sáng tạo tư tưởng Hồ Chí Minh vào giải quyết các vấn đề trong thực tiễn đời sống, học tập và công tác.\n- Giúp sinh viên củng cố lập trường cách mạng, kiên định mục tiêu lý tưởng độc lập dân tộc gắn liền với chu nghĩa xã hội; Góp phần giáo dục đạo đức, tư cách, phẩm chất cách mạng, đóng góp thiết thực và hiệu quả cho sự nghiệp cách mạng.\nNội dung chính\n- Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh.\n- Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh.\n- Tư tưởng Hồ Chí Minh về dân tộc và chủ nghĩa xã hội.\n- Tư tưởng Hồ Chí Minh về Đảng cộng sản và Nhà nước của nhân dân, do nhân dân, vì nhân dân.\n- Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc và đoàn kết quốc tế.\n- Tư tưởng Hồ Chí Minh về văn hoá, đạo đức và con người.\nGiáo trình\n[1] Bộ Giáo dục và Đào tạo (2021), Giáo trình Tư tưởng Hồ Chí Minh, NXB Chính trị Quốc gia Sự thật, Hà Nội\nTài liệu tham khảo\n[2] Slide Bài giảng tư tưởng Hồ Chí Minh chuẩn do nhóm giảng viên tư tưởng Hồ Chí Minh – Khoa Lý luận Chính trị, Đại học KTQD biên soạn.\n[3]. Phạm Ngọc Anh – Bùi Đình Phong (2003), Tư tưởng Hồ Chí Minh về xây dựng Nhà nước pháp quyền kiểu mới ở Việt Nam, Nxb Lao động, Hà Nội.\n[4]. Hồ Chí Minh (2011), Toàn tập, tập 1 -15, Nxb Chính trị Quốc gia, Hà Nội.\n[5]. Học viện chính trị quốc gia Hồ Chí Minh – Viện Hồ Chí Minh và các lãnh tụ của Đảng (2004), Tư tưởng Hồ Chí Minh về đại đoàn kết với vấn đề phát huy sức mạnh đại đoàn kết dân tộc trong thời kỳ mới, Nxb Chính trị Quốc gia, Hà Nội.\n[6]. Nguyễn Bá Linh (2009), Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội, Nxb Chính trị Quốc gia, Hà Nội.\n[7]. Đặng Xuân Kỳ (chủ biên) (2005), Tư tưởng Hồ Chí Minh về xây dựng con người và phát triển văn hóa, Nxb Chính trị Quốc gia, Hà Nội.\nBảng 5.1. Mục tiêu học phần\nBảng 6.1. Chuẩn đầu ra học phần (CLO)\nBảng 7.1. Đánh giá học phần\nMa trận đề thi (phụ lục 1)\nCác rubrics (phụ lục 2)\nBảng 8.1. Kế hoạch và nội dung giảng dạy\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\n- Sinh viên/học viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học do lý do bất khả kháng thì phải có giấy tờ chứng minh đầy đủ và hợp lý.\n- Sinh viên có trách nhiệm chủ động nghiên cứu tài liệu, chủ động chuẩn bị bài học trước khi đến lớp theo hướng dẫn và yêu cầu của giảng viên\n- Sinh viên vắng quá 20% tổng số buổi học của học phần sẽ bị coi như không hoàn thành khóa học và phải đăng ký học lại.\n- Sinh viên nộp bài tập cá nhân muộn so với thời gian quy định của giảng viên sẽ nhận điểm 0 của bài tập đó.\n- Về trao đổi giữa giảng viên và sinh viên: Khuyến khích sinh viên tham gia thảo luận, phản hồi trực tiếp với giảng viên về nội dung học phần, phương pháp dạy và học, tài liệu giảng dạy và đọc. Giảng viên khuyến khích sinh viên phản hồi về hình thức, phương pháp và nội dung kiểm tra, đánh giá kết quả học tập của sinh viên. Sinh viên có thể giao trao đổi với giảng viên trên lớp, trong giờ hành chính hoặc qua email. Những thông tin phản hồi của sinh viên có giá trị góp phần nâng cao chất lượng dạy và học của học phần.\n- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\n- Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.\n- Tuyệt đối không được ăn uống, nhai kẹo cao su, sử dụng các thiết bị như điện thoại, máy nghe nhạc trong giờ học.\n- Máy tính xách tay, máy tính bảng chỉ được thực hiện vào mục đích ghi chép bài giảng, tính toán phục vụ bài giảng, bài tập, tuyệt đối không dùng vào việc khác.\nTháng 6 năm 2024\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm khách quan trên máy tính\nThời gian: 50 phút\nSố câu hỏi: 80 câu. Mỗi câu 0,125 điểm\nRubric 1: Chuyên cần/Participant\nRubric 2: Bài tập nhóm\nRubric 3 : Bài tập cá nhân\nRubric 4 : Bài thi cuối kỳ"
+}

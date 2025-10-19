@@ -1,0 +1,3010 @@
+{
+  "doc_id": "en-ep17-tikt1135",
+  "language": "en",
+  "course_name_stem": "Development of Open Source Software and Applications",
+  "course_variant": "",
+  "course_code": "EP17.TIKT1135",
+  "source_filename": "Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "source_relpath": "data\\raw\\en\\Development of Open Source Software and Applications_EP17.TIKT1135.docx",
+  "source_hash": "0a0f18d77b4682fdfbc224aeeb58ccdd",
+  "source_modified": "2025-10-11T10:42:50.589226+00:00",
+  "processed_at": "2025-10-17T16:55:26.095867+00:00",
+  "stats": {
+    "paragraphs": 41,
+    "tables": 8,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-tikt1135#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Title: Development of Open Source Software and Applications Code: EP17.TIKT1135",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 25 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Exercises, Presentation and Discussion: 20 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Self-study: 90 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "* Parallel course(s): None.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Faculty conducting the course: Management Information System",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "1. ThS. Phung Tien Hai Tel: 0903216863 Email: phungtienhai@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "2. ThS. Tran Thanh Hai Tel: 0903466090 Email: haitt@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "3. ThS. Tran Dung Khanh Tel: 0919900084 Email: kantd@@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "en-ep17-tikt1135#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory □",
+                "Elective (x)"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory □",
+                "Fundamental (x)_2": "Elective (x)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "* Meeting hour: University’s schedule",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "The course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 23
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "* Text Books/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "* Additional references:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 31
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 34
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-ep17-tikt1135#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 35,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics",
+                "PLO4",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics",
+                "PLOs": "PLO4",
+                "Proficiency scale": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-ep17-tikt1135#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 38,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understand terms and concepts related to open source software",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understand terms and concepts related to open source software",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understand and explain several open source software licenses",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Understand and explain several open source software licenses",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Understand the functions and deploy applications used by some open source software that organizations and businesses often use",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Understand the functions and deploy applications used by some open source software that organizations and businesses often use",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Understand and implement the process of developing and deploying open source software applications",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs Description": "Understand and implement the process of developing and deploying open source software applications",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.5",
+                "Proficient in the development and deployment of open source software for organizations and businesses",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.5",
+                "CLOs Description": "Proficient in the development and deployment of open source software for organizations and businesses",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Improve skills in analysis, design, and development of software based on open source code",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Improve skills in analysis, design, and development of software based on open source code",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Improve self-study skills, read documents about open source software; open source software development process and application deployment",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Improve self-study skills, read documents about open source software; open source software development process and application deployment",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Able to work independently or actively, actively and effectively participate in group activities",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Able to work independently or actively, actively and effectively participate in group activities",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Ability to organize group activities",
+                "I, T, U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Ability to organize group activities",
+                "Teaching level (I,T,U)": "I, T, U"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Have social responsibility and professional ethics",
+                "I, T"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs Description": "Have social responsibility and professional ethics",
+                "Teaching level (I,T,U)": "I, T"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "* Assessment methods:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 40
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "- Grading: 10",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "* Assessment summary:",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "en-ep17-tikt1135#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 45,
+          "column_labels": [
+            "Assessments",
+            "column_2",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "column_2": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant",
+              "cells": [
+                "Participant",
+                "Participant",
+                "All CLOs",
+                "10%",
+                "Week 1 - 15"
+              ],
+              "column_map": {
+                "Assessments": "Participant",
+                "column_2": "Participant",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "10%",
+                "Week": "Week 1 - 15"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "column_2": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "",
+                "Week": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group works",
+              "cells": [
+                "Group works",
+                "Group works",
+                "CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+                "40%",
+                "Week 14 - 15"
+              ],
+              "column_map": {
+                "Assessments": "Group works",
+                "column_2": "Group works",
+                "CLOs": "CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+                "Weighting (%)": "40%",
+                "Week": "Week 14 - 15"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Midterm exam",
+              "cells": [
+                "Midterm exam",
+                "Midterm exam",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+                "40%",
+                "Week 10"
+              ],
+              "column_map": {
+                "Assessments": "Midterm exam",
+                "column_2": "Midterm exam",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+                "Weighting (%)": "40%",
+                "Week": "Week 10"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "column_2": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "Final exam",
+                "All CLOs",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "column_2": "Final exam",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "50%",
+                "Week": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 49
+        },
+        {
+          "type": "table",
+          "order": 38,
+          "table_id": "en-ep17-tikt1135#tbl006",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 50,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Required readings text",
+            "CLOs",
+            "Teaching-learning activities"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+                "Syllabus/Lecture notes (Ch1)",
+                "CLO1.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+                "Required readings text": "Syllabus/Lecture notes (Ch1)",
+                "CLOs": "CLO1.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+                "Syllabus/Lecture notes (Ch2)",
+                "CLO1.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+                "Required readings text": "Syllabus/Lecture notes (Ch2)",
+                "CLOs": "CLO1.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+                "Syllabus/Lecture notes (Ch2)",
+                "CLO1.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+                "Required readings text": "Syllabus/Lecture notes (Ch2)",
+                "CLOs": "CLO1.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+                "Syllabus/Lecture notes (Ch3)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+                "Required readings text": "Syllabus/Lecture notes (Ch3)",
+                "CLOs": "CLO1.3 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+                "Syllabus/Lecture notes (Ch4)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+                "Required readings text": "Syllabus/Lecture notes (Ch4)",
+                "CLOs": "CLO1.3 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+                "Syllabus/Lecture notes (Ch5)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+                "Required readings text": "Syllabus/Lecture notes (Ch5)",
+                "CLOs": "CLO1.3 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.1 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+                "Required readings text": "Syllabus/Lecture notes (Ch6)",
+                "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.1 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+                "Required readings text": "Syllabus/Lecture notes (Ch6)",
+                "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.1 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+                "Required readings text": "Syllabus/Lecture notes (Ch6)",
+                "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+                "Syllabus/Lecture notes (Ch7, 8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+                "Required readings text": "Syllabus/Lecture notes (Ch7, 8)",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+                "Syllabus/Lecture notes (Ch8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+                "Required readings text": "Syllabus/Lecture notes (Ch8)",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+                "Syllabus/Lecture notes (Ch8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+                "Required readings text": "Syllabus/Lecture notes (Ch8)",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+                "Syllabus/Lecture notes (Ch9)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+                "Required readings text": "Syllabus/Lecture notes (Ch9)",
+                "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching-learning activities": "Pre-Reading text In class activities"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group presentation Review",
+                "Groups’ reports and presentation",
+                "CLO1.5 CLO3.1 CLO3.2",
+                "In class activities Presentation Q&As"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group presentation Review",
+                "Required readings text": "Groups’ reports and presentation",
+                "CLOs": "CLO1.5 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "In class activities Presentation Q&As"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course summary and final exam preparation",
+                "Syllabus/Lecture notes",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "In class activities Q&As"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course summary and final exam preparation",
+                "Required readings text": "Syllabus/Lecture notes",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+                "Teaching-learning activities": "In class activities Q&As"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "All CLOs",
+                "Students take exams according to give schedule"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Required readings text": "",
+                "CLOs": "All CLOs",
+                "Teaching-learning activities": "Students take exams according to give schedule"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "table",
+          "order": 40,
+          "table_id": "en-ep17-tikt1135#tbl007",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 55,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+                "Syllabus/Lecture notes (Ch1)",
+                "CLO1.1 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+                "Readings requirement": "Syllabus/Lecture notes (Ch1)",
+                "CLO": "CLO1.1 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+                "Syllabus/Lecture notes (Ch2)",
+                "CLO1.2 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+                "Readings requirement": "Syllabus/Lecture notes (Ch2)",
+                "CLO": "CLO1.2 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+                "Syllabus/Lecture notes (Ch2)",
+                "CLO1.2 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+                "Readings requirement": "Syllabus/Lecture notes (Ch2)",
+                "CLO": "CLO1.2 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+                "Syllabus/Lecture notes (Ch3)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+                "Readings requirement": "Syllabus/Lecture notes (Ch3)",
+                "CLO": "CLO1.3 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+                "Syllabus/Lecture notes (Ch4)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+                "Readings requirement": "Syllabus/Lecture notes (Ch4)",
+                "CLO": "CLO1.3 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+                "Syllabus/Lecture notes (Ch5)",
+                "CLO1.3 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+                "Readings requirement": "Syllabus/Lecture notes (Ch5)",
+                "CLO": "CLO1.3 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.3 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+                "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+                "CLO": "CLO1.3 CLO1.5 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.3 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+                "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+                "CLO": "CLO1.3 CLO1.5 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+                "Syllabus/Lecture notes (Ch6)",
+                "CLO1.3 CLO1.5 CLO2.2",
+                "Pre-Reading text Home-work In class activities",
+                "Evaluate the process Answer questions in class Personal test, Final exam"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+                "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+                "CLO": "CLO1.3 CLO1.5 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+                "Syllabus/Lecture notes (Ch7,8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Final exam"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+                "Readings requirement": "Syllabus/Lecture notes (Ch7,8)",
+                "CLO": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+                "Syllabus/Lecture notes (Ch8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Final exam"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+                "Readings requirement": "Syllabus/Lecture notes (Ch8)",
+                "CLO": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+                "Syllabus/Lecture notes (Ch8)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Final exam"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+                "Readings requirement": "Syllabus/Lecture notes (Ch8)",
+                "CLO": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+                "Syllabus/Lecture notes (Ch9)",
+                "CLO1.4 CLO2.1 CLO2.2",
+                "Pre-Reading text In class activities",
+                "Evaluate the process Answer questions in class Final exam"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+                "Readings requirement": "Syllabus/Lecture notes (Ch9)",
+                "CLO": "CLO1.4 CLO2.1 CLO2.2",
+                "Teaching and Learning Activities": "Pre-Reading text In class activities",
+                "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14-15",
+              "cells": [
+                "14-15",
+                "Group presentation Review Course summary and final exam preparation",
+                "Groups’ reports and presentation Syllabus/Lecture notes",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+                "In class activities Presentation Q&As",
+                "Evaluate of the group"
+              ],
+              "column_map": {
+                "Week": "14-15",
+                "Content": "Group presentation Review Course summary and final exam preparation",
+                "Readings requirement": "Groups’ reports and presentation Syllabus/Lecture notes",
+                "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "In class activities Presentation Q&As",
+                "Assessment tools and criteria": "Evaluate of the group"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "All CLOs",
+                "Students take exams according to given schedule",
+                "According to the exam requirement (Writing/Paper)"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "All CLOs",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "According to the exam requirement (Writing/Paper)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 61
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 63
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 64
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 65
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tikt1135#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 68
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 69
+        },
+        {
+          "type": "table",
+          "order": 48,
+          "table_id": "en-ep17-tikt1135#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 71,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Dr. Nguyen Thi Bach Tuyet",
+              "cells": [
+                "Dr. Nguyen Thi Bach Tuyet",
+                "Prof. Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "Dr. Nguyen Thi Bach Tuyet",
+                "NEU’s President": "Prof. Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-tikt1135#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)",
+            "COURSE SYLLABUS (Issued attached Decision of NEU’s President, , , 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Software Engineering",
+          "cells": [
+            "Bachelor of Software Engineering",
+            "Bachelor of Software Engineering"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "en-ep17-tikt1135#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 17,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory □",
+            "Elective (x)"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory □",
+            "Fundamental (x)_2": "Elective (x)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-ep17-tikt1135#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 35,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "Understand and master in the open source software development process Develop, operate and maintain software using open source code in organizations and companies; Application serving the fields of economics, management and business administration",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Have written communication skills; write professional reports and presentations related to the development and application of open source software for organizations and businesses; Have skills to self-study, read documents on development and application of open source software Ability to apply the basic and in-depth principles of the software development process, master in the development and deployment of open source software applications",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics",
+            "PLO4",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "Ability to work independently or actively, actively and effectively participate in group activities. Ability to organize group activities. Social responsibility and professional ethics",
+            "PLOs": "PLO4",
+            "Proficiency scale": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-ep17-tikt1135#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 38,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understand terms and concepts related to open source software",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understand terms and concepts related to open source software",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understand and explain several open source software licenses",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Understand and explain several open source software licenses",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Understand the functions and deploy applications used by some open source software that organizations and businesses often use",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Understand the functions and deploy applications used by some open source software that organizations and businesses often use",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Understand and implement the process of developing and deploying open source software applications",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs Description": "Understand and implement the process of developing and deploying open source software applications",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.5",
+            "Proficient in the development and deployment of open source software for organizations and businesses",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.5",
+            "CLOs Description": "Proficient in the development and deployment of open source software for organizations and businesses",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Improve skills in analysis, design, and development of software based on open source code",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Improve skills in analysis, design, and development of software based on open source code",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Improve self-study skills, read documents about open source software; open source software development process and application deployment",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Improve self-study skills, read documents about open source software; open source software development process and application deployment",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Able to work independently or actively, actively and effectively participate in group activities",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Able to work independently or actively, actively and effectively participate in group activities",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Ability to organize group activities",
+            "I, T, U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Ability to organize group activities",
+            "Teaching level (I,T,U)": "I, T, U"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Have social responsibility and professional ethics",
+            "I, T"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs Description": "Have social responsibility and professional ethics",
+            "Teaching level (I,T,U)": "I, T"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "en-ep17-tikt1135#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 45,
+      "column_labels": [
+        "Assessments",
+        "column_2",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "column_2": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant",
+          "cells": [
+            "Participant",
+            "Participant",
+            "All CLOs",
+            "10%",
+            "Week 1 - 15"
+          ],
+          "column_map": {
+            "Assessments": "Participant",
+            "column_2": "Participant",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "10%",
+            "Week": "Week 1 - 15"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "column_2": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "",
+            "Week": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group works",
+          "cells": [
+            "Group works",
+            "Group works",
+            "CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+            "40%",
+            "Week 14 - 15"
+          ],
+          "column_map": {
+            "Assessments": "Group works",
+            "column_2": "Group works",
+            "CLOs": "CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+            "Weighting (%)": "40%",
+            "Week": "Week 14 - 15"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Midterm exam",
+          "cells": [
+            "Midterm exam",
+            "Midterm exam",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+            "40%",
+            "Week 10"
+          ],
+          "column_map": {
+            "Assessments": "Midterm exam",
+            "column_2": "Midterm exam",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+            "Weighting (%)": "40%",
+            "Week": "Week 10"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "column_2": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "Final exam",
+            "All CLOs",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "column_2": "Final exam",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "50%",
+            "Week": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 38,
+      "table_id": "en-ep17-tikt1135#tbl006",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 50,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Required readings text",
+        "CLOs",
+        "Teaching-learning activities"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+            "Syllabus/Lecture notes (Ch1)",
+            "CLO1.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+            "Required readings text": "Syllabus/Lecture notes (Ch1)",
+            "CLOs": "CLO1.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+            "Syllabus/Lecture notes (Ch2)",
+            "CLO1.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+            "Required readings text": "Syllabus/Lecture notes (Ch2)",
+            "CLOs": "CLO1.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+            "Syllabus/Lecture notes (Ch2)",
+            "CLO1.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+            "Required readings text": "Syllabus/Lecture notes (Ch2)",
+            "CLOs": "CLO1.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+            "Syllabus/Lecture notes (Ch3)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+            "Required readings text": "Syllabus/Lecture notes (Ch3)",
+            "CLOs": "CLO1.3 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+            "Syllabus/Lecture notes (Ch4)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+            "Required readings text": "Syllabus/Lecture notes (Ch4)",
+            "CLOs": "CLO1.3 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+            "Syllabus/Lecture notes (Ch5)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+            "Required readings text": "Syllabus/Lecture notes (Ch5)",
+            "CLOs": "CLO1.3 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.1 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+            "Required readings text": "Syllabus/Lecture notes (Ch6)",
+            "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.1 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+            "Required readings text": "Syllabus/Lecture notes (Ch6)",
+            "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.1 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+            "Required readings text": "Syllabus/Lecture notes (Ch6)",
+            "CLOs": "CLO1.1 CLO1.5 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work In class activities"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+            "Syllabus/Lecture notes (Ch7, 8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+            "Required readings text": "Syllabus/Lecture notes (Ch7, 8)",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+            "Syllabus/Lecture notes (Ch8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+            "Required readings text": "Syllabus/Lecture notes (Ch8)",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+            "Syllabus/Lecture notes (Ch8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+            "Required readings text": "Syllabus/Lecture notes (Ch8)",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+            "Syllabus/Lecture notes (Ch9)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+            "Required readings text": "Syllabus/Lecture notes (Ch9)",
+            "CLOs": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching-learning activities": "Pre-Reading text In class activities"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group presentation Review",
+            "Groups’ reports and presentation",
+            "CLO1.5 CLO3.1 CLO3.2",
+            "In class activities Presentation Q&As"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group presentation Review",
+            "Required readings text": "Groups’ reports and presentation",
+            "CLOs": "CLO1.5 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "In class activities Presentation Q&As"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course summary and final exam preparation",
+            "Syllabus/Lecture notes",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "In class activities Q&As"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course summary and final exam preparation",
+            "Required readings text": "Syllabus/Lecture notes",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5",
+            "Teaching-learning activities": "In class activities Q&As"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "All CLOs",
+            "Students take exams according to give schedule"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Required readings text": "",
+            "CLOs": "All CLOs",
+            "Teaching-learning activities": "Students take exams according to give schedule"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 40,
+      "table_id": "en-ep17-tikt1135#tbl007",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 55,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+            "Syllabus/Lecture notes (Ch1)",
+            "CLO1.1 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Course introduction Lecture 1: Overview of Open Source Software 1.1. Some concepts and development process of open source software 1.2. Licensing open source software 1.3. Open source software development community 1.4. Application potential of open source software",
+            "Readings requirement": "Syllabus/Lecture notes (Ch1)",
+            "CLO": "CLO1.1 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+            "Syllabus/Lecture notes (Ch2)",
+            "CLO1.2 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Lecture 2: Open Source Software License 2.1. Overview of the Open source software license 2.2. Licenses: MIT, BSD, Apache and Academic Free Licenses 2.3. Licenses: GPL, LGPL and Mozilla Licenses",
+            "Readings requirement": "Syllabus/Lecture notes (Ch2)",
+            "CLO": "CLO1.2 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+            "Syllabus/Lecture notes (Ch2)",
+            "CLO1.2 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Lecture 2: Open Source Software License 2.4. Licenses: QT, Artistic and Creative Commons Licenses 2.5. The legal impact of free and open source software licensing 2.6. Software development using open source code and free software license",
+            "Readings requirement": "Syllabus/Lecture notes (Ch2)",
+            "CLO": "CLO1.2 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+            "Syllabus/Lecture notes (Ch3)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Lecture 3: Some Open Source Software 3.1. Open Source Operating System",
+            "Readings requirement": "Syllabus/Lecture notes (Ch3)",
+            "CLO": "CLO1.3 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+            "Syllabus/Lecture notes (Ch4)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Lecture 3: Some Open Source Software 3.2. Open Source Programming Language",
+            "Readings requirement": "Syllabus/Lecture notes (Ch4)",
+            "CLO": "CLO1.3 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+            "Syllabus/Lecture notes (Ch5)",
+            "CLO1.3 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Lecture 3: Some Open Source Software 3.3. Open Source Database Management System",
+            "Readings requirement": "Syllabus/Lecture notes (Ch5)",
+            "CLO": "CLO1.3 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.3 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Lecture 3: Some Open Source Software 3.4. Open Source Office Software",
+            "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+            "CLO": "CLO1.3 CLO1.5 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.3 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Lecture 3: Some Open Source Software 3.5. Open Source CMS Software",
+            "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+            "CLO": "CLO1.3 CLO1.5 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+            "Syllabus/Lecture notes (Ch6)",
+            "CLO1.3 CLO1.5 CLO2.2",
+            "Pre-Reading text Home-work In class activities",
+            "Evaluate the process Answer questions in class Personal test, Final exam"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Lecture 3: Some Open Source Software 3.6. Open Source ERP Software",
+            "Readings requirement": "Syllabus/Lecture notes (Ch6)",
+            "CLO": "CLO1.3 CLO1.5 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Personal test, Final exam"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+            "Syllabus/Lecture notes (Ch7,8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Final exam"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Lecture 4: Open Source Software Development 4.1. Principles and models of open source software development 4.2. Overview of the open source software development environment Take a personal test",
+            "Readings requirement": "Syllabus/Lecture notes (Ch7,8)",
+            "CLO": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+            "Syllabus/Lecture notes (Ch8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Final exam"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Lecture 4: Open Source Software Development 4.3. Eclipse development environment 4.4. Netbeans development environment",
+            "Readings requirement": "Syllabus/Lecture notes (Ch8)",
+            "CLO": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+            "Syllabus/Lecture notes (Ch8)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Final exam"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Lecture 4: Open Source Software Development 4.5 Other development environment (Visual Studio Code, MonoDevelop, Matrix, Anjuta,...)",
+            "Readings requirement": "Syllabus/Lecture notes (Ch8)",
+            "CLO": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+            "Syllabus/Lecture notes (Ch9)",
+            "CLO1.4 CLO2.1 CLO2.2",
+            "Pre-Reading text In class activities",
+            "Evaluate the process Answer questions in class Final exam"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Lecture 4: Open Source Software Development 4.6. GNU Build System Utility Software 4.7. Distributed version management system",
+            "Readings requirement": "Syllabus/Lecture notes (Ch9)",
+            "CLO": "CLO1.4 CLO2.1 CLO2.2",
+            "Teaching and Learning Activities": "Pre-Reading text In class activities",
+            "Assessment tools and criteria": "Evaluate the process Answer questions in class Final exam"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14-15",
+          "cells": [
+            "14-15",
+            "Group presentation Review Course summary and final exam preparation",
+            "Groups’ reports and presentation Syllabus/Lecture notes",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+            "In class activities Presentation Q&As",
+            "Evaluate of the group"
+          ],
+          "column_map": {
+            "Week": "14-15",
+            "Content": "Group presentation Review Course summary and final exam preparation",
+            "Readings requirement": "Groups’ reports and presentation Syllabus/Lecture notes",
+            "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "In class activities Presentation Q&As",
+            "Assessment tools and criteria": "Evaluate of the group"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "All CLOs",
+            "Students take exams according to given schedule",
+            "According to the exam requirement (Writing/Paper)"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "All CLOs",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "According to the exam requirement (Writing/Paper)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 48,
+      "table_id": "en-ep17-tikt1135#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 71,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Dr. Nguyen Thi Bach Tuyet",
+          "cells": [
+            "Dr. Nguyen Thi Bach Tuyet",
+            "Prof. Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "Dr. Nguyen Thi Bach Tuyet",
+            "NEU’s President": "Prof. Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "Cours name: Development of Open Source Software and Applications\n* Title: Development of Open Source Software and Applications Code: EP17.TIKT1135\n* Credits: 3 credits (48 teaching periods, 50 minutes per teaching period)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises, Presentation and Discussion: 20 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): Introduction to Computer and Applications; Principles of Programming\n* Faculty conducting the course: Management Information System\n+ Lecturers:\n1. ThS. Phung Tien Hai Tel: 0903216863 Email: phungtienhai@neu.edu.vn\n2. ThS. Tran Thanh Hai Tel: 0903466090 Email: haitt@neu.edu.vn\n3. ThS. Tran Dung Khanh Tel: 0919900084 Email: kantd@@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Meeting hour: University’s schedule\nThe course on Development of Open Source Software and Applications is designed to provide students with comprehensive insights into various aspects of open source software. It covers fundamental concepts associated with open source software, explores licensing considerations, and highlights the advantages of leveraging open source solutions in application development. Students will gain exposure to popular open source software utilized across different application development domains, including programming languages, database management systems, web servers, content management systems, and enterprise resource planning tools. Additionally, the course introduces students to prominent open source application development environments like Eclipse IDE, Apache NetBeans and Visual Studio Code, fostering a practical understanding of software development in open source ecosystems.\n* Text Books/Lecture Notes:\n[1] Phát triển phần mềm mã nguồn mở và các ứng dụng, NXB ĐH KTQD 2023\n* Additional references:\n[2] Beginning Ubuntu for Windows and Mac Users Start your Journey into Free and Open Source Software, Nathan Haines, Apress 2017, ISBN: 978-1-48-422999-6\n[3] Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer, Mariot Tsitoara, Apress 2020, ISBN: 978-1-48-425313-7\n[4] Mastering NetBeans, David Salter, Packt Publishing 2015, ISBN: 978-1-78-528264-5\n[5] Eclipse IDE 3rd Edition, Lars Vogel, Wayne Beaton, vogella.com 2013\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

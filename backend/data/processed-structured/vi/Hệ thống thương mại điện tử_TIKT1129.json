@@ -1,0 +1,4601 @@
+{
+  "doc_id": "vi-tikt1129",
+  "language": "vi",
+  "course_name_stem": "Hệ thống thương mại điện tử",
+  "course_variant": "",
+  "course_code": "TIKT1129",
+  "source_filename": "Hệ thống thương mại điện tử_TIKT1129.docx",
+  "source_relpath": "data\\raw\\vi\\Hệ thống thương mại điện tử_TIKT1129.docx",
+  "source_hash": "c6b4bb302e7cd11c9835a74dcfb34be3",
+  "source_modified": "2025-10-11T10:42:50.626943+00:00",
+  "processed_at": "2025-10-17T16:55:21.118645+00:00",
+  "stats": {
+    "paragraphs": 45,
+    "tables": 13,
+    "sections": 22
+  },
+  "sections": [
+    {
+      "section_id": "vi-tikt1129#sec001",
+      "title": "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)",
+      "level": 1,
+      "label": "thong-tin-tong-quat-general-information",
+      "path_titles": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "path_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 1,
+          "table_id": "vi-tikt1129#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+          ],
+          "section_labels": [
+            "thong-tin-tong-quat-general-information"
+          ],
+          "source_block": 3,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Tên học phần (tiếng Việt):",
+              "cells": [
+                "- Tên học phần (tiếng Việt):",
+                "Hệ thống Thương mại điện tử"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Tên học phần (tiếng Anh)",
+              "cells": [
+                "- Tên học phần (tiếng Anh)",
+                "Electronic Commerce Systems"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Mã số học phần",
+              "cells": [
+                "- Mã số học phần",
+                "TIKT1129"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Trình độ đào tạo",
+              "cells": [
+                "- Trình độ đào tạo",
+                "Đại học"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "- Số tín chỉ",
+              "cells": [
+                "- Số tín chỉ",
+                "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Số tiết lý thuyết",
+              "cells": [
+                "+ Số tiết lý thuyết",
+                "25"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 6,
+              "row_label": "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+              "cells": [
+                "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+                "20 90"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 7,
+              "row_label": "- Các học phần tiên quyết:",
+              "cells": [
+                "- Các học phần tiên quyết:",
+                "Hệ thống thông tin quản lý; Mạng và Truyền thông"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "level": 1,
+      "label": "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "path_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Khoa/Viện quản lý: Khoa Hệ thống thông tin quản lý",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Địa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Giảng viên giảng dạy:",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "table",
+          "order": 5,
+          "table_id": "vi-tikt1129#tbl003",
+          "table_name": "Giảng viên giảng dạy:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+          ],
+          "section_labels": [
+            "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+          ],
+          "source_block": 8,
+          "column_labels": [
+            "TT",
+            "Họ và tên",
+            "Số điện thoại",
+            "Email"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "ThS. Phạm Văn Minh",
+                "0965509888",
+                "pvminh@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "1",
+                "Họ và tên": "ThS. Phạm Văn Minh",
+                "Số điện thoại": "0965509888",
+                "Email": "pvminh@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "ThS. Đỗ Đức Thọ",
+                "0913521589",
+                "thodd@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "2",
+                "Họ và tên": "ThS. Đỗ Đức Thọ",
+                "Số điện thoại": "0913521589",
+                "Email": "thodd@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "ThS. Trần Dũng Khánh",
+                "0919900084",
+                "kan@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "1",
+                "Họ và tên": "ThS. Trần Dũng Khánh",
+                "Số điện thoại": "0919900084",
+                "Email": "kan@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "ThS. Trần Thanh Hải",
+                "0903466090",
+                "haitt@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "2",
+                "Họ và tên": "ThS. Trần Thanh Hải",
+                "Số điện thoại": "0903466090",
+                "Email": "haitt@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "ThS. Phùng Tiến Hải",
+                "0903216863",
+                "phungtienhai@neu.edu.vn"
+              ],
+              "column_map": {
+                "TT": "4",
+                "Họ và tên": "ThS. Phùng Tiến Hải",
+                "Số điện thoại": "0903216863",
+                "Email": "phungtienhai@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Học phần Hệ thống thương mại điện tử trang bị cho sinh viên kiến thức cơ bản về thương mại điện tử: lợi ích, nền tảng, các mô hình, các hình thức ứng dụng, cơ sở hạ tầng để phát triển thương mại điện tử, thanh toán điện tử, an toàn trong giao dịch thương mại điện tử, các văn bản pháp luật liên quan đến thương mại điện tử của Việt Nam, xây dựng giải pháp thương mại điện tử cho doanh nghiệp; đồng thời học phần cũng cung cấp cho người học kiến thức cơ bản về những công nghệ hỗ trợ cho các mô hình hoạt động thương mại điện tử.",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 13
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec004",
+      "title": "Giáo trình:",
+      "level": 2,
+      "label": "giao-trinh",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+        "Giáo trình:"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions",
+        "giao-trinh"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "[1]. Trần Văn Hòe, Giáo trình thương mại điện tử căn bản, NXB Đại học KTQD, (2015).",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Giáo trình:"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "giao-trinh"
+          ],
+          "source_block": 15
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec005",
+      "title": "Bài giảng:",
+      "level": 2,
+      "label": "bai-giang",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+        "Bài giảng:"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions",
+        "bai-giang"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "[1] Bộ môn Tin học kinh tế, Bài giảng Hệ thống thương mại điện tử",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Bài giảng:"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "bai-giang"
+          ],
+          "source_block": 17
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec006",
+      "title": "Tài liệu khác",
+      "level": 2,
+      "label": "tai-lieu-khac",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+        "Tài liệu khác"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions",
+        "tai-lieu-khac"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "[2] Nguyễn Văn Hồng (2015), Giáo trình thương mại điện tử căn bản, NXB Bách khoa",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "tai-lieu-khac"
+          ],
+          "source_block": 19
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "[3] Nguyễn Văn Hùng, Phan Quan Việt (2019), Giáo trình Thương mại điện tử, NXB Tài chính",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "tai-lieu-khac"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "[4] Phạm Quang Hiển, Trần Tường Thụy, Phạm Quang Huy, Lập Trình Hệ Thống Thương Mại Điện Tử, NXB Thanh niên",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "tai-lieu-khac"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "[5] Efraim Turban, Jae K. Lee, David King, Ting Peng Liang, Deborrah Turban, Electronic Commerce: A Managerial Perspective 2010, Prentice Hall, 6th edition, October 22, 2009",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "tai-lieu-khac"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Phần mềm sử dụng: Word Press",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+            "Tài liệu khác"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions",
+            "tai-lieu-khac"
+          ],
+          "source_block": 24
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec007",
+      "title": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "table",
+          "order": 16,
+          "table_id": "vi-tikt1129#tbl004",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 28,
+          "column_labels": [
+            "Mã /Code",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR (PLO) của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã /Code": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR (PLO) của CTĐT": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Sinh viên hiểu và áp dụng được quy trình phát triển hệ thống thương mại điện tử. Triển khai thực hiện phát triển hệ thống thương mại điện tử cho doanh nghiệp. Xác định được các biện pháp đảm bảo an ninh, an toàn thông tin trong hoạt động thương mại điện tử",
+                "PLO1.4.3"
+              ],
+              "column_map": {
+                "Mã /Code": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Sinh viên hiểu và áp dụng được quy trình phát triển hệ thống thương mại điện tử. Triển khai thực hiện phát triển hệ thống thương mại điện tử cho doanh nghiệp. Xác định được các biện pháp đảm bảo an ninh, an toàn thông tin trong hoạt động thương mại điện tử",
+                "CĐR (PLO) của CTĐT": "PLO1.4.3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Sinh viên có kỹ năng sử dụng các công cụ trợ giúp xây dựng hệ thống thương mại điện tử như: ngôn ngữ lập trình web và hệ quản trị cơ sở dữ liệu dùng trong các ứng dụng web; có kiến thức và kinh nghiệm về lập trình bảo mật trong các hệ thống thương mại điện tử. Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển hệ thống thương mại điện tử.",
+                "PLO2.2.1 PLO2.2.2"
+              ],
+              "column_map": {
+                "Mã /Code": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Sinh viên có kỹ năng sử dụng các công cụ trợ giúp xây dựng hệ thống thương mại điện tử như: ngôn ngữ lập trình web và hệ quản trị cơ sở dữ liệu dùng trong các ứng dụng web; có kiến thức và kinh nghiệm về lập trình bảo mật trong các hệ thống thương mại điện tử. Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển hệ thống thương mại điện tử.",
+                "CĐR (PLO) của CTĐT": "PLO2.2.1 PLO2.2.2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "PLO3.1.1 PLO3.1.2 PLO3.2.3"
+              ],
+              "column_map": {
+                "Mã /Code": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.1.2 PLO3.2.3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec008",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "vi-tikt1129#tbl005",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 32,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOs",
+            "Mô tả CLOs",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOs": "[2]",
+                "Mô tả CLOs": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.1",
+                "Hiểu rõ các thuật ngữ liên quan các loại hình thương mại điện tử, có khả năng ứng dụng được trong thực tiễn.",
+                "2"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1",
+                "CLOs": "CLO1.1",
+                "Mô tả CLOs": "Hiểu rõ các thuật ngữ liên quan các loại hình thương mại điện tử, có khả năng ứng dụng được trong thực tiễn.",
+                "Mức độ đạt được": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.2",
+                "Hiểu và giải thích được các phương tiện, hình thức giao dịch và loại hình thương mại điện tử",
+                "3"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1",
+                "CLOs": "CLO1.2",
+                "Mô tả CLOs": "Hiểu và giải thích được các phương tiện, hình thức giao dịch và loại hình thương mại điện tử",
+                "Mức độ đạt được": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.3",
+                "Hiểu và sử dụng các công cụ tin học trợ giúp cho việc bảo đảm an ninh, an toàn trong thương mại điện tử",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1",
+                "CLOs": "CLO1.3",
+                "Mô tả CLOs": "Hiểu và sử dụng các công cụ tin học trợ giúp cho việc bảo đảm an ninh, an toàn trong thương mại điện tử",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.4",
+                "Triển khai, vận hành hệ thống thương mại điện tử cho doanh nghiệp.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1",
+                "CLOs": "CLO1.4",
+                "Mô tả CLOs": "Triển khai, vận hành hệ thống thương mại điện tử cho doanh nghiệp.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "CLO1.5",
+                "Hiểu và sử dụng thành thạo công cụ tin học trợ giúp cho hoạt động thương mại tại doanh nghiệp.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG1",
+                "CLOs": "CLO1.5",
+                "Mô tả CLOs": "Hiểu và sử dụng thành thạo công cụ tin học trợ giúp cho hoạt động thương mại tại doanh nghiệp.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.1",
+                "Làm chủ các công nghệ, kỹ thuật để phát triển, vận hành và quản trị các ứng dụng web. Vận dụng được những nguyên tắc cơ bản của quy trình phát triển phần mềm vào phân tích, thiết kế, lập trình, xây dựng hệ thống thương mại điện tử",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2",
+                "CLOs": "CLO2.1",
+                "Mô tả CLOs": "Làm chủ các công nghệ, kỹ thuật để phát triển, vận hành và quản trị các ứng dụng web. Vận dụng được những nguyên tắc cơ bản của quy trình phát triển phần mềm vào phân tích, thiết kế, lập trình, xây dựng hệ thống thương mại điện tử",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "CLO2.2",
+                "Có kỹ năng tư duy hệ thống và mô hình hóa; có kỹ năng tự tìm hiểu, đọc tài liệu, cập nhật kiến thức chuyên môn liên quan đến thương mại điện tử.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG2",
+                "CLOs": "CLO2.2",
+                "Mô tả CLOs": "Có kỹ năng tư duy hệ thống và mô hình hóa; có kỹ năng tự tìm hiểu, đọc tài liệu, cập nhật kiến thức chuyên môn liên quan đến thương mại điện tử.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.1",
+                "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3",
+                "CLOs": "CLO3.1",
+                "Mô tả CLOs": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.2",
+                "Có năng lực tổ chức hoạt động nhóm.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3",
+                "CLOs": "CLO3.2",
+                "Mô tả CLOs": "Có năng lực tổ chức hoạt động nhóm.",
+                "Mức độ đạt được": "4"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "CLO3.3",
+                "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "4"
+              ],
+              "column_map": {
+                "Mục tiêu": "CG3",
+                "CLOs": "CLO3.3",
+                "Mô tả CLOs": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+                "Mức độ đạt được": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec009",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1129#sec010",
+      "title": "7.1. Đánh giá học phần",
+      "level": 2,
+      "label": "anh-gia-hoc-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.1. Đánh giá học phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "anh-gia-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 19,
+          "table_id": "vi-tikt1129#tbl006",
+          "table_name": null,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+            "7.1. Đánh giá học phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "anh-gia-hoc-phan"
+          ],
+          "source_block": 36,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung đánh giá trong PLO",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR của CTĐT"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung đánh giá trong PLO": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR của CTĐT": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Ý thức",
+                "Tuần 1-15",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Phụ lục 2 Rubric 1",
+                "10%",
+                "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung đánh giá trong PLO": "Ý thức",
+                "Thời điểm": "Tuần 1-15",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Năng lực",
+                "Tuần 1-15",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Phụ lục 2 Rubric 1",
+                "10%",
+                "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung đánh giá trong PLO": "Năng lực",
+                "Thời điểm": "Tuần 1-15",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Thái độ: - Thái độ học tập trên lớp - Trả lời câu hỏi trên lớp - Trả lời các câu hỏi thảo luận",
+                "Tuần 1-15",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Phụ lục 2 Rubric 1",
+                "10%",
+                "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung đánh giá trong PLO": "Thái độ: - Thái độ học tập trên lớp - Trả lời câu hỏi trên lớp - Trả lời các câu hỏi thảo luận",
+                "Thời điểm": "Tuần 1-15",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm/kiểm tra (phân tích tình huống) Chủ đề (giảng viên đưa ra bài tập tình huống) Nội dung giải quyết (kết hợp với phần mềm ứng dụng) Mỗi nhóm trình bày: 15 phút và sẽ được tính 20%",
+                "Tuần 5",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+                "Phụ lục 2 Rubric 2",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung đánh giá trong PLO": "Bài tập nhóm/kiểm tra (phân tích tình huống) Chủ đề (giảng viên đưa ra bài tập tình huống) Nội dung giải quyết (kết hợp với phần mềm ứng dụng) Mỗi nhóm trình bày: 15 phút và sẽ được tính 20%",
+                "Thời điểm": "Tuần 5",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Đánh giá quá trình",
+              "cells": [
+                "Đánh giá quá trình",
+                "Bài tập nhóm Chia mỗi nhóm từ 4-6 sinh viên Lựa chọn tình huống Xác định vấn đề trong doanh nghiệp, xác định dữ liệu đầu vào, thông tin đầu ra và công cụ xử lý. Triển khai thực hiện phát triển ứng dụng website thương mại điện tử. Mỗi nhóm trình bày: 15 phút; sẽ được tính 20%",
+                "Tuần 12",
+                "CLO3.1 CLO3.2 CLO1.2 CLO1.3 CLO1.4",
+                "Phụ lục 2 Rubric 3",
+                "40%",
+                "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình",
+                "Nội dung đánh giá trong PLO": "Bài tập nhóm Chia mỗi nhóm từ 4-6 sinh viên Lựa chọn tình huống Xác định vấn đề trong doanh nghiệp, xác định dữ liệu đầu vào, thông tin đầu ra và công cụ xử lý. Triển khai thực hiện phát triển ứng dụng website thương mại điện tử. Mỗi nhóm trình bày: 15 phút; sẽ được tính 20%",
+                "Thời điểm": "Tuần 12",
+                "CLOs": "CLO3.1 CLO3.2 CLO1.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3",
+                "Tỷ lệ (%)": "40%",
+                "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Bài thi cuối kỳ Thời lượng 60 phút. Toàn bộ nội dung học phần. Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại..",
+                "Lịch thi học phần",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4",
+                "Thi trắc nghiệm khách quan trên máy tính",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung đánh giá trong PLO": "Bài thi cuối kỳ Thời lượng 60 phút. Toàn bộ nội dung học phần. Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại..",
+                "Thời điểm": "Lịch thi học phần",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4",
+                "Công cụ và tiêu chí đánh giá": "Thi trắc nghiệm khách quan trên máy tính",
+                "Tỷ lệ (%)": "50%",
+                "CĐR của CTĐT": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec011",
+      "title": "7.2. Ma trận đề thi (Phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.2. Ma trận đề thi (Phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1129#sec012",
+      "title": "7.3. Các Rubrics (Phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.3. Các Rubrics (Phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1129#sec013",
+      "title": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
+      "level": 1,
+      "label": "ke-hoach-giang-day-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "path_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "table",
+          "order": 21,
+          "table_id": "vi-tikt1129#tbl007",
+          "table_name": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+          "section_path": [
+            "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+          ],
+          "section_labels": [
+            "ke-hoach-giang-day-lesson-plan"
+          ],
+          "source_block": 44,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1 Bài mở đầu Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Đề cương học phần",
+                "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+                "",
+                "CLO1.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1 Bài mở đầu Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+                "Tài liệu đọc": "Đề cương học phần",
+                "Hoạt động dạy và học": "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chương 1: Tổng quan về thương mại điện tử 1.1. Giới thiệu về Internet và World Wide Web 1.2. Tổng quan về ứng dụng thương mại điện tử 1.3. Các khái niệm về thương mại điện tử 1.4 Lợi ích và những hạn chế thương mại điện tử",
+                "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+                "Giảng viên Dạy lý thuyết theo nội dung slide Sinh viên Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về Internet, thương mại điện tử và vai trò của thương mại điện tử trong nền kinh tế số Thảo luận về một số mô hình thương mại điện tử điển hình (amazon, ebay, alibaba, thegioididong, shopee…)",
+                "",
+                "CLO1.1"
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Chương 1: Tổng quan về thương mại điện tử 1.1. Giới thiệu về Internet và World Wide Web 1.2. Tổng quan về ứng dụng thương mại điện tử 1.3. Các khái niệm về thương mại điện tử 1.4 Lợi ích và những hạn chế thương mại điện tử",
+                "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Sinh viên Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về Internet, thương mại điện tử và vai trò của thương mại điện tử trong nền kinh tế số Thảo luận về một số mô hình thương mại điện tử điển hình (amazon, ebay, alibaba, thegioididong, shopee…)",
+                "Đánh giá": "",
+                "CLOs": "CLO1.1"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chương 1. 1.5. Các căn cứ pháp lý của hoạt động thương mại điện tử 1.6. Các phương tiện của thương mại điện tử 1.7. Các hình thức giao dịch thương mại điện tử",
+                "[1] Chương 1 [2] Chương 2 [3] Chương 2",
+                "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về các phương tiện của thương mại điện tử",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Chương 1. 1.5. Các căn cứ pháp lý của hoạt động thương mại điện tử 1.6. Các phương tiện của thương mại điện tử 1.7. Các hình thức giao dịch thương mại điện tử",
+                "Tài liệu đọc": "[1] Chương 1 [2] Chương 2 [3] Chương 2",
+                "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về các phương tiện của thương mại điện tử",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1 Hướng dẫn làm bài tập lớn số 1: Nghiên cứu về một công ty thương mại điện tử điển hình.",
+                "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+                "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài tập chương 1 Sinh viên: - Đọc trước tài liệu - Theo dõi giảng viên chữa bài tập -Tham gia thảo luận về các mô hình thương mại điện tử điển hình",
+                "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Làm bài tập, thảo luận",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1 Hướng dẫn làm bài tập lớn số 1: Nghiên cứu về một công ty thương mại điện tử điển hình.",
+                "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài tập chương 1 Sinh viên: - Đọc trước tài liệu - Theo dõi giảng viên chữa bài tập -Tham gia thảo luận về các mô hình thương mại điện tử điển hình",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Làm bài tập, thảo luận",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture 2 Chương 2: Giao dịch điện tử 2.1. Hợp đồng điện tử",
+                "[1] Chương 2 [2] Chương 3 [3] Chương 3",
+                "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về hợp đồng điện tử; so sánh hợp đồng điện tử và hợp đồng truyền thống; và một số điểm cần lưu ý khi sử dụng hợp đồng điện tử.",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài kiểm tra cá nhân Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Lecture 2 Chương 2: Giao dịch điện tử 2.1. Hợp đồng điện tử",
+                "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [3] Chương 3",
+                "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về hợp đồng điện tử; so sánh hợp đồng điện tử và hợp đồng truyền thống; và một số điểm cần lưu ý khi sử dụng hợp đồng điện tử.",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài kiểm tra cá nhân Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chương 2. 2.2. Thanh toán điện tử",
+                "[1] Chương 2 [2] Chương 3 [5] Chương 3",
+                "Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về tổng quan thanh toán điện tử. Một số hình thức thanh toán điện tử phổ biến.",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Chương 2. 2.2. Thanh toán điện tử",
+                "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [5] Chương 3",
+                "Hoạt động dạy và học": "Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về tổng quan thanh toán điện tử. Một số hình thức thanh toán điện tử phổ biến.",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chương 2. 2.3. Chữ ký số và dịch vụ chứng thực chữ ký số",
+                "[1] Chương 3 [4] Chương 1,2,",
+                "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 2 và các tài liệu liên quan Thảo luận về điều kiện đảm bảo của chữ ký điện tử.",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3"
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Chương 2. 2.3. Chữ ký số và dịch vụ chứng thực chữ ký số",
+                "Tài liệu đọc": "[1] Chương 3 [4] Chương 1,2,",
+                "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 2 và các tài liệu liên quan Thảo luận về điều kiện đảm bảo của chữ ký điện tử.",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Seminar 2 - Tóm tắt lại kiến thức chương 2 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành ký kết một số hợp đồng điện tử - Hướng dẫn thực thành thanh toán điện tử Hướng dẫn sử dụng chữ ký điện tử",
+                "[1] Chương 2 [2] Chương 3 [3] Chương 2, 3",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Làm bài tập thực hành",
+                "CLO1.2 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Seminar 2 - Tóm tắt lại kiến thức chương 2 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành ký kết một số hợp đồng điện tử - Hướng dẫn thực thành thanh toán điện tử Hướng dẫn sử dụng chữ ký điện tử",
+                "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [3] Chương 2, 3",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Làm bài tập thực hành",
+                "CLOs": "CLO1.2 CLO2.2"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 3 Chương 3: Marketing điện tử 3.1. Tổng quan về Marketing điện tử 3.2. Ứng dụng Marketing điện tử trong doanh nghiệp",
+                "[1] Chương 3 [4] Chương 3",
+                "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 3 và các tài liệu liên quan Thảo luận về Marketing điện tử, các phương tiện Marketing điện tử điển hình hiện nay",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Lecture 3 Chương 3: Marketing điện tử 3.1. Tổng quan về Marketing điện tử 3.2. Ứng dụng Marketing điện tử trong doanh nghiệp",
+                "Tài liệu đọc": "[1] Chương 3 [4] Chương 3",
+                "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 3 và các tài liệu liên quan Thảo luận về Marketing điện tử, các phương tiện Marketing điện tử điển hình hiện nay",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 về chương 3 – Marketing điện tử. Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành Marketing điện tử trên website điển hình.",
+                "[1] Chương 4 [2] Chương 4 [3] Chương 4,5",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+                "CLO1.2 CLO1.3 CLO2.1"
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 về chương 3 – Marketing điện tử. Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành Marketing điện tử trên website điển hình.",
+                "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3] Chương 4,5",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+                "CLOs": "CLO1.2 CLO1.3 CLO2.1"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 4 Chương 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử 4.1 Tổng quan về an toàn và phòng tránh rủi ro trong Thương mại điện tử 4.2 Rủi ro chính trong thương mại điện tử 4.3 Xây dựng kế hoạch an ninh cho thương mại điện tử",
+                "[1] Chương 4 [5] Chương 1,2",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 4 Sinh viên - Đọc trước các tài liệu chương 4 và các tài liệu tham khảo liên quan - Xem trước các ví dụ, làm bài tập được yêu cầu về thực hành về bảo mật thông tin trong giao dịch thương mại điện tử",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Lecture 4 Chương 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử 4.1 Tổng quan về an toàn và phòng tránh rủi ro trong Thương mại điện tử 4.2 Rủi ro chính trong thương mại điện tử 4.3 Xây dựng kế hoạch an ninh cho thương mại điện tử",
+                "Tài liệu đọc": "[1] Chương 4 [5] Chương 1,2",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 4 Sinh viên - Đọc trước các tài liệu chương 4 và các tài liệu tham khảo liên quan - Xem trước các ví dụ, làm bài tập được yêu cầu về thực hành về bảo mật thông tin trong giao dịch thương mại điện tử",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Seminar 4 - Tóm tắt lại kiến thức đã học tại buổi Lecture 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử - Thảo luận về các ví dụ, câu hỏi của Seminar 4 - Thảo luận bài tập tình huống",
+                "",
+                "Giảng viên: Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi thuộc chương 4- Rủi ro và phòng tránh rủi ro trong thương mại điện tử. Sinh viên: Thảo luận về phân tích tình hình để xác định các rủi ro và biện pháp phòng tránh rủi ro trong thương mại điện tử. Thực hành một số biện pháp bảo mật thông tin cá nhân, bảo mật các giao dịch điện tử.",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Seminar 4 - Tóm tắt lại kiến thức đã học tại buổi Lecture 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử - Thảo luận về các ví dụ, câu hỏi của Seminar 4 - Thảo luận bài tập tình huống",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi thuộc chương 4- Rủi ro và phòng tránh rủi ro trong thương mại điện tử. Sinh viên: Thảo luận về phân tích tình hình để xác định các rủi ro và biện pháp phòng tránh rủi ro trong thương mại điện tử. Thực hành một số biện pháp bảo mật thông tin cá nhân, bảo mật các giao dịch điện tử.",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.2"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Lecture 5 Chương 5: Ứng dụng thương mại điện tử trong doanh nghiệp 5.1. Xây dựng hệ thống thương mại điện tử trong doanh nghiệp 5.2. Triển khai hệ thống thương mại điện tử trong doanh nghiệp 5.3. Xây dựng kế hoạch kinh doanh điện tử 5.4 Xây dựng website và quản lý website thương mại điện tử",
+                "[1] Chương 5 [5] Chương 1,2",
+                "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu tham khảo liên quan Thảo luận về website thương mại điện tử, các công cụ thực hiện xây dựng và quản trị website.",
+                "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Lecture 5 Chương 5: Ứng dụng thương mại điện tử trong doanh nghiệp 5.1. Xây dựng hệ thống thương mại điện tử trong doanh nghiệp 5.2. Triển khai hệ thống thương mại điện tử trong doanh nghiệp 5.3. Xây dựng kế hoạch kinh doanh điện tử 5.4 Xây dựng website và quản lý website thương mại điện tử",
+                "Tài liệu đọc": "[1] Chương 5 [5] Chương 1,2",
+                "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu tham khảo liên quan Thảo luận về website thương mại điện tử, các công cụ thực hiện xây dựng và quản trị website.",
+                "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "10 11 12",
+              "cells": [
+                "10 11 12",
+                "Seminar 5 - Tóm tắt lại kiến thức đã học tại buổi Lecture 5: Chương 5 - Ứng dụng thương mại điện tử trong doanh nghiệp - Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành xây dựng một website thương mại điện tử bằng Word press. Hướng dẫn làm bài tập nhóm số 2. Các nhóm thuyết trình bài tập nhóm theo yêu cầu.",
+                "[1] Chương 5 [2] Chương 5 [3] Chương 7,8",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành thiết kế website bằng word press",
+                "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập lớn số 2 (Rubric 2)",
+                "CLO1.2 CLO1.3 CLO2.1 CLO2.2"
+              ],
+              "column_map": {
+                "Tuần": "10 11 12",
+                "Nội dung": "Seminar 5 - Tóm tắt lại kiến thức đã học tại buổi Lecture 5: Chương 5 - Ứng dụng thương mại điện tử trong doanh nghiệp - Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành xây dựng một website thương mại điện tử bằng Word press. Hướng dẫn làm bài tập nhóm số 2. Các nhóm thuyết trình bài tập nhóm theo yêu cầu.",
+                "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [3] Chương 7,8",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành thiết kế website bằng word press",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập lớn số 2 (Rubric 2)",
+                "CLOs": "CLO1.2 CLO1.3 CLO2.1 CLO2.2"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Lecture 6 Chương 6: Luật điều chỉnh thương mại điện tử 6.1. Khái quát khung pháp lý về thương mại điện tử trên thế giới 6.2. Khung pháp lý về thương mại điện tử trong khu vực 6.3. Khung pháp lý về thương mại điện tử ở Việt Nam",
+                "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+                "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "",
+                "CLO1.4 CLO1.5"
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Lecture 6 Chương 6: Luật điều chỉnh thương mại điện tử 6.1. Khái quát khung pháp lý về thương mại điện tử trên thế giới 6.2. Khung pháp lý về thương mại điện tử trong khu vực 6.3. Khung pháp lý về thương mại điện tử ở Việt Nam",
+                "Tài liệu đọc": "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+                "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+                "Đánh giá": "",
+                "CLOs": "CLO1.4 CLO1.5"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Seminar 6 - Tóm tắt lại kiến thức đã học tại buổi Lecture 6 - Thảo luận về các ví dụ, câu hỏi của Seminar 6 - Thảo luận bài tập tình huống trong giao dịch thương mại điện tử.",
+                "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+                "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận theo nhóm - Tham gia chữa bài tập thực hành theo nhóm",
+                "- Điểm danh - Trả lời câu hỏi trong Seminar 6",
+                "CLO1.4 CLO1.5 CLO2.2 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Seminar 6 - Tóm tắt lại kiến thức đã học tại buổi Lecture 6 - Thảo luận về các ví dụ, câu hỏi của Seminar 6 - Thảo luận bài tập tình huống trong giao dịch thương mại điện tử.",
+                "Tài liệu đọc": "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+                "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận theo nhóm - Tham gia chữa bài tập thực hành theo nhóm",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 6",
+                "CLOs": "CLO1.4 CLO1.5 CLO2.2 CLO3.1 CLO3.2"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Thuyết trình bài tập nhóm (phát triển Website thương mại điện tử) Ôn tập Tổng kết",
+                "",
+                "Nhóm thuyết trình Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm Hỏi đáp",
+                "Đánh giá điểm của nhóm",
+                "CLO1.4 CLO3.1 CLO3.2"
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Thuyết trình bài tập nhóm (phát triển Website thương mại điện tử) Ôn tập Tổng kết",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Nhóm thuyết trình Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm Hỏi đáp",
+                "Đánh giá": "Đánh giá điểm của nhóm",
+                "CLOs": "CLO1.4 CLO3.1 CLO3.2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec014",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 47
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment"
+          ],
+          "source_block": 48
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec015",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 51
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec016",
+      "title": "10.2. Quy định về tham dự lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+        "10.2. Quy định về tham dự lớp học"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+        "quy-inh-ve-tham-du-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.2. Quy định về tham dự lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-tham-du-lop-hoc"
+          ],
+          "source_block": 54
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec017",
+      "title": "10.3. Quy định về hành vi lớp học",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-lop-hoc",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+        "10.3. Quy định về hành vi lớp học"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+        "quy-inh-ve-hanh-vi-lop-hoc"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 56
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "Đọc trước tài liệu được yêu cầu.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Làm các bài tập về nhà.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "paragraph",
+          "order": 32,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 60
+        },
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.3. Quy định về hành vi lớp học"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-hanh-vi-lop-hoc"
+          ],
+          "source_block": 61
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec018",
+      "title": "10.4. Quy định về nộp bài tập nhóm",
+      "level": 2,
+      "label": "quy-inh-ve-nop-bai-tap-nhom",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+        "10.4. Quy định về nộp bài tập nhóm"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+        "quy-inh-ve-nop-bai-tap-nhom"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 34,
+          "text": "Người học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.4. Quy định về nộp bài tập nhóm"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-nop-bai-tap-nhom"
+          ],
+          "source_block": 63
+        },
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Sau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.",
+          "is_list": true,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOME ASSESSMENT)",
+            "10.4. Quy định về nộp bài tập nhóm"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-learning-outcome-assessment",
+            "quy-inh-ve-nop-bai-tap-nhom"
+          ],
+          "source_block": 64
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec019",
+      "title": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024.",
+      "level": 1,
+      "label": "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-7-nam-2024",
+      "path_titles": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024."
+      ],
+      "path_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-7-nam-2024"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "vi-tikt1129#tbl008",
+          "table_name": null,
+          "section_path": [
+            "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024."
+          ],
+          "section_labels": [
+            "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-7-nam-2024"
+          ],
+          "source_block": 66,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TRƯỞNG KHOA TS. Nguyễn Thị Bạch Tuyết",
+              "cells": [
+                "TRƯỞNG KHOA TS. Nguyễn Thị Bạch Tuyết",
+                "HIỆU TRƯỞNG GS.TS. Phạm Hồng Chương"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec020",
+      "title": "PHỤ LỤC",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "PHỤ LỤC"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-tikt1129#sec021",
+      "title": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Hình thức: Thi trắc nghiệm viết trên máy",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 71
+        },
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Thời gian: 45 phút",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 72
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm.",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 73
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Ma trận đề thi trắc nghiệm:",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 74
+        },
+        {
+          "type": "table",
+          "order": 42,
+          "table_id": "vi-tikt1129#tbl009",
+          "table_name": "Ma trận đề thi trắc nghiệm:",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 1. MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 75,
+          "column_labels": [
+            "Nội dung",
+            "CLO",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Chương 1",
+              "cells": [
+                "Chương 1",
+                "1.1",
+                "3",
+                "3",
+                "4",
+                "10"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 1",
+                "CLO": "1.1",
+                "Nhớ": "3",
+                "Hiểu": "3",
+                "Vận dụng": "4",
+                "Tổng": "10"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chương 2",
+              "cells": [
+                "Chương 2",
+                "1.2",
+                "2",
+                "4",
+                "4",
+                "10"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 2",
+                "CLO": "1.2",
+                "Nhớ": "2",
+                "Hiểu": "4",
+                "Vận dụng": "4",
+                "Tổng": "10"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Chương 3",
+              "cells": [
+                "Chương 3",
+                "1.3",
+                "2",
+                "3",
+                "3",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 3",
+                "CLO": "1.3",
+                "Nhớ": "2",
+                "Hiểu": "3",
+                "Vận dụng": "3",
+                "Tổng": "8"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Chương 4",
+              "cells": [
+                "Chương 4",
+                "1.4",
+                "2",
+                "3",
+                "3",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 4",
+                "CLO": "1.4",
+                "Nhớ": "2",
+                "Hiểu": "3",
+                "Vận dụng": "3",
+                "Tổng": "8"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Chương 5",
+              "cells": [
+                "Chương 5",
+                "1.6",
+                "1",
+                "2",
+                "3",
+                "6"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 5",
+                "CLO": "1.6",
+                "Nhớ": "1",
+                "Hiểu": "2",
+                "Vận dụng": "3",
+                "Tổng": "6"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Chương 6",
+              "cells": [
+                "Chương 6",
+                "1.4",
+                "2",
+                "4",
+                "3",
+                "8"
+              ],
+              "column_map": {
+                "Nội dung": "Chương 6",
+                "CLO": "1.4",
+                "Nhớ": "2",
+                "Hiểu": "4",
+                "Vận dụng": "3",
+                "Tổng": "8"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Tổng số câu",
+              "cells": [
+                "Tổng số câu",
+                "Tổng số câu",
+                "12",
+                "18",
+                "20",
+                "50"
+              ],
+              "column_map": {
+                "Nội dung": "Tổng số câu",
+                "CLO": "Tổng số câu",
+                "Nhớ": "12",
+                "Hiểu": "18",
+                "Vận dụng": "20",
+                "Tổng": "50"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tỷ trọng",
+              "cells": [
+                "Tỷ trọng",
+                "Tỷ trọng",
+                "25%",
+                "35%",
+                "45%",
+                "100%"
+              ],
+              "column_map": {
+                "Nội dung": "Tỷ trọng",
+                "CLO": "Tỷ trọng",
+                "Nhớ": "25%",
+                "Hiểu": "35%",
+                "Vận dụng": "45%",
+                "Tổng": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-tikt1129#sec022",
+      "title": "Phụ lục 2. CÁC RUBRICS",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubrics",
+      "path_titles": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Rubric 1. Đánh giá điểm chuyên cần",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 78
+        },
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Trọng số trong điểm học phần: 10%",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 79
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Đánh giá qua 8 buổi seminar",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "table",
+          "order": 46,
+          "table_id": "vi-tikt1129#tbl010",
+          "table_name": "Đánh giá qua 8 buổi seminar",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 81,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)",
+                "Tham gia thảo luận (GV seminar đánh giá)"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi vắng (điểm danh)",
+              "cells": [
+                "Số buổi vắng (điểm danh)",
+                "Rất tích cực",
+                "Tích cực",
+                "Có tham gia",
+                "Không tham gia"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "0",
+              "cells": [
+                "0",
+                "10, 10+",
+                "9",
+                "8",
+                "7"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "9, 10",
+                "8",
+                "7",
+                "6"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "8, 9",
+                "7",
+                "6",
+                "5"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "> 2",
+              "cells": [
+                "> 2",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại",
+                "0 điểm, học lại"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 82
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Tiêu chí đánh giá tham gia thảo luận",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 83
+        },
+        {
+          "type": "table",
+          "order": 49,
+          "table_id": "vi-tikt1129#tbl011",
+          "table_name": null,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 84,
+          "column_labels": [
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+              "cells": [
+                "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              ],
+              "column_map": {
+                "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+                "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+                "Có tham gia": "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+                "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Rubric 2. Đánh giá thuyết trình theo nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 85
+        },
+        {
+          "type": "paragraph",
+          "order": 51,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 86
+        },
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Đánh giá qua kết quả theo nhóm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 87
+        },
+        {
+          "type": "table",
+          "order": 53,
+          "table_id": "vi-tikt1129#tbl012",
+          "table_name": "Đánh giá qua kết quả theo nhóm",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 88,
+          "column_labels": [
+            "Tiêu chí",
+            "Trọng số (%)",
+            "Tốt 8.5 – 10 điểm",
+            "Khá 6.5 – 8.4 điểm",
+            "Trung bình 4.0 – 6.4 điểm",
+            "Kém 0 – 3.9 điểm"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "10",
+                "Phong phú hơn yêu cầu",
+                "Đầy đủ theo yêu cầu",
+                "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Thiếu nhiều nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+                "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+                "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "20",
+                "Chính xác, khoa học",
+                "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "20",
+                "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+                "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Cấu trúc bài và slides rất hợp lý",
+                "Cấu trúc bài và slides khá hợp lý",
+                "Cấu trúc bài và slides tương đối hợp lý",
+                "Cấu trúc bài và slides chưa hợp lý"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+                "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+                "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+                "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Rất trực quan và thẩm mỹ",
+                "Khá trực quan và thẩm mỹ",
+                "Tương đối trực quan và thẩm mỹ",
+                "Ít/Không trực quan và thẩm mỹ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+                "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+                "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Kỹ năng trình bày",
+              "cells": [
+                "Kỹ năng trình bày",
+                "10",
+                "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kỹ năng trình bày",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Tương tác cử chỉ",
+              "cells": [
+                "Tương tác cử chỉ",
+                "10",
+                "Tương tác bằng mắt và cử chỉ tốt",
+                "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Không tương tác bằng mắt và cử chỉ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Tương tác cử chỉ",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+                "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Quản lý thời gian",
+              "cells": [
+                "Quản lý thời gian",
+                "10",
+                "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Quá giờ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Quản lý thời gian",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Kém 0 – 3.9 điểm": "Quá giờ"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Trả lời câu hỏi",
+              "cells": [
+                "Trả lời câu hỏi",
+                "10",
+                "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Không trả lời được đa số câu hỏi đặt đúng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Trả lời câu hỏi",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Sự phối hợp trong nhóm",
+              "cells": [
+                "Sự phối hợp trong nhóm",
+                "10",
+                "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Không thề hiện sự kết nối trong nhóm"
+              ],
+              "column_map": {
+                "Tiêu chí": "Sự phối hợp trong nhóm",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Rubric 3. Đánh giá thuyết trình theo nhóm",
+          "is_list": false,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 89
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 90
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "Đánh giá qua kết quả theo nhóm",
+          "is_list": true,
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 91
+        },
+        {
+          "type": "table",
+          "order": 57,
+          "table_id": "vi-tikt1129#tbl013",
+          "table_name": "Đánh giá qua kết quả theo nhóm",
+          "section_path": [
+            "PHỤ LỤC",
+            "Phụ lục 2. CÁC RUBRICS"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubrics"
+          ],
+          "source_block": 92,
+          "column_labels": [
+            "Tiêu chí",
+            "Trọng số (%)",
+            "Tốt 8.5 – 10 điểm",
+            "Khá 6.5 – 8.4 điểm",
+            "Trung bình 4.0 – 6.4 điểm",
+            "Kém 0 – 3.9 điểm"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "10",
+                "Phong phú hơn yêu cầu",
+                "Đầy đủ theo yêu cầu",
+                "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Thiếu nhiều nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+                "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+                "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung",
+              "cells": [
+                "Nội dung",
+                "20",
+                "Chính xác, khoa học",
+                "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Nội dung",
+                "Trọng số (%)": "20",
+                "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+                "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+                "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Cấu trúc bài và slides rất hợp lý",
+                "Cấu trúc bài và slides khá hợp lý",
+                "Cấu trúc bài và slides tương đối hợp lý",
+                "Cấu trúc bài và slides chưa hợp lý"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+                "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+                "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+                "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Cấu trúc và tính trực quan",
+              "cells": [
+                "Cấu trúc và tính trực quan",
+                "10",
+                "Rất trực quan và thẩm mỹ",
+                "Khá trực quan và thẩm mỹ",
+                "Tương đối trực quan và thẩm mỹ",
+                "Ít/Không trực quan và thẩm mỹ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Cấu trúc và tính trực quan",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+                "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+                "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+                "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Kỹ năng trình bày",
+              "cells": [
+                "Kỹ năng trình bày",
+                "10",
+                "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Kỹ năng trình bày",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+                "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+                "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+                "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Tương tác cử chỉ",
+              "cells": [
+                "Tương tác cử chỉ",
+                "10",
+                "Tương tác bằng mắt và cử chỉ tốt",
+                "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Không tương tác bằng mắt và cử chỉ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Tương tác cử chỉ",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+                "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+                "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+                "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Quản lý thời gian",
+              "cells": [
+                "Quản lý thời gian",
+                "10",
+                "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Quá giờ"
+              ],
+              "column_map": {
+                "Tiêu chí": "Quản lý thời gian",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+                "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+                "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+                "Kém 0 – 3.9 điểm": "Quá giờ"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Trả lời câu hỏi",
+              "cells": [
+                "Trả lời câu hỏi",
+                "10",
+                "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Không trả lời được đa số câu hỏi đặt đúng"
+              ],
+              "column_map": {
+                "Tiêu chí": "Trả lời câu hỏi",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+                "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+                "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Sự phối hợp trong nhóm",
+              "cells": [
+                "Sự phối hợp trong nhóm",
+                "10",
+                "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Không thề hiện sự kết nối trong nhóm"
+              ],
+              "column_map": {
+                "Tiêu chí": "Sự phối hợp trong nhóm",
+                "Trọng số (%)": "10",
+                "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+                "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+                "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+                "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-tikt1129#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": null,
+          "cells": [
+            "",
+            ""
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+          "cells": [
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)",
+          "cells": [
+            "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)",
+            "(Ban hành kèm theo Quyết định số 811 QĐ/ĐHKTQD ngày 29 tháng 7 năm 2024)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 1,
+      "table_id": "vi-tikt1129#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. THÔNG TIN TỔNG QUÁT (GENERAL INFORMATION)"
+      ],
+      "section_labels": [
+        "thong-tin-tong-quat-general-information"
+      ],
+      "source_block": 3,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Tên học phần (tiếng Việt):",
+          "cells": [
+            "- Tên học phần (tiếng Việt):",
+            "Hệ thống Thương mại điện tử"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Tên học phần (tiếng Anh)",
+          "cells": [
+            "- Tên học phần (tiếng Anh)",
+            "Electronic Commerce Systems"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Mã số học phần",
+          "cells": [
+            "- Mã số học phần",
+            "TIKT1129"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Trình độ đào tạo",
+          "cells": [
+            "- Trình độ đào tạo",
+            "Đại học"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "- Số tín chỉ",
+          "cells": [
+            "- Số tín chỉ",
+            "3 tín chỉ (45 giờ tín chỉ; 50 phút/giờ)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Số tiết lý thuyết",
+          "cells": [
+            "+ Số tiết lý thuyết",
+            "25"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 6,
+          "row_label": "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+          "cells": [
+            "+ Số tiết thảo luận/thực hành + Số tiết tự học",
+            "20 90"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 7,
+          "row_label": "- Các học phần tiên quyết:",
+          "cells": [
+            "- Các học phần tiên quyết:",
+            "Hệ thống thông tin quản lý; Mạng và Truyền thông"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 5,
+      "table_id": "vi-tikt1129#tbl003",
+      "table_name": "Giảng viên giảng dạy:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "section_labels": [
+        "khoa-vien-quan-ly-va-giang-vien-giang-day-management-faculty-and-teachers"
+      ],
+      "source_block": 8,
+      "column_labels": [
+        "TT",
+        "Họ và tên",
+        "Số điện thoại",
+        "Email"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "ThS. Phạm Văn Minh",
+            "0965509888",
+            "pvminh@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "1",
+            "Họ và tên": "ThS. Phạm Văn Minh",
+            "Số điện thoại": "0965509888",
+            "Email": "pvminh@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "ThS. Đỗ Đức Thọ",
+            "0913521589",
+            "thodd@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "2",
+            "Họ và tên": "ThS. Đỗ Đức Thọ",
+            "Số điện thoại": "0913521589",
+            "Email": "thodd@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "ThS. Trần Dũng Khánh",
+            "0919900084",
+            "kan@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "1",
+            "Họ và tên": "ThS. Trần Dũng Khánh",
+            "Số điện thoại": "0919900084",
+            "Email": "kan@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "ThS. Trần Thanh Hải",
+            "0903466090",
+            "haitt@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "2",
+            "Họ và tên": "ThS. Trần Thanh Hải",
+            "Số điện thoại": "0903466090",
+            "Email": "haitt@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "ThS. Phùng Tiến Hải",
+            "0903216863",
+            "phungtienhai@neu.edu.vn"
+          ],
+          "column_map": {
+            "TT": "4",
+            "Họ và tên": "ThS. Phùng Tiến Hải",
+            "Số điện thoại": "0903216863",
+            "Email": "phungtienhai@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 16,
+      "table_id": "vi-tikt1129#tbl004",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 28,
+      "column_labels": [
+        "Mã /Code",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR (PLO) của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã /Code": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR (PLO) của CTĐT": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Sinh viên hiểu và áp dụng được quy trình phát triển hệ thống thương mại điện tử. Triển khai thực hiện phát triển hệ thống thương mại điện tử cho doanh nghiệp. Xác định được các biện pháp đảm bảo an ninh, an toàn thông tin trong hoạt động thương mại điện tử",
+            "PLO1.4.3"
+          ],
+          "column_map": {
+            "Mã /Code": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Sinh viên hiểu và áp dụng được quy trình phát triển hệ thống thương mại điện tử. Triển khai thực hiện phát triển hệ thống thương mại điện tử cho doanh nghiệp. Xác định được các biện pháp đảm bảo an ninh, an toàn thông tin trong hoạt động thương mại điện tử",
+            "CĐR (PLO) của CTĐT": "PLO1.4.3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Sinh viên có kỹ năng sử dụng các công cụ trợ giúp xây dựng hệ thống thương mại điện tử như: ngôn ngữ lập trình web và hệ quản trị cơ sở dữ liệu dùng trong các ứng dụng web; có kiến thức và kinh nghiệm về lập trình bảo mật trong các hệ thống thương mại điện tử. Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển hệ thống thương mại điện tử.",
+            "PLO2.2.1 PLO2.2.2"
+          ],
+          "column_map": {
+            "Mã /Code": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Sinh viên có kỹ năng sử dụng các công cụ trợ giúp xây dựng hệ thống thương mại điện tử như: ngôn ngữ lập trình web và hệ quản trị cơ sở dữ liệu dùng trong các ứng dụng web; có kiến thức và kinh nghiệm về lập trình bảo mật trong các hệ thống thương mại điện tử. Có kỹ năng tự tìm hiểu, đọc tài liệu về phát triển hệ thống thương mại điện tử.",
+            "CĐR (PLO) của CTĐT": "PLO2.2.1 PLO2.2.2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "PLO3.1.1 PLO3.1.2 PLO3.2.3"
+          ],
+          "column_map": {
+            "Mã /Code": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "Có thể làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm. Có năng lực tổ chức hoạt động nhóm. Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "CĐR (PLO) của CTĐT": "PLO3.1.1 PLO3.1.2 PLO3.2.3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "vi-tikt1129#tbl005",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 32,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOs",
+        "Mô tả CLOs",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOs": "[2]",
+            "Mô tả CLOs": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.1",
+            "Hiểu rõ các thuật ngữ liên quan các loại hình thương mại điện tử, có khả năng ứng dụng được trong thực tiễn.",
+            "2"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1",
+            "CLOs": "CLO1.1",
+            "Mô tả CLOs": "Hiểu rõ các thuật ngữ liên quan các loại hình thương mại điện tử, có khả năng ứng dụng được trong thực tiễn.",
+            "Mức độ đạt được": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.2",
+            "Hiểu và giải thích được các phương tiện, hình thức giao dịch và loại hình thương mại điện tử",
+            "3"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1",
+            "CLOs": "CLO1.2",
+            "Mô tả CLOs": "Hiểu và giải thích được các phương tiện, hình thức giao dịch và loại hình thương mại điện tử",
+            "Mức độ đạt được": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.3",
+            "Hiểu và sử dụng các công cụ tin học trợ giúp cho việc bảo đảm an ninh, an toàn trong thương mại điện tử",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1",
+            "CLOs": "CLO1.3",
+            "Mô tả CLOs": "Hiểu và sử dụng các công cụ tin học trợ giúp cho việc bảo đảm an ninh, an toàn trong thương mại điện tử",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.4",
+            "Triển khai, vận hành hệ thống thương mại điện tử cho doanh nghiệp.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1",
+            "CLOs": "CLO1.4",
+            "Mô tả CLOs": "Triển khai, vận hành hệ thống thương mại điện tử cho doanh nghiệp.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "CLO1.5",
+            "Hiểu và sử dụng thành thạo công cụ tin học trợ giúp cho hoạt động thương mại tại doanh nghiệp.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG1",
+            "CLOs": "CLO1.5",
+            "Mô tả CLOs": "Hiểu và sử dụng thành thạo công cụ tin học trợ giúp cho hoạt động thương mại tại doanh nghiệp.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.1",
+            "Làm chủ các công nghệ, kỹ thuật để phát triển, vận hành và quản trị các ứng dụng web. Vận dụng được những nguyên tắc cơ bản của quy trình phát triển phần mềm vào phân tích, thiết kế, lập trình, xây dựng hệ thống thương mại điện tử",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2",
+            "CLOs": "CLO2.1",
+            "Mô tả CLOs": "Làm chủ các công nghệ, kỹ thuật để phát triển, vận hành và quản trị các ứng dụng web. Vận dụng được những nguyên tắc cơ bản của quy trình phát triển phần mềm vào phân tích, thiết kế, lập trình, xây dựng hệ thống thương mại điện tử",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "CLO2.2",
+            "Có kỹ năng tư duy hệ thống và mô hình hóa; có kỹ năng tự tìm hiểu, đọc tài liệu, cập nhật kiến thức chuyên môn liên quan đến thương mại điện tử.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG2",
+            "CLOs": "CLO2.2",
+            "Mô tả CLOs": "Có kỹ năng tư duy hệ thống và mô hình hóa; có kỹ năng tự tìm hiểu, đọc tài liệu, cập nhật kiến thức chuyên môn liên quan đến thương mại điện tử.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.1",
+            "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3",
+            "CLOs": "CLO3.1",
+            "Mô tả CLOs": "Có khả năng làm việc độc lập hoặc tham gia chủ động, tích cực, hiệu quả vào các hoạt động của nhóm.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.2",
+            "Có năng lực tổ chức hoạt động nhóm.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3",
+            "CLOs": "CLO3.2",
+            "Mô tả CLOs": "Có năng lực tổ chức hoạt động nhóm.",
+            "Mức độ đạt được": "4"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "CLO3.3",
+            "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "4"
+          ],
+          "column_map": {
+            "Mục tiêu": "CG3",
+            "CLOs": "CLO3.3",
+            "Mô tả CLOs": "Có trách nhiệm xã hội và đạo đức nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý.",
+            "Mức độ đạt được": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 19,
+      "table_id": "vi-tikt1129#tbl006",
+      "table_name": null,
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
+        "7.1. Đánh giá học phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "anh-gia-hoc-phan"
+      ],
+      "source_block": 36,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung đánh giá trong PLO",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR của CTĐT"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung đánh giá trong PLO": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR của CTĐT": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Ý thức",
+            "Tuần 1-15",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Phụ lục 2 Rubric 1",
+            "10%",
+            "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung đánh giá trong PLO": "Ý thức",
+            "Thời điểm": "Tuần 1-15",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Năng lực",
+            "Tuần 1-15",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Phụ lục 2 Rubric 1",
+            "10%",
+            "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung đánh giá trong PLO": "Năng lực",
+            "Thời điểm": "Tuần 1-15",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Thái độ: - Thái độ học tập trên lớp - Trả lời câu hỏi trên lớp - Trả lời các câu hỏi thảo luận",
+            "Tuần 1-15",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Phụ lục 2 Rubric 1",
+            "10%",
+            "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung đánh giá trong PLO": "Thái độ: - Thái độ học tập trên lớp - Trả lời câu hỏi trên lớp - Trả lời các câu hỏi thảo luận",
+            "Thời điểm": "Tuần 1-15",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 2.6 PLO 3.1 PLO 3.2"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm/kiểm tra (phân tích tình huống) Chủ đề (giảng viên đưa ra bài tập tình huống) Nội dung giải quyết (kết hợp với phần mềm ứng dụng) Mỗi nhóm trình bày: 15 phút và sẽ được tính 20%",
+            "Tuần 5",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+            "Phụ lục 2 Rubric 2",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung đánh giá trong PLO": "Bài tập nhóm/kiểm tra (phân tích tình huống) Chủ đề (giảng viên đưa ra bài tập tình huống) Nội dung giải quyết (kết hợp với phần mềm ứng dụng) Mỗi nhóm trình bày: 15 phút và sẽ được tính 20%",
+            "Thời điểm": "Tuần 5",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.2",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 2",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Đánh giá quá trình",
+          "cells": [
+            "Đánh giá quá trình",
+            "Bài tập nhóm Chia mỗi nhóm từ 4-6 sinh viên Lựa chọn tình huống Xác định vấn đề trong doanh nghiệp, xác định dữ liệu đầu vào, thông tin đầu ra và công cụ xử lý. Triển khai thực hiện phát triển ứng dụng website thương mại điện tử. Mỗi nhóm trình bày: 15 phút; sẽ được tính 20%",
+            "Tuần 12",
+            "CLO3.1 CLO3.2 CLO1.2 CLO1.3 CLO1.4",
+            "Phụ lục 2 Rubric 3",
+            "40%",
+            "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình",
+            "Nội dung đánh giá trong PLO": "Bài tập nhóm Chia mỗi nhóm từ 4-6 sinh viên Lựa chọn tình huống Xác định vấn đề trong doanh nghiệp, xác định dữ liệu đầu vào, thông tin đầu ra và công cụ xử lý. Triển khai thực hiện phát triển ứng dụng website thương mại điện tử. Mỗi nhóm trình bày: 15 phút; sẽ được tính 20%",
+            "Thời điểm": "Tuần 12",
+            "CLOs": "CLO3.1 CLO3.2 CLO1.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Phụ lục 2 Rubric 3",
+            "Tỷ lệ (%)": "40%",
+            "CĐR của CTĐT": "PLO 1.3 PLO 1.4 PLO 1.5 PLO 3.1"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Bài thi cuối kỳ Thời lượng 60 phút. Toàn bộ nội dung học phần. Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại..",
+            "Lịch thi học phần",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4",
+            "Thi trắc nghiệm khách quan trên máy tính",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung đánh giá trong PLO": "Bài thi cuối kỳ Thời lượng 60 phút. Toàn bộ nội dung học phần. Sinh viên được phép sử dụng tài liệu giấy (không được sử dụng điện thoại di động và tài liệu điện tử) Không có thi lại..",
+            "Thời điểm": "Lịch thi học phần",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4",
+            "Công cụ và tiêu chí đánh giá": "Thi trắc nghiệm khách quan trên máy tính",
+            "Tỷ lệ (%)": "50%",
+            "CĐR của CTĐT": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 21,
+      "table_id": "vi-tikt1129#tbl007",
+      "table_name": "Bảng 4. Kế hoạch và nội dung giảng dạy",
+      "section_path": [
+        "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)"
+      ],
+      "section_labels": [
+        "ke-hoach-giang-day-lesson-plan"
+      ],
+      "source_block": 44,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1 Bài mở đầu Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Đề cương học phần",
+            "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+            "",
+            "CLO1.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1 Bài mở đầu Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT",
+            "Tài liệu đọc": "Đề cương học phần",
+            "Hoạt động dạy và học": "Giảng viên Hướng dẫn đọc tài liệu Hướng dẫn tìm tài liệu Đặt ra yêu cầu học tập Giới thiệu học phần",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chương 1: Tổng quan về thương mại điện tử 1.1. Giới thiệu về Internet và World Wide Web 1.2. Tổng quan về ứng dụng thương mại điện tử 1.3. Các khái niệm về thương mại điện tử 1.4 Lợi ích và những hạn chế thương mại điện tử",
+            "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+            "Giảng viên Dạy lý thuyết theo nội dung slide Sinh viên Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về Internet, thương mại điện tử và vai trò của thương mại điện tử trong nền kinh tế số Thảo luận về một số mô hình thương mại điện tử điển hình (amazon, ebay, alibaba, thegioididong, shopee…)",
+            "",
+            "CLO1.1"
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Chương 1: Tổng quan về thương mại điện tử 1.1. Giới thiệu về Internet và World Wide Web 1.2. Tổng quan về ứng dụng thương mại điện tử 1.3. Các khái niệm về thương mại điện tử 1.4 Lợi ích và những hạn chế thương mại điện tử",
+            "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên Dạy lý thuyết theo nội dung slide Sinh viên Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về Internet, thương mại điện tử và vai trò của thương mại điện tử trong nền kinh tế số Thảo luận về một số mô hình thương mại điện tử điển hình (amazon, ebay, alibaba, thegioididong, shopee…)",
+            "Đánh giá": "",
+            "CLOs": "CLO1.1"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chương 1. 1.5. Các căn cứ pháp lý của hoạt động thương mại điện tử 1.6. Các phương tiện của thương mại điện tử 1.7. Các hình thức giao dịch thương mại điện tử",
+            "[1] Chương 1 [2] Chương 2 [3] Chương 2",
+            "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về các phương tiện của thương mại điện tử",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Chương 1. 1.5. Các căn cứ pháp lý của hoạt động thương mại điện tử 1.6. Các phương tiện của thương mại điện tử 1.7. Các hình thức giao dịch thương mại điện tử",
+            "Tài liệu đọc": "[1] Chương 1 [2] Chương 2 [3] Chương 2",
+            "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 1 Chia nhóm Thảo luận về các phương tiện của thương mại điện tử",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1 Hướng dẫn làm bài tập lớn số 1: Nghiên cứu về một công ty thương mại điện tử điển hình.",
+            "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+            "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài tập chương 1 Sinh viên: - Đọc trước tài liệu - Theo dõi giảng viên chữa bài tập -Tham gia thảo luận về các mô hình thương mại điện tử điển hình",
+            "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Làm bài tập, thảo luận",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Seminar 1 Tóm tắt lại kiến thức đã học tại buổi Lecture 1 Thảo luận về các ví dụ, câu hỏi, bài tập của Chương 1 Hướng dẫn làm bài tập lớn số 1: Nghiên cứu về một công ty thương mại điện tử điển hình.",
+            "Tài liệu đọc": "[1] Chương 1 [2] Chương 1 [3] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số vấn đề lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thảo luận - Chữa bài tập chương 1 Sinh viên: - Đọc trước tài liệu - Theo dõi giảng viên chữa bài tập -Tham gia thảo luận về các mô hình thương mại điện tử điển hình",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trong Seminar 1 (mức độ tham gia; tương tác; chất lượng câu trả lời) + Đánh giá quá trình: + Trả lời câu hỏi trên lớp - Làm bài tập, thảo luận",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture 2 Chương 2: Giao dịch điện tử 2.1. Hợp đồng điện tử",
+            "[1] Chương 2 [2] Chương 3 [3] Chương 3",
+            "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về hợp đồng điện tử; so sánh hợp đồng điện tử và hợp đồng truyền thống; và một số điểm cần lưu ý khi sử dụng hợp đồng điện tử.",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài kiểm tra cá nhân Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Lecture 2 Chương 2: Giao dịch điện tử 2.1. Hợp đồng điện tử",
+            "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [3] Chương 3",
+            "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về hợp đồng điện tử; so sánh hợp đồng điện tử và hợp đồng truyền thống; và một số điểm cần lưu ý khi sử dụng hợp đồng điện tử.",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài kiểm tra cá nhân Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chương 2. 2.2. Thanh toán điện tử",
+            "[1] Chương 2 [2] Chương 3 [5] Chương 3",
+            "Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về tổng quan thanh toán điện tử. Một số hình thức thanh toán điện tử phổ biến.",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Chương 2. 2.2. Thanh toán điện tử",
+            "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [5] Chương 3",
+            "Hoạt động dạy và học": "Học ở nhà: đọc trước tài liệu chương 2 Thảo luận về tổng quan thanh toán điện tử. Một số hình thức thanh toán điện tử phổ biến.",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chương 2. 2.3. Chữ ký số và dịch vụ chứng thực chữ ký số",
+            "[1] Chương 3 [4] Chương 1,2,",
+            "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 2 và các tài liệu liên quan Thảo luận về điều kiện đảm bảo của chữ ký điện tử.",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3"
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Chương 2. 2.3. Chữ ký số và dịch vụ chứng thực chữ ký số",
+            "Tài liệu đọc": "[1] Chương 3 [4] Chương 1,2,",
+            "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 2 và các tài liệu liên quan Thảo luận về điều kiện đảm bảo của chữ ký điện tử.",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Seminar 2 - Tóm tắt lại kiến thức chương 2 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành ký kết một số hợp đồng điện tử - Hướng dẫn thực thành thanh toán điện tử Hướng dẫn sử dụng chữ ký điện tử",
+            "[1] Chương 2 [2] Chương 3 [3] Chương 2, 3",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Làm bài tập thực hành",
+            "CLO1.2 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Seminar 2 - Tóm tắt lại kiến thức chương 2 đã học tại buổi Lecture 2 - Thảo luận về các ví dụ, câu hỏi của Seminar 2 - Hướng dẫn thực hành ký kết một số hợp đồng điện tử - Hướng dẫn thực thành thanh toán điện tử Hướng dẫn sử dụng chữ ký điện tử",
+            "Tài liệu đọc": "[1] Chương 2 [2] Chương 3 [3] Chương 2, 3",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 2 - Làm bài tập thực hành",
+            "CLOs": "CLO1.2 CLO2.2"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 3 Chương 3: Marketing điện tử 3.1. Tổng quan về Marketing điện tử 3.2. Ứng dụng Marketing điện tử trong doanh nghiệp",
+            "[1] Chương 3 [4] Chương 3",
+            "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 3 và các tài liệu liên quan Thảo luận về Marketing điện tử, các phương tiện Marketing điện tử điển hình hiện nay",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Lecture 3 Chương 3: Marketing điện tử 3.1. Tổng quan về Marketing điện tử 3.2. Ứng dụng Marketing điện tử trong doanh nghiệp",
+            "Tài liệu đọc": "[1] Chương 3 [4] Chương 3",
+            "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu Chương 3 và các tài liệu liên quan Thảo luận về Marketing điện tử, các phương tiện Marketing điện tử điển hình hiện nay",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 về chương 3 – Marketing điện tử. Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành Marketing điện tử trên website điển hình.",
+            "[1] Chương 4 [2] Chương 4 [3] Chương 4,5",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+            "CLO1.2 CLO1.3 CLO2.1"
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Seminar 3 Tóm tắt lại kiến thức đã học tại buổi Lecture 3 về chương 3 – Marketing điện tử. Thảo luận về các ví dụ, câu hỏi của Seminar 3 Thực hành Marketing điện tử trên website điển hình.",
+            "Tài liệu đọc": "[1] Chương 4 [2] Chương 4 [3] Chương 4,5",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận - Tham gia chữa bài tập thực hành",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 3 - Làm bài tập thực hành",
+            "CLOs": "CLO1.2 CLO1.3 CLO2.1"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 4 Chương 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử 4.1 Tổng quan về an toàn và phòng tránh rủi ro trong Thương mại điện tử 4.2 Rủi ro chính trong thương mại điện tử 4.3 Xây dựng kế hoạch an ninh cho thương mại điện tử",
+            "[1] Chương 4 [5] Chương 1,2",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 4 Sinh viên - Đọc trước các tài liệu chương 4 và các tài liệu tham khảo liên quan - Xem trước các ví dụ, làm bài tập được yêu cầu về thực hành về bảo mật thông tin trong giao dịch thương mại điện tử",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Lecture 4 Chương 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử 4.1 Tổng quan về an toàn và phòng tránh rủi ro trong Thương mại điện tử 4.2 Rủi ro chính trong thương mại điện tử 4.3 Xây dựng kế hoạch an ninh cho thương mại điện tử",
+            "Tài liệu đọc": "[1] Chương 4 [5] Chương 1,2",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 4 Sinh viên - Đọc trước các tài liệu chương 4 và các tài liệu tham khảo liên quan - Xem trước các ví dụ, làm bài tập được yêu cầu về thực hành về bảo mật thông tin trong giao dịch thương mại điện tử",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Seminar 4 - Tóm tắt lại kiến thức đã học tại buổi Lecture 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử - Thảo luận về các ví dụ, câu hỏi của Seminar 4 - Thảo luận bài tập tình huống",
+            "",
+            "Giảng viên: Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi thuộc chương 4- Rủi ro và phòng tránh rủi ro trong thương mại điện tử. Sinh viên: Thảo luận về phân tích tình hình để xác định các rủi ro và biện pháp phòng tránh rủi ro trong thương mại điện tử. Thực hành một số biện pháp bảo mật thông tin cá nhân, bảo mật các giao dịch điện tử.",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Seminar 4 - Tóm tắt lại kiến thức đã học tại buổi Lecture 4: Rủi ro và phòng tránh rủi ro trong thương mại điện tử - Thảo luận về các ví dụ, câu hỏi của Seminar 4 - Thảo luận bài tập tình huống",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên: Nhắc lại một số nội dung lý thuyết và trả lời câu hỏi thuộc chương 4- Rủi ro và phòng tránh rủi ro trong thương mại điện tử. Sinh viên: Thảo luận về phân tích tình hình để xác định các rủi ro và biện pháp phòng tránh rủi ro trong thương mại điện tử. Thực hành một số biện pháp bảo mật thông tin cá nhân, bảo mật các giao dịch điện tử.",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 4",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.2"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Lecture 5 Chương 5: Ứng dụng thương mại điện tử trong doanh nghiệp 5.1. Xây dựng hệ thống thương mại điện tử trong doanh nghiệp 5.2. Triển khai hệ thống thương mại điện tử trong doanh nghiệp 5.3. Xây dựng kế hoạch kinh doanh điện tử 5.4 Xây dựng website và quản lý website thương mại điện tử",
+            "[1] Chương 5 [5] Chương 1,2",
+            "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu tham khảo liên quan Thảo luận về website thương mại điện tử, các công cụ thực hiện xây dựng và quản trị website.",
+            "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Lecture 5 Chương 5: Ứng dụng thương mại điện tử trong doanh nghiệp 5.1. Xây dựng hệ thống thương mại điện tử trong doanh nghiệp 5.2. Triển khai hệ thống thương mại điện tử trong doanh nghiệp 5.3. Xây dựng kế hoạch kinh doanh điện tử 5.4 Xây dựng website và quản lý website thương mại điện tử",
+            "Tài liệu đọc": "[1] Chương 5 [5] Chương 1,2",
+            "Hoạt động dạy và học": "Dạy lý thuyết Học ở nhà: đọc trước tài liệu chương 5 và các tài liệu tham khảo liên quan Thảo luận về website thương mại điện tử, các công cụ thực hiện xây dựng và quản trị website.",
+            "Đánh giá": "Đánh giá quá trình: Trả lời câu hỏi trên lớp Bài thi cuối kỳ",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO2.1"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "10 11 12",
+          "cells": [
+            "10 11 12",
+            "Seminar 5 - Tóm tắt lại kiến thức đã học tại buổi Lecture 5: Chương 5 - Ứng dụng thương mại điện tử trong doanh nghiệp - Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành xây dựng một website thương mại điện tử bằng Word press. Hướng dẫn làm bài tập nhóm số 2. Các nhóm thuyết trình bài tập nhóm theo yêu cầu.",
+            "[1] Chương 5 [2] Chương 5 [3] Chương 7,8",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành thiết kế website bằng word press",
+            "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập lớn số 2 (Rubric 2)",
+            "CLO1.2 CLO1.3 CLO2.1 CLO2.2"
+          ],
+          "column_map": {
+            "Tuần": "10 11 12",
+            "Nội dung": "Seminar 5 - Tóm tắt lại kiến thức đã học tại buổi Lecture 5: Chương 5 - Ứng dụng thương mại điện tử trong doanh nghiệp - Thảo luận về các ví dụ, câu hỏi của Seminar 5 Thực hành xây dựng một website thương mại điện tử bằng Word press. Hướng dẫn làm bài tập nhóm số 2. Các nhóm thuyết trình bài tập nhóm theo yêu cầu.",
+            "Tài liệu đọc": "[1] Chương 5 [2] Chương 5 [3] Chương 7,8",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm - Chữa bài tập thực hành Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành thiết kế website bằng word press",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi thuộc nội dung Seminar 5 - Làm bài tập lớn số 2 (Rubric 2)",
+            "CLOs": "CLO1.2 CLO1.3 CLO2.1 CLO2.2"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Lecture 6 Chương 6: Luật điều chỉnh thương mại điện tử 6.1. Khái quát khung pháp lý về thương mại điện tử trên thế giới 6.2. Khung pháp lý về thương mại điện tử trong khu vực 6.3. Khung pháp lý về thương mại điện tử ở Việt Nam",
+            "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+            "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "",
+            "CLO1.4 CLO1.5"
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Lecture 6 Chương 6: Luật điều chỉnh thương mại điện tử 6.1. Khái quát khung pháp lý về thương mại điện tử trên thế giới 6.2. Khung pháp lý về thương mại điện tử trong khu vực 6.3. Khung pháp lý về thương mại điện tử ở Việt Nam",
+            "Tài liệu đọc": "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+            "Hoạt động dạy và học": "Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu",
+            "Đánh giá": "",
+            "CLOs": "CLO1.4 CLO1.5"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Seminar 6 - Tóm tắt lại kiến thức đã học tại buổi Lecture 6 - Thảo luận về các ví dụ, câu hỏi của Seminar 6 - Thảo luận bài tập tình huống trong giao dịch thương mại điện tử.",
+            "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+            "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận theo nhóm - Tham gia chữa bài tập thực hành theo nhóm",
+            "- Điểm danh - Trả lời câu hỏi trong Seminar 6",
+            "CLO1.4 CLO1.5 CLO2.2 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Seminar 6 - Tóm tắt lại kiến thức đã học tại buổi Lecture 6 - Thảo luận về các ví dụ, câu hỏi của Seminar 6 - Thảo luận bài tập tình huống trong giao dịch thương mại điện tử.",
+            "Tài liệu đọc": "[1] Chương 6 [2] Chương 6 [3] Chương 9, 10",
+            "Hoạt động dạy và học": "Giảng viên: - Nhắc lại một số nội dung lý thuyết - Hướng dẫn trả lời câu hỏi - Hướng dẫn thực hành theo nhóm Sinh viên: - Đọc trước tài liệu - Theo dõi các bước thực hành - Làm bài thực hành - Tham gia thảo luận theo nhóm - Tham gia chữa bài tập thực hành theo nhóm",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong Seminar 6",
+            "CLOs": "CLO1.4 CLO1.5 CLO2.2 CLO3.1 CLO3.2"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Thuyết trình bài tập nhóm (phát triển Website thương mại điện tử) Ôn tập Tổng kết",
+            "",
+            "Nhóm thuyết trình Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm Hỏi đáp",
+            "Đánh giá điểm của nhóm",
+            "CLO1.4 CLO3.1 CLO3.2"
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Thuyết trình bài tập nhóm (phát triển Website thương mại điện tử) Ôn tập Tổng kết",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Nhóm thuyết trình Câu hỏi và thảo luận về chủ đề và nội dung của các nhóm Hỏi đáp",
+            "Đánh giá": "Đánh giá điểm của nhóm",
+            "CLOs": "CLO1.4 CLO3.1 CLO3.2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "vi-tikt1129#tbl008",
+      "table_name": null,
+      "section_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 7 năm 2024."
+      ],
+      "section_labels": [
+        "thoi-iem-hieu-chinh-e-cuong-syllabus-adjustment-time-thang-7-nam-2024"
+      ],
+      "source_block": 66,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TRƯỞNG KHOA TS. Nguyễn Thị Bạch Tuyết",
+          "cells": [
+            "TRƯỞNG KHOA TS. Nguyễn Thị Bạch Tuyết",
+            "HIỆU TRƯỞNG GS.TS. Phạm Hồng Chương"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 42,
+      "table_id": "vi-tikt1129#tbl009",
+      "table_name": "Ma trận đề thi trắc nghiệm:",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 75,
+      "column_labels": [
+        "Nội dung",
+        "CLO",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Chương 1",
+          "cells": [
+            "Chương 1",
+            "1.1",
+            "3",
+            "3",
+            "4",
+            "10"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 1",
+            "CLO": "1.1",
+            "Nhớ": "3",
+            "Hiểu": "3",
+            "Vận dụng": "4",
+            "Tổng": "10"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chương 2",
+          "cells": [
+            "Chương 2",
+            "1.2",
+            "2",
+            "4",
+            "4",
+            "10"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 2",
+            "CLO": "1.2",
+            "Nhớ": "2",
+            "Hiểu": "4",
+            "Vận dụng": "4",
+            "Tổng": "10"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Chương 3",
+          "cells": [
+            "Chương 3",
+            "1.3",
+            "2",
+            "3",
+            "3",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 3",
+            "CLO": "1.3",
+            "Nhớ": "2",
+            "Hiểu": "3",
+            "Vận dụng": "3",
+            "Tổng": "8"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Chương 4",
+          "cells": [
+            "Chương 4",
+            "1.4",
+            "2",
+            "3",
+            "3",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 4",
+            "CLO": "1.4",
+            "Nhớ": "2",
+            "Hiểu": "3",
+            "Vận dụng": "3",
+            "Tổng": "8"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Chương 5",
+          "cells": [
+            "Chương 5",
+            "1.6",
+            "1",
+            "2",
+            "3",
+            "6"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 5",
+            "CLO": "1.6",
+            "Nhớ": "1",
+            "Hiểu": "2",
+            "Vận dụng": "3",
+            "Tổng": "6"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Chương 6",
+          "cells": [
+            "Chương 6",
+            "1.4",
+            "2",
+            "4",
+            "3",
+            "8"
+          ],
+          "column_map": {
+            "Nội dung": "Chương 6",
+            "CLO": "1.4",
+            "Nhớ": "2",
+            "Hiểu": "4",
+            "Vận dụng": "3",
+            "Tổng": "8"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Tổng số câu",
+          "cells": [
+            "Tổng số câu",
+            "Tổng số câu",
+            "12",
+            "18",
+            "20",
+            "50"
+          ],
+          "column_map": {
+            "Nội dung": "Tổng số câu",
+            "CLO": "Tổng số câu",
+            "Nhớ": "12",
+            "Hiểu": "18",
+            "Vận dụng": "20",
+            "Tổng": "50"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tỷ trọng",
+          "cells": [
+            "Tỷ trọng",
+            "Tỷ trọng",
+            "25%",
+            "35%",
+            "45%",
+            "100%"
+          ],
+          "column_map": {
+            "Nội dung": "Tỷ trọng",
+            "CLO": "Tỷ trọng",
+            "Nhớ": "25%",
+            "Hiểu": "35%",
+            "Vận dụng": "45%",
+            "Tổng": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 46,
+      "table_id": "vi-tikt1129#tbl010",
+      "table_name": "Đánh giá qua 8 buổi seminar",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 81,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)",
+            "Tham gia thảo luận (GV seminar đánh giá)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi vắng (điểm danh)",
+          "cells": [
+            "Số buổi vắng (điểm danh)",
+            "Rất tích cực",
+            "Tích cực",
+            "Có tham gia",
+            "Không tham gia"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "0",
+          "cells": [
+            "0",
+            "10, 10+",
+            "9",
+            "8",
+            "7"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "9, 10",
+            "8",
+            "7",
+            "6"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "8, 9",
+            "7",
+            "6",
+            "5"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "> 2",
+          "cells": [
+            "> 2",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại",
+            "0 điểm, học lại"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 49,
+      "table_id": "vi-tikt1129#tbl011",
+      "table_name": null,
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 84,
+      "column_labels": [
+        "Rất tích cực",
+        "Tích cực",
+        "Có tham gia",
+        "Không tham gia"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+          "cells": [
+            "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          ],
+          "column_map": {
+            "Rất tích cực": "Xung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác.",
+            "Tích cực": "Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm.",
+            "Có tham gia": "Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm.",
+            "Không tham gia": "Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác."
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 53,
+      "table_id": "vi-tikt1129#tbl012",
+      "table_name": "Đánh giá qua kết quả theo nhóm",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 88,
+      "column_labels": [
+        "Tiêu chí",
+        "Trọng số (%)",
+        "Tốt 8.5 – 10 điểm",
+        "Khá 6.5 – 8.4 điểm",
+        "Trung bình 4.0 – 6.4 điểm",
+        "Kém 0 – 3.9 điểm"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "10",
+            "Phong phú hơn yêu cầu",
+            "Đầy đủ theo yêu cầu",
+            "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Thiếu nhiều nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+            "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+            "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "20",
+            "Chính xác, khoa học",
+            "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "20",
+            "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+            "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Cấu trúc bài và slides rất hợp lý",
+            "Cấu trúc bài và slides khá hợp lý",
+            "Cấu trúc bài và slides tương đối hợp lý",
+            "Cấu trúc bài và slides chưa hợp lý"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+            "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+            "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+            "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Rất trực quan và thẩm mỹ",
+            "Khá trực quan và thẩm mỹ",
+            "Tương đối trực quan và thẩm mỹ",
+            "Ít/Không trực quan và thẩm mỹ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+            "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+            "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Kỹ năng trình bày",
+          "cells": [
+            "Kỹ năng trình bày",
+            "10",
+            "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kỹ năng trình bày",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Tương tác cử chỉ",
+          "cells": [
+            "Tương tác cử chỉ",
+            "10",
+            "Tương tác bằng mắt và cử chỉ tốt",
+            "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Không tương tác bằng mắt và cử chỉ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Tương tác cử chỉ",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+            "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Quản lý thời gian",
+          "cells": [
+            "Quản lý thời gian",
+            "10",
+            "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Quá giờ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Quản lý thời gian",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Kém 0 – 3.9 điểm": "Quá giờ"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Trả lời câu hỏi",
+          "cells": [
+            "Trả lời câu hỏi",
+            "10",
+            "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Không trả lời được đa số câu hỏi đặt đúng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Trả lời câu hỏi",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Sự phối hợp trong nhóm",
+          "cells": [
+            "Sự phối hợp trong nhóm",
+            "10",
+            "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Không thề hiện sự kết nối trong nhóm"
+          ],
+          "column_map": {
+            "Tiêu chí": "Sự phối hợp trong nhóm",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 57,
+      "table_id": "vi-tikt1129#tbl013",
+      "table_name": "Đánh giá qua kết quả theo nhóm",
+      "section_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubrics"
+      ],
+      "source_block": 92,
+      "column_labels": [
+        "Tiêu chí",
+        "Trọng số (%)",
+        "Tốt 8.5 – 10 điểm",
+        "Khá 6.5 – 8.4 điểm",
+        "Trung bình 4.0 – 6.4 điểm",
+        "Kém 0 – 3.9 điểm"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "10",
+            "Phong phú hơn yêu cầu",
+            "Đầy đủ theo yêu cầu",
+            "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Thiếu nhiều nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Phong phú hơn yêu cầu",
+            "Khá 6.5 – 8.4 điểm": "Đầy đủ theo yêu cầu",
+            "Trung bình 4.0 – 6.4 điểm": "Khá đầy đủ, còn thiếu 1 nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu nhiều nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung",
+          "cells": [
+            "Nội dung",
+            "20",
+            "Chính xác, khoa học",
+            "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Nội dung",
+            "Trọng số (%)": "20",
+            "Tốt 8.5 – 10 điểm": "Chính xác, khoa học",
+            "Khá 6.5 – 8.4 điểm": "Khá chính xác, khoa học, còn vài sai sót nhỏ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối chính xác, khoa học, còn 1 sai sót quan trọng",
+            "Kém 0 – 3.9 điểm": "Thiếu chính xác, khoa học, nhiều sai sót quan trọng"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Cấu trúc bài và slides rất hợp lý",
+            "Cấu trúc bài và slides khá hợp lý",
+            "Cấu trúc bài và slides tương đối hợp lý",
+            "Cấu trúc bài và slides chưa hợp lý"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Cấu trúc bài và slides rất hợp lý",
+            "Khá 6.5 – 8.4 điểm": "Cấu trúc bài và slides khá hợp lý",
+            "Trung bình 4.0 – 6.4 điểm": "Cấu trúc bài và slides tương đối hợp lý",
+            "Kém 0 – 3.9 điểm": "Cấu trúc bài và slides chưa hợp lý"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Cấu trúc và tính trực quan",
+          "cells": [
+            "Cấu trúc và tính trực quan",
+            "10",
+            "Rất trực quan và thẩm mỹ",
+            "Khá trực quan và thẩm mỹ",
+            "Tương đối trực quan và thẩm mỹ",
+            "Ít/Không trực quan và thẩm mỹ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Cấu trúc và tính trực quan",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Rất trực quan và thẩm mỹ",
+            "Khá 6.5 – 8.4 điểm": "Khá trực quan và thẩm mỹ",
+            "Trung bình 4.0 – 6.4 điểm": "Tương đối trực quan và thẩm mỹ",
+            "Kém 0 – 3.9 điểm": "Ít/Không trực quan và thẩm mỹ"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Kỹ năng trình bày",
+          "cells": [
+            "Kỹ năng trình bày",
+            "10",
+            "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Kỹ năng trình bày",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Dẫn dắt vấn đề và lập luận lôi cuốn, thuyết phục",
+            "Khá 6.5 – 8.4 điểm": "Trình bày rõ ràng nhưng chưa lôi cuốn, lập luận khá thuyết phục",
+            "Trung bình 4.0 – 6.4 điểm": "Khó theo dõi nhưng vẫn có thể hiểu được các nội dung quan trọng",
+            "Kém 0 – 3.9 điểm": "Trình bày không rõ ràng, người nghe không thể hiểu được các nội dung quan trọng"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Tương tác cử chỉ",
+          "cells": [
+            "Tương tác cử chỉ",
+            "10",
+            "Tương tác bằng mắt và cử chỉ tốt",
+            "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Không tương tác bằng mắt và cử chỉ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Tương tác cử chỉ",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Tương tác bằng mắt và cử chỉ tốt",
+            "Khá 6.5 – 8.4 điểm": "Tương tác bằng mắt và cử chỉ khá tốt",
+            "Trung bình 4.0 – 6.4 điểm": "Có tương tác bằng mắt, cử chỉ nhưng chưa tốt",
+            "Kém 0 – 3.9 điểm": "Không tương tác bằng mắt và cử chỉ"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Quản lý thời gian",
+          "cells": [
+            "Quản lý thời gian",
+            "10",
+            "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Quá giờ"
+          ],
+          "column_map": {
+            "Tiêu chí": "Quản lý thời gian",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Làm chủ thời gian và hoàn toàn linh hoạt điều chỉnh theo tình huống",
+            "Khá 6.5 – 8.4 điểm": "Hoàn thành đúng thời gian, thỉnh thoàng có linh hoạt điều chỉnh theo tình huống.",
+            "Trung bình 4.0 – 6.4 điểm": "Hoàn thành đúng thời gian, không linh hoạt theo tình huống.",
+            "Kém 0 – 3.9 điểm": "Quá giờ"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Trả lời câu hỏi",
+          "cells": [
+            "Trả lời câu hỏi",
+            "10",
+            "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Không trả lời được đa số câu hỏi đặt đúng"
+          ],
+          "column_map": {
+            "Tiêu chí": "Trả lời câu hỏi",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Các câu hỏi đặt đúng đều được trả lời đầy đủ, rõ ràng, và thỏa đáng",
+            "Khá 6.5 – 8.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng và nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Trung bình 4.0 – 6.4 điểm": "Trả lời đúng đa số câu hỏi đặt đúng nhưng chưa nêu được định hướng phù hợp đối với những câu hỏi chưa trả lời được",
+            "Kém 0 – 3.9 điểm": "Không trả lời được đa số câu hỏi đặt đúng"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Sự phối hợp trong nhóm",
+          "cells": [
+            "Sự phối hợp trong nhóm",
+            "10",
+            "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Không thề hiện sự kết nối trong nhóm"
+          ],
+          "column_map": {
+            "Tiêu chí": "Sự phối hợp trong nhóm",
+            "Trọng số (%)": "10",
+            "Tốt 8.5 – 10 điểm": "Nhóm phối hợp tốt, thực sự chia sẻ và hỗ trợ nhau trong khi báo cáo và trả lời",
+            "Khá 6.5 – 8.4 điểm": "Nhóm có phối hợp khi báo cáo và trả lời nhưng còn vài chỗ chưa đồng bộ",
+            "Trung bình 4.0 – 6.4 điểm": "Nhóm ít phối hợp trong khi báo cáo và trả lời",
+            "Kém 0 – 3.9 điểm": "Không thề hiện sự kết nối trong nhóm"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "Khoa/Viện quản lý: Khoa Hệ thống thông tin quản lý\nĐịa chỉ: Phòng 1308-1309, Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên giảng dạy:\nHọc phần Hệ thống thương mại điện tử trang bị cho sinh viên kiến thức cơ bản về thương mại điện tử: lợi ích, nền tảng, các mô hình, các hình thức ứng dụng, cơ sở hạ tầng để phát triển thương mại điện tử, thanh toán điện tử, an toàn trong giao dịch thương mại điện tử, các văn bản pháp luật liên quan đến thương mại điện tử của Việt Nam, xây dựng giải pháp thương mại điện tử cho doanh nghiệp; đồng thời học phần cũng cung cấp cho người học kiến thức cơ bản về những công nghệ hỗ trợ cho các mô hình hoạt động thương mại điện tử.\n4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)\n[1]. Trần Văn Hòe, Giáo trình thương mại điện tử căn bản, NXB Đại học KTQD, (2015).\n[1] Bộ môn Tin học kinh tế, Bài giảng Hệ thống thương mại điện tử\n[2] Nguyễn Văn Hồng (2015), Giáo trình thương mại điện tử căn bản, NXB Bách khoa\n[3] Nguyễn Văn Hùng, Phan Quan Việt (2019), Giáo trình Thương mại điện tử, NXB Tài chính\n[4] Phạm Quang Hiển, Trần Tường Thụy, Phạm Quang Huy, Lập Trình Hệ Thống Thương Mại Điện Tử, NXB Thanh niên\n[5] Efraim Turban, Jae K. Lee, David King, Ting Peng Liang, Deborrah Turban, Electronic Commerce: A Managerial Perspective 2010, Prentice Hall, 6th edition, October 22, 2009\nPhần mềm sử dụng: Word Press\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 4. Kế hoạch và nội dung giảng dạy\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\n10. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)\nSinh viên được tham dự thi cuối kỳ/thi kết thúc học phần là điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\nGhi chép đầy đủ, tham gia trả lời câu hỏi.\nĐọc trước tài liệu được yêu cầu.\nLàm các bài tập về nhà.\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nNgười học không nộp bài cá nhân/nhóm theo yêu cầu sẽ nhận điểm 0 (không).\nSau thời hạn cuối cùng theo quy định, bài nộp muộn mỗi ngày sẽ bị trừ một điểm.\nTrọng số trong điểm học phần: 50%\nHình thức: Thi trắc nghiệm viết trên máy\nThời gian: 45 phút\nSố câu hỏi: 50 câu. Mỗi câu 0,2 điểm.\nMa trận đề thi trắc nghiệm:\nRubric 1. Đánh giá điểm chuyên cần\nTrọng số trong điểm học phần: 10%\nĐánh giá qua 8 buổi seminar\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận\nRubric 2. Đánh giá thuyết trình theo nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nĐánh giá qua kết quả theo nhóm\nRubric 3. Đánh giá thuyết trình theo nhóm\nTrọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nĐánh giá qua kết quả theo nhóm"
+}

@@ -1,0 +1,2451 @@
+{
+  "doc_id": "en-cntt1112e",
+  "language": "en",
+  "course_name_stem": "Computer Architecture",
+  "course_variant": "",
+  "course_code": "CNTT1112E",
+  "source_filename": "Computer Architecture_CNTT1112E.docx",
+  "source_relpath": "data\\raw\\en\\Computer Architecture_CNTT1112E.docx",
+  "source_hash": "0af69d514f8638e75f981848d835c3d0",
+  "source_modified": "2025-10-11T10:42:50.583221+00:00",
+  "processed_at": "2025-10-17T16:55:25.560725+00:00",
+  "stats": {
+    "paragraphs": 23,
+    "tables": 8,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-cntt1112e#sec001",
+      "title": "1. GENERAL INFORMATION",
+      "level": 1,
+      "label": "general-information",
+      "path_titles": [
+        "1. GENERAL INFORMATION"
+      ],
+      "path_labels": [
+        "general-information"
+      ],
+      "content": [
+        {
+          "type": "table",
+          "order": 3,
+          "table_id": "en-cntt1112e#tbl002",
+          "table_name": null,
+          "section_path": [
+            "1. GENERAL INFORMATION"
+          ],
+          "section_labels": [
+            "general-information"
+          ],
+          "source_block": 4,
+          "column_labels": [
+            "- Course name (tiếng Việt):",
+            "Kiến trúc máy tính"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "- Course name (English)",
+              "cells": [
+                "- Course name (English)",
+                "Computer Architecture"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "- Course name (English)",
+                "Kiến trúc máy tính": "Computer Architecture"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "- Code",
+              "cells": [
+                "- Code",
+                "CNTT1112E"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "- Code",
+                "Kiến trúc máy tính": "CNTT1112E"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "- Knowledge block",
+              "cells": [
+                "- Knowledge block",
+                "Compulsory course"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "- Knowledge block",
+                "Kiến trúc máy tính": "Compulsory course"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "- Number of credits",
+              "cells": [
+                "- Number of credits",
+                "3 credits (45 credit hours; 50 min/hour)"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "- Number of credits",
+                "Kiến trúc máy tính": "3 credits (45 credit hours; 50 min/hour)"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "+ Theory hours",
+              "cells": [
+                "+ Theory hours",
+                "30"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "+ Theory hours",
+                "Kiến trúc máy tính": "30"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "+ Discuss/Practice hours + Self-study hours",
+              "cells": [
+                "+ Discuss/Practice hours + Self-study hours",
+                "15 90"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "+ Discuss/Practice hours + Self-study hours",
+                "Kiến trúc máy tính": "15 90"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "- Prerequisite courses:",
+              "cells": [
+                "- Prerequisite courses:",
+                "CNTT1113"
+              ],
+              "column_map": {
+                "- Course name (tiếng Việt):": "- Prerequisite courses:",
+                "Kiến trúc máy tính": "CNTT1113"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec002",
+      "title": "2. DEPARTMENT IN CHARGE OF INSTRUCTION",
+      "level": 1,
+      "label": "department-in-charge-of-instruction",
+      "path_titles": [
+        "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+      ],
+      "path_labels": [
+        "department-in-charge-of-instruction"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Department: Department of Information Technology",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+          ],
+          "section_labels": [
+            "department-in-charge-of-instruction"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Address: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+          ],
+          "section_labels": [
+            "department-in-charge-of-instruction"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Lecturer:",
+          "is_list": false,
+          "section_path": [
+            "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+          ],
+          "section_labels": [
+            "department-in-charge-of-instruction"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "table",
+          "order": 7,
+          "table_id": "en-cntt1112e#tbl003",
+          "table_name": "Lecturer:",
+          "section_path": [
+            "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+          ],
+          "section_labels": [
+            "department-in-charge-of-instruction"
+          ],
+          "source_block": 9,
+          "column_labels": [
+            "Dr. Đặng Minh Quân",
+            "0364102376",
+            "quandm@neu.edu.vn"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "MSc. Nguyễn Thanh Hương",
+              "cells": [
+                "MSc. Nguyễn Thanh Hương",
+                "0983168238",
+                "huongnt_cntt@neu.edu.vn"
+              ],
+              "column_map": {
+                "Dr. Đặng Minh Quân": "MSc. Nguyễn Thanh Hương",
+                "0364102376": "0983168238",
+                "quandm@neu.edu.vn": "huongnt_cntt@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec003",
+      "title": "3. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "3. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "This module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "The course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.",
+          "is_list": false,
+          "section_path": [
+            "3. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 12
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec004",
+      "title": "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES",
+      "level": 1,
+      "label": "learning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+      ],
+      "path_labels": [
+        "learning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "Course books:",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Reference books:",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.",
+          "is_list": false,
+          "section_path": [
+            "4. LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES"
+          ],
+          "section_labels": [
+            "learning-resources-course-books-reference-books-and-softwares"
+          ],
+          "source_block": 18
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec005",
+      "title": "5. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "5. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Table 5.1. Course Objectives",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "table",
+          "order": 15,
+          "table_id": "en-cntt1112e#tbl004",
+          "table_name": "Table 5.1. Course Objectives",
+          "section_path": [
+            "5. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 22,
+          "column_labels": [
+            "Index",
+            "Course Objectives Description",
+            "PLO",
+            "Level"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Index": "[1]",
+                "Course Objectives Description": "[2]",
+                "PLO": "[3]",
+                "Level": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system",
+                "PLO 1.4.3",
+                "3"
+              ],
+              "column_map": {
+                "Index": "G1",
+                "Course Objectives Description": "The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system",
+                "PLO": "PLO 1.4.3",
+                "Level": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+                "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+                "3U, 3U, 3U"
+              ],
+              "column_map": {
+                "Index": "G2",
+                "Course Objectives Description": "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+                "PLO": "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+                "Level": "3U, 3U, 3U"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+                "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "3, 3, 3"
+              ],
+              "column_map": {
+                "Index": "G3",
+                "Course Objectives Description": "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+                "PLO": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+                "Level": "3, 3, 3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec006",
+      "title": "6. COURSE LEARNING OUTCOMES",
+      "level": 1,
+      "label": "course-learning-outcomes",
+      "path_titles": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "path_labels": [
+        "course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Table 6.1. Course Learning Outcomes",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "table",
+          "order": 17,
+          "table_id": "en-cntt1112e#tbl005",
+          "table_name": "Table 6.1. Course Learning Outcomes",
+          "section_path": [
+            "6. COURSE LEARNING OUTCOMES"
+          ],
+          "section_labels": [
+            "course-learning-outcomes"
+          ],
+          "source_block": 25,
+          "column_labels": [
+            "Goal",
+            "CLOs",
+            "CLOs description*",
+            "Level of achievement**"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Goal": "[1]",
+                "CLOs": "[2]",
+                "CLOs description*": "[3]",
+                "Level of achievement**": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . .",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs description*": "Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . .",
+                "Level of achievement**": "2"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Explain the operating model of the RISC . architecture",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs description*": "Explain the operating model of the RISC . architecture",
+                "Level of achievement**": "2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs description*": "Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer",
+                "Level of achievement**": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Apply learned knowledge to solve exercises and situations of each learning content.",
+                "4"
+              ],
+              "column_map": {
+                "Goal": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs description*": "Apply learned knowledge to solve exercises and situations of each learning content.",
+                "Level of achievement**": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+                "2"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs description*": "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+                "Level of achievement**": "2"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Ability to work in a team to jointly solve a professional problem on time.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs description*": "Ability to work in a team to jointly solve a professional problem on time.",
+                "Level of achievement**": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Goal": "G2",
+                "CLOs": "",
+                "CLOs description*": "",
+                "Level of achievement**": ""
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs description*": "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+                "Level of achievement**": "3"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Ability to organize and coordinate working groups to solve a subject matter.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs description*": "Ability to organize and coordinate working groups to solve a subject matter.",
+                "Level of achievement**": "3"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.3",
+                "Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "3"
+              ],
+              "column_map": {
+                "Goal": "G3",
+                "CLOs": "CLO3.3",
+                "CLOs description*": "Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+                "Level of achievement**": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec007",
+      "title": "7. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "Table 7.1. Course assessment",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "table",
+          "order": 19,
+          "table_id": "en-cntt1112e#tbl006",
+          "table_name": "Table 7.1. Course assessment",
+          "section_path": [
+            "7. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 29,
+          "column_labels": [
+            "Assessment form",
+            "Content",
+            "Time",
+            "CLOs",
+            "Tools and Criteria Rating*",
+            "Rate (%)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Assessment form": "[1]",
+                "Content": "[2]",
+                "Time": "[3]",
+                "CLOs": "[4]",
+                "Tools and Criteria Rating*": "[5]",
+                "Rate (%)": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Diligence",
+              "cells": [
+                "Diligence",
+                "Learning attitude in class Answer questions in class Answer discussion questions",
+                "Week 1-12",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+                "10%"
+              ],
+              "column_map": {
+                "Assessment form": "Diligence",
+                "Content": "Learning attitude in class Answer questions in class Answer discussion questions",
+                "Time": "Week 1-12",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Tools and Criteria Rating*": "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+                "Rate (%)": "10%"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Assessment of the process",
+              "cells": [
+                "Assessment of the process",
+                "Midterm exam",
+                "Week 8",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+                "40%"
+              ],
+              "column_map": {
+                "Assessment form": "Assessment of the process",
+                "Content": "Midterm exam",
+                "Time": "Week 8",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Tools and Criteria Rating*": "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+                "Rate (%)": "40%"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Assessment of the process",
+              "cells": [
+                "Assessment of the process",
+                "Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture.",
+                "Week 13, 14",
+                "CLO1.x, CLO2.x, CLO3.x",
+                "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time",
+                "40%"
+              ],
+              "column_map": {
+                "Assessment form": "Assessment of the process",
+                "Content": "Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture.",
+                "Time": "Week 13, 14",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+                "Tools and Criteria Rating*": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time",
+                "Rate (%)": "40%"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Assessment of the process",
+              "cells": [
+                "Assessment of the process",
+                "Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture.",
+                "Week 15",
+                "CLO1.x, CLO2.1, CLO3.1",
+                "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other",
+                "40%"
+              ],
+              "column_map": {
+                "Assessment form": "Assessment of the process",
+                "Content": "Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture.",
+                "Time": "Week 15",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1",
+                "Tools and Criteria Rating*": "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other",
+                "Rate (%)": "40%"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "End of term assessment",
+              "cells": [
+                "End of term assessment",
+                "Final exam",
+                "Semester exam schedule",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "As per exam requirements",
+                "50%"
+              ],
+              "column_map": {
+                "Assessment form": "End of term assessment",
+                "Content": "Final exam",
+                "Time": "Semester exam schedule",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Tools and Criteria Rating*": "As per exam requirements",
+                "Rate (%)": "50%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "Table 8.1. Lesson plan",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 31
+        },
+        {
+          "type": "table",
+          "order": 21,
+          "table_id": "en-cntt1112e#tbl007",
+          "table_name": "Table 8.1. Lesson plan",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 32,
+          "column_labels": [
+            "Week",
+            "Content*",
+            "Document**",
+            "CLOs",
+            "Teaching and learning activities***",
+            "Assessment tools****"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content*": "[2]",
+                "Document**": "[3]",
+                "CLOs": "[4]",
+                "Teaching and learning activities***": "[5]",
+                "Assessment tools****": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+                "Course outline",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+                "Participation level Level of interaction Answer quality"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content*": "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+                "Document**": "Course outline",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+                "Assessment tools****": "Participation level Level of interaction Answer quality"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design",
+                "[1] Chapter 1",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content*": "Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design",
+                "Document**": "[1] Chapter 1",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands",
+                "[1] Appendix A",
+                "CLO1, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content*": "Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands",
+                "Document**": "[1] Appendix A",
+                "CLOs": "CLO1, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS Architecture",
+                "[1] Appendix A",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content*": "Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS Architecture",
+                "Document**": "[1] Appendix A",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards",
+                "[1] Appendix C",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content*": "Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards",
+                "Document**": "[1] Appendix C",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction",
+                "[1] Appendix C",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content*": "Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction",
+                "Document**": "[1] Appendix C",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler",
+                "[1] Chapter 3",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content*": "Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler",
+                "Document**": "[1] Chapter 3",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Midterm exam (20%)",
+                "",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "",
+                "Essay/quiz test"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content*": "Midterm exam (20%)",
+                "Document**": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Teaching and learning activities***": "",
+                "Assessment tools****": "Essay/quiz test"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling",
+                "[1] Chapter 3",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content*": "Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling",
+                "Document**": "[1] Chapter 3",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory",
+                "[1] Chapter 2, Appendix B",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content*": "Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory",
+                "Document**": "[1] Chapter 2, Appendix B",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content*": "",
+                "Document**": "",
+                "CLOs": "",
+                "Teaching and learning activities***": "",
+                "Assessment tools****": ""
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory",
+                "[1] Ch2, Appendix B",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content*": "Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory",
+                "Document**": "[1] Ch2, Appendix B",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation",
+                "[1] Appendix D",
+                "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Participation level Level of interaction Answer quality Application exercises"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content*": "Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation",
+                "Document**": "[1] Appendix D",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+                "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+                "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Group exercise presentation",
+                "",
+                "CLO1.x, CLO2.x, CLO3.x",
+                "Student groups report and answer questions Teachers and class members ask questions and comment",
+                "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content*": "Group exercise presentation",
+                "Document**": "",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+                "Teaching and learning activities***": "Student groups report and answer questions Teachers and class members ask questions and comment",
+                "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group exercise presentation",
+                "",
+                "CLO1.x, CLO2.x, CLO3.x",
+                "Student groups report and answer questions Teachers and class members ask questions and comment",
+                "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content*": "Group exercise presentation",
+                "Document**": "",
+                "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+                "Teaching and learning activities***": "Student groups report and answer questions Teachers and class members ask questions and comment",
+                "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Submit group work (20%)",
+                "",
+                "CLO1.x, CLO2.1, CLO3.1",
+                "Group of students submit report Instructor evaluation",
+                "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content*": "Submit group work (20%)",
+                "Document**": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.1",
+                "Teaching and learning activities***": "Group of students submit report Instructor evaluation",
+                "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other"
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.x, CLO2.1, CLO3.3",
+                "Students take exams according to schedule",
+                "As per exam requirements"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content*": "Final exam",
+                "Document**": "",
+                "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+                "Teaching and learning activities***": "Students take exams according to schedule",
+                "Assessment tools****": "As per exam requirements"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec009",
+      "title": "9. COURSE REQUIREMENTS AND EXPECTATION",
+      "level": 1,
+      "label": "course-requirements-and-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-cntt1112e#sec010",
+      "title": "9.1. Regulations on conditions for the end-of-course exam",
+      "level": 2,
+      "label": "regulations-on-conditions-for-the-end-of-course-exam",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.1. Regulations on conditions for the end-of-course exam"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "regulations-on-conditions-for-the-end-of-course-exam"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Students are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.1. Regulations on conditions for the end-of-course exam"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-conditions-for-the-end-of-course-exam"
+          ],
+          "source_block": 35
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec011",
+      "title": "9.2. Rules for attending classes",
+      "level": 2,
+      "label": "rules-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.2. Rules for attending classes"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "rules-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "Students/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. Rules for attending classes"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "rules-for-attending-classes"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "Students will be added points for each construction speech, which can be compensated for attendance points and test scores.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.2. Rules for attending classes"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "rules-for-attending-classes"
+          ],
+          "source_block": 38
+        }
+      ]
+    },
+    {
+      "section_id": "en-cntt1112e#sec012",
+      "title": "9.3. Regulations on classroom behavior",
+      "level": 2,
+      "label": "regulations-on-classroom-behavior",
+      "path_titles": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Regulations on classroom behavior"
+      ],
+      "path_labels": [
+        "course-requirements-and-expectation",
+        "regulations-on-classroom-behavior"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "The course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "Students must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Absolutely do not make noise, affecting others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 43
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "Absolutely do not eat, chew gum, use devices such as phones, music players during class time.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 44
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Notebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-cntt1112e#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENTS AND EXPECTATION",
+            "9.3. Regulations on classroom behavior"
+          ],
+          "section_labels": [
+            "course-requirements-and-expectation",
+            "regulations-on-classroom-behavior"
+          ],
+          "source_block": 47,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "DEPARTMENT HEAD Dr. PHẠM XUÂN LÂM",
+              "cells": [
+                "DEPARTMENT HEAD Dr. PHẠM XUÂN LÂM",
+                "SCHOOL HEAD Dr. NGUYỄN TRUNG TUẤN",
+                "Hà Nội, date 31 - 12 - 2021 RECTOR Prof.Dr PHẠM HỒNG CHƯƠNG"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-cntt1112e#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 3,
+      "table_id": "en-cntt1112e#tbl002",
+      "table_name": null,
+      "section_path": [
+        "1. GENERAL INFORMATION"
+      ],
+      "section_labels": [
+        "general-information"
+      ],
+      "source_block": 4,
+      "column_labels": [
+        "- Course name (tiếng Việt):",
+        "Kiến trúc máy tính"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "- Course name (English)",
+          "cells": [
+            "- Course name (English)",
+            "Computer Architecture"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "- Course name (English)",
+            "Kiến trúc máy tính": "Computer Architecture"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "- Code",
+          "cells": [
+            "- Code",
+            "CNTT1112E"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "- Code",
+            "Kiến trúc máy tính": "CNTT1112E"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "- Knowledge block",
+          "cells": [
+            "- Knowledge block",
+            "Compulsory course"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "- Knowledge block",
+            "Kiến trúc máy tính": "Compulsory course"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "- Number of credits",
+          "cells": [
+            "- Number of credits",
+            "3 credits (45 credit hours; 50 min/hour)"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "- Number of credits",
+            "Kiến trúc máy tính": "3 credits (45 credit hours; 50 min/hour)"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "+ Theory hours",
+          "cells": [
+            "+ Theory hours",
+            "30"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "+ Theory hours",
+            "Kiến trúc máy tính": "30"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "+ Discuss/Practice hours + Self-study hours",
+          "cells": [
+            "+ Discuss/Practice hours + Self-study hours",
+            "15 90"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "+ Discuss/Practice hours + Self-study hours",
+            "Kiến trúc máy tính": "15 90"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "- Prerequisite courses:",
+          "cells": [
+            "- Prerequisite courses:",
+            "CNTT1113"
+          ],
+          "column_map": {
+            "- Course name (tiếng Việt):": "- Prerequisite courses:",
+            "Kiến trúc máy tính": "CNTT1113"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 7,
+      "table_id": "en-cntt1112e#tbl003",
+      "table_name": "Lecturer:",
+      "section_path": [
+        "2. DEPARTMENT IN CHARGE OF INSTRUCTION"
+      ],
+      "section_labels": [
+        "department-in-charge-of-instruction"
+      ],
+      "source_block": 9,
+      "column_labels": [
+        "Dr. Đặng Minh Quân",
+        "0364102376",
+        "quandm@neu.edu.vn"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MSc. Nguyễn Thanh Hương",
+          "cells": [
+            "MSc. Nguyễn Thanh Hương",
+            "0983168238",
+            "huongnt_cntt@neu.edu.vn"
+          ],
+          "column_map": {
+            "Dr. Đặng Minh Quân": "MSc. Nguyễn Thanh Hương",
+            "0364102376": "0983168238",
+            "quandm@neu.edu.vn": "huongnt_cntt@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 15,
+      "table_id": "en-cntt1112e#tbl004",
+      "table_name": "Table 5.1. Course Objectives",
+      "section_path": [
+        "5. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 22,
+      "column_labels": [
+        "Index",
+        "Course Objectives Description",
+        "PLO",
+        "Level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Index": "[1]",
+            "Course Objectives Description": "[2]",
+            "PLO": "[3]",
+            "Level": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system",
+            "PLO 1.4.3",
+            "3"
+          ],
+          "column_map": {
+            "Index": "G1",
+            "Course Objectives Description": "The course provides learners with knowledge - Performance basics - ISA principles - Pipeline engineering - Memory system",
+            "PLO": "PLO 1.4.3",
+            "Level": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+            "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+            "3U, 3U, 3U"
+          ],
+          "column_map": {
+            "Index": "G2",
+            "Course Objectives Description": "The course teaches learners skills to deal with professional situations in a systematic way. Students know how to work together to solve a professional problem on time.",
+            "PLO": "PLO 2.1.1, PLO 2.1.2, PLO 2.2.2B",
+            "Level": "3U, 3U, 3U"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+            "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "3, 3, 3"
+          ],
+          "column_map": {
+            "Index": "G3",
+            "Course Objectives Description": "The course contributes to the development of independent problem-solving abilities as well as the ability to work in groups to jointly solve professional problems. Initially equipping learners with awareness of social context, awareness of professional ethics, social responsibility in IT field.",
+            "PLO": "PLO 3.1.1, PLO 3.1.2, PLO 3.2.3",
+            "Level": "3, 3, 3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 17,
+      "table_id": "en-cntt1112e#tbl005",
+      "table_name": "Table 6.1. Course Learning Outcomes",
+      "section_path": [
+        "6. COURSE LEARNING OUTCOMES"
+      ],
+      "section_labels": [
+        "course-learning-outcomes"
+      ],
+      "source_block": 25,
+      "column_labels": [
+        "Goal",
+        "CLOs",
+        "CLOs description*",
+        "Level of achievement**"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Goal": "[1]",
+            "CLOs": "[2]",
+            "CLOs description*": "[3]",
+            "Level of achievement**": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . .",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs description*": "Explain performance concepts, CPU architecture, pipeline architecture, cache architecture. . .",
+            "Level of achievement**": "2"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Explain the operating model of the RISC . architecture",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs description*": "Explain the operating model of the RISC . architecture",
+            "Level of achievement**": "2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs description*": "Apply Amdahl's law to decide which improvement is best, distinguish the performance difference between large buffers and high clock frequencies, distinguish the difference between direct link and aggregation link in buffer",
+            "Level of achievement**": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Apply learned knowledge to solve exercises and situations of each learning content.",
+            "4"
+          ],
+          "column_map": {
+            "Goal": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs description*": "Apply learned knowledge to solve exercises and situations of each learning content.",
+            "Level of achievement**": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+            "2"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs description*": "Having skills in searching, collecting, synthesizing, analyzing and solving specialized problems",
+            "Level of achievement**": "2"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Ability to work in a team to jointly solve a professional problem on time.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs description*": "Ability to work in a team to jointly solve a professional problem on time.",
+            "Level of achievement**": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Goal": "G2",
+            "CLOs": "",
+            "CLOs description*": "",
+            "Level of achievement**": ""
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs description*": "Ability to self-study, self-study materials to complete assigned lessons and assignments.",
+            "Level of achievement**": "3"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Ability to organize and coordinate working groups to solve a subject matter.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs description*": "Ability to organize and coordinate working groups to solve a subject matter.",
+            "Level of achievement**": "3"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.3",
+            "Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "3"
+          ],
+          "column_map": {
+            "Goal": "G3",
+            "CLOs": "CLO3.3",
+            "CLOs description*": "Consciously organize the classroom discipline, comply with the classroom rules, have a spirit of cooperation and personal responsibility for the activities assigned by the lecturer.",
+            "Level of achievement**": "3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 19,
+      "table_id": "en-cntt1112e#tbl006",
+      "table_name": "Table 7.1. Course assessment",
+      "section_path": [
+        "7. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 29,
+      "column_labels": [
+        "Assessment form",
+        "Content",
+        "Time",
+        "CLOs",
+        "Tools and Criteria Rating*",
+        "Rate (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Assessment form": "[1]",
+            "Content": "[2]",
+            "Time": "[3]",
+            "CLOs": "[4]",
+            "Tools and Criteria Rating*": "[5]",
+            "Rate (%)": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Diligence",
+          "cells": [
+            "Diligence",
+            "Learning attitude in class Answer questions in class Answer discussion questions",
+            "Week 1-12",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+            "10%"
+          ],
+          "column_map": {
+            "Assessment form": "Diligence",
+            "Content": "Learning attitude in class Answer questions in class Answer discussion questions",
+            "Time": "Week 1-12",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Tools and Criteria Rating*": "Lecturer's teaching diary with assessment criteria: (i) Level of participation (ii) Level of interaction (iii) Quality of answers",
+            "Rate (%)": "10%"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Assessment of the process",
+          "cells": [
+            "Assessment of the process",
+            "Midterm exam",
+            "Week 8",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+            "40%"
+          ],
+          "column_map": {
+            "Assessment form": "Assessment of the process",
+            "Content": "Midterm exam",
+            "Time": "Week 8",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Tools and Criteria Rating*": "Criteria: (i) The assignment is complete and correct (ii) Nice form (iii) Timely submission of regulations (iv) Comply with the school's regulations on examination and evaluation.",
+            "Rate (%)": "40%"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Assessment of the process",
+          "cells": [
+            "Assessment of the process",
+            "Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture.",
+            "Week 13, 14",
+            "CLO1.x, CLO2.x, CLO3.x",
+            "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time",
+            "40%"
+          ],
+          "column_map": {
+            "Assessment form": "Assessment of the process",
+            "Content": "Group presentation: The report analyzes the operating principle of a specific technology in the SMP computer architecture.",
+            "Time": "Week 13, 14",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+            "Tools and Criteria Rating*": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time",
+            "Rate (%)": "40%"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Assessment of the process",
+          "cells": [
+            "Assessment of the process",
+            "Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture.",
+            "Week 15",
+            "CLO1.x, CLO2.1, CLO3.1",
+            "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other",
+            "40%"
+          ],
+          "column_map": {
+            "Assessment form": "Assessment of the process",
+            "Content": "Submit a report analyzing the operating principles of a particular technology in the SMP computer architecture.",
+            "Time": "Week 15",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1",
+            "Tools and Criteria Rating*": "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other",
+            "Rate (%)": "40%"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "End of term assessment",
+          "cells": [
+            "End of term assessment",
+            "Final exam",
+            "Semester exam schedule",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "As per exam requirements",
+            "50%"
+          ],
+          "column_map": {
+            "Assessment form": "End of term assessment",
+            "Content": "Final exam",
+            "Time": "Semester exam schedule",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Tools and Criteria Rating*": "As per exam requirements",
+            "Rate (%)": "50%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 21,
+      "table_id": "en-cntt1112e#tbl007",
+      "table_name": "Table 8.1. Lesson plan",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 32,
+      "column_labels": [
+        "Week",
+        "Content*",
+        "Document**",
+        "CLOs",
+        "Teaching and learning activities***",
+        "Assessment tools****"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content*": "[2]",
+            "Document**": "[3]",
+            "CLOs": "[4]",
+            "Teaching and learning activities***": "[5]",
+            "Assessment tools****": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+            "Course outline",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+            "Participation level Level of interaction Answer quality"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content*": "Get acquainted, introduce the course, its logic and the role and position of the module in the curriculum",
+            "Document**": "Course outline",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Instructions for reading documents Guide to find documents Set learning requirements Course Introduction Guide to group work Divide the working group",
+            "Assessment tools****": "Participation level Level of interaction Answer quality"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design",
+            "[1] Chapter 1",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content*": "Chapter 1: General introduction 1.1 Concepts of computer architecture 1.2 Technology Trends 1.3 Performance measurement 1.4 Principles of quantitative design",
+            "Document**": "[1] Chapter 1",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands",
+            "[1] Appendix A",
+            "CLO1, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content*": "Chapter 2: Instruction set architecture 2.1 Classification of ISA 2.2 Memory address mode 2.3 Type and size of operands",
+            "Document**": "[1] Appendix A",
+            "CLOs": "CLO1, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS Architecture",
+            "[1] Appendix A",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content*": "Chapter 2: Instruction set architecture 2.4 The role of the compiler 2.5 MIPS Architecture",
+            "Document**": "[1] Appendix A",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards",
+            "[1] Appendix C",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content*": "Chapter 3: Pipeline Engineering 3.1 General introduction to pipelines 3.2 Introduction to hazards 3.2.1 Structure Hazards",
+            "Document**": "[1] Appendix C",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction",
+            "[1] Appendix C",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content*": "Chapter 3: Pipeline Engineering 3.2.2 Data Hazards 3.2.3 Control Hazards 3.3 Pipeline construction",
+            "Document**": "[1] Appendix C",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler",
+            "[1] Chapter 3",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content*": "Chapter 4: Instruction Level Parallelization 4.1 Concepts 4.2 Dependencies and hazards 4.3 Parallelization using the compiler",
+            "Document**": "[1] Chapter 3",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Midterm exam (20%)",
+            "",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "",
+            "Essay/quiz test"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content*": "Midterm exam (20%)",
+            "Document**": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Teaching and learning activities***": "",
+            "Assessment tools****": "Essay/quiz test"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling",
+            "[1] Chapter 3",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content*": "Chapter 4: Instruction Level Parallelization 4.4 Parallelization using dynamic scheduling",
+            "Document**": "[1] Chapter 3",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory",
+            "[1] Chapter 2, Appendix B",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content*": "Chapter 5: Memory tiered design 5.1 Memory tiered design 5.1.1 Buffers 5.1.2 Cache performance 5.1.3 Main memory",
+            "Document**": "[1] Chapter 2, Appendix B",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content*": "",
+            "Document**": "",
+            "CLOs": "",
+            "Teaching and learning activities***": "",
+            "Assessment tools****": ""
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory",
+            "[1] Ch2, Appendix B",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content*": "Chapter 5: Memory tiered design 5.2 Cache optimization 5.2.1 Reduce miss rate 5.2.2 Reduce delay due to miss 5.2.3 Reduced access time 5.3 Virtual Memory",
+            "Document**": "[1] Ch2, Appendix B",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation",
+            "[1] Appendix D",
+            "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Participation level Level of interaction Answer quality Application exercises"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content*": "Chapter 6: I/O, Storage System 6.1 Advanced topics on disk storage 6.1.1 Disk-RAM relationship 6.1.2 RAID 6.2 I/O performance, reliability measurement, measuring tools 6.3 Queue theory 6.4 I/O system design and evaluation",
+            "Document**": "[1] Appendix D",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1, CLO3.3",
+            "Teaching and learning activities***": "Students read the document before coming to class Lecturer discuss theory Discuss situations and questions asked by the teacher Students apply what they have learned to solve problems",
+            "Assessment tools****": "Participation level Level of interaction Answer quality Application exercises"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Group exercise presentation",
+            "",
+            "CLO1.x, CLO2.x, CLO3.x",
+            "Student groups report and answer questions Teachers and class members ask questions and comment",
+            "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content*": "Group exercise presentation",
+            "Document**": "",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+            "Teaching and learning activities***": "Student groups report and answer questions Teachers and class members ask questions and comment",
+            "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group exercise presentation",
+            "",
+            "CLO1.x, CLO2.x, CLO3.x",
+            "Student groups report and answer questions Teachers and class members ask questions and comment",
+            "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content*": "Group exercise presentation",
+            "Document**": "",
+            "CLOs": "CLO1.x, CLO2.x, CLO3.x",
+            "Teaching and learning activities***": "Student groups report and answer questions Teachers and class members ask questions and comment",
+            "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Beautiful appearance; (iii) Attractive and persuasive presentation; (iv) The degree of cooperation in answering questions; (v) Presentation time"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Submit group work (20%)",
+            "",
+            "CLO1.x, CLO2.1, CLO3.1",
+            "Group of students submit report Instructor evaluation",
+            "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content*": "Submit group work (20%)",
+            "Document**": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.1",
+            "Teaching and learning activities***": "Group of students submit report Instructor evaluation",
+            "Assessment tools****": "Assessment sheet with the following criteria: (i) Content; (ii) Appearance; (iii) Time; (iv) comments from each other"
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.x, CLO2.1, CLO3.3",
+            "Students take exams according to schedule",
+            "As per exam requirements"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content*": "Final exam",
+            "Document**": "",
+            "CLOs": "CLO1.x, CLO2.1, CLO3.3",
+            "Teaching and learning activities***": "Students take exams according to schedule",
+            "Assessment tools****": "As per exam requirements"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-cntt1112e#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Regulations on classroom behavior"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "regulations-on-classroom-behavior"
+      ],
+      "source_block": 47,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "DEPARTMENT HEAD Dr. PHẠM XUÂN LÂM",
+          "cells": [
+            "DEPARTMENT HEAD Dr. PHẠM XUÂN LÂM",
+            "SCHOOL HEAD Dr. NGUYỄN TRUNG TUẤN",
+            "Hà Nội, date 31 - 12 - 2021 RECTOR Prof.Dr PHẠM HỒNG CHƯƠNG"
+          ],
+          "column_map": null
+        }
+      ]
+    }
+  ],
+  "full_text": "COURSE SYLLABUS\n(Promulgated together with the decision No. QD/ĐHKTTQD, 2021)\nDepartment: Department of Information Technology\nAddress: Room 1310 (Building A1) - NEU, 207 Giai Phong - Hai Ba Trưng district- HN.\nLecturer:\nThis module introduces the operations of computer systems at the level of instruction set architecture (ISA). It provides a basic understanding of the design principles of modern computers and their components. The course focuses specifically on pipeline techniques, memory tiered design. Implementation issues are also emphasized. Performance measurement and analysis methods are also discussed to evaluate different architectures.\nThe course also aims to train thinking ability, calculation skills and improve the ability to apply knowledge to analyze and research problems in the field of computer architecture. The course equips learners with the necessary knowledge, skills and competencies to search, retrieve and exploit subject-related resources and continue to higher education.\nCourse books:\n[1] John L. Hennessy (2012) Computer Architecture - A quantitative Approach, Mk Publisher.\nReference books:\n[2] Patterson, D. A., and J. L. Hennessy. Computer Organization and Design: The Hardware/Software Interface, 3rd ed. San Mateo, CA: Morgan Kaufman, 2004. ISBN: 1558606041.\nTable 5.1. Course Objectives\nTable 6.1. Course Learning Outcomes\nTable 7.1. Course assessment\nTable 8.1. Lesson plan\nStudents are allowed to take the final exam/terminal exam (50%) if their attendance score (10%) reaches 5 points or more (scale of 10).\nStudents/students are responsible for attending all classes. In case of absence from school due to force majeure, there must be sufficient and reasonable proofs. For each absence, 1 point will be deducted from the process assessment. Students who miss more than 3 classes, with or without reason, will be considered as not completing the course and must re-register.\nStudents will be added points for each construction speech, which can be compensated for attendance points and test scores.\nThe course is conducted on the principle of respecting learners and teachers. Any behavior that affects the teaching and learning process is strictly prohibited.\nStudents must come to school on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class.\nAbsolutely do not make noise, affecting others during the learning process.\nAbsolutely do not eat, chew gum, use devices such as phones, music players during class time.\nNotebooks and tablets are only used for the purpose of taking lecture notes, calculating for lectures and exercises, absolutely not for other purposes."
+}

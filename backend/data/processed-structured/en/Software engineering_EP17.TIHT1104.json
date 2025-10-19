@@ -1,0 +1,3157 @@
+{
+  "doc_id": "en-ep17-tiht1104",
+  "language": "en",
+  "course_name_stem": "Software engineering",
+  "course_variant": "",
+  "course_code": "EP17.TIHT1104",
+  "source_filename": "Software engineering_EP17.TIHT1104.docx",
+  "source_relpath": "data\\raw\\en\\Software engineering_EP17.TIHT1104.docx",
+  "source_hash": "a5750ca57e9a969ee951b73a5f90d5c1",
+  "source_modified": "2025-10-11T10:42:50.611481+00:00",
+  "processed_at": "2025-10-17T16:55:27.794186+00:00",
+  "stats": {
+    "paragraphs": 35,
+    "tables": 8,
+    "sections": 12
+  },
+  "sections": [
+    {
+      "section_id": "en-ep17-tiht1104#sec001",
+      "title": "1. COURSE INFORMATION",
+      "level": 1,
+      "label": "course-information",
+      "path_titles": [
+        "1. COURSE INFORMATION"
+      ],
+      "path_labels": [
+        "course-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "* Title: Software Engineering",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 2
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "* Code: TIHT1104",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "* Credits: 3 (45 hours)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "* Credit hours for teaching and learning activities:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "+ Lecture: 25 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "+ Exercises on class: 10 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "+ Presentation and Discussion: 10 hrs",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "+ Self-study: 60 hrs.",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "* Parallel course(s): None",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "* Prerequisite course(s):",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 11
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "* Faculty conducting the course: Management Information Systems, Room 13.11, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 12
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "+ Lecturers:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 13
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "1. Nguyen Anh Phuong, Master",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 14,
+          "text": "Tel: 0987538333 Email: phuongna@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "2. Trinh Hoai Son, PhD",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Tel: 0949127888 Email: sonth@neu.edu.vn",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "* Kind of the course:",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 18
+        },
+        {
+          "type": "table",
+          "order": 18,
+          "table_id": "en-ep17-tiht1104#tbl002",
+          "table_name": "* Kind of the course:",
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 19,
+          "column_labels": [
+            "Foundation □",
+            "Foundation □_2",
+            "Fundamental (x)",
+            "Fundamental (x)_2"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Compulsory □",
+              "cells": [
+                "Compulsory □",
+                "Elective □",
+                "Compulsory (x)",
+                "Elective □"
+              ],
+              "column_map": {
+                "Foundation □": "Compulsory □",
+                "Foundation □_2": "Elective □",
+                "Fundamental (x)": "Compulsory (x)",
+                "Fundamental (x)_2": "Elective □"
+              }
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "* Course language: In English",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 20
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.08, Building A1, National Economics University",
+          "is_list": false,
+          "section_path": [
+            "1. COURSE INFORMATION"
+          ],
+          "section_labels": [
+            "course-information"
+          ],
+          "source_block": 21
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec002",
+      "title": "2. COURSE DESCRIPTIONS",
+      "level": 1,
+      "label": "course-descriptions",
+      "path_titles": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "path_labels": [
+        "course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "The Resolution of the Government of Vietnam on the development of the software industry into a spearhead economic sector of the country has made the study and teaching software engineering module has a very important role in the program training sector management information systems and computer science",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "Engineering software modules equip students with the basic knowledge of the design process from identifying software requirements analysis, design, programming and ultimately deployment. The module also presents the basic content of a project management software and the software production process at industrial scale",
+          "is_list": false,
+          "section_path": [
+            "2. COURSE DESCRIPTIONS"
+          ],
+          "section_labels": [
+            "course-descriptions"
+          ],
+          "source_block": 24
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec003",
+      "title": "3. LEARNING RESOURCES",
+      "level": 1,
+      "label": "learning-resources",
+      "path_titles": [
+        "3. LEARNING RESOURCES"
+      ],
+      "path_labels": [
+        "learning-resources"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "* Text Books/Lecture Notes:",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "[1] Han Viet Thuan (2021). Software Engineering, National Economics University Publishing House.",
+          "is_list": false,
+          "section_path": [
+            "3. LEARNING RESOURCES"
+          ],
+          "section_labels": [
+            "learning-resources"
+          ],
+          "source_block": 27
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec004",
+      "title": "4. COURSE GOALS",
+      "level": 1,
+      "label": "course-goals",
+      "path_titles": [
+        "4. COURSE GOALS"
+      ],
+      "path_labels": [
+        "course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "Table 4. Course goals",
+          "is_list": false,
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "table",
+          "order": 26,
+          "table_id": "en-ep17-tiht1104#tbl003",
+          "table_name": "Table 4. Course goals",
+          "section_path": [
+            "4. COURSE GOALS"
+          ],
+          "section_labels": [
+            "course-goals"
+          ],
+          "source_block": 30,
+          "column_labels": [
+            "Goals",
+            "Goals Description",
+            "PLOs",
+            "Proficiency scale"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "Students understand and apply basic knowledge of programming and databases; Understand and apply the basic principles of the software development process.",
+                "PLO 1",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "Goals Description": "Students understand and apply basic knowledge of programming and databases; Understand and apply the basic principles of the software development process.",
+                "PLOs": "PLO 1",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "Students have written communication skills; Write reports and make professional presentations related to plans, strategies and implementation of assigned activities; Have communication skills in the online environment. Students have the ability to program, build databases and apply basic principles of software development process; Able to master technologies and techniques to develop, operate and manage information systems to serve operational, management and administrative activities in organizations and businesses; Able to exploit specialized software to analyze data and synthesize information to support the decision-making process; Able to manage information system projects.",
+                "PLO 7 PLO 9",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "Goals Description": "Students have written communication skills; Write reports and make professional presentations related to plans, strategies and implementation of assigned activities; Have communication skills in the online environment. Students have the ability to program, build databases and apply basic principles of software development process; Able to master technologies and techniques to develop, operate and manage information systems to serve operational, management and administrative activities in organizations and businesses; Able to exploit specialized software to analyze data and synthesize information to support the decision-making process; Able to manage information system projects.",
+                "PLOs": "PLO 7 PLO 9",
+                "Proficiency scale": "4"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "Have the ability to work independently or participate in teams; have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+                "PLO 10",
+                "4"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "Goals Description": "Have the ability to work independently or participate in teams; have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+                "PLOs": "PLO 10",
+                "Proficiency scale": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec005",
+      "title": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "level": 1,
+      "label": "course-learning-outcomes-clos",
+      "path_titles": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "path_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "Table 5. Course learning outcomes (CLOs)",
+          "is_list": false,
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 32
+        },
+        {
+          "type": "table",
+          "order": 28,
+          "table_id": "en-ep17-tiht1104#tbl004",
+          "table_name": "Table 5. Course learning outcomes (CLOs)",
+          "section_path": [
+            "5. COURSE LEARNING OUTCOMES (CLOs)"
+          ],
+          "section_labels": [
+            "course-learning-outcomes-clos"
+          ],
+          "source_block": 33,
+          "column_labels": [
+            "Goals",
+            "CLOs",
+            "CLOs Description",
+            "Teaching level (I,T,U)"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Understand issues related to the importance of computer engineering systems, software concepts, software classification, how to evaluate software quality, software engineering concepts and human factors in software engineering.",
+                "I"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.1",
+                "CLOs Description": "Understand issues related to the importance of computer engineering systems, software concepts, software classification, how to evaluate software quality, software engineering concepts and human factors in software engineering.",
+                "Teaching level (I,T,U)": "I"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Understand the software requirements specification process and apply it to build a requirements specification report for a specific software.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.2",
+                "CLOs Description": "Understand the software requirements specification process and apply it to build a requirements specification report for a specific software.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Understand the software design foundation and software design process.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.3",
+                "CLOs Description": "Understand the software design foundation and software design process.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.4",
+                "Understand the functional software design analysis process and apply design analysis to a software.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.4",
+                "CLOs Description": "Understand the functional software design analysis process and apply design analysis to a software.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.5",
+                "Understand the object-oriented software design analysis process and apply design analysis to a software.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.5",
+                "CLOs Description": "Understand the object-oriented software design analysis process and apply design analysis to a software.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.6",
+                "Understand the real-time software design analysis process.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.6",
+                "CLOs Description": "Understand the real-time software design analysis process.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.7",
+                "Understand the software testing process and apply testing to a specific software.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.7",
+                "CLOs Description": "Understand the software testing process and apply testing to a specific software.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.8",
+                "Understand the maintenance process, maintenance activities and develop software maintenance records.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.8",
+                "CLOs Description": "Understand the maintenance process, maintenance activities and develop software maintenance records.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.9",
+                "Understand the concept and process of software project management, apply quality management, configuration, human resources, project risks and determine software scale.",
+                "T"
+              ],
+              "column_map": {
+                "Goals": "G1",
+                "CLOs": "CLO1.9",
+                "CLOs Description": "Understand the concept and process of software project management, apply quality management, configuration, human resources, project risks and determine software scale.",
+                "Teaching level (I,T,U)": "T"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Have skills in understanding requirements, analyzing design, programming a software.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.1",
+                "CLOs Description": "Have skills in understanding requirements, analyzing design, programming a software.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.2",
+                "Have skills in deploying, maintaining and managing software construction projects.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G2",
+                "CLOs": "CLO2.2",
+                "CLOs Description": "Have skills in deploying, maintaining and managing software construction projects.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Have the ability to work independently or participate in teams.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.1",
+                "CLOs Description": "Have the ability to work independently or participate in teams.",
+                "Teaching level (I,T,U)": "U"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.2",
+                "Have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+                "U"
+              ],
+              "column_map": {
+                "Goals": "G3",
+                "CLOs": "CLO3.2",
+                "CLOs Description": "Have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+                "Teaching level (I,T,U)": "U"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec006",
+      "title": "6. COURSE ASSESSMENT",
+      "level": 1,
+      "label": "course-assessment",
+      "path_titles": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "path_labels": [
+        "course-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "Table 6. Assessment summary",
+          "is_list": false,
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "table",
+          "order": 30,
+          "table_id": "en-ep17-tiht1104#tbl005",
+          "table_name": "Table 6. Assessment summary",
+          "section_path": [
+            "6. COURSE ASSESSMENT"
+          ],
+          "section_labels": [
+            "course-assessment"
+          ],
+          "source_block": 38,
+          "column_labels": [
+            "Assessments",
+            "CLOs",
+            "Weighting (%)",
+            "Week"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Formative assessment",
+              "cells": [
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment",
+                "Formative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Formative assessment",
+                "CLOs": "Formative assessment",
+                "Weighting (%)": "Formative assessment",
+                "Week": "Formative assessment"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Participant: Learning attitude Answers questions Discussions",
+              "cells": [
+                "Participant: Learning attitude Answers questions Discussions",
+                "CLO1.x CLO2.x CLO3.x",
+                "10%",
+                "1-12"
+              ],
+              "column_map": {
+                "Assessments": "Participant: Learning attitude Answers questions Discussions",
+                "CLOs": "CLO1.x CLO2.x CLO3.x",
+                "Weighting (%)": "10%",
+                "Week": "1-12"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Midterm assessment",
+              "cells": [
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment",
+                "Midterm assessment"
+              ],
+              "column_map": {
+                "Assessments": "Midterm assessment",
+                "CLOs": "Midterm assessment",
+                "Weighting (%)": "Midterm assessment",
+                "Week": "Midterm assessment"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Group Project Presentation",
+              "cells": [
+                "Group Project Presentation",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "20%",
+                "13"
+              ],
+              "column_map": {
+                "Assessments": "Group Project Presentation",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Weighting (%)": "20%",
+                "Week": "13"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Group Project Report",
+              "cells": [
+                "Group Project Report",
+                "CLO 3.1, 3.2, 4.1, 4.2",
+                "20%",
+                "14"
+              ],
+              "column_map": {
+                "Assessments": "Group Project Report",
+                "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+                "Weighting (%)": "20%",
+                "Week": "14"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Summative assessment",
+              "cells": [
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment",
+                "Summative assessment"
+              ],
+              "column_map": {
+                "Assessments": "Summative assessment",
+                "CLOs": "Summative assessment",
+                "Weighting (%)": "Summative assessment",
+                "Week": "Summative assessment"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Final exam",
+              "cells": [
+                "Final exam",
+                "All CLOs",
+                "50%",
+                "As scheduled"
+              ],
+              "column_map": {
+                "Assessments": "Final exam",
+                "CLOs": "All CLOs",
+                "Weighting (%)": "50%",
+                "Week": "As scheduled"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec007",
+      "title": "7. COURSE OUTLINE",
+      "level": 1,
+      "label": "course-outline",
+      "path_titles": [
+        "7. COURSE OUTLINE"
+      ],
+      "path_labels": [
+        "course-outline"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Table 7. Course outline",
+          "is_list": false,
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 41
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "en-ep17-tiht1104#tbl006",
+          "table_name": "Table 7. Course outline",
+          "section_path": [
+            "7. COURSE OUTLINE"
+          ],
+          "section_labels": [
+            "course-outline"
+          ],
+          "source_block": 42,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLOs",
+            "Teaching-learning activities",
+            "Assessment"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLOs": "[4]",
+                "Teaching-learning activities": "[5]",
+                "Assessment": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+                "Read textbook: Chapter 1, from [1]",
+                "CLO 1.1 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+                "Readings requirement": "Read textbook: Chapter 1, from [1]",
+                "CLOs": "CLO 1.1 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+                "Read textbook: Chapter 2, from [1]",
+                "CLO 1.2 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+                "Readings requirement": "Read textbook: Chapter 2, from [1]",
+                "CLOs": "CLO 1.2 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+                "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+                "CLO 1.3 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+                "Readings requirement": "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+                "CLOs": "CLO 1.3 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+                "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+                "CLO 1.3 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+                "Readings requirement": "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+                "CLOs": "CLO 1.3 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+                "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+                "CLO 1.4 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+                "Readings requirement": "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+                "CLOs": "CLO 1.4 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+                "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+                "CLO 1.4 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+                "Readings requirement": "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+                "CLOs": "CLO 1.4 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+                "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+                "CLO 1.5 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+                "Readings requirement": "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+                "CLOs": "CLO 1.5 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+                "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+                "CLO 1.5 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+                "Readings requirement": "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+                "CLOs": "CLO 1.5 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+                "Read textbook: Chapter 6, from [1]",
+                "CLO 1.6 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+                "Readings requirement": "Read textbook: Chapter 6, from [1]",
+                "CLOs": "CLO 1.6 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+                "Read textbook: Chapter 7, from [1]",
+                "CLO 1.7 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+                "Readings requirement": "Read textbook: Chapter 7, from [1]",
+                "CLOs": "CLO 1.7 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+                "Read textbook: Chapter 8, from [1]",
+                "CLO 1.8 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+                "Readings requirement": "Read textbook: Chapter 8, from [1]",
+                "CLOs": "CLO 1.8 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+                "Read textbook: Chapter 9, from [1]",
+                "CLO 1.7 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+                "Readings requirement": "Read textbook: Chapter 9, from [1]",
+                "CLOs": "CLO 1.7 CLO 2.1",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Group works",
+                "Read textbook: Chapter 1-5, from [1]",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                ""
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Group works",
+                "Readings requirement": "Read textbook: Chapter 1-5, from [1]",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group works",
+                "Read textbook: Chapter 6-9, from [1]",
+                "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Group works",
+                ""
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group works",
+                "Readings requirement": "Read textbook: Chapter 6-9, from [1]",
+                "CLOs": "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Group works",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "Read textbook: Chapter 1-10, from [1]",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Pre-Reading text Lecturing Group discussion",
+                ""
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course review",
+                "Readings requirement": "Read textbook: Chapter 1-10, from [1]",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Pre-Reading text Lecturing Group discussion",
+                "Assessment": ""
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Students take exams according to given schedule",
+                ""
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching-learning activities": "Students take exams according to given schedule",
+                "Assessment": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec008",
+      "title": "8. LESSON PLAN",
+      "level": 1,
+      "label": "lesson-plan",
+      "path_titles": [
+        "8. LESSON PLAN"
+      ],
+      "path_labels": [
+        "lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Table 8.1. Lesson plan for the course",
+          "is_list": false,
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 45
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "en-ep17-tiht1104#tbl007",
+          "table_name": "Table 8.1. Lesson plan for the course",
+          "section_path": [
+            "8. LESSON PLAN"
+          ],
+          "section_labels": [
+            "lesson-plan"
+          ],
+          "source_block": 46,
+          "column_labels": [
+            "Week",
+            "Content",
+            "Readings requirement",
+            "CLO",
+            "Teaching and Learning Activities",
+            "Assessment tools and criteria"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Week": "[1]",
+                "Content": "[2]",
+                "Readings requirement": "[3]",
+                "CLO": "[4]",
+                "Teaching and Learning Activities": "[5]",
+                "Assessment tools and criteria": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+                "Read textbook: Chapter 1, from [1]",
+                "CLO 1.1 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "1",
+                "Content": "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+                "Readings requirement": "Read textbook: Chapter 1, from [1]",
+                "CLO": "CLO 1.1 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+                "Read textbook: Chapter 2, from [1]",
+                "CLO 1.2 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "2",
+                "Content": "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+                "Readings requirement": "Read textbook: Chapter 2, from [1]",
+                "CLO": "CLO 1.2 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+                "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+                "CLO 1.3 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "3",
+                "Content": "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+                "Readings requirement": "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+                "CLO": "CLO 1.3 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+                "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+                "CLO 1.3 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "4",
+                "Content": "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+                "Readings requirement": "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+                "CLO": "CLO 1.3 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+                "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+                "CLO 1.4 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "5",
+                "Content": "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+                "Readings requirement": "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+                "CLO": "CLO 1.4 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+                "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+                "CLO 1.4 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "6",
+                "Content": "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+                "Readings requirement": "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+                "CLO": "CLO 1.4 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+                "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+                "CLO 1.5 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "7",
+                "Content": "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+                "Readings requirement": "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+                "CLO": "CLO 1.5 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+                "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+                "CLO 1.5 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "8",
+                "Content": "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+                "Readings requirement": "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+                "CLO": "CLO 1.5 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+                "Read textbook: Chapter 6, from [1]",
+                "CLO 1.6 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "9",
+                "Content": "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+                "Readings requirement": "Read textbook: Chapter 6, from [1]",
+                "CLO": "CLO 1.6 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+                "Read textbook: Chapter 7, from [1]",
+                "CLO 1.7 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "10",
+                "Content": "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+                "Readings requirement": "Read textbook: Chapter 7, from [1]",
+                "CLO": "CLO 1.7 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+                "Read textbook: Chapter 8, from [1]",
+                "CLO 1.8 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "11",
+                "Content": "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+                "Readings requirement": "Read textbook: Chapter 8, from [1]",
+                "CLO": "CLO 1.8 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+                "Read textbook: Chapter 9, from [1]",
+                "CLO 1.7 CLO 2.1",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "12",
+                "Content": "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+                "Readings requirement": "Read textbook: Chapter 9, from [1]",
+                "CLO": "CLO 1.7 CLO 2.1",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Group works",
+                "Read textbook: Chapter 1-5, from [1]",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Participation Interaction Individual testing"
+              ],
+              "column_map": {
+                "Week": "13",
+                "Content": "Group works",
+                "Readings requirement": "Read textbook: Chapter 1-5, from [1]",
+                "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+                "Assessment tools and criteria": "Participation Interaction Individual testing"
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Group works",
+                "Read textbook: Chapter 6-9, from [1]",
+                "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Group works",
+                "Group works assessment"
+              ],
+              "column_map": {
+                "Week": "14",
+                "Content": "Group works",
+                "Readings requirement": "Read textbook: Chapter 6-9, from [1]",
+                "CLO": "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Group works",
+                "Assessment tools and criteria": "Group works assessment"
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Course review",
+                "Read textbook: Chapter 1-10, from [1]",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Pre-Reading text Lecturing Group discussion",
+                "Participation Interaction"
+              ],
+              "column_map": {
+                "Week": "15",
+                "Content": "Course review",
+                "Readings requirement": "Read textbook: Chapter 1-10, from [1]",
+                "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Pre-Reading text Lecturing Group discussion",
+                "Assessment tools and criteria": "Participation Interaction"
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "-",
+              "cells": [
+                "-",
+                "Final exam",
+                "",
+                "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Students take exams according to given schedule",
+                "Multiple choice questions, open-ended questions"
+              ],
+              "column_map": {
+                "Week": "-",
+                "Content": "Final exam",
+                "Readings requirement": "",
+                "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+                "Teaching and Learning Activities": "Students take exams according to given schedule",
+                "Assessment tools and criteria": "Multiple choice questions, open-ended questions"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec009",
+      "title": "9. COURSE REQUIREMENT & EXPECTATION",
+      "level": 1,
+      "label": "course-requirement-expectation",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "path_labels": [
+        "course-requirement-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec010",
+      "title": "9.1. Requirements for taking final /terminal exams",
+      "level": 2,
+      "label": "requirements-for-taking-final-terminal-exams",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.1. Requirements for taking final /terminal exams"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-taking-final-terminal-exams"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.1. Requirements for taking final /terminal exams"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-taking-final-terminal-exams"
+          ],
+          "source_block": 51
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec011",
+      "title": "9.2. Requirements for attending classes",
+      "level": 2,
+      "label": "requirements-for-attending-classes",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.2. Requirements for attending classes"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-attending-classes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 36,
+          "text": "Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 53
+        },
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Students will be awarded points for constructive comments these points are added to attendance points and group assignments.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 54
+        },
+        {
+          "type": "paragraph",
+          "order": 38,
+          "text": "Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.2. Requirements for attending classes"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-attending-classes"
+          ],
+          "source_block": 55
+        }
+      ]
+    },
+    {
+      "section_id": "en-ep17-tiht1104#sec012",
+      "title": "9.3. Requirements for in-class behaviour",
+      "level": 2,
+      "label": "requirements-for-in-class-behaviour",
+      "path_titles": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "path_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 57
+        },
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+          "is_list": true,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 59
+        },
+        {
+          "type": "table",
+          "order": 42,
+          "table_id": "en-ep17-tiht1104#tbl008",
+          "table_name": null,
+          "section_path": [
+            "9. COURSE REQUIREMENT & EXPECTATION",
+            "9.3. Requirements for in-class behaviour"
+          ],
+          "section_labels": [
+            "course-requirement-expectation",
+            "requirements-for-in-class-behaviour"
+          ],
+          "source_block": 61,
+          "column_labels": [
+            "Faculty Dean",
+            "NEU’s President"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Dr Nguyen Thi Bach Tuyet",
+              "cells": [
+                "Dr Nguyen Thi Bach Tuyet",
+                "Prof. Dr Pham Hong Chuong"
+              ],
+              "column_map": {
+                "Faculty Dean": "Dr Nguyen Thi Bach Tuyet",
+                "NEU’s President": "Prof. Dr Pham Hong Chuong"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "en-ep17-tiht1104#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+          "cells": [
+            "MINISTRY OF EDUCATION AND TRAINING NATIONAL ECONOMICS UNIVERSITY",
+            "SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "COURSE SYLLABUS (Issued with Decision number 976/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+          "cells": [
+            "COURSE SYLLABUS (Issued with Decision number 976/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)",
+            "COURSE SYLLABUS (Issued with Decision number 976/QĐ-ĐHKTQD by NEU’s President dated August 30, 2023)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Bachelor of Bachelor of Software Engineering (BSE)",
+          "cells": [
+            "Bachelor of Bachelor of Software Engineering (BSE)",
+            "Bachelor of Bachelor of Software Engineering (BSE)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 18,
+      "table_id": "en-ep17-tiht1104#tbl002",
+      "table_name": "* Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "source_block": 19,
+      "column_labels": [
+        "Foundation □",
+        "Foundation □_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory □",
+          "cells": [
+            "Compulsory □",
+            "Elective □",
+            "Compulsory (x)",
+            "Elective □"
+          ],
+          "column_map": {
+            "Foundation □": "Compulsory □",
+            "Foundation □_2": "Elective □",
+            "Fundamental (x)": "Compulsory (x)",
+            "Fundamental (x)_2": "Elective □"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 26,
+      "table_id": "en-ep17-tiht1104#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE GOALS"
+      ],
+      "section_labels": [
+        "course-goals"
+      ],
+      "source_block": 30,
+      "column_labels": [
+        "Goals",
+        "Goals Description",
+        "PLOs",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "Students understand and apply basic knowledge of programming and databases; Understand and apply the basic principles of the software development process.",
+            "PLO 1",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "Goals Description": "Students understand and apply basic knowledge of programming and databases; Understand and apply the basic principles of the software development process.",
+            "PLOs": "PLO 1",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "Students have written communication skills; Write reports and make professional presentations related to plans, strategies and implementation of assigned activities; Have communication skills in the online environment. Students have the ability to program, build databases and apply basic principles of software development process; Able to master technologies and techniques to develop, operate and manage information systems to serve operational, management and administrative activities in organizations and businesses; Able to exploit specialized software to analyze data and synthesize information to support the decision-making process; Able to manage information system projects.",
+            "PLO 7 PLO 9",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "Goals Description": "Students have written communication skills; Write reports and make professional presentations related to plans, strategies and implementation of assigned activities; Have communication skills in the online environment. Students have the ability to program, build databases and apply basic principles of software development process; Able to master technologies and techniques to develop, operate and manage information systems to serve operational, management and administrative activities in organizations and businesses; Able to exploit specialized software to analyze data and synthesize information to support the decision-making process; Able to manage information system projects.",
+            "PLOs": "PLO 7 PLO 9",
+            "Proficiency scale": "4"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "Have the ability to work independently or participate in teams; have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+            "PLO 10",
+            "4"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "Goals Description": "Have the ability to work independently or participate in teams; have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+            "PLOs": "PLO 10",
+            "Proficiency scale": "4"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 28,
+      "table_id": "en-ep17-tiht1104#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "source_block": 33,
+      "column_labels": [
+        "Goals",
+        "CLOs",
+        "CLOs Description",
+        "Teaching level (I,T,U)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Understand issues related to the importance of computer engineering systems, software concepts, software classification, how to evaluate software quality, software engineering concepts and human factors in software engineering.",
+            "I"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.1",
+            "CLOs Description": "Understand issues related to the importance of computer engineering systems, software concepts, software classification, how to evaluate software quality, software engineering concepts and human factors in software engineering.",
+            "Teaching level (I,T,U)": "I"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Understand the software requirements specification process and apply it to build a requirements specification report for a specific software.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.2",
+            "CLOs Description": "Understand the software requirements specification process and apply it to build a requirements specification report for a specific software.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Understand the software design foundation and software design process.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.3",
+            "CLOs Description": "Understand the software design foundation and software design process.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.4",
+            "Understand the functional software design analysis process and apply design analysis to a software.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.4",
+            "CLOs Description": "Understand the functional software design analysis process and apply design analysis to a software.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.5",
+            "Understand the object-oriented software design analysis process and apply design analysis to a software.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.5",
+            "CLOs Description": "Understand the object-oriented software design analysis process and apply design analysis to a software.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.6",
+            "Understand the real-time software design analysis process.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.6",
+            "CLOs Description": "Understand the real-time software design analysis process.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.7",
+            "Understand the software testing process and apply testing to a specific software.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.7",
+            "CLOs Description": "Understand the software testing process and apply testing to a specific software.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.8",
+            "Understand the maintenance process, maintenance activities and develop software maintenance records.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.8",
+            "CLOs Description": "Understand the maintenance process, maintenance activities and develop software maintenance records.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.9",
+            "Understand the concept and process of software project management, apply quality management, configuration, human resources, project risks and determine software scale.",
+            "T"
+          ],
+          "column_map": {
+            "Goals": "G1",
+            "CLOs": "CLO1.9",
+            "CLOs Description": "Understand the concept and process of software project management, apply quality management, configuration, human resources, project risks and determine software scale.",
+            "Teaching level (I,T,U)": "T"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Have skills in understanding requirements, analyzing design, programming a software.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.1",
+            "CLOs Description": "Have skills in understanding requirements, analyzing design, programming a software.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.2",
+            "Have skills in deploying, maintaining and managing software construction projects.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G2",
+            "CLOs": "CLO2.2",
+            "CLOs Description": "Have skills in deploying, maintaining and managing software construction projects.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Have the ability to work independently or participate in teams.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.1",
+            "CLOs Description": "Have the ability to work independently or participate in teams.",
+            "Teaching level (I,T,U)": "U"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.2",
+            "Have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+            "U"
+          ],
+          "column_map": {
+            "Goals": "G3",
+            "CLOs": "CLO3.2",
+            "CLOs Description": "Have appropriate attitude and behavior related to safety and ethical standards in the field of information systems.",
+            "Teaching level (I,T,U)": "U"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 30,
+      "table_id": "en-ep17-tiht1104#tbl005",
+      "table_name": "Table 6. Assessment summary",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "source_block": 38,
+      "column_labels": [
+        "Assessments",
+        "CLOs",
+        "Weighting (%)",
+        "Week"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Formative assessment",
+          "cells": [
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment",
+            "Formative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Formative assessment",
+            "CLOs": "Formative assessment",
+            "Weighting (%)": "Formative assessment",
+            "Week": "Formative assessment"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Participant: Learning attitude Answers questions Discussions",
+          "cells": [
+            "Participant: Learning attitude Answers questions Discussions",
+            "CLO1.x CLO2.x CLO3.x",
+            "10%",
+            "1-12"
+          ],
+          "column_map": {
+            "Assessments": "Participant: Learning attitude Answers questions Discussions",
+            "CLOs": "CLO1.x CLO2.x CLO3.x",
+            "Weighting (%)": "10%",
+            "Week": "1-12"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Midterm assessment",
+          "cells": [
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment",
+            "Midterm assessment"
+          ],
+          "column_map": {
+            "Assessments": "Midterm assessment",
+            "CLOs": "Midterm assessment",
+            "Weighting (%)": "Midterm assessment",
+            "Week": "Midterm assessment"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Group Project Presentation",
+          "cells": [
+            "Group Project Presentation",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "20%",
+            "13"
+          ],
+          "column_map": {
+            "Assessments": "Group Project Presentation",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Weighting (%)": "20%",
+            "Week": "13"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Group Project Report",
+          "cells": [
+            "Group Project Report",
+            "CLO 3.1, 3.2, 4.1, 4.2",
+            "20%",
+            "14"
+          ],
+          "column_map": {
+            "Assessments": "Group Project Report",
+            "CLOs": "CLO 3.1, 3.2, 4.1, 4.2",
+            "Weighting (%)": "20%",
+            "Week": "14"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Summative assessment",
+          "cells": [
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment",
+            "Summative assessment"
+          ],
+          "column_map": {
+            "Assessments": "Summative assessment",
+            "CLOs": "Summative assessment",
+            "Weighting (%)": "Summative assessment",
+            "Week": "Summative assessment"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Final exam",
+          "cells": [
+            "Final exam",
+            "All CLOs",
+            "50%",
+            "As scheduled"
+          ],
+          "column_map": {
+            "Assessments": "Final exam",
+            "CLOs": "All CLOs",
+            "Weighting (%)": "50%",
+            "Week": "As scheduled"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "en-ep17-tiht1104#tbl006",
+      "table_name": "Table 7. Course outline",
+      "section_path": [
+        "7. COURSE OUTLINE"
+      ],
+      "section_labels": [
+        "course-outline"
+      ],
+      "source_block": 42,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLOs",
+        "Teaching-learning activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLOs": "[4]",
+            "Teaching-learning activities": "[5]",
+            "Assessment": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+            "Read textbook: Chapter 1, from [1]",
+            "CLO 1.1 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+            "Readings requirement": "Read textbook: Chapter 1, from [1]",
+            "CLOs": "CLO 1.1 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+            "Read textbook: Chapter 2, from [1]",
+            "CLO 1.2 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+            "Readings requirement": "Read textbook: Chapter 2, from [1]",
+            "CLOs": "CLO 1.2 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+            "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+            "CLO 1.3 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+            "Readings requirement": "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+            "CLOs": "CLO 1.3 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+            "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+            "CLO 1.3 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+            "Readings requirement": "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+            "CLOs": "CLO 1.3 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+            "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+            "CLO 1.4 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+            "Readings requirement": "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+            "CLOs": "CLO 1.4 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+            "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+            "CLO 1.4 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+            "Readings requirement": "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+            "CLOs": "CLO 1.4 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+            "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+            "CLO 1.5 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+            "Readings requirement": "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+            "CLOs": "CLO 1.5 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+            "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+            "CLO 1.5 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+            "Readings requirement": "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+            "CLOs": "CLO 1.5 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+            "Read textbook: Chapter 6, from [1]",
+            "CLO 1.6 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+            "Readings requirement": "Read textbook: Chapter 6, from [1]",
+            "CLOs": "CLO 1.6 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+            "Read textbook: Chapter 7, from [1]",
+            "CLO 1.7 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+            "Readings requirement": "Read textbook: Chapter 7, from [1]",
+            "CLOs": "CLO 1.7 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+            "Read textbook: Chapter 8, from [1]",
+            "CLO 1.8 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+            "Readings requirement": "Read textbook: Chapter 8, from [1]",
+            "CLOs": "CLO 1.8 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+            "Read textbook: Chapter 9, from [1]",
+            "CLO 1.7 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+            "Readings requirement": "Read textbook: Chapter 9, from [1]",
+            "CLOs": "CLO 1.7 CLO 2.1",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Group works",
+            "Read textbook: Chapter 1-5, from [1]",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            ""
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Group works",
+            "Readings requirement": "Read textbook: Chapter 1-5, from [1]",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group works",
+            "Read textbook: Chapter 6-9, from [1]",
+            "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Group works",
+            ""
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group works",
+            "Readings requirement": "Read textbook: Chapter 6-9, from [1]",
+            "CLOs": "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Group works",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "Read textbook: Chapter 1-10, from [1]",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Pre-Reading text Lecturing Group discussion",
+            ""
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course review",
+            "Readings requirement": "Read textbook: Chapter 1-10, from [1]",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Pre-Reading text Lecturing Group discussion",
+            "Assessment": ""
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Students take exams according to given schedule",
+            ""
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLOs": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching-learning activities": "Students take exams according to given schedule",
+            "Assessment": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "en-ep17-tiht1104#tbl007",
+      "table_name": "Table 8.1. Lesson plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "source_block": 46,
+      "column_labels": [
+        "Week",
+        "Content",
+        "Readings requirement",
+        "CLO",
+        "Teaching and Learning Activities",
+        "Assessment tools and criteria"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Week": "[1]",
+            "Content": "[2]",
+            "Readings requirement": "[3]",
+            "CLO": "[4]",
+            "Teaching and Learning Activities": "[5]",
+            "Assessment tools and criteria": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+            "Read textbook: Chapter 1, from [1]",
+            "CLO 1.1 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "1",
+            "Content": "Chapter 1: Overview of software engineering 1.1. Computer-based systems engineering 1.2. Software concept 1.3. Software classification 1.4. Software quality 1.5. Overview of programming languages 1.6. Software engineering concept 1.7. Human factors in software engineering",
+            "Readings requirement": "Read textbook: Chapter 1, from [1]",
+            "CLO": "CLO 1.1 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+            "Read textbook: Chapter 2, from [1]",
+            "CLO 1.2 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "2",
+            "Content": "Chapter 2: Software requirements specification 2.1. Concept of software requirements specification. 2.2. Determine software requirements 2.3. Analyze software requirements 2.4. Software requirements specification 2.5. Document software requirements specification 2.6. Methods of collecting information",
+            "Readings requirement": "Read textbook: Chapter 2, from [1]",
+            "CLO": "CLO 1.2 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+            "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+            "CLO 1.3 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "3",
+            "Content": "Chapter 3: Software design foundation 3.1. The role of software design 3.2. Software design strategy 3.3. Design methods 3.4. Software design process 3.5. Software design foundation",
+            "Readings requirement": "Read textbook: Chapter 3, Section 3.1->3.5 from [1]",
+            "CLO": "CLO 1.3 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+            "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+            "CLO 1.3 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "4",
+            "Content": "Chapter 3: Software design foundation. 3.6. Efficient modular design 3.7. Data design 3.8. Design notation using flowcharts 3.9. Programming techniques 3.10. Design language 3.11. Design document",
+            "Readings requirement": "Read textbook: Chapter 3, Section 3.6-> Section 3.11 from [1]",
+            "CLO": "CLO 1.3 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+            "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+            "CLO 1.4 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "5",
+            "Content": "Chapter 4: Function-oriented analysis and design 4.1. Concept of functional system analysis 4.2. BFD functional chart 4.3. CD context diagram 4.4. DFD data flow diagram 4.5. Functional analysis report",
+            "Readings requirement": "Read textbook: Chapter 4, Section 4.1->4.5, from [1]",
+            "CLO": "CLO 1.4 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+            "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+            "CLO 1.4 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "6",
+            "Content": "Chapter 4: Function-oriented design analysis 4.6. Function-oriented design strategy 4.7. Architectural design 4.8. Data design 4.9. Algorithm design 4.10. Design the theme 4.11. Design document",
+            "Readings requirement": "Read textbook: Chapter 4, Section 4.6->4.11 from [1]",
+            "CLO": "CLO 1.4 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+            "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+            "CLO 1.5 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "7",
+            "Content": "Chapter 5: Object-oriented analysis and design 5.1. The concept of object-oriented analysis 5.2. Basic concepts in OOA and OOD 5.3. USE CASE chart 5.4. Class diagram",
+            "Readings requirement": "Read textbook: Chapter 5, Section 5.1->5.4 from [1]",
+            "CLO": "CLO 1.5 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+            "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+            "CLO 1.5 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "8",
+            "Content": "Chapter 5: Object-oriented analysis and design 5.5. Sequence diagram 5.6. Status chart 5.7. Activity chart",
+            "Readings requirement": "Read textbook: Chapter 5, Section 5.5->5.7 from [1]",
+            "CLO": "CLO 1.5 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+            "Read textbook: Chapter 6, from [1]",
+            "CLO 1.6 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "9",
+            "Content": "Chapter 6: Real-time oriented analysis and design 6.1. Real-time system concept 6.2. Real-time system architecture 6.3. Real-time database 6.4. DARTS design method",
+            "Readings requirement": "Read textbook: Chapter 6, from [1]",
+            "CLO": "CLO 1.6 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+            "Read textbook: Chapter 7, from [1]",
+            "CLO 1.7 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "10",
+            "Content": "Chapter 7: Software Testing 7.1 Concepts and history of software testing 7.2. White box testing method 7.3. Black box testing method 7.4. Software testing process",
+            "Readings requirement": "Read textbook: Chapter 7, from [1]",
+            "CLO": "CLO 1.7 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+            "Read textbook: Chapter 8, from [1]",
+            "CLO 1.8 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "11",
+            "Content": "Chapter 8: Software maintenance 8.1. Software maintenance concept 8.2. Software maintenance characteristics 8.3. Software maintenance process 8.4. Software maintenance activities 8.5. Software maintenance records",
+            "Readings requirement": "Read textbook: Chapter 8, from [1]",
+            "CLO": "CLO 1.8 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+            "Read textbook: Chapter 9, from [1]",
+            "CLO 1.7 CLO 2.1",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "12",
+            "Content": "Chapter 9: Software project management 9.1. Software project management concepts and processes 9.2. Project process management 9.3. Software quality management 9.4. Software configuration management 9.5. Method for determining software size 9.7. Risk management in software projects 9.8. Software development models",
+            "Readings requirement": "Read textbook: Chapter 9, from [1]",
+            "CLO": "CLO 1.7 CLO 2.1",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Group works",
+            "Read textbook: Chapter 1-5, from [1]",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Participation Interaction Individual testing"
+          ],
+          "column_map": {
+            "Week": "13",
+            "Content": "Group works",
+            "Readings requirement": "Read textbook: Chapter 1-5, from [1]",
+            "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Pre-Reading text Home-work Lecturing Group discussion Individual testing",
+            "Assessment tools and criteria": "Participation Interaction Individual testing"
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Group works",
+            "Read textbook: Chapter 6-9, from [1]",
+            "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Group works",
+            "Group works assessment"
+          ],
+          "column_map": {
+            "Week": "14",
+            "Content": "Group works",
+            "Readings requirement": "Read textbook: Chapter 6-9, from [1]",
+            "CLO": "CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Group works",
+            "Assessment tools and criteria": "Group works assessment"
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Course review",
+            "Read textbook: Chapter 1-10, from [1]",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Pre-Reading text Lecturing Group discussion",
+            "Participation Interaction"
+          ],
+          "column_map": {
+            "Week": "15",
+            "Content": "Course review",
+            "Readings requirement": "Read textbook: Chapter 1-10, from [1]",
+            "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Pre-Reading text Lecturing Group discussion",
+            "Assessment tools and criteria": "Participation Interaction"
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "-",
+          "cells": [
+            "-",
+            "Final exam",
+            "",
+            "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Students take exams according to given schedule",
+            "Multiple choice questions, open-ended questions"
+          ],
+          "column_map": {
+            "Week": "-",
+            "Content": "Final exam",
+            "Readings requirement": "",
+            "CLO": "CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO1.5 CLO1.6 CLO1.7 CLO1.8 CLO1.9 CLO2.1 CLO2.2 CLO3.1 CLO3.2",
+            "Teaching and Learning Activities": "Students take exams according to given schedule",
+            "Assessment tools and criteria": "Multiple choice questions, open-ended questions"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 42,
+      "table_id": "en-ep17-tiht1104#tbl008",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirement-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "source_block": 61,
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Dr Nguyen Thi Bach Tuyet",
+          "cells": [
+            "Dr Nguyen Thi Bach Tuyet",
+            "Prof. Dr Pham Hong Chuong"
+          ],
+          "column_map": {
+            "Faculty Dean": "Dr Nguyen Thi Bach Tuyet",
+            "NEU’s President": "Prof. Dr Pham Hong Chuong"
+          }
+        }
+      ]
+    }
+  ],
+  "full_text": "* Title: Software Engineering\n* Code: TIHT1104\n* Credits: 3 (45 hours)\n* Credit hours for teaching and learning activities:\n+ Lecture: 25 hrs\n+ Exercises on class: 10 hrs\n+ Presentation and Discussion: 10 hrs\n+ Self-study: 60 hrs.\n* Parallel course(s): None\n* Prerequisite course(s):\n* Faculty conducting the course: Management Information Systems, Room 13.11, Building A1, National Economics University; Phone number: 024.36280.280 (6334; 6324)\n+ Lecturers:\n1. Nguyen Anh Phuong, Master\nTel: 0987538333 Email: phuongna@neu.edu.vn\n2. Trinh Hoai Son, PhD\nTel: 0949127888 Email: sonth@neu.edu.vn\n* Kind of the course:\n* Course language: In English\n* Meeting hour: 8AM – 11AM on Wednesdays, Room 13.08, Building A1, National Economics University\nThe Resolution of the Government of Vietnam on the development of the software industry into a spearhead economic sector of the country has made the study and teaching software engineering module has a very important role in the program training sector management information systems and computer science\nEngineering software modules equip students with the basic knowledge of the design process from identifying software requirements analysis, design, programming and ultimately deployment. The module also presents the basic content of a project management software and the software production process at industrial scale\n* Text Books/Lecture Notes:\n[1] Han Viet Thuan (2021). Software Engineering, National Economics University Publishing House.\nTable 4. Course goals\nTable 5. Course learning outcomes (CLOs)\nTable 6. Assessment summary\nTable 7. Course outline\nTable 8.1. Lesson plan for the course\nStudents are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\nStudents are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\nStudents will be awarded points for constructive comments these points are added to attendance points and group assignments.\nGroups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\nThe course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\nStudents must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\nLaptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes."
+}

@@ -1,0 +1,3908 @@
+{
+  "doc_id": "vi-llnl1101",
+  "language": "vi",
+  "course_name_stem": "Lịch sử các học thuyết kinh tế",
+  "course_variant": "",
+  "course_code": "LLNL1101",
+  "source_filename": "Lịch sử các học thuyết kinh tế_LLNL1101.docx",
+  "source_relpath": "data\\raw\\vi\\Lịch sử các học thuyết kinh tế_LLNL1101.docx",
+  "source_hash": "6f62793f7f1f0dcf59df958e175b2c47",
+  "source_modified": "2025-10-11T10:42:50.641526+00:00",
+  "processed_at": "2025-10-17T16:55:22.612371+00:00",
+  "stats": {
+    "paragraphs": 56,
+    "tables": 12,
+    "sections": 22
+  },
+  "sections": [
+    {
+      "section_id": "vi-llnl1101#sec001",
+      "title": "1. THÔNG TIN CHUNG (General Information)",
+      "level": 1,
+      "label": "thong-tin-chung-general-information",
+      "path_titles": [
+        "1. THÔNG TIN CHUNG (General Information)"
+      ],
+      "path_labels": [
+        "thong-tin-chung-general-information"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 1,
+          "text": "Tên học phần (tiếng Việt): Lịch sử các học thuyết kinh tế",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 3
+        },
+        {
+          "type": "paragraph",
+          "order": 2,
+          "text": "Tên học phần (tiếng Anh): History of economic theories",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 4
+        },
+        {
+          "type": "paragraph",
+          "order": 3,
+          "text": "Trình độ đào tạo: Đại học",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 5
+        },
+        {
+          "type": "paragraph",
+          "order": 4,
+          "text": "Mã học phần: LLNL1101",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 6
+        },
+        {
+          "type": "paragraph",
+          "order": 5,
+          "text": "Số tín chỉ 03",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 7
+        },
+        {
+          "type": "paragraph",
+          "order": 6,
+          "text": "Số giờ trên lớp: 45",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 8
+        },
+        {
+          "type": "paragraph",
+          "order": 7,
+          "text": "Số giờ tự học 105",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 9
+        },
+        {
+          "type": "paragraph",
+          "order": 8,
+          "text": "(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)",
+          "is_list": false,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 10
+        },
+        {
+          "type": "paragraph",
+          "order": 9,
+          "text": "Các học phần tiên quyết: Không",
+          "is_list": true,
+          "section_path": [
+            "1. THÔNG TIN CHUNG (General Information)"
+          ],
+          "section_labels": [
+            "thong-tin-chung-general-information"
+          ],
+          "source_block": 11
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec002",
+      "title": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "level": 1,
+      "label": "faculty_and_instructors",
+      "path_titles": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "path_labels": [
+        "faculty_and_instructors"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 10,
+          "text": "(Management Faculty and Teachers)",
+          "is_list": false,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 14
+        },
+        {
+          "type": "paragraph",
+          "order": 11,
+          "text": "Khoa/Viện quản lý học phần: LÝ LUẬN CHÍNH TRỊ",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 15
+        },
+        {
+          "type": "paragraph",
+          "order": 12,
+          "text": "Địa chỉ: Phòng 1015 Nhà A1, Trường ĐH Kinh tế Quốc dân",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 16
+        },
+        {
+          "type": "paragraph",
+          "order": 13,
+          "text": "Giảng viên giảng dạy học phần:",
+          "is_list": true,
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 17
+        },
+        {
+          "type": "table",
+          "order": 14,
+          "table_id": "vi-llnl1101#tbl002",
+          "table_name": "Giảng viên giảng dạy học phần:",
+          "section_path": [
+            "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+          ],
+          "section_labels": [
+            "faculty_and_instructors"
+          ],
+          "source_block": 18,
+          "column_labels": [
+            "STT",
+            "Họ và tên",
+            "Email NEU"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "PGS.TS Trần Việt Tiến",
+                "tientv@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "1",
+                "Họ và tên": "PGS.TS Trần Việt Tiến",
+                "Email NEU": "tientv@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "PGS.TS Nguyễn Thị Thanh Hiếu",
+                "hieunt@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "2",
+                "Họ và tên": "PGS.TS Nguyễn Thị Thanh Hiếu",
+                "Email NEU": "hieunt@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "TS Nguyễn Thị Hào",
+                "haont@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "3",
+                "Họ và tên": "TS Nguyễn Thị Hào",
+                "Email NEU": "haont@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "TS Mai Lan Hương",
+                "huongml@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "4",
+                "Họ và tên": "TS Mai Lan Hương",
+                "Email NEU": "huongml@neu.edu.vn"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "TS Nguyễn Văn Hậu",
+                "nvhau@neu.edu.vn"
+              ],
+              "column_map": {
+                "STT": "5",
+                "Họ và tên": "TS Nguyễn Văn Hậu",
+                "Email NEU": "nvhau@neu.edu.vn"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec003",
+      "title": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "level": 1,
+      "label": "mo-ta-hoc-phan-course-descriptions",
+      "path_titles": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "path_labels": [
+        "mo-ta-hoc-phan-course-descriptions"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 15,
+          "text": "Mô tả học phần.",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 21
+        },
+        {
+          "type": "paragraph",
+          "order": 16,
+          "text": "Lịch sử các học thuyết kinh tế là một môn khoa học xã hội, nghiên cứu quá trình phát sinh, phát triển, đấu tranh và thay thế lẫn nhau của hệ thống các quan điểm kinh tế gắn với các giai đoạn lịch sử nhất định. Lịch sử các học thuyết kinh tế cung cấp cho người học một cách có hệ thống những tư tưởng kinh tế, mà cốt lõi, xuyên suốt là tư tưởng về giá trị hàng hoá. Vì thế, việc nghiên cứu, giảng dạy và học tập môn khoa học này phải đối diện với một khối lượng kiến thức rất rộng lớn, từ thời cổ đại đến hiện đại. Vấn đề cơ bản, xuyên suốt trong môn khoa học này đó là. Thứ nhất, giá trị hàng hoá là gì? nó được hình thành, phân phối, trao đổi và sử dụng như thế nào? Thứ hai, nhà nước có vai trò như thế nào trong việc sản xuất, phân phối, trao đổi và sử dụng giá trị trong tiến trình phát triển của lịch sử",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 22
+        },
+        {
+          "type": "paragraph",
+          "order": 17,
+          "text": "Nội dung chính",
+          "is_list": true,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 23
+        },
+        {
+          "type": "paragraph",
+          "order": 18,
+          "text": "- Đối tượng và phương pháp nghiên cứu Lịch sử các học thuyết kinh tế",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 24
+        },
+        {
+          "type": "paragraph",
+          "order": 19,
+          "text": "- Các tư tưởng kinh tế của chủ nghĩa trọng thương",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 25
+        },
+        {
+          "type": "paragraph",
+          "order": 20,
+          "text": "- Các học thuyết kinh tế học tư sản cổ điển",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 26
+        },
+        {
+          "type": "paragraph",
+          "order": 21,
+          "text": "- Học thuyết kinh tế của trường phái Tân cổ điển",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 27
+        },
+        {
+          "type": "paragraph",
+          "order": 22,
+          "text": "- Học thuyết kinh tế của trường phái Keynes",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 28
+        },
+        {
+          "type": "paragraph",
+          "order": 23,
+          "text": "- Học thuyết kinh tế của Chủ nghĩa tự do mới",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 29
+        },
+        {
+          "type": "paragraph",
+          "order": 24,
+          "text": "- Học thuyết kinh tế của Trường phái Chính hiện đại",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 30
+        },
+        {
+          "type": "paragraph",
+          "order": 25,
+          "text": "- Các học thuyết tăng trưởng và phát triển kinh tế",
+          "is_list": false,
+          "section_path": [
+            "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+          ],
+          "section_labels": [
+            "mo-ta-hoc-phan-course-descriptions"
+          ],
+          "source_block": 31
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec004",
+      "title": "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+      "level": 1,
+      "label": "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec005",
+      "title": "4.1 Giáo trình",
+      "level": 2,
+      "label": "giao-trinh",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+        "4.1 Giáo trình"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+        "giao-trinh"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 26,
+          "text": "[1] PGS.TS Trần Việt Tiến (chủ biên), Giáo trình lịch sử các học thuyết kinh tế, NXB Đại học Kinh tế quốc dân, Hà nội 2019",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+            "4.1 Giáo trình"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+            "giao-trinh"
+          ],
+          "source_block": 34
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec006",
+      "title": "4.2 Tài liệu tham khảo",
+      "level": 2,
+      "label": "tai-lieu-tham-khao",
+      "path_titles": [
+        "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+        "4.2 Tài liệu tham khảo"
+      ],
+      "path_labels": [
+        "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+        "tai-lieu-tham-khao"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 27,
+          "text": "[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên giảng dạy học phần biên soạn.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+            "4.2 Tài liệu tham khảo"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+            "tai-lieu-tham-khao"
+          ],
+          "source_block": 36
+        },
+        {
+          "type": "paragraph",
+          "order": 28,
+          "text": "- Tài liệu tham khảo khác có trên thư viện Trường.",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+            "4.2 Tài liệu tham khảo"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+            "tai-lieu-tham-khao"
+          ],
+          "source_block": 37
+        },
+        {
+          "type": "paragraph",
+          "order": 29,
+          "text": "[3] PGS.TS Trần Bình Trọng (chủ biên), Giáo trình Lịch sử các học thuyết kinh tế, NXB Đại học Kinh tế Quốc dân, Hà Nội 2013",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+            "4.2 Tài liệu tham khảo"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+            "tai-lieu-tham-khao"
+          ],
+          "source_block": 38
+        },
+        {
+          "type": "paragraph",
+          "order": 30,
+          "text": "[4] GS.TS.Mai Ngọc Cường, TS.Trần Việt Tiến ( đồng chủ biên), Hướng dẫn học tập Lịch sử các học thuyết kinh tế, NXB Tài chính, Hà Nội 2010",
+          "is_list": false,
+          "section_path": [
+            "4. TÀI LIỆU HỌC TẬP (Leaning Resources: Course Books, Reference Books, and Softwares)",
+            "4.2 Tài liệu tham khảo"
+          ],
+          "section_labels": [
+            "tai-lieu-hoc-tap-leaning-resources-course-books-reference-books-and-softwares",
+            "tai-lieu-tham-khao"
+          ],
+          "source_block": 39
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec007",
+      "title": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
+      "level": 1,
+      "label": "muc-tieu-hoc-phan-course-goals",
+      "path_titles": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "path_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 31,
+          "text": "Bảng 1. Mục tiêu học phần",
+          "is_list": false,
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 42
+        },
+        {
+          "type": "table",
+          "order": 32,
+          "table_id": "vi-llnl1101#tbl003",
+          "table_name": "Bảng 1. Mục tiêu học phần",
+          "section_path": [
+            "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+          ],
+          "section_labels": [
+            "muc-tieu-hoc-phan-course-goals"
+          ],
+          "source_block": 43,
+          "column_labels": [
+            "Mã/Code (CGx)",
+            "Mô tả mục tiêu học phần (CG)",
+            "CĐR/PLO của CTĐT*"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "[1]",
+                "Mô tả mục tiêu học phần (CG)": "[2]",
+                "CĐR/PLO của CTĐT*": "[3]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "CG1",
+              "cells": [
+                "CG1",
+                "Cung cấp cho người học hệ thống các quan điểm, các học thuyết kinh tế của các trường phái, các đại biểu tiêu biểu trên thế giới gắn với điều kiện lịch sử nhất định",
+                "PLO1.1.1"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "CG1",
+                "Mô tả mục tiêu học phần (CG)": "Cung cấp cho người học hệ thống các quan điểm, các học thuyết kinh tế của các trường phái, các đại biểu tiêu biểu trên thế giới gắn với điều kiện lịch sử nhất định",
+                "CĐR/PLO của CTĐT*": "PLO1.1.1"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "CG2",
+              "cells": [
+                "CG2",
+                "Việc nghiên cứu Lịch sử các học thuyết kinh tế giúp cho người học có những kiến thức để hoạt động có hiệu quả trong nền kinh tế thị trường, tổ chức sản xuất kinh doanh thu được nhiều lợi nhuận nhất, cũng như trang bị cho các nhà kinh tế học, các nhà quản lý kinh tế ở tầm vĩ mô những kiến thức cần thiết trong việc nghiên cứu và xây dựng đường lối, chiến lược và điều hành sự phát triển kinh tế xã hội của đất nước phù hợp với giai đoạn phát triển của lịch sử. Trong điều kiện kinh tế thế giới hiện nay nói chung và của nước ta nói riêng, việc nghiên cứu Lịch sử các học thuyết kinh tế càng cần thiết để hiểu và thực hiện thắng lợi đường lối của Đảng ta trong công cuộc đổi mới",
+                "PLO1.1.1 PLO1.1.2"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "CG2",
+                "Mô tả mục tiêu học phần (CG)": "Việc nghiên cứu Lịch sử các học thuyết kinh tế giúp cho người học có những kiến thức để hoạt động có hiệu quả trong nền kinh tế thị trường, tổ chức sản xuất kinh doanh thu được nhiều lợi nhuận nhất, cũng như trang bị cho các nhà kinh tế học, các nhà quản lý kinh tế ở tầm vĩ mô những kiến thức cần thiết trong việc nghiên cứu và xây dựng đường lối, chiến lược và điều hành sự phát triển kinh tế xã hội của đất nước phù hợp với giai đoạn phát triển của lịch sử. Trong điều kiện kinh tế thế giới hiện nay nói chung và của nước ta nói riêng, việc nghiên cứu Lịch sử các học thuyết kinh tế càng cần thiết để hiểu và thực hiện thắng lợi đường lối của Đảng ta trong công cuộc đổi mới",
+                "CĐR/PLO của CTĐT*": "PLO1.1.1 PLO1.1.2"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "CG3",
+              "cells": [
+                "CG3",
+                "- Có tư duy kinh tế logic hơn, qua đó nâng cao chất lượng nghiên cứu cũng như giải quyết công việc cụ thể trong hoạt động thực tiễn sau khi ra trường. - Gợi ý khả năng vận dụng các quan điểm, lý thuyết đó vào điều kiện nước ta, trên cơ sở đó giúp người học hiểu rõ hơn những thành tựu và hạn chế trong phát triển kinh tế ở nước ta hiện nay, từ đó có biện pháp khắc phục hữu hiệu",
+                "PLO2.1.3 PLO3.1.1 PLO3.2.1"
+              ],
+              "column_map": {
+                "Mã/Code (CGx)": "CG3",
+                "Mô tả mục tiêu học phần (CG)": "- Có tư duy kinh tế logic hơn, qua đó nâng cao chất lượng nghiên cứu cũng như giải quyết công việc cụ thể trong hoạt động thực tiễn sau khi ra trường. - Gợi ý khả năng vận dụng các quan điểm, lý thuyết đó vào điều kiện nước ta, trên cơ sở đó giúp người học hiểu rõ hơn những thành tựu và hạn chế trong phát triển kinh tế ở nước ta hiện nay, từ đó có biện pháp khắc phục hữu hiệu",
+                "CĐR/PLO của CTĐT*": "PLO2.1.3 PLO3.1.1 PLO3.2.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec008",
+      "title": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
+      "level": 1,
+      "label": "chuan-au-ra-hoc-phan-course-learning-outcomes",
+      "path_titles": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "path_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 33,
+          "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "is_list": false,
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 46
+        },
+        {
+          "type": "table",
+          "order": 34,
+          "table_id": "vi-llnl1101#tbl004",
+          "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+          "section_path": [
+            "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+          ],
+          "section_labels": [
+            "chuan-au-ra-hoc-phan-course-learning-outcomes"
+          ],
+          "source_block": 47,
+          "column_labels": [
+            "Mục tiêu",
+            "CLOij",
+            "Mô tả CLO",
+            "Mức độ đạt được"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+              ],
+              "column_map": {
+                "Mục tiêu": "[1]",
+                "CLOij": "[2]",
+                "Mô tả CLO": "[3]",
+                "Mức độ đạt được": "[4]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.1",
+                "Sinh viên nhận biết được hoàn cảnh lịch sử ra đời, những tư tưởng kinh tế chủ yếu của các trường phái kinh tế học trong lịch sử",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G1",
+                "CLOij": "CLO1.1",
+                "Mô tả CLO": "Sinh viên nhận biết được hoàn cảnh lịch sử ra đời, những tư tưởng kinh tế chủ yếu của các trường phái kinh tế học trong lịch sử",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.2",
+                "Hiểu được sự kế thừa cũng như sự khác biệt về nội dung và phương pháp luận của các trường phái kinh tế học trong lịch sử",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G1",
+                "CLOij": "CLO1.2",
+                "Mô tả CLO": "Hiểu được sự kế thừa cũng như sự khác biệt về nội dung và phương pháp luận của các trường phái kinh tế học trong lịch sử",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "G1",
+              "cells": [
+                "G1",
+                "CLO1.3",
+                "Sinh viên nhận biết được Những thành tựu, cũng như những hạn chế của các học thuyết kinh tế. Từ đó rút ra được ý nghĩa về lý luận cũng như ý nghĩa về thực tiễn của các học thuyết kinh tế",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G1",
+                "CLOij": "CLO1.3",
+                "Mô tả CLO": "Sinh viên nhận biết được Những thành tựu, cũng như những hạn chế của các học thuyết kinh tế. Từ đó rút ra được ý nghĩa về lý luận cũng như ý nghĩa về thực tiễn của các học thuyết kinh tế",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO1.3",
+                "Hiểu sâu sắc và hoàn chỉnh các học thuyết kinh tế trong lich sử sẽ giúp cho các doanh nhân tương lai những kiến thức cần thiết để hoạt động có hiệu quảtrong nền kinh tế thị trường. Trang bị cho những nhà kinh tế học, những nhà hoạch định chính sách tương lai những kiến thức cần thiết cho việc nghiên cứu và xây dựng đường lối, chiến lược, điều hành sự phát triển kinh tế -xã hội của đất nước phù hợp với mỗi giai đoạn phát triển của lịch sử.",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G2",
+                "CLOij": "CLO1.3",
+                "Mô tả CLO": "Hiểu sâu sắc và hoàn chỉnh các học thuyết kinh tế trong lich sử sẽ giúp cho các doanh nhân tương lai những kiến thức cần thiết để hoạt động có hiệu quảtrong nền kinh tế thị trường. Trang bị cho những nhà kinh tế học, những nhà hoạch định chính sách tương lai những kiến thức cần thiết cho việc nghiên cứu và xây dựng đường lối, chiến lược, điều hành sự phát triển kinh tế -xã hội của đất nước phù hợp với mỗi giai đoạn phát triển của lịch sử.",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "G2",
+              "cells": [
+                "G2",
+                "CLO2.1",
+                "Phân tích nội dung các học thuyết kinh tế sẽ giúp người học cơ sở lý luận để nghiên cứu các môn khoa học kinh tế khác đặc biệt là các môn khoa học nghiên cứu các vấn đề liên quan đến kinh tế thị trường, kinh tế vĩ mô, kinh tế vi mô, kinh tế phát triển, kinh tế công cộng, thương mại quốc tế, marketing, khoa học quản lý…",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G2",
+                "CLOij": "CLO2.1",
+                "Mô tả CLO": "Phân tích nội dung các học thuyết kinh tế sẽ giúp người học cơ sở lý luận để nghiên cứu các môn khoa học kinh tế khác đặc biệt là các môn khoa học nghiên cứu các vấn đề liên quan đến kinh tế thị trường, kinh tế vĩ mô, kinh tế vi mô, kinh tế phát triển, kinh tế công cộng, thương mại quốc tế, marketing, khoa học quản lý…",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO2.2",
+                "Thực hành kỹ năng làm việc độc lập, làm việc theo nhóm",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G3",
+                "CLOij": "CLO2.2",
+                "Mô tả CLO": "Thực hành kỹ năng làm việc độc lập, làm việc theo nhóm",
+                "Mức độ đạt được": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "G3",
+              "cells": [
+                "G3",
+                "CLO3.1",
+                "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                ""
+              ],
+              "column_map": {
+                "Mục tiêu": "G3",
+                "CLOij": "CLO3.1",
+                "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+                "Mức độ đạt được": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec009",
+      "title": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+      "level": 1,
+      "label": "anh-gia-hoc-phan-course-assessment",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec010",
+      "title": "7.1. Cơ cấu điểm thành phần",
+      "level": 2,
+      "label": "co-cau-iem-thanh-phan",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 35,
+          "text": "Bảng 3. Đánh giá học phần",
+          "is_list": false,
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 50
+        },
+        {
+          "type": "table",
+          "order": 36,
+          "table_id": "vi-llnl1101#tbl005",
+          "table_name": "Bảng 3. Đánh giá học phần",
+          "section_path": [
+            "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+            "7.1. Cơ cấu điểm thành phần"
+          ],
+          "section_labels": [
+            "anh-gia-hoc-phan-course-assessment",
+            "co-cau-iem-thanh-phan"
+          ],
+          "source_block": 51,
+          "column_labels": [
+            "Hình thức đánh giá",
+            "Nội dung/Bài đánh giá",
+            "Thời điểm",
+            "CLOs",
+            "Công cụ và tiêu chí đánh giá",
+            "Tỷ lệ (%)",
+            "CĐR/PLO của CTĐT*"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]",
+                "[7]"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "[1]",
+                "Nội dung/Bài đánh giá": "[2]",
+                "Thời điểm": "[3]",
+                "CLOs": "[4]",
+                "Công cụ và tiêu chí đánh giá": "[5]",
+                "Tỷ lệ (%)": "[6]",
+                "CĐR/PLO của CTĐT*": "[7]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Chuyên cần",
+              "cells": [
+                "Chuyên cần",
+                "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+                "Tất cả các buổi seminar",
+                "4.1 4.2 4.3",
+                "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1",
+                "10%",
+                "PLOij"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Chuyên cần",
+                "Nội dung/Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+                "Thời điểm": "Tất cả các buổi seminar",
+                "CLOs": "4.1 4.2 4.3",
+                "Công cụ và tiêu chí đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1",
+                "Tỷ lệ (%)": "10%",
+                "CĐR/PLO của CTĐT*": "PLOij"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Đánh giá quá trình/giữa kỳ",
+              "cells": [
+                "Đánh giá quá trình/giữa kỳ",
+                "Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình",
+                "Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp",
+                "2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3",
+                "- Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập:",
+                "40%",
+                "…"
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá quá trình/giữa kỳ",
+                "Nội dung/Bài đánh giá": "Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình",
+                "Thời điểm": "Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp",
+                "CLOs": "2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3",
+                "Công cụ và tiêu chí đánh giá": "- Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập:",
+                "Tỷ lệ (%)": "40%",
+                "CĐR/PLO của CTĐT*": "…"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đánh giá cuối kỳ",
+              "cells": [
+                "Đánh giá cuối kỳ",
+                "Toàn bộ nội dung học (ngoại trừ phần thực hành)",
+                "Theo lịch của Trường",
+                "1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3",
+                "Bài thi tự luận trên giấy Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi",
+                "50%",
+                ""
+              ],
+              "column_map": {
+                "Hình thức đánh giá": "Đánh giá cuối kỳ",
+                "Nội dung/Bài đánh giá": "Toàn bộ nội dung học (ngoại trừ phần thực hành)",
+                "Thời điểm": "Theo lịch của Trường",
+                "CLOs": "1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3",
+                "Công cụ và tiêu chí đánh giá": "Bài thi tự luận trên giấy Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi",
+                "Tỷ lệ (%)": "50%",
+                "CĐR/PLO của CTĐT*": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec011",
+      "title": "7.2. Ma trận đề thi (phụ lục 1)",
+      "level": 2,
+      "label": "ma-tran-e-thi-phu-luc-1",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.2. Ma trận đề thi (phụ lục 1)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "ma-tran-e-thi-phu-luc-1"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec012",
+      "title": "7.3. Các rubrics (phụ lục 2)",
+      "level": 2,
+      "label": "cac-rubrics-phu-luc-2",
+      "path_titles": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.3. Các rubrics (phụ lục 2)"
+      ],
+      "path_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "cac-rubrics-phu-luc-2"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec013",
+      "title": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
+      "level": 1,
+      "label": "ke-hoach-day-hoc-lesson-plan",
+      "path_titles": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "path_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 37,
+          "text": "Bảng 4. Kế hoạch và Nội dung dạy học",
+          "is_list": false,
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 58
+        },
+        {
+          "type": "table",
+          "order": 38,
+          "table_id": "vi-llnl1101#tbl006",
+          "table_name": "Bảng 4. Kế hoạch và Nội dung dạy học",
+          "section_path": [
+            "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+          ],
+          "section_labels": [
+            "ke-hoach-day-hoc-lesson-plan"
+          ],
+          "source_block": 59,
+          "column_labels": [
+            "Tuần",
+            "Nội dung",
+            "Tài liệu đọc",
+            "Hoạt động dạy và học",
+            "Đánh giá",
+            "CLOs"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "[1]",
+              "cells": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]",
+                "[5]",
+                "[6]"
+              ],
+              "column_map": {
+                "Tuần": "[1]",
+                "Nội dung": "[2]",
+                "Tài liệu đọc": "[3]",
+                "Hoạt động dạy và học": "[4]",
+                "Đánh giá": "[5]",
+                "CLOs": "[6]"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "1",
+              "cells": [
+                "1",
+                "Lecture 1. Chương 1: Đối tượng và phương pháp nghiên cứu của môn lịch sử các học thuyết kinh tế 1.1.Đối tượng nghiên cứu lịch sử các học thuyết kinh tế 1.2 Phương pháp nghiên cứu 1.3. Ý nghĩa của việc nghiên cứu",
+                "[1] chương 1 [2] Chương 1 [3] Chương 1",
+                "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "1",
+                "Nội dung": "Lecture 1. Chương 1: Đối tượng và phương pháp nghiên cứu của môn lịch sử các học thuyết kinh tế 1.1.Đối tượng nghiên cứu lịch sử các học thuyết kinh tế 1.2 Phương pháp nghiên cứu 1.3. Ý nghĩa của việc nghiên cứu",
+                "Tài liệu đọc": "[1] chương 1 [2] Chương 1 [3] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "2",
+              "cells": [
+                "2",
+                "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm Chia nhóm và giao các chủ đề thảo luận cho các nhóm",
+                "[1] chương 1 [2] Chương 1 [3] Chương 1",
+                "Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 1",
+                "... …"
+              ],
+              "column_map": {
+                "Tuần": "2",
+                "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm Chia nhóm và giao các chủ đề thảo luận cho các nhóm",
+                "Tài liệu đọc": "[1] chương 1 [2] Chương 1 [3] Chương 1",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 1",
+                "CLOs": "... …"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Lecture 2. Chương 2: Tư tưởng kinh tế của chủ nghĩa trọng thương 2.1 Hoàn cảnh ra đời chủ nghĩa trọng thương 2.2 Những tư tưởng kinh tế chủ yếu của CNTT 2.3Sự phát triển của CNTT ở các nước Tây Âu thế kỷ VIV – XV 2.4 Quá trình suy thoái của CNTT",
+                "[1] chương2 [2] Chương 2 [3] Chương 2",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2",
+                "…",
+                "…"
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Lecture 2. Chương 2: Tư tưởng kinh tế của chủ nghĩa trọng thương 2.1 Hoàn cảnh ra đời chủ nghĩa trọng thương 2.2 Những tư tưởng kinh tế chủ yếu của CNTT 2.3Sự phát triển của CNTT ở các nước Tây Âu thế kỷ VIV – XV 2.4 Quá trình suy thoái của CNTT",
+                "Tài liệu đọc": "[1] chương2 [2] Chương 2 [3] Chương 2",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2",
+                "Đánh giá": "…",
+                "CLOs": "…"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "3",
+              "cells": [
+                "3",
+                "Seminar 2 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày chủ đề 1, chủ đề 2",
+                "[1] chương 1, 2 [2] Chương 1, 2 [3] Chương 1,2",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 2",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "3",
+                "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày chủ đề 1, chủ đề 2",
+                "Tài liệu đọc": "[1] chương 1, 2 [2] Chương 1, 2 [3] Chương 1,2",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 2",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "4",
+              "cells": [
+                "4",
+                "Lecture3. Chương 3: Các học thuyết kinh tế học tư sản cổ điển 3.1 Chủ nghĩa Trọng nông 3.2 Trường phái Kinh tế chính trị tư sản cổ điển Anh 3.3 Các học thuyết kinh tế chính trị học hậu cổ điển Chương 3: Kinh tế chính trị học của C.Mác (Giới thiệu qua chương này vì học thuyết này sinh viên đã được học ở học phần KTCT học Mác-Lênin)",
+                "1] chương 3 [2] Chương 3 [3] Chương 3",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "4",
+                "Nội dung": "Lecture3. Chương 3: Các học thuyết kinh tế học tư sản cổ điển 3.1 Chủ nghĩa Trọng nông 3.2 Trường phái Kinh tế chính trị tư sản cổ điển Anh 3.3 Các học thuyết kinh tế chính trị học hậu cổ điển Chương 3: Kinh tế chính trị học của C.Mác (Giới thiệu qua chương này vì học thuyết này sinh viên đã được học ở học phần KTCT học Mác-Lênin)",
+                "Tài liệu đọc": "1] chương 3 [2] Chương 3 [3] Chương 3",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "5",
+              "cells": [
+                "5",
+                "Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày chủ đề 3, chủ để 4",
+                "[1] chương 5 [2] Chương 5 [3] Chương 5",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 3",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "5",
+                "Nội dung": "Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày chủ đề 3, chủ để 4",
+                "Tài liệu đọc": "[1] chương 5 [2] Chương 5 [3] Chương 5",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 3",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "6",
+              "cells": [
+                "6",
+                "Lecture 4. Chương 5 : Các học thuyết kinh tế của Trường phái Tân cổ điển 5.1 Hoàn cảnh ra đời và đặc điểm của trường phái Tân cổ điển 5.2 Định luật nhu cầu của Gossen 5.3 Các học thuyết KT của trường phái Thành Viene (Áo) 5.4 Các học thuyết của trường phái thành Lausan (Thụy Sĩ) 5.5 Các học thuyết của trường phái Tân cổ điển ở Mỹ 5.6 Học thuyết KT của trường phái Camridge (Anh)",
+                "[1] chương 5 [2]Chương 5 [3] Chương 5",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "6",
+                "Nội dung": "Lecture 4. Chương 5 : Các học thuyết kinh tế của Trường phái Tân cổ điển 5.1 Hoàn cảnh ra đời và đặc điểm của trường phái Tân cổ điển 5.2 Định luật nhu cầu của Gossen 5.3 Các học thuyết KT của trường phái Thành Viene (Áo) 5.4 Các học thuyết của trường phái thành Lausan (Thụy Sĩ) 5.5 Các học thuyết của trường phái Tân cổ điển ở Mỹ 5.6 Học thuyết KT của trường phái Camridge (Anh)",
+                "Tài liệu đọc": "[1] chương 5 [2]Chương 5 [3] Chương 5",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "7",
+              "cells": [
+                "7",
+                "Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Các nhóm được phân công trình bày chủ đề 5, chủ để 6",
+                "",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 4",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "7",
+                "Nội dung": "Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Các nhóm được phân công trình bày chủ đề 5, chủ để 6",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 4",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 9,
+              "row_label": "8",
+              "cells": [
+                "8",
+                "Lecture 5. Chương 6: Các học thuyết kinh tế của Trường phái Keynes",
+                "[1] chương 6 [2]Chương 6 [3] Chương 6",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "8",
+                "Nội dung": "Lecture 5. Chương 6: Các học thuyết kinh tế của Trường phái Keynes",
+                "Tài liệu đọc": "[1] chương 6 [2]Chương 6 [3] Chương 6",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 10,
+              "row_label": "9",
+              "cells": [
+                "9",
+                "Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Các nhóm được phân công trình bày chủ đề 7 - Hướng dẫn làm bài tập cá nhân giữa kỳ",
+                "",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 5",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "9",
+                "Nội dung": "Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Các nhóm được phân công trình bày chủ đề 7 - Hướng dẫn làm bài tập cá nhân giữa kỳ",
+                "Tài liệu đọc": "",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 5",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 11,
+              "row_label": "10",
+              "cells": [
+                "10",
+                "Lecture 6. Chương 7: Các học thuyết của Trường phái tự do mới",
+                "[1] chương 7 [2]Chương 7 [3] Chương 7",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "10",
+                "Nội dung": "Lecture 6. Chương 7: Các học thuyết của Trường phái tự do mới",
+                "Tài liệu đọc": "[1] chương 7 [2]Chương 7 [3] Chương 7",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 12,
+              "row_label": "11",
+              "cells": [
+                "11",
+                "Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Các nhóm được phân công trình bày chủ đề 8, chủ để 9",
+                "[1] chương 7 [2]Chương 7 [3] Chương 7",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 6",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "11",
+                "Nội dung": "Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Các nhóm được phân công trình bày chủ đề 8, chủ để 9",
+                "Tài liệu đọc": "[1] chương 7 [2]Chương 7 [3] Chương 7",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 6",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 13,
+              "row_label": "12",
+              "cells": [
+                "12",
+                "Lecture 7. Chương 8: Học thuyết kinh tế của Trường phái Chính hiện đại",
+                "[1] chương 8 [2]Chương 8 [3] Chương 8",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "12",
+                "Nội dung": "Lecture 7. Chương 8: Học thuyết kinh tế của Trường phái Chính hiện đại",
+                "Tài liệu đọc": "[1] chương 8 [2]Chương 8 [3] Chương 8",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 14,
+              "row_label": "13",
+              "cells": [
+                "13",
+                "Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 7 - Các nhóm được phân công trình bày chủ đề 10, chủ để 11",
+                "[1] chương 8 [2]Chương 8 [3] Chương 8",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 7",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "13",
+                "Nội dung": "Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 7 - Các nhóm được phân công trình bày chủ đề 10, chủ để 11",
+                "Tài liệu đọc": "[1] chương 8 [2]Chương 8 [3] Chương 8",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 7",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 15,
+              "row_label": "14",
+              "cells": [
+                "14",
+                "Lecture 8. Chương 9: Học thuyết kinh tế tăng trưởng và phát triển kinh tế",
+                "[1] chương 9 [2]Chương 9 [3] Chương 9",
+                "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 8",
+                "",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "14",
+                "Nội dung": "Lecture 8. Chương 9: Học thuyết kinh tế tăng trưởng và phát triển kinh tế",
+                "Tài liệu đọc": "[1] chương 9 [2]Chương 9 [3] Chương 9",
+                "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 8",
+                "Đánh giá": "",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 16,
+              "row_label": "15",
+              "cells": [
+                "15",
+                "Seminar 8 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 8 - Các nhóm được phân công trình bày chủ đề 12 chủ để 13",
+                "[1] chương 9 [2]Chương 9 [3] Chương 9",
+                "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "- Điểm danh - Trả lời câu hỏi trong slide seminar 8",
+                ""
+              ],
+              "column_map": {
+                "Tuần": "15",
+                "Nội dung": "Seminar 8 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 8 - Các nhóm được phân công trình bày chủ đề 12 chủ để 13",
+                "Tài liệu đọc": "[1] chương 9 [2]Chương 9 [3] Chương 9",
+                "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+                "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 8",
+                "CLOs": ""
+              }
+            },
+            {
+              "row_index": 17,
+              "row_label": "Lịch thi",
+              "cells": [
+                "Lịch thi",
+                "Thi cuối kỳ",
+                "[1] Toàn bộ các chương [2] Toàn bộ các chương [3] Các chương liên quan",
+                "Thi tự luận trên giấy",
+                "Xem Phụ lục 1: ma trận đề thi",
+                "Xem Bảng 3"
+              ],
+              "column_map": {
+                "Tuần": "Lịch thi",
+                "Nội dung": "Thi cuối kỳ",
+                "Tài liệu đọc": "[1] Toàn bộ các chương [2] Toàn bộ các chương [3] Các chương liên quan",
+                "Hoạt động dạy và học": "Thi tự luận trên giấy",
+                "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+                "CLOs": "Xem Bảng 3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec014",
+      "title": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)",
+      "level": 1,
+      "label": "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment",
+      "path_titles": [
+        "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
+      ],
+      "path_labels": [
+        "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 39,
+          "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
+          "is_list": false,
+          "section_path": [
+            "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Leaning Outcomes Assessment)"
+          ],
+          "section_labels": [
+            "anh-gia-chuan-au-ra-hoc-phan-course-leaning-outcomes-assessment"
+          ],
+          "source_block": 64
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec015",
+      "title": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+      "level": 1,
+      "label": "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec016",
+      "title": "10.1. Quy định về điều kiện thi kết thúc học phần",
+      "level": 2,
+      "label": "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.1. Quy định về điều kiện thi kết thúc học phần"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 40,
+          "text": "Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 67
+        },
+        {
+          "type": "paragraph",
+          "order": 41,
+          "text": "Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.1. Quy định về điều kiện thi kết thúc học phần"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-ieu-kien-thi-ket-thuc-hoc-phan"
+          ],
+          "source_block": 68
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec017",
+      "title": "10.2 Quy định về tham dự lớp học (nếu có)",
+      "level": 2,
+      "label": "quy-inh-ve-tham-du-lop-hoc-neu-co",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.2 Quy định về tham dự lớp học (nếu có)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-tham-du-lop-hoc-neu-co"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 42,
+          "text": "Học viên có trách nhiệm tham dự đầy đủ các buổi học.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2 Quy định về tham dự lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc-neu-co"
+          ],
+          "source_block": 70
+        },
+        {
+          "type": "paragraph",
+          "order": 43,
+          "text": "Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.2 Quy định về tham dự lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-tham-du-lop-hoc-neu-co"
+          ],
+          "source_block": 71
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec018",
+      "title": "10.3. Quy định về hành vi trong lớp học (nếu có)",
+      "level": 2,
+      "label": "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co",
+      "path_titles": [
+        "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+        "10.3. Quy định về hành vi trong lớp học (nếu có)"
+      ],
+      "path_labels": [
+        "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+        "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 44,
+          "text": "Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 73
+        },
+        {
+          "type": "paragraph",
+          "order": 45,
+          "text": "Ghi chép đầy đủ, tham gia trả lời câu hỏi;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 74
+        },
+        {
+          "type": "paragraph",
+          "order": 46,
+          "text": "Đọc trước tài liệu được yêu cầu;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 75
+        },
+        {
+          "type": "paragraph",
+          "order": 47,
+          "text": "Làm các bài tập về nhà;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 76
+        },
+        {
+          "type": "paragraph",
+          "order": 48,
+          "text": "Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 77
+        },
+        {
+          "type": "paragraph",
+          "order": 49,
+          "text": "Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
+          "is_list": true,
+          "section_path": [
+            "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
+            "10.3. Quy định về hành vi trong lớp học (nếu có)"
+          ],
+          "section_labels": [
+            "quy-inh-cua-hoc-phan-course-requirements-and-expectation",
+            "quy-inh-ve-hanh-vi-trong-lop-hoc-neu-co"
+          ],
+          "source_block": 78
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec019",
+      "title": "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
+      "level": 1,
+      "label": "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time",
+      "path_titles": [
+        "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "path_labels": [
+        "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 50,
+          "text": "Tháng 6 năm 2024",
+          "is_list": false,
+          "section_path": [
+            "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 80
+        },
+        {
+          "type": "table",
+          "order": 51,
+          "table_id": "vi-llnl1101#tbl007",
+          "table_name": "Tháng 6 năm 2024",
+          "section_path": [
+            "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+          ],
+          "section_labels": [
+            "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+          ],
+          "source_block": 82,
+          "column_labels": [
+            "TRƯỞNG KHOA",
+            "HIỆU TRƯỞNG"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "TS Nguyễn Thị Hoàn",
+              "cells": [
+                "TS Nguyễn Thị Hoàn",
+                "GS.TS Phạm Hồng Chương"
+              ],
+              "column_map": {
+                "TRƯỞNG KHOA": "TS Nguyễn Thị Hoàn",
+                "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec020",
+      "title": "Phụ lục",
+      "level": 1,
+      "label": "appendix",
+      "path_titles": [
+        "Phụ lục"
+      ],
+      "path_labels": [
+        "appendix"
+      ],
+      "content": []
+    },
+    {
+      "section_id": "vi-llnl1101#sec021",
+      "title": "Phụ lục 1: MA TRẬN ĐỀ THI",
+      "level": 2,
+      "label": "phu-luc-1-ma-tran-e-thi",
+      "path_titles": [
+        "Phụ lục",
+        "Phụ lục 1: MA TRẬN ĐỀ THI"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 52,
+          "text": "Trọng số trong điểm học phần: 50%",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 96
+        },
+        {
+          "type": "paragraph",
+          "order": 53,
+          "text": "Hình thức: Thi tự luận trên giấy",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 97
+        },
+        {
+          "type": "paragraph",
+          "order": 54,
+          "text": "Thời gian: 60 phút",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 98
+        },
+        {
+          "type": "paragraph",
+          "order": 55,
+          "text": "Số đề thi : 6 đề mỗi đề 4 câu ( thang điểm 10)",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 99
+        },
+        {
+          "type": "paragraph",
+          "order": 56,
+          "text": "+ 1 Câu hỏi nhớ : 1,5 điểm",
+          "is_list": true,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 100
+        },
+        {
+          "type": "paragraph",
+          "order": 57,
+          "text": "+ 2 Câu hỏi hiểu mỗi câu : 2, 5 điểm",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 101
+        },
+        {
+          "type": "paragraph",
+          "order": 58,
+          "text": "+ 1 Câu hỏi vận dụng: 3,5 điểm",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 102
+        },
+        {
+          "type": "table",
+          "order": 59,
+          "table_id": "vi-llnl1101#tbl008",
+          "table_name": null,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 1: MA TRẬN ĐỀ THI"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-1-ma-tran-e-thi"
+          ],
+          "source_block": 104,
+          "column_labels": [
+            "Bài",
+            "CLO",
+            "Nhớ",
+            "Hiểu",
+            "Vận dụng",
+            "Tổng"
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Lecture 2",
+              "cells": [
+                "Lecture 2",
+                "1.2, 1.3",
+                "1",
+                "1",
+                "1",
+                "3"
+              ],
+              "column_map": {
+                "Bài": "Lecture 2",
+                "CLO": "1.2, 1.3",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "1",
+                "Tổng": "3"
+              }
+            },
+            {
+              "row_index": 1,
+              "row_label": "Lecture 4",
+              "cells": [
+                "Lecture 4",
+                "1.1, 2.1",
+                "1",
+                "1",
+                "1",
+                "3"
+              ],
+              "column_map": {
+                "Bài": "Lecture 4",
+                "CLO": "1.1, 2.1",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "1",
+                "Tổng": "3"
+              }
+            },
+            {
+              "row_index": 2,
+              "row_label": "Lecture 5",
+              "cells": [
+                "Lecture 5",
+                "1.5, 2.5",
+                "1",
+                "1",
+                "1",
+                "3"
+              ],
+              "column_map": {
+                "Bài": "Lecture 5",
+                "CLO": "1.5, 2.5",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "1",
+                "Tổng": "3"
+              }
+            },
+            {
+              "row_index": 3,
+              "row_label": "Lecture 6",
+              "cells": [
+                "Lecture 6",
+                "1.2, 3.3",
+                "1",
+                "1",
+                "1",
+                "3"
+              ],
+              "column_map": {
+                "Bài": "Lecture 6",
+                "CLO": "1.2, 3.3",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "1",
+                "Tổng": "3"
+              }
+            },
+            {
+              "row_index": 4,
+              "row_label": "Lecture 7",
+              "cells": [
+                "Lecture 7",
+                "1.2, 3.3",
+                "1",
+                "1",
+                "2",
+                "4"
+              ],
+              "column_map": {
+                "Bài": "Lecture 7",
+                "CLO": "1.2, 3.3",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "2",
+                "Tổng": "4"
+              }
+            },
+            {
+              "row_index": 5,
+              "row_label": "Lecture 8",
+              "cells": [
+                "Lecture 8",
+                "1.2, 3.3",
+                "1",
+                "1",
+                "2",
+                "4"
+              ],
+              "column_map": {
+                "Bài": "Lecture 8",
+                "CLO": "1.2, 3.3",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "2",
+                "Tổng": "4"
+              }
+            },
+            {
+              "row_index": 6,
+              "row_label": "Câu hỏi tổng hợp",
+              "cells": [
+                "Câu hỏi tổng hợp",
+                "3.1, 3.2, 3.4",
+                "1",
+                "1",
+                "1",
+                "3"
+              ],
+              "column_map": {
+                "Bài": "Câu hỏi tổng hợp",
+                "CLO": "3.1, 3.2, 3.4",
+                "Nhớ": "1",
+                "Hiểu": "1",
+                "Vận dụng": "1",
+                "Tổng": "3"
+              }
+            },
+            {
+              "row_index": 7,
+              "row_label": "Tổng số câu",
+              "cells": [
+                "Tổng số câu",
+                "Tổng số câu",
+                "7",
+                "8",
+                "9",
+                "24"
+              ],
+              "column_map": {
+                "Bài": "Tổng số câu",
+                "CLO": "Tổng số câu",
+                "Nhớ": "7",
+                "Hiểu": "8",
+                "Vận dụng": "9",
+                "Tổng": "24"
+              }
+            },
+            {
+              "row_index": 8,
+              "row_label": "Tỷ lrọng",
+              "cells": [
+                "Tỷ lrọng",
+                "Tỷ lrọng",
+                "30%",
+                "33%",
+                "37%",
+                "100%"
+              ],
+              "column_map": {
+                "Bài": "Tỷ lrọng",
+                "CLO": "Tỷ lrọng",
+                "Nhớ": "30%",
+                "Hiểu": "33%",
+                "Vận dụng": "37%",
+                "Tổng": "100%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "vi-llnl1101#sec022",
+      "title": "Phụ lục 2: Các rubric",
+      "level": 2,
+      "label": "phu-luc-2-cac-rubric",
+      "path_titles": [
+        "Phụ lục",
+        "Phụ lục 2: Các rubric"
+      ],
+      "path_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "order": 60,
+          "text": "Rubric 1: Chuyên cần/Participant",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 107
+        },
+        {
+          "type": "table",
+          "order": 61,
+          "table_id": "vi-llnl1101#tbl009",
+          "table_name": "Rubric 1: Chuyên cần/Participant",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 108,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Số buổi có mặt trên lớp",
+              "cells": [
+                "Số buổi có mặt trên lớp",
+                "50%",
+                "15 buổi",
+                "14 buổi",
+                "13 buổi",
+                "12 buổi"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Thái độ học tập trên lớp",
+              "cells": [
+                "Thái độ học tập trên lớp",
+                "30%",
+                "Nghiêm túc, chấp hành kỷ luật lớp học giữ trật tự",
+                "Bị nhắc nhở 1 lần",
+                "Bị nhắc từ 2 lần",
+                "Bị nhắc nhở nhiều lần"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Tích cực xây dựng bài",
+              "cells": [
+                "Tích cực xây dựng bài",
+                "20%",
+                "Trả lời đúng nhiều câu hỏi",
+                "Trả lời đúng một câu hỏi",
+                "Có tham gia thảo luận",
+                "Không tham gia thảo luận"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 62,
+          "text": "Rubric 2: Bài tập nhóm",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 110
+        },
+        {
+          "type": "table",
+          "order": 63,
+          "table_id": "vi-llnl1101#tbl010",
+          "table_name": "Rubric 2: Bài tập nhóm",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 111,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+              "cells": [
+                "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+                "30%",
+                "Đầy đủ nội dung, có sáng tạo",
+                "Đầy đủ nội dung",
+                "đầy đủ nội dung",
+                "Chưa đầy đủ"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Kỹ năng Thuyết trình",
+              "cells": [
+                "Kỹ năng Thuyết trình",
+                "30%",
+                "Có kịch bản hay, thuyết trình lưu loát",
+                "Có kịch bản, thuyết trình tốt",
+                "Thuyết trình đạt yêu cầu",
+                "Không đạt yeey cầu"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Trả lời các câu hỏi của các nhóm",
+              "cells": [
+                "Trả lời các câu hỏi của các nhóm",
+                "20%",
+                "Trả lời đúng trên 5 câu hỏi",
+                "Trả lời đúng từ 1 đến 4 câu hỏi",
+                "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+                "Không trả lời câu hỏi nào."
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "Trả lời các câu hỏi của giáo viên",
+              "cells": [
+                "Trả lời các câu hỏi của giáo viên",
+                "20%",
+                "Trả lời đúng trên 5 câu hỏi",
+                "Trả lời đúng từ 1 đến 4 câu hỏi",
+                "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+                "Không trả lời câu hỏi nào."
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 64,
+          "text": "Rubric 3 : Bài tập cá nhân",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 113
+        },
+        {
+          "type": "table",
+          "order": 65,
+          "table_id": "vi-llnl1101#tbl011",
+          "table_name": "Rubric 3 : Bài tập cá nhân",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 114,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Nộp đúng thời hạn quy định",
+              "cells": [
+                "Nộp đúng thời hạn quy định",
+                "10%",
+                "Nộp đúng thời gian quy đinh",
+                "Nộp không đúng hạn 1 ngày",
+                "Nộp không đúng hạn 3 ngày",
+                "Nộp không đúng hạn 5 ngày"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Hệ thống được những vấn đề lý luận",
+              "cells": [
+                "Hệ thống được những vấn đề lý luận",
+                "20%",
+                "Luận giải đầy đủ cơ sở lý luận",
+                "Luận giải được ¾ cơ sở lý luận",
+                "Luận giải được ½ cơ sở lý luận",
+                "Không liên hệ được"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+              "cells": [
+                "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+                "30%",
+                "Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ",
+                "Số liệu tương đối cập nhật, phân tích khái quát",
+                "Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu",
+                "Khảo sát sơ sài"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 4,
+              "row_label": "Đề xuất được một số giải pháp",
+              "cells": [
+                "Đề xuất được một số giải pháp",
+                "30%",
+                "Các giải pháp hay, có tính khả thi",
+                "Các giải pháp tương đối khả thi",
+                "Giải pháp sơ sài",
+                "Không đưa ra được giải pháp"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 5,
+              "row_label": "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+              "cells": [
+                "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+                "5%",
+                "Nộp đúng thời gian quy đinh",
+                "Nộp không đúng hạn 1 ngày",
+                "Nộp không đúng hạn 3 ngày",
+                "Nộp không đúng hạn 5 ngày"
+              ],
+              "column_map": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "order": 66,
+          "text": "Rubric 4 : Bài thi cuối kỳ",
+          "is_list": false,
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 116
+        },
+        {
+          "type": "table",
+          "order": 67,
+          "table_id": "vi-llnl1101#tbl012",
+          "table_name": "Rubric 4 : Bài thi cuối kỳ",
+          "section_path": [
+            "Phụ lục",
+            "Phụ lục 2: Các rubric"
+          ],
+          "section_labels": [
+            "appendix",
+            "phu-luc-2-cac-rubric"
+          ],
+          "source_block": 117,
+          "column_labels": null,
+          "rows": [
+            {
+              "row_index": 0,
+              "row_label": "Các đánh giá/Areas of assessment",
+              "cells": [
+                "Các đánh giá/Areas of assessment",
+                "Tỷ trọng/ Weighting (%)",
+                "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+                "Hoàn thành tốt/Good 6.5 – 8.4 point",
+                "Hoàn thành/Fair 4.0 – 6.4 point",
+                "Không hoàn thành/Poor 0 – 3.9 point"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 1,
+              "row_label": "Trình bày những kiến thức của nội dung được hỏi",
+              "cells": [
+                "Trình bày những kiến thức của nội dung được hỏi",
+                "40%",
+                "Trình bày đầy đủ những kiến thức của nội dung được hỏi",
+                "Trình bày được ¾ những kiến thức của nội dung được hỏi",
+                "Trình bày được ½ những kiến thức của nội dung được hỏi",
+                "Trình bày được ít hơn 1/3 những kiến thức của nội dung được hỏi"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 2,
+              "row_label": "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn trên cơ sở các học thuyết kinh tế đã học",
+              "cells": [
+                "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn trên cơ sở các học thuyết kinh tế đã học",
+                "30%",
+                "Luận giải đầy đủ cơ sở lý luận có gắn với thực tiễn",
+                "Luận giải được ¾ cơ sở lý luận có gắn với thực tiễn",
+                "Luận giải được ½ cơ sở lý luận có gắn với thực tiễn",
+                "Không luận giải được"
+              ],
+              "column_map": null
+            },
+            {
+              "row_index": 3,
+              "row_label": "Đảm bảo tập trung nhất quán, không lạc đề",
+              "cells": [
+                "Đảm bảo tập trung nhất quán, không lạc đề",
+                "30%",
+                "Có phân tích logic, không lạc đề",
+                "Không lạc đề",
+                "Không tập trung nhất quán",
+                "Lạc đề"
+              ],
+              "column_map": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "type": "table",
+      "order": 0,
+      "table_id": "vi-llnl1101#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "source_block": 0,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+          "cells": [
+            "BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG ĐẠI HỌC KINH TẾ QUỐC DÂN",
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": null,
+          "cells": [
+            "",
+            ""
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+          "cells": [
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)",
+            "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN (Detailed Course Syllabus)"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+          "cells": [
+            "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)",
+            "(Ban hành kèm theo Quyết định số 628 QĐ/ĐHKTQD ngày 18 tháng 6 năm 2024)"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 14,
+      "table_id": "vi-llnl1101#tbl002",
+      "table_name": "Giảng viên giảng dạy học phần:",
+      "section_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "section_labels": [
+        "faculty_and_instructors"
+      ],
+      "source_block": 18,
+      "column_labels": [
+        "STT",
+        "Họ và tên",
+        "Email NEU"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "PGS.TS Trần Việt Tiến",
+            "tientv@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "1",
+            "Họ và tên": "PGS.TS Trần Việt Tiến",
+            "Email NEU": "tientv@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "PGS.TS Nguyễn Thị Thanh Hiếu",
+            "hieunt@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "2",
+            "Họ và tên": "PGS.TS Nguyễn Thị Thanh Hiếu",
+            "Email NEU": "hieunt@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "TS Nguyễn Thị Hào",
+            "haont@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "3",
+            "Họ và tên": "TS Nguyễn Thị Hào",
+            "Email NEU": "haont@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "TS Mai Lan Hương",
+            "huongml@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "4",
+            "Họ và tên": "TS Mai Lan Hương",
+            "Email NEU": "huongml@neu.edu.vn"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "TS Nguyễn Văn Hậu",
+            "nvhau@neu.edu.vn"
+          ],
+          "column_map": {
+            "STT": "5",
+            "Họ và tên": "TS Nguyễn Văn Hậu",
+            "Email NEU": "nvhau@neu.edu.vn"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 32,
+      "table_id": "vi-llnl1101#tbl003",
+      "table_name": "Bảng 1. Mục tiêu học phần",
+      "section_path": [
+        "5. MỤC TIÊU HỌC PHẦN (Course Goals)"
+      ],
+      "section_labels": [
+        "muc-tieu-hoc-phan-course-goals"
+      ],
+      "source_block": 43,
+      "column_labels": [
+        "Mã/Code (CGx)",
+        "Mô tả mục tiêu học phần (CG)",
+        "CĐR/PLO của CTĐT*"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "[1]",
+            "Mô tả mục tiêu học phần (CG)": "[2]",
+            "CĐR/PLO của CTĐT*": "[3]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "CG1",
+          "cells": [
+            "CG1",
+            "Cung cấp cho người học hệ thống các quan điểm, các học thuyết kinh tế của các trường phái, các đại biểu tiêu biểu trên thế giới gắn với điều kiện lịch sử nhất định",
+            "PLO1.1.1"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "CG1",
+            "Mô tả mục tiêu học phần (CG)": "Cung cấp cho người học hệ thống các quan điểm, các học thuyết kinh tế của các trường phái, các đại biểu tiêu biểu trên thế giới gắn với điều kiện lịch sử nhất định",
+            "CĐR/PLO của CTĐT*": "PLO1.1.1"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "CG2",
+          "cells": [
+            "CG2",
+            "Việc nghiên cứu Lịch sử các học thuyết kinh tế giúp cho người học có những kiến thức để hoạt động có hiệu quả trong nền kinh tế thị trường, tổ chức sản xuất kinh doanh thu được nhiều lợi nhuận nhất, cũng như trang bị cho các nhà kinh tế học, các nhà quản lý kinh tế ở tầm vĩ mô những kiến thức cần thiết trong việc nghiên cứu và xây dựng đường lối, chiến lược và điều hành sự phát triển kinh tế xã hội của đất nước phù hợp với giai đoạn phát triển của lịch sử. Trong điều kiện kinh tế thế giới hiện nay nói chung và của nước ta nói riêng, việc nghiên cứu Lịch sử các học thuyết kinh tế càng cần thiết để hiểu và thực hiện thắng lợi đường lối của Đảng ta trong công cuộc đổi mới",
+            "PLO1.1.1 PLO1.1.2"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "CG2",
+            "Mô tả mục tiêu học phần (CG)": "Việc nghiên cứu Lịch sử các học thuyết kinh tế giúp cho người học có những kiến thức để hoạt động có hiệu quả trong nền kinh tế thị trường, tổ chức sản xuất kinh doanh thu được nhiều lợi nhuận nhất, cũng như trang bị cho các nhà kinh tế học, các nhà quản lý kinh tế ở tầm vĩ mô những kiến thức cần thiết trong việc nghiên cứu và xây dựng đường lối, chiến lược và điều hành sự phát triển kinh tế xã hội của đất nước phù hợp với giai đoạn phát triển của lịch sử. Trong điều kiện kinh tế thế giới hiện nay nói chung và của nước ta nói riêng, việc nghiên cứu Lịch sử các học thuyết kinh tế càng cần thiết để hiểu và thực hiện thắng lợi đường lối của Đảng ta trong công cuộc đổi mới",
+            "CĐR/PLO của CTĐT*": "PLO1.1.1 PLO1.1.2"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "CG3",
+          "cells": [
+            "CG3",
+            "- Có tư duy kinh tế logic hơn, qua đó nâng cao chất lượng nghiên cứu cũng như giải quyết công việc cụ thể trong hoạt động thực tiễn sau khi ra trường. - Gợi ý khả năng vận dụng các quan điểm, lý thuyết đó vào điều kiện nước ta, trên cơ sở đó giúp người học hiểu rõ hơn những thành tựu và hạn chế trong phát triển kinh tế ở nước ta hiện nay, từ đó có biện pháp khắc phục hữu hiệu",
+            "PLO2.1.3 PLO3.1.1 PLO3.2.1"
+          ],
+          "column_map": {
+            "Mã/Code (CGx)": "CG3",
+            "Mô tả mục tiêu học phần (CG)": "- Có tư duy kinh tế logic hơn, qua đó nâng cao chất lượng nghiên cứu cũng như giải quyết công việc cụ thể trong hoạt động thực tiễn sau khi ra trường. - Gợi ý khả năng vận dụng các quan điểm, lý thuyết đó vào điều kiện nước ta, trên cơ sở đó giúp người học hiểu rõ hơn những thành tựu và hạn chế trong phát triển kinh tế ở nước ta hiện nay, từ đó có biện pháp khắc phục hữu hiệu",
+            "CĐR/PLO của CTĐT*": "PLO2.1.3 PLO3.1.1 PLO3.2.1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 34,
+      "table_id": "vi-llnl1101#tbl004",
+      "table_name": "Bảng 2. Chuẩn đầu ra học phần (CLO)",
+      "section_path": [
+        "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)"
+      ],
+      "section_labels": [
+        "chuan-au-ra-hoc-phan-course-learning-outcomes"
+      ],
+      "source_block": 47,
+      "column_labels": [
+        "Mục tiêu",
+        "CLOij",
+        "Mô tả CLO",
+        "Mức độ đạt được"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]"
+          ],
+          "column_map": {
+            "Mục tiêu": "[1]",
+            "CLOij": "[2]",
+            "Mô tả CLO": "[3]",
+            "Mức độ đạt được": "[4]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.1",
+            "Sinh viên nhận biết được hoàn cảnh lịch sử ra đời, những tư tưởng kinh tế chủ yếu của các trường phái kinh tế học trong lịch sử",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G1",
+            "CLOij": "CLO1.1",
+            "Mô tả CLO": "Sinh viên nhận biết được hoàn cảnh lịch sử ra đời, những tư tưởng kinh tế chủ yếu của các trường phái kinh tế học trong lịch sử",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.2",
+            "Hiểu được sự kế thừa cũng như sự khác biệt về nội dung và phương pháp luận của các trường phái kinh tế học trong lịch sử",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G1",
+            "CLOij": "CLO1.2",
+            "Mô tả CLO": "Hiểu được sự kế thừa cũng như sự khác biệt về nội dung và phương pháp luận của các trường phái kinh tế học trong lịch sử",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1",
+          "cells": [
+            "G1",
+            "CLO1.3",
+            "Sinh viên nhận biết được Những thành tựu, cũng như những hạn chế của các học thuyết kinh tế. Từ đó rút ra được ý nghĩa về lý luận cũng như ý nghĩa về thực tiễn của các học thuyết kinh tế",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G1",
+            "CLOij": "CLO1.3",
+            "Mô tả CLO": "Sinh viên nhận biết được Những thành tựu, cũng như những hạn chế của các học thuyết kinh tế. Từ đó rút ra được ý nghĩa về lý luận cũng như ý nghĩa về thực tiễn của các học thuyết kinh tế",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO1.3",
+            "Hiểu sâu sắc và hoàn chỉnh các học thuyết kinh tế trong lich sử sẽ giúp cho các doanh nhân tương lai những kiến thức cần thiết để hoạt động có hiệu quảtrong nền kinh tế thị trường. Trang bị cho những nhà kinh tế học, những nhà hoạch định chính sách tương lai những kiến thức cần thiết cho việc nghiên cứu và xây dựng đường lối, chiến lược, điều hành sự phát triển kinh tế -xã hội của đất nước phù hợp với mỗi giai đoạn phát triển của lịch sử.",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G2",
+            "CLOij": "CLO1.3",
+            "Mô tả CLO": "Hiểu sâu sắc và hoàn chỉnh các học thuyết kinh tế trong lich sử sẽ giúp cho các doanh nhân tương lai những kiến thức cần thiết để hoạt động có hiệu quảtrong nền kinh tế thị trường. Trang bị cho những nhà kinh tế học, những nhà hoạch định chính sách tương lai những kiến thức cần thiết cho việc nghiên cứu và xây dựng đường lối, chiến lược, điều hành sự phát triển kinh tế -xã hội của đất nước phù hợp với mỗi giai đoạn phát triển của lịch sử.",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2",
+          "cells": [
+            "G2",
+            "CLO2.1",
+            "Phân tích nội dung các học thuyết kinh tế sẽ giúp người học cơ sở lý luận để nghiên cứu các môn khoa học kinh tế khác đặc biệt là các môn khoa học nghiên cứu các vấn đề liên quan đến kinh tế thị trường, kinh tế vĩ mô, kinh tế vi mô, kinh tế phát triển, kinh tế công cộng, thương mại quốc tế, marketing, khoa học quản lý…",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G2",
+            "CLOij": "CLO2.1",
+            "Mô tả CLO": "Phân tích nội dung các học thuyết kinh tế sẽ giúp người học cơ sở lý luận để nghiên cứu các môn khoa học kinh tế khác đặc biệt là các môn khoa học nghiên cứu các vấn đề liên quan đến kinh tế thị trường, kinh tế vĩ mô, kinh tế vi mô, kinh tế phát triển, kinh tế công cộng, thương mại quốc tế, marketing, khoa học quản lý…",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO2.2",
+            "Thực hành kỹ năng làm việc độc lập, làm việc theo nhóm",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G3",
+            "CLOij": "CLO2.2",
+            "Mô tả CLO": "Thực hành kỹ năng làm việc độc lập, làm việc theo nhóm",
+            "Mức độ đạt được": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3",
+          "cells": [
+            "G3",
+            "CLO3.1",
+            "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            ""
+          ],
+          "column_map": {
+            "Mục tiêu": "G3",
+            "CLOij": "CLO3.1",
+            "Mô tả CLO": "Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao.",
+            "Mức độ đạt được": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 36,
+      "table_id": "vi-llnl1101#tbl005",
+      "table_name": "Bảng 3. Đánh giá học phần",
+      "section_path": [
+        "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
+        "7.1. Cơ cấu điểm thành phần"
+      ],
+      "section_labels": [
+        "anh-gia-hoc-phan-course-assessment",
+        "co-cau-iem-thanh-phan"
+      ],
+      "source_block": 51,
+      "column_labels": [
+        "Hình thức đánh giá",
+        "Nội dung/Bài đánh giá",
+        "Thời điểm",
+        "CLOs",
+        "Công cụ và tiêu chí đánh giá",
+        "Tỷ lệ (%)",
+        "CĐR/PLO của CTĐT*"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "[1]",
+            "Nội dung/Bài đánh giá": "[2]",
+            "Thời điểm": "[3]",
+            "CLOs": "[4]",
+            "Công cụ và tiêu chí đánh giá": "[5]",
+            "Tỷ lệ (%)": "[6]",
+            "CĐR/PLO của CTĐT*": "[7]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Chuyên cần",
+          "cells": [
+            "Chuyên cần",
+            "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+            "Tất cả các buổi seminar",
+            "4.1 4.2 4.3",
+            "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1",
+            "10%",
+            "PLOij"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Chuyên cần",
+            "Nội dung/Bài đánh giá": "Tham gia lớp seminar Tham gia thảo luận các buổi seminar",
+            "Thời điểm": "Tất cả các buổi seminar",
+            "CLOs": "4.1 4.2 4.3",
+            "Công cụ và tiêu chí đánh giá": "- Điểm danh - Trả lời câu hỏi, thảo luận trên lớp Xem Phụ lục 2, rubrics 1",
+            "Tỷ lệ (%)": "10%",
+            "CĐR/PLO của CTĐT*": "PLOij"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Đánh giá quá trình/giữa kỳ",
+          "cells": [
+            "Đánh giá quá trình/giữa kỳ",
+            "Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình",
+            "Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp",
+            "2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3",
+            "- Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập:",
+            "40%",
+            "…"
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá quá trình/giữa kỳ",
+            "Nội dung/Bài đánh giá": "Bài tập nhóm Nhóm 3-4 sinh viên - Nhóm đề xuất chủ đề, thu thập dữ liệu, xây dựng mô hình hồi quy, ước lượng mô hình, đánh giá kết quả, phân tích kết quả và kết luận - Kết quả là một bài viết, không bắt buộc thuyết trình",
+            "Thời điểm": "Nộp bản cuối: tuần 14 Các thời điểm do giảng viên seminar quyết định: - Đề xuất chủ đề - Nộp dữ liệu - Nộp bản nháp",
+            "CLOs": "2.1, 2.2, 2.3, 2.4, 2.5 3.1, 3.2, 3.4 4.1, 4.2, 4.3",
+            "Công cụ và tiêu chí đánh giá": "- Xem Phụ lục 2, rubrics 2 - Hướng dẫn chi tiết về định dạng bài tập:",
+            "Tỷ lệ (%)": "40%",
+            "CĐR/PLO của CTĐT*": "…"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đánh giá cuối kỳ",
+          "cells": [
+            "Đánh giá cuối kỳ",
+            "Toàn bộ nội dung học (ngoại trừ phần thực hành)",
+            "Theo lịch của Trường",
+            "1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3",
+            "Bài thi tự luận trên giấy Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi",
+            "50%",
+            ""
+          ],
+          "column_map": {
+            "Hình thức đánh giá": "Đánh giá cuối kỳ",
+            "Nội dung/Bài đánh giá": "Toàn bộ nội dung học (ngoại trừ phần thực hành)",
+            "Thời điểm": "Theo lịch của Trường",
+            "CLOs": "1.1, 1.2, 1.3, 1.4, 1.5, 2.1, 2.4, 2.5, 3.1, 3.2, 3.3",
+            "Công cụ và tiêu chí đánh giá": "Bài thi tự luận trên giấy Thời gian: 60p - Xem Phụ lục 1: ma trận đề thi",
+            "Tỷ lệ (%)": "50%",
+            "CĐR/PLO của CTĐT*": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 38,
+      "table_id": "vi-llnl1101#tbl006",
+      "table_name": "Bảng 4. Kế hoạch và Nội dung dạy học",
+      "section_path": [
+        "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)"
+      ],
+      "section_labels": [
+        "ke-hoach-day-hoc-lesson-plan"
+      ],
+      "source_block": 59,
+      "column_labels": [
+        "Tuần",
+        "Nội dung",
+        "Tài liệu đọc",
+        "Hoạt động dạy và học",
+        "Đánh giá",
+        "CLOs"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]",
+          "cells": [
+            "[1]",
+            "[2]",
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]"
+          ],
+          "column_map": {
+            "Tuần": "[1]",
+            "Nội dung": "[2]",
+            "Tài liệu đọc": "[3]",
+            "Hoạt động dạy và học": "[4]",
+            "Đánh giá": "[5]",
+            "CLOs": "[6]"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "1",
+          "cells": [
+            "1",
+            "Lecture 1. Chương 1: Đối tượng và phương pháp nghiên cứu của môn lịch sử các học thuyết kinh tế 1.1.Đối tượng nghiên cứu lịch sử các học thuyết kinh tế 1.2 Phương pháp nghiên cứu 1.3. Ý nghĩa của việc nghiên cứu",
+            "[1] chương 1 [2] Chương 1 [3] Chương 1",
+            "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "1",
+            "Nội dung": "Lecture 1. Chương 1: Đối tượng và phương pháp nghiên cứu của môn lịch sử các học thuyết kinh tế 1.1.Đối tượng nghiên cứu lịch sử các học thuyết kinh tế 1.2 Phương pháp nghiên cứu 1.3. Ý nghĩa của việc nghiên cứu",
+            "Tài liệu đọc": "[1] chương 1 [2] Chương 1 [3] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, slide... - Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "2",
+          "cells": [
+            "2",
+            "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm Chia nhóm và giao các chủ đề thảo luận cho các nhóm",
+            "[1] chương 1 [2] Chương 1 [3] Chương 1",
+            "Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 1",
+            "... …"
+          ],
+          "column_map": {
+            "Tuần": "2",
+            "Nội dung": "Seminar 1 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 - Hướng dẫn phương thức làm bài tập nhóm Chia nhóm và giao các chủ đề thảo luận cho các nhóm",
+            "Tài liệu đọc": "[1] chương 1 [2] Chương 1 [3] Chương 1",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Xác định các nhóm làm bài tập - Xác định các chủ đề thảo luận và giao cho từng nhóm Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập nhóm",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 1",
+            "CLOs": "... …"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Lecture 2. Chương 2: Tư tưởng kinh tế của chủ nghĩa trọng thương 2.1 Hoàn cảnh ra đời chủ nghĩa trọng thương 2.2 Những tư tưởng kinh tế chủ yếu của CNTT 2.3Sự phát triển của CNTT ở các nước Tây Âu thế kỷ VIV – XV 2.4 Quá trình suy thoái của CNTT",
+            "[1] chương2 [2] Chương 2 [3] Chương 2",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2",
+            "…",
+            "…"
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Lecture 2. Chương 2: Tư tưởng kinh tế của chủ nghĩa trọng thương 2.1 Hoàn cảnh ra đời chủ nghĩa trọng thương 2.2 Những tư tưởng kinh tế chủ yếu của CNTT 2.3Sự phát triển của CNTT ở các nước Tây Âu thế kỷ VIV – XV 2.4 Quá trình suy thoái của CNTT",
+            "Tài liệu đọc": "[1] chương2 [2] Chương 2 [3] Chương 2",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2",
+            "Đánh giá": "…",
+            "CLOs": "…"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "3",
+          "cells": [
+            "3",
+            "Seminar 2 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày chủ đề 1, chủ đề 2",
+            "[1] chương 1, 2 [2] Chương 1, 2 [3] Chương 1,2",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 2",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "3",
+            "Nội dung": "Seminar 2 - Tóm tắt kiến thức chương 1 - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 - Các nhóm được phân công trình bày chủ đề 1, chủ đề 2",
+            "Tài liệu đọc": "[1] chương 1, 2 [2] Chương 1, 2 [3] Chương 1,2",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 2",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "4",
+          "cells": [
+            "4",
+            "Lecture3. Chương 3: Các học thuyết kinh tế học tư sản cổ điển 3.1 Chủ nghĩa Trọng nông 3.2 Trường phái Kinh tế chính trị tư sản cổ điển Anh 3.3 Các học thuyết kinh tế chính trị học hậu cổ điển Chương 3: Kinh tế chính trị học của C.Mác (Giới thiệu qua chương này vì học thuyết này sinh viên đã được học ở học phần KTCT học Mác-Lênin)",
+            "1] chương 3 [2] Chương 3 [3] Chương 3",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "4",
+            "Nội dung": "Lecture3. Chương 3: Các học thuyết kinh tế học tư sản cổ điển 3.1 Chủ nghĩa Trọng nông 3.2 Trường phái Kinh tế chính trị tư sản cổ điển Anh 3.3 Các học thuyết kinh tế chính trị học hậu cổ điển Chương 3: Kinh tế chính trị học của C.Mác (Giới thiệu qua chương này vì học thuyết này sinh viên đã được học ở học phần KTCT học Mác-Lênin)",
+            "Tài liệu đọc": "1] chương 3 [2] Chương 3 [3] Chương 3",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "5",
+          "cells": [
+            "5",
+            "Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày chủ đề 3, chủ để 4",
+            "[1] chương 5 [2] Chương 5 [3] Chương 5",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 3",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "5",
+            "Nội dung": "Seminar 3 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 - Các nhóm được phân công trình bày chủ đề 3, chủ để 4",
+            "Tài liệu đọc": "[1] chương 5 [2] Chương 5 [3] Chương 5",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 3",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "6",
+          "cells": [
+            "6",
+            "Lecture 4. Chương 5 : Các học thuyết kinh tế của Trường phái Tân cổ điển 5.1 Hoàn cảnh ra đời và đặc điểm của trường phái Tân cổ điển 5.2 Định luật nhu cầu của Gossen 5.3 Các học thuyết KT của trường phái Thành Viene (Áo) 5.4 Các học thuyết của trường phái thành Lausan (Thụy Sĩ) 5.5 Các học thuyết của trường phái Tân cổ điển ở Mỹ 5.6 Học thuyết KT của trường phái Camridge (Anh)",
+            "[1] chương 5 [2]Chương 5 [3] Chương 5",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "6",
+            "Nội dung": "Lecture 4. Chương 5 : Các học thuyết kinh tế của Trường phái Tân cổ điển 5.1 Hoàn cảnh ra đời và đặc điểm của trường phái Tân cổ điển 5.2 Định luật nhu cầu của Gossen 5.3 Các học thuyết KT của trường phái Thành Viene (Áo) 5.4 Các học thuyết của trường phái thành Lausan (Thụy Sĩ) 5.5 Các học thuyết của trường phái Tân cổ điển ở Mỹ 5.6 Học thuyết KT của trường phái Camridge (Anh)",
+            "Tài liệu đọc": "[1] chương 5 [2]Chương 5 [3] Chương 5",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "7",
+          "cells": [
+            "7",
+            "Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Các nhóm được phân công trình bày chủ đề 5, chủ để 6",
+            "",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 4",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "7",
+            "Nội dung": "Seminar 4 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 - Các nhóm được phân công trình bày chủ đề 5, chủ để 6",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Các nhóm tham gia thảo luận",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 4",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 9,
+          "row_label": "8",
+          "cells": [
+            "8",
+            "Lecture 5. Chương 6: Các học thuyết kinh tế của Trường phái Keynes",
+            "[1] chương 6 [2]Chương 6 [3] Chương 6",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "8",
+            "Nội dung": "Lecture 5. Chương 6: Các học thuyết kinh tế của Trường phái Keynes",
+            "Tài liệu đọc": "[1] chương 6 [2]Chương 6 [3] Chương 6",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 10,
+          "row_label": "9",
+          "cells": [
+            "9",
+            "Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Các nhóm được phân công trình bày chủ đề 7 - Hướng dẫn làm bài tập cá nhân giữa kỳ",
+            "",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 5",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "9",
+            "Nội dung": "Seminar 5 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 - Các nhóm được phân công trình bày chủ đề 7 - Hướng dẫn làm bài tập cá nhân giữa kỳ",
+            "Tài liệu đọc": "",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 5",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 11,
+          "row_label": "10",
+          "cells": [
+            "10",
+            "Lecture 6. Chương 7: Các học thuyết của Trường phái tự do mới",
+            "[1] chương 7 [2]Chương 7 [3] Chương 7",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "10",
+            "Nội dung": "Lecture 6. Chương 7: Các học thuyết của Trường phái tự do mới",
+            "Tài liệu đọc": "[1] chương 7 [2]Chương 7 [3] Chương 7",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 12,
+          "row_label": "11",
+          "cells": [
+            "11",
+            "Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Các nhóm được phân công trình bày chủ đề 8, chủ để 9",
+            "[1] chương 7 [2]Chương 7 [3] Chương 7",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 6",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "11",
+            "Nội dung": "Seminar 6 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 - Các nhóm được phân công trình bày chủ đề 8, chủ để 9",
+            "Tài liệu đọc": "[1] chương 7 [2]Chương 7 [3] Chương 7",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 6",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 13,
+          "row_label": "12",
+          "cells": [
+            "12",
+            "Lecture 7. Chương 8: Học thuyết kinh tế của Trường phái Chính hiện đại",
+            "[1] chương 8 [2]Chương 8 [3] Chương 8",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "12",
+            "Nội dung": "Lecture 7. Chương 8: Học thuyết kinh tế của Trường phái Chính hiện đại",
+            "Tài liệu đọc": "[1] chương 8 [2]Chương 8 [3] Chương 8",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 7",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 14,
+          "row_label": "13",
+          "cells": [
+            "13",
+            "Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 7 - Các nhóm được phân công trình bày chủ đề 10, chủ để 11",
+            "[1] chương 8 [2]Chương 8 [3] Chương 8",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 7",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "13",
+            "Nội dung": "Seminar 7 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 7 - Các nhóm được phân công trình bày chủ đề 10, chủ để 11",
+            "Tài liệu đọc": "[1] chương 8 [2]Chương 8 [3] Chương 8",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 7",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 15,
+          "row_label": "14",
+          "cells": [
+            "14",
+            "Lecture 8. Chương 9: Học thuyết kinh tế tăng trưởng và phát triển kinh tế",
+            "[1] chương 9 [2]Chương 9 [3] Chương 9",
+            "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 8",
+            "",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "14",
+            "Nội dung": "Lecture 8. Chương 9: Học thuyết kinh tế tăng trưởng và phát triển kinh tế",
+            "Tài liệu đọc": "[1] chương 9 [2]Chương 9 [3] Chương 9",
+            "Hoạt động dạy và học": "Giảng lý thuyết theo nội dung Bài giảng / slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 8",
+            "Đánh giá": "",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 16,
+          "row_label": "15",
+          "cells": [
+            "15",
+            "Seminar 8 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 8 - Các nhóm được phân công trình bày chủ đề 12 chủ để 13",
+            "[1] chương 9 [2]Chương 9 [3] Chương 9",
+            "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "- Điểm danh - Trả lời câu hỏi trong slide seminar 8",
+            ""
+          ],
+          "column_map": {
+            "Tuần": "15",
+            "Nội dung": "Seminar 8 - Tóm tắt kiến thức - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 8 - Các nhóm được phân công trình bày chủ đề 12 chủ để 13",
+            "Tài liệu đọc": "[1] chương 9 [2]Chương 9 [3] Chương 9",
+            "Hoạt động dạy và học": "Giảng viên - Nhắc lại các kiến thức - Nêu các câu hỏi ôn tập nội dung lý thuyết đã học Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi",
+            "Đánh giá": "- Điểm danh - Trả lời câu hỏi trong slide seminar 8",
+            "CLOs": ""
+          }
+        },
+        {
+          "row_index": 17,
+          "row_label": "Lịch thi",
+          "cells": [
+            "Lịch thi",
+            "Thi cuối kỳ",
+            "[1] Toàn bộ các chương [2] Toàn bộ các chương [3] Các chương liên quan",
+            "Thi tự luận trên giấy",
+            "Xem Phụ lục 1: ma trận đề thi",
+            "Xem Bảng 3"
+          ],
+          "column_map": {
+            "Tuần": "Lịch thi",
+            "Nội dung": "Thi cuối kỳ",
+            "Tài liệu đọc": "[1] Toàn bộ các chương [2] Toàn bộ các chương [3] Các chương liên quan",
+            "Hoạt động dạy và học": "Thi tự luận trên giấy",
+            "Đánh giá": "Xem Phụ lục 1: ma trận đề thi",
+            "CLOs": "Xem Bảng 3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 51,
+      "table_id": "vi-llnl1101#tbl007",
+      "table_name": "Tháng 6 năm 2024",
+      "section_path": [
+        "11. THỜI ĐIỂM ĐIỀU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)"
+      ],
+      "section_labels": [
+        "thoi-iem-ieu-chinh-e-cuong-syllabus-adjustment-time"
+      ],
+      "source_block": 82,
+      "column_labels": [
+        "TRƯỞNG KHOA",
+        "HIỆU TRƯỞNG"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "TS Nguyễn Thị Hoàn",
+          "cells": [
+            "TS Nguyễn Thị Hoàn",
+            "GS.TS Phạm Hồng Chương"
+          ],
+          "column_map": {
+            "TRƯỞNG KHOA": "TS Nguyễn Thị Hoàn",
+            "HIỆU TRƯỞNG": "GS.TS Phạm Hồng Chương"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 59,
+      "table_id": "vi-llnl1101#tbl008",
+      "table_name": null,
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 1: MA TRẬN ĐỀ THI"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-1-ma-tran-e-thi"
+      ],
+      "source_block": 104,
+      "column_labels": [
+        "Bài",
+        "CLO",
+        "Nhớ",
+        "Hiểu",
+        "Vận dụng",
+        "Tổng"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Lecture 2",
+          "cells": [
+            "Lecture 2",
+            "1.2, 1.3",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          "column_map": {
+            "Bài": "Lecture 2",
+            "CLO": "1.2, 1.3",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "1",
+            "Tổng": "3"
+          }
+        },
+        {
+          "row_index": 1,
+          "row_label": "Lecture 4",
+          "cells": [
+            "Lecture 4",
+            "1.1, 2.1",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          "column_map": {
+            "Bài": "Lecture 4",
+            "CLO": "1.1, 2.1",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "1",
+            "Tổng": "3"
+          }
+        },
+        {
+          "row_index": 2,
+          "row_label": "Lecture 5",
+          "cells": [
+            "Lecture 5",
+            "1.5, 2.5",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          "column_map": {
+            "Bài": "Lecture 5",
+            "CLO": "1.5, 2.5",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "1",
+            "Tổng": "3"
+          }
+        },
+        {
+          "row_index": 3,
+          "row_label": "Lecture 6",
+          "cells": [
+            "Lecture 6",
+            "1.2, 3.3",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          "column_map": {
+            "Bài": "Lecture 6",
+            "CLO": "1.2, 3.3",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "1",
+            "Tổng": "3"
+          }
+        },
+        {
+          "row_index": 4,
+          "row_label": "Lecture 7",
+          "cells": [
+            "Lecture 7",
+            "1.2, 3.3",
+            "1",
+            "1",
+            "2",
+            "4"
+          ],
+          "column_map": {
+            "Bài": "Lecture 7",
+            "CLO": "1.2, 3.3",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "2",
+            "Tổng": "4"
+          }
+        },
+        {
+          "row_index": 5,
+          "row_label": "Lecture 8",
+          "cells": [
+            "Lecture 8",
+            "1.2, 3.3",
+            "1",
+            "1",
+            "2",
+            "4"
+          ],
+          "column_map": {
+            "Bài": "Lecture 8",
+            "CLO": "1.2, 3.3",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "2",
+            "Tổng": "4"
+          }
+        },
+        {
+          "row_index": 6,
+          "row_label": "Câu hỏi tổng hợp",
+          "cells": [
+            "Câu hỏi tổng hợp",
+            "3.1, 3.2, 3.4",
+            "1",
+            "1",
+            "1",
+            "3"
+          ],
+          "column_map": {
+            "Bài": "Câu hỏi tổng hợp",
+            "CLO": "3.1, 3.2, 3.4",
+            "Nhớ": "1",
+            "Hiểu": "1",
+            "Vận dụng": "1",
+            "Tổng": "3"
+          }
+        },
+        {
+          "row_index": 7,
+          "row_label": "Tổng số câu",
+          "cells": [
+            "Tổng số câu",
+            "Tổng số câu",
+            "7",
+            "8",
+            "9",
+            "24"
+          ],
+          "column_map": {
+            "Bài": "Tổng số câu",
+            "CLO": "Tổng số câu",
+            "Nhớ": "7",
+            "Hiểu": "8",
+            "Vận dụng": "9",
+            "Tổng": "24"
+          }
+        },
+        {
+          "row_index": 8,
+          "row_label": "Tỷ lrọng",
+          "cells": [
+            "Tỷ lrọng",
+            "Tỷ lrọng",
+            "30%",
+            "33%",
+            "37%",
+            "100%"
+          ],
+          "column_map": {
+            "Bài": "Tỷ lrọng",
+            "CLO": "Tỷ lrọng",
+            "Nhớ": "30%",
+            "Hiểu": "33%",
+            "Vận dụng": "37%",
+            "Tổng": "100%"
+          }
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 61,
+      "table_id": "vi-llnl1101#tbl009",
+      "table_name": "Rubric 1: Chuyên cần/Participant",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2: Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 108,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Số buổi có mặt trên lớp",
+          "cells": [
+            "Số buổi có mặt trên lớp",
+            "50%",
+            "15 buổi",
+            "14 buổi",
+            "13 buổi",
+            "12 buổi"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Thái độ học tập trên lớp",
+          "cells": [
+            "Thái độ học tập trên lớp",
+            "30%",
+            "Nghiêm túc, chấp hành kỷ luật lớp học giữ trật tự",
+            "Bị nhắc nhở 1 lần",
+            "Bị nhắc từ 2 lần",
+            "Bị nhắc nhở nhiều lần"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Tích cực xây dựng bài",
+          "cells": [
+            "Tích cực xây dựng bài",
+            "20%",
+            "Trả lời đúng nhiều câu hỏi",
+            "Trả lời đúng một câu hỏi",
+            "Có tham gia thảo luận",
+            "Không tham gia thảo luận"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 63,
+      "table_id": "vi-llnl1101#tbl010",
+      "table_name": "Rubric 2: Bài tập nhóm",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2: Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 111,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+          "cells": [
+            "Nội dung bài tập nhóm đúng yêu cầu của đề bài",
+            "30%",
+            "Đầy đủ nội dung, có sáng tạo",
+            "Đầy đủ nội dung",
+            "đầy đủ nội dung",
+            "Chưa đầy đủ"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Kỹ năng Thuyết trình",
+          "cells": [
+            "Kỹ năng Thuyết trình",
+            "30%",
+            "Có kịch bản hay, thuyết trình lưu loát",
+            "Có kịch bản, thuyết trình tốt",
+            "Thuyết trình đạt yêu cầu",
+            "Không đạt yeey cầu"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Trả lời các câu hỏi của các nhóm",
+          "cells": [
+            "Trả lời các câu hỏi của các nhóm",
+            "20%",
+            "Trả lời đúng trên 5 câu hỏi",
+            "Trả lời đúng từ 1 đến 4 câu hỏi",
+            "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+            "Không trả lời câu hỏi nào."
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "Trả lời các câu hỏi của giáo viên",
+          "cells": [
+            "Trả lời các câu hỏi của giáo viên",
+            "20%",
+            "Trả lời đúng trên 5 câu hỏi",
+            "Trả lời đúng từ 1 đến 4 câu hỏi",
+            "Có tham gia trả lời câu hỏi, nhưng không trả lời đúng",
+            "Không trả lời câu hỏi nào."
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 65,
+      "table_id": "vi-llnl1101#tbl011",
+      "table_name": "Rubric 3 : Bài tập cá nhân",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2: Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 114,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Nộp đúng thời hạn quy định",
+          "cells": [
+            "Nộp đúng thời hạn quy định",
+            "10%",
+            "Nộp đúng thời gian quy đinh",
+            "Nộp không đúng hạn 1 ngày",
+            "Nộp không đúng hạn 3 ngày",
+            "Nộp không đúng hạn 5 ngày"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Hệ thống được những vấn đề lý luận",
+          "cells": [
+            "Hệ thống được những vấn đề lý luận",
+            "20%",
+            "Luận giải đầy đủ cơ sở lý luận",
+            "Luận giải được ¾ cơ sở lý luận",
+            "Luận giải được ½ cơ sở lý luận",
+            "Không liên hệ được"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+          "cells": [
+            "Khảo sát thực trạng (hoặc liên hệ thực tế)",
+            "30%",
+            "Số liệu cập nhật, khảo sát đấy đủ thực trạng, có phân tích kỹ",
+            "Số liệu tương đối cập nhật, phân tích khái quát",
+            "Số liệu cũ, khảo sát liệt kê, chưa phân tích sâu",
+            "Khảo sát sơ sài"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 4,
+          "row_label": "Đề xuất được một số giải pháp",
+          "cells": [
+            "Đề xuất được một số giải pháp",
+            "30%",
+            "Các giải pháp hay, có tính khả thi",
+            "Các giải pháp tương đối khả thi",
+            "Giải pháp sơ sài",
+            "Không đưa ra được giải pháp"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 5,
+          "row_label": "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+          "cells": [
+            "Hình thức trình bày đúng quy cách, không có lỗi chính tả",
+            "5%",
+            "Nộp đúng thời gian quy đinh",
+            "Nộp không đúng hạn 1 ngày",
+            "Nộp không đúng hạn 3 ngày",
+            "Nộp không đúng hạn 5 ngày"
+          ],
+          "column_map": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "order": 67,
+      "table_id": "vi-llnl1101#tbl012",
+      "table_name": "Rubric 4 : Bài thi cuối kỳ",
+      "section_path": [
+        "Phụ lục",
+        "Phụ lục 2: Các rubric"
+      ],
+      "section_labels": [
+        "appendix",
+        "phu-luc-2-cac-rubric"
+      ],
+      "source_block": 117,
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Các đánh giá/Areas of assessment",
+          "cells": [
+            "Các đánh giá/Areas of assessment",
+            "Tỷ trọng/ Weighting (%)",
+            "Hoàn thành xuất sắc/ Excellence 8.5 – 10 point",
+            "Hoàn thành tốt/Good 6.5 – 8.4 point",
+            "Hoàn thành/Fair 4.0 – 6.4 point",
+            "Không hoàn thành/Poor 0 – 3.9 point"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 1,
+          "row_label": "Trình bày những kiến thức của nội dung được hỏi",
+          "cells": [
+            "Trình bày những kiến thức của nội dung được hỏi",
+            "40%",
+            "Trình bày đầy đủ những kiến thức của nội dung được hỏi",
+            "Trình bày được ¾ những kiến thức của nội dung được hỏi",
+            "Trình bày được ½ những kiến thức của nội dung được hỏi",
+            "Trình bày được ít hơn 1/3 những kiến thức của nội dung được hỏi"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 2,
+          "row_label": "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn trên cơ sở các học thuyết kinh tế đã học",
+          "cells": [
+            "Biết kết hợp cùng với những kiến thức khác có liên quan để luận giải vấn đề dưới giác độ lý luận và thực tiễn trên cơ sở các học thuyết kinh tế đã học",
+            "30%",
+            "Luận giải đầy đủ cơ sở lý luận có gắn với thực tiễn",
+            "Luận giải được ¾ cơ sở lý luận có gắn với thực tiễn",
+            "Luận giải được ½ cơ sở lý luận có gắn với thực tiễn",
+            "Không luận giải được"
+          ],
+          "column_map": null
+        },
+        {
+          "row_index": 3,
+          "row_label": "Đảm bảo tập trung nhất quán, không lạc đề",
+          "cells": [
+            "Đảm bảo tập trung nhất quán, không lạc đề",
+            "30%",
+            "Có phân tích logic, không lạc đề",
+            "Không lạc đề",
+            "Không tập trung nhất quán",
+            "Lạc đề"
+          ],
+          "column_map": null
+        }
+      ]
+    }
+  ],
+  "full_text": "Tên học phần (tiếng Việt): Lịch sử các học thuyết kinh tế\nTên học phần (tiếng Anh): History of economic theories\nTrình độ đào tạo: Đại học\nMã học phần: LLNL1101\nSố tín chỉ 03\nSố giờ trên lớp: 45\nSố giờ tự học 105\n(01 tín chỉ bằng 50 giờ định mức, 01 giờ định mức bằng 50 phút)\nCác học phần tiên quyết: Không\n(Management Faculty and Teachers)\nKhoa/Viện quản lý học phần: LÝ LUẬN CHÍNH TRỊ\nĐịa chỉ: Phòng 1015 Nhà A1, Trường ĐH Kinh tế Quốc dân\nGiảng viên giảng dạy học phần:\nMô tả học phần.\nLịch sử các học thuyết kinh tế là một môn khoa học xã hội, nghiên cứu quá trình phát sinh, phát triển, đấu tranh và thay thế lẫn nhau của hệ thống các quan điểm kinh tế gắn với các giai đoạn lịch sử nhất định. Lịch sử các học thuyết kinh tế cung cấp cho người học một cách có hệ thống những tư tưởng kinh tế, mà cốt lõi, xuyên suốt là tư tưởng về giá trị hàng hoá. Vì thế, việc nghiên cứu, giảng dạy và học tập môn khoa học này phải đối diện với một khối lượng kiến thức rất rộng lớn, từ thời cổ đại đến hiện đại. Vấn đề cơ bản, xuyên suốt trong môn khoa học này đó là. Thứ nhất, giá trị hàng hoá là gì? nó được hình thành, phân phối, trao đổi và sử dụng như thế nào? Thứ hai, nhà nước có vai trò như thế nào trong việc sản xuất, phân phối, trao đổi và sử dụng giá trị trong tiến trình phát triển của lịch sử\nNội dung chính\n- Đối tượng và phương pháp nghiên cứu Lịch sử các học thuyết kinh tế\n- Các tư tưởng kinh tế của chủ nghĩa trọng thương\n- Các học thuyết kinh tế học tư sản cổ điển\n- Học thuyết kinh tế của trường phái Tân cổ điển\n- Học thuyết kinh tế của trường phái Keynes\n- Học thuyết kinh tế của Chủ nghĩa tự do mới\n- Học thuyết kinh tế của Trường phái Chính hiện đại\n- Các học thuyết tăng trưởng và phát triển kinh tế\n[1] PGS.TS Trần Việt Tiến (chủ biên), Giáo trình lịch sử các học thuyết kinh tế, NXB Đại học Kinh tế quốc dân, Hà nội 2019\n[2] Bài giảng / Slide bài giảng chuẩn do nhóm giảng viên giảng dạy học phần biên soạn.\n- Tài liệu tham khảo khác có trên thư viện Trường.\n[3] PGS.TS Trần Bình Trọng (chủ biên), Giáo trình Lịch sử các học thuyết kinh tế, NXB Đại học Kinh tế Quốc dân, Hà Nội 2013\n[4] GS.TS.Mai Ngọc Cường, TS.Trần Việt Tiến ( đồng chủ biên), Hướng dẫn học tập Lịch sử các học thuyết kinh tế, NXB Tài chính, Hà Nội 2010\nBảng 1. Mục tiêu học phần\nBảng 2. Chuẩn đầu ra học phần (CLO)\nBảng 3. Đánh giá học phần\nBảng 4. Kế hoạch và Nội dung dạy học\nHệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.\nĐiểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\nCách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.\nHọc viên có trách nhiệm tham dự đầy đủ các buổi học.\nTrong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.\nHọc phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\nGhi chép đầy đủ, tham gia trả lời câu hỏi;\nĐọc trước tài liệu được yêu cầu;\nLàm các bài tập về nhà;\nKhông làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\nLaptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.\nTháng 6 năm 2024\nTrọng số trong điểm học phần: 50%\nHình thức: Thi tự luận trên giấy\nThời gian: 60 phút\nSố đề thi : 6 đề mỗi đề 4 câu ( thang điểm 10)\n+ 1 Câu hỏi nhớ : 1,5 điểm\n+ 2 Câu hỏi hiểu mỗi câu : 2, 5 điểm\n+ 1 Câu hỏi vận dụng: 3,5 điểm\nRubric 1: Chuyên cần/Participant\nRubric 2: Bài tập nhóm\nRubric 3 : Bài tập cá nhân\nRubric 4 : Bài thi cuối kỳ"
+}

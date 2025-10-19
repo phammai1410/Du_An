@@ -1,0 +1,264 @@
+{
+  "doc_id": "en-ep17-cntt1131",
+  "language": "en",
+  "course_code": "EP17.CNTT1131",
+  "course_name_vi": "Object Oriented Programming",
+  "course_name_en": null,
+  "credit": null,
+  "hours_in_class": null,
+  "hours_self": null,
+  "prerequisites": [],
+  "decision_no": null,
+  "source_path": "data\\raw\\en\\Object Oriented Programming_EP17.CNTT1131.docx",
+  "tables": [
+    {
+      "table_id": "en-ep17-cntt1131#tbl001",
+      "table_name": null,
+      "section_path": [],
+      "section_labels": [],
+      "column_labels": null,
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "NATIONAL ECONOMICS UNIVERSITY INSTITUTE OF ADVANCED EDUCATIONAL PROGRAMS"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl002",
+      "table_name": "Kind of the course:",
+      "section_path": [
+        "1. COURSE INFORMATION"
+      ],
+      "section_labels": [
+        "course-information"
+      ],
+      "column_labels": [
+        "Foundation",
+        "Foundation_2",
+        "Fundamental (x)",
+        "Fundamental (x)_2"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Compulsory"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl003",
+      "table_name": "Table 4. Course goals",
+      "section_path": [
+        "4. COURSE OBJECTIVES"
+      ],
+      "section_labels": [
+        "course-objectives"
+      ],
+      "column_labels": [
+        "Goals",
+        "Goal Description",
+        "Program Learning Outcomes (PLO)",
+        "Proficiency scale"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 3,
+          "row_label": "G3"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl004",
+      "table_name": "Table 5. Course learning outcomes (CLOs)",
+      "section_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "section_labels": [
+        "course-learning-outcomes-clos"
+      ],
+      "column_labels": [
+        "Goal",
+        "CLO",
+        "Description",
+        "Capacity level"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 2,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 3,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 4,
+          "row_label": "G1"
+        },
+        {
+          "row_index": 5,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 6,
+          "row_label": "G2"
+        },
+        {
+          "row_index": 7,
+          "row_label": "G3"
+        },
+        {
+          "row_index": 8,
+          "row_label": "G3"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl005",
+      "table_name": "Table 6. Course assessment",
+      "section_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "section_labels": [
+        "course-assessment"
+      ],
+      "column_labels": [
+        "Type of Assessment",
+        "Content",
+        "Week",
+        "CLOs",
+        "Assessment criteria",
+        "Proportion (%)"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "Class Participation"
+        },
+        {
+          "row_index": 2,
+          "row_label": "Mid-term"
+        },
+        {
+          "row_index": 3,
+          "row_label": "Mid-term"
+        },
+        {
+          "row_index": 4,
+          "row_label": "Final Exam"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl006",
+      "table_name": "Table 8. Lesson Plan for the course",
+      "section_path": [
+        "8. LESSON PLAN"
+      ],
+      "section_labels": [
+        "lesson-plan"
+      ],
+      "column_labels": [
+        "Session/Week",
+        "Content",
+        "Reading",
+        "CLOs",
+        "Activities",
+        "Assessment"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "[1]"
+        },
+        {
+          "row_index": 1,
+          "row_label": "1-3"
+        },
+        {
+          "row_index": 2,
+          "row_label": "4-6"
+        },
+        {
+          "row_index": 3,
+          "row_label": "7"
+        },
+        {
+          "row_index": 4,
+          "row_label": "8"
+        },
+        {
+          "row_index": 5,
+          "row_label": "9"
+        },
+        {
+          "row_index": 6,
+          "row_label": "10-11"
+        },
+        {
+          "row_index": 7,
+          "row_label": "12"
+        },
+        {
+          "row_index": 8,
+          "row_label": "13"
+        },
+        {
+          "row_index": 9,
+          "row_label": "14"
+        },
+        {
+          "row_index": 10,
+          "row_label": "15"
+        }
+      ]
+    },
+    {
+      "table_id": "en-ep17-cntt1131#tbl007",
+      "table_name": null,
+      "section_path": [
+        "9. COURSE REQUIREMENTS AND EXPECTATION",
+        "9.3. Requirements for in-class behaviour"
+      ],
+      "section_labels": [
+        "course-requirements-and-expectation",
+        "requirements-for-in-class-behaviour"
+      ],
+      "column_labels": [
+        "Faculty Dean",
+        "NEU’s President"
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "row_label": "Dr Pham Xuan Lam"
+        }
+      ]
+    }
+  ]
+}
