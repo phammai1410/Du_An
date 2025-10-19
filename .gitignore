@@ -7,3 +7,4 @@ __pycache__/
 *.pyd
 logs/
 *.log
+/backend/local-llm/Embedding/
