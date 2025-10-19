@@ -6,6 +6,7 @@ import subprocess
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+from uuid import uuid4
 
 import requests
 import streamlit as st
@@ -20,18 +21,26 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # Paths and configuration
 # -----------------------------------------------------------------------------#
 PROJECT_ROOT = Path(__file__).resolve().parent
-DATA_DIR = PROJECT_ROOT / "data"
-INDEX_DIR = PROJECT_ROOT / "vectorstore" / "faiss_index"
 BACKEND_ROOT = PROJECT_ROOT.parent / "backend"
+DATA_DIR = BACKEND_ROOT / "data" / "raw"
+UPLOADS_ROOT = DATA_DIR / "uploads"
+INDEX_ROOT = BACKEND_ROOT / "data" / "index"
 TOOLS_DIR = BACKEND_ROOT / "tools"
 LOCAL_TEI_ROOT = BACKEND_ROOT / "local-llm" / "Embedding"
-EMBED_META = INDEX_DIR / "embeddings.json"
 
 DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL")
 DEFAULT_CHAT_MODEL = "gpt-4o-mini"
 
 DEFAULT_CHUNK_SIZE = 1200
 DEFAULT_CHUNK_OVERLAP = 200
+
+CHUNK_MODES: Dict[str, str] = {
+    "structured": "Structured-chunks",
+    "direct": "Direct-chunks",
+}
+DEFAULT_CHUNK_MODE = "structured"
+
+UPLOAD_ALLOWED_EXTS = {"pdf", "docx", "xlsx"}
 
 OPENAI_EMBED_MODELS = ["text-embedding-3-small", "text-embedding-3-large"]
 EMBED_BACKENDS: Dict[str, str] = {
@@ -71,45 +80,85 @@ TEI_MODELS: Dict[str, Dict[str, Any]] = {
 # -----------------------------------------------------------------------------#
 
 
+def safe_model_dir(model_name: str) -> str:
+    slug = model_name.strip().lower().replace("/", "-")
+    cleaned = []
+    for ch in slug:
+        if ch.isalnum() or ch in {"-", "_"}:
+            cleaned.append(ch)
+        else:
+            cleaned.append("-")
+    safe = "".join(cleaned).strip("-")
+    while "--" in safe:
+        safe = safe.replace("--", "-")
+    return safe or "default"
+
+
+def resolve_index_dir(model_name: str) -> Path:
+    return INDEX_ROOT / safe_model_dir(model_name)
+
+
+def get_embed_meta_path(index_dir: Path) -> Path:
+    return index_dir / "embeddings.json"
+
+
 def ensure_dirs() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    INDEX_DIR.parent.mkdir(parents=True, exist_ok=True)
+    INDEX_ROOT.mkdir(parents=True, exist_ok=True)
+    UPLOADS_ROOT.mkdir(parents=True, exist_ok=True)
+    for ext in UPLOAD_ALLOWED_EXTS:
+        (UPLOADS_ROOT / ext).mkdir(parents=True, exist_ok=True)
 
 
 def list_pdfs() -> List[Path]:
-    return sorted(DATA_DIR.glob("*.pdf"))
+    return sorted(DATA_DIR.rglob("*.pdf"))
 
 
-def index_exists() -> bool:
-    return (INDEX_DIR / "index.faiss").exists() and (INDEX_DIR / "index.pkl").exists()
+def index_exists(index_dir: Path) -> bool:
+    return (index_dir / "index.faiss").exists() and (index_dir / "index.pkl").exists()
 
 
-def save_embed_meta(backend: str, model_name: str) -> None:
+def save_embed_meta(index_dir: Path, backend: str, model_name: str, chunk_mode: str) -> None:
     try:
-        EMBED_META.parent.mkdir(parents=True, exist_ok=True)
-        EMBED_META.write_text(
+        meta_path = get_embed_meta_path(index_dir)
+        meta_path.parent.mkdir(parents=True, exist_ok=True)
+        meta_path.write_text(
             json.dumps(
-                {"embedding_backend": backend, "embedding_model": model_name},
+                {
+                    "embedding_backend": backend,
+                    "embedding_model": model_name,
+                    "chunk_mode": chunk_mode,
+                },
                 ensure_ascii=False,
                 indent=2,
             ),
             encoding="utf-8",
         )
     except Exception:
-        pass
+        pass  # Silently ignore metadata persistence issues
 
 
-def load_embed_meta() -> Optional[Dict[str, str]]:
+def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
     try:
-        if EMBED_META.exists():
-            meta = json.loads(EMBED_META.read_text(encoding="utf-8"))
+        meta_path = get_embed_meta_path(index_dir)
+        if meta_path.exists():
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
             if isinstance(meta, dict):
                 backend = meta.get("embedding_backend", "openai")
                 model = meta.get("embedding_model")
                 if model:
-                    return {"embedding_backend": backend, "embedding_model": model}
+                    chunk = meta.get("chunk_mode")
+                    return {
+                        "embedding_backend": backend,
+                        "embedding_model": model,
+                        "chunk_mode": chunk,
+                    }
             elif isinstance(meta, str):
-                return {"embedding_backend": "openai", "embedding_model": meta}
+                return {
+                    "embedding_backend": "openai",
+                    "embedding_model": meta,
+                    "chunk_mode": None,
+                }
     except Exception:
         pass
     return None
@@ -197,10 +246,11 @@ def build_index_from_pdfs(
     index_dir: Path,
     embedding_model: str,
     embedding_backend: str,
+    chunk_mode: str = DEFAULT_CHUNK_MODE,
     chunk_size: int = DEFAULT_CHUNK_SIZE,
     chunk_overlap: int = DEFAULT_CHUNK_OVERLAP,
 ) -> Dict[str, Any]:
-    pdfs = list(sorted(data_dir.glob("*.pdf")))
+    pdfs = list(sorted(data_dir.rglob("*.pdf")))
     if not pdfs:
         raise RuntimeError(f"No PDF files found in: {data_dir}")
 
@@ -212,19 +262,24 @@ def build_index_from_pdfs(
             doc.metadata.setdefault("source", str(pdf))
         docs.extend(loaded)
 
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap,
-        add_start_index=True,
-    )
-    splits = splitter.split_documents(docs)
+    if chunk_mode == "direct":
+        splits = docs
+    elif chunk_mode == "structured":
+        splitter = RecursiveCharacterTextSplitter(
+            chunk_size=chunk_size,
+            chunk_overlap=chunk_overlap,
+            add_start_index=True,
+        )
+        splits = splitter.split_documents(docs)
+    else:
+        raise ValueError(f"Unsupported chunk mode: {chunk_mode}")
 
     embeddings = make_embeddings_client(embedding_backend, embedding_model)
     vectorstore = FAISS.from_documents(splits, embedding=embeddings)
 
     index_dir.mkdir(parents=True, exist_ok=True)
     vectorstore.save_local(str(index_dir))
-    save_embed_meta(embedding_backend, embedding_model)
+    save_embed_meta(index_dir, embedding_backend, embedding_model, chunk_mode)
 
     return {
         "pdf_count": len(pdfs),
@@ -233,13 +288,14 @@ def build_index_from_pdfs(
         "index_dir": str(index_dir),
         "embedding_model": embedding_model,
         "embedding_backend": embedding_backend,
+        "chunk_mode": chunk_mode,
     }
 
 
-def load_vectorstore(embedding_backend: str, embedding_model: str) -> FAISS:
+def load_vectorstore(index_dir: Path, embedding_backend: str, embedding_model: str) -> FAISS:
     embeddings = make_embeddings_client(embedding_backend, embedding_model)
     return FAISS.load_local(
-        str(INDEX_DIR),
+        str(index_dir),
         embeddings,
         allow_dangerous_deserialization=True,
     )
@@ -443,6 +499,8 @@ def init_session() -> None:
         st.session_state.retriever_k = 4
     if "chat_model" not in st.session_state:
         st.session_state.chat_model = DEFAULT_CHAT_MODEL
+    if "chunk_mode" not in st.session_state:
+        st.session_state.chunk_mode = DEFAULT_CHUNK_MODE
     if "embedding_backend" not in st.session_state:
         if DEFAULT_EMBED_MODEL and DEFAULT_EMBED_MODEL in TEI_MODELS:
             st.session_state.embedding_backend = "tei"
@@ -459,6 +517,8 @@ def init_session() -> None:
         st.session_state.openai_key = os.getenv("OPENAI_API_KEY") or ""
     if "download_feedback" not in st.session_state:
         st.session_state.download_feedback = None
+    if "upload_feedback" not in st.session_state:
+        st.session_state.upload_feedback = None
 
     if st.session_state.embedding_backend == "openai" and st.session_state.embed_model not in OPENAI_EMBED_MODELS:
         st.session_state.embed_model = OPENAI_EMBED_MODELS[0]
@@ -542,6 +602,8 @@ def render_sidebar() -> None:
                         )
                     st.rerun()
 
+    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+
     feedback = st.session_state.download_feedback
     if feedback:
         status, message = feedback
@@ -560,6 +622,13 @@ def render_sidebar() -> None:
         key="chat_model",
     )
 
+    st.selectbox(
+        "Chunk mode",
+        options=list(CHUNK_MODES.keys()),
+        format_func=lambda key: CHUNK_MODES[key],
+        key="chunk_mode",
+    )
+
     st.slider(
         "Top-k passages",
         min_value=2,
@@ -567,6 +636,63 @@ def render_sidebar() -> None:
         step=1,
         key="retriever_k",
     )
+
+    uploaded_files = st.file_uploader(
+        "Upload documents",
+        type=sorted(UPLOAD_ALLOWED_EXTS),
+        accept_multiple_files=True,
+        help="Files are saved to `backend/data/raw/uploads/<ext>/`.",
+    )
+    if uploaded_files:
+        saved_paths = []
+        errors = []
+        for file in uploaded_files:
+            suffix = Path(file.name).suffix.lower()
+            ext = suffix.lstrip(".")
+            if ext not in UPLOAD_ALLOWED_EXTS:
+                errors.append(f"Unsupported file type: {file.name}")
+                continue
+            target_dir = (UPLOADS_ROOT / ext)
+            target_dir.mkdir(parents=True, exist_ok=True)
+            stem = Path(file.name).stem.strip()
+            safe_stem = "".join(ch if ch.isalnum() or ch in {"-", "_"} else "-" for ch in stem).strip("-") or "document"
+            unique_name = f"{safe_stem}-{uuid4().hex[:8]}{suffix}"
+            target_path = target_dir / unique_name
+            try:
+                with open(target_path, "wb") as out_file:
+                    out_file.write(file.getbuffer())
+                saved_paths.append(target_path)
+            except Exception as exc:
+                errors.append(f"Failed to save {file.name}: {exc}")
+        messages = []
+        if saved_paths:
+            rel_paths = [str(path.relative_to(PROJECT_ROOT.parent)) for path in saved_paths]
+            messages.append("Saved: " + ", ".join(rel_paths))
+        if errors:
+            messages.extend(errors)
+        if saved_paths and errors:
+            status = "warning"
+        elif saved_paths:
+            status = "success"
+        elif errors:
+            status = "error"
+        else:
+            status = "info"
+        st.session_state.upload_feedback = (status, " | ".join(messages) if messages else "No files processed.")
+        st.rerun()
+
+    upload_feedback = st.session_state.upload_feedback
+    if upload_feedback:
+        status, message = upload_feedback
+        if status == "success":
+            st.success(message)
+        elif status == "warning":
+            st.warning(message)
+        elif status == "info":
+            st.info(message)
+        else:
+            st.error(message)
+        st.session_state.upload_feedback = None
 
     st.divider()
     if st.button("Rebuild index from PDFs"):
@@ -579,16 +705,18 @@ def render_sidebar() -> None:
                 try:
                     stats = build_index_from_pdfs(
                         DATA_DIR,
-                        INDEX_DIR,
+                        current_index_dir,
                         embedding_model=st.session_state.embed_model,
                         embedding_backend=st.session_state.embedding_backend,
+                        chunk_mode=st.session_state.chunk_mode,
                         chunk_size=DEFAULT_CHUNK_SIZE,
                         chunk_overlap=DEFAULT_CHUNK_OVERLAP,
                     )
                     st.success(
                         "Done! "
                         f"{stats['pdf_count']} PDFs, {stats['pages']} pages -> {stats['chunks']} chunks. "
-                        f"Index: {stats['index_dir']} (backend: {stats['embedding_backend']} | model: {stats['embedding_model']})"
+                        "Index: "
+                        f"{stats['index_dir']} (backend: {stats['embedding_backend']} | model: {stats['embedding_model']} | chunk: {CHUNK_MODES.get(stats['chunk_mode'], stats['chunk_mode'])})"
                     )
                 except Exception as exc:
                     st.error(f"Failed to build index: {exc}")
@@ -597,16 +725,22 @@ def render_sidebar() -> None:
         st.session_state.history = []
 
     st.divider()
-    index_state = "yes" if index_exists() else "no"
-    st.caption(f"PDFs in `data/`: {len(list_pdfs())} | Index present: {index_state}")
+    index_state = "yes" if index_exists(current_index_dir) else "no"
+    st.caption(
+        f"PDFs in `backend/data/raw`: {len(list_pdfs())} | "
+        f"Index `{current_index_dir.relative_to(PROJECT_ROOT.parent)}` present: {index_state}"
+    )
 
-    emb_used = load_embed_meta()
+    emb_used = load_embed_meta(current_index_dir)
     if emb_used:
         backend_label = EMBED_BACKENDS.get(emb_used.get("embedding_backend", "openai"), "Unknown")
-        st.caption(f"Index built with: {backend_label} / {emb_used['embedding_model']}")
+        chunk_value = emb_used.get("chunk_mode")
+        chunk_label = CHUNK_MODES.get(chunk_value, chunk_value if chunk_value else "unknown")
+        st.caption(f"Index built with: {backend_label} / {emb_used['embedding_model']} / {chunk_label}")
         if (
             emb_used.get("embedding_backend") != st.session_state.embedding_backend
             or emb_used.get("embedding_model") != st.session_state.embed_model
+            or emb_used.get("chunk_mode") != st.session_state.chunk_mode
         ):
             st.warning("The current embedding selection differs from the index. Rebuild to avoid inconsistencies.")
 
@@ -638,9 +772,11 @@ def main() -> None:
         unsafe_allow_html=True,
     )
 
+    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+
     if not st.session_state.openai_key:
         st.info("OpenAI API key is missing. Add it in the sidebar or .env file.")
-    if not index_exists():
+    if not index_exists(current_index_dir):
         st.warning("No FAISS index found. Rebuild the index from the sidebar (or run `python ingest_pdfs.py`).")
 
     for turn in st.session_state.history:
@@ -661,7 +797,7 @@ def main() -> None:
             st.session_state.history.append({"role": "assistant", "content": "Please supply the OpenAI API key first."})
             st.rerun()
 
-        if not index_exists():
+        if not index_exists(current_index_dir):
             st.session_state.history.append({"role": "assistant", "content": "FAISS index is missing. Rebuild it first."})
             st.rerun()
 
@@ -674,7 +810,11 @@ def main() -> None:
 
         try:
             with st.spinner("Retrieving and reasoning..."):
-                vectorstore = load_vectorstore(st.session_state.embedding_backend, st.session_state.embed_model)
+                vectorstore = load_vectorstore(
+                    current_index_dir,
+                    st.session_state.embedding_backend,
+                    st.session_state.embed_model,
+                )
                 retriever = vectorstore.as_retriever(search_kwargs={"k": st.session_state.retriever_k})
                 documents = retriever.get_relevant_documents(user_question)
 
