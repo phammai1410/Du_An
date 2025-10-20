@@ -1,0 +1,18 @@
+{
+  "AITeamVN-Vietnamese_Embedding_v2": {
+    "path": "./AITeamVN-Vietnamese_Embedding_v2",
+    "port": 8800
+  },
+  "Alibaba-NLP-gte-multilingual-base": {
+    "path": "./Alibaba-NLP-gte-multilingual-base",
+    "port": 8801
+  },
+  "BAAI-bge-m3": {
+    "path": "./BAAI-bge-m3",
+    "port": 8802
+  },
+  "Qwen-Qwen3-Embedding-0.6B": {
+    "path": "./Qwen-Qwen3-Embedding-0.6B",
+    "port": 8803
+  }
+}

@@ -4,8 +4,9 @@ import json
 import os
 import subprocess
 import sys
+import platform
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 from uuid import uuid4
 
 import requests
@@ -27,6 +28,8 @@ UPLOADS_ROOT = DATA_DIR / "uploads"
 INDEX_ROOT = BACKEND_ROOT / "data" / "index"
 TOOLS_DIR = BACKEND_ROOT / "tools"
 LOCAL_TEI_ROOT = BACKEND_ROOT / "local-llm" / "Embedding"
+MODELS_CONFIG_PATH = LOCAL_TEI_ROOT / "models.json"
+TEI_CONTAINER_PREFIX = "tei-"
 
 DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL")
 DEFAULT_CHAT_MODEL = "gpt-4o-mini"
@@ -75,6 +78,214 @@ TEI_MODELS: Dict[str, Dict[str, Any]] = {
     },
 }
 
+TEI_RUNTIME_MODES: Dict[str, Dict[str, Any]] = {
+    "cpu": {
+        "label": "CPU",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:cpu-1.8",
+        "requires_gpu": False,
+        "description": "Default mode for CPU-only machines.",
+    },
+    "turing": {
+        "label": "Turing (T4 / RTX 2000 series)",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:turing-1.8",
+        "requires_gpu": True,
+        "description": "Optimized build for NVIDIA Turing GPUs such as T4 or RTX 2000.",
+    },
+    "ampere_80": {
+        "label": "Ampere 80 (A100 / A30)",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:1.8",
+        "requires_gpu": True,
+        "description": "Use on A100 or A30 class Ampere GPUs.",
+    },
+    "ampere_86": {
+        "label": "Ampere 86 (A10 / A40)",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:86-1.8",
+        "requires_gpu": True,
+        "description": "Tune for Ampere 86 GPUs including A10, A40, and RTX A series.",
+    },
+    "ada_lovelace": {
+        "label": "Ada Lovelace (RTX 4000 series)",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:89-1.8",
+        "requires_gpu": True,
+        "description": "Optimized for the RTX 4000 Ada Lovelace family.",
+    },
+    "hopper": {
+        "label": "Hopper (H100, experimental)",
+        "image": "ghcr.io/huggingface/text-embeddings-inference:hopper-1.8",
+        "requires_gpu": True,
+        "description": "Experimental build for NVIDIA Hopper GPUs (H100).",
+    },
+}
+DEFAULT_TEI_RUNTIME_MODE = "cpu"
+
+DOCKER_INSTALL_GUIDE_MD = """
+**Docker is required to start Text Embeddings Inference.**
+
+- **Windows**
+  - [Docker Desktop installer](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
+  - [Docker Desktop (Microsoft Store)](https://apps.microsoft.com/detail/xp8cbj40xlbwkx)
+- **macOS**
+  - [Apple silicon build](https://desktop.docker.com/mac/main/arm64/Docker.dmg)
+  - [Intel build](https://desktop.docker.com/mac/main/amd64/Docker.dmg)
+- **Linux**
+  - [Docker Engine](https://docs.docker.com/engine/install/)
+  - [Docker Desktop](https://docs.docker.com/desktop/setup/install/linux/)
+"""
+
+LINUX_GPU_TOOLKIT_MD = """
+GPU modes on Linux also need the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
+Verify the setup with:
+
+```
+sudo docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi
+```
+"""
+
+
+def load_tei_models_config() -> Dict[str, Dict[str, Any]]:
+    try:
+        with MODELS_CONFIG_PATH.open("r", encoding="utf-8") as fh:
+            data = json.load(fh)
+            if isinstance(data, dict):
+                return data
+    except FileNotFoundError:
+        return {}
+    except Exception:
+        return {}
+    return {}
+
+
+def get_tei_model_port(model_key: str) -> int:
+    config = load_tei_models_config()
+    model_cfg = config.get(model_key, {})
+    try:
+        return int(model_cfg.get("port", 8800))
+    except (TypeError, ValueError):
+        return 8800
+
+
+def sanitize_tei_container_name(model_key: str, runtime_key: str) -> str:
+    base = f"{TEI_CONTAINER_PREFIX}{model_key}-{runtime_key}"
+    slug = []
+    for char in base.lower():
+        if char.isalnum() or char == "-":
+            slug.append(char)
+        else:
+            slug.append("-")
+    sanitized = "".join(slug).strip("-")
+    while "--" in sanitized:
+        sanitized = sanitized.replace("--", "-")
+    return sanitized[:63] or f"{TEI_CONTAINER_PREFIX}runtime"
+
+
+def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
+    try:
+        result = subprocess.run(
+            [
+                "docker",
+                "ps",
+                "--format",
+                "{{.Names}}",
+                "--filter",
+                f"name={TEI_CONTAINER_PREFIX}",
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except FileNotFoundError:
+        return [], "Docker CLI not found."
+    except Exception as exc:
+        return [], str(exc)
+
+    if result.returncode != 0:
+        detail = result.stderr.strip() or result.stdout.strip() or "Unknown Docker error."
+        return [], detail
+
+    names = [line.strip() for line in result.stdout.splitlines() if line.strip()]
+    return names, None
+
+
+def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
+    command = [sys.executable, str(TOOLS_DIR / "launch_tei.py"), *args]
+    return subprocess.run(
+        command,
+        cwd=str(BACKEND_ROOT),
+        capture_output=True,
+        text=True,
+    )
+
+
+def summarize_process(result: subprocess.CompletedProcess[str]) -> str:
+    stdout = (result.stdout or "").strip()
+    stderr = (result.stderr or "").strip()
+    if stdout and stderr:
+        return f"{stdout}\n{stderr}"
+    return stdout or stderr or "No output."
+
+
+def set_tei_base_url(port: int) -> str:
+    base_url = f"http://localhost:{port}"
+    os.environ["TEI_BASE_URL"] = base_url
+    st.session_state.tei_base_url = base_url
+    return base_url
+
+
+def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool, str]:
+    args = [
+        "--model",
+        model_key,
+        "--runtime",
+        runtime_key,
+        "--port",
+        str(port),
+        "--detach",
+    ]
+    result = run_launch_tei(args)
+    success = result.returncode == 0
+    runtime_label = TEI_RUNTIME_MODES.get(runtime_key, {}).get("label", runtime_key)
+    if success:
+        set_tei_base_url(port)
+        message = f"Started TEI ({runtime_label}) on http://localhost:{port}."
+    else:
+        message = summarize_process(result)
+    return success, message
+
+
+def stop_tei_runtime(model_key: str, runtime_key: str) -> Tuple[bool, str]:
+    args = [
+        "--model",
+        model_key,
+        "--runtime",
+        runtime_key,
+        "--stop",
+    ]
+    result = run_launch_tei(args)
+    success = result.returncode == 0
+    container_name = sanitize_tei_container_name(model_key, runtime_key)
+    runtime_label = TEI_RUNTIME_MODES.get(runtime_key, {}).get("label", runtime_key)
+    if success:
+        message = (result.stdout or "").strip() or f"Stopped TEI container `{container_name}` ({runtime_label})."
+    else:
+        message = summarize_process(result)
+    return success, message
+
+
+def stop_all_tei_runtimes() -> Tuple[bool, str]:
+    result = run_launch_tei(["--stop-all"])
+    success = result.returncode == 0
+    if success:
+        message = (result.stdout or "").strip() or "No TEI containers were running."
+    else:
+        message = summarize_process(result)
+    return success, message
+
+
+def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
+    containers, _ = get_running_tei_containers()
+    return sanitize_tei_container_name(model_key, runtime_key) in containers
+
+
 # -----------------------------------------------------------------------------#
 # Utility helpers
 # -----------------------------------------------------------------------------#
@@ -108,6 +319,9 @@ def ensure_dirs() -> None:
     UPLOADS_ROOT.mkdir(parents=True, exist_ok=True)
     for ext in UPLOAD_ALLOWED_EXTS:
         (UPLOADS_ROOT / ext).mkdir(parents=True, exist_ok=True)
+    for cfg in TEI_MODELS.values():
+        local_dir: Path = cfg["local_dir"]
+        local_dir.mkdir(parents=True, exist_ok=True)
 
 
 def list_pdfs() -> List[Path]:
@@ -200,11 +414,54 @@ class TEIEmbeddings:
         return result[0] if result else []
 
 
+def check_docker_cli() -> Tuple[bool, str]:
+    try:
+        result = subprocess.run(
+            ["docker", "--version"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except FileNotFoundError:
+        return False, "Docker command not found in PATH."
+    except Exception as exc:  # pragma: no cover - defensive
+        return False, f"Failed to execute docker: {exc}"
+
+    if result.returncode != 0:
+        detail = result.stderr.strip() or result.stdout.strip() or "unknown error."
+        return False, detail
+
+    return True, result.stdout.strip()
+
+
+def docker_supports_nvidia() -> Tuple[bool, Optional[str]]:
+    try:
+        result = subprocess.run(
+            ["docker", "info", "--format", "{{json .Runtimes}}"],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except FileNotFoundError:
+        return False, "Docker command not found in PATH."
+    except Exception as exc:  # pragma: no cover - defensive
+        return False, f"Failed to query docker: {exc}"
+
+    if result.returncode != 0:
+        detail = result.stderr.strip() or result.stdout.strip() or "unknown error."
+        return False, detail
+
+    if "nvidia" in result.stdout.lower():
+        return True, None
+
+    return False, "NVIDIA runtime not detected."
+
+
 def make_embeddings_client(backend: str, model_name: str):
     if backend == "openai":
         return OpenAIEmbeddings(model=model_name)
     if backend == "tei":
-        base_url = os.getenv("TEI_BASE_URL", "http://localhost:8080")
+        base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL", "http://localhost:8080")
         api_key = os.getenv("TEI_API_KEY")
         return TEIEmbeddings(base_url=base_url, model=model_name, api_key=api_key)
     raise ValueError(f"Unsupported embedding backend: {backend}")
@@ -427,7 +684,27 @@ def apply_material_theme() -> None:
             box-shadow: 0 12px 24px rgba(90, 141, 238, 0.24);
         }
 
-        div.stButton > button:hover {
+        div.stButton > button[aria-label="Start TEI"] {
+            background: linear-gradient(135deg, #16a34a, #15803d);
+            border: 1px solid #166534;
+        }
+
+        div.stButton > button[aria-label="Start TEI"]:hover {
+            background: linear-gradient(135deg, #15803d, #166534);
+            box-shadow: 0 14px 28px rgba(21, 128, 61, 0.28);
+        }
+
+        div.stButton > button[aria-label="Stop TEI"] {
+            background: linear-gradient(135deg, #dc2626, #b91c1c);
+            border: 1px solid #991b1b;
+        }
+
+        div.stButton > button[aria-label="Stop TEI"]:hover {
+            background: linear-gradient(135deg, #b91c1c, #991b1b);
+            box-shadow: 0 14px 28px rgba(220, 38, 38, 0.28);
+        }
+
+        div.stButton > button:hover:not([aria-label="Start TEI"]):not([aria-label="Stop TEI"]) {
             background: linear-gradient(135deg, var(--primary-600), var(--primary-700));
             box-shadow: 0 16px 28px rgba(71, 121, 215, 0.32);
         }
@@ -480,6 +757,49 @@ def apply_material_theme() -> None:
             background: rgba(142, 185, 255, 0.18);
         }
 
+        div[data-testid="stSidebar"] div[data-testid="stRadio"] {
+            padding: 0.6rem 0.75rem;
+            background: rgba(255, 255, 255, 0.85);
+            border-radius: 18px;
+            border: 1px solid var(--border-soft);
+            box-shadow: 0 10px 22px rgba(90, 141, 238, 0.08);
+            margin-bottom: 1rem;
+        }
+
+        div[data-testid="stSidebar"] div[data-testid="stRadio"] label {
+            font-size: 0.9rem;
+            color: var(--text-primary);
+            font-weight: 600;
+            padding: 0.25rem 0.45rem;
+            border-radius: 12px;
+        }
+
+        div[data-testid="stSidebar"] div[data-testid="stRadio"] label:hover {
+            background: rgba(142, 185, 255, 0.16);
+        }
+
+        .runtime-chip {
+            display: inline-block;
+            padding: 0.35rem 0.9rem;
+            border-radius: 999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 0.01em;
+            margin-bottom: 0.35rem;
+        }
+
+        .runtime-chip--ok {
+            background: rgba(118, 204, 145, 0.22);
+            color: #2f7a47;
+            border: 1px solid rgba(118, 204, 145, 0.42);
+        }
+
+        .runtime-chip--pending {
+            background: rgba(255, 200, 142, 0.22);
+            color: #a35a00;
+            border: 1px solid rgba(255, 200, 142, 0.4);
+        }
+
         div[data-testid="stChatInput"] textarea {
             border-radius: 18px;
             border: 1px solid var(--border-soft);
@@ -519,6 +839,12 @@ def init_session() -> None:
         st.session_state.download_feedback = None
     if "upload_feedback" not in st.session_state:
         st.session_state.upload_feedback = None
+    if "tei_runtime_mode" not in st.session_state:
+        st.session_state.tei_runtime_mode = DEFAULT_TEI_RUNTIME_MODE
+    if "tei_control_feedback" not in st.session_state:
+        st.session_state.tei_control_feedback = None
+    if "tei_base_url" not in st.session_state:
+        st.session_state.tei_base_url = os.getenv("TEI_BASE_URL")
 
     if st.session_state.embedding_backend == "openai" and st.session_state.embed_model not in OPENAI_EMBED_MODELS:
         st.session_state.embed_model = OPENAI_EMBED_MODELS[0]
@@ -526,7 +852,7 @@ def init_session() -> None:
         st.session_state.embed_model = list(TEI_MODELS.keys())[0]
 
 
-def render_sidebar() -> None:
+def render_settings_body() -> None:
     st.title("Settings")
 
     st.text_input(
@@ -573,9 +899,86 @@ def render_sidebar() -> None:
             key="embed_model",
         )
 
+        runtime_options = list(TEI_RUNTIME_MODES.keys())
+        if st.session_state.tei_runtime_mode not in runtime_options:
+            st.session_state.tei_runtime_mode = DEFAULT_TEI_RUNTIME_MODE
+        st.selectbox(
+            "TEI runtime mode",
+            options=runtime_options,
+            format_func=lambda key: TEI_RUNTIME_MODES[key]["label"],
+            key="tei_runtime_mode",
+        )
+        runtime_mode = st.session_state.tei_runtime_mode
+        runtime_info = TEI_RUNTIME_MODES[runtime_mode]
+
+        docker_ok, docker_detail = check_docker_cli()
+        running_containers: List[str] = []
+        running_error: Optional[str] = None
+        if docker_ok:
+            st.success(f"Docker detected ({docker_detail}).")
+            running_containers, running_error = get_running_tei_containers()
+        else:
+            st.error("Docker CLI not available. Install Docker to run TEI containers.")
+            st.markdown(DOCKER_INSTALL_GUIDE_MD)
+
+        st.caption(f"Docker image: `{runtime_info['image']}`")
+        if runtime_info.get("description"):
+            st.caption(runtime_info["description"])
+
+        if runtime_info.get("requires_gpu"):
+            st.info("This runtime requires an NVIDIA GPU.")
+            if platform.system().lower() == "linux" and docker_ok:
+                nvidia_ok, nvidia_detail = docker_supports_nvidia()
+                if nvidia_ok:
+                    st.success("NVIDIA Container Toolkit detected via `docker info`.")
+                else:
+                    st.error("NVIDIA Container Toolkit not detected. Install it before launching GPU runtimes on Linux.")
+                    st.markdown(LINUX_GPU_TOOLKIT_MD)
+                    if nvidia_detail and "not detected" not in nvidia_detail.lower():
+                        st.caption(nvidia_detail)
+        elif not docker_ok:
+            st.info("Docker installation is required before running the TEI backend.")
+
         model_key = st.session_state.embed_model
         config = TEI_MODELS[model_key]
         downloaded = tei_model_is_downloaded(model_key)
+        port_value = get_tei_model_port(model_key)
+        container_name = sanitize_tei_container_name(model_key, runtime_mode)
+        set_tei_base_url(port_value)
+        is_running = docker_ok and container_name in running_containers
+
+        st.caption(f"TEI endpoint URL: `http://localhost:{port_value}/embed`")
+        if running_error:
+            st.warning(f"Could not inspect Docker containers: {running_error}")
+        elif is_running:
+            st.success(f"Container `{container_name}` is running.")
+        elif docker_ok:
+            st.info("No TEI container is running right now.")
+
+        button_label = "Stop TEI" if is_running else "Start TEI"
+        button_disabled = not docker_ok
+        if st.button(
+            button_label,
+            key=f"tei-toggle-{model_key}-{runtime_mode}",
+            use_container_width=True,
+            type="primary",
+            disabled=button_disabled,
+        ):
+            if is_running:
+                success, message = stop_tei_runtime(model_key, runtime_mode)
+            else:
+                success, message = start_tei_runtime(model_key, runtime_mode, port_value)
+            st.session_state.tei_control_feedback = ("success" if success else "error", message)
+            st.rerun()
+
+        control_feedback = st.session_state.tei_control_feedback
+        if control_feedback:
+            status, message = control_feedback
+            if status == "success":
+                st.success(message)
+            else:
+                st.error(message)
+            st.session_state.tei_control_feedback = None
 
         st.markdown("**Local TEI model**")
         st.caption(config["display"])
@@ -601,8 +1004,6 @@ def render_sidebar() -> None:
                             f"Failed to download {config['display']} (code {result.returncode}). {detail}",
                         )
                     st.rerun()
-
-    current_index_dir = resolve_index_dir(st.session_state.embed_model)
 
     feedback = st.session_state.download_feedback
     if feedback:
@@ -636,6 +1037,9 @@ def render_sidebar() -> None:
         step=1,
         key="retriever_k",
     )
+
+def render_sidebar_quick_actions() -> None:
+    st.subheader("Data")
 
     uploaded_files = st.file_uploader(
         "Upload documents",
@@ -695,7 +1099,8 @@ def render_sidebar() -> None:
         st.session_state.upload_feedback = None
 
     st.divider()
-    if st.button("Rebuild index from PDFs"):
+    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+    if st.button("Rebuild index from PDFs", use_container_width=True):
         if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
             st.error("Please provide an OpenAI API key first.")
         elif st.session_state.embedding_backend == "tei" and not tei_model_is_downloaded(st.session_state.embed_model):
@@ -721,8 +1126,9 @@ def render_sidebar() -> None:
                 except Exception as exc:
                     st.error(f"Failed to build index: {exc}")
 
-    if st.button("Clear chat history"):
+    if st.button("Clear chat history", use_container_width=True):
         st.session_state.history = []
+        st.rerun()
 
     st.divider()
     index_state = "yes" if index_exists(current_index_dir) else "no"
@@ -743,11 +1149,6 @@ def render_sidebar() -> None:
             or emb_used.get("chunk_mode") != st.session_state.chunk_mode
         ):
             st.warning("The current embedding selection differs from the index. Rebuild to avoid inconsistencies.")
-
-
-# -----------------------------------------------------------------------------#
-# App entry point
-# -----------------------------------------------------------------------------#
 
 
 def main() -> None:
@@ -774,10 +1175,15 @@ def main() -> None:
 
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
 
-    if not st.session_state.openai_key:
-        st.info("OpenAI API key is missing. Add it in the sidebar or .env file.")
+    if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
+        st.info("No OpenAI API key detected. Enter it in the sidebar or the `.env` file before generating embeddings.")
+    elif st.session_state.embedding_backend == "tei":
+        runtime_mode = st.session_state.tei_runtime_mode
+        model_key = st.session_state.embed_model
+        if not tei_backend_is_active(model_key, runtime_mode):
+            st.warning("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
     if not index_exists(current_index_dir):
-        st.warning("No FAISS index found. Rebuild the index from the sidebar (or run `python ingest_pdfs.py`).")
+        st.warning("No FAISS index found. Rebuild the index from the sidebar or run `python ingest_pdfs.py`.")
 
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
@@ -793,18 +1199,28 @@ def main() -> None:
     if user_question:
         st.session_state.history.append({"role": "user", "content": user_question})
 
-        if not st.session_state.openai_key:
-            st.session_state.history.append({"role": "assistant", "content": "Please supply the OpenAI API key first."})
+        runtime_mode = st.session_state.tei_runtime_mode
+        tei_model_key = st.session_state.embed_model
+
+        if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
+            st.session_state.history.append({"role": "assistant", "content": "Please add your OpenAI API key in the sidebar first."})
+            st.rerun()
+
+        if st.session_state.embedding_backend == "tei" and not tei_backend_is_active(tei_model_key, runtime_mode):
+            st.session_state.history.append({
+                "role": "assistant",
+                "content": "The Docker-based TEI service is not running. Start it from the sidebar before continuing.",
+            })
             st.rerun()
 
         if not index_exists(current_index_dir):
             st.session_state.history.append({"role": "assistant", "content": "FAISS index is missing. Rebuild it first."})
             st.rerun()
 
-        if st.session_state.embedding_backend == "tei" and not tei_model_is_downloaded(st.session_state.embed_model):
+        if st.session_state.embedding_backend == "tei" and not tei_model_is_downloaded(tei_model_key):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "Selected TEI model is not downloaded. Download it in the sidebar.",
+                "content": "Selected TEI model is not downloaded. Download it from the sidebar.",
             })
             st.rerun()
 
@@ -839,6 +1255,12 @@ def main() -> None:
             st.session_state.history.append({"role": "assistant", "content": f"An error occurred: {exc}"})
 
         st.rerun()
+
+
+def render_sidebar() -> None:
+    render_settings_body()
+    st.divider()
+    render_sidebar_quick_actions()
 
 
 if __name__ == "__main__":

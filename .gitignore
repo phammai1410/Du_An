@@ -7,4 +7,7 @@ __pycache__/
 *.pyd
 logs/
 *.log
-/backend/local-llm/Embedding/
+/backend/local-llm/Embedding/AITeamVN-Vietnamese_Embedding_v2/
+/backend/local-llm/Embedding/BAAI-bge-m3/
+/backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base/
+/backend/local-llm/Embedding/Qwen-Qwen3-Embedding-0.6B/
