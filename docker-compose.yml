@@ -1,0 +1,43 @@
+version: '3.8'
+services:
+  # LocalAI for chat completions (single container)
+  localai:
+    image: localai/localai:latest
+    # LocalAI server for chat completions. This image will serve models placed in /models.
+    restart: unless-stopped
+    ports:
+      - '8080:8080'
+    environment:
+      - LOG_LEVEL=info
+    volumes:
+      - ./backend/local-llm/chat-models:/models
+
+  # TEI embedding services - one per model; use the official HF TEI images
+  tei-aiteamvn:
+    image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
+    restart: unless-stopped
+    ports:
+      - '8800:8080'
+    volumes:
+      - ./backend/local-llm/Embedding/AITeamVN-Vietnamese_Embedding_v2:/data
+    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
+
+  tei-baai:
+    image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
+    restart: unless-stopped
+    ports:
+      - '8802:8080'
+    volumes:
+      - ./backend/local-llm/Embedding/BAAI-bge-m3:/data
+    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
+
+  tei-qwen:
+    image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
+    restart: unless-stopped
+    ports:
+      - '8803:8080'
+    volumes:
+      - ./backend/local-llm/Embedding/Qwen-Qwen3-Embedding-0.6B:/data
+    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
+
+# Note: Adjust images, ports and mounts as necessary. For GPU runtimes, replace the TEI image tag with a GPU-enabled image and add runtime args.

@@ -13,10 +13,14 @@ import requests
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_community.document_loaders import PyPDFLoader
-from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+import numpy as np
+
+try:
+    import faiss  # type: ignore
+except Exception:  # noqa: BLE001
+    faiss = None  # type: ignore
 
 # -----------------------------------------------------------------------------#
 # Paths and configuration
@@ -324,12 +328,12 @@ def ensure_dirs() -> None:
         local_dir.mkdir(parents=True, exist_ok=True)
 
 
-def list_pdfs() -> List[Path]:
-    return sorted(DATA_DIR.rglob("*.pdf"))
+def list_docx_files() -> List[Path]:
+    return sorted(DATA_DIR.rglob("*.docx"))
 
 
 def index_exists(index_dir: Path) -> bool:
-    return (index_dir / "index.faiss").exists() and (index_dir / "index.pkl").exists()
+    return backend_index_exists(index_dir)
 
 
 def save_embed_meta(index_dir: Path, backend: str, model_name: str, chunk_mode: str) -> None:
@@ -354,6 +358,16 @@ def save_embed_meta(index_dir: Path, backend: str, model_name: str, chunk_mode: 
 
 def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
     try:
+        manifest_path = index_dir / "index_manifest.json"
+        if manifest_path.exists():
+            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            model = manifest.get("model")
+            return {
+                "embedding_backend": "tei",
+                "embedding_model": model,
+                "chunk_mode": manifest.get("chunk_mode"),
+                "vector_backend": manifest.get("backend"),
+            }
         meta_path = get_embed_meta_path(index_dir)
         if meta_path.exists():
             meta = json.loads(meta_path.read_text(encoding="utf-8"))
@@ -494,82 +508,185 @@ def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
 
 
 # -----------------------------------------------------------------------------#
-# Index utilities
+# Index utilities (backend pipeline)
 # -----------------------------------------------------------------------------#
 
 
-def build_index_from_pdfs(
-    data_dir: Path,
-    index_dir: Path,
-    embedding_model: str,
-    embedding_backend: str,
-    chunk_mode: str = DEFAULT_CHUNK_MODE,
-    chunk_size: int = DEFAULT_CHUNK_SIZE,
-    chunk_overlap: int = DEFAULT_CHUNK_OVERLAP,
-) -> Dict[str, Any]:
-    pdfs = list(sorted(data_dir.rglob("*.pdf")))
-    if not pdfs:
-        raise RuntimeError(f"No PDF files found in: {data_dir}")
+def detect_docx_languages() -> List[str]:
+    languages: List[str] = []
+    if not DATA_DIR.exists():
+        return languages
+    for child in sorted(DATA_DIR.iterdir()):
+        if child.name.lower() == "uploads":
+            continue
+        if not child.is_dir():
+            continue
+        if any(child.glob("*.docx")):
+            languages.append(child.name)
+    return languages
 
-    docs = []
-    for pdf in pdfs:
-        loader = PyPDFLoader(str(pdf))
-        loaded = loader.load()
-        for doc in loaded:
-            doc.metadata.setdefault("source", str(pdf))
-        docs.extend(loaded)
 
-    if chunk_mode == "direct":
-        splits = docs
-    elif chunk_mode == "structured":
-        splitter = RecursiveCharacterTextSplitter(
-            chunk_size=chunk_size,
-            chunk_overlap=chunk_overlap,
-            add_start_index=True,
-        )
-        splits = splitter.split_documents(docs)
+def backend_index_exists(index_dir: Path) -> bool:
+    manifest = index_dir / "index_manifest.json"
+    if not manifest.exists():
+        return False
+    faiss_path = index_dir / "index.faiss"
+    brute_path = index_dir / "vectors.npy"
+    return faiss_path.exists() or brute_path.exists()
+
+
+def run_backend_pipeline(model_name: str, langs: List[str], base_url: Optional[str], out_dir: Path) -> Tuple[bool, str]:
+    script = TOOLS_DIR / "ingest_docx_pipeline.py"
+    if not script.exists():
+        return False, f"Pipeline script not found: {script}"
+
+    args = [
+        sys.executable,
+        str(script),
+        "--model",
+        model_name,
+        "--out-dir",
+        str(out_dir),
+    ]
+    if base_url:
+        args.extend(["--base-url", base_url])
+    if langs:
+        args.extend(["--langs", *langs])
+
+    result = subprocess.run(
+        args,
+        cwd=str(PROJECT_ROOT.parent),
+        capture_output=True,
+        text=True,
+    )
+    output = (result.stdout or "").strip()
+    error = (result.stderr or "").strip()
+    message = output if output else error if error else "No output."
+    return result.returncode == 0, message
+
+
+def _l2_normalize(array: np.ndarray) -> np.ndarray:
+    norms = np.linalg.norm(array, axis=1, keepdims=True)
+    norms[norms == 0] = 1.0
+    return array / norms
+
+
+def _load_backend_resources(index_dir: Path) -> Dict[str, Any]:
+    manifest_path = index_dir / "index_manifest.json"
+    meta_path = index_dir / "meta.jsonl"
+    if not manifest_path.exists() or not meta_path.exists():
+        raise FileNotFoundError("Backend index manifest or meta.jsonl is missing.")
+
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    metas: List[Dict[str, Any]] = []
+    with meta_path.open("r", encoding="utf-8") as stream:
+        for line in stream:
+            if line.strip():
+                metas.append(json.loads(line))
+
+    backend_type = manifest.get("backend", "faiss")
+    faiss_index = None
+    vectors = None
+    if backend_type == "faiss":
+        if faiss is None:
+            raise RuntimeError("faiss is required to load this index but is not available.")
+        index_path = index_dir / "index.faiss"
+        if not index_path.exists():
+            raise FileNotFoundError(f"FAISS index missing: {index_path}")
+        faiss_index = faiss.read_index(str(index_path))
+    elif backend_type == "bruteforce":
+        vector_path = index_dir / "vectors.npy"
+        if not vector_path.exists():
+            raise FileNotFoundError(f"Vector file missing: {vector_path}")
+        vectors = np.load(vector_path)
     else:
-        raise ValueError(f"Unsupported chunk mode: {chunk_mode}")
-
-    embeddings = make_embeddings_client(embedding_backend, embedding_model)
-    vectorstore = FAISS.from_documents(splits, embedding=embeddings)
-
-    index_dir.mkdir(parents=True, exist_ok=True)
-    vectorstore.save_local(str(index_dir))
-    save_embed_meta(index_dir, embedding_backend, embedding_model, chunk_mode)
+        raise RuntimeError(f"Unsupported backend type: {backend_type}")
 
     return {
-        "pdf_count": len(pdfs),
-        "pages": len(docs),
-        "chunks": len(splits),
-        "index_dir": str(index_dir),
-        "embedding_model": embedding_model,
-        "embedding_backend": embedding_backend,
-        "chunk_mode": chunk_mode,
+        "manifest": manifest,
+        "metas": metas,
+        "faiss_index": faiss_index,
+        "vectors": vectors,
     }
 
 
-def load_vectorstore(index_dir: Path, embedding_backend: str, embedding_model: str) -> FAISS:
+def ensure_backend_index_cache(model_name: str) -> Dict[str, Any]:
+    key = safe_model_dir(model_name)
+    cache: Dict[str, Dict[str, Any]] = st.session_state.setdefault("backend_index_cache", {})
+    if key not in cache:
+        cache[key] = _load_backend_resources(resolve_index_dir(model_name))
+    return cache[key]
+
+
+def invalidate_backend_index_cache(model_name: Optional[str] = None) -> None:
+    if "backend_index_cache" not in st.session_state:
+        return
+    if model_name is None:
+        st.session_state.backend_index_cache = {}
+        return
+    key = safe_model_dir(model_name)
+    st.session_state.backend_index_cache.pop(key, None)
+
+
+def embed_query_vector(question: str, embedding_backend: str, embedding_model: str) -> np.ndarray:
     embeddings = make_embeddings_client(embedding_backend, embedding_model)
-    return FAISS.load_local(
-        str(index_dir),
-        embeddings,
-        allow_dangerous_deserialization=True,
-    )
+    vector = embeddings.embed_query(question)
+    array = np.asarray([vector], dtype="float32")
+    return _l2_normalize(array)
 
 
-# -----------------------------------------------------------------------------#
-# LLM utilities
-# -----------------------------------------------------------------------------#
+def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
+    resources = ensure_backend_index_cache(st.session_state.embed_model)
+    qvec = embed_query_vector(question, st.session_state.embedding_backend, st.session_state.embed_model)
+
+    backend_type = resources["manifest"].get("backend", "faiss")
+    metas = resources["metas"]
+    total = len(metas)
+    if total == 0:
+        return []
+    k = min(top_k, total)
+    results: List[Tuple[float, int]] = []
+
+    if backend_type == "faiss":
+        faiss_index = resources["faiss_index"]
+        if faiss_index is None:
+            raise RuntimeError("FAISS index not loaded.")
+        distances, indices = faiss_index.search(qvec, k)
+        for score, idx in zip(distances[0], indices[0]):
+            if idx == -1:
+                continue
+            results.append((float(score), int(idx)))
+    elif backend_type == "bruteforce":
+        vectors = resources["vectors"]
+        if vectors is None:
+            raise RuntimeError("Vector array not loaded.")
+        sims = (vectors @ qvec.T).reshape(-1)
+        top_indices = np.argsort(-sims)[:k]
+        for idx in top_indices:
+            results.append((float(sims[int(idx)]), int(idx)))
+    else:
+        raise RuntimeError(f"Unsupported backend: {backend_type}")
+
+    ranked: List[Dict[str, Any]] = []
+    for score, idx in results:
+        if idx < 0 or idx >= total:
+            continue
+        meta = metas[idx]
+        ranked.append({"score": score, "meta": meta})
+    return ranked
 
 
-def format_docs_for_prompt(docs) -> str:
-    parts = []
-    for doc in docs:
-        src = doc.metadata.get("source", "unknown")
-        page = doc.metadata.get("page")
-        tag = f"(p.{page}) " if page is not None else ""
-        parts.append(f"[{src}] {tag}{doc.page_content}")
+def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
+    parts: List[str] = []
+    for item in chunks:
+        meta = item["meta"]
+        source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
+        heading = meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or ""
+        prefix = f"[{source}] "
+        if heading:
+            prefix += f"{heading} "
+        text = meta.get("text") or ""
+        parts.append(f"{prefix}{text}")
     return "\n\n---\n\n".join(parts)
 
 
@@ -850,6 +967,8 @@ def init_session() -> None:
         st.session_state.embed_model = OPENAI_EMBED_MODELS[0]
     if st.session_state.embedding_backend == "tei" and st.session_state.embed_model not in TEI_MODELS:
         st.session_state.embed_model = list(TEI_MODELS.keys())[0]
+    if "backend_index_cache" not in st.session_state:
+        st.session_state.backend_index_cache = {}
 
 
 def render_settings_body() -> None:
@@ -1100,31 +1219,30 @@ def render_sidebar_quick_actions() -> None:
 
     st.divider()
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
-    if st.button("Rebuild index from PDFs", use_container_width=True):
-        if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
-            st.error("Please provide an OpenAI API key first.")
-        elif st.session_state.embedding_backend == "tei" and not tei_model_is_downloaded(st.session_state.embed_model):
-            st.error("Selected TEI model is not downloaded yet.")
+    docx_langs = detect_docx_languages()
+    if st.button("Rebuild backend index", use_container_width=True):
+        if st.session_state.embedding_backend != "tei":
+            st.error("Chức năng này chỉ khả dụng khi chọn Local TEI.")
+        elif not tei_model_is_downloaded(st.session_state.embed_model):
+            st.error("Model TEI được chọn chưa được tải.")
         else:
-            with st.spinner("Building FAISS index from PDFs..."):
-                try:
-                    stats = build_index_from_pdfs(
-                        DATA_DIR,
+            base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
+            if not base_url:
+                st.error("Không tìm thấy TEI base URL. Hãy chạy hoặc cấu hình TEI trước.")
+            else:
+                with st.spinner("Đang chạy pipeline DOCX → JSON → Index..."):
+                    langs = docx_langs or ["vi"]
+                    success, message = run_backend_pipeline(
+                        st.session_state.embed_model,
+                        langs,
+                        base_url,
                         current_index_dir,
-                        embedding_model=st.session_state.embed_model,
-                        embedding_backend=st.session_state.embedding_backend,
-                        chunk_mode=st.session_state.chunk_mode,
-                        chunk_size=DEFAULT_CHUNK_SIZE,
-                        chunk_overlap=DEFAULT_CHUNK_OVERLAP,
                     )
-                    st.success(
-                        "Done! "
-                        f"{stats['pdf_count']} PDFs, {stats['pages']} pages -> {stats['chunks']} chunks. "
-                        "Index: "
-                        f"{stats['index_dir']} (backend: {stats['embedding_backend']} | model: {stats['embedding_model']} | chunk: {CHUNK_MODES.get(stats['chunk_mode'], stats['chunk_mode'])})"
-                    )
-                except Exception as exc:
-                    st.error(f"Failed to build index: {exc}")
+                    if success:
+                        invalidate_backend_index_cache(st.session_state.embed_model)
+                        st.success("Pipeline hoàn tất.")
+                    else:
+                        st.error(f"Pipeline thất bại: {message}")
 
     if st.button("Clear chat history", use_container_width=True):
         st.session_state.history = []
@@ -1133,7 +1251,7 @@ def render_sidebar_quick_actions() -> None:
     st.divider()
     index_state = "yes" if index_exists(current_index_dir) else "no"
     st.caption(
-        f"PDFs in `backend/data/raw`: {len(list_pdfs())} | "
+        f"DOCX trong `backend/data/raw`: {len(list_docx_files())} | "
         f"Index `{current_index_dir.relative_to(PROJECT_ROOT.parent)}` present: {index_state}"
     )
 
@@ -1183,7 +1301,7 @@ def main() -> None:
         if not tei_backend_is_active(model_key, runtime_mode):
             st.warning("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
     if not index_exists(current_index_dir):
-        st.warning("No FAISS index found. Rebuild the index from the sidebar or run `python ingest_pdfs.py`.")
+        st.warning("Chưa phát hiện index backend. Hãy chạy pipeline trong sidebar để dựng lại index từ DOCX.")
 
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
@@ -1202,47 +1320,60 @@ def main() -> None:
         runtime_mode = st.session_state.tei_runtime_mode
         tei_model_key = st.session_state.embed_model
 
-        if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
-            st.session_state.history.append({"role": "assistant", "content": "Please add your OpenAI API key in the sidebar first."})
+        if st.session_state.embedding_backend != "tei":
+            st.session_state.history.append({
+                "role": "assistant",
+                "content": "Truy hồi thống nhất chỉ hỗ trợ khi chọn Local TEI. Hãy chuyển sang Local TEI trong sidebar.",
+            })
             st.rerun()
 
         if st.session_state.embedding_backend == "tei" and not tei_backend_is_active(tei_model_key, runtime_mode):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "The Docker-based TEI service is not running. Start it from the sidebar before continuing.",
+                "content": "TEI chưa chạy. Khởi động container trong sidebar trước khi tiếp tục.",
             })
             st.rerun()
 
-        if not index_exists(current_index_dir):
-            st.session_state.history.append({"role": "assistant", "content": "FAISS index is missing. Rebuild it first."})
-            st.rerun()
-
-        if st.session_state.embedding_backend == "tei" and not tei_model_is_downloaded(tei_model_key):
+        if not tei_model_is_downloaded(tei_model_key):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "Selected TEI model is not downloaded. Download it from the sidebar.",
+                "content": "Model TEI được chọn chưa được tải. Thực hiện tải model trong sidebar.",
+            })
+            st.rerun()
+
+        if not backend_index_exists(current_index_dir):
+            st.session_state.history.append({
+                "role": "assistant",
+                "content": "Chưa có index backend. Nhấn \"Rebuild backend index\" trong sidebar sau khi chuẩn bị DOCX.",
             })
             st.rerun()
 
         try:
             with st.spinner("Retrieving and reasoning..."):
-                vectorstore = load_vectorstore(
-                    current_index_dir,
-                    st.session_state.embedding_backend,
-                    st.session_state.embed_model,
-                )
-                retriever = vectorstore.as_retriever(search_kwargs={"k": st.session_state.retriever_k})
-                documents = retriever.get_relevant_documents(user_question)
+                chunks = search_backend_index(user_question, st.session_state.retriever_k)
+                if not chunks:
+                    st.session_state.history.append({
+                        "role": "assistant",
+                        "content": "Không tìm thấy đoạn nội dung phù hợp trong index hiện tại.",
+                    })
+                    st.rerun()
 
-                context = format_docs_for_prompt(documents)
+                context = format_backend_context(chunks)
                 answer = call_llm(st.session_state.chat_model, user_question, context)
 
                 sources = []
-                for doc in documents:
-                    source = doc.metadata.get("source", "unknown")
-                    page = doc.metadata.get("page")
-                    snippet = doc.page_content[:400] + "..." if doc.page_content and len(doc.page_content) > 420 else doc.page_content
-                    sources.append({"source": source, "page": page, "snippet": snippet})
+                for item in chunks:
+                    meta = item["meta"]
+                    source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
+                    snippet = meta.get("text") or ""
+                    breadcrumbs = meta.get("breadcrumbs") or meta.get("section_heading")
+                    sources.append(
+                        {
+                            "source": source,
+                            "page": breadcrumbs,
+                            "snippet": snippet[:400] + ("..." if snippet and len(snippet) > 400 else ""),
+                        }
+                    )
 
                 st.session_state.history.append(
                     {
@@ -1252,7 +1383,7 @@ def main() -> None:
                     }
                 )
         except Exception as exc:
-            st.session_state.history.append({"role": "assistant", "content": f"An error occurred: {exc}"})
+            st.session_state.history.append({"role": "assistant", "content": f"Đã xảy ra lỗi: {exc}"})
 
         st.rerun()
 
