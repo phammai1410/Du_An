@@ -54,29 +54,44 @@ EMBED_BACKENDS: Dict[str, str] = {
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
     "BAAI/bge-m3": {
         "display": "BAAI bge-m3 0.6B",
+        "config_key": "BAAI-bge-m3",
         "local_dir": LOCAL_TEI_ROOT / "BAAI-bge-m3",
         "download_script": TOOLS_DIR / "download_bge_m3_tei.py",
         "required_file": "pytorch_model.bin",
     },
     "AITeamVN/Vietnamese_Embedding_v2": {
         "display": "BAAI bge-m3 AITeamVN 0.6B",
+        "config_key": "AITeamVN-Vietnamese_Embedding_v2",
         "local_dir": LOCAL_TEI_ROOT / "AITeamVN-Vietnamese_Embedding_v2",
         "download_script": TOOLS_DIR / "download_vietnamese_embedding_v2_tei.py",
         "required_file": "model.safetensors",
     },
     "Alibaba-NLP/gte-multilingual-base": {
         "display": "Alibaba 0.3B",
+        "config_key": "Alibaba-NLP-gte-multilingual-base",
         "local_dir": LOCAL_TEI_ROOT / "Alibaba-NLP-gte-multilingual-base",
         "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
         "required_file": "model.safetensors",
     },
     "Qwen/Qwen3-Embedding-0.6B": {
         "display": "Qwen3 0.6B",
+        "config_key": "Qwen-Qwen3-Embedding-0.6B",
         "local_dir": LOCAL_TEI_ROOT / "Qwen-Qwen3-Embedding-0.6B",
         "download_script": TOOLS_DIR / "download_qwen3_embedding_tei.py",
         "required_file": "model.safetensors",
     },
 }
+
+
+def resolve_tei_config_key(model_key: str) -> str:
+    """Map UI model keys to the config key expected by launch_tei.py/models.json."""
+    config = TEI_MODELS.get(model_key, {})
+    config_key = config.get("config_key")
+    if isinstance(config_key, str) and config_key:
+        return config_key
+    # Fallback: replace characters unsupported in JSON config keys.
+    return model_key.replace("/", "-")
+
 
 TEI_RUNTIME_MODES: Dict[str, Dict[str, Any]] = {
     "cpu": {
@@ -157,7 +172,8 @@ def load_tei_models_config() -> Dict[str, Dict[str, Any]]:
 
 def get_tei_model_port(model_key: str) -> int:
     config = load_tei_models_config()
-    model_cfg = config.get(model_key, {})
+    config_key = resolve_tei_config_key(model_key)
+    model_cfg = config.get(config_key, {})
     try:
         return int(model_cfg.get("port", 8800))
     except (TypeError, ValueError):
@@ -232,9 +248,10 @@ def set_tei_base_url(port: int) -> str:
 
 
 def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool, str]:
+    config_key = resolve_tei_config_key(model_key)
     args = [
         "--model",
-        model_key,
+        config_key,
         "--runtime",
         runtime_key,
         "--port",
@@ -253,9 +270,10 @@ def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool
 
 
 def stop_tei_runtime(model_key: str, runtime_key: str) -> Tuple[bool, str]:
+    config_key = resolve_tei_config_key(model_key)
     args = [
         "--model",
-        model_key,
+        config_key,
         "--runtime",
         runtime_key,
         "--stop",
