@@ -232,6 +232,24 @@ def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
     )
 
 
+def run_backend_tool(
+    script_name: str,
+    *args: str,
+    env: Optional[Dict[str, str]] = None,
+) -> subprocess.CompletedProcess[str]:
+    command = [sys.executable, str(TOOLS_DIR / script_name), *args]
+    merged_env = os.environ.copy()
+    if env:
+        merged_env.update(env)
+    return subprocess.run(
+        command,
+        cwd=str(BACKEND_ROOT),
+        capture_output=True,
+        text=True,
+        env=merged_env,
+    )
+
+
 def summarize_process(result: subprocess.CompletedProcess[str]) -> str:
     stdout = (result.stdout or "").strip()
     stderr = (result.stderr or "").strip()
@@ -297,6 +315,51 @@ def stop_all_tei_runtimes() -> Tuple[bool, str]:
     else:
         message = summarize_process(result)
     return success, message
+
+
+def rebuild_index_from_docx_all(
+    embedding_model: str,
+    embedding_backend: str,
+    base_url: str,
+) -> Tuple[bool, str]:
+    if embedding_backend != "tei":
+        return False, "Global rebuild only supports the TEI embedding backend."
+
+    convert_result = run_backend_tool("convert_docx_to_json.py")
+    convert_message = summarize_process(convert_result)
+    if convert_result.returncode != 0:
+        return False, convert_message or "Failed while converting DOCX files."
+
+    out_dir = resolve_index_dir(embedding_model)
+    data_dir = BACKEND_ROOT / "data" / "processed-json"
+    backend_choice = os.environ.get("VECTOR_INDEX_BACKEND") or os.environ.get("INDEX_BACKEND")
+
+    build_args: List[str] = [
+        "--model",
+        embedding_model,
+        "--base-url",
+        base_url.rstrip("/"),
+        "--data-dir",
+        str(data_dir),
+        "--out-dir",
+        str(out_dir),
+        "--langs",
+        "vi",
+        "en",
+    ]
+    if backend_choice:
+        build_args.extend(["--backend", backend_choice])
+
+    build_result = run_backend_tool("build_index.py", *build_args)
+    build_message = summarize_process(build_result)
+    success = build_result.returncode == 0
+
+    messages = [msg for msg in (convert_message, build_message) if msg]
+    combined_message = "\n\n".join(messages)
+
+    if success:
+        return True, combined_message or f"Finished rebuilding index at {out_dir}."
+    return False, combined_message or "Failed while building the index."
 
 
 def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
@@ -1143,6 +1206,29 @@ def render_sidebar_quick_actions() -> None:
                     )
                 except Exception as exc:
                     st.error(f"Failed to build index: {exc}")
+
+    if st.button("Rebuild index from DOCX (all languages)", use_container_width=True):
+        if st.session_state.embedding_backend != "tei":
+            st.error("Switch embedding backend to TEI to rebuild from DOCX.")
+        else:
+            runtime_mode = st.session_state.tei_runtime_mode
+            model_key = st.session_state.embed_model
+            base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
+            if not base_url:
+                st.error("TEI base URL is not configured. Start the TEI runtime first.")
+            elif not tei_backend_is_active(model_key, runtime_mode):
+                st.error("TEI runtime is not running. Start it before rebuilding.")
+            else:
+                with st.spinner("Converting DOCX files and rebuilding index..."):
+                    success, message = rebuild_index_from_docx_all(
+                        embedding_model=model_key,
+                        embedding_backend=st.session_state.embedding_backend,
+                        base_url=base_url,
+                    )
+                if success:
+                    st.success(message or "Finished rebuilding index from DOCX files.")
+                else:
+                    st.error(message or "Failed to rebuild index from DOCX files.")
 
     if st.button("Clear chat history", use_container_width=True):
         st.session_state.history = []
