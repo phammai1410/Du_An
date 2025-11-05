@@ -687,12 +687,40 @@ def make_embeddings_client(backend: str, model_name: str):
     raise ValueError(f"Unsupported embedding backend: {backend}")
 
 
+def _resolve_model_targets(model_key: str) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
+    """Return (required, optional) file tuples for the given model."""
+    config = TEI_MODELS.get(model_key)
+    if not config:
+        return (), ()
+
+    script_path = config.get("download_script")
+    if script_path and script_path.exists():
+        required, optional = _load_download_targets(script_path)
+    else:
+        required, optional = (), ()
+
+    if not required:
+        fallback = config.get("required_file")
+        if isinstance(fallback, str) and fallback:
+            required = (fallback,)
+
+    return required, optional
+
+
 def tei_model_is_downloaded(model_key: str) -> bool:
     config = TEI_MODELS.get(model_key)
     if not config:
         return False
-    required_path = config["local_dir"] / config["required_file"]
-    return required_path.exists()
+
+    required, _ = _resolve_model_targets(model_key)
+    if not required:
+        return False
+
+    base_dir: Path = config["local_dir"]
+    for rel_path in required:
+        if not (base_dir / rel_path).exists():
+            return False
+    return True
 
 
 def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
@@ -1470,8 +1498,17 @@ def _download_tei_model_with_progress(
     if not script_path or not script_path.exists():
         return False, f"Download script not found: {script_path}"
 
-    required, optional = _load_download_targets(script_path)
-    total_targets = len(required) + len(optional)
+    required, optional = _resolve_model_targets(model_key)
+    base_dir: Path = config["local_dir"]
+
+    missing_targets = [
+        rel_path for rel_path in (*required, *optional) if not (base_dir / rel_path).exists()
+    ]
+
+    if not missing_targets:
+        return True, "Model assets already present."
+
+    total_targets = len(missing_targets)
     if total_targets <= 0:
         total_targets = 1
 
@@ -1481,7 +1518,12 @@ def _download_tei_model_with_progress(
 
     try:
         process = subprocess.Popen(
-            [sys.executable, str(script_path)],
+            [
+                sys.executable,
+                str(script_path),
+                "--target",
+                str(base_dir),
+            ],
             cwd=str(BACKEND_ROOT),
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
@@ -1519,6 +1561,12 @@ def _download_tei_model_with_progress(
         message = captured[-1].strip() if captured else "Model download failed."
         info_placeholder.error(message or "Model download failed.")
         return False, message or "Model download failed."
+
+    for rel_path in required:
+        if not (base_dir / rel_path).exists():
+            message = f"Missing required file after download: {rel_path}"
+            info_placeholder.error(message)
+            return False, message
 
     progress_bar.progress(100)
     info_placeholder.empty()
