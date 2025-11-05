@@ -5,8 +5,9 @@ import os
 import subprocess
 import sys
 import platform
+import re
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Callable, Dict, List, Optional, Tuple
 from uuid import uuid4
 
 import requests
@@ -21,6 +22,9 @@ try:
     import faiss  # type: ignore
 except Exception:  # noqa: BLE001
     faiss = None  # type: ignore
+
+SOFT_PID_REGISTRY: dict[str, int] = {}
+
 
 # -----------------------------------------------------------------------------#
 # Paths and configuration
@@ -52,24 +56,10 @@ UPLOAD_ALLOWED_EXTS = {"pdf", "docx", "xlsx"}
 OPENAI_EMBED_MODELS = ["text-embedding-3-small", "text-embedding-3-large"]
 EMBED_BACKENDS: Dict[str, str] = {
     "openai": "Open AI Chat GPT Embedding",
-    "tei": "Local TEI (text-embeddings-inference)",
+    "tei": "Local Text-Embeddings-Inference",
 }
 
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
-    "BAAI/bge-m3": {
-        "display": "BAAI bge-m3 0.6B",
-        "config_key": "BAAI-bge-m3",
-        "local_dir": LOCAL_TEI_ROOT / "BAAI-bge-m3",
-        "download_script": TOOLS_DIR / "download_bge_m3_tei.py",
-        "required_file": "pytorch_model.bin",
-    },
-    "AITeamVN/Vietnamese_Embedding_v2": {
-        "display": "BAAI bge-m3 AITeamVN 0.6B",
-        "config_key": "AITeamVN-Vietnamese_Embedding_v2",
-        "local_dir": LOCAL_TEI_ROOT / "AITeamVN-Vietnamese_Embedding_v2",
-        "download_script": TOOLS_DIR / "download_vietnamese_embedding_v2_tei.py",
-        "required_file": "model.safetensors",
-    },
     "Alibaba-NLP/gte-multilingual-base": {
         "display": "Alibaba 0.3B",
         "config_key": "Alibaba-NLP-gte-multilingual-base",
@@ -77,14 +67,47 @@ TEI_MODELS: Dict[str, Dict[str, Any]] = {
         "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
         "required_file": "model.safetensors",
     },
-    "Qwen/Qwen3-Embedding-0.6B": {
-        "display": "Qwen3 0.6B",
-        "config_key": "Qwen-Qwen3-Embedding-0.6B",
-        "local_dir": LOCAL_TEI_ROOT / "Qwen-Qwen3-Embedding-0.6B",
-        "download_script": TOOLS_DIR / "download_qwen3_embedding_tei.py",
+    "sentence-transformers/all-MiniLM-L6-v2": {
+        "display": "MiniLM-L6-v2 (MiniLM, Q4)",
+        "config_key": "sentence-transformers-all-MiniLM-L6-v2",
+        "local_dir": LOCAL_TEI_ROOT / "sentence-transformers-all-MiniLM-L6-v2",
+        "download_script": TOOLS_DIR / "download_all_minilm_l6_v2_tei.py",
         "required_file": "model.safetensors",
     },
 }
+
+RUN_MODE_OPTIONS = {
+    "Open AI ChatGPT": "openai",
+    "Local Embedding/LLM": "local",
+}
+
+OPENAI_CHAT_MODELS = [
+    "gpt-5",
+    "gpt-5-mini",
+    "gpt-5-nano",
+    "gpt-4.1",
+    "gpt-4.1-mini",
+    "gpt-4o",
+    "gpt-4o-mini",
+]
+
+LOCAL_CHAT_MODELS = {
+    "LLAMA 3.1 1B": "llama-3.2-1b-instruct:q4_k_m",
+}
+
+
+def _slugify_identifier(value: str) -> str:
+    chars: List[str] = []
+    for char in value:
+        lower = char.lower()
+        if lower.isalnum():
+            chars.append(lower)
+        else:
+            chars.append("-")
+    slug = "".join(chars).strip("-")
+    while "--" in slug:
+        slug = slug.replace("--", "-")
+    return slug or "default"
 
 
 def resolve_tei_config_key(model_key: str) -> str:
@@ -184,15 +207,15 @@ def get_tei_model_port(model_key: str) -> int:
         return 8800
 
 
+def _tei_container_prefix(model_key: str, runtime_key: str) -> str:
+    model_slug = _slugify_identifier(resolve_tei_config_key(model_key))
+    runtime_slug = _slugify_identifier(runtime_key)
+    return f"{TEI_CONTAINER_PREFIX}{model_slug}-{runtime_slug}"
+
+
 def sanitize_tei_container_name(model_key: str, runtime_key: str) -> str:
-    base = f"{TEI_CONTAINER_PREFIX}{model_key}-{runtime_key}"
-    slug = []
-    for char in base.lower():
-        if char.isalnum() or char == "-":
-            slug.append(char)
-        else:
-            slug.append("-")
-    sanitized = "".join(slug).strip("-")
+    base = _tei_container_prefix(model_key, runtime_key)
+    sanitized = base.strip("-")
     while "--" in sanitized:
         sanitized = sanitized.replace("--", "-")
     return sanitized[:63] or f"{TEI_CONTAINER_PREFIX}runtime"
@@ -211,6 +234,8 @@ def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
             ],
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             check=False,
         )
     except FileNotFoundError:
@@ -226,6 +251,129 @@ def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
     return names, None
 
 
+def get_tei_runtime_status(model_key: str, runtime_key: str) -> Dict[str, Any]:
+    expected_prefix = _tei_container_prefix(model_key, runtime_key)
+    names, error = get_running_tei_containers()
+    match = None
+    others: List[str] = []
+    for name in names:
+        if name == expected_prefix or name.startswith(f"{expected_prefix}-"):
+            match = name
+        else:
+            others.append(name)
+    return {
+        "running": match is not None,
+        "match": match,
+        "others": others,
+        "error": error,
+    }
+
+
+def format_tei_container_label(container_name: str) -> str:
+    if not container_name.startswith(TEI_CONTAINER_PREFIX):
+        return container_name
+    suffix = container_name[len(TEI_CONTAINER_PREFIX) :]
+    if not suffix:
+        return container_name
+    parts = suffix.split("-")
+    model_slug = suffix
+    runtime_slug = ""
+    if len(parts) >= 2:
+        for i in range(1, len(parts) + 1):
+            candidate = "-".join(parts[-i:])
+            if any(_slugify_identifier(key) == candidate for key in TEI_RUNTIME_MODES):
+                runtime_slug = candidate
+                model_slug = "-".join(parts[:-i])
+                break
+        if not runtime_slug:
+            runtime_slug = parts[-1]
+            model_slug = "-".join(parts[:-1])
+    model_label = None
+    for key, meta in TEI_MODELS.items():
+        slug = _slugify_identifier(resolve_tei_config_key(key))
+        if slug == model_slug:
+            model_label = meta.get("display") or key
+            break
+    runtime_label = None
+    for runtime_key, runtime_meta in TEI_RUNTIME_MODES.items():
+        if _slugify_identifier(runtime_key) == runtime_slug:
+            runtime_label = runtime_meta.get("label", runtime_key)
+            break
+    if runtime_label is None:
+        runtime_label = runtime_slug.upper() if runtime_slug else "Unknown runtime"
+    if model_label:
+        return f"{model_label} - {runtime_label}"
+    return f"{model_slug} - {runtime_label}"
+
+
+def localai_is_running() -> bool:
+    try:
+        result = subprocess.run(
+            [
+                "docker",
+                "ps",
+                "--format",
+                "{{.Names}}",
+                "--filter",
+                "name=localai",
+            ],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            check=False,
+        )
+    except FileNotFoundError:
+        return False
+    except Exception:
+        return False
+    if result.returncode != 0:
+        return False
+    return any(line.strip() for line in result.stdout.splitlines())
+
+
+def start_localai_service() -> tuple[bool, str]:
+    try:
+        result = subprocess.run(
+            ["docker", "compose", "up", "-d", "localai"],
+            cwd=str(PROJECT_ROOT.parent),
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            check=False,
+        )
+    except FileNotFoundError:
+        return False, "Docker command not found."
+    except Exception as exc:
+        return False, str(exc)
+    if result.returncode != 0:
+        detail = result.stderr.strip() or result.stdout.strip() or "Failed to start localai service."
+        return False, detail
+    return True, (result.stdout.strip() or "LocalAI service started.")
+
+
+def stop_localai_service() -> tuple[bool, str]:
+    try:
+        result = subprocess.run(
+            ["docker", "compose", "stop", "localai"],
+            cwd=str(PROJECT_ROOT.parent),
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            check=False,
+        )
+    except FileNotFoundError:
+        return False, "Docker command not found."
+    except Exception as exc:
+        return False, str(exc)
+    if result.returncode != 0:
+        detail = result.stderr.strip() or result.stdout.strip() or "Failed to stop localai service."
+        return False, detail
+    return True, (result.stdout.strip() or "LocalAI service stopped.")
+
+
 def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
     command = [sys.executable, str(TOOLS_DIR / "launch_tei.py"), *args]
     return subprocess.run(
@@ -233,6 +381,8 @@ def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
         cwd=str(BACKEND_ROOT),
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
     )
 
 
@@ -250,6 +400,8 @@ def run_backend_tool(
         cwd=str(BACKEND_ROOT),
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         env=merged_env,
     )
 
@@ -321,54 +473,9 @@ def stop_all_tei_runtimes() -> Tuple[bool, str]:
     return success, message
 
 
-def rebuild_index_from_docx_all(
-    embedding_model: str,
-    embedding_backend: str,
-    base_url: str,
-) -> Tuple[bool, str]:
-    if embedding_backend != "tei":
-        return False, "Global rebuild only supports the TEI embedding backend."
-
-    convert_result = run_backend_tool("convert_docx_to_json.py")
-    convert_message = summarize_process(convert_result)
-    if convert_result.returncode != 0:
-        return False, convert_message or "Failed while converting DOCX files."
-
-    out_dir = resolve_index_dir(embedding_model)
-    data_dir = BACKEND_ROOT / "data" / "processed-json"
-    backend_choice = os.environ.get("VECTOR_INDEX_BACKEND") or os.environ.get("INDEX_BACKEND")
-
-    build_args: List[str] = [
-        "--model",
-        embedding_model,
-        "--base-url",
-        base_url.rstrip("/"),
-        "--data-dir",
-        str(data_dir),
-        "--out-dir",
-        str(out_dir),
-        "--langs",
-        "vi",
-        "en",
-    ]
-    if backend_choice:
-        build_args.extend(["--backend", backend_choice])
-
-    build_result = run_backend_tool("build_index.py", *build_args)
-    build_message = summarize_process(build_result)
-    success = build_result.returncode == 0
-
-    messages = [msg for msg in (convert_message, build_message) if msg]
-    combined_message = "\n\n".join(messages)
-
-    if success:
-        return True, combined_message or f"Finished rebuilding index at {out_dir}."
-    return False, combined_message or "Failed while building the index."
-
-
 def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
-    containers, _ = get_running_tei_containers()
-    return sanitize_tei_container_name(model_key, runtime_key) in containers
+    status = get_tei_runtime_status(model_key, runtime_key)
+    return bool(status.get("running"))
 
 
 # -----------------------------------------------------------------------------#
@@ -398,7 +505,7 @@ def get_embed_meta_path(index_dir: Path) -> Path:
     return index_dir / "embeddings.json"
 
 
-def ensure_dirs() -> None:
+def ensure_dirs():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     INDEX_ROOT.mkdir(parents=True, exist_ok=True)
     UPLOADS_ROOT.mkdir(parents=True, exist_ok=True)
@@ -415,26 +522,6 @@ def list_docx_files() -> List[Path]:
 
 def index_exists(index_dir: Path) -> bool:
     return backend_index_exists(index_dir)
-
-
-def save_embed_meta(index_dir: Path, backend: str, model_name: str, chunk_mode: str) -> None:
-    try:
-        meta_path = get_embed_meta_path(index_dir)
-        meta_path.parent.mkdir(parents=True, exist_ok=True)
-        meta_path.write_text(
-            json.dumps(
-                {
-                    "embedding_backend": backend,
-                    "embedding_model": model_name,
-                    "chunk_mode": chunk_mode,
-                },
-                ensure_ascii=False,
-                indent=2,
-            ),
-            encoding="utf-8",
-        )
-    except Exception:
-        pass  # Silently ignore metadata persistence issues
 
 
 def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
@@ -476,7 +563,7 @@ def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
 class TEIEmbeddings:
     """Client for text-embeddings-inference endpoint."""
 
-    def __init__(self, base_url: str, model: str, api_key: Optional[str] = None) -> None:
+    def __init__(self, base_url: str, model: str, api_key: Optional[str] = None):
         self.base_url = base_url.rstrip("/")
         self.model = model
         self.api_key = api_key
@@ -515,6 +602,8 @@ def check_docker_cli() -> Tuple[bool, str]:
             ["docker", "--version"],
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             check=False,
         )
     except FileNotFoundError:
@@ -535,6 +624,8 @@ def docker_supports_nvidia() -> Tuple[bool, Optional[str]]:
             ["docker", "info", "--format", "{{json .Runtimes}}"],
             capture_output=True,
             text=True,
+            encoding="utf-8",
+            errors="replace",
             check=False,
         )
     except FileNotFoundError:
@@ -585,6 +676,8 @@ def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
         check=False,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
     )
 
 
@@ -616,7 +709,20 @@ def backend_index_exists(index_dir: Path) -> bool:
     return faiss_path.exists() or brute_path.exists()
 
 
-def run_backend_pipeline(model_name: str, langs: List[str], base_url: Optional[str], out_dir: Path) -> Tuple[bool, str]:
+PIPELINE_STEP_MESSAGES: Dict[int, str] = {
+    1: "Running Step 1: DOCX -> Sections",
+    2: "Running Step 2: DOCX -> JSON",
+    3: "Running Step 3: JSON -> Index",
+}
+
+
+def run_backend_pipeline(
+    model_name: str,
+    langs: List[str],
+    base_url: Optional[str],
+    out_dir: Path,
+    on_output: Callable[[str], None] | None = None,
+) -> Tuple[bool, str]:
     script = TOOLS_DIR / "ingest_docx_pipeline.py"
     if not script.exists():
         return False, f"Pipeline script not found: {script}"
@@ -634,16 +740,54 @@ def run_backend_pipeline(model_name: str, langs: List[str], base_url: Optional[s
     if langs:
         args.extend(["--langs", *langs])
 
-    result = subprocess.run(
-        args,
-        cwd=str(PROJECT_ROOT.parent),
-        capture_output=True,
-        text=True,
-    )
-    output = (result.stdout or "").strip()
-    error = (result.stderr or "").strip()
-    message = output if output else error if error else "No output."
-    return result.returncode == 0, message
+    args.extend(["--batch-size", "8"])
+
+    existing_proc = st.session_state.get("backend_pipeline_proc")
+    if existing_proc and existing_proc.poll() is None:
+        try:
+            existing_proc.terminate()
+            existing_proc.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            existing_proc.kill()
+        except Exception:
+            pass
+    st.session_state["backend_pipeline_proc"] = None
+    SOFT_PID_REGISTRY.pop("backend_pipeline", None)
+
+    try:
+        result = subprocess.Popen(
+            args,
+            cwd=str(PROJECT_ROOT.parent),
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+        )
+    except Exception as exc:
+        return False, f"Failed to launch pipeline: {exc}"
+
+    st.session_state["backend_pipeline_proc"] = result
+    SOFT_PID_REGISTRY["backend_pipeline"] = result.pid
+
+    output_lines: List[str] = []
+    try:
+        if result.stdout:
+            for raw_line in result.stdout:
+                line = raw_line.rstrip("\r\n")
+                output_lines.append(line)
+                if on_output:
+                    on_output(line)
+        return_code = result.wait()
+    finally:
+        st.session_state["backend_pipeline_proc"] = None
+        SOFT_PID_REGISTRY.pop("backend_pipeline", None)
+
+    message = "\n".join(line for line in output_lines if line).strip()
+    success = return_code == 0
+    if not message:
+        message = "No output."
+    return success, message
 
 
 def _l2_normalize(array: np.ndarray) -> np.ndarray:
@@ -699,7 +843,7 @@ def ensure_backend_index_cache(model_name: str) -> Dict[str, Any]:
     return cache[key]
 
 
-def invalidate_backend_index_cache(model_name: Optional[str] = None) -> None:
+def invalidate_backend_index_cache(model_name: Optional[str] = None):
     if "backend_index_cache" not in st.session_state:
         return
     if model_name is None:
@@ -794,7 +938,7 @@ def call_llm(chat_model: str, question: str, context: str) -> str:
 # -----------------------------------------------------------------------------#
 
 
-def apply_material_theme() -> None:
+def apply_material_theme():
     """Inject a pastel blue Material-inspired theme into the Streamlit app."""
     st.markdown(
         """
@@ -911,27 +1055,38 @@ def apply_material_theme() -> None:
             padding-top: 1rem;
         }
 
-        .hero-banner {
-            background: linear-gradient(145deg, rgba(255, 255, 255, 0.9), rgba(232, 241, 255, 0.9));
-            border: 1px solid var(--border-soft);
-            border-radius: 24px;
-            padding: 1.8rem 2rem;
-            box-shadow: var(--shadow-soft);
-            margin-bottom: 1.5rem;
-        }
 
-        .hero-banner h2 {
-            margin-bottom: 0.4rem;
-            color: var(--primary-600);
-            font-weight: 700;
-        }
+.runtime-status {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-weight: 600;
+    font-size: 0.85rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    margin-bottom: 0.6rem;
+    text-align: center;
+    gap: 0.25rem;
+}
 
-        .hero-banner p {
-            margin: 0;
-            color: var(--text-muted);
-            font-size: 0.95rem;
-        }
+.runtime-status--on {
+    background: rgba(80, 200, 138, 0.18);
+    color: #2f9e5b;
+    border-color: rgba(80, 200, 138, 0.32);
+}
 
+.runtime-status--off {
+    background: rgba(234, 76, 76, 0.14);
+    color: #d66565;
+    border-color: rgba(234, 76, 76, 0.28);
+}
+
+.runtime-button-row {
+    display: flex;
+    gap: 0.6rem;
+}
         div[data-testid="stChatMessage"] {
             background: rgba(255, 255, 255, 0.92);
             border-radius: 20px;
@@ -1010,7 +1165,22 @@ def apply_material_theme() -> None:
     )
 
 
-def init_session() -> None:
+def init_session():
+    existing_proc = st.session_state.get("backend_pipeline_proc")
+    if existing_proc and existing_proc.poll() is None:
+        try:
+            existing_proc.terminate()
+            existing_proc.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            existing_proc.kill()
+        except Exception:
+            pass
+    st.session_state["backend_pipeline_proc"] = None
+    SOFT_PID_REGISTRY.pop("backend_pipeline", None)
+
+    if "run_mode" not in st.session_state:
+        default_mode = "local" if st.session_state.get("embedding_backend") == "tei" else "openai"
+        st.session_state.run_mode = default_mode
     if "history" not in st.session_state:
         st.session_state.history = []
     if "retriever_k" not in st.session_state:
@@ -1052,193 +1222,202 @@ def init_session() -> None:
         st.session_state.backend_index_cache = {}
 
 
-def render_settings_body() -> None:
+
+def render_settings_body():
     st.title("Settings")
 
-    st.text_input(
-        "OpenAI API Key",
-        type="password",
-        help="Enter your API key here if you do not have a .env file.",
-        key="openai_key",
+    run_mode_display = st.selectbox(
+        "Run mode",
+        options=list(RUN_MODE_OPTIONS.keys()),
+        index=list(RUN_MODE_OPTIONS.values()).index(st.session_state.get("run_mode", "local")),
     )
-    if st.session_state.openai_key:
-        os.environ["OPENAI_API_KEY"] = st.session_state.openai_key
+    run_mode = RUN_MODE_OPTIONS[run_mode_display]
+    st.session_state.run_mode = run_mode
+    st.session_state.embedding_backend = "openai" if run_mode == "openai" else "tei"
 
-    backend_options = list(EMBED_BACKENDS.keys())
-    previous_backend = st.session_state.embedding_backend
-    st.selectbox(
-        "Embedding source",
-        backend_options,
-        format_func=lambda key: EMBED_BACKENDS[key],
-        key="embedding_backend",
-    )
-    if st.session_state.embedding_backend != previous_backend:
-        st.session_state.embed_model = (
-            OPENAI_EMBED_MODELS[0] if st.session_state.embedding_backend == "openai" else list(TEI_MODELS.keys())[0]
+    if run_mode == "openai":
+        st.session_state.openai_key = st.text_input(
+            "OpenAI API Key",
+            value=st.session_state.openai_key,
+            type="password",
+            help="Enter your API key here if you do not have a .env file.",
         )
-        st.rerun()
-
-    if st.session_state.embedding_backend == "openai":
-        options = OPENAI_EMBED_MODELS
-        if st.session_state.embed_model not in options:
-            st.session_state.embed_model = options[0]
-        st.selectbox(
-            "Embedding model",
-            options=options,
-            help="Rebuild the index after changing the embedding model.",
-            key="embed_model",
-        )
+        if st.session_state.openai_key:
+            os.environ["OPENAI_API_KEY"] = st.session_state.openai_key
     else:
-        options = list(TEI_MODELS.keys())
-        if st.session_state.embed_model not in options:
-            st.session_state.embed_model = options[0]
-        st.selectbox(
+        st.caption("Local mode uses TEI and LocalAI; no API key is required.")
+
+    st.divider()
+
+    if run_mode == "openai":
+        embed_options = OPENAI_EMBED_MODELS
+        if st.session_state.embed_model not in embed_options:
+            st.session_state.embed_model = embed_options[0]
+        selected_embed = st.selectbox(
             "Embedding model",
-            options=options,
+            options=embed_options,
+            index=embed_options.index(st.session_state.embed_model),
+        )
+        st.session_state.embed_model = selected_embed
+    else:
+        tei_options = list(TEI_MODELS.keys())
+        if st.session_state.embed_model not in tei_options:
+            st.session_state.embed_model = tei_options[0]
+        selected_embed = st.selectbox(
+            "Embedding model",
+            options=tei_options,
+            index=tei_options.index(st.session_state.embed_model),
             format_func=lambda key: TEI_MODELS[key]["display"],
-            key="embed_model",
         )
+        st.session_state.embed_model = selected_embed
 
-        runtime_options = list(TEI_RUNTIME_MODES.keys())
-        if st.session_state.tei_runtime_mode not in runtime_options:
-            st.session_state.tei_runtime_mode = DEFAULT_TEI_RUNTIME_MODE
-        st.selectbox(
-            "TEI runtime mode",
-            options=runtime_options,
-            format_func=lambda key: TEI_RUNTIME_MODES[key]["label"],
-            key="tei_runtime_mode",
+    if run_mode == "openai":
+        chat_options = OPENAI_CHAT_MODELS
+        if st.session_state.chat_model not in chat_options:
+            st.session_state.chat_model = chat_options[0]
+        selected_chat = st.selectbox(
+            "Chat model",
+            options=chat_options,
+            index=chat_options.index(st.session_state.chat_model),
         )
-        runtime_mode = st.session_state.tei_runtime_mode
-        runtime_info = TEI_RUNTIME_MODES[runtime_mode]
+        st.session_state.chat_model = selected_chat
+    else:
+        display_options = list(LOCAL_CHAT_MODELS.keys())
+        current_display = next(
+            (name for name, value in LOCAL_CHAT_MODELS.items() if value == st.session_state.chat_model),
+            display_options[0],
+        )
+        selected_display = st.selectbox(
+            "Chat model",
+            options=display_options,
+            index=display_options.index(current_display),
+        )
+        st.session_state.chat_model = LOCAL_CHAT_MODELS[selected_display]
 
-        docker_ok, docker_detail = check_docker_cli()
-        running_containers: List[str] = []
-        running_error: Optional[str] = None
-        if docker_ok:
-            st.success(f"Docker detected ({docker_detail}).")
-            running_containers, running_error = get_running_tei_containers()
-        else:
-            st.error("Docker CLI not available. Install Docker to run TEI containers.")
-            st.markdown(DOCKER_INSTALL_GUIDE_MD)
-
-        st.caption(f"Docker image: `{runtime_info['image']}`")
-        if runtime_info.get("description"):
-            st.caption(runtime_info["description"])
-
-        if runtime_info.get("requires_gpu"):
-            st.info("This runtime requires an NVIDIA GPU.")
-            if platform.system().lower() == "linux" and docker_ok:
-                nvidia_ok, nvidia_detail = docker_supports_nvidia()
-                if nvidia_ok:
-                    st.success("NVIDIA Container Toolkit detected via `docker info`.")
-                else:
-                    st.error("NVIDIA Container Toolkit not detected. Install it before launching GPU runtimes on Linux.")
-                    st.markdown(LINUX_GPU_TOOLKIT_MD)
-                    if nvidia_detail and "not detected" not in nvidia_detail.lower():
-                        st.caption(nvidia_detail)
-        elif not docker_ok:
-            st.info("Docker installation is required before running the TEI backend.")
-
-        model_key = st.session_state.embed_model
-        config = TEI_MODELS[model_key]
-        downloaded = tei_model_is_downloaded(model_key)
-        port_value = get_tei_model_port(model_key)
-        container_name = sanitize_tei_container_name(model_key, runtime_mode)
-        set_tei_base_url(port_value)
-        is_running = docker_ok and container_name in running_containers
-
-        st.caption(f"TEI endpoint URL: `http://localhost:{port_value}/embed`")
-        if running_error:
-            st.warning(f"Could not inspect Docker containers: {running_error}")
-        elif is_running:
-            st.success(f"Container `{container_name}` is running.")
-        elif docker_ok:
-            st.info("No TEI container is running right now.")
-
-        button_label = "Stop TEI" if is_running else "Start TEI"
-        button_disabled = not docker_ok
-        if st.button(
-            button_label,
-            key=f"tei-toggle-{model_key}-{runtime_mode}",
-            use_container_width=True,
-            type="primary",
-            disabled=button_disabled,
-        ):
-            if is_running:
-                success, message = stop_tei_runtime(model_key, runtime_mode)
-            else:
-                success, message = start_tei_runtime(model_key, runtime_mode, port_value)
-            st.session_state.tei_control_feedback = ("success" if success else "error", message)
-            st.rerun()
-
-        control_feedback = st.session_state.tei_control_feedback
-        if control_feedback:
-            status, message = control_feedback
-            if status == "success":
-                st.success(message)
-            else:
-                st.error(message)
-            st.session_state.tei_control_feedback = None
-
-        st.markdown("**Local TEI model**")
-        st.caption(config["display"])
-        status_col, info_col = st.columns([0.25, 0.75])
-        with status_col:
-            status_text = "ready" if downloaded else "download"
-            st.markdown(f"`{status_text}`")
-        with info_col:
-            st.caption(f"Path: `{config['local_dir']}`")
-            if not downloaded:
-                if st.button("Download model", key=f"download-{model_key}"):
-                    result = run_tei_download(model_key)
-                    success = result.returncode == 0 and tei_model_is_downloaded(model_key)
-                    if success:
-                        st.session_state.download_feedback = (
-                            "success",
-                            f"Downloaded {config['display']} successfully.",
-                        )
-                    else:
-                        detail = (result.stderr or "").strip() or (result.stdout or "").strip() or "No log output."
-                        st.session_state.download_feedback = (
-                            "error",
-                            f"Failed to download {config['display']} (code {result.returncode}). {detail}",
-                        )
-                    st.rerun()
-
-    feedback = st.session_state.download_feedback
-    if feedback:
-        status, message = feedback
-        if status == "success":
-            st.success(message)
-        else:
-            st.error(message)
-        st.session_state.download_feedback = None
-
-    chat_models = ["gpt-4o-mini", "gpt-4o", "gpt-4.1-mini", "gpt-4.1"]
-    if st.session_state.chat_model not in chat_models:
-        st.session_state.chat_model = chat_models[0]
-    st.selectbox(
-        "Chat model",
-        options=chat_models,
-        key="chat_model",
-    )
-
-    st.selectbox(
+    current_chunk_mode = st.session_state.get("chunk_mode", DEFAULT_CHUNK_MODE)
+    new_chunk_mode = st.selectbox(
         "Chunk mode",
         options=list(CHUNK_MODES.keys()),
+        index=list(CHUNK_MODES.keys()).index(current_chunk_mode),
         format_func=lambda key: CHUNK_MODES[key],
-        key="chunk_mode",
     )
-
-    st.slider(
+    st.session_state.chunk_mode = new_chunk_mode
+    st.session_state.retriever_k = st.slider(
         "Top-k passages",
         min_value=2,
         max_value=10,
         step=1,
-        key="retriever_k",
+        value=st.session_state.get("retriever_k", 4),
     )
 
-def render_sidebar_quick_actions() -> None:
+    if run_mode == "local":
+        render_local_runtime_controls()
+
+def _start_selected_tei() -> tuple[bool, str]:
+    model_key = st.session_state.embed_model
+    runtime_mode = st.session_state.tei_runtime_mode
+    port = get_tei_model_port(model_key)
+    return start_tei_runtime(model_key, runtime_mode, port)
+
+
+def _stop_selected_tei() -> tuple[bool, str]:
+    model_key = st.session_state.embed_model
+    runtime_mode = st.session_state.tei_runtime_mode
+    return stop_tei_runtime(model_key, runtime_mode)
+
+
+def _trigger_streamlit_rerun() -> None:
+    """Call the available Streamlit rerun API across versions."""
+    rerun_fn = getattr(st, "rerun", None) or getattr(st, "experimental_rerun", None)
+    if rerun_fn is None:
+        raise RuntimeError("Streamlit rerun function not available.")
+    rerun_fn()
+
+
+def _render_runtime_control(
+    title: str,
+    running: bool,
+    feedback_key: str,
+    start_cb,
+    stop_cb,
+    button_key: str,
+    status_detail: Optional[str] = None,
+) -> None:
+    st.markdown(f"**{title}**")
+    status_class = "runtime-status--on" if running else "runtime-status--off"
+    status_label = "Running" if running else "Stopped"
+
+    st.markdown(f'<span class="runtime-status {status_class}">{status_label}</span>', unsafe_allow_html=True)
+
+    if status_detail:
+        st.caption(status_detail)
+
+    action_label = "Stop" if running else "Start"
+    action_cb = stop_cb if running else start_cb
+    spinner_label = "Stopping" if running else "Starting"
+
+    if st.button(action_label, key=button_key, type="primary", use_container_width=True):
+        with st.spinner(f"{spinner_label} {title.lower()}..."):
+            success, message = action_cb()
+        st.session_state[feedback_key] = ("success" if success else "error", message)
+        _trigger_streamlit_rerun()
+
+    feedback = st.session_state.get(feedback_key)
+    if feedback:
+        status, message = feedback
+        if message:
+            if status == "success":
+                st.success(message)
+            else:
+                st.error(message)
+        st.session_state[feedback_key] = None
+
+
+def render_local_runtime_controls() -> None:
+    model_key = st.session_state.embed_model
+    runtime_mode = st.session_state.tei_runtime_mode
+    tei_status = get_tei_runtime_status(model_key, runtime_mode)
+    tei_running = bool(tei_status.get("running"))
+    localai_running = localai_is_running()
+
+    st.subheader("Runtime control")
+    tei_detail: Optional[str] = None
+    if tei_status.get("error"):
+        tei_detail = f"Docker error: {tei_status['error']}"
+    elif tei_status.get("match"):
+        port = get_tei_model_port(model_key)
+        label = format_tei_container_label(tei_status["match"])
+        tei_detail = f"{label} - http://localhost:{port}"
+        if not st.session_state.get("tei_base_url"):
+            st.session_state.tei_base_url = f"http://localhost:{port}"
+    elif tei_status.get("others"):
+        label = format_tei_container_label(tei_status["others"][0])
+        tei_detail = f"Different TEI running: {label}"
+
+    _render_runtime_control(
+        "Embedding runtime",
+        tei_running,
+        "tei_runtime_feedback",
+        _start_selected_tei,
+        _stop_selected_tei,
+        "tei_runtime_button",
+        status_detail=tei_detail,
+    )
+
+    st.markdown("")
+
+    _render_runtime_control(
+        "Chat runtime",
+        localai_running,
+        "localai_runtime_feedback",
+        start_localai_service,
+        stop_localai_service,
+        "localai_runtime_button",
+        status_detail="Docker container: localai" if localai_running else None,
+    )
+
+
+def render_sidebar_quick_actions():
     st.subheader("Data")
 
     uploaded_files = st.file_uploader(
@@ -1256,7 +1435,7 @@ def render_sidebar_quick_actions() -> None:
             if ext not in UPLOAD_ALLOWED_EXTS:
                 errors.append(f"Unsupported file type: {file.name}")
                 continue
-            target_dir = (UPLOADS_ROOT / ext)
+            target_dir = UPLOADS_ROOT / ext
             target_dir.mkdir(parents=True, exist_ok=True)
             stem = Path(file.name).stem.strip()
             safe_stem = "".join(ch if ch.isalnum() or ch in {"-", "_"} else "-" for ch in stem).strip("-") or "document"
@@ -1301,52 +1480,64 @@ def render_sidebar_quick_actions() -> None:
     st.divider()
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
     docx_langs = detect_docx_languages()
+    runtime_mode = st.session_state.tei_runtime_mode
+    model_key = st.session_state.embed_model
+
     if st.button("Rebuild backend index", use_container_width=True):
         if st.session_state.embedding_backend != "tei":
-            st.error("Chức năng này chỉ khả dụng khi chọn Local TEI.")
-        elif not tei_model_is_downloaded(st.session_state.embed_model):
-            st.error("Model TEI được chọn chưa được tải.")
+            st.error("Rebuild is only available in Local TEI mode.")
+        elif not tei_model_is_downloaded(model_key):
+            st.error("The selected TEI model has not been downloaded.")
         else:
-            base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
-            if not base_url:
-                st.error("Không tìm thấy TEI base URL. Hãy chạy hoặc cấu hình TEI trước.")
-            else:
-                with st.spinner("Đang chạy pipeline DOCX → JSON → Index..."):
-                    langs = docx_langs or ["vi"]
-                    success, message = run_backend_pipeline(
-                        st.session_state.embed_model,
-                        langs,
-                        base_url,
-                        current_index_dir,
-                    )
-                    if success:
-                        invalidate_backend_index_cache(st.session_state.embed_model)
-                        st.success("Pipeline hoàn tất.")
-                    else:
-                        st.error(f"Pipeline thất bại: {message}")
-
-    if st.button("Rebuild index from DOCX (all languages)", use_container_width=True):
-        if st.session_state.embedding_backend != "tei":
-            st.error("Switch embedding backend to TEI to rebuild from DOCX.")
-        else:
-            runtime_mode = st.session_state.tei_runtime_mode
-            model_key = st.session_state.embed_model
             base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
             if not base_url:
                 st.error("TEI base URL is not configured. Start the TEI runtime first.")
             elif not tei_backend_is_active(model_key, runtime_mode):
                 st.error("TEI runtime is not running. Start it before rebuilding.")
             else:
-                with st.spinner("Converting DOCX files and rebuilding index..."):
-                    success, message = rebuild_index_from_docx_all(
-                        embedding_model=model_key,
-                        embedding_backend=st.session_state.embedding_backend,
-                        base_url=base_url,
+                langs = docx_langs or ["vi"]
+                progress_status = st.empty()
+                progress_status.info("Preparing pipeline...")
+                progress_bar = st.progress(1)
+                step_pattern = re.compile(r"Step\s+(\d+)/(\d+)")
+                last_progress = 1
+
+                def handle_pipeline_output(line: str) -> None:
+                    nonlocal last_progress
+                    match = step_pattern.search(line)
+                    if not match:
+                        if "Pipeline completed successfully" in line:
+                            progress_bar.progress(100)
+                        return
+                    current = int(match.group(1))
+                    total = max(int(match.group(2)), 1)
+                    fraction = (current - 0.5) / total
+                    fraction = min(max(fraction, 0.0), 1.0)
+                    progress_value = int(fraction * 100)
+                    if progress_value <= last_progress:
+                        progress_value = last_progress
+                    progress_bar.progress(max(progress_value, 1))
+                    last_progress = progress_value
+                    label = PIPELINE_STEP_MESSAGES.get(
+                        current,
+                        f"Running Step {current}/{total}",
                     )
+                    progress_status.info(label)
+
+                success, message = run_backend_pipeline(
+                    st.session_state.embed_model,
+                    langs,
+                    base_url,
+                    current_index_dir,
+                    on_output=handle_pipeline_output,
+                )
                 if success:
-                    st.success(message or "Finished rebuilding index from DOCX files.")
+                    progress_bar.progress(100)
+                    progress_status.success("Pipeline completed successfully.")
+                    invalidate_backend_index_cache(st.session_state.embed_model)
                 else:
-                    st.error(message or "Failed to rebuild index from DOCX files.")
+                    progress_status.error("Pipeline failed. See details below.")
+                    st.error(f"Pipeline failed: {message}")
 
     if st.button("Clear chat history", use_container_width=True):
         st.session_state.history = []
@@ -1355,7 +1546,7 @@ def render_sidebar_quick_actions() -> None:
     st.divider()
     index_state = "yes" if index_exists(current_index_dir) else "no"
     st.caption(
-        f"DOCX trong `backend/data/raw`: {len(list_docx_files())} | "
+        f"DOCX in `backend/data/raw`: {len(list_docx_files())} | "
         f"Index `{current_index_dir.relative_to(PROJECT_ROOT.parent)}` present: {index_state}"
     )
 
@@ -1372,8 +1563,7 @@ def render_sidebar_quick_actions() -> None:
         ):
             st.warning("The current embedding selection differs from the index. Rebuild to avoid inconsistencies.")
 
-
-def main() -> None:
+def main():
     load_dotenv()
     ensure_dirs()
     init_session()
@@ -1384,28 +1574,18 @@ def main() -> None:
     with st.sidebar:
         render_sidebar()
 
-    st.title("NEU Research Chatbot")
-    st.markdown(
-        """
-        <div class="hero-banner">
-            <h2>Trợ lý nghiên cứu NEU</h2>
-            <p>Khai thác tri thức trong tài liệu PDF của bạn với giao diện Material pastel xanh dương nhẹ nhàng.</p>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
 
     if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
-        st.info("No OpenAI API key detected. Enter it in the sidebar or the `.env` file before generating embeddings.")
+        st.info("No OpenAI API key detected. Enter it in the sidebar or the .env file before generating embeddings.")
     elif st.session_state.embedding_backend == "tei":
         runtime_mode = st.session_state.tei_runtime_mode
         model_key = st.session_state.embed_model
         if not tei_backend_is_active(model_key, runtime_mode):
             st.warning("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
+
     if not index_exists(current_index_dir):
-        st.warning("Chưa phát hiện index backend. Hãy chạy pipeline trong sidebar để dựng lại index từ DOCX.")
+        st.warning("No backend index detected. Run the pipeline from the sidebar to build it from DOCX files.")
 
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
@@ -1417,7 +1597,9 @@ def main() -> None:
                         if source.get("snippet"):
                             st.caption(source["snippet"])
 
-    user_question = st.chat_input("Ask something about your documents...")
+    pending_question = st.session_state.pop("_pending_question", None)
+    user_question = pending_question or st.chat_input("Ask something about your documents...")
+
     if user_question:
         st.session_state.history.append({"role": "user", "content": user_question})
 
@@ -1427,28 +1609,28 @@ def main() -> None:
         if st.session_state.embedding_backend != "tei":
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "Truy hồi thống nhất chỉ hỗ trợ khi chọn Local TEI. Hãy chuyển sang Local TEI trong sidebar.",
+                "content": "Retrieval requires Local TEI. Switch to Local TEI in the sidebar.",
             })
             st.rerun()
 
         if st.session_state.embedding_backend == "tei" and not tei_backend_is_active(tei_model_key, runtime_mode):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "TEI chưa chạy. Khởi động container trong sidebar trước khi tiếp tục.",
+                "content": "TEI is not running. Start the container from the sidebar before continuing.",
             })
             st.rerun()
 
         if not tei_model_is_downloaded(tei_model_key):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "Model TEI được chọn chưa được tải. Thực hiện tải model trong sidebar.",
+                "content": "The selected TEI model has not been downloaded. Download it from the sidebar.",
             })
             st.rerun()
 
         if not backend_index_exists(current_index_dir):
             st.session_state.history.append({
                 "role": "assistant",
-                "content": "Chưa có index backend. Nhấn \"Rebuild backend index\" trong sidebar sau khi chuẩn bị DOCX.",
+                "content": 'No backend index detected. Click "Rebuild backend index" in the sidebar after preparing DOCX files.',
             })
             st.rerun()
 
@@ -1458,7 +1640,7 @@ def main() -> None:
                 if not chunks:
                     st.session_state.history.append({
                         "role": "assistant",
-                        "content": "Không tìm thấy đoạn nội dung phù hợp trong index hiện tại.",
+                        "content": "No relevant chunks found in the current index.",
                     })
                     st.rerun()
 
@@ -1471,28 +1653,24 @@ def main() -> None:
                     source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
                     snippet = meta.get("text") or ""
                     breadcrumbs = meta.get("breadcrumbs") or meta.get("section_heading")
-                    sources.append(
-                        {
-                            "source": source,
-                            "page": breadcrumbs,
-                            "snippet": snippet[:400] + ("..." if snippet and len(snippet) > 400 else ""),
-                        }
-                    )
+                    sources.append({
+                        "source": source,
+                        "page": breadcrumbs,
+                        "snippet": snippet[:400] + ("..." if snippet and len(snippet) > 400 else ""),
+                    })
 
-                st.session_state.history.append(
-                    {
-                        "role": "assistant",
-                        "content": answer,
-                        "sources": sources,
-                    }
-                )
+                st.session_state.history.append({
+                    "role": "assistant",
+                    "content": answer,
+                    "sources": sources,
+                })
         except Exception as exc:
-            st.session_state.history.append({"role": "assistant", "content": f"Đã xảy ra lỗi: {exc}"})
+            st.session_state.history.append({"role": "assistant", "content": f"An error occurred: {exc}"})
 
         st.rerun()
 
 
-def render_sidebar() -> None:
+def render_sidebar():
     render_settings_body()
     st.divider()
     render_sidebar_quick_actions()
@@ -1500,3 +1678,5 @@ def render_sidebar() -> None:
 
 if __name__ == "__main__":
     main()
+
+

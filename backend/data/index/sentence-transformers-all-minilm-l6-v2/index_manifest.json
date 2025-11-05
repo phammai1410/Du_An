@@ -1,0 +1,16 @@
+{
+  "backend": "faiss",
+  "dim": 384,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "base_url": "http://localhost:8800",
+  "total_vectors": 3747,
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "min_words": 40,
+  "short_threshold": 120,
+  "long_threshold": 220,
+  "created_at": "2025-11-05T13:53:06.056297+00:00",
+  "data_dir": "data\\processed-json"
+}

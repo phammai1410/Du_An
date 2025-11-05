@@ -66,7 +66,7 @@ def parse_args() -> argparse.Namespace:
         default=env_backend,
         help="Vector index backend passed to build_index.py.",
     )
-    parser.add_argument("--batch-size", type=int, default=None)
+    parser.add_argument("--batch-size", type=int, default=int(os.environ.get("INDEX_BATCH_SIZE", "8")))
     parser.add_argument("--min-words", type=int, default=None)
     parser.add_argument("--short-threshold", type=int, default=None)
     parser.add_argument("--long-threshold", type=int, default=None)

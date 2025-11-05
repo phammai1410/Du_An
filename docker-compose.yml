@@ -3,41 +3,46 @@ services:
   # LocalAI for chat completions (single container)
   localai:
     image: localai/localai:latest
-    # LocalAI server for chat completions. This image will serve models placed in /models.
+    # LocalAI server for chat completions. The command will auto-download the requested model.
     restart: unless-stopped
+    command:
+      - local-ai
+      - run
+      - llama-3.2-1b-instruct:q4_k_m
     ports:
       - '8080:8080'
     environment:
       - LOG_LEVEL=info
-    volumes:
-      - ./backend/local-llm/chat-models:/models
 
   # TEI embedding services - one per model; use the official HF TEI images
-  tei-aiteamvn:
+  tei-minilm:
     image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
     restart: unless-stopped
     ports:
-      - '8800:8080'
+      - '8800:80'
     volumes:
-      - ./backend/local-llm/Embedding/AITeamVN-Vietnamese_Embedding_v2:/data
-    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
+      - ./backend/local-llm/Embedding/sentence-transformers-all-MiniLM-L6-v2:/data
+    command:
+      - --model-id
+      - /data
+      - --hostname
+      - 0.0.0.0
+      - --auto-truncate
+      - --max-client-batch-size
+      - "8"
 
-  tei-baai:
+  tei-alibaba:
     image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
     restart: unless-stopped
     ports:
-      - '8802:8080'
+      - '8801:80'
     volumes:
-      - ./backend/local-llm/Embedding/BAAI-bge-m3:/data
-    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
-
-  tei-qwen:
-    image: ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
-    restart: unless-stopped
-    ports:
-      - '8803:8080'
-    volumes:
-      - ./backend/local-llm/Embedding/Qwen-Qwen3-Embedding-0.6B:/data
-    command: ["--model-id", "/data", "--hostname", "0.0.0.0"]
+      - ./backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base:/data
+    command:
+      - --model-id
+      - /data
+      - --hostname
+      - 0.0.0.0
+      - --auto-truncate
 
 # Note: Adjust images, ports and mounts as necessary. For GPU runtimes, replace the TEI image tag with a GPU-enabled image and add runtime args.

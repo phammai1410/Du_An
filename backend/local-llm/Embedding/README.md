@@ -35,15 +35,17 @@ its local directory and preferred port. Example:
 
 ```json
 {
-  "AITeamVN-Vietnamese_Embedding_v2": {
-    "path": "../Embedding/AITeamVN-Vietnamese_Embedding_v2",
-    "port": 8800
+  "sentence-transformers-all-MiniLM-L6-v2": {
+    "path": "../Embedding/sentence-transformers-all-MiniLM-L6-v2",
+    "port": 8800,
+    "auto_truncate": true,
+    "max_client_batch_size": 8
   }
 }
 ```
 
 Adjust the `path` or `port` if you move models around. Optional TEI flags (for
-example `max_client_batch_size`, `dtype`, `normalize`, …) can still be added per
+example `auto_truncate`, `max_client_batch_size`, `dtype`, `normalize`, …) can still be added per
 model and will be forwarded to the container entrypoint automatically.
 
 ## 3. Launch TEI with Docker
@@ -82,11 +84,11 @@ require the NVIDIA Container Toolkit (see step 1).
 # List configured models and runtime choices
 python backend/tools/launch_tei.py --list
 
-# Launch the Vietnamese embedding model on CPU mode, exposing port 8800
-python backend/tools/launch_tei.py --model AITeamVN-Vietnamese_Embedding_v2 --runtime cpu
+# Launch the MiniLM embedding model on CPU mode, exposing port 8800
+python backend/tools/launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu
 
-# Launch the BGE M3 model with the Ampere 86 build on port 9000
-python backend/tools/launch_tei.py --model BAAI-bge-m3 --runtime ampere_86 --port 9000
+# Launch the Alibaba multilingual model with the Ampere 86 build on port 9000
+python backend/tools/launch_tei.py --model Alibaba-NLP-gte-multilingual-base --runtime ampere_86 --port 9000
 ```
 
 Press `Ctrl+C` to stop the container when running in the foreground, or call `python backend/tools/launch_tei.py --model <model_name> --runtime <mode> --stop` to stop a detached run. The helper automatically stops other TEI containers before launching a new one.

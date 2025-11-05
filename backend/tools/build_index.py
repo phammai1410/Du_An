@@ -1,6 +1,8 @@
 import argparse
+import io
 import json
 import os
+import sys
 import time
 import unicodedata
 from datetime import datetime, timezone
@@ -15,6 +17,31 @@ try:
     import faiss  # type: ignore
 except Exception:  # noqa: BLE001
     faiss = None  # type: ignore
+
+
+BACKEND_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _configure_utf8_io() -> None:
+    """Ensure stdout/stderr can handle UTF-8 text on Windows consoles."""
+    for stream_name in ("stdout", "stderr"):
+        stream = getattr(sys, stream_name, None)
+        if stream is None:
+            continue
+        try:
+            if hasattr(stream, "reconfigure"):
+                stream.reconfigure(encoding="utf-8", errors="replace")
+                continue
+            buffer = getattr(stream, "buffer", None)
+            if buffer is None:
+                continue
+            wrapped = io.TextIOWrapper(buffer, encoding="utf-8", errors="replace", write_through=True)
+            setattr(sys, stream_name, wrapped)
+        except Exception:
+            continue
+
+
+_configure_utf8_io()
 
 
 def _clean_text(value: Optional[str]) -> str:
@@ -310,7 +337,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build a vector index from processed syllabus JSON files.")
     parser.add_argument("--model", default=default_model)
     parser.add_argument("--base-url", default=default_base_url)
-    parser.add_argument("--data-dir", type=Path, default=Path("backend/data/processed-json"))
+    parser.add_argument("--data-dir", type=Path, default=BACKEND_ROOT / "data" / "processed-json")
     parser.add_argument("--out-dir", type=Path, default=None)
     parser.add_argument("--batch-size", type=int, default=default_batch_size)
     parser.add_argument("--min-words", type=int, default=default_min_words)
@@ -330,7 +357,7 @@ def main() -> int:
         raise ValueError("--embed-max-len must be positive.")
     args.embed_max_len = max(200, args.embed_max_len)
 
-    out_dir = args.out_dir or Path(f"backend/data/index/{args.model}")
+    out_dir = args.out_dir or BACKEND_ROOT / "data" / "index" / args.model
     out_dir.mkdir(parents=True, exist_ok=True)
 
     texts: List[str] = []
@@ -406,6 +433,16 @@ def main() -> int:
                     process_batch(right)
                     return
 
+                if attempt < 3:
+                    wait = max(1.0, backoff)
+                    print(
+                        f"[WARN] HTTP {status_code or 'error'} for batch of size {len(batch_indices)}. "
+                        f"Retrying in {wait:.1f}s..."
+                    )
+                    time.sleep(wait)
+                    backoff *= 2
+                    continue
+
                 idx = batch_indices[0]
                 failed_indices.append(idx)
                 meta = metas[idx]
@@ -426,6 +463,16 @@ def main() -> int:
                     process_batch(left)
                     process_batch(right)
                     return
+
+                if attempt < 3:
+                    wait = max(1.0, backoff)
+                    print(
+                        f"[WARN] Connection error for chunk {batch_indices[0]} ({req_err}). "
+                        f"Retrying in {wait:.1f}s..."
+                    )
+                    time.sleep(wait)
+                    backoff *= 2
+                    continue
 
                 idx = batch_indices[0]
                 failed_indices.append(idx)

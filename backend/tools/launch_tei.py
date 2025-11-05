@@ -295,6 +295,7 @@ def build_docker_command(
         "pooling": "--pooling",
         "normalize": "--normalize",
         "trust_remote_code": "--trust-remote-code",
+        "auto_truncate": "--auto-truncate",
     }
 
     for key, flag in optional_flag_map.items():
@@ -330,7 +331,7 @@ def list_models(models_cfg: Dict[str, Dict[str, object]]) -> None:
 
     print(
         "\nLaunch example:\n"
-        "  python backend/tools/launch_tei.py --model AITeamVN-Vietnamese_Embedding_v2 --runtime cpu\n"
+        "  python backend/tools/launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu\n"
     )
 
 
