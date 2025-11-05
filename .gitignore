@@ -12,3 +12,12 @@ logs/
 /backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base/
 /backend/local-llm/Embedding/Qwen-Qwen3-Embedding-0.6B/
 /backend/local-llm/Embedding/sentence-transformers-all-MiniLM-L6-v2/
+
+backend/data/processed-json/*
+!backend/data/processed-json/.gitkeep
+
+backend/data/processed-structured/*
+!backend/data/processed-structured/.gitkeep
+
+backend/data/index/*
+!backend/data/index/.gitkeep

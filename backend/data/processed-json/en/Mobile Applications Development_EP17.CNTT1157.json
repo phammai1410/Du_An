@@ -7,8 +7,8 @@
   "source_filename": "Mobile Applications Development_EP17.CNTT1157.docx",
   "source_relpath": "data\\raw\\en\\Mobile Applications Development_EP17.CNTT1157.docx",
   "source_hash": "a213185b540ca4ca617a8e6cf47c0f26",
-  "source_modified": "2025-10-11T10:42:50.602948+00:00",
-  "processed_at": "2025-10-12T13:24:13.903264+00:00",
+  "source_modified": "2025-10-19T17:31:17.197365+00:00",
+  "processed_at": "2025-11-05T15:52:45.895108+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -122,9 +122,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1157#004",
-      "text": "The course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.\nCourse content includes:\n- Overview of mobile programming\n- Development tools\n- Components of a mobile application\n- Mobile User Interface (UI)\n- Store data online/offline.\n- Multitasking and asynchronous processing\n- Build applications based on device features.\n- Learn and use APIs.\n- Application testing and distribution\nThe course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.\nApplications will be developed during the learning process through lessons and group exercises:\n- Calculator: Application that can perform basic math operations.",
-      "word_count": 182,
-      "char_count": 1235,
+      "text": "The course aims to provide students with basic knowledge of application programming on mobile devices with Android or iOS. Students will be instructed to use Java and Objective C, Swift ... or cross-platform tools such as Xamarin, Reactive Native, Flutter ... Students will be equipped with knowledge depending on each different platform to program, develop, and distribute mobile applications.\nCourse content includes:\n- Overview of mobile programming\n- Development tools\n- Components of a mobile application\n- Mobile User Interface (UI)\n- Store data online/offline.\n- Multitasking and asynchronous processing\n- Build applications based on device features.\n- Learn and use APIs.\n- Application testing and distribution\nThe course also aims to train thinking skills, the ability to self-study knowledge, and technology to develop mobile applications by working independently as well as in groups. Students will be divided into groups to learn deeply about technologies, from which they can present in their solutions using modern technologies to develop mobile applications.",
+      "word_count": 160,
+      "char_count": 1073,
       "heading_path": [
         "2. COURSE DESCRIPTIONS"
       ],
@@ -133,14 +133,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 37
+        "end_block": 35
       }
     },
     {
       "chunk_id": "en-ep17-cntt1157#005",
-      "text": "- Notes: Application for taking notes and managing tasks.\n- Clock: Create a simple clock application.\n- Unit Converter: Application that supports measurement and unit conversion.\n- Weather: Displays weather forecast information\n- Health: Record user steps\n- Quiz: Display the quiz and check the player's answer.\n- Expensify: Track personal income and expenditure.\n- Book: Book management and reading application.\n- Music Player: A simple music player.\n- Cooking: Displays cooking recipes.\n- Vocab: The application supports learning vocabulary",
-      "word_count": 80,
-      "char_count": 542,
+      "text": "Applications will be developed during the learning process through lessons and group exercises:\n- Calculator: Application that can perform basic math operations.\n- Notes: Application for taking notes and managing tasks.\n- Clock: Create a simple clock application.\n- Unit Converter: Application that supports measurement and unit conversion.\n- Weather: Displays weather forecast information\n- Health: Record user steps\n- Quiz: Display the quiz and check the player's answer.\n- Expensify: Track personal income and expenditure.\n- Book: Book management and reading application.\n- Music Player: A simple music player.\n- Cooking: Displays cooking recipes.\n- Vocab: The application supports learning vocabulary",
+      "word_count": 102,
+      "char_count": 704,
       "heading_path": [
         "2. COURSE DESCRIPTIONS"
       ],
@@ -148,7 +148,7 @@
       "breadcrumbs": "2. COURSE DESCRIPTIONS",
       "position": {
         "order": 5,
-        "start_block": 38,
+        "start_block": 36,
         "end_block": 50
       }
     },

@@ -7,8 +7,8 @@
   "source_filename": "Phân tích và thiết kế thuật toán_CNTT1118.docx",
   "source_relpath": "data\\raw\\vi\\Phân tích và thiết kế thuật toán_CNTT1118.docx",
   "source_hash": "0d2341ad67cfee3add528f5c7aa58be2",
-  "source_modified": "2025-10-11T10:42:50.651551+00:00",
-  "processed_at": "2025-10-12T13:24:20.212104+00:00",
+  "source_modified": "2025-10-19T17:31:17.239509+00:00",
+  "processed_at": "2025-11-05T15:52:52.597643+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 67,
     "headings": 21,
     "tables": 11,
-    "chunks": 20,
+    "chunks": 21,
     "words": 3979
   },
   "chunks": [
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1118#004",
-      "text": "Học phần này giới thiệu các kỹ thuật phục vụ cho thiết kế và phân tích hiệu quả các thuật toán, nhấn mạnh vào các phương pháp hữu dụng trong thực tế. Thông  qua việc tính toán độ phức tạp và đi sâu phân tích các phạm vi khác nhau của các lớp bài toán cơ bản sẽ giúp người học hiểu rõ về hoạt động này, bao gồm: Tổng quan các khái niệm về thuật toán, tiệm cận, độ phức tạp thuật toán của các bài toán cơ bản và các lớp bài toán khó; trình bày và phân tích các kỹ thuật sắp xếp, cây tìm kiếm, vun đống, hàm băm, chia để trị, quy hoạch động, thuật toán tham lam, các thuật toán đồ thị, và đường đi ngắn nhất,…; Một số chủ đề nâng cao; Tính toán độ phức tạp thuật toán cho các bài toán cơ bản và các lớp bài toán khó; Các thuật toán Heuristic và thuật toán xấp xỉ; Một vài hướng nghiên cứu về độ phức tạp thuật toán.\nNội dung chính:",
-      "word_count": 181,
-      "char_count": 828,
+      "text": "Học phần này giới thiệu các kỹ thuật phục vụ cho thiết kế và phân tích hiệu quả các thuật toán, nhấn mạnh vào các phương pháp hữu dụng trong thực tế. Thông  qua việc tính toán độ phức tạp và đi sâu phân tích các phạm vi khác nhau của các lớp bài toán cơ bản sẽ giúp người học hiểu rõ về hoạt động này, bao gồm: Tổng quan các khái niệm về thuật toán, tiệm cận, độ phức tạp thuật toán của các bài toán cơ bản và các lớp bài toán khó; trình bày và phân tích các kỹ thuật sắp xếp, cây tìm kiếm, vun đống, hàm băm, chia để trị, quy hoạch động, thuật toán tham lam, các thuật toán đồ thị, và đường đi ngắn nhất,…; Một số chủ đề nâng cao; Tính toán độ phức tạp thuật toán cho các bài toán cơ bản và các lớp bài toán khó; Các thuật toán Heuristic và thuật toán xấp xỉ; Một vài hướng nghiên cứu về độ phức tạp thuật toán.",
+      "word_count": 178,
+      "char_count": 812,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,14 +183,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 25
+        "end_block": 24
       }
     },
     {
       "chunk_id": "vi-cntt1118#005",
-      "text": "- Các khái niệm căn bản\n- Chia để trị\n- Thuật toán tham lam\n- Giải thuật quy hoạch động\n- Giải thuật quay lui, nhánh cận\n- Các thuật toán đồ thị\n- Các thuật toán song song\n- Các thuật toán dựa trên xác suất\n- Độ phức tạp thuật toán, các lớp bài toán P, NP, NP đầy đủ\n- Các thuật toán Heuristics và thuật toán xấp xỉ",
-      "word_count": 73,
-      "char_count": 315,
+      "text": "Nội dung chính:\n- Các khái niệm căn bản\n- Chia để trị\n- Thuật toán tham lam\n- Giải thuật quy hoạch động\n- Giải thuật quay lui, nhánh cận\n- Các thuật toán đồ thị\n- Các thuật toán song song\n- Các thuật toán dựa trên xác suất\n- Độ phức tạp thuật toán, các lớp bài toán P, NP, NP đầy đủ\n- Các thuật toán Heuristics và thuật toán xấp xỉ",
+      "word_count": 76,
+      "char_count": 331,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,7 +198,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 26,
+        "start_block": 25,
         "end_block": 37
       }
     },
@@ -264,7 +264,7 @@
       "position": {
         "order": 9,
         "start_block": 57,
-        "end_block": 59
+        "end_block": 58
       }
     },
     {
@@ -402,9 +402,9 @@
     },
     {
       "chunk_id": "vi-cntt1118#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 8 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 8 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,14 +414,14 @@
       "position": {
         "order": 18,
         "start_block": 99,
-        "end_block": 105
+        "end_block": 103
       }
     },
     {
       "chunk_id": "vi-cntt1118#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 105,
-        "end_block": 108
+        "start_block": 104,
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1118#020",
-      "text": "- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về phân tích và thiết kế thuật toán | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về phân tích và thiết kế thuật toán và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về phân tích và thiết kế thuật toán, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về phân tích và thiết kế thuật toán, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về phân tích và thiết kế thuật toán, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
-      "word_count": 521,
-      "char_count": 2189,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 52,
+      "char_count": 228,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,7 +447,24 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 109,
+        "start_block": 107,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1118#021",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về phân tích và thiết kế thuật toán | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về phân tích và thiết kế thuật toán và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về phân tích và thiết kế thuật toán, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về phân tích và thiết kế thuật toán, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về phân tích và thiết kế thuật toán, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 491,
+      "char_count": 2060,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 113,
         "end_block": 113
       }
     }

@@ -7,8 +7,8 @@
   "source_filename": "Database Management Systems_CNTT1152E.docx",
   "source_relpath": "data\\raw\\en\\Database Management Systems_CNTT1152E.docx",
   "source_hash": "549d8c9ad4c54a38d2dfacd17561b545",
-  "source_modified": "2025-10-11T10:42:50.586222+00:00",
-  "processed_at": "2025-10-12T13:24:11.985788+00:00",
+  "source_modified": "2025-10-19T17:31:17.182353+00:00",
+  "processed_at": "2025-11-05T15:52:43.802602+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -75,7 +75,7 @@
     "paragraphs": 44,
     "headings": 12,
     "tables": 12,
-    "chunks": 16,
+    "chunks": 18,
     "words": 2254
   },
   "chunks": [
@@ -138,7 +138,7 @@
       "position": {
         "order": 4,
         "start_block": 23,
-        "end_block": 25
+        "end_block": 24
       }
     },
     {
@@ -186,7 +186,7 @@
       "position": {
         "order": 7,
         "start_block": 40,
-        "end_block": 42
+        "end_block": 41
       }
     },
     {
@@ -207,9 +207,9 @@
     },
     {
       "chunk_id": "en-cntt1152e#009",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Group works",
-      "word_count": 83,
-      "char_count": 373,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests",
+      "word_count": 41,
+      "char_count": 186,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -218,14 +218,14 @@
       "position": {
         "order": 9,
         "start_block": 47,
-        "end_block": 51
+        "end_block": 49
       }
     },
     {
       "chunk_id": "en-cntt1152e#010",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nGroup works | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
-      "word_count": 80,
-      "char_count": 339,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Group works",
+      "word_count": 42,
+      "char_count": 186,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -233,12 +233,44 @@
       "breadcrumbs": "6. COURSE ASSESSMENT",
       "position": {
         "order": 10,
-        "start_block": 51,
-        "end_block": 55
+        "start_block": 49,
+        "end_block": 51
       }
     },
     {
       "chunk_id": "en-cntt1152e#011",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nGroup works | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam",
+      "word_count": 42,
+      "char_count": 180,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 11,
+        "start_block": 51,
+        "end_block": 53
+      }
+    },
+    {
+      "chunk_id": "en-cntt1152e#012",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
+      "word_count": 38,
+      "char_count": 158,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 12,
+        "start_block": 53,
+        "end_block": 55
+      }
+    },
+    {
+      "chunk_id": "en-cntt1152e#013",
       "text": "Table 7. Course outline\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1-2 | Chapter 1. Introduction Introduction to Basic Database Concepts Introduction Install Microsoft SQL Server Common Tools in Microsoft SQL Server Introduction Relational Database | Read textbook: Chapter 1,2,4  from [1] and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Rubric 1 Rubric 2\n3-6 | Chapter 2. Working with Databases Basics of SQL Types of SQL Statements Datatypes in SQL Server Create Database using Management Studio Exploring DDL Statements on Table using Management Studio Exploring Statements  Create, Alter - databases, tables Exploring Statements SELECT- FROM_WHERE, other Exploring Statements: Indexes, views. Exploring Update/ Delete/Insert | Read textbook: Chapter 2,3,4, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers | Rubric 1 Rubric 2\n7-11 | Chapter 3. Working with Transact-SQL 3.1 Introduction to T-SQL. 3.2 Introduction to Stored procedures 3.3 Creating, Executing Modifying, Dropping 3.4 Working with Functions 3.5 Working with Trigger 3.6 Working with TRANSACTION | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers | Rubric 1 Rubric 2\n12-13 | Chapter4: Administration 4.1 Automate Administration 4.2 Backup and Restore 4.3 Import and Export Data | Read textbook: Chapter 9, 12, 14, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Rubric 1 Rubric 2\n14 | Group works | Read textbook: Chapter 1-11, from [1] and additional references | CLO1.1 CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 | Group works Programming on the computers | Rubric 3\n15 | Course review | Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Rubric 1\n- | Final exam | - | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule Programming on the computers | Rubric 4",
       "word_count": 389,
       "char_count": 2536,
@@ -248,13 +280,13 @@
       "primary_heading": "7. COURSE OUTLINE",
       "breadcrumbs": "7. COURSE OUTLINE",
       "position": {
-        "order": 11,
+        "order": 13,
         "start_block": 56,
         "end_block": 57
       }
     },
     {
-      "chunk_id": "en-cntt1152e#012",
+      "chunk_id": "en-cntt1152e#014",
       "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chapter 1. Introduction Introduction to Basic Database Concepts Introduction Install Microsoft SQL Server | Read textbook: Chapter 1,2,4  from [1] and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction Individual testing\n2 | Common Tools in Microsoft SQL Server Introduction Relational Database | - | CLO2.1 CLO2.2 CLO2.3 | - | -\n3 | Chapter 2. Working with databases Basics of SQL Types of SQL Statements Datatypes in SQL Server | Read textbook: Chapter 2,3,4, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction Individual testing\n4 | Database using Management Studio Exploring Statements  Create, Alter - databases, tables | Read textbook: Chapter 2,3,4, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction Individual testing\n5 | Exploring Statements SELECT- FROM_WHERE, other | Read textbook: Chapter 2,3,4, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction Individual testing\n6 | Exploring Statements: Indexes, views ( | Read textbook: Chapter 2,3,4, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction Individual testing\n7 | Chapter 3. Working with Transact-SQL 3.1 Introduction to T-SQL. 3.2 Introduction to Stored procedures | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Lecturing Group discussion Programming on the computers Individual testing | Participation Interaction Individual testing Programming on the computers\n8 | 3.2 Introduction to Stored procedures (continue) 3.3 Creating, Executing Modifying, Dropping | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers Individual testing | Participation Interaction Individual testing Programming on the computers\n9 | 3.3 Creating, Executing Modifying, Dropping (continue) -other projects 3.4 Working with Functions | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers Individual testing | Participation Interaction Individual testing Programming on the computers\n10 | 3.5 Working with Trigger | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers Individual testing | Participation Interaction Individual testing Programming on the computers\n11 | 3.6 Working with TRANSACTION | Read textbook: Chapter 7,8, 9, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers Individual testing | Participation Interaction Individual testing Programming on the computers\n12 | Chapter4: Administration 4.1 Automate Administration 4.2 Backup and Restore | Read textbook: Chapter 9, 12, 14, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Participation Interaction Individual testing Programming on the computers\n13 | 4.3 Import and Export Data | Read textbook: Chapter 9, 12, 14, from [2] and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Participation Interaction Individual testing Programming on the computers\n14 | Group works | Read textbook: Chapter 1-11, from [1] and additional references | CLO1.1 CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 | Group works | Group works assessment.\n15 | Course review | Read textbook: Chapter 1,2,3,4, from [1], Chapter 2,3,4, 9, 10, 12 from [2], and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Participation Interaction\n- | Final exam | - | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule - Programming on the computers | Essay exam Programming on the computers",
       "word_count": 712,
       "char_count": 4847,
@@ -264,13 +296,13 @@
       "primary_heading": "8. LESSON PLAN",
       "breadcrumbs": "8. LESSON PLAN",
       "position": {
-        "order": 12,
+        "order": 14,
         "start_block": 60,
         "end_block": 61
       }
     },
     {
-      "chunk_id": "en-cntt1152e#013",
+      "chunk_id": "en-cntt1152e#015",
       "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
       "word_count": 23,
       "char_count": 118,
@@ -281,13 +313,13 @@
       "primary_heading": "9.1. Requirements for taking final /terminal exams",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
       "position": {
-        "order": 13,
+        "order": 15,
         "start_block": 66,
         "end_block": 67
       }
     },
     {
-      "chunk_id": "en-cntt1152e#014",
+      "chunk_id": "en-cntt1152e#016",
       "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
       "word_count": 108,
       "char_count": 638,
@@ -298,13 +330,13 @@
       "primary_heading": "9.2. Requirements for attending classes",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
       "position": {
-        "order": 14,
+        "order": 16,
         "start_block": 68,
         "end_block": 71
       }
     },
     {
-      "chunk_id": "en-cntt1152e#015",
+      "chunk_id": "en-cntt1152e#017",
       "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
       "word_count": 90,
       "char_count": 536,
@@ -315,13 +347,13 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 15,
+        "order": 17,
         "start_block": 72,
         "end_block": 75
       }
     },
     {
-      "chunk_id": "en-cntt1152e#016",
+      "chunk_id": "en-cntt1152e#018",
       "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
       "word_count": 15,
       "char_count": 77,
@@ -332,7 +364,7 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 16,
+        "order": 18,
         "start_block": 75,
         "end_block": 77
       }

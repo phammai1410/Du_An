@@ -7,8 +7,8 @@
   "source_filename": "Hệ hỗ trợ ra quyết định_CNTT1176.docx",
   "source_relpath": "data\\raw\\vi\\Hệ hỗ trợ ra quyết định_CNTT1176.docx",
   "source_hash": "f254f46a00083f9bfbaa4de24eb1430e",
-  "source_modified": "2025-10-11T10:42:50.625947+00:00",
-  "processed_at": "2025-10-12T13:24:16.567051+00:00",
+  "source_modified": "2025-10-19T17:31:17.217369+00:00",
+  "processed_at": "2025-11-05T15:52:48.608326+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 63,
     "headings": 21,
     "tables": 11,
-    "chunks": 20,
+    "chunks": 21,
     "words": 4104
   },
   "chunks": [
@@ -231,7 +231,7 @@
       "position": {
         "order": 7,
         "start_block": 45,
-        "end_block": 49
+        "end_block": 47
       }
     },
     {
@@ -264,7 +264,7 @@
       "position": {
         "order": 9,
         "start_block": 56,
-        "end_block": 60
+        "end_block": 58
       }
     },
     {
@@ -402,9 +402,9 @@
     },
     {
       "chunk_id": "vi-cntt1176#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,14 +414,14 @@
       "position": {
         "order": 18,
         "start_block": 102,
-        "end_block": 108
+        "end_block": 106
       }
     },
     {
       "chunk_id": "vi-cntt1176#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 108,
-        "end_block": 111
+        "start_block": 107,
+        "end_block": 108
       }
     },
     {
       "chunk_id": "vi-cntt1176#020",
-      "text": "- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ hỗ trợ ra quyết định | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Hệ hỗ trợ ra quyết định và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Hệ hỗ trợ ra quyết định, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
-      "word_count": 516,
-      "char_count": 2144,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 52,
+      "char_count": 228,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,7 +447,24 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 112,
+        "start_block": 110,
+        "end_block": 116
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1176#021",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Hệ hỗ trợ ra quyết định | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Hệ hỗ trợ ra quyết định và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Hệ hỗ trợ ra quyết định, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Hệ hỗ trợ ra quyết định, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 486,
+      "char_count": 2015,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 116,
         "end_block": 116
       }
     }

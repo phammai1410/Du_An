@@ -7,8 +7,8 @@
   "source_filename": "Trí tuệ nhân tạo_CNTT1140.docx",
   "source_relpath": "data\\raw\\vi\\Trí tuệ nhân tạo_CNTT1140.docx",
   "source_hash": "e89b0278da79099ab9bef09c3b71fd91",
-  "source_modified": "2025-10-11T10:42:50.658165+00:00",
-  "processed_at": "2025-10-12T13:24:21.217333+00:00",
+  "source_modified": "2025-10-19T17:31:17.245507+00:00",
+  "processed_at": "2025-11-05T15:52:53.676803+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -115,7 +115,7 @@
     "paragraphs": 92,
     "headings": 20,
     "tables": 12,
-    "chunks": 24,
+    "chunks": 26,
     "words": 6681
   },
   "chunks": [
@@ -183,9 +183,9 @@
     },
     {
       "chunk_id": "vi-cntt1140#005",
-      "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các vấn đề về Trí tuệ nhân tạo trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n- Tổng quan và các khái niệm chung về trí tuệ nhân tạo\n- Các phương pháp biểu diễn và giải quyết vấn đề bằng tìm kiếm\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm mù\n- Đồ thị VÀ/HOẶC và tìm kiếm trên đồ thị VÀ/HOẶC để giải quyết vấn đề\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm kinh nghiệm\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm tối ưu\n- Các dạng chuẩn và các phương pháp biến đổi về các dạng chuẩn\n- Lôgíc mệnh đề, lôgíc vị từ cấp một và các kỹ thuật chứng minh tự động\n- Các phương pháp biểu diễn tri thức",
-      "word_count": 182,
-      "char_count": 821,
+      "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các vấn đề về Trí tuệ nhân tạo trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n- Tổng quan và các khái niệm chung về trí tuệ nhân tạo\n- Các phương pháp biểu diễn và giải quyết vấn đề bằng tìm kiếm\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm mù\n- Đồ thị VÀ/HOẶC và tìm kiếm trên đồ thị VÀ/HOẶC để giải quyết vấn đề\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm kinh nghiệm\n- Các phương pháp giải quyết vấn đề bằng tìm kiếm tối ưu\n- Các dạng chuẩn và các phương pháp biến đổi về các dạng chuẩn",
+      "word_count": 157,
+      "char_count": 712,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -194,14 +194,14 @@
       "position": {
         "order": 5,
         "start_block": 27,
-        "end_block": 37
+        "end_block": 35
       }
     },
     {
       "chunk_id": "vi-cntt1140#006",
-      "text": "- Các phương pháp xử lý tri thức\n- Các kỹ thuật trí tuệ nhân tạo hiện đại bao gồm: Mạng nơron nhân tạo, lôgíc mờ, giải thuật di truyền, khai phá dữ liệu",
-      "word_count": 34,
-      "char_count": 152,
+      "text": "- Lôgíc mệnh đề, lôgíc vị từ cấp một và các kỹ thuật chứng minh tự động\n- Các phương pháp biểu diễn tri thức\n- Các phương pháp xử lý tri thức\n- Các kỹ thuật trí tuệ nhân tạo hiện đại bao gồm: Mạng nơron nhân tạo, lôgíc mờ, giải thuật di truyền, khai phá dữ liệu",
+      "word_count": 59,
+      "char_count": 261,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -209,15 +209,15 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 6,
-        "start_block": 38,
+        "start_block": 36,
         "end_block": 41
       }
     },
     {
       "chunk_id": "vi-cntt1140#007",
-      "text": "4.1. Giáo trình\n[1] Đinh Mạnh Tường (2002), Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\nTài liệu khác:\n[2] Nguyễn Thanh Thủy (1996), Nhập môn Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\n4.2. Tài liệu tham khảo\n[3] Lưu Minh Tuấn (2024), Slide bài giảng môn học Trí tuệ nhân tạo (Lưu hành nội bộ), Bộ môn CNTT - Viện CNTT&KTS - ĐHKTQD.\n[4] Hoàng Kiếm, Nguyễn Đinh Anh Dũng (2007), Giáo trình nhập môn Trí tuệ nhân tạo, Nhà xuất bản Đại học Quốc gia TP Hồ Chí Minh.\n[5] Đỗ Trung Tuấn (2000), Giáo trình Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\n[6] Nguyễn Thanh Thủy, Bài giảng môn học Trí tuệ nhân tạo giành cho học viên Cao học (2000) (Lưu hành nội bộ), Trung tâm bồi dưỡng và đào tạo sau đại học - Đại học Bách khoa Hà Nội.\n[7] Lương Mạnh Bá, Nguyễn Thanh Thuỷ (1999), Nhập môn xử lý ảnh số, Nhà xuất bản khoa học và kỹ thuật.",
-      "word_count": 181,
-      "char_count": 855,
+      "text": "4.1. Giáo trình\n[1] Đinh Mạnh Tường (2002), Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\nTài liệu khác:\n[2] Nguyễn Thanh Thủy (1996), Nhập môn Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\n4.2. Tài liệu tham khảo\n[3] Lưu Minh Tuấn (2024), Slide bài giảng môn học Trí tuệ nhân tạo (Lưu hành nội bộ), Bộ môn CNTT - Viện CNTT&KTS - ĐHKTQD.\n[4] Hoàng Kiếm, Nguyễn Đinh Anh Dũng (2007), Giáo trình nhập môn Trí tuệ nhân tạo, Nhà xuất bản Đại học Quốc gia TP Hồ Chí Minh.\n[5] Đỗ Trung Tuấn (2000), Giáo trình Trí tuệ nhân tạo, Nhà xuất bản khoa học và kỹ thuật.\n[6] Nguyễn Thanh Thủy, Bài giảng môn học Trí tuệ nhân tạo giành cho học viên Cao học (2000) (Lưu hành nội bộ), Trung tâm bồi dưỡng và đào tạo sau đại học - Đại học Bách khoa Hà Nội.",
+      "word_count": 159,
+      "char_count": 752,
       "heading_path": [
         "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
       ],
@@ -226,14 +226,14 @@
       "position": {
         "order": 7,
         "start_block": 42,
-        "end_block": 51
+        "end_block": 50
       }
     },
     {
       "chunk_id": "vi-cntt1140#008",
-      "text": "[8] Nguyễn Hoàng Phương, Bùi Công Cường, Nguyễn Doãn Phước, Phan Xuân Minh, Chu Văn Hỷ (1998), Hệ mờ và ứng dụng, Nhà xuất bản khoa học và kỹ thuật.\n[9] Nguyễn Đình Thúc (Chủ biên) (1998), Mạng Nơron (Phương pháp & ứng dụng), Nhà xuất bản giáo dục.\n4.3. Phần mềm\n[10]  Python. https://www.python.org/\n[11] Scikit-learn. https://scikit-learn.org/\n[12] Tensorflow. https://www.tensorflow.org/\n[13] Keras. https://keras.io/",
-      "word_count": 64,
-      "char_count": 420,
+      "text": "[7] Lương Mạnh Bá, Nguyễn Thanh Thuỷ (1999), Nhập môn xử lý ảnh số, Nhà xuất bản khoa học và kỹ thuật.\n[8] Nguyễn Hoàng Phương, Bùi Công Cường, Nguyễn Doãn Phước, Phan Xuân Minh, Chu Văn Hỷ (1998), Hệ mờ và ứng dụng, Nhà xuất bản khoa học và kỹ thuật.\n[9] Nguyễn Đình Thúc (Chủ biên) (1998), Mạng Nơron (Phương pháp & ứng dụng), Nhà xuất bản giáo dục.\n4.3. Phần mềm\n[10]  Python. https://www.python.org/\n[11] Scikit-learn. https://scikit-learn.org/\n[12] Tensorflow. https://www.tensorflow.org/\n[13] Keras. https://keras.io/",
+      "word_count": 86,
+      "char_count": 523,
       "heading_path": [
         "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
       ],
@@ -241,7 +241,7 @@
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "position": {
         "order": 8,
-        "start_block": 52,
+        "start_block": 51,
         "end_block": 59
       }
     },
@@ -429,9 +429,9 @@
     },
     {
       "chunk_id": "vi-cntt1140#020",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 165,
-      "char_count": 652,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 157,
+      "char_count": 615,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -441,14 +441,14 @@
       "position": {
         "order": 20,
         "start_block": 109,
-        "end_block": 115
+        "end_block": 113
       }
     },
     {
       "chunk_id": "vi-cntt1140#021",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4, 5 ở mức độ khó hơn để đánh giá đến mức “Vận dụng”; riêng Lecture 1 các câu hỏi đánh giá đến mức “Phân tích” của sinh viên.",
-      "word_count": 232,
-      "char_count": 1016,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.",
+      "word_count": 156,
+      "char_count": 672,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -457,15 +457,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 115,
-        "end_block": 118
+        "start_block": 114,
+        "end_block": 115
       }
     },
     {
       "chunk_id": "vi-cntt1140#022",
-      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Phân tích | Tổng số câu hỏi\nLecture 1 | 1.1 | - | - | - | 1 | 1\nLecture 2 | 1.2 | - | - | 1 | - | 1\nLecture 3 | 1.2 | - | - | - | - | -\nLecture 4 | 1.3 | - | - | 1 | - | 1\nLecture 5 | 1.3 | - | - | 1 | - | 1\nLecture 6 | 1.4 | - | - | - | - | -\nTổng số câu hỏi | - | 0 | 0 | 3 | 1 | 4\nTỷ trọng | - | 0% | 0% | 75% | 25% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).\n- Sinh viên được gợi ý một số nhóm chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô đun, chức năng chương trình phần mềm sử dụng các thuật toán, các kỹ thuật trong trí tuệ nhân tạo để giải quyết các vấn đề trong thực tế. Ví dụ:",
-      "word_count": 205,
-      "char_count": 694,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4, 5 ở mức độ khó hơn để đánh giá đến mức “Vận dụng”; riêng Lecture 1 các câu hỏi đánh giá đến mức “Phân tích” của sinh viên.",
+      "word_count": 84,
+      "char_count": 380,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -474,15 +474,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 22,
-        "start_block": 119,
-        "end_block": 122
+        "start_block": 116,
+        "end_block": 119
       }
     },
     {
       "chunk_id": "vi-cntt1140#023",
-      "text": "- Giải quyết vấn đề bằng tìm kiếm sử dụng các thuật toán tìm kiếm trên đồ thị.\n- Lôgíc mệnh đề, lôgíc vị từ sử dụng các thuật toán chứng minh tách - chuyển vế và hợp giải.\n- Xử lý tri thức sử dụng các mô tơ suy diễn tiến và suy diễn lùi.\n- Nghiên cứu về học máy và cài đặt thử nghiệm các thuật toán học máy.\n- Nghiên cứu, thiết kế và cài đặt thử nghiệm mạng nơ ron nhân tạo áp dụng trong một số lĩnh vực: Nhận dạng ảnh, chữ viết,…..\n- Nghiên cứu về lôgíc mờ và cài đặt thử nghiệm chương trình phần mềm sử dụng lôgíc mờ để giải quyết vấn đề trong thực tế.\n- Nghiên cứu và cài đặt thử nghiệm các thuật toán, kỹ thuật học sâu (deep learning).\n- Nghiên cứu về xử lý ngôn ngữ tự nhiên, các bài toán trong lĩnh vực xử lý ngôn ngữ tự nhiên (Tiếng Anh, Việt,….) và cài đặt thử nghiệm phần mềm ứng dụng.\n- Nghiên cứu và cài đặt thử nghiệm về các vấn đề khác trong trí tuệ nhân tạo như: Hệ hỗ trợ ra quyết định, hệ chuyên gia,….",
-      "word_count": 205,
-      "char_count": 918,
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Phân tích | Tổng số câu hỏi\nLecture 1 | 1.1 | - | - | - | 1 | 1\nLecture 2 | 1.2 | - | - | 1 | - | 1\nLecture 3 | 1.2 | - | - | - | - | -\nLecture 4 | 1.3 | - | - | 1 | - | 1\nLecture 5 | 1.3 | - | - | 1 | - | 1\nLecture 6 | 1.4 | - | - | - | - | -\nTổng số câu hỏi | - | 0 | 0 | 3 | 1 | 4\nTỷ trọng | - | 0% | 0% | 75% | 25% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).",
+      "word_count": 153,
+      "char_count": 459,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -491,15 +491,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 23,
-        "start_block": 123,
-        "end_block": 131
+        "start_block": 119,
+        "end_block": 121
       }
     },
     {
       "chunk_id": "vi-cntt1140#024",
-      "text": "Bên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nCơ sở lý thuyết và lập luận khoa học | 1.x 2.x 3.x | 20% | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật được lựa chọn áp dụng hiệu quả và độ tin cậy cao | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày tương đối đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật lựa chọn áp dụng đáng tin cậy | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày cơ bản. Các thuật toán, kỹ thuật lựa chọn áp dụng tin cậy | Không trình bày được cơ sở lý thuyết, lập luận khoa học liên quan cơ bản hoặc quá ít cơ sở lý thuyết, lập luận khoa học liên quan được trình bày\nPhân tích, thiết kế các mô đun, chức năng và phân tích xử lý các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Thực hiện phân tích thiết kế các mô đun, chức năng đầy đủ, phù hợp và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản một cách chính xác và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có thể không có ý nghĩa rõ ràng hoặc lôgíc | Không thực hiện phân tích thiết kế các mô đun, chức năng hoặc phân tích xử lý thuật toán, kỹ thuật áp dụng không hợp lý hoặc kết quả phân tích thiết kế không có ý nghĩa, không lôgíc\nCài đặt các mô đun, chức năng và tích hợp các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Các môđun, chức năng phản ánh rõ các kết quả phân tích, thiết kế | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng tương đối đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý. Các môđun, chức năng phản ánh các kết quả phân tích thiết kế | Tạo tạo ra các môđun và chức năng giao diện cơ bản hoặc tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đầy đủ kết quả phân tích thiết kế | Không tạo ra các môđun và chức năng giao diện hoặc không tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đúng kết quả phân tích thiết kế\nTính sáng tạo trong phân tích xử lý giải quyết vấn đè | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có sự sáng tạo, đưa ra những nhận định mới và có ý nghĩa | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có ý nghĩa và lôgíc, có thể đưa ra nhận định mới | Thực hiện phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng một cách cơ bản, không có sự sáng tạo, không có nhận định mới | Không thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng, không có nhận định mới và ý nghĩa\nBáo cáo tổng hợp và kết luận | 1.x 2.x 3.x | 20% | Báo cáo tổng hợp đầy đủ, có cấu trúc, chi tiết và lôgíc. Báo cáo phản ánh đầy đủ cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và có đánh giá sâu sắc từ kết quả | Báo cáo tổng hợp đầy đủ và có cấu trúc. Báo cáo phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá từ kết quả | Báo cáo tổng hợp sơ sài hoặc không đầy đủ. Báo cáo có thể thiếu cấu trúc hoặc phản ánh được ít cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá | Không có báo cáo tổng hợp hoặc báo cáo tổng hợp không phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá.\nThuyết trình báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách lôgíc và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác câu văn mạch lạc. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và lôgíc",
-      "word_count": 1238,
-      "char_count": 5379,
+      "text": "- Sinh viên được gợi ý một số nhóm chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô đun, chức năng chương trình phần mềm sử dụng các thuật toán, các kỹ thuật trong trí tuệ nhân tạo để giải quyết các vấn đề trong thực tế. Ví dụ:\n- Giải quyết vấn đề bằng tìm kiếm sử dụng các thuật toán tìm kiếm trên đồ thị.\n- Lôgíc mệnh đề, lôgíc vị từ sử dụng các thuật toán chứng minh tách - chuyển vế và hợp giải.\n- Xử lý tri thức sử dụng các mô tơ suy diễn tiến và suy diễn lùi.\n- Nghiên cứu về học máy và cài đặt thử nghiệm các thuật toán học máy.\n- Nghiên cứu, thiết kế và cài đặt thử nghiệm mạng nơ ron nhân tạo áp dụng trong một số lĩnh vực: Nhận dạng ảnh, chữ viết,…..",
+      "word_count": 151,
+      "char_count": 667,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -508,7 +508,41 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 24,
-        "start_block": 132,
+        "start_block": 122,
+        "end_block": 127
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1140#025",
+      "text": "- Nghiên cứu về lôgíc mờ và cài đặt thử nghiệm chương trình phần mềm sử dụng lôgíc mờ để giải quyết vấn đề trong thực tế.\n- Nghiên cứu và cài đặt thử nghiệm các thuật toán, kỹ thuật học sâu (deep learning).\n- Nghiên cứu về xử lý ngôn ngữ tự nhiên, các bài toán trong lĩnh vực xử lý ngôn ngữ tự nhiên (Tiếng Anh, Việt,….) và cài đặt thử nghiệm phần mềm ứng dụng.\n- Nghiên cứu và cài đặt thử nghiệm về các vấn đề khác trong trí tuệ nhân tạo như: Hệ hỗ trợ ra quyết định, hệ chuyên gia,….\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:",
+      "word_count": 155,
+      "char_count": 697,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 25,
+        "start_block": 128,
+        "end_block": 132
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1140#026",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nCơ sở lý thuyết và lập luận khoa học | 1.x 2.x 3.x | 20% | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật được lựa chọn áp dụng hiệu quả và độ tin cậy cao | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày tương đối đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật lựa chọn áp dụng đáng tin cậy | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày cơ bản. Các thuật toán, kỹ thuật lựa chọn áp dụng tin cậy | Không trình bày được cơ sở lý thuyết, lập luận khoa học liên quan cơ bản hoặc quá ít cơ sở lý thuyết, lập luận khoa học liên quan được trình bày\nPhân tích, thiết kế các mô đun, chức năng và phân tích xử lý các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Thực hiện phân tích thiết kế các mô đun, chức năng đầy đủ, phù hợp và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản một cách chính xác và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có thể không có ý nghĩa rõ ràng hoặc lôgíc | Không thực hiện phân tích thiết kế các mô đun, chức năng hoặc phân tích xử lý thuật toán, kỹ thuật áp dụng không hợp lý hoặc kết quả phân tích thiết kế không có ý nghĩa, không lôgíc\nCài đặt các mô đun, chức năng và tích hợp các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Các môđun, chức năng phản ánh rõ các kết quả phân tích, thiết kế | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng tương đối đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý. Các môđun, chức năng phản ánh các kết quả phân tích thiết kế | Tạo tạo ra các môđun và chức năng giao diện cơ bản hoặc tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đầy đủ kết quả phân tích thiết kế | Không tạo ra các môđun và chức năng giao diện hoặc không tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đúng kết quả phân tích thiết kế\nTính sáng tạo trong phân tích xử lý giải quyết vấn đè | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có sự sáng tạo, đưa ra những nhận định mới và có ý nghĩa | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có ý nghĩa và lôgíc, có thể đưa ra nhận định mới | Thực hiện phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng một cách cơ bản, không có sự sáng tạo, không có nhận định mới | Không thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng, không có nhận định mới và ý nghĩa\nBáo cáo tổng hợp và kết luận | 1.x 2.x 3.x | 20% | Báo cáo tổng hợp đầy đủ, có cấu trúc, chi tiết và lôgíc. Báo cáo phản ánh đầy đủ cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và có đánh giá sâu sắc từ kết quả | Báo cáo tổng hợp đầy đủ và có cấu trúc. Báo cáo phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá từ kết quả | Báo cáo tổng hợp sơ sài hoặc không đầy đủ. Báo cáo có thể thiếu cấu trúc hoặc phản ánh được ít cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá | Không có báo cáo tổng hợp hoặc báo cáo tổng hợp không phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá.\nThuyết trình báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách lôgíc và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác câu văn mạch lạc. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và lôgíc",
+      "word_count": 1189,
+      "char_count": 5167,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 26,
+        "start_block": 134,
         "end_block": 134
       }
     }

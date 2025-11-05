@@ -7,8 +7,8 @@
   "source_filename": "Lập trình phân tích dữ liệu_CNTT1187.docx",
   "source_relpath": "data\\raw\\vi\\Lập trình phân tích dữ liệu_CNTT1187.docx",
   "source_hash": "7d1d854abf35c935ca3b6e2d51207d0b",
-  "source_modified": "2025-10-11T10:42:50.640323+00:00",
-  "processed_at": "2025-10-12T13:24:18.350252+00:00",
+  "source_modified": "2025-10-19T17:31:17.230499+00:00",
+  "processed_at": "2025-11-05T15:52:50.566448+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -115,7 +115,7 @@
     "paragraphs": 65,
     "headings": 20,
     "tables": 11,
-    "chunks": 20,
+    "chunks": 21,
     "words": 3869
   },
   "chunks": [
@@ -226,7 +226,7 @@
       "position": {
         "order": 7,
         "start_block": 43,
-        "end_block": 46
+        "end_block": 44
       }
     },
     {
@@ -397,9 +397,9 @@
     },
     {
       "chunk_id": "vi-cntt1187#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 165,
-      "char_count": 655,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua các buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 157,
+      "char_count": 618,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -409,14 +409,14 @@
       "position": {
         "order": 18,
         "start_block": 96,
-        "end_block": 102
+        "end_block": 100
       }
     },
     {
       "chunk_id": "vi-cntt1187#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số trong điểm học phần: 20%\n- Hình thức: Tự luận trên máy",
-      "word_count": 185,
-      "char_count": 754,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -425,15 +425,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 102,
-        "end_block": 106
+        "start_block": 101,
+        "end_block": 102
       }
     },
     {
       "chunk_id": "vi-cntt1187#020",
-      "text": "- Thời gian:  60 phút\n- Số câu hỏi: 3 câu\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 4 | - | - | 4 | 4\nCâu 2 | 2.1 2.2 2.3 | 4 | - | - | 4 | 4\nCâu 3 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nTổng số câu hỏi thành phần | - | 10 | 0 | 0 | 10 | 10\nTổng số điểm | - | 10 | 0 | 0 | 10 | -\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%",
-      "word_count": 133,
-      "char_count": 402,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số trong điểm học phần: 20%\n- Hình thức: Tự luận trên máy\n- Thời gian:  60 phút\n- Số câu hỏi: 3 câu\nMa trận đề thi (tự luận):",
+      "word_count": 41,
+      "char_count": 173,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -442,7 +442,24 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 107,
+        "start_block": 104,
+        "end_block": 110
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1187#021",
+      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 2.1 2.2 2.3 | 4 | - | - | 4 | 4\nCâu 2 | 2.1 2.2 2.3 | 4 | - | - | 4 | 4\nCâu 3 | 2.1 2.2 2.3 | 2 | - | - | 2 | 2\nTổng số câu hỏi thành phần | - | 10 | 0 | 0 | 10 | 10\nTổng số điểm | - | 10 | 0 | 0 | 10 | -\nTỷ trọng | - | 100% | 0% | 0% | 100% | 100%",
+      "word_count": 116,
+      "char_count": 334,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 110,
         "end_block": 112
       }
     }

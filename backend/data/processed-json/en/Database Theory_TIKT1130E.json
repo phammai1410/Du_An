@@ -7,8 +7,8 @@
   "source_filename": "Database Theory_TIKT1130E.docx",
   "source_relpath": "data\\raw\\en\\Database Theory_TIKT1130E.docx",
   "source_hash": "a9ce201f4be715409323dc248bcdc34f",
-  "source_modified": "2025-10-11T10:42:50.588223+00:00",
-  "processed_at": "2025-10-12T13:24:12.325478+00:00",
+  "source_modified": "2025-10-19T17:31:17.184354+00:00",
+  "processed_at": "2025-11-05T15:52:44.172629+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -170,7 +170,7 @@
       "position": {
         "order": 6,
         "start_block": 42,
-        "end_block": 44
+        "end_block": 43
       }
     },
     {
@@ -191,9 +191,9 @@
     },
     {
       "chunk_id": "en-tikt1130e#008",
-      "text": "* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | All CLOs | 10% | 10% | Week 1 - 15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | - | -\nMidterm exam (MCQ test) | Rubric 2 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2 | 40% | 40% | Week 10\nGroup works | Rubric 3 | All CLOs | 40% | 40% | Week 13-14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | All CLOs | 50% | 50% | University schedule\n* Rubrics:\nRubric 1: Participant",
-      "word_count": 169,
-      "char_count": 964,
+      "text": "* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | All CLOs | 10% | 10% | Week 1 - 15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | - | -\nMidterm exam (MCQ test) | Rubric 2 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO4.2 | 40% | 40% | Week 10\nGroup works | Rubric 3 | All CLOs | 40% | 40% | Week 13-14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | All CLOs | 50% | 50% | University schedule",
+      "word_count": 164,
+      "char_count": 931,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -202,14 +202,14 @@
       "position": {
         "order": 8,
         "start_block": 48,
-        "end_block": 57
+        "end_block": 53
       }
     },
     {
       "chunk_id": "en-tikt1130e#009",
-      "text": "Areas of assessment | Weighting (%) | Excellence 8.5 – 10 point | Good 6.5 – 8.4 point | Fair 4.0 – 6.4 point | Poor 0 – 3.9 point\nAttendance | 50 | Attend class on time on all lectures. Attended at least 90% of classes. | Attend at least 80% of classes | Attend at least 60% of classes | Attend less than 50% of classes\nParticipant | 50 | Participate in all in class activities and answer \nquestions, give ideas, and opinions. | Participate in 70% in class activities and answer questions, give ideas, and opinions. | Rarely participate in class activities and answer \nquestions, never give ideas, and opinions. | Never participate in class activities, and never answer questions, give opinions.\nRubric 2: Midterm exam",
-      "word_count": 129,
-      "char_count": 719,
+      "text": "* Rubrics:\nRubric 1: Participant\nAreas of assessment | Weighting (%) | Excellence 8.5 – 10 point | Good 6.5 – 8.4 point | Fair 4.0 – 6.4 point | Poor 0 – 3.9 point\nAttendance | 50 | Attend class on time on all lectures. Attended at least 90% of classes. | Attend at least 80% of classes | Attend at least 60% of classes | Attend less than 50% of classes\nParticipant | 50 | Participate in all in class activities and answer \nquestions, give ideas, and opinions. | Participate in 70% in class activities and answer questions, give ideas, and opinions. | Rarely participate in class activities and answer \nquestions, never give ideas, and opinions. | Never participate in class activities, and never answer questions, give opinions.\nRubric 2: Midterm exam",
+      "word_count": 134,
+      "char_count": 752,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -217,7 +217,7 @@
       "breadcrumbs": "6. COURSE ASSESSMENT",
       "position": {
         "order": 9,
-        "start_block": 57,
+        "start_block": 55,
         "end_block": 59
       }
     },

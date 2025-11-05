@@ -7,8 +7,8 @@
   "source_filename": "Tiếng Anh chuyên ngành_CNTT1192.docx",
   "source_relpath": "data\\raw\\vi\\Tiếng Anh chuyên ngành_CNTT1192.docx",
   "source_hash": "f1fa54f4d11ee93d19e6ff85f04dd532",
-  "source_modified": "2025-10-11T10:42:50.655112+00:00",
-  "processed_at": "2025-10-12T13:24:20.806497+00:00",
+  "source_modified": "2025-10-19T17:31:17.243507+00:00",
+  "processed_at": "2025-11-05T15:52:53.237365+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -135,7 +135,7 @@
     "paragraphs": 68,
     "headings": 24,
     "tables": 12,
-    "chunks": 21,
+    "chunks": 22,
     "words": 4037
   },
   "chunks": [
@@ -171,9 +171,9 @@
     },
     {
       "chunk_id": "vi-cntt1192#003",
-      "text": "(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email NEU\n- | TS. Đặng Minh Quân | quandm@neu.edu.vn\n- | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn",
-      "word_count": 68,
-      "char_count": 336,
+      "text": "(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:",
+      "word_count": 44,
+      "char_count": 219,
       "heading_path": [
         "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
       ],
@@ -182,11 +182,27 @@
       "position": {
         "order": 3,
         "start_block": 18,
-        "end_block": 24
+        "end_block": 22
       }
     },
     {
       "chunk_id": "vi-cntt1192#004",
+      "text": "STT | Họ và tên | Email NEU\n- | TS. Đặng Minh Quân | quandm@neu.edu.vn\n- | TS. Nguyễn Trung Tuấn | tuannt@neu.edu.vn",
+      "word_count": 24,
+      "char_count": 116,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "position": {
+        "order": 4,
+        "start_block": 22,
+        "end_block": 24
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1192#005",
       "text": "Học phần này cung cấp kiến thức giúp sinh viên có thể hiểu được tiếng Anh cơ bản trong lĩnh vực công nghệ thông tin; từ vựng chuyên ngành. Đọc và hiểu những tài liệu cơ bản chuyên ngành CNTT. Trao đổibằng tiếng Anh những vấn đề đơn giản của CNTT với người nước ngoài sử dụng tiếng Anh.\nHọc phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn học liệu bằng tiếng Anh liên quan đến những môn học chuyên ngành trong chương trình đào tạo, và tiếp tục học cao hơn.\nNội dung chính:\n- Computer Types\n- Computer components\n- Storage and Memory\n- Input and Output Devices\n- Peripherals\n- Software\n- Operating Systems\n- Software Applications\n- Programming Languages\n- Networking\n- The Internet\n- IT Careers\n- People in IT",
       "word_count": 153,
       "char_count": 780,
@@ -196,13 +212,13 @@
       "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
-        "order": 4,
+        "order": 5,
         "start_block": 25,
-        "end_block": 42
+        "end_block": 40
       }
     },
     {
-      "chunk_id": "vi-cntt1192#005",
+      "chunk_id": "vi-cntt1192#006",
       "text": "[1] Eric H Glendinning, John Mcewan (2002) Oxford English for Information Technology, Oxford.",
       "word_count": 13,
       "char_count": 93,
@@ -213,13 +229,13 @@
       "primary_heading": "4.1. Giáo trình",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.1. Giáo trình",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 44,
         "end_block": 45
       }
     },
     {
-      "chunk_id": "vi-cntt1192#006",
+      "chunk_id": "vi-cntt1192#007",
       "text": "[2] Trần Nga, Hương Giang. Tiếng anh dành cho người sử dụng vi tính. Nhà xuất bản từ điển Bách Khoa 2009\n[3] Lê Thành. Tiếng anh dụng vi tính căn bản cho người sử dụng vi tính. Nhà xuất bản đại học sư phạm 2004\n[3] Đặng Minh Quân. Bài giảng tiếng anh chuyên ngành công nghệ thông tin. Nhà xuất bản đại học KTQD 2024",
       "word_count": 67,
       "char_count": 315,
@@ -230,13 +246,13 @@
       "primary_heading": "4.2. Tài liệu tham khảo",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.2. Tài liệu tham khảo",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 46,
         "end_block": 50
       }
     },
     {
-      "chunk_id": "vi-cntt1192#007",
+      "chunk_id": "vi-cntt1192#008",
       "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các từ vựng, các cấu trúc ngữ pháp được sử dụng nhiều trong chuyên ngành CNTT. Giới thiệu cho người học cách vận dụng các từ vựng và các cấu trúc ngữ pháp đó trong các hoàn cảnh khác nhau như viết luận, trao đổi kỹ thuật, dịch Anh - Việt, Việt – Anh các tài liệu kỹ thuật chuyên ngành. | -\nCG2 | Học phần cung cấp cho người học cách tìm kiếm thông tin, tìm tài liệu bằng tiếng Anh để tham khảo kiến thức chuyên sâu. Trao đổi học thuật đơn giản với người nước ngoài nói tiếng Anh. | -\nCG3 | Học phần góp phần phát triển khả năng viết luận độc lập cũng như khả năng tạo nhóm giao tiếp, trao đổi các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT. | -",
       "word_count": 199,
       "char_count": 892,
@@ -246,13 +262,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 53,
         "end_block": 54
       }
     },
     {
-      "chunk_id": "vi-cntt1192#008",
+      "chunk_id": "vi-cntt1192#009",
       "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLO | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Nêu và dịch nghĩa các từ vựng tiếng Anh thường sử dụng trong chuyên ngành CNTT. | 1\nCG1 Kiến thức | CLO1.2 | Giải thích các cấu trúc ngữ pháp tiếng Anh thường sử dụng trong chuyên ngành CNTT. | 2\nCG1 Kiến thức | CLO1.3 | Phân chia các trường hợp ứng dụng các cấu trúc ngữ pháp. | 3\nCG1 Kiến thức | CLO1.4 | Vận dụng các từ vựng và cấu trúc ngữ pháp trong viết luận, giao tiếp, dịch thuật. | 3\nCG2 Kỹ năng | CLO2.1 | Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, trình bày các bài luận nhỏ cho từng chuyên đề đặc trưng của chuyên ngành | 2\nCG2 Kỹ năng | CLO2.2 | Thực hành kỹ năng giao tiếp trong nhóm thực hành tiếng Anh | 3\nCG2 Kỹ năng | CLO2.3 | Có kỹ năng sử dụng ngôn ngữ tiếng Anh trong giao tiếp, dịch thuật chuyên ngành | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.2 | Có khả năng tổ chức nhóm và giao tiếp trong nhóm thực hành tiếng Anh | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.3 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 3",
       "word_count": 313,
       "char_count": 1344,
@@ -262,13 +278,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 56,
         "end_block": 57
       }
     },
     {
-      "chunk_id": "vi-cntt1192#009",
+      "chunk_id": "vi-cntt1192#010",
       "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | Tuần 1-12 | CLO1.x -CLO3.x | Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra giữa kỳ | Tuần 8 | CLO1.x, CLO2.3, CLO3.2 | Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường. | 20% | -\nĐánh giá quá trình | Trình bày nhóm: Báo cáo phân tích nguyên lý hoạt động của một công nghệ cụ thể trong lĩnh vực CNTT bằng tiếng Anh. | Tuần 13, 14 | CLO1.x, CLO2.x, CLO3.x | Xem Phụ lục 2, rubrics 2 | 20% | -\nĐánh giá cuối kỳ | Bài thi cuối kỳ | Lịch thi học phần | CLO1.x, CLO2.1, CLO3.3 | Theo yêu cầu bài thi | 50% | -",
       "word_count": 249,
       "char_count": 1047,
@@ -279,13 +295,13 @@
       "primary_heading": "7.1. Cơ cấu điểm thành phần",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 61,
         "end_block": 62
       }
     },
     {
-      "chunk_id": "vi-cntt1192#010",
+      "chunk_id": "vi-cntt1192#011",
       "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương 1: Computer Hardware Computer Types The components of a Computer | [1] Unit 1, Unit 2 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n2 | Seminar 1 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 | [1] Unit 1, Unit 2 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: past simple, present perfect, function of an item - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n3 | Lecture 2. Computer Hardware Storage and Memory Input and Output Devices Peripherals | [1] Unit 2, Unit 3, Unit 4 | - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n4 | Seminar 2 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 | [1] Unit 2, Unit 3, Unit 4 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: passive voice, V+Obj+infin, V+Obj+to+infin, Relative clauses with a participle. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n5 | Lecture 3. Chương 2: Software 2.1 Introduction to Software 2.2 Operating Systems | [1] Unit 3, Unit 8, Unit 6 | - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n6 | Seminar 3 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 | [1] Unit 3, Unit 8, Unit 6 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: prediction with certainty expression, if sentences. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n7 | Lecture 4. Chương 2: Software 2.3 Software Applications 2.4 Programming Languages | [1] Unit 8, Unit 9, Unit 21 | - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n8 | Seminar 4 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 | [1] Unit 8, Unit 9, Unit 21 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: instruction, if X then Y, do until, do while - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n9 | Lecture 5. Chương 3: Networking 3.1 Networking 3.2 The Internet | [1] Unit 11, Unit 12 | - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n10 | Seminar 5 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 | [1] Unit 11, Unit 12 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: -ing form as noun and after preposition, warnings. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n11 | Lecture 6. Chương 4: IT Careers 4.1 IT Careers 4.2 People in IT | [1] Unit 22, Unit 23 | - Giới thiệu thuật ngữ chuyên ngành - Giới thiệu các bài đọc - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu | - | CLO1.x – CLO3.x\n12 | Seminar 6 - Tóm tắt từ vựng, cấu trúc ngữ pháp - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 | [1] Unit 22, Unit 23 | Giảng viên - Nhắc lại các kiến thức về từ vựng, cấu trúc ngữ pháp đã học: requirements, ability. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x – CLO3.x\n13 | Trình bày bài tập nhóm | - | Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét | Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày | CLO1.x, CLO2.x, CLO3.x\n14 | Trình bày bài tập nhóm | - | Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét | Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày | CLO1.x, CLO2.x, CLO3.x\n15 | Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi | - | Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo | - Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần | CLO1.x, CLO2.x, CLO3.x\nLịch thi | Thi cuối kỳ | Chương 1 đến 6 | Thi tự luận trên giấy | Xem Phụ lục 1: ma trận đề thi | CLO1.x, CLO2.1, CLO3.3",
       "word_count": 1509,
       "char_count": 6553,
@@ -295,13 +311,13 @@
       "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 66,
         "end_block": 67
       }
     },
     {
-      "chunk_id": "vi-cntt1192#011",
+      "chunk_id": "vi-cntt1192#012",
       "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
       "word_count": 40,
       "char_count": 182,
@@ -311,13 +327,13 @@
       "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 70,
         "end_block": 71
       }
     },
     {
-      "chunk_id": "vi-cntt1192#012",
+      "chunk_id": "vi-cntt1192#013",
       "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
       "word_count": 28,
       "char_count": 126,
@@ -328,13 +344,13 @@
       "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 73,
         "end_block": 75
       }
     },
     {
-      "chunk_id": "vi-cntt1192#013",
+      "chunk_id": "vi-cntt1192#014",
       "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
       "word_count": 51,
       "char_count": 224,
@@ -345,13 +361,13 @@
       "primary_heading": "10.2. Quy định về tham dự lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 76,
         "end_block": 78
       }
     },
     {
-      "chunk_id": "vi-cntt1192#014",
+      "chunk_id": "vi-cntt1192#015",
       "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
       "word_count": 92,
       "char_count": 420,
@@ -362,13 +378,13 @@
       "primary_heading": "10.3. Quy định về hành vi trong lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 79,
         "end_block": 85
       }
     },
     {
-      "chunk_id": "vi-cntt1192#015",
+      "chunk_id": "vi-cntt1192#016",
       "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
       "word_count": 35,
       "char_count": 151,
@@ -379,13 +395,13 @@
       "primary_heading": "10.4. Quy định về nộp bài tập lớn",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
       "position": {
-        "order": 15,
+        "order": 16,
         "start_block": 86,
         "end_block": 89
       }
     },
     {
-      "chunk_id": "vi-cntt1192#016",
+      "chunk_id": "vi-cntt1192#017",
       "text": "Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
       "word_count": 19,
       "char_count": 89,
@@ -395,13 +411,13 @@
       "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
       "position": {
-        "order": 16,
+        "order": 17,
         "start_block": 90,
         "end_block": 93
       }
     },
     {
-      "chunk_id": "vi-cntt1192#017",
+      "chunk_id": "vi-cntt1192#018",
       "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 5 câu. Mỗi câu 0,25 điểm\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.x 2.1 3.3 | 4 | - | - | - | -\na. | 1.x 2.1 3.3 | 2 | - | 1 | - | 1\nb. | 1.x 2.1 3.3 | 1 | - | 1 | - | 1\nc | 1.x 2.1 3.3 | 1 | - | - | 1 | 1\nCâu 2 | 1.x 2.1 3.3 | 3 | - | - | - | -\na. | 1.x 2.1 3.3 | 1.5 | - | 1 | - | 1\nb. | 1.x 2.1 3.3 | 1.5 | - | - | 1 | 1\nCâu 3 | 1.x 2.1 3.3 | 3 | - | - | - | -\na. | 1.x 2.1 3.3 | 1.5 | - | 1 | - | 1\nb. | 1.x 2.1 3.3 | 1.5 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 7 | 0 | 4 | 3 | 7\nTổng số điểm | - | 10 | 0 | 3.5 | 5.5 | -\nTỷ trọng | - | 100% | 0% | 57% | 43% | 100%",
       "word_count": 257,
       "char_count": 753,
@@ -412,33 +428,16 @@
       "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
-        "order": 17,
+        "order": 18,
         "start_block": 95,
         "end_block": 101
       }
     },
     {
-      "chunk_id": "vi-cntt1192#018",
-      "text": "Phụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 171,
-      "char_count": 678,
-      "heading_path": [
-        "PHỤ LỤC",
-        "Phụ lục 1. MA TRẬN ĐỀ THI"
-      ],
-      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
-      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
-      "position": {
-        "order": 18,
-        "start_block": 103,
-        "end_block": 112
-      }
-    },
-    {
       "chunk_id": "vi-cntt1192#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nCLO của đánh giá chuyên cần",
-      "word_count": 167,
-      "char_count": 676,
+      "text": "Phụ lục 2. CÁC RUBRICS\nRubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 163,
+      "char_count": 641,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 1. MA TRẬN ĐỀ THI"
@@ -447,15 +446,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
         "order": 19,
-        "start_block": 112,
-        "end_block": 114
+        "start_block": 103,
+        "end_block": 109
       }
     },
     {
       "chunk_id": "vi-cntt1192#020",
-      "text": "Cách thức đánh giá | CLO | CLO | CLO\nCách thức đánh giá | 3.1 | 3.2 | 3.3\nĐiểm danh | - | - | -\nTrả lời câu hỏi, bài tập | - | - | -\nĐăng kí nhóm đúng thời hạn | - | - | -\nTrả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác | - | - | -\nTrả lời về nội dung của nhóm, thảo luận nội dung nhóm khác | - | - | -\nTrả lời về trình bày của nhóm, thảo luận trình bày nhóm khác | - | - | -",
-      "word_count": 109,
-      "char_count": 382,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 1. MA TRẬN ĐỀ THI"
@@ -464,12 +463,29 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
         "order": 20,
-        "start_block": 114,
-        "end_block": 116
+        "start_block": 111,
+        "end_block": 112
       }
     },
     {
       "chunk_id": "vi-cntt1192#021",
+      "text": "CLO của đánh giá chuyên cần\nCách thức đánh giá | CLO | CLO | CLO\nCách thức đánh giá | 3.1 | 3.2 | 3.3\nĐiểm danh | - | - | -\nTrả lời câu hỏi, bài tập | - | - | -\nĐăng kí nhóm đúng thời hạn | - | - | -\nTrả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác | - | - | -\nTrả lời về nội dung của nhóm, thảo luận nội dung nhóm khác | - | - | -\nTrả lời về trình bày của nhóm, thảo luận trình bày nhóm khác | - | - | -",
+      "word_count": 115,
+      "char_count": 410,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
+      ],
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
+      "position": {
+        "order": 21,
+        "start_block": 113,
+        "end_block": 116
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1192#022",
       "text": "- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình\nTiêu chí | CLO | Tỷ trọng % | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10)\nTiêu chí | CLO | Tỷ trọng % | Giỏi 8,5 – 10 | Khá 7,0 – 8,4 | Trung bình 4,5 – 6,9 | Yếu 0 – 4,4\nChủ đề - mục tiêu | 1.1 3.1 3.2 | 20% | - Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể | - Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ | - Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp | - Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra\nNội dung | 1.1 1.2 1.3 1.4 2.1 | 60% | - Kiến thức lý thuyết khoa học, đầy đủ, logic; - Sử dụng từ vựng, cấu trúc ngữ pháp phù hợp, chính xác. | - Kiến thức lý thuyết đầy đủ, phù hợp; - Có sử dụng từ vựng, cấu trúc ngữ pháp | - Kiến thức lý thuyết không đầy đủ; - Không sử dụng từ vựng, cấu trúc ngữ pháp hay sử dụng sai | - Kiến thức lý thuyết không phù hợp hoặc không có kiến thức\nTrình bày | 3.3 | 20% | - Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. | - Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. | - Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có. | - Không có định dạng; - Ngôn ngữ không phù hợp.",
       "word_count": 371,
       "char_count": 1537,
@@ -480,7 +496,7 @@
       "primary_heading": "Rubrics 2. Đánh giá bài tập lớn",
       "breadcrumbs": "PHỤ LỤC > Rubrics 2. Đánh giá bài tập lớn",
       "position": {
-        "order": 21,
+        "order": 22,
         "start_block": 117,
         "end_block": 119
       }

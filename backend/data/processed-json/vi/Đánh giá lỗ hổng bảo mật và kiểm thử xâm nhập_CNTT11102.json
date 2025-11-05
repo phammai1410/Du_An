@@ -7,8 +7,8 @@
   "source_filename": "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
   "source_relpath": "data\\raw\\vi\\Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
   "source_hash": "62284aeaf0e9de7b8058419e4f194b0e",
-  "source_modified": "2025-10-11T10:42:50.662111+00:00",
-  "processed_at": "2025-10-12T13:24:21.695979+00:00",
+  "source_modified": "2025-10-19T17:31:17.248506+00:00",
+  "processed_at": "2025-11-05T15:52:54.200211+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -75,7 +75,7 @@
     "paragraphs": 30,
     "headings": 12,
     "tables": 8,
-    "chunks": 13,
+    "chunks": 15,
     "words": 3698
   },
   "chunks": [
@@ -127,9 +127,9 @@
     },
     {
       "chunk_id": "vi-cntt11102#004",
-      "text": "Học phần trang bị cho người học các kiến thức cơ bản và chuyên sâu về phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập, đó là tổng quan về an toàn thông tin như: Đánh giá an toàn hệ thống thông tin, kiểm thử xâm nhập và giới thiệu một số công cụ hỗ trợ; các vấn đề về đánh giá lỗ hổng bảo mật như rà soát hệ thống, phân tích và xác định mục tiêu, xác định điểm yếu mục tiêu; triển khai đánh giá lỗ hổng bảo mật bao gồm Lập kế hoạch đánh giá, thực hiện đánh giá, các hoạt động sau đánh giá. Học phần cũng giới thiệu các vấn đề về kiểm thử xâm nhập, các dạng kiểm thử xâm nhập, vấn đề về khai thác lỗ hổng bảo mật, phân tích lỗ hổng và khai thác hệ thống đã xâm nhập.\nHọc phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
-      "word_count": 216,
-      "char_count": 965,
+      "text": "Học phần trang bị cho người học các kiến thức cơ bản và chuyên sâu về phân tích đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập, đó là tổng quan về an toàn thông tin như: Đánh giá an toàn hệ thống thông tin, kiểm thử xâm nhập và giới thiệu một số công cụ hỗ trợ; các vấn đề về đánh giá lỗ hổng bảo mật như rà soát hệ thống, phân tích và xác định mục tiêu, xác định điểm yếu mục tiêu; triển khai đánh giá lỗ hổng bảo mật bao gồm Lập kế hoạch đánh giá, thực hiện đánh giá, các hoạt động sau đánh giá. Học phần cũng giới thiệu các vấn đề về kiểm thử xâm nhập, các dạng kiểm thử xâm nhập, vấn đề về khai thác lỗ hổng bảo mật, phân tích lỗ hổng và khai thác hệ thống đã xâm nhập.",
+      "word_count": 153,
+      "char_count": 672,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
       ],
@@ -138,27 +138,59 @@
       "position": {
         "order": 4,
         "start_block": 13,
-        "end_block": 14
+        "end_block": 13
       }
     },
     {
       "chunk_id": "vi-cntt11102#005",
-      "text": "Giáo trình:\n[1] Karen Scarfone, Murugiah Souppaya, Amanda Cody and Angela Orebaugh (2008), Technical Guide to Information Security Testing and Assessment, NIST SP 800-115.\n[2] TS. Lương Thế Dũng, ThS. Phạm Minh Thuấn (2016), Giáo trình đánh giá và kiểm định an toàn hệ thống thông tin, Học viện kỹ thuật mật mã.\nTài liệu khác:\n[3] British Standards Institution - BS ISO/IEC 27001:2005 (2008), Information technology – Security techniques – Information security management systems – Requirements, American National Standards Institute.\n[4] Jeremy Faircloth (2005), Penetration Tester’s Open Source Toolkit – Third Edition, Syngress.\n[5] John Wack, Miles Tracy & Murugiah Souppaya (2003), Guideline on Network Security Testing, NIST SP 800-42.\n[6] Lee Allen (2012), Advanced Penetration Testing for Highly-Secured Environments, Packt Publishing.\n[7] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà nội.\n[8] Patrick Engebretson (2011), The Basics of Hacking and Penetration Testing, Syngress.\n[9] Thomas Wilhelm (2013), Professional Penetration Testing 2nd - Creating and Learning in a Hacking Lab, Syngress.\n[10] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.",
-      "word_count": 187,
-      "char_count": 1259,
+      "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong thực tế. Đồng thời học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
+      "word_count": 63,
+      "char_count": 292,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
+      "position": {
+        "order": 5,
+        "start_block": 14,
+        "end_block": 15
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11102#006",
+      "text": "Giáo trình:\n[1] Karen Scarfone, Murugiah Souppaya, Amanda Cody and Angela Orebaugh (2008), Technical Guide to Information Security Testing and Assessment, NIST SP 800-115.\n[2] TS. Lương Thế Dũng, ThS. Phạm Minh Thuấn (2016), Giáo trình đánh giá và kiểm định an toàn hệ thống thông tin, Học viện kỹ thuật mật mã.\nTài liệu khác:\n[3] British Standards Institution - BS ISO/IEC 27001:2005 (2008), Information technology – Security techniques – Information security management systems – Requirements, American National Standards Institute.\n[4] Jeremy Faircloth (2005), Penetration Tester’s Open Source Toolkit – Third Edition, Syngress.\n[5] John Wack, Miles Tracy & Murugiah Souppaya (2003), Guideline on Network Security Testing, NIST SP 800-42.\n[6] Lee Allen (2012), Advanced Penetration Testing for Highly-Secured Environments, Packt Publishing.\n[7] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà nội.\n[8] Patrick Engebretson (2011), The Basics of Hacking and Penetration Testing, Syngress.",
+      "word_count": 157,
+      "char_count": 1036,
       "heading_path": [
         "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
       ],
       "primary_heading": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
       "breadcrumbs": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 16,
-        "end_block": 27
+        "end_block": 25
       }
     },
     {
-      "chunk_id": "vi-cntt11102#006",
+      "chunk_id": "vi-cntt11102#007",
+      "text": "[9] Thomas Wilhelm (2013), Professional Penetration Testing 2nd - Creating and Learning in a Hacking Lab, Syngress.\n[10] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.",
+      "word_count": 30,
+      "char_count": 222,
+      "heading_path": [
+        "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)"
+      ],
+      "primary_heading": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "breadcrumbs": "4. TÀI LIỆU THAM KHẢO (LEARNING RESOURCES: COURSE BOOKS, REFERENCE BOOKS, AND SOFTWARES)",
+      "position": {
+        "order": 7,
+        "start_block": 26,
+        "end_block": 28
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11102#008",
       "text": "Bảng 5.1. Mục tiêu học phần\nTT | Mô tả mục tiêu học phần | CĐR (PLO) của CTĐT | Mức độ\n[1] | [2] | [3] | [4]\nPO1 | Vận dụng được kiến thức cơ bản về chính trị, xã hội, pháp luật, khoa học tự nhiên và Công nghệ thông tin vào giải quyết các vấn đề thực tiễn trong quá trình phát triển kinh tế-xã hội | PLO1.1, PLO1.2 | 3, 3\nPO2 | Vận dụng được các kiến thức cơ bản và chuyên sâu về đánh giá lỗ hổng bảo mật và kểm thử xâm nhập, đó là tổng quan về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập; đánh giá lỗ hổng bảo mật; triển khai đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập | PLO1.5 | 5\nPO3 | Thành thạo các kỹ năng về đánh giá lỗ hổng bảo mật, kiểm thử xâm nhập để giải quyết các vấn đề trong thực tiễn của các tổ chức, cơ quan và doanh nghiệp | PLO1.3, PLO1.4 | 4, 4\nPO4 | Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập trong các tổ chức, cơ quan và doanh nghiệp | PLO2.2, PLO2.3 | 4\nPO5 | Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế | PLO2.1 | 4\nPO6 | Thể hiện khả năng làm việc độc lập và làm việc theo nhóm, thể hiện quan điểm và bảo vệ quan điểm cá nhân, hiểu và thực hiện đúng đắn trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | PLO3.1, PLO3.2, PLO3.3 PLO3.4 | 5, 5, 5, 4",
       "word_count": 310,
       "char_count": 1340,
@@ -168,13 +200,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (COURSE GOALS)",
       "position": {
-        "order": 6,
+        "order": 8,
         "start_block": 29,
         "end_block": 30
       }
     },
     {
-      "chunk_id": "vi-cntt11102#007",
+      "chunk_id": "vi-cntt11102#009",
       "text": "Bảng 6.1. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOs | Mô tả CLOs* | Mức độ đạt được**\n[1] | [2] | [3] | [4]\nPO1 | CLO1.1 | Vận dụng được thế giới quan, nhân sinh quan, phương pháp luận của Chủ nghĩa Mác-Lênin và của Đảng Cộng sản Việt Nam vào học tập, nghiên cứu, vào đời sống thực tiễn trong quá trình phát triển nền kinh tế thị trường định hướng XHCN. | 3\nPO1 | CLO1.2 | Vận dụng được kiến thức cơ bản về pháp luật, kinh tế, quản trị kinh doanh, quản lý vào giải quyết các vấn đề kinh tế-xã hội ở tầm vĩ mô, ngành và doanh nghiệp. | 3\nPO1 | CLO1.3 | Vận dụng được lý thuyết toán học và các kiến thức khoa học tự nhiên để học về lĩnh vực Máy tính và Công nghệ thông tin | 3\nPO1 | CLO1.4 | Vận dụng được các kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin để học về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập | 3\nPO2 | CLO2.1 | Vận dụng thích hợp các kiến thức cơ bản về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập | 5\nPO2 | CLO2.2 | Vận dụng thành thạo kiến thức về đánh giá lỗ hổng bảo mật | 5\nPO2 | CLO2.3 | Vận dụng thành thạo kiến thức về triển khai đánh giá lỗ hổng bảo mật | 5\nPO2 | CLO2.4 | Vận dụng thành thạo kiến thức về kiểm thử xâm nhập | 5\nPO3 | CLO3.1 | Thành thạo kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, đánh giá các bài toán về đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập | 4\nPO3 | CLO3.2 | Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về đánh giá lỗ hổng bảo mật cho các hệ thống | 4\nPO3 | CLO3.3 | Thành thạo kỹ năng nghiên cứu, phát triển các phương pháp về kiểm thử xâm nhập cho các hệ thống | 4\nPO4 | CLO4.1 | Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về đánh giá lỗ hổng bảo mật | 4\nPO4 | CLO4.2 | Thành thạo kỹ năng tìm hiểu, nghiên cứu, phân tích, tổng hợp để nâng cao kiến thức chuyên sâu về kiểm thử xâm nhập | 4\nPO5 | CLO5.1 | Thành thạo ngoại ngữ cơ bản và chuyên ngành để phục vụ học tập, nghiên cứu và sử dụng trong thực tế | 4\nPO5 | CLO5.2 | Có khả năng giao tiếp, quản lý dự án, sáng tạo, tư duy logic, và kỹ năng tự học và nghiên cứu | 4\nPO6 | CLO6.1 | Thể hiện khả năng tự học tập, tìm hiểu, nghiên cứu tài liệu để hoàn thành các bài học và bài tập được giao | 5\nPO6 | CLO6.2 | Thể hiện ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động nhóm và hoạt động của lớp học | 5\nPO6 | CLO6.3 | Thể hiện khả năng học tập, tìm hiểu, nghiên cứu tài liệu và làm việc theo nhóm | 5\nPO6 | CLO6.4 | Thể hiện quan điểm và bảo vệ quan điểm cá nhân dựa trên cách tiếp cận khách quan, khoa học | 5",
       "word_count": 607,
       "char_count": 2587,
@@ -184,13 +216,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (COURSE LEARNING OUTCOMES)",
       "position": {
-        "order": 7,
+        "order": 9,
         "start_block": 32,
         "end_block": 33
       }
     },
     {
-      "chunk_id": "vi-cntt11102#008",
+      "chunk_id": "vi-cntt11102#010",
       "text": "Bảng 7.1. Đánh giá học phần\nHình thức đánh giá | Nội dung/ \nBài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí \nđánh giá* | Tỷ lệ (%)\n[1] | [2] | [3] | [4] | [5] | [6]\nChuyên cần | - Ý thức, thái độ tham gia học tập của người học trong việc chuẩn bị bài, tham gia thảo luận, xây dựng bài ở trên lớp - Ý thức của người học trong việc chấp hành các nội quy, quy chế, quy định của trường, của lớp học | Tuần 1-15 | CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO6.1 CLO6.2 CLO6.3 | Công cụ đánh giá: - Nhật ký giảng dạy của giảng viên - Câu hỏi trên lớp - Bài tập được giao Tiêu chí đánh giá: - Đi học đúng giờ - Nghiêm túc học tập trên lớp - Mức độ tương tác - Chất lượng câu trả lời, bài làm | 10%\nĐánh giá quá trình | Bài kiểm tra | Tuần 10 | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 | Công cụ đánh giá: Đề kiểm tra tự luận Tiêu chí đánh giá: Theo thang điểm chi tiết của Bài kiểm tra tự luận | 40%\nĐánh giá quá trình | Bài tập lớn | Tuần 14-15 | CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4 | Công cụ đánh giá: Các chủ đề bài tập lớn của môn học Tiêu chí đánh giá: - Nội dung - Hình thức - Thời gian nộp - Mức độ hợp tác | 40%\nĐánh giá cuối kỳ | Bài thi cuối kỳ | Lịch thi học phần | CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Theo yêu cầu bài thi | 50%",
       "word_count": 295,
       "char_count": 1289,
@@ -200,13 +232,13 @@
       "primary_heading": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (COURSE ASSESSMENT)",
       "position": {
-        "order": 8,
+        "order": 10,
         "start_block": 35,
         "end_block": 36
       }
     },
     {
-      "chunk_id": "vi-cntt11102#009",
+      "chunk_id": "vi-cntt11102#011",
       "text": "Bảng 8.1. Kế hoạch giảng dạy\nTuần | Nội dung giảng dạy* | Tài liệu đọc** | CLOs | Hoạt động dạy và học*** | Công cụ  đánh giá****\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Làm quen, giới thiệu học phần, logic của học phần và vai trò, vị trí của học phần trong CTĐT Chương 1: Tổng quan về an toàn thông tin 1.1. Giới thiệu chung 1.1.1. Hệ thống và tài nguyên thông tin 1.1.2. Các mối đe dọa và hiểm họa 1.1.3. Kẻ xâm nhập 1.1.4. Các loại hình tấn công 1.1.5. Mục tiêu và nguyên tắc chung của an toàn thông tin 1.2. Đánh giá an toàn hệ thống thông tin 1.2.1. Khái niệm 1.2.2. Vai trò của đánh giá an toàn thông tin 1.2.3. Các phương pháp lđánh giá an toàn thông tin 1.2.4. Các kỹ thuật đánh giá 1.3. Kiểm thử xâm nhập 1.3.1. Giới thiệu về kiểm thử xâm nhập 1.3.2. Vai trò của kiểm thử xâm nhập 1.3.3. Các bước chung của kiểm thử xâm nhập 1.3.4. Phân biệt kiểm thử và kiểm tra 1.4. Giới thiệu một số công cụ hỗ trợ đánh giá và kiểm thử xâm nhập | Đề cương chi tiết [1] Chapter 1 [2] Chương 1 [3] Chapter 1 [4] Chapter 1 [5] Chapter 1 [6] Chapter 1 [7] Chương 1 [8] Chapter 1 [9] Chapter 1 [10] Chapter 1 | CLO2.1 CLO3.1 CLO4.1 CLO5.1 CLO6.1 CLO6.2 | Giảng dạy: - Thống nhất nội quy, quy định, yêu cầu học tập - Thống nhất phương pháp giảng dạy và học tập - Hướng dẫn tìm kiếm tài liệu - Hướng dẫn dọc, nghiên cứu tài liệu. - Giới thiệu học phần - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Thảo luận các tình huống, các vấn đề liên quan đến an toàn bảo mật thông tin, các dạng tấn công an toàn thông tin, các giải pháp an toàn bảo mật thông tin và câu hỏi giảng viên đặt ra | - Mức độ tham gia - Mức độ tương tác - Chất lượng câu trả lời - Chất lượng thảo luận\n4-6 | Chương 2: Đánh giá lỗ hổng bảo mật 2.1. Giới thiệu chung 2.2. Rà soát hệ thống 2.2.1. Rà soát tài liệu 2.2.2. Rà soát nhật ký 2.2.3. Rà soát tập luật 2.2.4. Rà soát cấu hình hệ thống 2.2.5. Dò quét mạng 2.2.6. Kiểm tra tính toàn vẹn của tệp tin 2.3. Phân tích và xác định mục tiêu 2.3.1. Khám phá mạng 2.3.2. Xác định cổng và dịch vụ mạng 2.3.3. Dò quét lỗ hổng bảo mật 2.3.4. Dò quét mạng không dây 2.3.5. Một số công cụ phân tích và xác định mục tiêu 2.4. Xác định điểm yếu mục tiêu 4.4.1. Bẻ mật khẩu 4.4.2. Kiểm thử xâm nhập 4.4.3. Kỹ nghệ xã hội 4.4.4. Một số công cụ hỗ trợ xác định điểm yếu mục tiêu | [1] Chapter 2, 3, 4, 5 [2] Chương 2, 3, 4 [3] Chapter 2 [4] Chapter 2 [5] Chapter 2 [8] Chapter 2, 3 [9] Chapter 2 | CLO2.2 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4 | Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống thực tế | - Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận\n7-9 | Chương 3: Triển khai đánh giá lỗ hổng bảo mật 3.1. Khái quát chung 3.2. Lập kế hoạch đánh giá 3.2.1. Xây dựng chính sách đánh giá 3.2.2. Xác định các ưu tiên 3.2.3. Lựa chọn và xác định kỹ thuật đánh giá 3.2.4. Lựa chọn nhân lực đánh giá 5.2.5. Lựa chọn tài nguyên và công cụ kỹ thuật 3.2.6. Phát triển kế hoạch đánh giá 3.2.7. Xem xét tính pháp lý 3.3. Thực hiện đánh giá 3.3.1. Phối hợp 3.3.2. Đánh giá 3.3.3. Phân tích . 3.3.4. Xử lý dữ liệu 3.4. Các hoạt động sau đánh giá 3.4.1. Tổng hợp thông tin 3.4.2. Lập báo cáo 3.4.3. Khắc phục/Giảm thiểu 3.4.4. Kiểm định an toàn hệ thống thông tin 3.5. Đánh giá lỗ hổng bảo mật các ứng dụng sử dụng các công cụ hỗ trợ | [1] Chapter 6, 7 [2] Chương 5, 6, 7 [3] Chapter 3 [4] Chapter 3 [5] Chapter 3 [8] Chapter 3 [9] Chapter 3 | CLO2.3 CLO3.1 CLO3.2 CLO4.1 CLO5.1 CLO6.1 CLO6.2 CLO6.3 CLO6.4 | Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên. - Giao bài tập của nội dung bài học - Định hướng các chủ đề thực hiện bài tập lớn môn học cho các nhóm sinh viên Học tập: - Làm bài tập được giao trước khi tới lớp. - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm nhận nhiệm vụ bài tập lớn được giao | - Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận\n7-9 | Kiểm tra giữa kỳ (20%) các chương 1, 2, 3 | - | CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 | - Giảng viên giao đề kiểm tra, giám sát sinh viên làm bài kiểm tra - Sinh viên làm bài kiểm tra | Đề kiểm tra tự luận\n10-13 | Chương 4: Kiểm thử xâm nhập 4.1. Giới thiệu 4.2. Các dạng kiểm thử xâm nhập 4.2.1. Tấn công vào yếu tố con người 4.2.2. Xâm nhập vật lý 4.2.3. Tấn công từ bên trong 4.2.4. Xâm nhập mạng 4.3. Khai thác lỗ hổng bảo mật 4.3.1. Khai thác lỗ hổng tràn bộ đệm 4.3.2. Khai thác lỗ hổng sử dụng shellcode 4.4. Phân tích lỗ hổng 4.4.1. Phân tích mã nguồn 4.4.2. Phân tích mã chương trình đã dịch 4.4.3. Kỹ thuật Fuzzing 4.4.4. Khai thác khi tìm ra lỗ hổng 4.4.5. Phòng ngừa khai thác lỗ hổng 4.5. Khai thác hệ thống đã xâm nhập 4.6. Kiểm thử xâm nhập các ứng dụng sử dụng các công cụ hỗ trợ Bài tập lớn môn học | [2] Chương  8 [3] Chapter 4, 5 [4] Chapter 3 [5] Chapter 3 [6] Chapter 2, 3, 4, 5, 6, 7, 8, 11 [8] Chapter 4, 5 [9] Chapter 4 | CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO6.1 CLO6.2 CLO6.3 | Giảng dạy: - Giảng viên giảng lý thuyết và giải thích các nội dung của bài học - Đưa ra bài toán vận dụng của nội dung bài học - Phát vấn - Trả lời các câu hỏi của sinh viên - Giao bài tập của nội dung bài học - Hướng dẫn, trao đổi làm bài tập lớn môn học Học tập: - Làm bài tập được giao trước khi tới lớp - Chuẩn bị bài mới - Nghe giảng, đọc và nghiên cứu tài liệu học tập - Đưa ra các câu hỏi, chủ đề thảo luận của bài học - Làm các bài tập vận dụng, trả lời các câu hỏi/thảo luận các tình huống - Các nhóm làm bài tập lớn môn học | - Mức độ tham gia - Mức độ tương tác - Bài tập áp dụng - Chất lượng câu trả lời - Chất lượng thảo luận\n14-15 | Trình bày bài tập lớn Nộp bài bài tập lớn (20%) | - | CLO1.1 CLO1.2 CLO1.3 CLO1.4 CLO2.1 CLO2.2 CLO2.3 CLO2.4 CLO3.1 CLO3.2 CLO3.3 CLO4.1 CLO4.2 CLO5.1 CLO5.2 CLO6.1 CLO6.2 CLO6.3 CLO6.4 | - Các nhóm sinh viên báo cáo bài tập lớn và trả lời câu hỏi - Giảng viên và các nhóm trong lớp đặt câu hỏi, nhận xét - Các nhóm sinh viên chỉnh sửa báo cáo theo các ý kiến góp ý và nộp báo cáo - Giảng viên đánh giá - Giảng viên giải đáp các câu hỏi của sinh viên | Phiếu đánh giá các tiêu chí: - Nội dung - Hình thức - Thời gian trình bày - Mức độ hợp tác\n- | Bài thi cuối kỳ | - | CLO2.1 CLO2.2 CLO2.3 CLO2.4 | Sinh viên làm bài thi theo lịch thi của nhà trường | Theo yêu cầu bài thi cuối học kỳ",
       "word_count": 1639,
       "char_count": 7302,
@@ -216,13 +248,13 @@
       "primary_heading": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
       "breadcrumbs": "8. KẾ HOẠCH GIẢNG DẠY (LESSON PLAN)",
       "position": {
-        "order": 9,
+        "order": 11,
         "start_block": 39,
         "end_block": 40
       }
     },
     {
-      "chunk_id": "vi-cntt11102#010",
+      "chunk_id": "vi-cntt11102#012",
       "text": "Sinh viên được tham dự thi cuối kỳ/thi kết thúc học phần (50%) nếu có điểm chuyên cần (10%) đạt mức 5 điểm trở lên (thang 10).",
       "word_count": 27,
       "char_count": 126,
@@ -233,13 +265,13 @@
       "primary_heading": "9.1. Quy định về điều kiện thi kết thúc học phần",
       "breadcrumbs": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION) > 9.1. Quy định về điều kiện thi kết thúc học phần",
       "position": {
-        "order": 10,
+        "order": 12,
         "start_block": 44,
         "end_block": 45
       }
     },
     {
-      "chunk_id": "vi-cntt11102#011",
+      "chunk_id": "vi-cntt11102#013",
       "text": "- Sinh viên/học viên có trách nhiệm tham dự đầy đủ các buổi học. Trong trường hợp nghỉ học do lý do bất khả kháng thì phải có giấy tờ chứng minh đầy đủ và hợp lý. Mỗi buổi vắng mặt sẽ bị trừ 1 điểm chuyên cần. Sinh viên vắng quá 3 buổi học dù có lý do hay không có lý do đều bị coi như không hoàn thành khóa học và phải đăng ký học lại.\n- Sinh viên được xem xét cộng điểm vào điểm chuyên cần, điểm kiểm tra cho việc tích cực xây dựng bài trong các buổi học.",
       "word_count": 105,
       "char_count": 457,
@@ -250,13 +282,13 @@
       "primary_heading": "9.2. Quy định về tham dự lớp học",
       "breadcrumbs": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION) > 9.2. Quy định về tham dự lớp học",
       "position": {
-        "order": 11,
+        "order": 13,
         "start_block": 46,
         "end_block": 48
       }
     },
     {
-      "chunk_id": "vi-cntt11102#012",
+      "chunk_id": "vi-cntt11102#014",
       "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\n- Sinh viên phải đi học đúng giờ quy định. Sinh viên đi trễ quá 10 phút sau khi giờ học bắt đầu sẽ không được tham dự buổi học.\n- Tuyệt đối không làm ồn, gây ảnh hưởng đến người khác trong quá trình học.\n- Không được làm việc riêng trong giờ học. Tuyệt đối không được sử dụng các thiết bị công nghệ thông tin, truyền thông vào việc riêng trong giờ học.",
       "word_count": 108,
       "char_count": 498,
@@ -267,13 +299,13 @@
       "primary_heading": "9.3. Quy định về hành vi lớp học",
       "breadcrumbs": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION) > 9.3. Quy định về hành vi lớp học",
       "position": {
-        "order": 12,
+        "order": 14,
         "start_block": 49,
         "end_block": 55
       }
     },
     {
-      "chunk_id": "vi-cntt11102#013",
+      "chunk_id": "vi-cntt11102#015",
       "text": "PHỤ TRÁCH KHOA | Hà Nội, ngày 03 tháng 04 năm 2024 HIỆU TRƯỞNG\nTS. PHẠM XUÂN LÂM | PGS.TS PHẠM HỒNG CHƯƠNG",
       "word_count": 23,
       "char_count": 106,
@@ -284,7 +316,7 @@
       "primary_heading": "9.3. Quy định về hành vi lớp học",
       "breadcrumbs": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION) > 9.3. Quy định về hành vi lớp học",
       "position": {
-        "order": 13,
+        "order": 15,
         "start_block": 55,
         "end_block": 57
       }

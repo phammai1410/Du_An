@@ -7,8 +7,8 @@
   "source_filename": "Phân tích và thiết kế hệ thống_CNTT1117.docx",
   "source_relpath": "data\\raw\\vi\\Phân tích và thiết kế hệ thống_CNTT1117.docx",
   "source_hash": "d7dab470b5e66d604049f38b18915810",
-  "source_modified": "2025-10-11T10:42:50.650552+00:00",
-  "processed_at": "2025-10-12T13:24:20.113849+00:00",
+  "source_modified": "2025-10-19T17:31:17.238508+00:00",
+  "processed_at": "2025-11-05T15:52:52.497839+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 72,
     "headings": 21,
     "tables": 12,
-    "chunks": 21,
+    "chunks": 22,
     "words": 5206
   },
   "chunks": [
@@ -264,7 +264,7 @@
       "position": {
         "order": 9,
         "start_block": 55,
-        "end_block": 58
+        "end_block": 56
       }
     },
     {
@@ -397,14 +397,14 @@
       "position": {
         "order": 17,
         "start_block": 91,
-        "end_block": 98
+        "end_block": 96
       }
     },
     {
       "chunk_id": "vi-cntt1117#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,14 +414,14 @@
       "position": {
         "order": 18,
         "start_block": 99,
-        "end_block": 105
+        "end_block": 103
       }
     },
     {
       "chunk_id": "vi-cntt1117#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 105,
-        "end_block": 109
+        "start_block": 104,
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1117#020",
-      "text": "- \tHình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 4 câu\nMa trận đề kiểm tra (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2.0 | - | 1 | - | 1\nCâu 2 | 1.2 | 1.0 | - | 1 | - | 1\nCâu 3 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 4 | 1.3 | 3.0 | - | - | 1 | 1\nCâu 5 | 1.4 | 2.0 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | - | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | 40% | 60% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 574,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- \tHình thức: Tự luận trên giấy\n- Thời gian: 75 phút\n- Số câu hỏi: 4 câu\nMa trận đề kiểm tra (tự luận):",
+      "word_count": 47,
+      "char_count": 203,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,12 +447,29 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 110,
-        "end_block": 117
+        "start_block": 108,
+        "end_block": 114
       }
     },
     {
       "chunk_id": "vi-cntt1117#021",
+      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2.0 | - | 1 | - | 1\nCâu 2 | 1.2 | 1.0 | - | 1 | - | 1\nCâu 3 | 1.3 | 2.0 | - | - | 1 | 1\nCâu 4 | 1.3 | 3.0 | - | - | 1 | 1\nCâu 5 | 1.4 | 2.0 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 5 | - | - | - | 5\nTổng số điểm | - | 10 | - | - | - | -\nTỷ trọng | - | 100% | - | 40% | 60% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 158,
+      "char_count": 470,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 114,
+        "end_block": 117
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1117#022",
       "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Phân tích thiết kế hướng đối tượng | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về phân tích thiết kế hướng đối tượng và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về phân tích thiết kế hướng đối tượng, có khả năng mô hình hóa qua các biểu đồ UML linh hoạt và chính xác | Có kiến thức cơ bản về Phân tích thiết kế hướng đối tượng nhưng cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Phân tích thiết kế hướng đối tượng cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng mô hình hóa hệ thống\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các phân tích thiết kế HT sáng tạo và đa dạng, mô hình hóa bằng ngôn ngữ ULM linh hoạt đa dạng. | Tạo ra các phân tích thiết kế HT đa dạng và độc đáo tuy không xuất sắc như ở mức độ giỏi. | Có khả năng tạo ra các phân tích thiết kế HT cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng phân tích thiết kế HT, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các biểu đồ và tài liệu phân tích thiết kế phức tạp và độc đáo, chất lượng cao. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các biểu đồ và tài liệu phân tích thiết kế cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc tạo ra các biểu đồ và tài liệu phân tích thiết kế, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
       "word_count": 525,
       "char_count": 2183,
@@ -463,7 +480,7 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 21,
+        "order": 22,
         "start_block": 118,
         "end_block": 118
       }

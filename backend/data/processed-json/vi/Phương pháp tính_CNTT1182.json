@@ -7,8 +7,8 @@
   "source_filename": "Phương pháp tính_CNTT1182.docx",
   "source_relpath": "data\\raw\\vi\\Phương pháp tính_CNTT1182.docx",
   "source_hash": "c03ddc0d52e4749b4c329fae24a65ad5",
-  "source_modified": "2025-10-11T10:42:50.651551+00:00",
-  "processed_at": "2025-10-12T13:24:20.311461+00:00",
+  "source_modified": "2025-10-19T17:31:17.240506+00:00",
+  "processed_at": "2025-11-05T15:52:52.710863+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -182,9 +182,9 @@
     },
     {
       "chunk_id": "vi-cntt1182#004",
-      "text": "Học phần nằm trong khối kiến thức cơ sở ngành của chương trình đào tạo bậc cử nhân ngành CNTT, KHMT. Học phần cung cấp các khái niệm cơ bản về phương pháp tính, sai số; nội suy đa thức; xấp xỉ  hàm số. Học phần cũng cung cấp các kiến thức về phương pháp số trong việc tính gần đúng đạo hàm và tích phân, giải gần đúng phương trình và hệ phương trình đại số tuyến tính, phương trình vi phân. Sử dụng ngôn ngữ lập trình Matlab để mô phỏng các phương pháp nói trên\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được giao bài tập theo nhóm để tìm hiểu các ngôn ngữ lập trình nhằm giải quyết các bài toán liên quan đến phương pháp tính và các vấn đề trong lĩnh vực Công nghệ thông tin.\nNội dung chính:\n- Các loại sai số và cách tính sai số",
-      "word_count": 184,
-      "char_count": 852,
+      "text": "Học phần nằm trong khối kiến thức cơ sở ngành của chương trình đào tạo bậc cử nhân ngành CNTT, KHMT. Học phần cung cấp các khái niệm cơ bản về phương pháp tính, sai số; nội suy đa thức; xấp xỉ  hàm số. Học phần cũng cung cấp các kiến thức về phương pháp số trong việc tính gần đúng đạo hàm và tích phân, giải gần đúng phương trình và hệ phương trình đại số tuyến tính, phương trình vi phân. Sử dụng ngôn ngữ lập trình Matlab để mô phỏng các phương pháp nói trên\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được giao bài tập theo nhóm để tìm hiểu các ngôn ngữ lập trình nhằm giải quyết các bài toán liên quan đến phương pháp tính và các vấn đề trong lĩnh vực Công nghệ thông tin.",
+      "word_count": 171,
+      "char_count": 798,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
       ],
@@ -193,14 +193,14 @@
       "position": {
         "order": 4,
         "start_block": 20,
-        "end_block": 23
+        "end_block": 21
       }
     },
     {
       "chunk_id": "vi-cntt1182#005",
-      "text": "- Các phương pháp nội suy đa thức\n- Các phương pháp giải gần đúng\n- Sử dụng Matlab thực hiện các phương pháp giải gần đúng phương trình, nội suy đa thức",
-      "word_count": 33,
-      "char_count": 152,
+      "text": "Nội dung chính:\n- Các loại sai số và cách tính sai số\n- Các phương pháp nội suy đa thức\n- Các phương pháp giải gần đúng\n- Sử dụng Matlab thực hiện các phương pháp giải gần đúng phương trình, nội suy đa thức",
+      "word_count": 46,
+      "char_count": 206,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)"
       ],
@@ -208,7 +208,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (COURSE DESCRIPTIONS)",
       "position": {
         "order": 5,
-        "start_block": 24,
+        "start_block": 22,
         "end_block": 27
       }
     },
@@ -425,14 +425,14 @@
       "position": {
         "order": 18,
         "start_block": 74,
-        "end_block": 81
+        "end_block": 79
       }
     },
     {
       "chunk_id": "vi-cntt1182#019",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 08 buổi seminar và 01 buổi lecture cuối\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 171,
-      "char_count": 678,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 08 buổi seminar và 01 buổi lecture cuối\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 163,
+      "char_count": 641,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -442,14 +442,14 @@
       "position": {
         "order": 19,
         "start_block": 82,
-        "end_block": 88
+        "end_block": 86
       }
     },
     {
       "chunk_id": "vi-cntt1182#020",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận, chữa bài tập Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi/chữa bài tập Đặt câu hỏi thảo luận với lớp Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được | Trả lời câu hỏi GV yêu cầu trả lời Trình bày đáp án bài tập do GV yêu cầu làm ở nhà Có phát biểu ý kiến; | Không trả lời câu hỏi Không trình bày đáp án bài tập Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân thứ nhất\nRubrics 3. Đánh giá bài tập lớn\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
-      "word_count": 167,
-      "char_count": 719,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận, chữa bài tập Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi/chữa bài tập Đặt câu hỏi thảo luận với lớp Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được | Trả lời câu hỏi GV yêu cầu trả lời Trình bày đáp án bài tập do GV yêu cầu làm ở nhà Có phát biểu ý kiến; | Không trả lời câu hỏi Không trình bày đáp án bài tập Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân thứ nhất\nRubrics 3. Đánh giá bài tập lớn\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 162,
+      "char_count": 697,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -458,15 +458,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 88,
-        "end_block": 95
+        "start_block": 87,
+        "end_block": 93
       }
     },
     {
       "chunk_id": "vi-cntt1182#021",
-      "text": "Tiêu chí | CLO | Tỷ trọng % | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10)\nTiêu chí | CLO | Tỷ trọng % | Giỏi 8,5 – 10 | Khá 7,0 – 8,4 | Trung bình 4,5 – 6,9 | Yếu 0 – 4,4\nNội dung | 1.x 2.1 2.3 3.1 | 50% | - Kiến thức lý thuyết khoa học, chính xác, đầy đủ - Có các ứng dụng phù hợp, giải quyết bài toán tối ưu. | -  Kiến thức lý thuyết đầy đủ, phù hợp - Có ứng dụng nhưng không có tính phổ dụng | - Kiến thức lý thuyết không đầy đủ, thiếu chính xác - Không có ứng dụng. | - Kiến thức lý thuyết không phù hợp hoặc không có kiến thức\nTrình bày | 2.x 3.x | 20% | - Đúng định dạng yêu cầu - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả - Có sự sáng tạo | - Đúng định dạng yêu cầu - Ngôn ngữ phù hợp, có ít lỗi chính tả - Thiếu tính sáng tạo | - Chưa đúng định dạng yêu cầu - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp và đúng yêu cầu, nhiều lỗi chính tả | - Không có cấu trúc rõ ràng - Thiếu logic - Ngôn ngữ không phù hợp\nTương tác trả lời câu hỏi | 1.x 2.x 3.x | 20% | Thể hiện sự hiểu biết sâu sắc về chủ đề Tương tác tích cực, sẵn sàng trao đổi Trả lời được tất cả các câu hỏi. | Thể hiện sự hiểu biết về chủ đề; chưa tự tin khi tương tác, trao đổi Sản phẩm thiếu 1 vài tính năng | Thể hiện hiểu biết về chủ đề chưa sâu; chưa tự tin khi tương tác, trao đổi Trả lời được 1/2 các câu hỏi. Ví dụ mô tả còn thiếu | Thể hiện chưa rõ yêu cầu không tự tin khi tương tác. Trả lời được dưới 1/2 số câu hỏi. Không giải thích và demo được các ví dụ cụ thể theo chủ đề được phân công\nPhân công công việc trong nhóm | 3.x | 10% | - Có phân công  rõ   ràng - Có hợp tác, chia sẻ, tương tác thực hiện - Toàn bộ thành viên  trình bày và phối hợp tốt | Có phân công công việc cụ thể Có hợp tác, chia sẻ, tương tác thực hiện 70% - 80% thành viên trình bày tốt | Có phân công thực hiện Phối hợp, cộng tác chưa tốt 50% - 60% thành viên  thực hiện/trình bày đạt yêu cầu | Thiếu sự phân công, gắn kết giữa các thành viên < 50% thành viên  trình bày yếu",
-      "word_count": 488,
-      "char_count": 2044,
+      "text": "- Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình\nTiêu chí | CLO | Tỷ trọng % | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10)\nTiêu chí | CLO | Tỷ trọng % | Giỏi 8,5 – 10 | Khá 7,0 – 8,4 | Trung bình 4,5 – 6,9 | Yếu 0 – 4,4\nNội dung | 1.x 2.1 2.3 3.1 | 50% | - Kiến thức lý thuyết khoa học, chính xác, đầy đủ - Có các ứng dụng phù hợp, giải quyết bài toán tối ưu. | -  Kiến thức lý thuyết đầy đủ, phù hợp - Có ứng dụng nhưng không có tính phổ dụng | - Kiến thức lý thuyết không đầy đủ, thiếu chính xác - Không có ứng dụng. | - Kiến thức lý thuyết không phù hợp hoặc không có kiến thức\nTrình bày | 2.x 3.x | 20% | - Đúng định dạng yêu cầu - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả - Có sự sáng tạo | - Đúng định dạng yêu cầu - Ngôn ngữ phù hợp, có ít lỗi chính tả - Thiếu tính sáng tạo | - Chưa đúng định dạng yêu cầu - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp và đúng yêu cầu, nhiều lỗi chính tả | - Không có cấu trúc rõ ràng - Thiếu logic - Ngôn ngữ không phù hợp\nTương tác trả lời câu hỏi | 1.x 2.x 3.x | 20% | Thể hiện sự hiểu biết sâu sắc về chủ đề Tương tác tích cực, sẵn sàng trao đổi Trả lời được tất cả các câu hỏi. | Thể hiện sự hiểu biết về chủ đề; chưa tự tin khi tương tác, trao đổi Sản phẩm thiếu 1 vài tính năng | Thể hiện hiểu biết về chủ đề chưa sâu; chưa tự tin khi tương tác, trao đổi Trả lời được 1/2 các câu hỏi. Ví dụ mô tả còn thiếu | Thể hiện chưa rõ yêu cầu không tự tin khi tương tác. Trả lời được dưới 1/2 số câu hỏi. Không giải thích và demo được các ví dụ cụ thể theo chủ đề được phân công\nPhân công công việc trong nhóm | 3.x | 10% | - Có phân công  rõ   ràng - Có hợp tác, chia sẻ, tương tác thực hiện - Toàn bộ thành viên  trình bày và phối hợp tốt | Có phân công công việc cụ thể Có hợp tác, chia sẻ, tương tác thực hiện 70% - 80% thành viên trình bày tốt | Có phân công thực hiện Phối hợp, cộng tác chưa tốt 50% - 60% thành viên  thực hiện/trình bày đạt yêu cầu | Thiếu sự phân công, gắn kết giữa các thành viên < 50% thành viên  trình bày yếu",
+      "word_count": 501,
+      "char_count": 2103,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -475,7 +475,7 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 95,
+        "start_block": 94,
         "end_block": 95
       }
     },

@@ -35,7 +35,7 @@ def run_step(label: str, command: Sequence[str]) -> None:
 
 
 def parse_args() -> argparse.Namespace:
-    env_model = os.environ.get("EMBEDDING_MODEL", "granite-embedding-107m-multilingual")
+    env_model = os.environ.get("EMBEDDING_MODEL", "")
     env_base_url = os.environ.get("LOCALAI_BASE_URL", "http://localhost:8080/v1")
     env_backend = os.environ.get("VECTOR_INDEX_BACKEND") or os.environ.get("INDEX_BACKEND")
 
@@ -74,6 +74,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--embed-max-len", type=int, default=None)
     parser.add_argument("--legacy-max-len", type=int, default=None)
     parser.add_argument("--legacy-overlap", type=int, default=None)
+    parser.add_argument("--chunk-mode", type=str, default=None, help="Chunking mode identifier to record in the index manifest.")
     parser.add_argument("--save-chunks", action="store_true", help="Pass --save-chunks to build_index.py.")
     parser.add_argument(
         "--build-dry-run",
@@ -138,6 +139,8 @@ def main() -> int:
             build_args.extend(["--legacy-max-len", str(args.legacy_max_len)])
         if args.legacy_overlap is not None:
             build_args.extend(["--legacy-overlap", str(args.legacy_overlap)])
+        if args.chunk_mode:
+            build_args.extend(["--chunk-mode", args.chunk_mode])
         if args.save_chunks:
             build_args.append("--save-chunks")
         if args.build_dry_run:

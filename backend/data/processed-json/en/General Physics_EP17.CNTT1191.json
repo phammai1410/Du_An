@@ -7,8 +7,8 @@
   "source_filename": "General Physics_EP17.CNTT1191.docx",
   "source_relpath": "data\\raw\\en\\General Physics_EP17.CNTT1191.docx",
   "source_hash": "80bd81ca44449082abae7683fd92f6c9",
-  "source_modified": "2025-10-11T10:42:50.595335+00:00",
-  "processed_at": "2025-10-12T13:24:13.024197+00:00",
+  "source_modified": "2025-10-19T17:31:17.190365+00:00",
+  "processed_at": "2025-11-05T15:52:44.954971+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -65,7 +65,7 @@
     "paragraphs": 39,
     "headings": 10,
     "tables": 7,
-    "chunks": 12,
+    "chunks": 13,
     "words": 2694
   },
   "chunks": [
@@ -128,7 +128,7 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 25
+        "end_block": 24
       }
     },
     {
@@ -231,9 +231,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1191#011",
-      "text": "9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-      "word_count": 211,
-      "char_count": 1262,
+      "text": "9.1. Requirements for taking final /terminal exams\n- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).\n9.2. Requirements for attending classes\n- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+      "word_count": 173,
+      "char_count": 1055,
       "heading_path": [
         "9. COURSE REQUIREMENT & EXPECTATION"
       ],
@@ -242,14 +242,14 @@
       "position": {
         "order": 11,
         "start_block": 52,
-        "end_block": 60
+        "end_block": 59
       }
     },
     {
       "chunk_id": "en-ep17-cntt1191#012",
-      "text": "- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
-      "word_count": 42,
-      "char_count": 241,
+      "text": "- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 65,
+      "char_count": 370,
       "heading_path": [
         "9. COURSE REQUIREMENT & EXPECTATION"
       ],
@@ -257,7 +257,23 @@
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION",
       "position": {
         "order": 12,
-        "start_block": 61,
+        "start_block": 60,
+        "end_block": 62
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1191#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "9. COURSE REQUIREMENT & EXPECTATION"
+      ],
+      "primary_heading": "9. COURSE REQUIREMENT & EXPECTATION",
+      "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION",
+      "position": {
+        "order": 13,
+        "start_block": 62,
         "end_block": 63
       }
     }

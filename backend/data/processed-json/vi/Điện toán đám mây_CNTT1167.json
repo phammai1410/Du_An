@@ -7,8 +7,8 @@
   "source_filename": "Điện toán đám mây_CNTT1167.docx",
   "source_relpath": "data\\raw\\vi\\Điện toán đám mây_CNTT1167.docx",
   "source_hash": "15f9608ef477a6593e7d62da91d6d557",
-  "source_modified": "2025-10-11T10:42:50.661111+00:00",
-  "processed_at": "2025-10-12T13:24:21.613779+00:00",
+  "source_modified": "2025-10-19T17:31:17.247506+00:00",
+  "processed_at": "2025-11-05T15:52:54.113375+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -135,7 +135,7 @@
     "paragraphs": 61,
     "headings": 24,
     "tables": 12,
-    "chunks": 22,
+    "chunks": 23,
     "words": 4348
   },
   "chunks": [
@@ -171,9 +171,9 @@
     },
     {
       "chunk_id": "vi-cntt1167#003",
-      "text": "(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email NEU\n- | TS. Đặng Minh Quân | quandm@neu.edu.vn\n- | TS. Nguyễn Thanh Hương | huongnt_cntt@neu.edu.vn",
-      "word_count": 68,
-      "char_count": 343,
+      "text": "(Management Faculty and Teachers)\n- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P1310 - P1312 Nhà A1, Trường ĐH Kinh tế Quốc dân, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:",
+      "word_count": 44,
+      "char_count": 219,
       "heading_path": [
         "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
       ],
@@ -182,30 +182,30 @@
       "position": {
         "order": 3,
         "start_block": 19,
-        "end_block": 24
+        "end_block": 23
       }
     },
     {
       "chunk_id": "vi-cntt1167#004",
-      "text": "Học phần trình bày cái nhìn top-down của điện toán đám mây, từ ứng dụng, quản trị đến lập trình và cơ sở hạ tầng. Trọng tâm chính của học phần là các kỹ thuật lập trình song song cho điện toán đám mây và các hệ thống phân tán quy mô lớn tạo thành cơ sở hạ tầng điện toán đám mây. Các nội dung bao gồm: tổng quan về điện toán đám mây, các hệ thống điện toán đám mây, công nghệ ảo hóa, bảo mật trong đám mây và phát triển ứng dụng trên đám mây.\nHọc phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực điện toán đám mây. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.\nNội dung chính:",
-      "word_count": 181,
-      "char_count": 819,
+      "text": "STT | Họ và tên | Email NEU\n- | TS. Đặng Minh Quân | quandm@neu.edu.vn\n- | TS. Nguyễn Thanh Hương | huongnt_cntt@neu.edu.vn",
+      "word_count": 24,
+      "char_count": 123,
       "heading_path": [
-        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY"
       ],
-      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
-      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY",
       "position": {
         "order": 4,
-        "start_block": 25,
-        "end_block": 28
+        "start_block": 23,
+        "end_block": 24
       }
     },
     {
       "chunk_id": "vi-cntt1167#005",
-      "text": "- Khái niệm, các yếu tố thúc đẩy sự ra đời của điện toán đám mây\n- Hệ thống Hadoop\n- Lập trình theo mô hình Map-Reduce\n- NoSQL database\n- Máy chủ Web hiệu năng cao\n- An toàn, bảo mật trong hệ thống Cloud",
-      "word_count": 46,
-      "char_count": 203,
+      "text": "Học phần trình bày cái nhìn top-down của điện toán đám mây, từ ứng dụng, quản trị đến lập trình và cơ sở hạ tầng. Trọng tâm chính của học phần là các kỹ thuật lập trình song song cho điện toán đám mây và các hệ thống phân tán quy mô lớn tạo thành cơ sở hạ tầng điện toán đám mây. Các nội dung bao gồm: tổng quan về điện toán đám mây, các hệ thống điện toán đám mây, công nghệ ảo hóa, bảo mật trong đám mây và phát triển ứng dụng trên đám mây.\nHọc phần cũng nhằm rèn luyện khả năng tư duy, kỹ năng tính toán và nâng cao khả năng ứng dụng các thuật toán vào phân tích, nghiên cứu các vấn đề trong lĩnh vực điện toán đám mây. Học phần trang bị cho người học những kiến thức, kỹ năng và năng lực cần thiết để tìm kiếm, truy xuất và khai thác các nguồn tài liệu liên quan đến môn học và tiếp tục học cao hơn.",
+      "word_count": 178,
+      "char_count": 803,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -213,12 +213,28 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 29,
-        "end_block": 36
+        "start_block": 25,
+        "end_block": 26
       }
     },
     {
       "chunk_id": "vi-cntt1167#006",
+      "text": "Nội dung chính:\n- Khái niệm, các yếu tố thúc đẩy sự ra đời của điện toán đám mây\n- Hệ thống Hadoop\n- Lập trình theo mô hình Map-Reduce\n- NoSQL database\n- Máy chủ Web hiệu năng cao\n- An toàn, bảo mật trong hệ thống Cloud",
+      "word_count": 49,
+      "char_count": 219,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 6,
+        "start_block": 28,
+        "end_block": 36
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1167#007",
       "text": "[1] Huỳnh Quyết Thắng (2014) Điện toán đám mây, Nhà xuất bản Trường Đại Học Bách Khoa Hà Nội.",
       "word_count": 19,
       "char_count": 93,
@@ -229,13 +245,13 @@
       "primary_heading": "4.1. Giáo trình",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.1. Giáo trình",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 38,
         "end_block": 39
       }
     },
     {
-      "chunk_id": "vi-cntt1167#007",
+      "chunk_id": "vi-cntt1167#008",
       "text": "[2] Hwang, Kai, Jack Dongarra, and Geoffrey C. Fox. Distributed and cloud computing: from parallel processing to the internet of things. Morgan Kaufmann, 2013\n[3] Rountree, Derrick, and Ileana Castrillo. The Basics of Cloud Computing: Understanding the Fundamentals of Cloud Computing in Theory and Practice. Newnes, 2013",
       "word_count": 47,
       "char_count": 321,
@@ -246,13 +262,13 @@
       "primary_heading": "4.2. Tài liệu tham khảo",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares) > 4.2. Tài liệu tham khảo",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 40,
         "end_block": 43
       }
     },
     {
-      "chunk_id": "vi-cntt1167#008",
+      "chunk_id": "vi-cntt1167#009",
       "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp cho người học các kiến thức Các khái niệm cơ bản về điện toán đám mây Mô hình lập trình xử lý song song Hadoop Các công nghệ lưu trữ và bảo mật trên đám mây Các cách sử dụng công nghệ điện toán đám mây | -\nCG2 | Học phần hướng dẫn cho người học các kỹ năng xử lý các tình huống chuyên môn một cách có hệ thống. Sinh viên biết cách phối hợp với nhau để cùng giải quyết một vấn đề chuyên môn đúng thời hạn. | -\nCG3 | Học phần góp phần phát triển khả năng giải quyết vấn đề độc lập cũng như khả năng làm việc nhóm để cùng giải quyết các vấn đề chuyên môn. Bước đầu trang bị cho người học nhận thức về bối cảnh xã hội, nhận thức đạo đức nghề nghiệp, trách nhiệm xã hội trong lĩnh vực CNTT. | -",
       "word_count": 188,
       "char_count": 815,
@@ -262,13 +278,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 46,
         "end_block": 47
       }
     },
     {
-      "chunk_id": "vi-cntt1167#009",
+      "chunk_id": "vi-cntt1167#010",
       "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLO | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Nêu được các khái niệm đám mây, dịch vụ phần mềm, dịch vụ cơ sở hạ tầng, dịch vụ nền tảng, lưu trữ, an toàn bảo mật . . . | 1\nCG1 Kiến thức | CLO1.2 | Giải thích được mô hình hoạt động của Hadoop | 2\nCG1 Kiến thức | CLO1.3 | Tổng hợp các kiến thức đơn lẻ để phân tích được cơ chế hoạt động của các dịch vụ điện toán đám mây | 3\nCG1 Kiến thức | CLO1.4 | Vận dụng các kiến thức đã học để giải quyết các bài tập, các tình huống của từng nội dung học tập. | 3\nCG2 Kỹ năng | CLO2.1 | Có kỹ năng tìm kiếm, thu thập, tổng hợp, phân tích, giải quyết các vấn đề đặc trưng của chuyên ngành | 2\nCG2 Kỹ năng | CLO2.2 | Có kỹ năng làm việc nhóm để cùng giải quyết một vấn đề chuyên môn đúng thời hạn. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.1 | Có khả năng tự học tập, tự tìm hiểu tài liệu để hoàn thành các bài học và bài tập được giao. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.2 | Có khả năng tổ chức và phối hợp nhóm làm việc để cùng giải quyết một vấn đề của môn học. | 3\nCG3 Năng lực tự chủ tự chịu trách nhiệm | CLO3.3 | Có ý thức tổ chức kỷ luật lớp học, tuân thủ các nội quy lớp học, có tinh thần hợp tác và trách nhiệm cá nhân đối với các hoạt động được giảng viên giao. | 3",
       "word_count": 319,
       "char_count": 1319,
@@ -278,13 +294,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 49,
         "end_block": 50
       }
     },
     {
-      "chunk_id": "vi-cntt1167#010",
+      "chunk_id": "vi-cntt1167#011",
       "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Thái độ học tập trên lớp Trả lời câu hỏi trên lớp Trả lời các câu hỏi thảo luận | Tuần 1-12 | CLO1.x, CLO2.1, CLO3.1, CLO3.3 | Nhật ký giảng dạy của giảng viên với các tiêu chí đánh giá: (i) Mức độ tham gia (ii) Mức độ tương tác (iii) Chất lượng câu trả lời Xem Phụ lục 2, rubrics 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra giữa kỳ | Tuần 8 | CLO1.x, CLO2.1, CLO3.3 | Tiêu chí: (i) Bài được làm đầy đủ, chính xác (ii) Hình thức đẹp (iii) Thời gian nộp đúng quy định (iv) Tuân theo quy định kiểm tra, đánh giá của trường. | 20% | -\nĐánh giá quá trình | Trình bày nhóm: Báo cáo xây dựng các hệ thống đám mây. | Tuần 13, 14 | CLO1.x, CLO2.x, CLO3.x | Xem Phụ lục 2, rubrics 2 | 20% | -\nĐánh giá cuối kỳ | Bài thi cuối kỳ | Lịch thi học phần | CLO1.x, CLO2.1, CLO3.3 | Theo yêu cầu bài thi | 50% | -",
       "word_count": 239,
       "char_count": 1003,
@@ -295,13 +311,13 @@
       "primary_heading": "7.1. Cơ cấu điểm thành phần",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 54,
         "end_block": 55
       }
     },
     {
-      "chunk_id": "vi-cntt1167#011",
+      "chunk_id": "vi-cntt1167#012",
       "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Lecture 1. Chương 1: Tổng quan về điện toán đám mây 1.1 Định nghĩa và sự phát triển của điện toán đám mây 1.2 Các đặc tính của điện toán đám mây 1.3 Phân loại mô hình điện toán đám mây 1.4 Một số đám mây phổ biến | [1] Chương 1 | Giảng viên - Giới thiệu đề cương, giáo trình, tài liệu tham khảo, slide - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem lại kiến thức các môn tiên quyết - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 1 Sinh viên - Xem trước đề cương - Đọc các tài liệu - Xem lại các kiến thức của học phần tiên quyết | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n2 | Seminar 1 - Tóm tắt kiến thức về điện toán đám mây - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 1 | [1] Chương 1 | Giảng viên - Nhắc lại các kiến thức về điện toán đám mây đã học: khái niệm, xu thế, đặc tính, phân loại - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n3 | Lecture 2. Chương 2: Xử lý dữ liệu song song trên đám mây 2.1 Khái niệm xử lý dữ liệu phân tán trên đám mây 2.2 Mô hình xử lý dữ liệu Hadoop 2.3 Hệ thống file phân tán | [1] Chương 6 | Giảng viên - Giảng lý thuyết theo nội dung slide - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 2 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n4 | Seminar 2 - Tóm tắt kiến thức về xử lý dữ liệu song song trên đám mây - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 2 | [1] Chương 6 | Giảng viên - Nhắc lại các kiến thức về xử lý dữ liệu song song trên đám mây đã học: khái niệm, Hadoop, file phân tán. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n5 | Lecture 3. Chương 3: Thuật toán Map-Reduce 3.1\tGiới thiệu chung về Map-Reduce 3.2\tKiến trúc thuật toán Map-Reduce 3.3\tLập trình và ứng dụng | [1] Chương 6 | Giảng viên - Giảng lý thuyết theo nội dung slide bài 3 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 3 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n6 | Seminar 3 - Tóm tắt kiến thức về thuật toán Map-Reduce - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 3 | [1] Chương 6 | Giảng viên - Nhắc lại các kiến thức về thuật toán Map-Reduce đã học: khái niệm, kiến trúc, lập trình. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n7 | Lecture 4. Chương 4: NoSQL database 4.1\tLý thuyết NoSQL: CAP 4.2 Cơ sở dữ liệu MongoDB 4.3 Các đối tượng lưu trữ đám mây | [1] Chương 2 | Giảng viên - Giảng lý thuyết theo nội dung slide lecture 4 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 4 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n8 | Seminar 4 - Tóm tắt kiến thức về NoSQL - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 4 | [1] Chương 2 | Giảng viên - Nhắc lại các kiến thức về NoSQL đã học: lý thuyết CAP, MongoDB - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n9 | Lecture 5. Chương 5: Web server hiệu năng cao 5.1 Khái niệm về cân bằng tải 5.2 Các loại cân bằng tải 5.3 Các thuật toán cân bằng tải | [1] Chương 5 | Giảng viên - Giảng lý thuyết theo nội dung slide lecture 5 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 5 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n10 | Seminar 5 - Tóm tắt kiến thức về Web hiệu năng cao - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 5 | [1] Chương 5 | Giảng viên - Nhắc lại các kiến thức về Web hiệu năng cao đã học: khái niệm cân bằng tải, phân loại, thuật toán. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n11 | Lecture 6. Chương 6 An toàn bảo mật 6.1 Các vấn đề về an toàn bảo mật trong điện toán đám mây 6.2 Một số phương pháp đảm bảo an toàn cho dịch vụ đám mây | [1] Chương 3 | Giảng viên - Giảng lý thuyết theo nội dung slide lecture 6 - Giới thiệu ví dụ trong slide - Hướng dẫn đọc giáo trình, các tài liệu tham khảo - Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho seminar 6 Sinh viên - Đọc trước các tài liệu - Xem trước các ví dụ, làm bài tập được yêu cầu | - | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n12 | Seminar 6 - Tóm tắt kiến thức về an toàn, bảo mật cho đám mây - Thảo luận về các ví dụ, câu hỏi, bài tập của seminar 6 | [1] Chương 3 | Giảng viên - Nhắc lại các kiến thức về an toàn, bảo mật cho đám mây đã học: các vấn đề, các giải pháp. - Xác định các nhóm làm bài tập Sinh viên - Đọc tài liệu trước - Theo dõi ví dụ, câu hỏi, bài tập và trả lời các câu hỏi - Phân nhóm làm bài tập | - Điểm danh - Trả lời câu hỏi trong bài tập | CLO1.x, CLO2.1, CLO3.1, CLO3.3\n13 | Trình bày bài tập nhóm | - | Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét | Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày | CLO1.x, CLO2.x, CLO3.x\n14 | Trình bày bài tập nhóm | - | Nhóm sinh viên báo cáo và trả lời câu hỏi Giảng viên và các thành viên trong lớp đặt câu hỏi, nhận xét | Phiếu đánh giá với các tiêu chí : (i) Nội dung; (ii) Hình thức đẹp; (iii) Trình bày hấp dẫn, thuyết phục; (iv) Mức độ hợp tác trong trả lời câu hỏi; (v) Thời gian trình bày | CLO1.x, CLO2.x, CLO3.x\n15 | Seminar 7 - Hệ thống lại học phần - Thông báo kết quả đánh giá thành phần - Hướng dẫn thi và trả lời câu hỏi | - | Giảng viên - Tổng hợp, hệ thống lại các kiến thức trong các bài giảng - Hệ thống các dạng câu hỏi bài thi cuối kì - Thông báo điểm chuyên cần 10% - Thông báo điểm 40% - Chữa một số câu trong câu hỏi thi tham khảo Sinh viên - Có mặt đầy đủ để nhận thông tin về điểm thành phần - Xem lại toàn bộ nội dung học phần, các câu hỏi tham khảo | - Điểm danh - Sau buổi học, không giải quyết các thắc mắc về điểm thành phần | CLO1.x, CLO2.1, CLO3.1, CLO3.3\nLịch thi | Thi cuối kỳ | Chương 1 đến 6 | Thi tự luận trên giấy | Xem Phụ lục 1: ma trận đề thi | CLO1.x, CLO2.1, CLO3.3",
       "word_count": 1711,
       "char_count": 7410,
@@ -311,13 +327,13 @@
       "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 60,
         "end_block": 61
       }
     },
     {
-      "chunk_id": "vi-cntt1167#012",
+      "chunk_id": "vi-cntt1167#013",
       "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
       "word_count": 40,
       "char_count": 182,
@@ -327,13 +343,13 @@
       "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 64,
         "end_block": 65
       }
     },
     {
-      "chunk_id": "vi-cntt1167#013",
+      "chunk_id": "vi-cntt1167#014",
       "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
       "word_count": 28,
       "char_count": 126,
@@ -344,13 +360,13 @@
       "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 67,
         "end_block": 69
       }
     },
     {
-      "chunk_id": "vi-cntt1167#014",
+      "chunk_id": "vi-cntt1167#015",
       "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
       "word_count": 51,
       "char_count": 224,
@@ -361,13 +377,13 @@
       "primary_heading": "10.2. Quy định về tham dự lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 70,
         "end_block": 72
       }
     },
     {
-      "chunk_id": "vi-cntt1167#015",
+      "chunk_id": "vi-cntt1167#016",
       "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
       "word_count": 92,
       "char_count": 420,
@@ -378,13 +394,13 @@
       "primary_heading": "10.3. Quy định về hành vi trong lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
       "position": {
-        "order": 15,
+        "order": 16,
         "start_block": 73,
         "end_block": 79
       }
     },
     {
-      "chunk_id": "vi-cntt1167#016",
+      "chunk_id": "vi-cntt1167#017",
       "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
       "word_count": 35,
       "char_count": 151,
@@ -395,13 +411,13 @@
       "primary_heading": "10.4. Quy định về nộp bài tập lớn",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
       "position": {
-        "order": 16,
+        "order": 17,
         "start_block": 80,
         "end_block": 83
       }
     },
     {
-      "chunk_id": "vi-cntt1167#017",
+      "chunk_id": "vi-cntt1167#018",
       "text": "Tháng 6 năm 2024.\nPHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
       "word_count": 19,
       "char_count": 89,
@@ -411,13 +427,13 @@
       "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time)",
       "position": {
-        "order": 17,
+        "order": 18,
         "start_block": 84,
         "end_block": 86
       }
     },
     {
-      "chunk_id": "vi-cntt1167#018",
+      "chunk_id": "vi-cntt1167#019",
       "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên giấy\n- Thời gian: 90 phút\n- Số câu hỏi: 5 câu. Mỗi câu 0,25 điểm\nMa trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.x 2.1 3.3 | 1 | - | - | - | -\na. | 1.x 2.1 3.3 | 0.5 | 1 | - | - | 1\nb. | 1.x 2.1 3.3 | 0.5 | - | 1 | - | 1\nCâu 2 | 1.x 2.1 3.3 | 1 | - | - | - | -\na. | 1.x 2.1 3.3 | 0.5 | 1 | - | - | 1\nb. | 1.x 2.1 3.3 | 0.5 | - | 1 | - | 1\nCâu 3 | 1.x 2.1 3.3 | 2 | - | - | - | -\na. | 1.x 2.1 3.3 | 1 | - | 1 | - | 1\nb. | 1.x 2.1 3.3 | 1 | - | - | 1 | 1\nCâu 4 | 1.x 2.1 3.3 | 3 | - | - | - | -\na. | 1.x 2.1 3.3 | 1.5 | - | 1 | - | 1\nb. | 1.x 2.1 3.3 | 1.5 | - | - | 1 | 1\nCâu 5 | 1.x 2.1 3.3 | 3 | - | - | - | -\na. | 1.x 2.1 3.3 | 1.5 | - | - | 1 | 1\nb. | 1.x 2.1 3.3 | 1.5 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 2 | 4 | 4 | 10\nTổng số điểm | - | 10 | 1 | 3.5 | 5.5 | -\nTỷ trọng | - | 100% | 20% | 40% | 40% | 100%",
       "word_count": 334,
       "char_count": 956,
@@ -428,33 +444,16 @@
       "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
-        "order": 18,
+        "order": 19,
         "start_block": 88,
         "end_block": 94
       }
     },
     {
-      "chunk_id": "vi-cntt1167#019",
-      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 655,
-      "heading_path": [
-        "PHỤ LỤC",
-        "Phụ lục 2. CÁC RUBRICS"
-      ],
-      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
-      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
-      "position": {
-        "order": 19,
-        "start_block": 97,
-        "end_block": 105
-      }
-    },
-    {
       "chunk_id": "vi-cntt1167#020",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nCLO của đánh giá chuyên cần",
-      "word_count": 167,
-      "char_count": 676,
+      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 618,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -463,15 +462,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 105,
-        "end_block": 107
+        "start_block": 97,
+        "end_block": 102
       }
     },
     {
       "chunk_id": "vi-cntt1167#021",
-      "text": "Cách thức đánh giá | CLO | CLO | CLO\nCách thức đánh giá | 3.1 | 3.2 | 3.3\nĐiểm danh | - | - | -\nTrả lời câu hỏi, bài tập | - | - | -\nĐăng kí nhóm đúng thời hạn | - | - | -\nTrả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác | - | - | -\nTrả lời về nội dung của nhóm, thảo luận nội dung nhóm khác | - | - | -\nTrả lời về trình bày của nhóm, thảo luận trình bày nhóm khác | - | - | -\nRubrics 2. Đánh giá bài tập lớn\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
-      "word_count": 142,
-      "char_count": 533,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -480,12 +479,29 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 107,
-        "end_block": 112
+        "start_block": 104,
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1167#022",
+      "text": "CLO của đánh giá chuyên cần\nCách thức đánh giá | CLO | CLO | CLO\nCách thức đánh giá | 3.1 | 3.2 | 3.3\nĐiểm danh | - | - | -\nTrả lời câu hỏi, bài tập | - | - | -\nĐăng kí nhóm đúng thời hạn | - | - | -\nTrả lời về chủ đề của nhóm, thảo luận chủ đề nhóm khác | - | - | -\nTrả lời về nội dung của nhóm, thảo luận nội dung nhóm khác | - | - | -\nTrả lời về trình bày của nhóm, thảo luận trình bày nhóm khác | - | - | -\nRubrics 2. Đánh giá bài tập lớn\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Đánh giá qua kết quả bài tập nhóm, bắt buộc thuyết trình",
+      "word_count": 148,
+      "char_count": 561,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 106,
+        "end_block": 112
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1167#023",
       "text": "Tiêu chí | CLO | Tỷ trọng % | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10) | Mức điểm (thang điểm 10)\nTiêu chí | CLO | Tỷ trọng % | Giỏi 8,5 – 10 | Khá 7,0 – 8,4 | Trung bình 4,5 – 6,9 | Yếu 0 – 4,4\nChủ đề - mục tiêu | 1.1 3.1 3.2 | 20% | - Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể | - Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ | - Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp | - Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi đặt ra\nNội dung | 1.1 1.4 2.1 | 60% | - Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao. | - Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng. | - Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng. | - Kiến thức lý thuyết không phù hợp hoặc không có kiến thức\nTrình bày | 3.3 | 20% | - Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. | - Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. | - Chưa đúng định dạng yêu cầu; - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có. | - Không có định dạng; - Ngôn ngữ không phù hợp.",
       "word_count": 325,
       "char_count": 1333,
@@ -496,7 +512,7 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 22,
+        "order": 23,
         "start_block": 112,
         "end_block": 112
       }

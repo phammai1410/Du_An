@@ -7,8 +7,8 @@
   "source_filename": "Time Series Analysis and Forecasting_TOKT11122E.docx",
   "source_relpath": "data\\raw\\en\\Time Series Analysis and Forecasting_TOKT11122E.docx",
   "source_hash": "083012abcdb7e9a64fbdf9b62d3e43df",
-  "source_modified": "2025-10-11T10:42:50.613497+00:00",
-  "processed_at": "2025-10-12T13:24:14.955111+00:00",
+  "source_modified": "2025-10-19T17:31:17.206371+00:00",
+  "processed_at": "2025-11-05T15:52:46.959214+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -70,7 +70,7 @@
     "paragraphs": 28,
     "headings": 11,
     "tables": 6,
-    "chunks": 11,
+    "chunks": 12,
     "words": 1444
   },
   "chunks": [
@@ -236,9 +236,9 @@
     },
     {
       "chunk_id": "en-tokt11122e#011",
-      "text": "- Ensure at least 80% attendance in the class.\n- Achieve a participant score of 5.0 or higher.\n- Must join projects\n- Actively contribute to the lesson.\n- Engage with the textbook and complete projects.\n- Avoid eating or using cell phones during class.\n- Use of laptops and iPads is permitted only for practice and calculation purposes.\nFaculty Dean PhD Nguyen Manh The | NEU’s President Prof. PhD Pham Hong Chuong",
-      "word_count": 73,
-      "char_count": 414,
+      "text": "- Ensure at least 80% attendance in the class.\n- Achieve a participant score of 5.0 or higher.\n- Must join projects\n- Actively contribute to the lesson.\n- Engage with the textbook and complete projects.\n- Avoid eating or using cell phones during class.\n- Use of laptops and iPads is permitted only for practice and calculation purposes.",
+      "word_count": 59,
+      "char_count": 336,
       "heading_path": [
         "9. CLASS REGULATION"
       ],
@@ -247,6 +247,22 @@
       "position": {
         "order": 11,
         "start_block": 42,
+        "end_block": 50
+      }
+    },
+    {
+      "chunk_id": "en-tokt11122e#012",
+      "text": "Faculty Dean PhD Nguyen Manh The | NEU’s President Prof. PhD Pham Hong Chuong",
+      "word_count": 14,
+      "char_count": 77,
+      "heading_path": [
+        "9. CLASS REGULATION"
+      ],
+      "primary_heading": "9. CLASS REGULATION",
+      "breadcrumbs": "9. CLASS REGULATION",
+      "position": {
+        "order": 12,
+        "start_block": 50,
         "end_block": 52
       }
     }

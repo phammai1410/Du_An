@@ -7,8 +7,8 @@
   "source_filename": "Data Visualization_TIKT1138E.docx",
   "source_relpath": "data\\raw\\en\\Data Visualization_TIKT1138E.docx",
   "source_hash": "1b6896b234bf438ab3026c86dc62fa05",
-  "source_modified": "2025-10-11T10:42:50.585223+00:00",
-  "processed_at": "2025-10-12T13:24:11.904928+00:00",
+  "source_modified": "2025-10-19T17:31:17.181354+00:00",
+  "processed_at": "2025-11-05T15:52:43.694346+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -153,9 +153,9 @@
     },
     {
       "chunk_id": "en-tikt1138e#005",
-      "text": "Các nội dung chính của học phần:\n- Tư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu.\n- Tự động hóa quy trình trích xuất dữ liệu từ nhiều nền tảng và ghép tất cả các phần lại với nhau để phân tích sâu hơn, cung cấp các chỉ số tài chính kinh doanh toàn diện trong thời gian thực và rút ngắn thời gian xử lý (sử dụng Power Query).\n- Kết nối dữ liệu và xây dựng mô hình dữ liệu (sử dụng Power Query)\n- Tư duy thiết kế dashboard chuyên nghiệp, lựa chọn biểu đồ, màu sắc và bố cục phù hợp với mục tiêu (sử dụng phần mềm Power BI và Tableau).\n- Kể chuyện bằng dữ liệu phục vụ việc phân tích, khám phá dữ liệu để bước vào \"Thế giới dữ liệu\"\n- Phân tích dữ liệu đa chiều (sử dụng phần mềm Power BI, Tableau và ngôn ngữ lập trình R, Python)..\n- Xuất bản báo cáo đa chiều lên môi trường mạng để sử dụng trên các thiết bị di động (sử dụng Power BI Service - dịch vụ điện toán đám mây).",
-      "word_count": 207,
-      "char_count": 936,
+      "text": "Các nội dung chính của học phần:\n- Tư duy phân tích và suy luận logic trong việc giải quyết các vấn đề, các bài toán của doanh nghiệp bằng dữ liệu.\n- Tự động hóa quy trình trích xuất dữ liệu từ nhiều nền tảng và ghép tất cả các phần lại với nhau để phân tích sâu hơn, cung cấp các chỉ số tài chính kinh doanh toàn diện trong thời gian thực và rút ngắn thời gian xử lý (sử dụng Power Query).\n- Kết nối dữ liệu và xây dựng mô hình dữ liệu (sử dụng Power Query)\n- Tư duy thiết kế dashboard chuyên nghiệp, lựa chọn biểu đồ, màu sắc và bố cục phù hợp với mục tiêu (sử dụng phần mềm Power BI và Tableau).\n- Kể chuyện bằng dữ liệu phục vụ việc phân tích, khám phá dữ liệu để bước vào \"Thế giới dữ liệu\"",
+      "word_count": 154,
+      "char_count": 695,
       "heading_path": [
         "3. COURSE DESCRIPTIONS"
       ],
@@ -164,14 +164,14 @@
       "position": {
         "order": 5,
         "start_block": 11,
-        "end_block": 18
+        "end_block": 16
       }
     },
     {
       "chunk_id": "en-tikt1138e#006",
-      "text": "The Data Visualization in Business course provides the knowledge and skills of analytical thinking and logical reasoning in solving business problems and problems using visual data. Visual data is data that is organized, arranged, and is transmitted into it with voice and colors in the form of dashboards to help managers easily have a view from the whole to the details of the problem to be solved. Make quick and accurate decisions. The module consists of two main contents: (1) foundational knowledge of analytical thinking, data-driven decision making and principles of data storytelling; (2) applications in data visualization. The second content focuses on how to use Power BI and Tableau software (in combination with Python (or R) programming language for deep mining of big data). The course is taught application-oriented, so the entire program is illustrated with real-life case exercises in the fields of health, education, business, banking, finance, accounting, Insurance, statistics, travel…\nThe main contents of the course:\n- Analytical thinking and logical reasoning in solving business problems and problems with data.\nAutomate the process of extracting data from multiple platforms and stitching it all together for deeper analysis, providing comprehensive business financial metrics in real time and shortening processing times. management (using Power Query).",
+      "text": "- Phân tích dữ liệu đa chiều (sử dụng phần mềm Power BI, Tableau và ngôn ngữ lập trình R, Python)..\n- Xuất bản báo cáo đa chiều lên môi trường mạng để sử dụng trên các thiết bị di động (sử dụng Power BI Service - dịch vụ điện toán đám mây).\nThe Data Visualization in Business course provides the knowledge and skills of analytical thinking and logical reasoning in solving business problems and problems using visual data. Visual data is data that is organized, arranged, and is transmitted into it with voice and colors in the form of dashboards to help managers easily have a view from the whole to the details of the problem to be solved. Make quick and accurate decisions. The module consists of two main contents: (1) foundational knowledge of analytical thinking, data-driven decision making and principles of data storytelling; (2) applications in data visualization. The second content focuses on how to use Power BI and Tableau software (in combination with Python (or R) programming language for deep mining of big data). The course is taught application-oriented, so the entire program is illustrated with real-life case exercises in the fields of health, education, business, banking, finance, accounting, Insurance, statistics, travel…",
       "word_count": 206,
-      "char_count": 1381,
+      "char_count": 1248,
       "heading_path": [
         "3. COURSE DESCRIPTIONS"
       ],
@@ -179,15 +179,15 @@
       "breadcrumbs": "3. COURSE DESCRIPTIONS",
       "position": {
         "order": 6,
-        "start_block": 19,
-        "end_block": 22
+        "start_block": 17,
+        "end_block": 19
       }
     },
     {
       "chunk_id": "en-tikt1138e#007",
-      "text": "- Connect data and build data models (using Power Query)\n- Professional dashboard design thinking, choosing charts, colors and layouts suitable for goals (using Power BI and Tableau software).\n- Storytelling with data for data analysis and discovery to enter the \"Data World\"\n- Multidimensional data analysis (using Power BI software, Tableau and R programming languages)..\n- Publish multi-dimensional reports to a network environment for use on mobile devices (using Power BI Service - a cloud computing service).",
-      "word_count": 78,
-      "char_count": 514,
+      "text": "The main contents of the course:\n- Analytical thinking and logical reasoning in solving business problems and problems with data.\nAutomate the process of extracting data from multiple platforms and stitching it all together for deeper analysis, providing comprehensive business financial metrics in real time and shortening processing times. management (using Power Query).\n- Connect data and build data models (using Power Query)\n- Professional dashboard design thinking, choosing charts, colors and layouts suitable for goals (using Power BI and Tableau software).\n- Storytelling with data for data analysis and discovery to enter the \"Data World\"\n- Multidimensional data analysis (using Power BI software, Tableau and R programming languages)..\n- Publish multi-dimensional reports to a network environment for use on mobile devices (using Power BI Service - a cloud computing service).",
+      "word_count": 131,
+      "char_count": 888,
       "heading_path": [
         "3. COURSE DESCRIPTIONS"
       ],
@@ -195,7 +195,7 @@
       "breadcrumbs": "3. COURSE DESCRIPTIONS",
       "position": {
         "order": 7,
-        "start_block": 23,
+        "start_block": 20,
         "end_block": 28
       }
     },
@@ -279,7 +279,7 @@
       "position": {
         "order": 12,
         "start_block": 45,
-        "end_block": 48
+        "end_block": 46
       }
     },
     {

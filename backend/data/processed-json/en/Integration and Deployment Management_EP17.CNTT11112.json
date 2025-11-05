@@ -7,8 +7,8 @@
   "source_filename": "Integration and Deployment Management_EP17.CNTT11112.docx",
   "source_relpath": "data\\raw\\en\\Integration and Deployment Management_EP17.CNTT11112.docx",
   "source_hash": "f131de9349addab6fba7462468fac32d",
-  "source_modified": "2025-10-11T10:42:50.597954+00:00",
-  "processed_at": "2025-10-12T13:24:13.219158+00:00",
+  "source_modified": "2025-10-19T17:31:17.193365+00:00",
+  "processed_at": "2025-11-05T15:52:45.148412+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -122,9 +122,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt11112#004",
-      "text": "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD. Additionally, the course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins. Furthermore, students will be organized into groups to explore various technologies more comprehensively, enabling them to present and discuss individual or group solutions to relevant issues.\nThe focus of the lessons is to provide:\n- Understanding the core principles of DevOps and their relationship to CI/CD\n- In-depth and practical knowledge of Unit Testing\n- Comprehensive coverage of Source Control",
-      "word_count": 180,
-      "char_count": 1283,
+      "text": "This course provides foundational knowledge in the ongoing process of software development and deployment, encompassing Continuous Integration (CI) and Continuous Delivery (CD). The primary goal of CI is to enable software developers to implement incremental changes to a codebase without compromising its quality. Throughout this course, students gain insight into various activities, tools, and deployment processes associated with CI/CD. Additionally, the course aims to cultivate skills in software development management, focusing on the integration and deployment of software. It also guides students in change management methodologies to enhance the efficiency of source code and mitigate associated risks. Practical exercises involve utilizing integrated development tools such as Git, conducting unit testing with Jasmine or Karma, and automation with Gulp and Jenkins. Furthermore, students will be organized into groups to explore various technologies more comprehensively, enabling them to present and discuss individual or group solutions to relevant issues.\nThe focus of the lessons is to provide:",
+      "word_count": 154,
+      "char_count": 1111,
       "heading_path": [
         "2. COURSE DESCRIPTIONS"
       ],
@@ -133,14 +133,14 @@
       "position": {
         "order": 4,
         "start_block": 25,
-        "end_block": 29
+        "end_block": 26
       }
     },
     {
       "chunk_id": "en-ep17-cntt11112#005",
-      "text": "- Practical exercises on integration testing\n- Practice with big bang and incremental testing approaches.\n- Establishment of a successful CI environment and pipeline\n- Application of DevOps in business scenarios\n- Business drivers for adopting DevOps in big data contexts.\n- Introduction to Cloud Computing",
-      "word_count": 46,
-      "char_count": 306,
+      "text": "- Understanding the core principles of DevOps and their relationship to CI/CD\n- In-depth and practical knowledge of Unit Testing\n- Comprehensive coverage of Source Control\n- Practical exercises on integration testing\n- Practice with big bang and incremental testing approaches.\n- Establishment of a successful CI environment and pipeline\n- Application of DevOps in business scenarios\n- Business drivers for adopting DevOps in big data contexts.\n- Introduction to Cloud Computing",
+      "word_count": 72,
+      "char_count": 478,
       "heading_path": [
         "2. COURSE DESCRIPTIONS"
       ],
@@ -148,7 +148,7 @@
       "breadcrumbs": "2. COURSE DESCRIPTIONS",
       "position": {
         "order": 5,
-        "start_block": 30,
+        "start_block": 27,
         "end_block": 37
       }
     },

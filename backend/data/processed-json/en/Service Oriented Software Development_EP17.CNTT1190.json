@@ -7,8 +7,8 @@
   "source_filename": "Service Oriented Software Development_EP17.CNTT1190.docx",
   "source_relpath": "data\\raw\\en\\Service Oriented Software Development_EP17.CNTT1190.docx",
   "source_hash": "90754c20c3558ae9eb29e19aa8b6944a",
-  "source_modified": "2025-10-11T10:42:50.609097+00:00",
-  "processed_at": "2025-10-12T13:24:14.585331+00:00",
+  "source_modified": "2025-10-19T17:31:17.203365+00:00",
+  "processed_at": "2025-11-05T15:52:46.592834+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -65,7 +65,7 @@
     "paragraphs": 41,
     "headings": 10,
     "tables": 7,
-    "chunks": 12,
+    "chunks": 13,
     "words": 1340
   },
   "chunks": [
@@ -194,7 +194,7 @@
       "position": {
         "order": 8,
         "start_block": 37,
-        "end_block": 40
+        "end_block": 38
       }
     },
     {
@@ -231,9 +231,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1190#011",
-      "text": "9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\n- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\n9.2. In-class Behavior Requirements\n- The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.",
-      "word_count": 201,
-      "char_count": 1218,
+      "text": "9. COURSE REQUIREMENTS AND EXPECTATION\n9.1. Attendance Requirements\n- Students are required to fully take part in class lectures and activities.\n- Students are allowed to be absent for a maximum of 30% of the class hours. Students who are absent over 30% are not qualified to take the final exam.\n9.2. In-class Behavior Requirements\n- The course is carried out with respect to both lecturer and students. All behavior that might adversely affect the stakeholders is prohibited.\n- Students need to be in class on time. Students being late for more than 10 minutes will not be eligible to take part in the session.\n- Cellphones, laptops, tablet are only accepted for the purposes of taking notes of the lectures, preparing course assignments, not for another entertainment purposes while in class duration.\n9.3. Requirements for in-class behaviour\n- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.",
+      "word_count": 163,
+      "char_count": 1011,
       "heading_path": [
         "8. LESSON PLAN"
       ],
@@ -242,14 +242,14 @@
       "position": {
         "order": 11,
         "start_block": 53,
-        "end_block": 63
+        "end_block": 62
       }
     },
     {
       "chunk_id": "en-ep17-cntt1190#012",
-      "text": "- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.\nFaculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
-      "word_count": 42,
-      "char_count": 241,
+      "text": "- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
+      "word_count": 65,
+      "char_count": 370,
       "heading_path": [
         "8. LESSON PLAN"
       ],
@@ -257,7 +257,23 @@
       "breadcrumbs": "8. LESSON PLAN",
       "position": {
         "order": 12,
-        "start_block": 64,
+        "start_block": 63,
+        "end_block": 66
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1190#013",
+      "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
+      "word_count": 15,
+      "char_count": 77,
+      "heading_path": [
+        "8. LESSON PLAN"
+      ],
+      "primary_heading": "8. LESSON PLAN",
+      "breadcrumbs": "8. LESSON PLAN",
+      "position": {
+        "order": 13,
+        "start_block": 66,
         "end_block": 68
       }
     }

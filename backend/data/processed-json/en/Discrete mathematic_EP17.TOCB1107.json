@@ -7,8 +7,8 @@
   "source_filename": "Discrete mathematic_EP17.TOCB1107.docx",
   "source_relpath": "data\\raw\\en\\Discrete mathematic_EP17.TOCB1107.docx",
   "source_hash": "23b30ff96bc6dbd7eee184dcb0408f83",
-  "source_modified": "2025-10-11T10:42:50.591753+00:00",
-  "processed_at": "2025-10-12T13:24:12.616891+00:00",
+  "source_modified": "2025-10-19T17:31:17.186366+00:00",
+  "processed_at": "2025-11-05T15:52:44.516785+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -137,9 +137,9 @@
     },
     {
       "chunk_id": "en-ep17-tocb1107#004",
-      "text": "A Basic module of the bachelor's degree program modules is related to information technology, computer science, data science and fintech.... Discrete mathematics is a branch of Mathematics that studies discrete rather than continuous structures. The course also aims to train thinking capacity and calculation skills and improve the ability to apply mathematical knowledge to analyze and research problems in information technology. The course equips learners with the necessary knowledge, skills, and competencies to study and research related subjects in the training program and continue to higher education. At the end of the course, learners can do a graph network data analysis project.\nCourse outline:\n- Logic and Set\n- Proofs\n- Functions, Strings and Relation\n- Algorithms\n- Introduction to Number Theory\n- Counting problems and Dirichlet’s Principle\n- Graph Theory\n- Tree\nSeminar talks: The goal is to introduce state-of-the-art applications of discrete mathematics in the modern technology. Besides, invited student-speakers can be included to share about their scientific projects related to the course’s materials.\nOutcomes assessment:\n- (10%) Participant\n- (40%) Quiz + Midterm: quiz 1 (10%), quiz 2 (10%), project presentation (5%) and midterm (15%).",
-      "word_count": 188,
-      "char_count": 1264,
+      "text": "A Basic module of the bachelor's degree program modules is related to information technology, computer science, data science and fintech.... Discrete mathematics is a branch of Mathematics that studies discrete rather than continuous structures. The course also aims to train thinking capacity and calculation skills and improve the ability to apply mathematical knowledge to analyze and research problems in information technology. The course equips learners with the necessary knowledge, skills, and competencies to study and research related subjects in the training program and continue to higher education. At the end of the course, learners can do a graph network data analysis project.\nCourse outline:\n- Logic and Set\n- Proofs\n- Functions, Strings and Relation\n- Algorithms\n- Introduction to Number Theory\n- Counting problems and Dirichlet’s Principle\n- Graph Theory\n- Tree\nSeminar talks: The goal is to introduce state-of-the-art applications of discrete mathematics in the modern technology. Besides, invited student-speakers can be included to share about their scientific projects related to the course’s materials.",
+      "word_count": 166,
+      "char_count": 1126,
       "heading_path": [
         "2. COURSE DESCRIPTION"
       ],
@@ -148,14 +148,14 @@
       "position": {
         "order": 4,
         "start_block": 18,
-        "end_block": 31
+        "end_block": 28
       }
     },
     {
       "chunk_id": "en-ep17-tocb1107#005",
-      "text": "- (50%) Final Exam",
-      "word_count": 4,
-      "char_count": 18,
+      "text": "Outcomes assessment:\n- (10%) Participant\n- (40%) Quiz + Midterm: quiz 1 (10%), quiz 2 (10%), project presentation (5%) and midterm (15%).\n- (50%) Final Exam",
+      "word_count": 26,
+      "char_count": 156,
       "heading_path": [
         "2. COURSE DESCRIPTION"
       ],
@@ -163,7 +163,7 @@
       "breadcrumbs": "2. COURSE DESCRIPTION",
       "position": {
         "order": 5,
-        "start_block": 32,
+        "start_block": 29,
         "end_block": 33
       }
     },
@@ -214,7 +214,7 @@
       "position": {
         "order": 8,
         "start_block": 39,
-        "end_block": 41
+        "end_block": 39
       }
     },
     {
@@ -235,9 +235,9 @@
     },
     {
       "chunk_id": "en-ep17-tocb1107#010",
-      "text": "* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nProject | Rubric 2 | CLO 1.7 | 20% | 3-15\nMidterm exam | Rubric 3 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3; 4.1 – 4.2; 5.1-5.2 | 20% | 13-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 3 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3; 4.1 – 4.2; 5.1-5.2 | 50% | Follow final exam schedule\nRubric 1: Participant",
-      "word_count": 168,
-      "char_count": 923,
+      "text": "* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric\n* Assessment summary:\nTable 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3 | 10% | 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nProject | Rubric 2 | CLO 1.7 | 20% | 3-15\nMidterm exam | Rubric 3 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3; 4.1 – 4.2; 5.1-5.2 | 20% | 13-15\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 3 | CLO 1.1 – 1.7; 2.1 – 2.2; 3.1 – 3.3; 4.1 – 4.2; 5.1-5.2 | 50% | Follow final exam schedule",
+      "word_count": 165,
+      "char_count": 901,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -246,14 +246,14 @@
       "position": {
         "order": 10,
         "start_block": 46,
-        "end_block": 55
+        "end_block": 52
       }
     },
     {
       "chunk_id": "en-ep17-tocb1107#011",
-      "text": "Areas of assessment | Weighting (%) | Excellence 8.5 – 10 point | Good 6.5 – 8.4 point | Fair 4.0 – 6.4 point | Poor 0 – 3.9 point\nAttendance | 50% | Attend all the sessions | Absent 2 sessions | Absent 3 sessions | Absent 4 sessions\nBeing active in the class | 50% | Answer at least 2 questions from the lecturer and give at least 2 comments and/or feedback for the lessons, discussion, or presentation | Answer at least 1 question from the lecturer and give at least 1 comment and/or feedback for the lessons, discussion, or presentation | Answer at least 1 question from the lecturer or give at least 1 comment and/or feedback for the lessons, discussion, or presentation | No Answer for questions from the lecturer and give no comments and/or feedback for the lessons, discussion, or presentation\nRubric 2: Project",
-      "word_count": 149,
-      "char_count": 818,
+      "text": "Rubric 1: Participant\nAreas of assessment | Weighting (%) | Excellence 8.5 – 10 point | Good 6.5 – 8.4 point | Fair 4.0 – 6.4 point | Poor 0 – 3.9 point\nAttendance | 50% | Attend all the sessions | Absent 2 sessions | Absent 3 sessions | Absent 4 sessions\nBeing active in the class | 50% | Answer at least 2 questions from the lecturer and give at least 2 comments and/or feedback for the lessons, discussion, or presentation | Answer at least 1 question from the lecturer and give at least 1 comment and/or feedback for the lessons, discussion, or presentation | Answer at least 1 question from the lecturer or give at least 1 comment and/or feedback for the lessons, discussion, or presentation | No Answer for questions from the lecturer and give no comments and/or feedback for the lessons, discussion, or presentation\nRubric 2: Project",
+      "word_count": 152,
+      "char_count": 840,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -261,8 +261,8 @@
       "breadcrumbs": "6. COURSE ASSESSMENT",
       "position": {
         "order": 11,
-        "start_block": 55,
-        "end_block": 59
+        "start_block": 54,
+        "end_block": 57
       }
     },
     {

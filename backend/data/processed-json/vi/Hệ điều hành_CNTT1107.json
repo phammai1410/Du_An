@@ -7,8 +7,8 @@
   "source_filename": "Hệ điều hành_CNTT1107.docx",
   "source_relpath": "data\\raw\\vi\\Hệ điều hành_CNTT1107.docx",
   "source_hash": "c3e6e3981ab608b97683af1d526ebdce",
-  "source_modified": "2025-10-11T10:42:50.628189+00:00",
-  "processed_at": "2025-10-12T13:24:16.986142+00:00",
+  "source_modified": "2025-10-19T17:31:17.219874+00:00",
+  "processed_at": "2025-11-05T15:52:49.045700+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1107#004",
-      "text": "Học phần này nhằm mục đích giới thiệu chung về các kỹ thuật được sử dụng để triển khai hệ điều hành, các loại phần mềm hệ thống có liên quan và lịch sử phát triển của hệ điều hành. Sinh viên cần được nhắc đến cấu trúc và tổ chức trong một máy tính nói chung, từ đó được phân tích về các thành phần cũng như chức năng của hệ điều hành.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về an toàn dữ liệu cho hệ thống thông tin, hướng tư duy về phương pháp lập trình song song của các phần mềm hiện đại. Học phần giúp sinh viên tăng cường các kỹ năng làm việc nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình các giải pháp sử dụng các công nghệ liên quan đến hệ điều hành\nNội dung chính:\n- Chức năng, cấu trúc, dịch vụ của hệ điều hành",
-      "word_count": 180,
-      "char_count": 817,
+      "text": "Học phần này nhằm mục đích giới thiệu chung về các kỹ thuật được sử dụng để triển khai hệ điều hành, các loại phần mềm hệ thống có liên quan và lịch sử phát triển của hệ điều hành. Sinh viên cần được nhắc đến cấu trúc và tổ chức trong một máy tính nói chung, từ đó được phân tích về các thành phần cũng như chức năng của hệ điều hành.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về an toàn dữ liệu cho hệ thống thông tin, hướng tư duy về phương pháp lập trình song song của các phần mềm hiện đại. Học phần giúp sinh viên tăng cường các kỹ năng làm việc nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình các giải pháp sử dụng các công nghệ liên quan đến hệ điều hành",
+      "word_count": 166,
+      "char_count": 753,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,14 +183,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 27
+        "end_block": 25
       }
     },
     {
       "chunk_id": "vi-cntt1107#005",
-      "text": "- Quản lý tiến trình và luồng (trạng thái, tạo, đồng bộ hóa và giao tiếp); Lập lịch CPU cho tiến trình và luồng; kỹ thuật đồng bộ hóa và thông tin giữa các tiến trình; ngăn ngừa, phòng tránh và phục hồi đối với trạng thái tắc nghẽn của hệ thống.\n- Quản lý bộ nhớ chính; quản lý bộ nhớ ảo.\n- Quản lý đĩa và lưu trữ dung lượng lớn.\n- Cấu trúc và triển khai hệ thống tập tin\n- Quản lý thiết bị ngoại vi.\n- Bảo vệ và An toàn cho hệ điều hành.",
-      "word_count": 100,
-      "char_count": 438,
+      "text": "Nội dung chính:\n- Chức năng, cấu trúc, dịch vụ của hệ điều hành\n- Quản lý tiến trình và luồng (trạng thái, tạo, đồng bộ hóa và giao tiếp); Lập lịch CPU cho tiến trình và luồng; kỹ thuật đồng bộ hóa và thông tin giữa các tiến trình; ngăn ngừa, phòng tránh và phục hồi đối với trạng thái tắc nghẽn của hệ thống.\n- Quản lý bộ nhớ chính; quản lý bộ nhớ ảo.\n- Quản lý đĩa và lưu trữ dung lượng lớn.\n- Cấu trúc và triển khai hệ thống tập tin\n- Quản lý thiết bị ngoại vi.\n- Bảo vệ và An toàn cho hệ điều hành.",
+      "word_count": 114,
+      "char_count": 502,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,7 +198,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 28,
+        "start_block": 26,
         "end_block": 35
       }
     },
@@ -419,9 +419,9 @@
     },
     {
       "chunk_id": "vi-cntt1107#019",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -431,14 +431,14 @@
       "position": {
         "order": 19,
         "start_block": 98,
-        "end_block": 104
+        "end_block": 102
       }
     },
     {
       "chunk_id": "vi-cntt1107#020",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. - Viết các ứng dụng mô hình hóa các giải thuật được học | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân",
-      "word_count": 183,
-      "char_count": 744,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. - Viết các ứng dụng mô hình hóa các giải thuật được học | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 182,
+      "char_count": 741,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,15 +447,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 104,
-        "end_block": 105
+        "start_block": 103,
+        "end_block": 104
       }
     },
     {
       "chunk_id": "vi-cntt1107#021",
-      "text": "- Trọng số (20%), hỏi về Tiến trình, Quản lý bộ nhớ trong, Câu 1 Liên quan đến lý thuyết của chương 2 và 3, câu 2 liên quan đến giải thuật lập lịch CPU, câu 3 liên quan đến tính toán địa chỉ logic và địa chỉ vật lý, câu 4 liên quan đến các bài toàn định lượng phân mảnh nội vi và phân mảnh ngoại vi, câu 5 liên quan đến bộ nhớ ảo.",
-      "word_count": 77,
-      "char_count": 330,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số (20%), hỏi về Tiến trình, Quản lý bộ nhớ trong, Câu 1 Liên quan đến lý thuyết của chương 2 và 3, câu 2 liên quan đến giải thuật lập lịch CPU, câu 3 liên quan đến tính toán địa chỉ logic và địa chỉ vật lý, câu 4 liên quan đến các bài toàn định lượng phân mảnh nội vi và phân mảnh ngoại vi, câu 5 liên quan đến bộ nhớ ảo.",
+      "word_count": 86,
+      "char_count": 370,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -464,7 +464,7 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 106,
+        "start_block": 105,
         "end_block": 107
       }
     },

@@ -7,8 +7,8 @@
   "source_filename": "Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
   "source_relpath": "data\\raw\\vi\\Hệ quản trị cơ sở dữ liệu_CNTT1152.docx",
   "source_hash": "3c48154cd38d497013c1025d495139bb",
-  "source_modified": "2025-10-11T10:42:50.626943+00:00",
-  "processed_at": "2025-10-12T13:24:16.685672+00:00",
+  "source_modified": "2025-10-19T17:31:17.218371+00:00",
+  "processed_at": "2025-11-05T15:52:48.733038+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -183,9 +183,9 @@
     },
     {
       "chunk_id": "vi-cntt1152#005",
-      "text": "Sinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n-  Giới thiệu Microsoft SQL Server",
-      "word_count": 182,
-      "char_count": 820,
+      "text": "Sinh viên sau khi học xong môn học sẽ đạt được những kỹ năng về: sử dụng các công cụ của MS SQL Server để thực hiện các thao tác cơ bản trong tạo lập dữ liệu, khai thác dữ liệu trực tiếp trên máy chủ; xây dựng các cơ sở dữ liệu, tạo và cập nhật các bảng dữ liệu và thực hiện khai thác dữ liệu thông qua giao diện của các công cụ trong MS SQL Server; lập trình xử lý dữ liệu trong MS SQL Server, có khả năng sử dụng những hàm hệ thống và các cấu trúc lập trình để khai thác dữ liệu một cách hiệu quả; thực hiện các thao tác quản trị MS SQL Server một cách trực tiếp trên hệ thống, có thể lập trình để thực hiện quản trị hoặc cài đặt quản trị một cách tự động trên máy chủ. Học phần cũng phát triển kĩ năng cộng tác, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.",
+      "word_count": 173,
+      "char_count": 769,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -194,14 +194,14 @@
       "position": {
         "order": 5,
         "start_block": 26,
-        "end_block": 28
+        "end_block": 26
       }
     },
     {
       "chunk_id": "vi-cntt1152#006",
-      "text": "-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server\n-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.\n-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu\n-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao\n-  Lập trình các thủ tục, hàm trong SQL Server\n-  Lập trình Trigger từ đơn giản đến nâng cao.\n-  Quản trị, sao lưu phục hồi dữ liệu",
-      "word_count": 95,
-      "char_count": 428,
+      "text": "Nội dung chính:\n-  Giới thiệu Microsoft SQL Server\n-  Các công cụ thông dụng sử dụng trong Microsoft SQL Server\n-  Tạo và thiết lập một cơ sở dữ liệu đơn giản trong SQL Server với các thuộc tính ràng buộc.\n-  Thực hành thành thạo các câu lệnh tạo lâp dữ liệu và cập nhật dữ liệu\n-  Khai thác cơ sở dữ liệu với khối lệnh SELECT đơn giản và nâng cao\n-  Lập trình các thủ tục, hàm trong SQL Server\n-  Lập trình Trigger từ đơn giản đến nâng cao.\n-  Quản trị, sao lưu phục hồi dữ liệu",
+      "word_count": 104,
+      "char_count": 479,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -209,7 +209,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 6,
-        "start_block": 29,
+        "start_block": 27,
         "end_block": 37
       }
     },
@@ -242,7 +242,7 @@
       "position": {
         "order": 8,
         "start_block": 50,
-        "end_block": 53
+        "end_block": 51
       }
     },
     {
@@ -413,9 +413,9 @@
     },
     {
       "chunk_id": "vi-cntt1152#019",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 10 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 655,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 10 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 618,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -425,14 +425,14 @@
       "position": {
         "order": 19,
         "start_block": 104,
-        "end_block": 110
+        "end_block": 108
       }
     },
     {
       "chunk_id": "vi-cntt1152#020",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -441,15 +441,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 110,
-        "end_block": 113
+        "start_block": 109,
+        "end_block": 110
       }
     },
     {
       "chunk_id": "vi-cntt1152#021",
-      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 4 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
-      "word_count": 206,
-      "char_count": 554,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | 4 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | 3 | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 228,
+      "char_count": 654,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -458,7 +458,7 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 114,
+        "start_block": 112,
         "end_block": 114
       }
     },

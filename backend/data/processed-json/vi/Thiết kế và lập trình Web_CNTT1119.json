@@ -7,8 +7,8 @@
   "source_filename": "Thiết kế và lập trình Web_CNTT1119.docx",
   "source_relpath": "data\\raw\\vi\\Thiết kế và lập trình Web_CNTT1119.docx",
   "source_hash": "5d7391147baef26e2e7c9861ab26d388",
-  "source_modified": "2025-10-11T10:42:50.655112+00:00",
-  "processed_at": "2025-10-12T13:24:20.581207+00:00",
+  "source_modified": "2025-10-19T17:31:17.242507+00:00",
+  "processed_at": "2025-11-05T15:52:53.010293+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -152,9 +152,9 @@
     },
     {
       "chunk_id": "vi-cntt1119#004",
-      "text": "Học phần này cung cấp cho sinh viên một số khái niệm về Website; một số mô hình kiến trúc Web; cách thức để thiết kế, xây dựng và triển khai một website. Hướng dẫn lập trình để xây dựng một website thương mại điện tử với ngôn ngữ với các ngôn ngữ lập trình phổ biến hiện nay như C#, Java, Javascript, hoặc PHP. Ngoài ra, mô hình MVC và webservices tương ứng cũng được giới thiệu.\nNội dung chính:\nNội dung học phần bao gồm:\n- Một số khái niệm về kiến trúc Web, dịch vụ Web\n- Các bước thiết kế xây dựng và triển khai một website\n- Xây dựng website thương mại điện tử với ngôn ngữ lập trình C#, Java, Javascript hoặc PHP:\n- Cú pháp lập trình căn bản.\n- Căn bản về lập trình hướng đối tượng\n- Kết nối với Hệ quản trị cơ sở dữ liệu\n- Làm việc với các Control căn bản.\n- Làm việc với các Validation Control.\n- Làm việc với các Data Control\n- Làm việc với mô hình MVC",
-      "word_count": 185,
-      "char_count": 860,
+      "text": "Học phần này cung cấp cho sinh viên một số khái niệm về Website; một số mô hình kiến trúc Web; cách thức để thiết kế, xây dựng và triển khai một website. Hướng dẫn lập trình để xây dựng một website thương mại điện tử với ngôn ngữ với các ngôn ngữ lập trình phổ biến hiện nay như C#, Java, Javascript, hoặc PHP. Ngoài ra, mô hình MVC và webservices tương ứng cũng được giới thiệu.\nNội dung chính:\nNội dung học phần bao gồm:\n- Một số khái niệm về kiến trúc Web, dịch vụ Web\n- Các bước thiết kế xây dựng và triển khai một website\n- Xây dựng website thương mại điện tử với ngôn ngữ lập trình C#, Java, Javascript hoặc PHP:\n- Cú pháp lập trình căn bản.\n- Căn bản về lập trình hướng đối tượng\n- Kết nối với Hệ quản trị cơ sở dữ liệu",
+      "word_count": 156,
+      "char_count": 726,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -163,14 +163,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 37
+        "end_block": 33
       }
     },
     {
       "chunk_id": "vi-cntt1119#005",
-      "text": "- Làm việc với mô hình Webservices",
-      "word_count": 7,
-      "char_count": 34,
+      "text": "- Làm việc với các Control căn bản.\n- Làm việc với các Validation Control.\n- Làm việc với các Data Control\n- Làm việc với mô hình MVC\n- Làm việc với mô hình Webservices",
+      "word_count": 36,
+      "char_count": 168,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -178,7 +178,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 38,
+        "start_block": 34,
         "end_block": 39
       }
     },

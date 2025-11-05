@@ -7,8 +7,8 @@
   "source_filename": "Application Programming_EP17.CNTT1133.docx",
   "source_relpath": "data\\raw\\en\\Application Programming_EP17.CNTT1133.docx",
   "source_hash": "e722d19bfa0c4c59e81786f6b7dc9f75",
-  "source_modified": "2025-10-11T10:42:50.577700+00:00",
-  "processed_at": "2025-10-12T13:24:11.236927+00:00",
+  "source_modified": "2025-10-19T17:31:17.174804+00:00",
+  "processed_at": "2025-11-05T15:52:42.933524+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -70,7 +70,7 @@
     "paragraphs": 43,
     "headings": 11,
     "tables": 11,
-    "chunks": 15,
+    "chunks": 17,
     "words": 1523
   },
   "chunks": [
@@ -181,7 +181,7 @@
       "position": {
         "order": 7,
         "start_block": 39,
-        "end_block": 41
+        "end_block": 40
       }
     },
     {
@@ -202,9 +202,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1133#009",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Group works",
-      "word_count": 83,
-      "char_count": 373,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests",
+      "word_count": 41,
+      "char_count": 186,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -213,14 +213,14 @@
       "position": {
         "order": 9,
         "start_block": 46,
-        "end_block": 50
+        "end_block": 48
       }
     },
     {
       "chunk_id": "en-ep17-cntt1133#010",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nGroup works | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
-      "word_count": 80,
-      "char_count": 339,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Group works",
+      "word_count": 42,
+      "char_count": 186,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -228,12 +228,44 @@
       "breadcrumbs": "6. COURSE ASSESSMENT",
       "position": {
         "order": 10,
-        "start_block": 50,
-        "end_block": 54
+        "start_block": 48,
+        "end_block": 50
       }
     },
     {
       "chunk_id": "en-ep17-cntt1133#011",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nGroup works | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam",
+      "word_count": 42,
+      "char_count": 180,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 11,
+        "start_block": 50,
+        "end_block": 52
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1133#012",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
+      "word_count": 38,
+      "char_count": 158,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 12,
+        "start_block": 52,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1133#013",
       "text": "Table 7. Course outline\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1-2 | Chapter 1: Introduction overview of C# and install 1.1 Introduction to programming tools and how to install software. 1.2. Necessary issues in Visual Studio (C#) 1.3. Overview of the C# programming language | Read textbook: Chapter 1,2 | CLO1.1 CLO1.2 CLO1.3 | Homework Lecturing Individual testing Computer Lab | Rubric 1 Rubric 2\n3-5 | Chapter 2. Working control components 2.1. Working with controls in C# 2.1. Methods, properties and operators 2.2. Inheritance in C#. Expansion components 2.4. Events in C# | Read textbook: Chapter 2,3,4, and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers | Rubric 1 Rubric 2\n6-12 | Chapter 3. programming with databases and reports 3.1 Get acquainted with ADO.Net using C# 3.2 Connect to the database management system (SQL Server) using ADO.Net 3.2 Using commands in ADO.Net 3.4 Working with Datareaders and datasets Objects 3.5 Connect to Report (Working with Crystal Report) 3.6 Concurrency and Transactions | Read textbook: Chapter 6,7,8, 9, and additional references | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Programming on the computers | Rubric 1 Rubric 2\n13-14 | Chapter4: XML  programming In C# 4.1 Overview of .NET Framework XML 4.2 Reading XML data in .NET 4.3  Check the validity of XML data | Read textbook: Chapter 11-14 from (2) | CLO1.1 CLO1.2 CLO1.3 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Rubric 1 Rubric 2\n08-13 | Group works | Read textbook: Chapter 1-11, from (1) and additional references | CLO1.1 CLO1.1 CLO1.3 CLO2.1 CLO2.2 CLO2.3 CLO3.1 CLO3.2 | Group works Programming on the computers | Rubric 3\n15 | Course review | Read textbook: Chapter 1,2,3,4, from [1], Chapter 4, 9, 10, 12 from [2], and additional references | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Pre-Reading text Lecturing Group discussion Programming on the computers | Rubric 1\n- | Final exam | - | CLO1.1 CLO1.2 CLO1.3 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule Programming on the computers | Rubric 4",
       "word_count": 378,
       "char_count": 2322,
@@ -243,13 +275,13 @@
       "primary_heading": "7. COURSE OUTLINE",
       "breadcrumbs": "7. COURSE OUTLINE",
       "position": {
-        "order": 11,
+        "order": 13,
         "start_block": 55,
         "end_block": 56
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1133#012",
+      "chunk_id": "en-ep17-cntt1133#014",
       "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
       "word_count": 23,
       "char_count": 118,
@@ -260,13 +292,13 @@
       "primary_heading": "8.1. Requirements for taking final /terminal exams",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams",
       "position": {
-        "order": 12,
+        "order": 14,
         "start_block": 60,
         "end_block": 61
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1133#013",
+      "chunk_id": "en-ep17-cntt1133#015",
       "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
       "word_count": 108,
       "char_count": 638,
@@ -277,13 +309,13 @@
       "primary_heading": "8.2. Requirements for attending classes",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes",
       "position": {
-        "order": 13,
+        "order": 15,
         "start_block": 62,
         "end_block": 65
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1133#014",
+      "chunk_id": "en-ep17-cntt1133#016",
       "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
       "word_count": 90,
       "char_count": 536,
@@ -294,13 +326,13 @@
       "primary_heading": "8.3. Requirements for in-class behaviour",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behaviour",
       "position": {
-        "order": 14,
+        "order": 16,
         "start_block": 66,
         "end_block": 70
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1133#015",
+      "chunk_id": "en-ep17-cntt1133#017",
       "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
       "word_count": 15,
       "char_count": 77,
@@ -311,7 +343,7 @@
       "primary_heading": "8.3. Requirements for in-class behaviour",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behaviour",
       "position": {
-        "order": 15,
+        "order": 17,
         "start_block": 70,
         "end_block": 71
       }

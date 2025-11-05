@@ -7,8 +7,8 @@
   "source_filename": "Probability and Mathematical Statistics_EP17.TOKT1145.docx",
   "source_relpath": "data\\raw\\en\\Probability and Mathematical Statistics_EP17.TOKT1145.docx",
   "source_hash": "f88639b0e5d6337382ff729c0feebb26",
-  "source_modified": "2025-10-11T10:42:50.606945+00:00",
-  "processed_at": "2025-10-12T13:24:14.408199+00:00",
+  "source_modified": "2025-10-19T17:31:17.201365+00:00",
+  "processed_at": "2025-11-05T15:52:46.415927+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -75,7 +75,7 @@
     "paragraphs": 54,
     "headings": 12,
     "tables": 12,
-    "chunks": 17,
+    "chunks": 18,
     "words": 3028
   },
   "chunks": [
@@ -239,9 +239,9 @@
     },
     {
       "chunk_id": "en-ep17-tokt1145#011",
-      "text": "Table 6.4. Rubric 3\nMidterm test | Weight | Excellent 8,5 - 10 | Good 6,5 – 8,4 | Fair 4,0 – 6,4 | Poor 0 – 3,9\nTest | 100% | Correct 17 – 20 questions | Correct 13 – 16 questions | Correct 8 – 12 questions | Correct 0 – 7 questions\nTable 6.5. Rubric 4\nFinal Exam | Weight | Excellent 8,5 - 10 | Good 6,5 – 8,4 | Fair 4,0 – 6,4 | Poor 0 – 3,9\nCalculation | 50% | Mostly correct, only one or two mistakes | Correct in most questions | Correct in several questions | Incorrect in most questions\nAnalyze and discuss | 50% | Good analysis, adequate comment, deep discussion | Simply analysis and discussion in most of questions | Poor analysis and discussion in several questions | Very poor analysis or no discussion\nGeneral: % of correct answers | - | 85-100% | 65-84% | 40-64% | 0 – 39%",
-      "word_count": 162,
-      "char_count": 785,
+      "text": "Table 6.4. Rubric 3\nMidterm test | Weight | Excellent 8,5 - 10 | Good 6,5 – 8,4 | Fair 4,0 – 6,4 | Poor 0 – 3,9\nTest | 100% | Correct 17 – 20 questions | Correct 13 – 16 questions | Correct 8 – 12 questions | Correct 0 – 7 questions\nTable 6.5. Rubric 4",
+      "word_count": 59,
+      "char_count": 252,
       "heading_path": [
         "6. COURSE ASSESSMENT"
       ],
@@ -250,11 +250,27 @@
       "position": {
         "order": 11,
         "start_block": 65,
-        "end_block": 73
+        "end_block": 71
       }
     },
     {
       "chunk_id": "en-ep17-tokt1145#012",
+      "text": "Final Exam | Weight | Excellent 8,5 - 10 | Good 6,5 – 8,4 | Fair 4,0 – 6,4 | Poor 0 – 3,9\nCalculation | 50% | Mostly correct, only one or two mistakes | Correct in most questions | Correct in several questions | Incorrect in most questions\nAnalyze and discuss | 50% | Good analysis, adequate comment, deep discussion | Simply analysis and discussion in most of questions | Poor analysis and discussion in several questions | Very poor analysis or no discussion\nGeneral: % of correct answers | - | 85-100% | 65-84% | 40-64% | 0 – 39%",
+      "word_count": 103,
+      "char_count": 532,
+      "heading_path": [
+        "6. COURSE ASSESSMENT"
+      ],
+      "primary_heading": "6. COURSE ASSESSMENT",
+      "breadcrumbs": "6. COURSE ASSESSMENT",
+      "position": {
+        "order": 12,
+        "start_block": 71,
+        "end_block": 73
+      }
+    },
+    {
+      "chunk_id": "en-ep17-tokt1145#013",
       "text": "Table 7.1. Course Outline\nWeek | Content | Reading | CLO | Activities | Assessment\n1 | 1. Introduction and Basic Concepts - Concepts - Data, variable - Excel practic | [1] Chapter 1, 2 | 1.1 1.2 | Read syllabus (IU) Lecture (T) - Install Data Analysis Toolpak into Microsoft Excel | Rubric 1\n2-3 | Descriptive Statistics Tables and Charts Numerical Statistics: - Central Tendency - Measure of Variability - Measure of Shape - Measure of Relationship | [1] Chapter 2, 3 | 2.2 2.3 2.4 2.5 | Previous homework  discussion (TU) Lecture (T) Homework (U) | Rubric 1\n4 | Basic Probability - Concepts - Rule of probablitys - | [1] Chapter 4 | 3.1 | Previous homework  discussion (TU) Lecture (T) Homework (U) Discuss on presentation (U) | Rubric 1\n5 | Presentation: Description of data | - | - | Present and discuss (U) | Rubric 2\n6-7 | Random variable Discrete and Continuous | [1] Chapter 5, 6 | 3.2 3.3 3.4 | Previous homework  discussion (TU) Lecture (T) Homework (U) | Rubric 1\n8-9 | Sampling distribution and Estimation - Sampling distribution - Point Estimate - Confidence interval - Confidence interval for 3 parameters: mean, variance, proportion | [1] Chapter 7, 8 | 4.1 4.2 | Previous homework  discussion (TU) Lecture (T) Homework (U) Prepare for midterm | Rubric 1\n10 | Midterm test | - | - | Test in 45 minutes | Rubric 3\n10-12 | Hypothesis testing - Theory of hypothesis testing - Testing for one parameter - Testing for two parameter | [1] Chapter 9, 10 | 4.3 4.4 4.5 | Previous homework  discussion (TU) Lecture (T) Homework (U) | Rubric 1\n13-14 | Regression - Single linear regression - Multiple regression | [1] Chapter 15, 16 | 5.1 5.2 5.3 5.4 | Previous homework  discussion (TU) Lecture (T) Homework (U) | Rubric 1\n15 | Revision | - | - | - | Rubric 1\n- | Final Exam | - | - | According to the given schedule | According to the exam requirement",
       "word_count": 347,
       "char_count": 1858,
@@ -264,13 +280,13 @@
       "primary_heading": "7. COURSE OUTLINE",
       "breadcrumbs": "7. COURSE OUTLINE",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 75,
         "end_block": 77
       }
     },
     {
-      "chunk_id": "en-ep17-tokt1145#013",
+      "chunk_id": "en-ep17-tokt1145#014",
       "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Reading | CLO | Activities | Assessment\n1 | Lecture 1. Introduction 1.1. Concepts 1.2. Branches of Statistics - Descriptive statistics - Inferential statistics 1.3. Structure of data set - Obervation, variable, value 1.4. Type of variables - Nominal - Ordinal - Scale 1.5. Excel tool introduce | [1] Chapter 1 | 1.1 | Introducing the syllabus,  regulations Lecture Intruduce software: Excel Install Data analysis took pak Introduce data set Home work | Attendance Rubric 1\n2 | Lecture 2. Tables and Charts 2.1. Frequency table - Frequency and relative frequency table - Cross-table 2.2. Charts - Pie chart - Column chart - Stacked chart - Histogram - Line chart - Bubble chart - Radar chart | [1] Chapter 2 | 1.2 | Solve previous home work Lecture Discussion Excel practice Groups member register Data for each group Home work | Attendance discussion Volunteer Rubric 1\n3 | Lecture 3. Numerical statistics 3.1. Central tendency - Mean - Median - Mode 3.2. Measure of variability - Range - Variance and Standard deviation - Coefficient of variation - Quartiles and Interquartile range - Boxplot 3.3. Measure of shape - Skewness - Kurtosis 3.4. Measure of relationship - Covariance - Correlation | [1] Chapter 3 | 2.2 2.3 2.4 2.5 | Solve previous home work Lecture Discussion Excel practice Discuss on group’s data | Attendance discussion Exercise Rubric 1\n4 | Lecture 4. Basic Probability 4.1. Concept - Experiment, Outcome - Event 4.3. Classical probabiltiy - Probability - Classical formula 4.4. Rule of interaction - Interaction - Interaction probability - Conditional probability 4.5. Rule of union - Union of events - Rule of union 4.6. Total probability - Total probability - Bayes’ probablity | [1] Chapter 4 | 3.1 | Solve previous home work Lecture Discussion Excel practice Discuss on group’s assignment | Attendance discussion Exercise Rubric 1\n5 | Presentation: Group present | - | - | Present by group Listen, disscuss, and evaluate | Rubric 2\n6 | Lecture 5. Discrete Probability 5.1. Random variable 5.2. Probability distribution - Probabiity table 5.3. Parameter - Expected value - Variance - Standard deviation 5.4. Bernoulli distribution 5.5. Binomial distribution - Formula, expected value, variance 5.6. Poisson distribution | [1] Chapter 5 | 3.2 3.3 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n7 | Lecture 6. Continuos distribution 6.1. Distribution 6.2. Parameter - Expected value - Variance 6.3. Uniform distribution - Mean and variance 6.4. Normal distribution - Definition - Standardized normal - Probability formula - Application | [1] Chapter 6 | 3.3 3.4 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n8 | Lecture 7. Sampling distribution 7.1. Distribution of sample mean 7.2. Distribution of sample variance 7.3. Distribution of sample proportion 7.4. Point estimate of parameter - Estimator of mean - Estimator of variance - Estimator of proportion | [1] Chapter 7 | 4.1 4.2 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n9 | Lecture 8. Confidence Interval 8.1. Confidence interval - Confidence level - Intervale - Interval width 8.2. CI for mean - Formula - Application - Problem of sample size 8.3. CI for variance - Formula and application 8.4. CI of proportion - Formula - Application - Problem of sample size | [1] Chapter 8 | 4.2 | Solve previous home work Lecture Discussion Excel practice Prepare for midterm test | Attendance discussion Exercise Rubric 1\n10 | Midterm test (45 minutes) | - | - | - | Rubric 3\n10 | Lecture 9. Hypothesis testing 9.1. Hypothesis - Hypotheses pair 9.2. Decision and error - Reject and not reject - Error type I - Error type II - Significant level 9.3. Procedure of testing - Rejection area - Statistical value, critical value - p-value | [1] Chapter 9 | 4.3 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n11 | Lecture 10. Testing for One parameter 10.1. Test for mean - Formula - Application 10.2. Test for variance - Formula - Application 10.3. Test for proportion - Formula - Application | [1] Chapter 9 | 4.3 4.4 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n12 | Lecture 11. Testing for Two parameters 11.1. Dependent and Independent samples - Pair samples - Independent samples 11.2. Test for two means - Formula - Application 11.3. Test for two variances - Formula - Application 11.4. Test for two proportions - Formula - Application | [1] Chapter 10 | 4.4 4.5 | Solve previous home work Lecture Discussion Excel practice | Attendance discussion Exercise Rubric 1\n13 | Lecture 12. Single regression 12.1. Model - Poupulation regression model - Sample regression 12.2. Estimate - Least squares estimation - Estimated coefficient 12.3. T-test for coefficient - T-test for significant of coefficient | [1] Chapter 14, 15 | 5.1 5.2 5.3 | Solve previous home work Lecture Discussion Excel practice | Assignment submission Rubric 3\n14 | Lecture 13. Multiple regression 13.1. Model - PRF and SRF - Interpret coefficient 13.2. Estimate - Estimated coefficient - Standard error - Coefficient of determination 13.3. T-test and F-test - T-test for coefficient - F-test for overall significant | [1] Chapter 16 | 5.3 5.4 | Solve previous home work Lecture Discussion Excel practice | Eviews Test, Rubric 2\n15 | Revision - Summary content of the course - Revision of final exam | - | - | - | -",
       "word_count": 934,
       "char_count": 5590,
@@ -280,13 +296,13 @@
       "primary_heading": "8. LESSON PLAN",
       "breadcrumbs": "8. LESSON PLAN",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 82,
         "end_block": 83
       }
     },
     {
-      "chunk_id": "en-ep17-tokt1145#014",
+      "chunk_id": "en-ep17-tokt1145#015",
       "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
       "word_count": 23,
       "char_count": 118,
@@ -297,13 +313,13 @@
       "primary_heading": "9.1. Requirements for taking final /terminal exams",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 87,
         "end_block": 88
       }
     },
     {
-      "chunk_id": "en-ep17-tokt1145#015",
+      "chunk_id": "en-ep17-tokt1145#016",
       "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments, these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
       "word_count": 108,
       "char_count": 639,
@@ -314,13 +330,13 @@
       "primary_heading": "9.2. Requirements for attending classes",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
       "position": {
-        "order": 15,
+        "order": 16,
         "start_block": 89,
         "end_block": 92
       }
     },
     {
-      "chunk_id": "en-ep17-tokt1145#016",
+      "chunk_id": "en-ep17-tokt1145#017",
       "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
       "word_count": 90,
       "char_count": 536,
@@ -331,13 +347,13 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 16,
+        "order": 17,
         "start_block": 93,
         "end_block": 97
       }
     },
     {
-      "chunk_id": "en-ep17-tokt1145#017",
+      "chunk_id": "en-ep17-tokt1145#018",
       "text": "Faculty Dean | NEU’s President\nPhD Nguyen Manh The | Prof. Dr Pham Hong Chuong",
       "word_count": 15,
       "char_count": 78,
@@ -348,7 +364,7 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 17,
+        "order": 18,
         "start_block": 97,
         "end_block": 98
       }

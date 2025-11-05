@@ -7,8 +7,8 @@
   "source_filename": "Hệ điều hành Linux Unix_CNTT11103.docx",
   "source_relpath": "data\\raw\\vi\\Hệ điều hành Linux Unix_CNTT11103.docx",
   "source_hash": "c1aecf599d2ebdfbfa7d11af0e2d9495",
-  "source_modified": "2025-10-11T10:42:50.628189+00:00",
-  "processed_at": "2025-10-12T13:24:16.870397+00:00",
+  "source_modified": "2025-10-19T17:31:17.218371+00:00",
+  "processed_at": "2025-11-05T15:52:48.911530+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -100,7 +100,7 @@
     "paragraphs": 45,
     "headings": 17,
     "tables": 7,
-    "chunks": 14,
+    "chunks": 15,
     "words": 2000
   },
   "chunks": [
@@ -136,9 +136,9 @@
     },
     {
       "chunk_id": "vi-cntt11103#003",
-      "text": "- Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\n- Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nSTT | Họ và tên | Email\n1 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn\n2 | TS. Phạm Xuân Lâm | lampx@neu.edu.vn",
-      "word_count": 67,
-      "char_count": 311,
+      "text": "- Khoa/Viện quản lý học phần: Viện Công nghệ thông tin & Kinh tế số\n- Địa chỉ: P.1308 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:",
+      "word_count": 43,
+      "char_count": 198,
       "heading_path": [
         "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
       ],
@@ -147,11 +147,27 @@
       "position": {
         "order": 3,
         "start_block": 18,
-        "end_block": 23
+        "end_block": 21
       }
     },
     {
       "chunk_id": "vi-cntt11103#004",
+      "text": "STT | Họ và tên | Email\n1 | ThS. Cao Thị Thu Hương | huongct@neu.edu.vn\n2 | TS. Phạm Xuân Lâm | lampx@neu.edu.vn",
+      "word_count": 24,
+      "char_count": 112,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 4,
+        "start_block": 21,
+        "end_block": 23
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11103#005",
       "text": "Học phần cung cấp những kiến thức cơ bản về cấu trúc, cách làm việc của một hệ thống Unix/Linux, cách tổ chức tập tin trong Unix/Linux và sử dụng các tập lệnh củaUnix/Linux; kỹ năng lập trình Shell trong Unix/Linux; quản trị hệ thống Unix/Linux; xây dựng và quản trị các dịch vụ mạng trên Unix/Linux.\nNội dung chính:\n- Tổng quan về hệ điều hành Unix/Linux\n- Hệ thống tập tin trên Unix/Linux\n- Lập trình Shell\n- Quản trị hệ thống\n- Quản trị các dịch vụ mạng",
       "word_count": 91,
       "char_count": 456,
@@ -161,13 +177,13 @@
       "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
-        "order": 4,
+        "order": 5,
         "start_block": 24,
         "end_block": 31
       }
     },
     {
-      "chunk_id": "vi-cntt11103#005",
+      "chunk_id": "vi-cntt11103#006",
       "text": "4.1. Giáo trình\n[1] Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, Dan Mackin (2018), UNIX and Linux System Administration Handbook, Addison Wesley\n4.2. Tài liệu tham khảo\n[2] Yukun Liu, Yong Yue, Liwei Guo (2011), UNIX Operating System, Springer.\n4.3. Phần mềm\nVMware Workstation, Linux",
       "word_count": 47,
       "char_count": 293,
@@ -177,13 +193,13 @@
       "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 32,
         "end_block": 38
       }
     },
     {
-      "chunk_id": "vi-cntt11103#006",
+      "chunk_id": "vi-cntt11103#007",
       "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR/PLO của CTĐT\n[1] | [2] | [3]\nCG1 | Kiến thức cơ bản về cấu trúc, cách làm việc của một hệ thống Unix/Linux, cách tổ chức tập tin trong Unix/Linux và sử dụng các tập lệnh, lập trình shell, hệ thống của Unix/Linux | PLO1.3 PLO1.4 PLO1.5\nCG2 | Khả năng phân tích, giải thích giải quyết các vấn đề liên quan đến tổ chức, quản lý hệ thống Unix/Linux. Khả năng thiết kế, cài đặt, cấu hình và quản trị hệ thống, các dịch vụ mạng trên Unix/Linux. | PLO2.2\nCG3 | Kỹ năng làm việc nhóm, trình bày kết quả các bài LAB và khả năng tìm kiếm, đọc hiểu các tài liệu kỹ thuật bằng tiếng Anh | PLO3.1 PLO3.4",
       "word_count": 143,
       "char_count": 663,
@@ -193,13 +209,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 39,
         "end_block": 42
       }
     },
     {
-      "chunk_id": "vi-cntt11103#007",
+      "chunk_id": "vi-cntt11103#008",
       "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Trình bày được cấu trúc, cách làm việc của một hệ thống Unix/Linux | 3\nCG1 Kiến thức | CLO1.2 | Hiểu được cách tổ chức tập tin trong Unix và cách sử dụng các tập lệnh của Unix/Linux | 4\nCG1 Kiến thức | CLO1.3 | Biết cách lập trình shell trong Unix/Linux | 4\nCG1 Kiến thức | CLO1.4 | Biết cách quản trị hệ thống Unix/Linux. Biết cách quản trị các dịch vụ mạng trên Unix/Linux | 4\nCG2 Kỹ năng | CLO2.1 | Thành thạo trong sử dụng các lệnh của Unix/Linux | 4\nCG2 Kỹ năng | CLO2.2 | Lập trình Shell trong Unix/Linux | 4\nCG2 Kỹ năng | CLO2.3 | Quản trị hệ thống Unix/Linux; Quản trị các dịch vụ mạng trên Unix/Linux | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.1 | Thể hiện được sự tự lực khi làm việc độc lập, thể hiện trách nhiệm cá nhân và trách nhiệm đối với nhóm làm việc. | 5\nCG3 Năng lực tự chủ, trách nhiệm | CLO 3.2 | Xác định thực hiện trách nhiệm xã hội và đạo đức nghề nghiệp trong việc đưa ra những nhận định, đánh giá về các vấn đề chuyên môn. | 4",
       "word_count": 245,
       "char_count": 1085,
@@ -209,13 +225,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 43,
         "end_block": 44
       }
     },
     {
-      "chunk_id": "vi-cntt11103#008",
+      "chunk_id": "vi-cntt11103#009",
       "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR/PLO của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp học Tham gia thảo luận. Tham gia thực hành | Tất cả các buổi | 1.1 1.2 1.3 | Điểm danh Trả lời câu hỏi, thảo luận trên lớp Sản phẩm thực hành | 10% | PLO1.3 PLO1.4 PLO1.5\nĐánh giá quá trình | Bài kiểm tra | Tuần 8 | 1.1 1.2 1.3 2.1 2.2 3.1 | Trắc nghiệm kết hợp tự luận | 20% | PLO1.3 PLO1.4 PLO1.5 PLO2.2\nĐánh giá quá trình | Bài tập nhóm Nhóm 3-4 sinh viên Nhóm đề xuất chủ đề. Kết quả là báo cáo, sản phẩm demo, thuyết trình | Nộp bản cuối: tuần 14 Các thời điểm do giảng viên quyết định: Đề xuất chủ đề Nộp sản phẩm | 1.1 1.2 1.3 2.1 2.2 2.3 3.1 3.2 | Hướng dẫn chi tiết về sản phẩm bài tập nhóm | 20% | PLO1.3 PLO1.4 PLO1.5 PLO2.2 PLO3.1 PLO3.4\nĐánh giá cuối kỳ | Toàn bộ nội dung học | Theo lịch của Trường | 1.1 1.2 1.3 2.1 2.2 2.3 3.1 3.4 | Trắc nghiệm khách quan trên máy Số câu hỏi: 40 Thời gian: 60p | 50% | PLO1.3 PLO1.4 PLO1.5 PLO2.2 PLO3.5",
       "word_count": 251,
       "char_count": 1071,
@@ -226,13 +242,13 @@
       "primary_heading": "7.1. Cơ cấu điểm thành phần",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 48,
         "end_block": 49
       }
     },
     {
-      "chunk_id": "vi-cntt11103#009",
+      "chunk_id": "vi-cntt11103#010",
       "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Chương 1: Tổng quan về hệ điều hành Unix/Linux Lịch sử và phát triển của Unix/Linux Các phiên bản của Unix/Linux Cấu trúc cơ bản của hệ điều hành Unix/Linux Các đặc điểm và ưu điểm của hệ điều hành Unix/Linux Giao diện người dùng | [1] Chương 1, 6 | Giảng viên: Giảng lý thuyết theo nội dung slide Thực hành, hướng dẫn trực tiếp trên phần mềm. Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem trước tài liệu Sinh viên Đọc trước các tài liệu Xem trước các ví dụ, thực hành theo yêu cầu | Điểm danh Trả lời câu hỏi, tương tác bài học Thực hiện các thao tác thực hành | 1.1\n2-4 | Chương 2: Hệ thống tập tin Cấu trúc hệ thống tập tin Các lệnh cơ bản và cú pháp Thao tác với tập tin và thư mục Quản lý quyền truy cập tập tin và thư mục Pipe và redirection Các công cụ và thao tác quản lý tập tin tiện ích Cơ chế bảo mật trong hệ thống tập tin | [1] Chương 5 | Giảng viên: Giảng lý thuyết theo nội dung slide Thực hành, hướng dẫn trực tiếp trên phần mềm. Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem trước tài liệu Hướng dẫn sinh viên làm bài lab Sinh viên Đọc trước các tài liệu Xem trước các ví dụ, thực hành theo yêu cầu | Điểm danh Trả lời câu hỏi, tương tác bài học Thực hiện các thao tác thực hành | 1.1 2.1\n5-8 | Chương 3: Lập trình Shell Cơ bản về lập trình shell script Cú pháp và cấu trúc của shell script Biến Cấu trúc điều khiển shell script Dữ liệu kiểu mảng, chuỗi Sử dụng hàm và thư viện trong shell script | [1] Chương 7 | Giảng viên: Giảng lý thuyết theo nội dung slide Thực hành, hướng dẫn trực tiếp trên phần mềm. Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem trước tài liệu Hướng dẫn sinh viên làm bài lab Sinh viên Đọc trước các tài liệu Xem trước các ví dụ, thực hành theo yêu cầu Bài kiểm tra | Điểm danh Trả lời câu hỏi, tương tác bài học Thực hiện các thao tác thực hành | 1.1 1.2 1.3 2.1 2.2 3.1\n9-11 | Chương 4: Quản trị hệ thống Giới thiệu về quản trị hệ thống Quản lý thiết bị lưu trữ Quản lý in ấn Quản lý tiến trình Bảo trì và sao lưu dữ liệu Giám sát và xử lý sự cố hệ thống Quản lý bản sao lưu và phục hồi Quản lý cấu hình hệ thống | [1] Chương 8,10,12 | Giảng viên: Giảng lý thuyết theo nội dung slide Thực hành, hướng dẫn trực tiếp trên phần mềm. Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem trước tài liệu Hướng dẫn sinh viên làm bài lab Sinh viên Đọc trước các tài liệu Xem trước các ví dụ, thực hành theo yêu cầu | Điểm danh Trả lời câu hỏi, tương tác bài học Thực hiện các thao tác thực hành | 1.1 1.2 1.3 2.1 2.2 3.1\n12-13 | Chương 5: Quản trị các dịch vụ mạng Dịch vụ truyền file FTP Dịch vụ DNS Dịch vụ DHCP Server Dịch vụ Web Server Dịch vụ Mail Server | [1] Chương 13,16,18,19 | Giảng viên: Giảng lý thuyết theo nội dung slide Thực hành, hướng dẫn trực tiếp trên phần mềm. Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem trước tài liệu Hướng dẫn sinh viên làm bài lab Sinh viên Đọc trước các tài liệu Xem trước các ví dụ, thực hành theo yêu cầu | Điểm danh Trả lời câu hỏi, tương tác bài học Thực hiện các thao tác thực hành | 1.1 1.2 1.3 2.1 2.3 3.1\n14,15 | Group project presentation | Sinh viên tự tìm tài liệu | Sinh viên Trình bày theo nhóm Trao đổi, thảo luận với giảng viên và các nhóm khác | Group presentation | 1.1 1.2 1.3 2.1 2.2 2.3 3.1 3.2\n- | Thi cuối kỳ | - | Thi tự luận trên máy | - | -",
       "word_count": 773,
       "char_count": 3490,
@@ -242,13 +258,13 @@
       "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 55,
         "end_block": 56
       }
     },
     {
-      "chunk_id": "vi-cntt11103#010",
+      "chunk_id": "vi-cntt11103#011",
       "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
       "word_count": 40,
       "char_count": 182,
@@ -258,13 +274,13 @@
       "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessement)",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 60,
         "end_block": 61
       }
     },
     {
-      "chunk_id": "vi-cntt11103#011",
+      "chunk_id": "vi-cntt11103#012",
       "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
       "word_count": 28,
       "char_count": 126,
@@ -275,13 +291,13 @@
       "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 63,
         "end_block": 65
       }
     },
     {
-      "chunk_id": "vi-cntt11103#012",
+      "chunk_id": "vi-cntt11103#013",
       "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
       "word_count": 51,
       "char_count": 224,
@@ -292,13 +308,13 @@
       "primary_heading": "10.2. Quy định về tham dự lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 66,
         "end_block": 68
       }
     },
     {
-      "chunk_id": "vi-cntt11103#013",
+      "chunk_id": "vi-cntt11103#014",
       "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng;\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi;\n- Đọc trước tài liệu được yêu cầu;\n- Làm các bài tập về nhà;\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học;\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
       "word_count": 92,
       "char_count": 420,
@@ -309,13 +325,13 @@
       "primary_heading": "10.3. Quy định về hành vi trong lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 69,
         "end_block": 75
       }
     },
     {
-      "chunk_id": "vi-cntt11103#014",
+      "chunk_id": "vi-cntt11103#015",
       "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.\nTRƯỞNG KHOA | HIỆU TRƯỞNG\nTS Nguyễn Trung Tuấn | GS.TS Phạm Hồng Chương",
       "word_count": 49,
       "char_count": 223,
@@ -326,7 +342,7 @@
       "primary_heading": "10.4. Quy định về nộp bài tập lớn",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 76,
         "end_block": 82
       }

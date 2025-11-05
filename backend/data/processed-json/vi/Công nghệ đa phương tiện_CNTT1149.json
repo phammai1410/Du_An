@@ -7,8 +7,8 @@
   "source_filename": "Công nghệ đa phương tiện_CNTT1149.docx",
   "source_relpath": "data\\raw\\vi\\Công nghệ đa phương tiện_CNTT1149.docx",
   "source_hash": "ee44a091c89326c1631134da4b3e5baa",
-  "source_modified": "2025-10-11T10:42:50.621939+00:00",
-  "processed_at": "2025-10-12T13:24:15.986560+00:00",
+  "source_modified": "2025-10-19T17:31:17.214369+00:00",
+  "processed_at": "2025-11-05T15:52:48.019424+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 68,
     "headings": 21,
     "tables": 11,
-    "chunks": 20,
+    "chunks": 21,
     "words": 4008
   },
   "chunks": [
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1149#004",
-      "text": "Học phần trang bị cho người học kiến thức cơ bản về công nghệ đa phương tiện cũng như các hướng nghiên cứu và ứng dụng của lĩnh vực này. Người học nắm được kỹ thuật biến đổi âm thanh, tiếng nói, trích chọn đặc trưng của âm thanh và đảm bảo chất lượng truyền âm thanh. Người học cũng nắm được các kỹ thuật nén ảnh và dữ liệu video, đảm bảo chất lượng truyền hình ảnh và Video. Học phần cũng trình bày khái niệm cơ bản về cơ sở dữ liệu đa phương tiện: cấu trúc và ngôn ngữ thao tác. Phần cuối của học phần trình bày về thực tế ảo và các hệ thống thực tế ảo.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về công nghệ đa phương tiện bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng ứng dụng công nghệ đa phương tiện để xây dựng một ứng dụng thực tế\nNội dung chính:\n- Khái niệm đa phương tiện",
-      "word_count": 185,
-      "char_count": 842,
+      "text": "Học phần trang bị cho người học kiến thức cơ bản về công nghệ đa phương tiện cũng như các hướng nghiên cứu và ứng dụng của lĩnh vực này. Người học nắm được kỹ thuật biến đổi âm thanh, tiếng nói, trích chọn đặc trưng của âm thanh và đảm bảo chất lượng truyền âm thanh. Người học cũng nắm được các kỹ thuật nén ảnh và dữ liệu video, đảm bảo chất lượng truyền hình ảnh và Video. Học phần cũng trình bày khái niệm cơ bản về cơ sở dữ liệu đa phương tiện: cấu trúc và ngôn ngữ thao tác. Phần cuối của học phần trình bày về thực tế ảo và các hệ thống thực tế ảo.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về công nghệ đa phương tiện bằng cách làm việc độc lập cũng như theo nhóm. Người học có khả năng ứng dụng công nghệ đa phương tiện để xây dựng một ứng dụng thực tế",
+      "word_count": 176,
+      "char_count": 799,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,14 +183,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 27
+        "end_block": 25
       }
     },
     {
       "chunk_id": "vi-cntt1149#005",
-      "text": "- Khai thác dữ liệu trên Internet\n- Âm thanh và công nghệ xử lý âm thanh\n- Hình ảnh và công nghệ xử lý hình ảnh\n- Video và công nghệ xử lý video\n- Cơ sở dữ liệu đa phương tiện\n- Thực tế ảo",
-      "word_count": 47,
-      "char_count": 188,
+      "text": "Nội dung chính:\n- Khái niệm đa phương tiện\n- Khai thác dữ liệu trên Internet\n- Âm thanh và công nghệ xử lý âm thanh\n- Hình ảnh và công nghệ xử lý hình ảnh\n- Video và công nghệ xử lý video\n- Cơ sở dữ liệu đa phương tiện\n- Thực tế ảo",
+      "word_count": 56,
+      "char_count": 231,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,7 +198,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 28,
+        "start_block": 26,
         "end_block": 35
       }
     },
@@ -231,7 +231,7 @@
       "position": {
         "order": 7,
         "start_block": 50,
-        "end_block": 54
+        "end_block": 52
       }
     },
     {
@@ -264,7 +264,7 @@
       "position": {
         "order": 9,
         "start_block": 61,
-        "end_block": 65
+        "end_block": 63
       }
     },
     {
@@ -402,9 +402,9 @@
     },
     {
       "chunk_id": "vi-cntt1149#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,14 +414,14 @@
       "position": {
         "order": 18,
         "start_block": 107,
-        "end_block": 113
+        "end_block": 111
       }
     },
     {
       "chunk_id": "vi-cntt1149#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 113,
-        "end_block": 116
+        "start_block": 112,
+        "end_block": 113
       }
     },
     {
       "chunk_id": "vi-cntt1149#020",
-      "text": "- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về công nghệ đa phương tiện | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về công nghệ đa phương tiện và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về công nghệ đa phương tiện, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về công nghệ đa phương tiện, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về công nghệ đa phương tiện, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
-      "word_count": 511,
-      "char_count": 2149,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Tương tự phụ lục 1 (Ma trận đề thi)\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)",
+      "word_count": 52,
+      "char_count": 228,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,7 +447,24 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 117,
+        "start_block": 115,
+        "end_block": 121
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1149#021",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về công nghệ đa phương tiện | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về công nghệ đa phương tiện và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về công nghệ đa phương tiện, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về công nghệ đa phương tiện, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về công nghệ đa phương tiện, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nMinh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 481,
+      "char_count": 2020,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 121,
         "end_block": 121
       }
     }

@@ -7,8 +7,8 @@
   "source_filename": "Principles of Programming_EP17.CNTT1128.docx",
   "source_relpath": "data\\raw\\en\\Principles of Programming_EP17.CNTT1128.docx",
   "source_hash": "bccc9e220f6742d004b079dd996f971a",
-  "source_modified": "2025-10-11T10:42:50.606945+00:00",
-  "processed_at": "2025-10-12T13:24:14.286889+00:00",
+  "source_modified": "2025-10-19T17:31:17.201365+00:00",
+  "processed_at": "2025-11-05T15:52:46.306963+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -95,9 +95,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1128#002",
-      "text": "- Title: Principles of Programming                                      Code: EP17.CNTT1128E\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 30 hrs\n- Exercises on class: 15 hrs\n- Exercise and discussion (Tutor): 15 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics\n- Department conducting the course:\n- Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\n- MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn\n- PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\n- MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\n- MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\n- PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\n- PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\n- MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn\n- PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\n- Kind of the course:",
-      "word_count": 164,
-      "char_count": 1130,
+      "text": "- Title: Principles of Programming                                      Code: EP17.CNTT1128E\n- Credits: 3 (45 credit hours; 1 credit hour = 50 minutes of lecture)\n- Credit hours for teaching and learning activities:\n- Lecture: 30 hrs\n- Exercises on class: 15 hrs\n- Exercise and discussion (Tutor): 15 hrs\n- Self-study: 90 hrs.\n- Parallel course(s): None\n- Prerequisite course(s): Introduction of Information Technology, Discrete Mathematics\n- Department conducting the course:\n- Faculty: Information Technology, R1310, 13th flr., Building A1, The National Economics University, 207 Giai Phong Road, Hai Ba Trung District, Hanoi, Vietnam.\n- Lecturers:\n- PhD. Phạm Xuân Lâm\t\t\tEmail: \tlampx@neu.edu.vn\n- MA. Nguyễn Quỳnh Mai\t\t\tEmail: mainq@neu.edu.vn\n- PhD. Phạm Minh Hoàn\t\t\tEmail: \thoanpm@neu.edu.vn\n- MA. Cao Thị Thu Hương \t\t\tEmail: \thuongct@neu.edu.vn\n- MA. Trần Thị Mỹ Diệp\t\t\tEmail: \tdiepttm@neu.edu.vn\n- PhD. Tống Thị Hảo Tâm\t\t\tEmail: \ttamtth@neu.edu.vn\n- PhD. Lê Thị Hoài Thu\t\t\tEmail: \tthulh@neu.edu.vn\n- MA. Phạm Thảo\t\t\t\tEmail: \tthaop@neu.edu.vn",
+      "word_count": 152,
+      "char_count": 1049,
       "heading_path": [
         "1. COURSE INFORMATION"
       ],
@@ -106,14 +106,14 @@
       "position": {
         "order": 2,
         "start_block": 3,
-        "end_block": 25
+        "end_block": 22
       }
     },
     {
       "chunk_id": "en-ep17-cntt1128#003",
-      "text": "Foundation (x) | Foundation (x) | Fundamental □ | Fundamental □\nCompulsory (x) | Elective □ | Compulsory □ | Elective □\n- Course language: In English",
-      "word_count": 27,
-      "char_count": 149,
+      "text": "- PhD. Nguyễn Thanh Hương\t\tEmail: \thuongnt_cntt@neu.edu.vn\n- Kind of the course:\nFoundation (x) | Foundation (x) | Fundamental □ | Fundamental □\nCompulsory (x) | Elective □ | Compulsory □ | Elective □\n- Course language: In English",
+      "word_count": 39,
+      "char_count": 230,
       "heading_path": [
         "1. COURSE INFORMATION"
       ],
@@ -121,7 +121,7 @@
       "breadcrumbs": "1. COURSE INFORMATION",
       "position": {
         "order": 3,
-        "start_block": 25,
+        "start_block": 23,
         "end_block": 27
       }
     },

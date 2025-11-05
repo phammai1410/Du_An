@@ -7,8 +7,8 @@
   "source_filename": "Data Analysis Programming_EP17.CNTT1187.docx",
   "source_relpath": "data\\raw\\en\\Data Analysis Programming_EP17.CNTT1187.docx",
   "source_hash": "36fd0715d666a160e3e628514dee6822",
-  "source_modified": "2025-10-11T10:42:50.584223+00:00",
-  "processed_at": "2025-10-12T13:24:11.714773+00:00",
+  "source_modified": "2025-10-19T17:31:17.180353+00:00",
+  "processed_at": "2025-11-05T15:52:43.454128+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -70,7 +70,7 @@
     "paragraphs": 48,
     "headings": 11,
     "tables": 12,
-    "chunks": 16,
+    "chunks": 18,
     "words": 2099
   },
   "chunks": [
@@ -133,7 +133,7 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 25
+        "end_block": 24
       }
     },
     {
@@ -170,9 +170,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1187#007",
-      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand data and methods for preprocessing and displaying data | 3\nG1 | CLO1.2 | Understand basic and advanced data analysis methods | 3\nG2 | CLO2.1 | Proficient in using R data analysis software | 4U\n- | CLO2.2 | Proficient in basic data analysis | 4U\n- | CLO2.3 | Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis | 4U\nG3 | CLO3.1 | Able to self-study and research materials to complete assigned lessons and exercises. Ability to work in groups. | 3\nG3 | CLO3.2 | Have professional ethics in data analysis. | 3\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:\nTable 6. Assessment summary",
-      "word_count": 155,
-      "char_count": 894,
+      "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand data and methods for preprocessing and displaying data | 3\nG1 | CLO1.2 | Understand basic and advanced data analysis methods | 3\nG2 | CLO2.1 | Proficient in using R data analysis software | 4U\n- | CLO2.2 | Proficient in basic data analysis | 4U\n- | CLO2.3 | Proficient in advanced data analysis: clustering, classification, decision trees, financial analysis | 4U\nG3 | CLO3.1 | Able to self-study and research materials to complete assigned lessons and exercises. Ability to work in groups. | 3\nG3 | CLO3.2 | Have professional ethics in data analysis. | 3\n6. COURSE ASSESSMENT\n* Assessment methods:\n- Grading: 10\n- Average score of course is the total points of rubrics multiplied by the respective weight of each rubric.\n* Assessment summary:",
+      "word_count": 151,
+      "char_count": 866,
       "heading_path": [
         "5. COURSE LEARNING OUTCOMES (CLOs)"
       ],
@@ -181,14 +181,14 @@
       "position": {
         "order": 7,
         "start_block": 36,
-        "end_block": 45
+        "end_block": 42
       }
     },
     {
       "chunk_id": "en-ep17-cntt1187#008",
-      "text": "Assessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 | 10% | Week 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual tests | Rubric 2 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 1-13\nMidterm test | Rubric 3 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | CLO2.1 CLO2.2 CLO2.3 | 50% | As scheduled\n* Rubrics:\nRubric 1: Participant",
-      "word_count": 114,
-      "char_count": 689,
+      "text": "Table 6. Assessment summary\nAssessments | Rubrics | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant | Rubric 1 | CLO1.1 CLO1.2 CLO2.1 CLO2.2 CLO2.3 | 10% | Week 1-15\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual tests | Rubric 2 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 1-13\nMidterm test | Rubric 3 | CLO2.1 CLO2.2 CLO2.3 | 40% | Week 14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | Rubric 4 | CLO2.1 CLO2.2 CLO2.3 | 50% | As scheduled\n* Rubrics:\nRubric 1: Participant",
+      "word_count": 118,
+      "char_count": 717,
       "heading_path": [
         "5. COURSE LEARNING OUTCOMES (CLOs)"
       ],
@@ -196,15 +196,15 @@
       "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
       "position": {
         "order": 8,
-        "start_block": 45,
+        "start_block": 44,
         "end_block": 48
       }
     },
     {
       "chunk_id": "en-ep17-cntt1187#009",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Midterm test",
-      "word_count": 83,
-      "char_count": 374,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nParticipant | 10 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 2: Individual tests",
+      "word_count": 41,
+      "char_count": 186,
       "heading_path": [
         "5. COURSE LEARNING OUTCOMES (CLOs)"
       ],
@@ -213,14 +213,14 @@
       "position": {
         "order": 9,
         "start_block": 48,
-        "end_block": 52
+        "end_block": 50
       }
     },
     {
       "chunk_id": "en-ep17-cntt1187#010",
-      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nMidterm test | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam\nAreas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
-      "word_count": 80,
-      "char_count": 340,
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nIndividual tests | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 3: Midterm test",
+      "word_count": 42,
+      "char_count": 187,
       "heading_path": [
         "5. COURSE LEARNING OUTCOMES (CLOs)"
       ],
@@ -228,12 +228,44 @@
       "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
       "position": {
         "order": 10,
-        "start_block": 52,
-        "end_block": 56
+        "start_block": 50,
+        "end_block": 52
       }
     },
     {
       "chunk_id": "en-ep17-cntt1187#011",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nMidterm test | 20 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points\nRubric 4: Final exam",
+      "word_count": 42,
+      "char_count": 181,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 11,
+        "start_block": 52,
+        "end_block": 54
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#012",
+      "text": "Areas of assessment | Weighting (%) | Excellence | Good | Fair | Poor\nFinal exam | 50 | 8.5 – 10 points | 6.5 – 8.4 points | 4.0 – 6.4 points | 0 – 3.9 points",
+      "word_count": 38,
+      "char_count": 158,
+      "heading_path": [
+        "5. COURSE LEARNING OUTCOMES (CLOs)"
+      ],
+      "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
+      "position": {
+        "order": 12,
+        "start_block": 54,
+        "end_block": 56
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1187#013",
       "text": "Table 7. Course outline\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | - | Rubric 2 Rubric 3\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing | Rubric 1 Rubric 2 Rubric 3 Rubric 4\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Rubric 1\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Rubric 4",
       "word_count": 459,
       "char_count": 2805,
@@ -243,13 +275,13 @@
       "primary_heading": "7. COURSE OUTLINE",
       "breadcrumbs": "7. COURSE OUTLINE",
       "position": {
-        "order": 11,
+        "order": 13,
         "start_block": 57,
         "end_block": 58
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1187#012",
+      "chunk_id": "en-ep17-cntt1187#014",
       "text": "Table 8.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLOs | Teaching-learning activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1-3 | Course introduction Section 1. General introduction to data 1.1 General introduction to data 1.2 Introduction to the information collection and processing process 1.3 Data classification 1.4 Data preprocessing 1.5 Data representation | Course Syllabus Read textbook: [3] Chapter 1,2 | CLO1.1 CLO1.2 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n4-6 | Section 2. R language 2.1 Introduction R 2.2 Install R and packages 2.3 R Syntax 2.4 Data entry and editing in R 2.5 Use basic calculations in R 2.6 Data visualization | Read textbook: [1] Section 1,2,7,8 | CLO1.2 CLO2.1 CLO3.1 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n7-8 | Section 3. Hypothesis testing 3.1 Purpose of hypothesis testing 3.2 Testing the relationship between two qualitative variables 3.3 Test the average of 1 sample 3.4 Test the average of two independent samples 3.5 Test the average of 2 paired samples 3.6 Test the average of many samples | Read textbook: [1] Section 6 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n9 | Section 4. Descriptive statistical analysis 4.1 Prepare a frequency distribution table 4.2 Create a summary table of many variables 4.3 Create a table to analyze the relationship between two qualitative variables | Read textbook: [1] Section 9,14 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n1-10 | Individual test and Midterm test | - | CLO1.2 CLO2.1 CLO2.2 | Computer Lab | Individual testing Midterm testing\n11-12 | Section 4. Descriptive statistical analysis (cont.) 4.4 Regression analysis 4.5 Logistics regression | Read textbook: [1] Section 10,12 | CLO1.2 CLO2.1 CLO2.2 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n13-14 | Section 5. Advanced analysis methods 5.1 Data classification 5.2 Decision tree 5.3 Data clustering 5.4 Financial data analysis | Read textbook: [1] [4] arules, arulesViz, party, class, factoextra, NbClust, quantmod packages | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Homework Lecturing Group discussion Individual testing Computer Lab | Participation Interaction\n15 | Course review | Read textbook: [1] and additional references | CLO1.2 CLO2.1 CLO2.3 CLO3.1 CLO3.2 | Pre-Reading text Lecturing Group discussion | Participation Interaction\n- | Final exam | - | CLO1.2 CLO2.1 CLO2.2 CLO2.3 | Students take exams according to given schedule | Essay exam",
       "word_count": 446,
       "char_count": 2921,
@@ -259,13 +291,13 @@
       "primary_heading": "8. LESSON PLAN",
       "breadcrumbs": "8. LESSON PLAN",
       "position": {
-        "order": 12,
+        "order": 14,
         "start_block": 61,
         "end_block": 62
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1187#013",
+      "chunk_id": "en-ep17-cntt1187#015",
       "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on the scale of 10).",
       "word_count": 23,
       "char_count": 118,
@@ -276,13 +308,13 @@
       "primary_heading": "9.1. Requirements for taking final /terminal exams",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.1. Requirements for taking final /terminal exams",
       "position": {
-        "order": 13,
+        "order": 15,
         "start_block": 66,
         "end_block": 67
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1187#014",
+      "chunk_id": "en-ep17-cntt1187#016",
       "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proofs must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
       "word_count": 108,
       "char_count": 638,
@@ -293,13 +325,13 @@
       "primary_heading": "9.2. Requirements for attending classes",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.2. Requirements for attending classes",
       "position": {
-        "order": 14,
+        "order": 16,
         "start_block": 68,
         "end_block": 71
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1187#015",
+      "chunk_id": "en-ep17-cntt1187#017",
       "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behaviour that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used for the purpose of taking notes for and calculating for lectures and exercises, absolutely forbidden to use for other purposes.",
       "word_count": 90,
       "char_count": 536,
@@ -310,13 +342,13 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 15,
+        "order": 17,
         "start_block": 72,
         "end_block": 76
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1187#016",
+      "chunk_id": "en-ep17-cntt1187#018",
       "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
       "word_count": 15,
       "char_count": 77,
@@ -327,7 +359,7 @@
       "primary_heading": "9.3. Requirements for in-class behaviour",
       "breadcrumbs": "9. COURSE REQUIREMENT & EXPECTATION > 9.3. Requirements for in-class behaviour",
       "position": {
-        "order": 16,
+        "order": 18,
         "start_block": 76,
         "end_block": 77
       }

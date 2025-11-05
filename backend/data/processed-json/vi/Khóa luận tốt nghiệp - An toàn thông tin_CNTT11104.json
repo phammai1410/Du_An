@@ -7,8 +7,8 @@
   "source_filename": "Khóa luận tốt nghiệp - An toàn thông tin_CNTT11104.docx",
   "source_relpath": "data\\raw\\vi\\Khóa luận tốt nghiệp - An toàn thông tin_CNTT11104.docx",
   "source_hash": "adf9494451d78114fac5d70011fcac6b",
-  "source_modified": "2025-10-11T10:42:50.629668+00:00",
-  "processed_at": "2025-10-12T13:24:17.175375+00:00",
+  "source_modified": "2025-10-19T17:31:17.220879+00:00",
+  "processed_at": "2025-11-05T15:52:49.268539+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -75,7 +75,7 @@
     "paragraphs": 20,
     "headings": 12,
     "tables": 8,
-    "chunks": 12,
+    "chunks": 13,
     "words": 1756
   },
   "chunks": [
@@ -202,7 +202,7 @@
       "position": {
         "order": 8,
         "start_block": 29,
-        "end_block": 32
+        "end_block": 30
       }
     },
     {
@@ -257,9 +257,9 @@
     },
     {
       "chunk_id": "vi-cntt11104#012",
-      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\n- Đảm bảo tính liêm chính trong học thuật.\nPHỤ TRÁCH KHOA TS. PHẠM XUÂN LÂM | Hà Nội, ngày 21 tháng 12 năm 2021 HIỆU TRƯỞNG PGS.TS PHẠM HỒNG CHƯƠNG",
-      "word_count": 63,
-      "char_count": 293,
+      "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người dạy. Mọi hành vi làm ảnh hưởng đến quá trình dạy và học đều bị nghiêm cấm.\n- Đảm bảo tính liêm chính trong học thuật.",
+      "word_count": 41,
+      "char_count": 188,
       "heading_path": [
         "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
         "9.3. Quy định về hành vi lớp học"
@@ -269,6 +269,23 @@
       "position": {
         "order": 12,
         "start_block": 44,
+        "end_block": 47
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11104#013",
+      "text": "PHỤ TRÁCH KHOA TS. PHẠM XUÂN LÂM | Hà Nội, ngày 21 tháng 12 năm 2021 HIỆU TRƯỞNG PGS.TS PHẠM HỒNG CHƯƠNG",
+      "word_count": 22,
+      "char_count": 104,
+      "heading_path": [
+        "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION)",
+        "9.3. Quy định về hành vi lớp học"
+      ],
+      "primary_heading": "9.3. Quy định về hành vi lớp học",
+      "breadcrumbs": "9. QUY ĐỊNH CỦA HỌC PHẦN (COURSE REQUIREMENTS AND EXPECTATION) > 9.3. Quy định về hành vi lớp học",
+      "position": {
+        "order": 13,
+        "start_block": 47,
         "end_block": 49
       }
     }

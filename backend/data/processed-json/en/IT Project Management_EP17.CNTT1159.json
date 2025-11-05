@@ -7,8 +7,8 @@
   "source_filename": "IT Project Management_EP17.CNTT1159.docx",
   "source_relpath": "data\\raw\\en\\IT Project Management_EP17.CNTT1159.docx",
   "source_hash": "7c4bb0cea4c43a3a51aae78a37d1025b",
-  "source_modified": "2025-10-11T10:42:50.597954+00:00",
-  "processed_at": "2025-10-12T13:24:13.346289+00:00",
+  "source_modified": "2025-10-19T17:31:17.192366+00:00",
+  "processed_at": "2025-11-05T15:52:45.278631+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -70,7 +70,7 @@
     "paragraphs": 52,
     "headings": 11,
     "tables": 7,
-    "chunks": 13,
+    "chunks": 14,
     "words": 1640
   },
   "chunks": [
@@ -122,9 +122,9 @@
     },
     {
       "chunk_id": "en-ep17-cntt1159#004",
-      "text": "The course aims to provide students with basic knowledge of  IT projects, focusing on project management and IT project management. Students will be instructed to learn and practice management skills. Include sections: project goal; project initialization; processes and areas of knowledge needed to successfully manage information technology (IT) projects. The main functions of management are mentioned in this course such as planning, organizing, leading,  controlling, closing, and evaluating IT projects. Tools within software and templates that support IT project management will be introduced in this course to provide effective approaches to managing IT projects.\nCourse content includes:\n- Overview of  IT project management\n- Conceptualizing and Initializing the IT Project\n- Business Case &Project Charter\n- Planning and Estimate IT Project\n- Work Break Structure\n- Time, cost estimate\n- Organizing and Executing IT Project\n- Development Team project\n- Controlling the progress of  IT Project\n- Controlling the quality of  IT Project\n- Controlling communication of IT Project\n- Controlling the risk of IT Project\n- Closing and evaluating IT Project\nThe course also aims to train thinking skills, the ability to self-study knowledge, and the use of apps to support management projects by working independently as well as in groups. Students will be divided into groups to learn deeply about projects, from which they can show their skills in phases to manage a particular IT project.",
-      "word_count": 228,
-      "char_count": 1493,
+      "text": "The course aims to provide students with basic knowledge of  IT projects, focusing on project management and IT project management. Students will be instructed to learn and practice management skills. Include sections: project goal; project initialization; processes and areas of knowledge needed to successfully manage information technology (IT) projects. The main functions of management are mentioned in this course such as planning, organizing, leading,  controlling, closing, and evaluating IT projects. Tools within software and templates that support IT project management will be introduced in this course to provide effective approaches to managing IT projects.\nCourse content includes:\n- Overview of  IT project management\n- Conceptualizing and Initializing the IT Project\n- Business Case &Project Charter\n- Planning and Estimate IT Project\n- Work Break Structure\n- Time, cost estimate\n- Organizing and Executing IT Project\n- Development Team project\n- Controlling the progress of  IT Project\n- Controlling the quality of  IT Project",
+      "word_count": 153,
+      "char_count": 1044,
       "heading_path": [
         "2. COURSE DESCRIPTIONS"
       ],
@@ -133,11 +133,27 @@
       "position": {
         "order": 4,
         "start_block": 25,
-        "end_block": 40
+        "end_block": 36
       }
     },
     {
       "chunk_id": "en-ep17-cntt1159#005",
+      "text": "- Controlling communication of IT Project\n- Controlling the risk of IT Project\n- Closing and evaluating IT Project\nThe course also aims to train thinking skills, the ability to self-study knowledge, and the use of apps to support management projects by working independently as well as in groups. Students will be divided into groups to learn deeply about projects, from which they can show their skills in phases to manage a particular IT project.",
+      "word_count": 75,
+      "char_count": 448,
+      "heading_path": [
+        "2. COURSE DESCRIPTIONS"
+      ],
+      "primary_heading": "2. COURSE DESCRIPTIONS",
+      "breadcrumbs": "2. COURSE DESCRIPTIONS",
+      "position": {
+        "order": 5,
+        "start_block": 37,
+        "end_block": 41
+      }
+    },
+    {
+      "chunk_id": "en-ep17-cntt1159#006",
       "text": "* Textbooks/Lecture Notes:\n- Le Thi Hoai Thu & et.al (2024) Information Technology Project Management, Nhà xuất bản Đại học Kinh tế quốc dân.\n- Kathy Schwalbe (2018) Information Technology Project Management, 9th, Cengage Learning Inc.\n* Additional references:\n- Management Institute (PMI), 2020, A Guide to the Project Management Body of Knowledge (PMBOK Guide).\n- Jack T Marchewka, (2003), Information Technology Project Management: provide Measurable Organizational Value, John Wiley & Sons\n- Pham Ngoc Hung, Tran Hoang Viet (2022), Giao trình Quan ly du an phan mem, NXB Đại học quốc gia",
       "word_count": 93,
       "char_count": 591,
@@ -147,13 +163,13 @@
       "primary_heading": "3. LEARNING RESOURCES",
       "breadcrumbs": "3. LEARNING RESOURCES",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 42,
         "end_block": 49
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#006",
+      "chunk_id": "en-ep17-cntt1159#007",
       "text": "Table 4. Course goals\nGoals | Goals Description | Proficiency scale\nG1 | The course provides professional knowledge about IT projects and IT project management. Includes: Project goal, phases, and areas of knowledge needed to manage and IT project management process (as project selection, planning, implementation, control, closing, and evaluation ) | 3-4\nG2 | The course guides students to practice skills in managing IT projects such as: Defining goals, Selecting projects, Initiating projects, Developing WBS, Estimating time, and costs), Organizing project implementation teams, Controlling schedule, cost, quality, communication, and risk; | 3U\nG3 | The course contributes to developing the ability to work independently and collaboratively, fostering a correct understanding of responsibilities in task execution and professional ethics. | 3",
       "word_count": 121,
       "char_count": 848,
@@ -163,13 +179,13 @@
       "primary_heading": "4. COURSE GOALS",
       "breadcrumbs": "4. COURSE GOALS",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 50,
         "end_block": 52
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#007",
+      "chunk_id": "en-ep17-cntt1159#008",
       "text": "Table 5. Course learning outcomes (CLOs)\nGoals | CLOs | CLOs Description | Teaching level (I,T,U)\nG1 | CLO1.1 | Understand and distinguish basic concepts of IT projects | I\nG1 | CLO1.2 | Understand and utilize knowledge of IT project management in phases, project fields, etc… | T\nG1 | CLO1.3 | Understand and differentiate the tasks of a project manager in planning, organizing, implementing, controlling projects,… | T\nG1 | CLO1.4 | Distinguish interdisciplinary knowledge in IT project management. | T\nG2 | CLO2.1 | Having management skills to solve practical problems related to IT projects. | U\nG2 | CLO2.2 | Having skills in writing documents related to an IT project such as business case, project charter, baseline project plans, progress reports, and evaluation report. | U\nG2 | CLO2.3 | Have skills in using software tools to support IT project management. | U\nG3 | CLO3.1 | Having the ability to self-study and research relevant to complete assigned tasks. | U\nG3 | CLO3.2 | Having a sense of organization and discipline in the classroom, adhering to class rules, demonstrating a cooperative spirit, and taking personal responsibility for assigned activities. | U\nG3 | CLO3.3 | Understanding the responsibilities in task execution, and maintaining professional ethics in tasks related to IT project management. | U",
       "word_count": 219,
       "char_count": 1325,
@@ -179,13 +195,13 @@
       "primary_heading": "5. COURSE LEARNING OUTCOMES (CLOs)",
       "breadcrumbs": "5. COURSE LEARNING OUTCOMES (CLOs)",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 53,
         "end_block": 54
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#008",
+      "chunk_id": "en-ep17-cntt1159#009",
       "text": "Table 6. Assessment summary\nAssessments | CLOs | Weighting (%) | Week\nFormative assessment | Formative assessment | Formative assessment | Formative assessment\nParticipant: Learning attitude Answers questions Discussions | CLO1.x CLO2.x CLO3.x | 10% | 1-12\nMidterm assessment | Midterm assessment | Midterm assessment | Midterm assessment\nIndividual test (20%): Quiz (10 Questions) Practical Exercise (4 Exercises) | CLO1.x CLO2.x | 40% | 3,5,10\nGroup project (20%): Group production Group presentation | CLO1.x CLO2.x CLO3.x | 40% | 13-14\nSummative assessment | Summative assessment | Summative assessment | Summative assessment\nFinal exam | CLO1.x CLO2.x CLO3.x | 50% | As scheduled",
       "word_count": 102,
       "char_count": 684,
@@ -195,13 +211,13 @@
       "primary_heading": "6. COURSE ASSESSMENT",
       "breadcrumbs": "6. COURSE ASSESSMENT",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 56,
         "end_block": 59
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#009",
+      "chunk_id": "en-ep17-cntt1159#010",
       "text": "Table 7.1. Lesson plan for the course\nWeek | Content | Readings requirement | CLO | Teaching and Learning Activities | Assessment tools and criteria\n[1] | [2] | [3] | [4] | [5] | [6]\n1 | Introduce • Course outlines | Course Syllabus | CLO1.1 CLO 2. x CLO 3. x | Introduction to course Introduction to learning materials Announce classroom rules. | Participant Individual tests Group works\n2-3 | Chapter 1. Overview of IT project management • Basic concepts of IT project management • An Information Technology Project Methodology • Phases and areas of IT Project Management • Project Manager • IT project management software | [1] Chapter 1 | CLO1.x CLO1.2 CLO3.x | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n4-5 | Chapter 2. Conceptualizing and Initializing the IT Project • IT project goal • Measurable Organizational Value (MOV) • Selecting IT Project • Business Case • Project Charter | [1] Chapter 2 | CLO1.x CLO 2.x CLO 3.x | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n6-7-8 | Chapter 3. Planning IT Project • Planning IT project details • Planning IT project details by using software • Using software to plan IT project | 1] Chapter 3 | CLO1.2 CLO1.3 CLO1.4 CLO 2.1 CLO 2.2 CLO3.1 CLO3.2 | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n9-10 | Chapter 4. Organizing and Executing IT Project • Organzing IT project • Excuteing IT project adapt to the selected framework • Using software to organize IT project | [1] Chapter 4 | CLO1.2 CLO1.3 CLO1.4 CLO 2.2 CLO 2.3 | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n9-10 | Middle Exam (20%) | [1] Chapter 1,2,3,4 | CLO3.1 CLO3.2 CLO3.3 | - | -\n11-12 | Chapter 5. Controlling IT project • Controlling the Schedule of  IT Project • Controlling the quality of  IT Project • Controlling communication of IT Project. • Controlling the risk of IT Project • Controlling IT Project by using software | [1] Chapter 5 | CLO1.4 CLO 2.x CLO 3.x | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n13 | Chapter 6. Closing and Evaluating IT Project • Closing IT Project • Evaluating IT Project | [1] Chapter 5 | CLO1.4 CLO 2.x CLO 3.x | Lecturing Group discussion Individual testing | Participant Individual tests Group works\n14-15 | Group Presentation | [1] Chapter 1-5 | CLO1.x CLO1.x CLO3.x | Report and answer questions | Criteria evaluation form: (i) Content (ii) Form (iii) Presentation time (iv) Cooperation\n- | Final exam | [1] Chapter 1-5 | CLO1.x CLO2.x | Students take exams according to given schedule | Computer-based practical examination",
       "word_count": 457,
       "char_count": 2708,
@@ -211,13 +227,13 @@
       "primary_heading": "7. LESSON PLAN",
       "breadcrumbs": "7. LESSON PLAN",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 60,
         "end_block": 61
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#010",
+      "chunk_id": "en-ep17-cntt1159#011",
       "text": "- Students are allowed to take the final exam if their attendance score reaches 5 points or more (on a scale of 10).",
       "word_count": 23,
       "char_count": 116,
@@ -228,13 +244,13 @@
       "primary_heading": "8.1. Requirements for taking final /terminal exams",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.1. Requirements for taking final /terminal exams",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 64,
         "end_block": 65
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#011",
+      "chunk_id": "en-ep17-cntt1159#012",
       "text": "- Students are responsible for attending all classes. In case of absence from school due to force majeure reasons, sufficient and reasonable proof must be provided. For each absence, 1 point will be deducted 1 point. Students who miss any classes more than 3 times, with or without reason, will be considered as failing to complete the course and have to re-register.\n- Students will be awarded points for constructive comments these points are added to attendance points and group assignments.\n- Groups who do not submit the group work will receive a score of 0 (zero). Late submissions will be deducted for each day of late submission.",
       "word_count": 108,
       "char_count": 637,
@@ -245,13 +261,13 @@
       "primary_heading": "8.2. Requirements for attending classes",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.2. Requirements for attending classes",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 66,
         "end_block": 69
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#012",
+      "chunk_id": "en-ep17-cntt1159#013",
       "text": "- The course is conducted on the principle of respecting learners and lecturers. Any behavior that affects the teaching and learning process is strictly prohibited.\n- Students must come to class on time. Students who are late more than 10 minutes after class starts will not be allowed to attend the class. Do not make noise and affect others during the learning process.\n- Laptops and tablets are only used to take notes for and calculate for lectures and exercises, absolutely forbidden to use for other purposes.",
       "word_count": 87,
       "char_count": 515,
@@ -262,13 +278,13 @@
       "primary_heading": "8.3. Requirements for in-class behavior",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 70,
         "end_block": 73
       }
     },
     {
-      "chunk_id": "en-ep17-cntt1159#013",
+      "chunk_id": "en-ep17-cntt1159#014",
       "text": "Faculty Dean | NEU’s President\nPhD Pham Xuan Lam | Prof. PhD Pham Hong Chuong",
       "word_count": 15,
       "char_count": 77,
@@ -279,7 +295,7 @@
       "primary_heading": "8.3. Requirements for in-class behavior",
       "breadcrumbs": "8. COURSE REQUIREMENT & EXPECTATION > 8.3. Requirements for in-class behavior",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 73,
         "end_block": 74
       }

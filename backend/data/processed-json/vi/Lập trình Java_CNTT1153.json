@@ -7,8 +7,8 @@
   "source_filename": "Lập trình Java_CNTT1153.docx",
   "source_relpath": "data\\raw\\vi\\Lập trình Java_CNTT1153.docx",
   "source_hash": "84ed36a94c974569b7d91185b15bd16a",
-  "source_modified": "2025-10-11T10:42:50.637572+00:00",
-  "processed_at": "2025-10-12T13:24:18.261928+00:00",
+  "source_modified": "2025-10-19T17:31:17.227493+00:00",
+  "processed_at": "2025-11-05T15:52:50.430948+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -135,7 +135,7 @@
     "paragraphs": 66,
     "headings": 24,
     "tables": 11,
-    "chunks": 22,
+    "chunks": 23,
     "words": 4428
   },
   "chunks": [
@@ -187,9 +187,9 @@
     },
     {
       "chunk_id": "vi-cntt1153#004",
-      "text": "Lập trình Java là một ngôn ngữ lập trình quan trọng của những người làm việc trong lĩnh vực công nghệ thông tin. Học phần cung cấp các kiến thức căn bản về lập trình trong Java như hướng đối tượng, tính kế thừa, xử lý vào ra, đa luồng và sử dụng các thư viện để xây dựng giao diện người dùng.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan đến Java bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp sử dụng Java để giải quyết vấn đề trong lĩnh vực Công nghệ thông tin.\nNội dung chính:\n- Tổng quan về ngôn ngữ lập trình Java\n- Biến, hẳng và các kiểu dữ liệu\n- Cấu trúc điều khiển và mảng\n- Phương thức và xử lý ngoại lệ\n- Lập trình hướng đối tượng",
-      "word_count": 183,
-      "char_count": 833,
+      "text": "Lập trình Java là một ngôn ngữ lập trình quan trọng của những người làm việc trong lĩnh vực công nghệ thông tin. Học phần cung cấp các kiến thức căn bản về lập trình trong Java như hướng đối tượng, tính kế thừa, xử lý vào ra, đa luồng và sử dụng các thư viện để xây dựng giao diện người dùng.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức, và công nghệ liên quan đến Java bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được chia nhóm để tìm hiểu sâu các công nghệ, từ đó có thể trình bày, thuyết trình cá nhân hoặc theo nhóm các giải pháp sử dụng Java để giải quyết vấn đề trong lĩnh vực Công nghệ thông tin.\nNội dung chính:\n- Tổng quan về ngôn ngữ lập trình Java",
+      "word_count": 154,
+      "char_count": 710,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,14 +198,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 31
+        "end_block": 27
       }
     },
     {
       "chunk_id": "vi-cntt1153#005",
-      "text": "- Lập trình tổng quát\n- Dòng dữ liệu vào/ra\n- Lập trình đa luồng\n- Lambda và Stream API",
-      "word_count": 20,
-      "char_count": 87,
+      "text": "- Biến, hẳng và các kiểu dữ liệu\n- Cấu trúc điều khiển và mảng\n- Phương thức và xử lý ngoại lệ\n- Lập trình hướng đối tượng\n- Lập trình tổng quát\n- Dòng dữ liệu vào/ra\n- Lập trình đa luồng\n- Lambda và Stream API",
+      "word_count": 49,
+      "char_count": 210,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -213,7 +213,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 32,
+        "start_block": 28,
         "end_block": 37
       }
     },
@@ -281,7 +281,7 @@
       "position": {
         "order": 9,
         "start_block": 49,
-        "end_block": 52
+        "end_block": 50
       }
     },
     {
@@ -452,9 +452,9 @@
     },
     {
       "chunk_id": "vi-cntt1153#020",
-      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi Seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận:",
-      "word_count": 166,
-      "char_count": 656,
+      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi Seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 618,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -464,14 +464,14 @@
       "position": {
         "order": 20,
         "start_block": 101,
-        "end_block": 107
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1153#021",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận - Đề xuất các vấn đề, chủ đề mới - Hoạt động nổi bật khác | - Xung phong trả lời câu hỏi - Xung phong chữa bài - Đặt câu hỏi thảo luận với lớp - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được - Trả lời tốt về bài tập nhóm | - Trả lời câu hỏi GV yêu cầu trả lời - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà - Có phát biểu ý kiến - Có trả lời về bài tập nhóm | - Không trả lời câu hỏi - Không trình bày đáp án bài tập - Không tham gia tương tác\nRubrics 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 182,
-      "char_count": 729,
+      "text": "Tiêu chí đánh giá tham gia thảo luận:\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận - Đề xuất các vấn đề, chủ đề mới - Hoạt động nổi bật khác | - Xung phong trả lời câu hỏi - Xung phong chữa bài - Đặt câu hỏi thảo luận với lớp - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được - Trả lời tốt về bài tập nhóm | - Trả lời câu hỏi GV yêu cầu trả lời - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà - Có phát biểu ý kiến - Có trả lời về bài tập nhóm | - Không trả lời câu hỏi - Không trình bày đáp án bài tập - Không tham gia tương tác",
+      "word_count": 168,
+      "char_count": 666,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -480,15 +480,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 107,
-        "end_block": 110
+        "start_block": 106,
+        "end_block": 107
       }
     },
     {
       "chunk_id": "vi-cntt1153#022",
-      "text": "- Tương tự phụ lục 1 (Ma trận đề thi)\nRubrics 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến Lập trình Java, viết các chương trình minh hoạ và báo cáo trước lớp.\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Java | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Java và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Java, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Java, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Java, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nChương trình và minh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
-      "word_count": 522,
-      "char_count": 2199,
+      "text": "Rubrics 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Tương tự phụ lục 1 (Ma trận đề thi)\nRubrics 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến Lập trình Java, viết các chương trình minh hoạ và báo cáo trước lớp.",
+      "word_count": 80,
+      "char_count": 363,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -497,7 +497,24 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 22,
-        "start_block": 111,
+        "start_block": 109,
+        "end_block": 115
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1153#023",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về Java | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về Java và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về Java, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về Java, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về Java, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp lập trình tiên tiến. | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nChương trình và minh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 464,
+      "char_count": 1936,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 23,
+        "start_block": 115,
         "end_block": 115
       }
     }

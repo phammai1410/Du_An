@@ -1,5 +1,6 @@
 """Streamlit UI for the PDF RAG assistant."""
 
+import importlib.util
 import json
 import os
 import subprocess
@@ -61,14 +62,14 @@ EMBED_BACKENDS: Dict[str, str] = {
 
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
     "Alibaba-NLP/gte-multilingual-base": {
-        "display": "Alibaba 0.3B",
+        "display": "Alibaba-NLP GTE 0.3B ",
         "config_key": "Alibaba-NLP-gte-multilingual-base",
         "local_dir": LOCAL_TEI_ROOT / "Alibaba-NLP-gte-multilingual-base",
         "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
         "required_file": "model.safetensors",
     },
     "sentence-transformers/all-MiniLM-L6-v2": {
-        "display": "MiniLM-L6-v2 (MiniLM, Q4)",
+        "display": "MiniLM-L6 v2 0.2B (Q4)",
         "config_key": "sentence-transformers-all-MiniLM-L6-v2",
         "local_dir": LOCAL_TEI_ROOT / "sentence-transformers-all-MiniLM-L6-v2",
         "download_script": TOOLS_DIR / "download_all_minilm_l6_v2_tei.py",
@@ -118,6 +119,35 @@ def resolve_tei_config_key(model_key: str) -> str:
         return config_key
     # Fallback: replace characters unsupported in JSON config keys.
     return model_key.replace("/", "-")
+
+
+def resolve_tei_ui_key(config_key: str) -> Optional[str]:
+    if not config_key:
+        return None
+    normalized = _slugify_identifier(config_key)
+    for ui_key, meta in TEI_MODELS.items():
+        candidates = {
+            meta.get("config_key"),
+            _slugify_identifier(meta.get("config_key", "") or ""),
+            _slugify_identifier(ui_key),
+        }
+        if normalized in {c for c in candidates if c}:
+            return ui_key
+    return None
+
+
+def format_embedding_display(backend_key: Optional[str], model_key: Optional[str]) -> str:
+    if not model_key:
+        return "Unknown model"
+    if backend_key == "tei":
+        meta = TEI_MODELS.get(model_key)
+        if meta and meta.get("display"):
+            return meta["display"]
+        resolved = resolve_tei_ui_key(model_key)
+        if resolved and resolved in TEI_MODELS:
+            return TEI_MODELS[resolved].get("display", resolved)
+        return model_key
+    return str(model_key)
 
 
 TEI_RUNTIME_MODES: Dict[str, Dict[str, Any]] = {
@@ -530,6 +560,10 @@ def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
         if manifest_path.exists():
             manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
             model = manifest.get("model")
+            if isinstance(model, str):
+                ui_key = resolve_tei_ui_key(model)
+                if ui_key:
+                    model = ui_key
             return {
                 "embedding_backend": "tei",
                 "embedding_model": model,
@@ -721,6 +755,7 @@ def run_backend_pipeline(
     langs: List[str],
     base_url: Optional[str],
     out_dir: Path,
+    chunk_mode: Optional[str] = None,
     on_output: Callable[[str], None] | None = None,
 ) -> Tuple[bool, str]:
     script = TOOLS_DIR / "ingest_docx_pipeline.py"
@@ -739,6 +774,8 @@ def run_backend_pipeline(
         args.extend(["--base-url", base_url])
     if langs:
         args.extend(["--langs", *langs])
+    if chunk_mode:
+        args.extend(["--chunk-mode", chunk_mode])
 
     args.extend(["--batch-size", "8"])
 
@@ -755,6 +792,7 @@ def run_backend_pipeline(
     SOFT_PID_REGISTRY.pop("backend_pipeline", None)
 
     try:
+        st.session_state["pipeline_running"] = True
         result = subprocess.Popen(
             args,
             cwd=str(PROJECT_ROOT.parent),
@@ -763,6 +801,8 @@ def run_backend_pipeline(
             text=True,
             encoding="utf-8",
             errors="replace",
+            env={**os.environ, "PYTHONUNBUFFERED": "1"},
+            bufsize=1,
         )
     except Exception as exc:
         return False, f"Failed to launch pipeline: {exc}"
@@ -782,6 +822,7 @@ def run_backend_pipeline(
     finally:
         st.session_state["backend_pipeline_proc"] = None
         SOFT_PID_REGISTRY.pop("backend_pipeline", None)
+        st.session_state["pipeline_running"] = False
 
     message = "\n".join(line for line in output_lines if line).strip()
     success = return_code == 0
@@ -1082,6 +1123,16 @@ def apply_material_theme():
     color: #d66565;
     border-color: rgba(234, 76, 76, 0.28);
 }
+.runtime-status--pending {
+    background: rgba(255, 193, 7, 0.18);
+    color: #a76a00;
+    border-color: rgba(255, 193, 7, 0.32);
+}
+.runtime-status--missing {
+    background: rgba(148, 163, 184, 0.18);
+    color: #475569;
+    border-color: rgba(148, 163, 184, 0.30);
+}
 
 .runtime-button-row {
     display: flex;
@@ -1213,6 +1264,12 @@ def init_session():
         st.session_state.tei_control_feedback = None
     if "tei_base_url" not in st.session_state:
         st.session_state.tei_base_url = os.getenv("TEI_BASE_URL")
+    if "pipeline_running" not in st.session_state:
+        st.session_state.pipeline_running = False
+    if "pipeline_request" not in st.session_state:
+        st.session_state.pipeline_request = None
+    if "pipeline_feedback" not in st.session_state:
+        st.session_state.pipeline_feedback = None
 
     if st.session_state.embedding_backend == "openai" and st.session_state.embed_model not in OPENAI_EMBED_MODELS:
         st.session_state.embed_model = OPENAI_EMBED_MODELS[0]
@@ -1230,6 +1287,7 @@ def render_settings_body():
         "Run mode",
         options=list(RUN_MODE_OPTIONS.keys()),
         index=list(RUN_MODE_OPTIONS.values()).index(st.session_state.get("run_mode", "local")),
+        disabled=st.session_state.get("pipeline_running", False),
     )
     run_mode = RUN_MODE_OPTIONS[run_mode_display]
     st.session_state.run_mode = run_mode
@@ -1241,6 +1299,7 @@ def render_settings_body():
             value=st.session_state.openai_key,
             type="password",
             help="Enter your API key here if you do not have a .env file.",
+            disabled=st.session_state.get("pipeline_running", False),
         )
         if st.session_state.openai_key:
             os.environ["OPENAI_API_KEY"] = st.session_state.openai_key
@@ -1257,6 +1316,7 @@ def render_settings_body():
             "Embedding model",
             options=embed_options,
             index=embed_options.index(st.session_state.embed_model),
+            disabled=st.session_state.get("pipeline_running", False),
         )
         st.session_state.embed_model = selected_embed
     else:
@@ -1268,6 +1328,7 @@ def render_settings_body():
             options=tei_options,
             index=tei_options.index(st.session_state.embed_model),
             format_func=lambda key: TEI_MODELS[key]["display"],
+            disabled=st.session_state.get("pipeline_running", False),
         )
         st.session_state.embed_model = selected_embed
 
@@ -1279,6 +1340,7 @@ def render_settings_body():
             "Chat model",
             options=chat_options,
             index=chat_options.index(st.session_state.chat_model),
+            disabled=st.session_state.get("pipeline_running", False),
         )
         st.session_state.chat_model = selected_chat
     else:
@@ -1291,6 +1353,7 @@ def render_settings_body():
             "Chat model",
             options=display_options,
             index=display_options.index(current_display),
+            disabled=st.session_state.get("pipeline_running", False),
         )
         st.session_state.chat_model = LOCAL_CHAT_MODELS[selected_display]
 
@@ -1300,6 +1363,7 @@ def render_settings_body():
         options=list(CHUNK_MODES.keys()),
         index=list(CHUNK_MODES.keys()).index(current_chunk_mode),
         format_func=lambda key: CHUNK_MODES[key],
+        disabled=st.session_state.get("pipeline_running", False),
     )
     st.session_state.chunk_mode = new_chunk_mode
     st.session_state.retriever_k = st.slider(
@@ -1308,23 +1372,11 @@ def render_settings_body():
         max_value=10,
         step=1,
         value=st.session_state.get("retriever_k", 4),
+        disabled=st.session_state.get("pipeline_running", False),
     )
 
     if run_mode == "local":
         render_local_runtime_controls()
-
-def _start_selected_tei() -> tuple[bool, str]:
-    model_key = st.session_state.embed_model
-    runtime_mode = st.session_state.tei_runtime_mode
-    port = get_tei_model_port(model_key)
-    return start_tei_runtime(model_key, runtime_mode, port)
-
-
-def _stop_selected_tei() -> tuple[bool, str]:
-    model_key = st.session_state.embed_model
-    runtime_mode = st.session_state.tei_runtime_mode
-    return stop_tei_runtime(model_key, runtime_mode)
-
 
 def _trigger_streamlit_rerun() -> None:
     """Call the available Streamlit rerun API across versions."""
@@ -1342,6 +1394,7 @@ def _render_runtime_control(
     stop_cb,
     button_key: str,
     status_detail: Optional[str] = None,
+    disabled: bool = False,
 ) -> None:
     st.markdown(f"**{title}**")
     status_class = "runtime-status--on" if running else "runtime-status--off"
@@ -1356,7 +1409,13 @@ def _render_runtime_control(
     action_cb = stop_cb if running else start_cb
     spinner_label = "Stopping" if running else "Starting"
 
-    if st.button(action_label, key=button_key, type="primary", use_container_width=True):
+    if st.button(
+        action_label,
+        key=button_key,
+        type="primary",
+        use_container_width=True,
+        disabled=disabled,
+    ):
         with st.spinner(f"{spinner_label} {title.lower()}..."):
             success, message = action_cb()
         st.session_state[feedback_key] = ("success" if success else "error", message)
@@ -1373,12 +1432,274 @@ def _render_runtime_control(
         st.session_state[feedback_key] = None
 
 
+def _render_status_badge(target, label: str, css_class: str) -> None:
+    """Render or update the runtime status pill."""
+    target.markdown(
+        f'<span class="runtime-status {css_class}">{label}</span>',
+        unsafe_allow_html=True,
+    )
+
+
+def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
+    """Return required/optional file lists declared by a download helper script."""
+    try:
+        module_name = f"_tei_download_{script_path.stem.replace('-', '_')}"
+        spec = importlib.util.spec_from_file_location(module_name, script_path)
+        if not spec or not spec.loader:
+            return (), ()
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)  # type: ignore[attr-defined]
+        required = tuple(getattr(module, "REQUIRED_FILES", ()))
+        optional = tuple(getattr(module, "OPTIONAL_FILES", ()))
+        return required, optional
+    except Exception:
+        return (), ()
+
+
+def _download_tei_model_with_progress(
+    model_key: str,
+    status_placeholder,
+    info_placeholder,
+    progress_placeholder,
+) -> Tuple[bool, str]:
+    config = TEI_MODELS.get(model_key)
+    if not config:
+        return False, f"Unknown TEI model: {model_key}"
+
+    script_path = config.get("download_script")
+    if not script_path or not script_path.exists():
+        return False, f"Download script not found: {script_path}"
+
+    required, optional = _load_download_targets(script_path)
+    total_targets = len(required) + len(optional)
+    if total_targets <= 0:
+        total_targets = 1
+
+    _render_status_badge(status_placeholder, "Downloading", "runtime-status--pending")
+    info_placeholder.info("Downloading model files...")
+    progress_bar = progress_placeholder.progress(0)
+
+    try:
+        process = subprocess.Popen(
+            [sys.executable, str(script_path)],
+            cwd=str(BACKEND_ROOT),
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+        )
+    except OSError as exc:
+        message = f"Failed to start download: {exc}"
+        info_placeholder.error(message)
+        progress_placeholder.empty()
+        return False, message
+
+    captured: List[str] = []
+    completed = 0
+
+    assert process.stdout is not None
+    for raw_line in process.stdout:
+        captured.append(raw_line)
+        stripped = raw_line.strip()
+        if stripped:
+            info_placeholder.info(stripped)
+        lower = stripped.lower()
+        if stripped.startswith(("[download]", "[skip]", "[warn]")):
+            completed = min(completed + 1, total_targets)
+            percent = min(100, max(0, int(completed * 100 / total_targets)))
+            progress_bar.progress(percent)
+        elif lower.startswith("download complete"):
+            progress_bar.progress(100)
+
+    process.wait()
+    process.stdout.close()
+
+    if process.returncode != 0:
+        message = captured[-1].strip() if captured else "Model download failed."
+        info_placeholder.error(message or "Model download failed.")
+        return False, message or "Model download failed."
+
+    progress_bar.progress(100)
+    info_placeholder.empty()
+    progress_placeholder.empty()
+    return True, "Model assets downloaded."
+
+
+def _pull_tei_image(
+    runtime_key: str,
+    status_placeholder,
+    info_placeholder,
+) -> Tuple[bool, str]:
+    runtime_meta = TEI_RUNTIME_MODES.get(runtime_key, {})
+    image = runtime_meta.get("image")
+    if not image:
+        return True, "No Docker image configured for this runtime."
+
+    _render_status_badge(status_placeholder, "Pulling image", "runtime-status--pending")
+    info_placeholder.info(f"Pulling Docker image {image}...")
+
+    try:
+        process = subprocess.Popen(
+            ["docker", "pull", image],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+        )
+    except FileNotFoundError:
+        message = "Docker command not found. Install Docker Desktop/Engine and try again."
+        info_placeholder.error(message)
+        return False, message
+    except OSError as exc:
+        message = f"Failed to execute docker pull: {exc}"
+        info_placeholder.error(message)
+        return False, message
+
+    captured: List[str] = []
+    assert process.stdout is not None
+    for raw_line in process.stdout:
+        captured.append(raw_line)
+        stripped = raw_line.strip()
+        if stripped:
+            info_placeholder.info(stripped)
+
+    process.wait()
+    process.stdout.close()
+
+    if process.returncode != 0:
+        message = captured[-1].strip() if captured else "Failed to pull Docker image."
+        info_placeholder.error(message or "Failed to pull Docker image.")
+        return False, message or "Failed to pull Docker image."
+
+    info_placeholder.empty()
+    return True, f"Docker image {image} ready."
+
+
+def _handle_start_tei_runtime(
+    model_key: str,
+    runtime_mode: str,
+    status_placeholder,
+    info_placeholder,
+    progress_placeholder,
+) -> Tuple[bool, str]:
+    needs_download = not tei_model_is_downloaded(model_key)
+
+    if needs_download:
+        ok, message = _download_tei_model_with_progress(
+            model_key,
+            status_placeholder,
+            info_placeholder,
+            progress_placeholder,
+        )
+        if not ok:
+            _render_status_badge(status_placeholder, "Not Downloaded", "runtime-status--missing")
+            return False, message
+        _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
+    else:
+        progress_placeholder.empty()
+        info_placeholder.empty()
+
+    pull_ok, pull_message = _pull_tei_image(runtime_mode, status_placeholder, info_placeholder)
+    if not pull_ok:
+        _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
+        return False, pull_message
+
+    _render_status_badge(status_placeholder, "Starting", "runtime-status--pending")
+    info_placeholder.info("Starting TEI container...")
+    port = get_tei_model_port(model_key)
+    success, message = start_tei_runtime(model_key, runtime_mode, port)
+    info_placeholder.empty()
+    if not success:
+        _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
+    else:
+        _render_status_badge(status_placeholder, "Running", "runtime-status--on")
+    return success, message
+
+
+def _render_tei_runtime_control(
+    tei_status: Dict[str, Any],
+    model_key: str,
+    runtime_mode: str,
+    status_detail: Optional[str],
+    disabled: bool,
+) -> None:
+    tei_running = bool(tei_status.get("running"))
+    downloaded = tei_model_is_downloaded(model_key)
+    download_in_progress = st.session_state.get("tei_download_in_progress", False)
+
+    st.markdown("**Embedding runtime**")
+
+    status_placeholder = st.empty()
+    detail_placeholder = st.empty()
+    info_placeholder = st.empty()
+    progress_placeholder = st.empty()
+
+    if tei_running:
+        status_label, status_class = "Running", "runtime-status--on"
+    elif download_in_progress:
+        status_label, status_class = "Downloading", "runtime-status--pending"
+    elif downloaded:
+        status_label, status_class = "Stopped", "runtime-status--off"
+    else:
+        status_label, status_class = "Not Downloaded", "runtime-status--missing"
+
+    _render_status_badge(status_placeholder, status_label, status_class)
+
+    if status_detail:
+        detail_placeholder.caption(status_detail)
+    else:
+        detail_placeholder.empty()
+
+    action_label = "Stop" if tei_running else "Start"
+    action_disabled = disabled or (download_in_progress and not tei_running)
+
+    if st.button(
+        action_label,
+        key="tei_runtime_button",
+        type="primary",
+        use_container_width=True,
+        disabled=action_disabled,
+    ):
+        if tei_running:
+            with st.spinner("Stopping embedding runtime..."):
+                success, message = stop_tei_runtime(model_key, runtime_mode)
+        else:
+            st.session_state["tei_download_in_progress"] = True
+            try:
+                with st.spinner("Starting embedding runtime..."):
+                    success, message = _handle_start_tei_runtime(
+                        model_key,
+                        runtime_mode,
+                        status_placeholder,
+                        info_placeholder,
+                        progress_placeholder,
+                    )
+            finally:
+                st.session_state["tei_download_in_progress"] = False
+
+        st.session_state["tei_runtime_feedback"] = ("success" if success else "error", message)
+        _trigger_streamlit_rerun()
+
+    feedback = st.session_state.get("tei_runtime_feedback")
+    if feedback:
+        status, message = feedback
+        if message:
+            if status == "success":
+                st.success(message)
+            else:
+                st.error(message)
+        st.session_state["tei_runtime_feedback"] = None
+
+
 def render_local_runtime_controls() -> None:
+    pipeline_running = st.session_state.get("pipeline_running", False)
     model_key = st.session_state.embed_model
     runtime_mode = st.session_state.tei_runtime_mode
     tei_status = get_tei_runtime_status(model_key, runtime_mode)
-    tei_running = bool(tei_status.get("running"))
     localai_running = localai_is_running()
+    pipeline_request = st.session_state.get("pipeline_request")
 
     st.subheader("Runtime control")
     tei_detail: Optional[str] = None
@@ -1394,14 +1715,12 @@ def render_local_runtime_controls() -> None:
         label = format_tei_container_label(tei_status["others"][0])
         tei_detail = f"Different TEI running: {label}"
 
-    _render_runtime_control(
-        "Embedding runtime",
-        tei_running,
-        "tei_runtime_feedback",
-        _start_selected_tei,
-        _stop_selected_tei,
-        "tei_runtime_button",
-        status_detail=tei_detail,
+    _render_tei_runtime_control(
+        tei_status,
+        model_key,
+        runtime_mode,
+        tei_detail,
+        disabled=pipeline_running,
     )
 
     st.markdown("")
@@ -1414,76 +1733,131 @@ def render_local_runtime_controls() -> None:
         stop_localai_service,
         "localai_runtime_button",
         status_detail="Docker container: localai" if localai_running else None,
+        disabled=pipeline_running,
     )
 
-
-def render_sidebar_quick_actions():
-    st.subheader("Data")
-
-    uploaded_files = st.file_uploader(
-        "Upload documents",
-        type=sorted(UPLOAD_ALLOWED_EXTS),
-        accept_multiple_files=True,
-        help="Files are saved to `backend/data/raw/uploads/<ext>/`.",
-    )
-    if uploaded_files:
-        saved_paths = []
-        errors = []
-        for file in uploaded_files:
-            suffix = Path(file.name).suffix.lower()
-            ext = suffix.lstrip(".")
-            if ext not in UPLOAD_ALLOWED_EXTS:
-                errors.append(f"Unsupported file type: {file.name}")
-                continue
-            target_dir = UPLOADS_ROOT / ext
-            target_dir.mkdir(parents=True, exist_ok=True)
-            stem = Path(file.name).stem.strip()
-            safe_stem = "".join(ch if ch.isalnum() or ch in {"-", "_"} else "-" for ch in stem).strip("-") or "document"
-            unique_name = f"{safe_stem}-{uuid4().hex[:8]}{suffix}"
-            target_path = target_dir / unique_name
-            try:
-                with open(target_path, "wb") as out_file:
-                    out_file.write(file.getbuffer())
-                saved_paths.append(target_path)
-            except Exception as exc:
-                errors.append(f"Failed to save {file.name}: {exc}")
-        messages = []
-        if saved_paths:
-            rel_paths = [str(path.relative_to(PROJECT_ROOT.parent)) for path in saved_paths]
-            messages.append("Saved: " + ", ".join(rel_paths))
-        if errors:
-            messages.extend(errors)
-        if saved_paths and errors:
-            status = "warning"
-        elif saved_paths:
-            status = "success"
-        elif errors:
-            status = "error"
-        else:
-            status = "info"
-        st.session_state.upload_feedback = (status, " | ".join(messages) if messages else "No files processed.")
-        st.rerun()
-
-    upload_feedback = st.session_state.upload_feedback
-    if upload_feedback:
-        status, message = upload_feedback
-        if status == "success":
-            st.success(message)
-        elif status == "warning":
-            st.warning(message)
-        elif status == "info":
-            st.info(message)
-        else:
-            st.error(message)
-        st.session_state.upload_feedback = None
-
-    st.divider()
-    current_index_dir = resolve_index_dir(st.session_state.embed_model)
     docx_langs = detect_docx_languages()
-    runtime_mode = st.session_state.tei_runtime_mode
-    model_key = st.session_state.embed_model
+    current_index_dir = resolve_index_dir(model_key)
 
-    if st.button("Rebuild backend index", use_container_width=True):
+    if pipeline_request:
+        request_model_key = pipeline_request.get("model_key", model_key)
+        langs = pipeline_request.get("langs") or (docx_langs or ["vi"])
+        base_url = pipeline_request.get("base_url") or st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
+        index_dir_str = pipeline_request.get("index_dir")
+        chunk_mode = pipeline_request.get("chunk_mode")
+        target_index_dir = Path(index_dir_str) if index_dir_str else resolve_index_dir(request_model_key)
+
+        progress_status = st.empty()
+        progress_status.info("Preparing pipeline...")
+        progress_container = st.container()
+        step_pattern = re.compile(r"Step\s+(\d+)/(\d+)")
+        embedding_progress_pattern = re.compile(
+            r"Embedding:\s+(?P<pct>\d+)%\|.*?\|\s*(?P<done>\d+)/(?P<total>\d+)"
+        )
+        progress_state: Dict[str, Any] = {
+            "bars": {},
+            "active_step": None,
+            "total": None,
+            "last_values": {},
+        }
+
+        def ensure_step_bars(total_steps: int) -> None:
+            if progress_state["bars"]:
+                return
+            for idx in range(1, total_steps + 1):
+                label = PIPELINE_STEP_MESSAGES.get(idx, f"Step {idx}/{total_steps}")
+                row = progress_container.container()
+                row.caption(label)
+                bar = row.progress(0)
+                percent_placeholder = row.empty()
+                progress_state["bars"][idx] = {"bar": bar, "percent": percent_placeholder}
+                progress_state["last_values"][idx] = 0
+
+        def mark_complete(step_idx: Optional[int]) -> None:
+            if not step_idx:
+                return
+            entry = progress_state["bars"].get(step_idx)
+            if entry:
+                entry["bar"].progress(100)
+                entry["percent"].markdown("**100%**")
+                progress_state["last_values"][step_idx] = 100
+
+        def handle_pipeline_output(line: str) -> None:
+            match = step_pattern.search(line)
+            if match:
+                current = int(match.group(1))
+                total = max(int(match.group(2)), 1)
+                progress_state["total"] = total
+                ensure_step_bars(total)
+
+                previous = progress_state.get("active_step")
+                if previous and previous != current:
+                    mark_complete(previous)
+
+                progress_state["active_step"] = current
+                entry = progress_state["bars"].get(current)
+                if entry:
+                    last_value = progress_state["last_values"].get(current, 0)
+                    if last_value < 5:
+                        last_value = 5
+                    entry["bar"].progress(last_value)
+                    entry["percent"].markdown(f"**{last_value}%**")
+                    progress_state["last_values"][current] = last_value
+
+                label = PIPELINE_STEP_MESSAGES.get(current, f"Running Step {current}/{total}")
+                progress_status.info(label)
+                return
+
+            progress_match = embedding_progress_pattern.search(line)
+            if progress_match:
+                pct = int(progress_match.group("pct"))
+                step_idx = progress_state.get("active_step") or progress_state.get("total")
+                if step_idx and step_idx in progress_state["bars"]:
+                    entry = progress_state["bars"][step_idx]
+                    bar = entry["bar"]
+                    previous_pct = progress_state["last_values"].get(step_idx, 0)
+                    pct = max(previous_pct, min(pct, 100))
+                    bar.progress(pct)
+                    entry["percent"].markdown(f"**{pct}%**")
+                    progress_state["last_values"][step_idx] = pct
+
+            if "Pipeline completed successfully" in line:
+                mark_complete(progress_state.get("active_step"))
+                return
+
+        success, message = run_backend_pipeline(
+            request_model_key,
+            langs,
+            base_url,
+            target_index_dir,
+            chunk_mode,
+            on_output=handle_pipeline_output,
+        )
+
+        if success:
+            mark_complete(progress_state.get("active_step"))
+            for idx, entry in progress_state["bars"].items():
+                if idx != progress_state.get("active_step"):
+                    entry["bar"].progress(100)
+                    entry["percent"].markdown("**100%**")
+                    progress_state["last_values"][idx] = 100
+            st.session_state.pipeline_feedback = ("success", message or "Pipeline completed successfully.")
+            invalidate_backend_index_cache(request_model_key)
+        else:
+            st.session_state.pipeline_feedback = ("error", message or "Pipeline failed.")
+            progress_status.error("Pipeline failed. See details below.")
+
+        st.session_state.pipeline_request = None
+        st.session_state.pipeline_running = False
+        _trigger_streamlit_rerun()
+        st.stop()
+
+    if st.button(
+        "Rebuild backend index",
+        use_container_width=True,
+        disabled=pipeline_running,
+        key="runtime_rebuild_button",
+    ):
         if st.session_state.embedding_backend != "tei":
             st.error("Rebuild is only available in Local TEI mode.")
         elif not tei_model_is_downloaded(model_key):
@@ -1496,72 +1870,321 @@ def render_sidebar_quick_actions():
                 st.error("TEI runtime is not running. Start it before rebuilding.")
             else:
                 langs = docx_langs or ["vi"]
-                progress_status = st.empty()
-                progress_status.info("Preparing pipeline...")
-                progress_bar = st.progress(1)
-                step_pattern = re.compile(r"Step\s+(\d+)/(\d+)")
-                last_progress = 1
+                st.session_state.pipeline_request = {
+                    "model_key": st.session_state.embed_model,
+                    "runtime_mode": runtime_mode,
+                    "langs": langs,
+                    "base_url": base_url,
+                    "index_dir": str(current_index_dir),
+                    "chunk_mode": st.session_state.chunk_mode,
+                }
+                st.session_state.pipeline_running = True
+                st.session_state.pipeline_feedback = None
+                _trigger_streamlit_rerun()
+                st.stop()
 
-                def handle_pipeline_output(line: str) -> None:
-                    nonlocal last_progress
-                    match = step_pattern.search(line)
-                    if not match:
-                        if "Pipeline completed successfully" in line:
-                            progress_bar.progress(100)
-                        return
-                    current = int(match.group(1))
-                    total = max(int(match.group(2)), 1)
-                    fraction = (current - 0.5) / total
-                    fraction = min(max(fraction, 0.0), 1.0)
-                    progress_value = int(fraction * 100)
-                    if progress_value <= last_progress:
-                        progress_value = last_progress
-                    progress_bar.progress(max(progress_value, 1))
-                    last_progress = progress_value
-                    label = PIPELINE_STEP_MESSAGES.get(
-                        current,
-                        f"Running Step {current}/{total}",
-                    )
-                    progress_status.info(label)
-
-                success, message = run_backend_pipeline(
-                    st.session_state.embed_model,
-                    langs,
-                    base_url,
-                    current_index_dir,
-                    on_output=handle_pipeline_output,
-                )
-                if success:
-                    progress_bar.progress(100)
-                    progress_status.success("Pipeline completed successfully.")
-                    invalidate_backend_index_cache(st.session_state.embed_model)
-                else:
-                    progress_status.error("Pipeline failed. See details below.")
-                    st.error(f"Pipeline failed: {message}")
-
-    if st.button("Clear chat history", use_container_width=True):
+    if st.button(
+        "Clear chat history",
+        use_container_width=True,
+        disabled=pipeline_running,
+        key="runtime_clear_history_button",
+    ):
         st.session_state.history = []
         st.rerun()
 
+
+def render_sidebar_quick_actions():
+    pipeline_running = st.session_state.get("pipeline_running", False)
+    pipeline_request = st.session_state.get('pipeline_request')
+    pipeline_feedback = st.session_state.get("pipeline_feedback")
+
+    st.subheader("Data")
+
+    uploaded_files = st.file_uploader(
+        "Upload documents",
+        type=sorted(UPLOAD_ALLOWED_EXTS),
+        accept_multiple_files=True,
+        help="Files are saved to `backend/data/raw/uploads/<ext>/`.",
+        disabled=pipeline_running,
+    )
+    if uploaded_files:
+        saved_paths: List[Path] = []
+        errors: List[str] = []
+        for file in uploaded_files:
+            suffix = Path(file.name).suffix.lower()
+            ext = suffix.lstrip('.')
+            if ext not in UPLOAD_ALLOWED_EXTS:
+                errors.append(f"Unsupported file type: {file.name}")
+                continue
+            target_dir = UPLOADS_ROOT / ext
+            target_dir.mkdir(parents=True, exist_ok=True)
+            stem = Path(file.name).stem.strip()
+            safe_stem = ''.join(ch if ch.isalnum() or ch in {'-', '_'} else '-' for ch in stem).strip('-') or 'document'
+            unique_name = f"{safe_stem}-{uuid4().hex[:8]}{suffix}"
+            target_path = target_dir / unique_name
+            try:
+                with open(target_path, 'wb') as out_file:
+                    out_file.write(file.getbuffer())
+                saved_paths.append(target_path)
+            except Exception as exc:  # noqa: BLE001
+                errors.append(f"Failed to save {file.name}: {exc}")
+        messages = []
+        if saved_paths:
+            rel_paths = [str(path.relative_to(PROJECT_ROOT.parent)) for path in saved_paths]
+            messages.append('Saved: ' + ', '.join(rel_paths))
+        if errors:
+            messages.extend(errors)
+        if saved_paths and errors:
+            status = 'warning'
+        elif saved_paths:
+            status = 'success'
+        elif errors:
+            status = 'error'
+        else:
+            status = 'info'
+        st.session_state.upload_feedback = (status, ' | '.join(messages) if messages else 'No files processed.')
+        st.rerun()
+
+    upload_feedback = st.session_state.upload_feedback
+    if upload_feedback:
+        status, message = upload_feedback
+        if status == 'success':
+            st.success(message)
+        elif status == 'warning':
+            st.warning(message)
+        elif status == 'info':
+            st.info(message)
+        else:
+            st.error(message)
+        st.session_state.upload_feedback = None
+
     st.divider()
-    index_state = "yes" if index_exists(current_index_dir) else "no"
+    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+    docx_langs = detect_docx_languages()
+    runtime_mode = st.session_state.tei_runtime_mode
+    model_key = st.session_state.embed_model
+
+    if pipeline_request:
+        request_model_key = pipeline_request.get('model_key', model_key)
+        langs = pipeline_request.get('langs') or (docx_langs or ['vi'])
+        base_url = (
+            pipeline_request.get('base_url')
+            or st.session_state.get('tei_base_url')
+            or os.getenv('TEI_BASE_URL')
+        )
+        index_dir_str = pipeline_request.get('index_dir')
+        chunk_mode = pipeline_request.get('chunk_mode')
+        target_index_dir = Path(index_dir_str) if index_dir_str else resolve_index_dir(request_model_key)
+
+        progress_status = st.empty()
+        progress_status.info('Preparing pipeline...')
+        progress_container = st.container()
+        step_pattern = re.compile(r'Step\s+(\d+)/(\d+)')
+        embedding_progress_pattern = re.compile(
+            r'Embedding:\s+(?P<pct>\d+)%\|.*?\|\s*(?P<done>\d+)/(?P<total>\d+)'
+        )
+        progress_state: Dict[str, Any] = {
+            'bars': {},
+            'active_step': None,
+            'total': None,
+            'last_values': {},
+        }
+
+        def ensure_step_bars(total_steps: int) -> None:
+            if progress_state['bars']:
+                return
+            for idx in range(1, total_steps + 1):
+                label = PIPELINE_STEP_MESSAGES.get(idx, f'Step {idx}/{total_steps}')
+                row = progress_container.container()
+                row.caption(label)
+                bar = row.progress(0)
+                percent_placeholder = row.empty()
+                progress_state['bars'][idx] = {'bar': bar, 'percent': percent_placeholder}
+                progress_state['last_values'][idx] = 0
+
+        def mark_complete(step_idx: Optional[int]) -> None:
+            if not step_idx:
+                return
+            entry = progress_state['bars'].get(step_idx)
+            if entry:
+                entry['bar'].progress(100)
+                entry['percent'].markdown('**100%**')
+                progress_state['last_values'][step_idx] = 100
+
+        def handle_pipeline_output(line: str) -> None:
+            match = step_pattern.search(line)
+            if match:
+                current = int(match.group(1))
+                total = max(int(match.group(2)), 1)
+                progress_state['total'] = total
+                ensure_step_bars(total)
+
+                previous = progress_state.get('active_step')
+                if previous and previous != current:
+                    mark_complete(previous)
+
+                progress_state['active_step'] = current
+                entry = progress_state['bars'].get(current)
+                if entry:
+                    last_value = progress_state['last_values'].get(current, 0)
+                    if last_value < 5:
+                        last_value = 5
+                    entry['bar'].progress(last_value)
+                    entry['percent'].markdown(f"**{last_value}%**")
+                    progress_state['last_values'][current] = last_value
+
+                label = PIPELINE_STEP_MESSAGES.get(current, f'Step {current}/{total}')
+                progress_status.info(label)
+                return
+
+            progress_match = embedding_progress_pattern.search(line)
+            if progress_match:
+                pct = int(progress_match.group('pct'))
+                step_idx = progress_state.get('active_step') or progress_state.get('total')
+                if step_idx and step_idx in progress_state['bars']:
+                    entry = progress_state['bars'][step_idx]
+                    bar = entry['bar']
+                    previous_pct = progress_state['last_values'].get(step_idx, 0)
+                    pct = max(previous_pct, min(pct, 100))
+                    bar.progress(pct)
+                    entry['percent'].markdown(f"**{pct}%**")
+                    progress_state['last_values'][step_idx] = pct
+
+            if 'Pipeline completed successfully' in line:
+                mark_complete(progress_state.get('active_step'))
+                return
+
+        success, message = run_backend_pipeline(
+            request_model_key,
+            langs,
+            base_url,
+            target_index_dir,
+            chunk_mode,
+            on_output=handle_pipeline_output,
+        )
+
+        if success:
+            mark_complete(progress_state.get('active_step'))
+            for idx, entry in progress_state['bars'].items():
+                if idx != progress_state.get('active_step'):
+                    entry['bar'].progress(100)
+                    entry['percent'].markdown('**100%**')
+                    progress_state['last_values'][idx] = 100
+            st.session_state.pipeline_feedback = ('success', message or 'Pipeline completed successfully.')
+            invalidate_backend_index_cache(request_model_key)
+        else:
+            st.session_state.pipeline_feedback = ('error', message or 'Pipeline failed.')
+            progress_status.error('Pipeline failed. See details below.')
+
+        st.session_state.pipeline_request = None
+        st.session_state.pipeline_running = False
+        _trigger_streamlit_rerun()
+        st.stop()
+
+    if pipeline_feedback:
+        status, message = pipeline_feedback
+        if status == 'success':
+            st.success(message or 'Pipeline completed successfully.')
+        else:
+            st.error(message or 'Pipeline run failed.')
+        st.session_state.pipeline_feedback = None
+
+    if st.button(
+        'Rebuild backend index',
+        use_container_width=True,
+        disabled=pipeline_running,
+        key="sidebar_rebuild_button",
+    ):
+        if st.session_state.embedding_backend != 'tei':
+            st.error('Rebuild is only available in Local TEI mode.')
+        elif not tei_model_is_downloaded(model_key):
+            st.error('The selected TEI model has not been downloaded.')
+        else:
+            base_url = st.session_state.get('tei_base_url') or os.getenv('TEI_BASE_URL')
+            if not base_url:
+                st.error('TEI base URL is not configured. Start the TEI runtime first.')
+            elif not tei_backend_is_active(model_key, runtime_mode):
+                st.error('TEI runtime is not running. Start it before rebuilding.')
+            else:
+                langs = docx_langs or ['vi']
+                st.session_state.pipeline_request = {
+                    'model_key': st.session_state.embed_model,
+                    'runtime_mode': runtime_mode,
+                    'langs': langs,
+                    'base_url': base_url,
+                    'index_dir': str(current_index_dir),
+                    'chunk_mode': st.session_state.chunk_mode,
+                }
+                st.session_state.pipeline_running = True
+                st.session_state.pipeline_feedback = None
+                _trigger_streamlit_rerun()
+                st.stop()
+
+    if st.button(
+        'Clear chat history',
+        use_container_width=True,
+        disabled=pipeline_running,
+        key="sidebar_clear_history_button",
+    ):
+        st.session_state.history = []
+        st.rerun()
+
+    index_state = 'yes' if index_exists(current_index_dir) else 'no'
     st.caption(
         f"DOCX in `backend/data/raw`: {len(list_docx_files())} | "
         f"Index `{current_index_dir.relative_to(PROJECT_ROOT.parent)}` present: {index_state}"
     )
 
     emb_used = load_embed_meta(current_index_dir)
+    expected_backend = st.session_state.embedding_backend
+    expected_model = st.session_state.embed_model
+    expected_chunk = st.session_state.chunk_mode
+    expected_backend_label = EMBED_BACKENDS.get(expected_backend, expected_backend.title())
+    expected_model_display = format_embedding_display(expected_backend, expected_model)
+    current_chunk_label = CHUNK_MODES.get(expected_chunk, expected_chunk if expected_chunk else 'Not configured')
+
     if emb_used:
-        backend_label = EMBED_BACKENDS.get(emb_used.get("embedding_backend", "openai"), "Unknown")
-        chunk_value = emb_used.get("chunk_mode")
-        chunk_label = CHUNK_MODES.get(chunk_value, chunk_value if chunk_value else "unknown")
-        st.caption(f"Index built with: {backend_label} / {emb_used['embedding_model']} / {chunk_label}")
-        if (
-            emb_used.get("embedding_backend") != st.session_state.embedding_backend
-            or emb_used.get("embedding_model") != st.session_state.embed_model
-            or emb_used.get("chunk_mode") != st.session_state.chunk_mode
-        ):
-            st.warning("The current embedding selection differs from the index. Rebuild to avoid inconsistencies.")
+        backend_key = emb_used.get('embedding_backend') or expected_backend
+        backend_label = EMBED_BACKENDS.get(backend_key, backend_key.title())
+        index_model = emb_used.get('embedding_model')
+        chunk_value = emb_used.get('chunk_mode')
+        chunk_label = CHUNK_MODES.get(chunk_value, chunk_value if chunk_value else 'Not recorded')
+        display_name = format_embedding_display(backend_key, index_model if index_model else None)
+
+        st.caption(f"Index built with: {backend_label} / {display_name} / {chunk_label}")
+
+        model_matches = False
+        if index_model and expected_model:
+            if index_model == expected_model:
+                model_matches = True
+            else:
+                model_matches = (
+                    _slugify_identifier(str(index_model)) == _slugify_identifier(str(expected_model))
+                )
+        elif not index_model:
+            model_matches = True
+
+        chunk_matches = False
+        if chunk_value and expected_chunk:
+            chunk_matches = chunk_value == expected_chunk
+        else:
+            chunk_matches = True
+
+        backend_matches = backend_key == expected_backend
+
+        if not (backend_matches and model_matches and chunk_matches):
+            current_summary = f"{expected_backend_label} / {expected_model_display} / {current_chunk_label}"
+            index_summary = f"{backend_label} / {display_name} / {chunk_label}"
+            st.warning(
+                'The current embedding selection differs from the index. Rebuild to avoid inconsistencies.\n\n'
+                f"Index: {index_summary}\n"
+                f"Current selection: {current_summary}"
+            )
+    else:
+        st.caption(
+            'Index status: Not built for '
+            f"{expected_backend_label} / {expected_model_display} / {current_chunk_label}"
+        )
 
 def main():
     load_dotenv()

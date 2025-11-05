@@ -7,8 +7,8 @@
   "source_filename": "Lập trình Python_CNTT1180.docx",
   "source_relpath": "data\\raw\\vi\\Lập trình Python_CNTT1180.docx",
   "source_hash": "abcbb1441778c8672ce950938d5e8b35",
-  "source_modified": "2025-10-11T10:42:50.637572+00:00",
-  "processed_at": "2025-10-12T13:24:18.457194+00:00",
+  "source_modified": "2025-10-19T17:31:17.228494+00:00",
+  "processed_at": "2025-11-05T15:52:50.712823+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 71,
     "headings": 21,
     "tables": 12,
-    "chunks": 21,
+    "chunks": 23,
     "words": 4364
   },
   "chunks": [
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1180#004",
-      "text": "Học phần này giới thiệu các căn bản lập trình với Python như biến, các dạng dữ liệu danh sách, cú pháp điều khiển, thiết kế chương trình với hàm và module, lập trình hướng đối tượng với ngôn ngữ lập trình Python. Học phần này cũng giới thiệu phương pháp tải dữ liệu, phân tích dữ liệu, phương pháp thăm dò và trực quan hóa dữ liệu với Python; làm việc với các thư viện phổ biến của Python như: Pandas, Numpy, Matplotlib.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về ngôn ngữ lập trình Python bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được yêu cầu xây dựng một ứng dụng thực tế bằng Python.\nNội dung chính:\n- Giới thiệu về Python\n- Các kiểu dữ liệu trong Python\n- Các cấu trúc lập trình\n- Hàm, module, packages trong Python\n- Làm việc với tệp trong Python\n- Lập trình hướng đối tượng với Python\n- Phân tích và xử lý dữ liệu với Python",
-      "word_count": 185,
-      "char_count": 889,
+      "text": "Học phần này giới thiệu các căn bản lập trình với Python như biến, các dạng dữ liệu danh sách, cú pháp điều khiển, thiết kế chương trình với hàm và module, lập trình hướng đối tượng với ngôn ngữ lập trình Python. Học phần này cũng giới thiệu phương pháp tải dữ liệu, phân tích dữ liệu, phương pháp thăm dò và trực quan hóa dữ liệu với Python; làm việc với các thư viện phổ biến của Python như: Pandas, Numpy, Matplotlib.\nHọc phần cũng nhằm rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức về ngôn ngữ lập trình Python bằng cách làm việc độc lập cũng như theo nhóm. Sinh viên sẽ được yêu cầu xây dựng một ứng dụng thực tế bằng Python.\nNội dung chính:\n- Giới thiệu về Python\n- Các kiểu dữ liệu trong Python\n- Các cấu trúc lập trình",
+      "word_count": 154,
+      "char_count": 741,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,11 +183,27 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 33
+        "end_block": 29
       }
     },
     {
       "chunk_id": "vi-cntt1180#005",
+      "text": "- Hàm, module, packages trong Python\n- Làm việc với tệp trong Python\n- Lập trình hướng đối tượng với Python\n- Phân tích và xử lý dữ liệu với Python",
+      "word_count": 31,
+      "char_count": 147,
+      "heading_path": [
+        "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
+      ],
+      "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
+      "position": {
+        "order": 5,
+        "start_block": 30,
+        "end_block": 34
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1180#006",
       "text": "4.1. Giáo trình\n[1]. John Hunt, A Beginners Guide to Python 3 Programming, Springer, 2019.\n[2]. John Hunt, Advanced Guide to Python 3 Programming, Springer, 2019.\n[3]. Fabio Nelli, Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language, Apress Media, 2015.\nTài liệu khác:\n[4] Jake VanderPlas, Python Data Science Handbook, O’Reilly Media, 2017.\n4.3. Phần mềm\n[5] Visual Studio Code, Pycharm, Jupyter Notebook, Google Colab.",
       "word_count": 73,
       "char_count": 480,
@@ -197,13 +213,13 @@
       "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 35,
         "end_block": 43
       }
     },
     {
-      "chunk_id": "vi-cntt1180#006",
+      "chunk_id": "vi-cntt1180#007",
       "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần cung cấp các kiến thức chuyên sâu về ngôn ngữ lập trình Python: các dạng dữ liệu danh sách, cú pháp điều khiển, thiết kế chương trình với hàm và module; làm việc với các thư viện phổ biến của Python như: Pandas, Numpy, Matplotlib. | -\nCG2 | Học phần rèn kỹ năng tư duy, giải quyết vấn đề và các kỹ năng thực hành tốt các kỹ năng về ngôn ngữ lập trình Python. | -\nCG3 | Học phần góp phần phát triển khả năng tự làm việc độc lập hoặc làm việc theo nhóm, hiểu đúng đắn về trách nhiệm thực thi công việc và đạo đức nghề nghiệp. | -",
       "word_count": 145,
       "char_count": 640,
@@ -213,13 +229,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 44,
         "end_block": 48
       }
     },
     {
-      "chunk_id": "vi-cntt1180#007",
+      "chunk_id": "vi-cntt1180#008",
       "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 Kiến thức | CLO1.1 | Vận dụng được biến, các kiểu dữ liệu, các cấu trúc điều khiển, thiết kế chương trình với hàm và module; lập trình hướng đối tượng với Python. | 3\nCG1 Kiến thức | CLO1.2 | Vận dụng tốt các thư viện Python như Pandas, Numpy, Matplotlib để phân tích, trực quan hóa dữ liệu. | 3\nCG2 Kỹ năng | CLO2.1 | Thực thi được các đoạn mã lệnh và tình huống bài tập giáo viên thực hiện trên lớp. | 3\nCG2 Kỹ năng | CLO2.2 | Thành thạo việc tìm kiếm, thu thập, tổng hợp, phân tích, trình bày để giải quyết các bài toán liên quan đến lập trình Python. | 3\nCG2 Kỹ năng | CLO2.3 | Phối hợp với các thành viên để giải quyết bài tập nhóm, đảm bảo hoàn thành công việc của nhóm đúng tiến độ. | 4\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.1 | Trả lời các câu hỏi giáo viên đưa ra, hoàn thành các bài tập tại lớp cũng như bài tập về nhà. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 Năng lực tự chủ, trách nhiệm | CLO3.3 | Thực hiện dự án giáo viên giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2",
       "word_count": 280,
       "char_count": 1228,
@@ -229,13 +245,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 49,
         "end_block": 50
       }
     },
     {
-      "chunk_id": "vi-cntt1180#008",
+      "chunk_id": "vi-cntt1180#009",
       "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung / Bài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí đánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | [7]\nChuyên cần | Tham gia lớp seminar Tham gia thảo luận, làm bài tập tại các buổi seminar | Tất cả các buổi seminar | 1.x 2.x 3.x | Phụ lục 2: rubric 1 | 10% | -\nĐánh giá quá trình | Bài kiểm tra cá nhân – 20% (trắc nghiệm) | Tuần 13 | 1.x 2.x 3.x | Phụ lục 2: rubric 2 | 40% | -\nĐánh giá quá trình | Bài tập nhóm – 20% (nghiên cứu, lập trình Python xử lý bài toán, thuyết trình) | Tuần 14-15 | 1.x 2.x 3.x | Phụ lục 2: rubric 3 | 40% | -\nĐánh giá cuối kỳ | Toàn bộ nội dung học (lập trình trên máy tính) | Theo lịch của Trường | 1.x 2.x 3.x | Phụ lục 1: ma trận đề thi | 50% | -",
       "word_count": 194,
       "char_count": 764,
@@ -246,13 +262,13 @@
       "primary_heading": "7.1. Cơ cấu điểm thành phần",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment) > 7.1. Cơ cấu điểm thành phần",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 54,
         "end_block": 56
       }
     },
     {
-      "chunk_id": "vi-cntt1180#009",
+      "chunk_id": "vi-cntt1180#010",
       "text": "Bảng 4. Kế hoạch và nội dung dạy học\nTuần | Nội dung | Tài liệu đọc | Hoạt động dạy và học | Đánh giá | CLOs\n[1] | L[2] | [3] | [4] | [5] | [6]\n1 | Lecture 1 Chương 1: Giới thiệu về Python 1.1. Python là gì 1.2. Lịch sử của Python 1.3. Phân biệt Python 2 và Python 3 1.4. Cài đặt môi trường lập trình 1.5. Cú pháp 1.6. Vào/ra dữ liệu 1.7. Biến 1.8. Biểu thức 1.9. Câu lệnh | [1] Chương 1, 2, 3 | Giảng viên: Giới thiệu đề cương, giáo trình, tài liệu tham khảo, phần mềm, bài giảng Giảng lý thuyết theo nội dung bài giảng Hướng dẫn đọc giáo trình, tài liệu tham khảo Yêu cầu sinh viên xem lại kiến thức các học phần tiên quyết Yêu cầu sinh viên xem trước ví dụ, câu hỏi, bài tập dành cho Seminar 1 Giới thiệu các Rubrics Sinh viên: Xem trước đề cương Đọc các tài liệu | - | 1.1\n2 | Seminar 1 Câu hỏi lý thuyết về chương 1 Thực hành: vào ra dữ liệu, biến, biểu thức | [1] Chương 1, 2, 3 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Làm bài tập thực hành Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 1 Làm bài tập thực hành | 1.1 2.1 2.2 3.1\n3 | Lecture 2 Chương 2. Các kiểu 2.1. Number 2.2. String 2.3. Tuple 2.4. Set 2.5. Dictionary | [1] Chương 4, 5, 31, 32, 33 | Giảng viên: - Giảng lý thuyết - Giới thiệu ví dụ Sinh viên: - Đọc tài liệu trước - Xem trước các ví dụ - Làm bài tập được yêu cầu | - | 1.1\n4 | Seminar 2 Câu hỏi lý thuyết chương 2 Thực hành: các thao tác với các kiểu dữ liệu của Python | [1] Chương 4, 5, 31, 32, 33 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 2 Làm bài tập thực hành | 1.1 2.1 2.2 3.1 3.2\n5 | Lecture 3 Chương 3. Các cấu trúc điều khiển 3.1. Cấu trúc if 3.2. Cấu trúc lặp while 3.3. Cấu trúc lặp for | [1] Chương 6, 7 | Giảng viên: Giảng lý thuyết Giới thiệu các ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1\n6 | Seminar 3 Câu hỏi lý thuyết chương 3. Thực hành: các cấu trúc lập trình | [1] Chương 6, 7 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 3 Làm bài tập thực hành | 1.1 2.1 2.2 3.1 3.2\n7 | Lecture 4 Chương 4: Hàm, module, packages trong Python 4.1. Hàm 4.2. Module 4.3. Packages | [1] Chương 11, 25 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1\n8 | Seminar 4 Câu hỏi lý thuyết chương 4 Thực hành: thao tác với hàm, module, packages trong Python | [1] Chương 11, 25 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 4 Làm bài tập thực hành | 1.1 2.1 2.2 3.1 3.2\n9 | Lecture 5 Chương 5:  Hướng đối tượng trong Python 5.1. Lớp 5.2. Đối tượng 5.3. Phương thức __init__() 5.4. Tính kế thừa 5.5. Tính đa hình 5.6. Tính đóng gói | [1] Chương 17, 18, 19, 20 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.1\n10 | Seminar 5 Câu hỏi lý thuyết chương 5 Thực hành: lập trình hướng đối tượng với Python | [1] Chương  17, 18, 19, 20 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 2.1 2.2 3.2\n11 | Lecture 6 Chương 6. Phân tích dữ liệu 6.1. Numpy 6.2. Pandas 6.3. Matplotlib | [3] Chương 3, 4, 5, 6,7 | Giảng viên: Giảng lý thuyết Giới thiệu ví dụ Sinh viên: Đọc tài liệu trước Xem trước các ví dụ Làm bài tập được yêu cầu | - | 1.2\n12 | Seminar 6 Câu hỏi lý thuyết chương 6 Thực hành: Sử dụng các thư viện Numpy, Pandas, Matplotlib để phân tích dữ liệu | [3] Chương 3, 4, 5, 6,7 | Giảng viên: Nhắc lại một số lý thuyết Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài | Điểm danh Trả lời câu hỏi trong Seminar 5 Làm bài tập thực hành | 1.1 1.2 2.1 2.2 3.1 3.2\n13 | Seminar 7 Tổng kết lại kiến thức Bài kiểm tra cá nhân Chữa bài kiểm tra | - | Giảng viên: Tổng kết lại kiến thức Hướng dẫn trả lời câu hỏi trắc nghiệm Hướng dẫn thực hành Cung cấp bài kiểm tra Giới thiệu Rubric 2 Hướng dẫn cách nộp bài Sinh viên: Đọc tài liệu trước Theo dõi các bước thực hành Tham gia thảo luận Tham gia chữa bài Làm bài kiểm tra cá nhân | Điểm danh Bài kiểm tra cá nhân (Rubric 2) | 1.x 2.x 3.x\n14 | Seminar 8 Trình bày bài tập nhóm | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\n15 | Seminar 9 Trình bày bài tập nhóm Hệ thống lại học phần Hướng dẫn làm bài thi cuối kỳ | - | Giảng viên: Hướng dẫn trình bày bài tập nhóm Giới thiệu Rubric 3 Đặt câu hỏi cho các nhóm Sinh viên: Trình bày bài tập nhóm Thảo luận về phần trình bày của các nhóm | Điểm danh Bài tập nhóm (Rubric 3) | 1.x 2.x 3.x\nLịch thi | Thi cuối kỳ | Toàn bộ nội dung học | Tự luận trên máy | Phụ lục 1: Ma trận đề thi | 1.1 1.2",
       "word_count": 1265,
       "char_count": 5624,
@@ -262,13 +278,13 @@
       "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 61,
         "end_block": 62
       }
     },
     {
-      "chunk_id": "vi-cntt1180#010",
+      "chunk_id": "vi-cntt1180#011",
       "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
       "word_count": 40,
       "char_count": 182,
@@ -278,13 +294,13 @@
       "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
       "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 65,
         "end_block": 66
       }
     },
     {
-      "chunk_id": "vi-cntt1180#011",
+      "chunk_id": "vi-cntt1180#012",
       "text": "- Điểm chuyên cần đạt từ 5 trở lên (theo quy định chung của Trường)\n- Cách đánh giá điểm chuyên cần: xem Phụ lục 2, rubrics 1.",
       "word_count": 28,
       "char_count": 126,
@@ -295,13 +311,13 @@
       "primary_heading": "10.1. Quy định về điều kiện thi kết thúc học phần",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.1. Quy định về điều kiện thi kết thúc học phần",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 68,
         "end_block": 70
       }
     },
     {
-      "chunk_id": "vi-cntt1180#012",
+      "chunk_id": "vi-cntt1180#013",
       "text": "- Học viên có trách nhiệm tham dự đầy đủ các buổi học.\n- Trong trường hợp nghỉ học do lý do bất khả kháng thì cần chủ động tìm hiểu kiến thức thông qua tài liệu được giảng viên cung cấp và các tài liệu khác được yêu cầu đọc.",
       "word_count": 51,
       "char_count": 224,
@@ -312,13 +328,13 @@
       "primary_heading": "10.2. Quy định về tham dự lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.2. Quy định về tham dự lớp học",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 71,
         "end_block": 73
       }
     },
     {
-      "chunk_id": "vi-cntt1180#013",
+      "chunk_id": "vi-cntt1180#014",
       "text": "- Học phần được thực hiện trên nguyên tắc tôn trọng người học và người giảng.\n- Ghi chép đầy đủ, tham gia trả lời câu hỏi.\n- Đọc trước tài liệu được yêu cầu.\n- Làm các bài tập về nhà.\n- Không làm ồn, gây ảnh hưởng đến người khác, không ăn trong quá trình học.\n- Laptop, máy tính bảng, điện thoại di động chỉ được sử dụng cho mục đích ghi chép bài giảng, tính toán phục vụ học tập, tuyệt đối không dùng vào mục đích khác.",
       "word_count": 92,
       "char_count": 420,
@@ -329,13 +345,13 @@
       "primary_heading": "10.3. Quy định về hành vi trong lớp học",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.3. Quy định về hành vi trong lớp học",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 74,
         "end_block": 80
       }
     },
     {
-      "chunk_id": "vi-cntt1180#014",
+      "chunk_id": "vi-cntt1180#015",
       "text": "- Người học không nộp bài cá nhân / nhóm theo yêu cầu sẽ nhận điểm 0 (không).\n- Sau thời hạn cuối theo quy định, bài nộp muộn mỗi ngày sẽ trừ một điểm.",
       "word_count": 35,
       "char_count": 151,
@@ -346,13 +362,13 @@
       "primary_heading": "10.4. Quy định về nộp bài tập lớn",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation) > 10.4. Quy định về nộp bài tập lớn",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 81,
         "end_block": 84
       }
     },
     {
-      "chunk_id": "vi-cntt1180#015",
+      "chunk_id": "vi-cntt1180#016",
       "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS. Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
       "word_count": 15,
       "char_count": 71,
@@ -362,13 +378,13 @@
       "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
       "position": {
-        "order": 15,
+        "order": 16,
         "start_block": 86,
         "end_block": 88
       }
     },
     {
-      "chunk_id": "vi-cntt1180#016",
+      "chunk_id": "vi-cntt1180#017",
       "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên máy\n- Thời gian: 75 phút\n- Số câu hỏi: 5 câu. Mỗi câu 2 điểm\n- Ma trận đề thi (tự luận):\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 2 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 3 | 1.1 | 2 | - | - | - | -\na. | 1.1 | 1 | - | 1 | - | 1\nb. | 1.1 | 1 | - | - | 1 | 1\nCâu 4 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 5 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | 1 | - | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 5 | 5 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
       "word_count": 311,
       "char_count": 837,
@@ -379,33 +395,16 @@
       "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
-        "order": 16,
+        "order": 17,
         "start_block": 90,
         "end_block": 95
       }
     },
     {
-      "chunk_id": "vi-cntt1180#017",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
-      "heading_path": [
-        "PHỤ LỤC",
-        "Phụ lục 2. CÁC RUBRICS"
-      ],
-      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
-      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
-      "position": {
-        "order": 17,
-        "start_block": 99,
-        "end_block": 105
-      }
-    },
-    {
       "chunk_id": "vi-cntt1180#018",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
-      "word_count": 203,
-      "char_count": 875,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,15 +413,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 18,
-        "start_block": 105,
-        "end_block": 108
+        "start_block": 99,
+        "end_block": 103
       }
     },
     {
       "chunk_id": "vi-cntt1180#019",
-      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 3 | 2 | 8\nLecture 2 | 1.1 | 2 | 3 | 3 | 8\nLecture 3 | 1.1 | 3 | 4 | 3 | 10\nLecture 4 | 1.1 | 2 | 4 | 2 | 8\nLecture 5 | 1.1 | 2 | 2 | 2 | 6\nLecture 6 | 1.1, 1.2 | 3 | 4 | 3 | 10\nTổng số câu hỏi | - | 15 | 20 | 15 | 50\nTỷ trọng | - | 30% | 40% | 30% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý với chủ đề ví dụ Phân tích dữ liệu thống kê với Pandas và Matplotlib:\n- Thu thập một tập dữ liệu thống kê từ một nguồn đáng tin cậy.\n- Phân tích và làm sạch dữ liệu bằng Pandas.",
-      "word_count": 180,
-      "char_count": 624,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi GV yêu cầu trả lời; Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.",
+      "word_count": 153,
+      "char_count": 653,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -431,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 109,
-        "end_block": 115
+        "start_block": 104,
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1180#020",
-      "text": "- Trực quan hóa các phân tích thống kê bằng Matplotlib.\n- Sinh viên cần tạo một báo cáo tổng hợp về các phân tích và kết luận của mình.\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất các chủ đề khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
-      "word_count": 73,
-      "char_count": 318,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng” của sinh viên. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+      "word_count": 58,
+      "char_count": 258,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -448,12 +447,46 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 116,
-        "end_block": 120
+        "start_block": 106,
+        "end_block": 109
       }
     },
     {
       "chunk_id": "vi-cntt1180#021",
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 3 | 2 | 8\nLecture 2 | 1.1 | 2 | 3 | 3 | 8\nLecture 3 | 1.1 | 3 | 4 | 3 | 10\nLecture 4 | 1.1 | 2 | 4 | 2 | 8\nLecture 5 | 1.1 | 2 | 2 | 2 | 6\nLecture 6 | 1.1, 1.2 | 3 | 4 | 3 | 10\nTổng số câu hỏi | - | 15 | 20 | 15 | 50\nTỷ trọng | - | 30% | 40% | 30% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\nSinh viên được gợi ý với chủ đề ví dụ Phân tích dữ liệu thống kê với Pandas và Matplotlib:",
+      "word_count": 155,
+      "char_count": 516,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 109,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1180#022",
+      "text": "- Thu thập một tập dữ liệu thống kê từ một nguồn đáng tin cậy.\n- Phân tích và làm sạch dữ liệu bằng Pandas.\n- Trực quan hóa các phân tích thống kê bằng Matplotlib.\n- Sinh viên cần tạo một báo cáo tổng hợp về các phân tích và kết luận của mình.\nBên cạnh các ứng dụng trên, các nhóm sinh viên có thể tự do đề xuất các chủ đề khác, tuy nhiên cần có sự đồng ý của giáo viên dạy. Các tiêu chí để đánh giá sản phẩm của nhóm như sau:",
+      "word_count": 98,
+      "char_count": 426,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 114,
+        "end_block": 120
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1180#023",
       "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nChọn tập dữ liệu | 1.x 2.x 3.x | 10% | Chọn một tập dữ liệu lớn, đa dạng và phù hợp từ nguồn đáng tin cậy. | Chọn một tập dữ liệu phù hợp từ nguồn đáng tin cậy. | Chọn một tập dữ liệu cơ bản từ nguồn đáng tin cậy. | Không chọn tập dữ liệu hoặc chọn tập dữ liệu không phù hợp.\nPhân tích và làm sạch dữ liệu | 1.x 2.x 3.x | 20% | Thực hiện phân tích và làm sạch dữ liệu một cách kỹ lưỡng và toàn diện. Dữ liệu được làm sạch một cách hiệu quả và đáng tin cậy. | Thực hiện phân tích và làm sạch dữ liệu một cách tương đối kỹ lưỡng. Dữ liệu được làm sạch một cách đáng tin cậy. | Thực hiện phân tích và làm sạch dữ liệu một cách cơ bản. Dữ liệu có thể còn một số vấn đề không được xử lý. | Không thực hiện phân tích và làm sạch dữ liệu hoặc quá ít công việc được thực hiện.\nPhân tích thống kê | 1.x 2.x 3.x | 15% | Áp dụng các phương pháp thống kê đa dạng và phù hợp, có sự sáng tạo trong phân tích dữ liệu. Kết quả phân tích có ý nghĩa và được rút ra từ dữ liệu một cách logic. | Áp dụng các phương pháp thống kê cơ bản một cách chính xác. Kết quả phân tích có ý nghĩa và logic. | Chỉ áp dụng một số phương pháp thống kê cơ bản. Kết quả phân tích có thể không được kết luận rõ ràng hoặc có logic. | Không thực hiện phân tích thống kê hoặc kết quả phân tích không có ý nghĩa.\nTrực quan hóa dữ liệu | 1.x 2.x 3.x | 10% | Sử dụng Matplotlib để tạo ra các biểu đồ và đồ thị có thẩm mỹ, dễ hiểu và phản ánh rõ các kết quả phân tích. | Sử dụng Matplotlib để tạo ra các biểu đồ và đồ thị tương đối dễ hiểu và phản ánh các kết quả phân tích. | Tạo ra các biểu đồ và đồ thị cơ bản, không rõ ràng hoặc không thể hiện đầy đủ kết quả phân tích. | Không tạo ra các biểu đồ hoặc đồ thị hoặc chúng không phản ánh đúng kết quả phân tích.\nBáo cáo tổng hợp và kết luận | 1.x 2.x 3.x | 15% | Báo cáo tổng hợp có cấu trúc, chi tiết và logic. Báo cáo phản ánh được quá trình phân tích và kết luận sâu sắc từ kết quả. | Báo cáo tổng hợp có cấu trúc và đầy đủ. Báo cáo phản ánh được quá trình phân tích và kết luận từ kết quả. | Báo cáo tổng hợp đơn giản hoặc không đầy đủ. Báo cáo có thể thiếu cấu trúc hoặc không phản ánh được quá trình phân tích và kết luận. | Báo cáo tổng hợp hoặc báo cáo không có giá trị phân tích và kết luận.\nTính sáng tạo và phân tích sâu | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo trong quá trình phân tích và trực quan hóa dữ liệu. Phân tích có sự sáng tạo và sâu sắc, đưa ra nhận định mới và có ý nghĩa. | Thể hiện tính sáng tạo trong quá trình phân tích và trực quan hóa dữ liệu. Phân tích có ý nghĩa và logic, có thể đưa ra nhận định mới. | Thực hiện phân tích và trực quan hóa dữ liệu một cách cơ bản, không có sự sáng tạo hoặc phân tích sâu. | Không thể hiện tính sáng tạo trong quá trình phân tích và trực quan hóa dữ liệu, không có nhận định mới và ý nghĩa.\nTrình bày báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách logic và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp. | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi. | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và logic.",
       "word_count": 845,
       "char_count": 3568,
@@ -464,7 +497,7 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 21,
+        "order": 23,
         "start_block": 120,
         "end_block": 120
       }

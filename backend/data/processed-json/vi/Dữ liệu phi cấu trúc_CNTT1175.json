@@ -7,8 +7,8 @@
   "source_filename": "Dữ liệu phi cấu trúc_CNTT1175.docx",
   "source_relpath": "data\\raw\\vi\\Dữ liệu phi cấu trúc_CNTT1175.docx",
   "source_hash": "15cca52851d64ad80de16db67a9095f8",
-  "source_modified": "2025-10-11T10:42:50.624951+00:00",
-  "processed_at": "2025-10-12T13:24:16.470728+00:00",
+  "source_modified": "2025-10-19T17:31:17.217369+00:00",
+  "processed_at": "2025-11-05T15:52:48.514456+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 69,
     "headings": 21,
     "tables": 12,
-    "chunks": 21,
+    "chunks": 24,
     "words": 4569
   },
   "chunks": [
@@ -385,9 +385,9 @@
     },
     {
       "chunk_id": "vi-cntt1175#017",
-      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên máy\n- Thời gian: 75 phút\n- Số câu hỏi: 10 câu\nMa trận đề thi (tự luận):\nCâu 1, Câu 2, Câu 3 về MongoDB, các câu 4, 5 hỏi về Redis, Cassandra và Neo4J:\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 3 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | - | 1 | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 4 | 1.3 | 2 | - | - | - | -\na. | 1.3 | 1 | 1 | - | - | 1\nb. | 1.3 | 1 | - | 1 | - | 1\nCâu 5 | 1.3 | 2 | 1 | - | - | -\na. | 1.3 | 1 | - | 1 | - | 1\nb. | 1.3 | 1 | - | - | - | 1\nTổng số câu hỏi thành phần | - | 10 | 4 | 4 | 2 | 10\nTổng số điểm | - | 10 | 4 | 4 | 2 | 10\nTỷ trọng | - | 100% | 40% | 40% | 20% | 100%",
-      "word_count": 327,
-      "char_count": 913,
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Tự luận trên máy\n- Thời gian: 75 phút\n- Số câu hỏi: 10 câu\nMa trận đề thi (tự luận):\nCâu 1, Câu 2, Câu 3 về MongoDB, các câu 4, 5 hỏi về Redis, Cassandra và Neo4J:",
+      "word_count": 50,
+      "char_count": 212,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 1. MA TRẬN ĐỀ THI"
@@ -402,26 +402,26 @@
     },
     {
       "chunk_id": "vi-cntt1175#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 3 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | - | 1 | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nCâu 4 | 1.3 | 2 | - | - | - | -\na. | 1.3 | 1 | 1 | - | - | 1\nb. | 1.3 | 1 | - | 1 | - | 1\nCâu 5 | 1.3 | 2 | 1 | - | - | -\na. | 1.3 | 1 | - | 1 | - | 1\nb. | 1.3 | 1 | - | - | - | 1\nTổng số câu hỏi thành phần | - | 10 | 4 | 4 | 2 | 10\nTổng số điểm | - | 10 | 4 | 4 | 2 | 10\nTỷ trọng | - | 100% | 40% | 40% | 20% | 100%",
+      "word_count": 277,
+      "char_count": 700,
       "heading_path": [
         "PHỤ LỤC",
-        "Phụ lục 2. CÁC RUBRICS"
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
       ],
-      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
-      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
         "order": 18,
-        "start_block": 103,
-        "end_block": 109
+        "start_block": 100,
+        "end_block": 100
       }
     },
     {
       "chunk_id": "vi-cntt1175#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số (20%), hỏi về MongoDB, Câu 1,2 liên quan đến truy vấn thường, câu 3 liên quan đến chỉ mục, câu 4,5 liên quan đến các truy vấn tổng hợp.",
-      "word_count": 202,
-      "char_count": 835,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,12 +430,46 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 109,
-        "end_block": 112
+        "start_block": 103,
+        "end_block": 107
       }
     },
     {
       "chunk_id": "vi-cntt1175#020",
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 20,
+        "start_block": 108,
+        "end_block": 109
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1175#021",
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số (20%), hỏi về MongoDB, Câu 1,2 liên quan đến truy vấn thường, câu 3 liên quan đến chỉ mục, câu 4,5 liên quan đến các truy vấn tổng hợp.",
+      "word_count": 41,
+      "char_count": 186,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 111,
+        "end_block": 113
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1175#022",
       "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 3 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 4 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | 1 | - | - | 1\nb. | 1.1 1.2 | 1 | - | 1 | - | 1\nCâu 5 | 1.1 1.2 | 2 | - | - | - | -\na. | 1.1 1.2 | 1 | - | - | 1 | 1\nb. | 1.1 1.2 | 1 | - | - | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 4 | 4 | 2 | 10\nTổng số điểm | - | 10 | 4 | 4 | 2 | 10\nTỷ trọng | - | 100% | 40% | 40% | 20% | 100%",
       "word_count": 283,
       "char_count": 724,
@@ -446,16 +480,16 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 20,
+        "order": 22,
         "start_block": 113,
         "end_block": 113
       }
     },
     {
-      "chunk_id": "vi-cntt1175#021",
-      "text": "Rubrics 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến cơ sở dữ liệu phi cấu trúc, viết các chương trình minh hoạ và báo cáo trước lớp.\nTiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về CSDL | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về noSQL và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về noSQL, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về noSQL, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về noSQL, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp hợp lý | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nChương trình và minh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
-      "word_count": 514,
-      "char_count": 2163,
+      "chunk_id": "vi-cntt1175#023",
+      "text": "Rubrics 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên sẽ được giao nghiên cứu một công nghệ liên quan đến cơ sở dữ liệu phi cấu trúc, viết các chương trình minh hoạ và báo cáo trước lớp.",
+      "word_count": 52,
+      "char_count": 236,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -463,8 +497,25 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 21,
+        "order": 23,
         "start_block": 115,
+        "end_block": 118
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1175#024",
+      "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nHiểu biết về CSDL | 1.x 2.x 3.x | 25% | Có hiểu biết sâu rộng về noSQL và có thể áp dụng vào các vấn đề phức tạp. | Có kiến thức vững cơ bản về noSQL, có khả năng viết các chương trình linh hoạt và chính xác. | Có kiến thức cơ bản về noSQL, cần thêm hỗ trợ để giải quyết các vấn đề phức tạp. | Thiếu kiến thức cơ bản về noSQL, cần nhiều hỗ trợ và hướng dẫn để cải thiện khả năng lập trình.\nTính sáng tạo và sự đa dạng | 1.x 2.x 3.x | 25% | Tạo ra các giải pháp sáng tạo và đa dạng, sử dụng các cấu trúc dữ liệu và phương pháp hợp lý | Có khả năng tạo ra các giải pháp đa dạng và độc đáo, tuy không xuất sắc như ở mức độ giỏi. | Tạo ra các giải pháp lập trình cơ bản và không đa dạng, thiếu sự sáng tạo trong việc giải quyết vấn đề. | Thiếu khả năng tạo ra các giải pháp, gặp khó khăn trong việc áp dụng kiến thức vào việc giải quyết vấn đề\nChương trình và minh hoạ | 1.x 2.x 3.x | 25% | Tạo ra các chương trình và minh hoạ phức tạp và độc đáo, chất lượng cao. | Viết các chương trình và minh hoạ có chất lượng tốt, đáp ứng yêu cầu và sử dụng các công cụ linh hoạt. | Tạo ra các sản phẩm cơ bản, đáp ứng yêu cầu cơ bản, có thể cần sự hỗ trợ để cải thiện. | Gặp khó khăn trong việc viết chương trình và minh hoạ, cần sự hỗ trợ lớn để hoàn thành.\nTrình bày báo cáo | 1.x 2.x 3.x | 25% | Trình bày logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
+      "word_count": 462,
+      "char_count": 1926,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 24,
+        "start_block": 118,
         "end_block": 118
       }
     }

@@ -7,8 +7,8 @@
   "source_filename": "Mật mã và bảo mật thông tin_CNTT11105.docx",
   "source_relpath": "data\\raw\\vi\\Mật mã và bảo mật thông tin_CNTT11105.docx",
   "source_hash": "50847f7b8476b6a0f53b23ca3c39d256",
-  "source_modified": "2025-10-11T10:42:50.644553+00:00",
-  "processed_at": "2025-10-12T13:24:19.222297+00:00",
+  "source_modified": "2025-10-19T17:31:17.233503+00:00",
+  "processed_at": "2025-11-05T15:52:51.532348+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -115,7 +115,7 @@
     "paragraphs": 98,
     "headings": 20,
     "tables": 12,
-    "chunks": 25,
+    "chunks": 26,
     "words": 6881
   },
   "chunks": [
@@ -183,9 +183,9 @@
     },
     {
       "chunk_id": "vi-cntt11105#005",
-      "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các bài toán về mật mã và bảo mật thông tin trong thực tế. Đồng thời, học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n- Tổng quan chung về mật mã và bảo mật thông tin\n- Các phương pháp mã hóa đối xứng cổ điển\n- Các phương pháp mã hóa dòng trong mã hóa đối xứng hiện đại\n- Các phương pháp mã hóa khối trong mã hóa đối xứng hiện đại\n- Tính chứng thực và tính không thoái thác của mã hóa đối xứng\n- Trao đổi khóa bí mật bằng trung tâm phân phối khóa\n- Cơ sở toán học của mã hóa khóa công khai\n- Các hệ mã hóa khóa công khai\n- Trao đổi quản lý khóa công khai và hạ tầng cơ sở khóa công khai (PKI)\n- Các hàm băm",
-      "word_count": 181,
-      "char_count": 792,
+      "text": "Học phần rèn luyện kỹ năng tư duy, khả năng nghiên cứu, phát triển, phân tích, tổng hợp, giải quyết và đánh giá các bài toán về mật mã và bảo mật thông tin trong thực tế. Đồng thời, học phần cũng phát triển kỹ năng làm việc độc lập, làm việc nhóm và khả năng tự chủ, tự chịu trách nhiệm.\nNội dung chính:\n- Tổng quan chung về mật mã và bảo mật thông tin\n- Các phương pháp mã hóa đối xứng cổ điển\n- Các phương pháp mã hóa dòng trong mã hóa đối xứng hiện đại\n- Các phương pháp mã hóa khối trong mã hóa đối xứng hiện đại\n- Tính chứng thực và tính không thoái thác của mã hóa đối xứng\n- Trao đổi khóa bí mật bằng trung tâm phân phối khóa\n- Cơ sở toán học của mã hóa khóa công khai",
+      "word_count": 152,
+      "char_count": 675,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -194,14 +194,14 @@
       "position": {
         "order": 5,
         "start_block": 28,
-        "end_block": 39
+        "end_block": 36
       }
     },
     {
       "chunk_id": "vi-cntt11105#006",
-      "text": "- Các hệ chữ ký điện tử",
-      "word_count": 7,
-      "char_count": 23,
+      "text": "- Các hệ mã hóa khóa công khai\n- Trao đổi quản lý khóa công khai và hạ tầng cơ sở khóa công khai (PKI)\n- Các hàm băm\n- Các hệ chữ ký điện tử",
+      "word_count": 36,
+      "char_count": 140,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -209,15 +209,15 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 6,
-        "start_block": 40,
+        "start_block": 37,
         "end_block": 41
       }
     },
     {
       "chunk_id": "vi-cntt11105#007",
-      "text": "4.1. Giáo trình\n[1] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà Nội.\nTài liệu khác:\n[2] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.\n4.2. Tài liệu tham khảo\n[3] Lưu Minh Tuấn (2015), Slide bài giảng An toàn và bảo mật thông tin, Bộ môn CNTT - Viện CNTT & KTS (Lưu hành nội bộ).\n[4] Hà Huy Khoái, Phạm Huy Điển (2003), Số học thuật toán, NXB ĐHQGHN.\n[5] Bùi Doãn Khanh, Nguyễn Đình Thúc (2004), Mã hóa thông tin - Lý thuyết và ứng dụng, NXB Lao động xã hội.\n[6] Nguyễn Xuân Dũng (2007), Bảo mật thông tin - Mô hình và ứng dụng, NXB Thống kê.\n[7] Phan Đình Diệu (2002), Lý thuyết mật mã và an toàn thông tin, NXB ĐHQGHN.\n[8] VN – GUIDE (2006), Bảo mật trên mạng - Bí quyết & Giải pháp, NXB Thống Kê.\n[9] Edward Amoroso (1994), Fundamentals of Computer Security Technology (Bản dịch), Prentice Hall.\n[10] Douglas R. Stinson (1995), Cryptography Theory and practice, CRC Press.",
-      "word_count": 186,
-      "char_count": 981,
+      "text": "4.1. Giáo trình\n[1] Nguyễn Khanh Văn (2014), Giáo trình cơ sở an toàn thông tin, Nhà xuất bản Đại học Bách khoa Hà Nội.\nTài liệu khác:\n[2] William Stallings (2005), Cryptography and Network Security Principles and Practices, Fourth Edition.\n4.2. Tài liệu tham khảo\n[3] Lưu Minh Tuấn (2015), Slide bài giảng An toàn và bảo mật thông tin, Bộ môn CNTT - Viện CNTT & KTS (Lưu hành nội bộ).\n[4] Hà Huy Khoái, Phạm Huy Điển (2003), Số học thuật toán, NXB ĐHQGHN.\n[5] Bùi Doãn Khanh, Nguyễn Đình Thúc (2004), Mã hóa thông tin - Lý thuyết và ứng dụng, NXB Lao động xã hội.\n[6] Nguyễn Xuân Dũng (2007), Bảo mật thông tin - Mô hình và ứng dụng, NXB Thống kê.\n[7] Phan Đình Diệu (2002), Lý thuyết mật mã và an toàn thông tin, NXB ĐHQGHN.\n[8] VN – GUIDE (2006), Bảo mật trên mạng - Bí quyết & Giải pháp, NXB Thống Kê.",
+      "word_count": 162,
+      "char_count": 805,
       "heading_path": [
         "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
       ],
@@ -226,14 +226,14 @@
       "position": {
         "order": 7,
         "start_block": 42,
-        "end_block": 54
+        "end_block": 52
       }
     },
     {
       "chunk_id": "vi-cntt11105#008",
-      "text": "4.3. Phần mềm\n[11] Python. https://www.python.org/\n[12] Nordlocker. https://nordlocker.com/\n[13] Axcrypt. https://axcrypt.net/\n[14] Folderlock. https://www.newsoftwares.net/folderlock/\n[15] Aeppro. https://www.aeppro.com/",
-      "word_count": 18,
-      "char_count": 221,
+      "text": "[9] Edward Amoroso (1994), Fundamentals of Computer Security Technology (Bản dịch), Prentice Hall.\n[10] Douglas R. Stinson (1995), Cryptography Theory and practice, CRC Press.\n4.3. Phần mềm\n[11] Python. https://www.python.org/\n[12] Nordlocker. https://nordlocker.com/\n[13] Axcrypt. https://axcrypt.net/\n[14] Folderlock. https://www.newsoftwares.net/folderlock/\n[15] Aeppro. https://www.aeppro.com/",
+      "word_count": 42,
+      "char_count": 397,
       "heading_path": [
         "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)"
       ],
@@ -241,7 +241,7 @@
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "position": {
         "order": 8,
-        "start_block": 55,
+        "start_block": 53,
         "end_block": 61
       }
     },
@@ -429,9 +429,9 @@
     },
     {
       "chunk_id": "vi-cntt11105#020",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 165,
-      "char_count": 652,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: Có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 157,
+      "char_count": 615,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -441,14 +441,14 @@
       "position": {
         "order": 20,
         "start_block": 112,
-        "end_block": 118
+        "end_block": 116
       }
     },
     {
       "chunk_id": "vi-cntt11105#021",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng của sinh viên, trong đó: Cuối Lecture 1 các câu hỏi đánh giá đến mức “Phân tích”. Cuối Lecture 2, 3, 4, 5, 6 các câu hỏi đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”, “Đánh giá”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4 ở mức độ khó hơn để đánh giá khả năng “Phân tích” của sinh viên.",
-      "word_count": 252,
-      "char_count": 1108,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\nXung phong trả lời, chữa bài tập từ hai lần trở lên; Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; Đề xuất các vấn đề, chủ đề mới; Hoạt động nổi bật khác. | Xung phong trả lời câu hỏi; Xung phong chữa bài tập; Đặt câu hỏi thảo luận với lớp; Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; Trả lời tốt về bài tập nhóm. | Trả lời câu hỏi do giảng viên yêu cầu trả lời; Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; Có phát biểu ý kiến; Có trả lời về bài tập nhóm. | Không trả lời câu hỏi; Không trình bày đáp án bài tập; Không tham gia tương tác.",
+      "word_count": 156,
+      "char_count": 672,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -457,15 +457,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 118,
-        "end_block": 121
+        "start_block": 117,
+        "end_block": 118
       }
     },
     {
       "chunk_id": "vi-cntt11105#022",
-      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Phân tích | Đánh giá | Tổng số câu hỏi\nLecture 1 | 1.1 | - | - | - | 1 | - | 1\nLecture 2 | 1.2 | - | - | - | 1 | - | 1\nLecture 3 | 1.2 | - | - | - | - | - | -\nLecture 4 | 1.3 | - | - | - | 1 | - | 1\nLecture 5 | 1.3 | - | - | - | - | - | -\nLecture 6 | 1.4 | - | - | - | - | - | -\nTổng số câu hỏi | - | 0 | 0 | 0 | 3 | 0 | 3\nTỷ trọng | - | 0% | 0% | 0% | 100% | 0% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).\n- Sinh viên được gợi ý một số nhóm chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô đun, chức năng chương trình phần mềm thực hiện các hệ mã, chữ ký điện tử trong mật mã và bảo mật thông tin để giải quyết các bài toán trong thực tế. Ví dụ:",
-      "word_count": 228,
-      "char_count": 750,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%).\nCuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng của sinh viên, trong đó: Cuối Lecture 1 các câu hỏi đánh giá đến mức “Phân tích”. Cuối Lecture 2, 3, 4, 5, 6 các câu hỏi đánh giá khả năng “Nhớ”, “Hiểu”, “Vận dụng”, “Phân tích”, “Đánh giá”. Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi của Lecture 1, 2, 4 ở mức độ khó hơn để đánh giá khả năng “Phân tích” của sinh viên.",
+      "word_count": 104,
+      "char_count": 472,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -474,15 +474,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 22,
-        "start_block": 122,
-        "end_block": 125
+        "start_block": 119,
+        "end_block": 122
       }
     },
     {
       "chunk_id": "vi-cntt11105#023",
-      "text": "- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa cổ điển.\n- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa dòng trong mã hóa đối xứng.\n- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa khối DES (Data Encryption Standard), Double DES, Triple DES trong mã hóa đối xứng.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa khối AES trong mã hóa đối xứng.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa ba lô và hệ mã ba lô tạo chữ ký điện tử.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa RSA trong mã hóa khóa công khai.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa El-Gamal trong mã hóa khóa công khai.\n- Xây dựng hệ thống phần mềm thực hiện hệ chữ ký điện tử RSA.\n- Xây dựng hệ thống phần mềm thực hiện hệ chữ ký điện tử El-Gamal.\n- Xây dựng hệ thống phần mềm thực hiện hàm các băm SHA, MD5.",
-      "word_count": 186,
-      "char_count": 812,
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Phân tích | Đánh giá | Tổng số câu hỏi\nLecture 1 | 1.1 | - | - | - | 1 | - | 1\nLecture 2 | 1.2 | - | - | - | 1 | - | 1\nLecture 3 | 1.2 | - | - | - | - | - | -\nLecture 4 | 1.3 | - | - | - | 1 | - | 1\nLecture 5 | 1.3 | - | - | - | - | - | -\nLecture 6 | 1.4 | - | - | - | - | - | -\nTổng số câu hỏi | - | 0 | 0 | 0 | 3 | 0 | 3\nTỷ trọng | - | 0% | 0% | 0% | 100% | 0% | 100%",
+      "word_count": 152,
+      "char_count": 411,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -491,15 +491,15 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 23,
-        "start_block": 126,
-        "end_block": 135
+        "start_block": 122,
+        "end_block": 122
       }
     },
     {
       "chunk_id": "vi-cntt11105#024",
-      "text": "- Xây dựng hệ thống phần mềm thực hiện trao đỏi khóa Diffie - Hellman.\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:",
-      "word_count": 64,
-      "char_count": 282,
+      "text": "Rubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%).\n- Sinh viên được gợi ý một số nhóm chủ đề nghiên cứu, triển khai cài đặt thử nghiệm các mô đun, chức năng chương trình phần mềm thực hiện các hệ mã, chữ ký điện tử trong mật mã và bảo mật thông tin để giải quyết các bài toán trong thực tế. Ví dụ:\n- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa cổ điển.\n- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa dòng trong mã hóa đối xứng.\n- Xây dựng hệ thống phần mềm thực hiện các hệ mã hóa khối DES (Data Encryption Standard), Double DES, Triple DES trong mã hóa đối xứng.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa khối AES trong mã hóa đối xứng.",
+      "word_count": 156,
+      "char_count": 698,
       "heading_path": [
         "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
         "Phụ lục 2. CÁC RUBRICS"
@@ -508,12 +508,29 @@
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 24,
-        "start_block": 136,
-        "end_block": 138
+        "start_block": 123,
+        "end_block": 129
       }
     },
     {
       "chunk_id": "vi-cntt11105#025",
+      "text": "- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa ba lô và hệ mã ba lô tạo chữ ký điện tử.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa RSA trong mã hóa khóa công khai.\n- Xây dựng hệ thống phần mềm thực hiện hệ mã hóa El-Gamal trong mã hóa khóa công khai.\n- Xây dựng hệ thống phần mềm thực hiện hệ chữ ký điện tử RSA.\n- Xây dựng hệ thống phần mềm thực hiện hệ chữ ký điện tử El-Gamal.\n- Xây dựng hệ thống phần mềm thực hiện hàm các băm SHA, MD5.\n- Xây dựng hệ thống phần mềm thực hiện trao đỏi khóa Diffie - Hellman.\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá sản phẩm của Bài tập nhóm như sau:",
+      "word_count": 170,
+      "char_count": 735,
+      "heading_path": [
+        "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 25,
+        "start_block": 130,
+        "end_block": 137
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11105#026",
       "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nCơ sở lý thuyết và lập luận khoa học | 1.x 2.x 3.x | 20% | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật được lựa chọn áp dụng hiệu quả và độ tin cậy cao | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày tương đối đầy đủ, lôgíc, chặt chẽ. Các thuật toán, kỹ thuật lựa chọn áp dụng đáng tin cậy | Cơ sở lý thuyết, lập luận khoa học liên quan được trình bày cơ bản. Các thuật toán, kỹ thuật lựa chọn áp dụng tin cậy | Không trình bày được cơ sở lý thuyết, lập luận khoa học liên quan cơ bản hoặc quá ít cơ sở lý thuyết, lập luận khoa học liên quan được trình bày\nPhân tích, thiết kế các mô đun, chức năng và phân tích xử lý các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Thực hiện phân tích thiết kế các mô đun, chức năng đầy đủ, phù hợp và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản một cách chính xác và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có ý nghĩa, lôgíc và phù hợp | Thực hiện phân tích thiết kế các mô đun, chức năng cơ bản và phân tích xử lý các thuật toán, kỹ thuật áp dụng hợp lý. Kết quả phân tích thiết kế có thể không có ý nghĩa rõ ràng hoặc lôgíc | Không thực hiện phân tích thiết kế các mô đun, chức năng hoặc phân tích xử lý thuật toán, kỹ thuật áp dụng không hợp lý hoặc kết quả phân tích thiết kế không có ý nghĩa, không lôgíc\nCài đặt các mô đun, chức năng và tích hợp các thuật toán, kỹ thuật | 1.x 2.x 3.x | 20% | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý, có sự sáng tạo. Các môđun, chức năng phản ánh rõ các kết quả phân tích, thiết kế | Sử dụng ngôn ngữ lập trình, các thư viện hỗ trợ để tạo ra các môđun và chức năng tương đối đầy đủ, dễ sử dụng và tích hợp các thuật toán, kỹ thuật áp dụng hợp lý. Các môđun, chức năng phản ánh các kết quả phân tích thiết kế | Tạo tạo ra các môđun và chức năng giao diện cơ bản hoặc tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đầy đủ kết quả phân tích thiết kế | Không tạo ra các môđun và chức năng giao diện hoặc không tích hợp được các thuật toán, kỹ thuật áp dụng hoặc các môđun, chức năng không phản ánh đúng kết quả phân tích thiết kế\nTính sáng tạo trong phân tích xử lý giải quyết vấn đè | 1.x 2.x 3.x | 10% | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có sự sáng tạo, đưa ra những nhận định mới và có ý nghĩa | Thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng. Phân tích thiết kế, cài đặt có ý nghĩa và lôgíc, có thể đưa ra nhận định mới | Thực hiện phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng một cách cơ bản, không có sự sáng tạo, không có nhận định mới | Không thể hiện tính sáng tạo trong quá trình phân tích thiết kế, cài đặt các mô đun, chức năng giao diện, xử lý tích hợp các thuật toán, kỹ thuật áp dụng, không có nhận định mới và ý nghĩa\nBáo cáo tổng hợp và kết luận | 1.x 2.x 3.x | 20% | Báo cáo tổng hợp đầy đủ, có cấu trúc, chi tiết và lôgíc. Báo cáo phản ánh đầy đủ cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và có đánh giá sâu sắc từ kết quả | Báo cáo tổng hợp đầy đủ và có cấu trúc. Báo cáo phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá từ kết quả | Báo cáo tổng hợp sơ sài hoặc không đầy đủ. Báo cáo có thể thiếu cấu trúc hoặc phản ánh được ít cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá | Không có báo cáo tổng hợp hoặc báo cáo tổng hợp không phản ánh được cơ sở lý thuyết, lập luận khoa học, quá trình phân tích thiết kế, xử lý tích hợp thuật toán, kỹ thuật, cài đặt các mô đun, chức năng giao diện và đánh giá.\nThuyết trình báo cáo | 1.x 2.x 3.x | 10% | Trình bày logic, sáng tạo, và hấp dẫn. Có khả năng trả lời câu hỏi một cách lôgíc và dễ hiểu. | Trình bày đầy đủ, có cấu trúc. Sử dụng ngôn ngữ chính xác câu văn mạch lạc. Cần cải thiện trong khả năng trả lời câu hỏi và giao tiếp | Trình bày đơn giản. Không có cấu trúc rõ ràng Thiếu sự tự tin và sáng tạo. Có thể gặp khó khăn trong việc trình bày và trả lời câu hỏi | Trình bày thiếu logic. Không tự tin Thiếu sự kết nối giữa các ý kiến. Không thể trả lời câu hỏi một cách rõ ràng và lôgíc",
       "word_count": 1189,
       "char_count": 5167,
@@ -524,7 +541,7 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024. > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 25,
+        "order": 26,
         "start_block": 138,
         "end_block": 138
       }

@@ -7,8 +7,8 @@
   "source_filename": "Lý thuyết xác suất và thống kê toán_TOKT1145.docx",
   "source_relpath": "data\\raw\\vi\\Lý thuyết xác suất và thống kê toán_TOKT1145.docx",
   "source_hash": "2820288d550200ab3fe873ebbb733d14",
-  "source_modified": "2025-10-11T10:42:50.636202+00:00",
-  "processed_at": "2025-10-12T13:24:18.014243+00:00",
+  "source_modified": "2025-10-19T17:31:17.226493+00:00",
+  "processed_at": "2025-11-05T15:52:50.143365+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -177,14 +177,14 @@
       "position": {
         "order": 3,
         "start_block": 14,
-        "end_block": 20
+        "end_block": 18
       }
     },
     {
       "chunk_id": "vi-tokt1145#004",
-      "text": "Học phần cung cấp các kiến thức và kỹ năng trong phân tích dữ liệu và hỗ trợ ra quyết định, sử dụng các phương pháp xác suất và thống kê. Học phần gồm hai nội dung chính: (1) các kiến thức nền tảng về xác suất, phân phối xác suất, (2) các phương pháp thống kê. Nội dung thứ hai tập trung giới thiệu một số ứng dụng trong kinh tế - kinh doanh, bao gồm danh mục đầu tư, quản lý chất lượng. Học phần được giảng dạy theo định hướng ứng dụng, trong đó các tính toán phân tích đều được minh họa bằng ví dụ cụ thể, thực hiện trên phần mềm. Cuối mỗi chương của học phần, có các bài tập tình huống thực tế trong các lĩnh vực kinh tế - quản lý - quản trị kinh doanh – ngân hàng tài chính.\nNội dung chính\n- Thống kê mô tả;\n- Biến cố và Xác suất;\n- Biến ngẫu nhiên rời rạc, liên tục và phân phối xác suất;\n- Mẫu ngẫu nhiên và phân phối mẫu;",
-      "word_count": 184,
-      "char_count": 828,
+      "text": "Học phần cung cấp các kiến thức và kỹ năng trong phân tích dữ liệu và hỗ trợ ra quyết định, sử dụng các phương pháp xác suất và thống kê. Học phần gồm hai nội dung chính: (1) các kiến thức nền tảng về xác suất, phân phối xác suất, (2) các phương pháp thống kê. Nội dung thứ hai tập trung giới thiệu một số ứng dụng trong kinh tế - kinh doanh, bao gồm danh mục đầu tư, quản lý chất lượng. Học phần được giảng dạy theo định hướng ứng dụng, trong đó các tính toán phân tích đều được minh họa bằng ví dụ cụ thể, thực hiện trên phần mềm. Cuối mỗi chương của học phần, có các bài tập tình huống thực tế trong các lĩnh vực kinh tế - quản lý - quản trị kinh doanh – ngân hàng tài chính.\nNội dung chính",
+      "word_count": 152,
+      "char_count": 693,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -193,14 +193,14 @@
       "position": {
         "order": 4,
         "start_block": 21,
-        "end_block": 26
+        "end_block": 22
       }
     },
     {
       "chunk_id": "vi-tokt1145#005",
-      "text": "- Ước lượng tham số;\n- Kiểm định tham số và phi tham số;\n- Phân tích phương sai;\n- Thực hành trên số liệu thực tế.",
-      "word_count": 27,
-      "char_count": 114,
+      "text": "- Thống kê mô tả;\n- Biến cố và Xác suất;\n- Biến ngẫu nhiên rời rạc, liên tục và phân phối xác suất;\n- Mẫu ngẫu nhiên và phân phối mẫu;\n- Ước lượng tham số;\n- Kiểm định tham số và phi tham số;\n- Phân tích phương sai;\n- Thực hành trên số liệu thực tế.",
+      "word_count": 59,
+      "char_count": 249,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -208,7 +208,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 27,
+        "start_block": 23,
         "end_block": 32
       }
     },
@@ -425,14 +425,14 @@
       "position": {
         "order": 18,
         "start_block": 93,
-        "end_block": 99
+        "end_block": 97
       }
     },
     {
       "chunk_id": "vi-tokt1145#019",
-      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 8 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 169,
-      "char_count": 686,
+      "text": "Rubrics 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 8 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá) | Tham gia thảo luận (Giảng viên seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 161,
+      "char_count": 649,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -442,14 +442,14 @@
       "position": {
         "order": 19,
         "start_block": 100,
-        "end_block": 107
+        "end_block": 104
       }
     },
     {
       "chunk_id": "vi-tokt1145#020",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; | - Trả lời câu hỏi giảng viên yêu cầu trả lời; - Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; - Có phát biểu ý kiến; | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nCLO của đánh giá chuyên cần",
-      "word_count": 153,
-      "char_count": 631,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; | - Trả lời câu hỏi giảng viên yêu cầu trả lời; - Trình bày đáp án bài tập do giảng viên yêu cầu làm ở nhà; - Có phát biểu ý kiến; | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 155,
+      "char_count": 640,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -458,15 +458,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 107,
-        "end_block": 110
+        "start_block": 106,
+        "end_block": 107
       }
     },
     {
       "chunk_id": "vi-tokt1145#021",
-      "text": "Cách thức đánh giá | CLO | CLO\nCách thức đánh giá | 5.1 | 5.2\nĐiểm danh | - | -\nTrả lời câu hỏi, bài tập | - | -\nTham gia thảo luận | - | -\nĐặt câu hỏi thảo luận, đề xuất ý kiến cá nhân | - | -\nRubrics 2. Đánh giá bài kiểm tra tự luận\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Đánh giá qua kết quả làm đề kiểm tra tự luận\n- Tổng số câu hỏi: 10 câu (do giảng viên giảng seminar chuẩn bị)\n- Thời gian 50 phút",
-      "word_count": 108,
-      "char_count": 426,
+      "text": "CLO của đánh giá chuyên cần\nCách thức đánh giá | CLO | CLO\nCách thức đánh giá | 5.1 | 5.2\nĐiểm danh | - | -\nTrả lời câu hỏi, bài tập | - | -\nTham gia thảo luận | - | -\nĐặt câu hỏi thảo luận, đề xuất ý kiến cá nhân | - | -\nRubrics 2. Đánh giá bài kiểm tra tự luận\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Đánh giá qua kết quả làm đề kiểm tra tự luận\n- Tổng số câu hỏi: 10 câu (do giảng viên giảng seminar chuẩn bị)\n- Thời gian 50 phút",
+      "word_count": 114,
+      "char_count": 454,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -475,7 +475,7 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 21,
-        "start_block": 110,
+        "start_block": 109,
         "end_block": 117
       }
     },

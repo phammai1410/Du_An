@@ -7,8 +7,8 @@
   "source_filename": "Chuyên đề thực tế - An toàn thông tin_CNTT11101.docx",
   "source_relpath": "data\\raw\\vi\\Chuyên đề thực tế - An toàn thông tin_CNTT11101.docx",
   "source_hash": "df20e1b13b18bbcc14ea28cedecf5b5e",
-  "source_modified": "2025-10-11T10:42:50.617951+00:00",
-  "processed_at": "2025-10-12T13:24:15.530311+00:00",
+  "source_modified": "2025-10-19T17:31:17.211369+00:00",
+  "processed_at": "2025-11-05T15:52:47.534110+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -85,7 +85,7 @@
     "paragraphs": 33,
     "headings": 14,
     "tables": 9,
-    "chunks": 15,
+    "chunks": 16,
     "words": 1840
   },
   "chunks": [
@@ -121,9 +121,9 @@
     },
     {
       "chunk_id": "vi-cntt11101#003",
-      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nHọ tên | Điện thoại | Email\nTS. Nguyễn Trung Tuấn | 0913537768 | tuannt@neu.edu.vn\nTS. Phạm Minh Hoàn | 0949263666 | hoanpm@neu.edu.vn\nTS. Lưu Minh Tuấn | 0904143460 | tuanlm@neu.edu.vn\nTS. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn\nTS. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nThS. Tống Thị Minh Ngọc | 0913002241 | ngoctm@neu.edu.vn\nThS. Nguyễn Quỳnh Mai | 0983151792 | mainq@neu.edu.vn\nThS. Cao Thị Thu Hương | 0912916316 | huongct@neu.edu.vn\nTS. Phạm Xuân Lâm | 0937638683 | lampx@neu.edu.vn\nThS. Trần Thị Mỹ Diệp | 0904335056 | diepttm@neu.edu.vn\nThS. Phạm Đức Trung | 0978020906 | trungpd@neu.edu.vn\nThS. Phạm Thảo | 0966986689 | thaop@neu.edu.vn\nTS. Lê Thị Hoài Thu | 0912727528 | thulh@neu.edu.vn\nTS. Tống Thị Hảo Tâm | 0913520505 | tamtth@neu.edu.vn\nTS. Nguyễn Ngọc Tuấn | 0949877168 | tuannn@neu.edu.vn\n(Học phần có sự tham gia giảng dạy, hướng dẫn từ phía doanh nghiệp)",
-      "word_count": 184,
-      "char_count": 1088,
+      "text": "- Khoa/Viện quản lý học phần: Khoa Công nghệ thông tin\n- Địa chỉ: P.1310 - P.1312, Tòa nhà A1, Trường Đại học KTQD, 207 Giải Phóng, Hai Bà Trưng, Hà Nội\n- Giảng viên giảng dạy học phần:\nHọ tên | Điện thoại | Email\nTS. Nguyễn Trung Tuấn | 0913537768 | tuannt@neu.edu.vn\nTS. Phạm Minh Hoàn | 0949263666 | hoanpm@neu.edu.vn\nTS. Lưu Minh Tuấn | 0904143460 | tuanlm@neu.edu.vn\nTS. Nguyễn Thanh Hương | 0983168238 | huongnt_cntt@neu.edu.vn\nTS. Đặng Minh Quân | 0364102376 | quandm@neu.edu.vn\nThS. Tống Thị Minh Ngọc | 0913002241 | ngoctm@neu.edu.vn\nThS. Nguyễn Quỳnh Mai | 0983151792 | mainq@neu.edu.vn\nThS. Cao Thị Thu Hương | 0912916316 | huongct@neu.edu.vn\nTS. Phạm Xuân Lâm | 0937638683 | lampx@neu.edu.vn\nThS. Trần Thị Mỹ Diệp | 0904335056 | diepttm@neu.edu.vn\nThS. Phạm Đức Trung | 0978020906 | trungpd@neu.edu.vn\nThS. Phạm Thảo | 0966986689 | thaop@neu.edu.vn\nTS. Lê Thị Hoài Thu | 0912727528 | thulh@neu.edu.vn\nTS. Tống Thị Hảo Tâm | 0913520505 | tamtth@neu.edu.vn\nTS. Nguyễn Ngọc Tuấn | 0949877168 | tuannn@neu.edu.vn",
+      "word_count": 170,
+      "char_count": 1020,
       "heading_path": [
         "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
       ],
@@ -132,11 +132,27 @@
       "position": {
         "order": 3,
         "start_block": 17,
-        "end_block": 21
+        "end_block": 20
       }
     },
     {
       "chunk_id": "vi-cntt11101#004",
+      "text": "(Học phần có sự tham gia giảng dạy, hướng dẫn từ phía doanh nghiệp)",
+      "word_count": 14,
+      "char_count": 67,
+      "heading_path": [
+        "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)"
+      ],
+      "primary_heading": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "breadcrumbs": "2. KHOA/VIỆN QUẢN LÝ VÀ GIẢNG VIÊN GIẢNG DẠY (Management Faculty and Teachers)",
+      "position": {
+        "order": 4,
+        "start_block": 21,
+        "end_block": 22
+      }
+    },
+    {
+      "chunk_id": "vi-cntt11101#005",
       "text": "Chuyên đề thực tế là một phần quan trọng của chương trình học, giúp sinh viên áp dụng kiến thức và kỹ năng đã học trong môi trường thực tế. Chuyên đề này thường là một phần bắt buộc hoặc tùy chọn cuối cùng trong khóa học, có thể được tổ chức theo nhiều cách khác nhau tùy theo quy định của trường\nNội dung chính:\n- Giới thiệu về doanh nghiệp\n- Hiểu biết về môi trường doanh nghiệp\n- Tìm hiểu về các dự án doanh nghiệp đang thực hiện\n- ...",
       "word_count": 94,
       "char_count": 438,
@@ -146,13 +162,13 @@
       "primary_heading": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
-        "order": 4,
+        "order": 5,
         "start_block": 23,
         "end_block": 29
       }
     },
     {
-      "chunk_id": "vi-cntt11101#005",
+      "chunk_id": "vi-cntt11101#006",
       "text": "[1] Các tài liệu giảng viên và doanh nghiệp cung cấp",
       "word_count": 11,
       "char_count": 52,
@@ -162,13 +178,13 @@
       "primary_heading": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "breadcrumbs": "4. TÀI LIỆU HỌC TẬP (Learning resources: Course Books, Reference Books, and Softwares)",
       "position": {
-        "order": 5,
+        "order": 6,
         "start_block": 30,
         "end_block": 31
       }
     },
     {
-      "chunk_id": "vi-cntt11101#006",
+      "chunk_id": "vi-cntt11101#007",
       "text": "Bảng 1. Mục tiêu học phần\nMã / Code | Mô tả mục tiêu học phần (CG) | CĐR của CTĐT\n[1] | [2] | [3]\nCG1 | Học phần  cung cấp cho sinh viên một cái nhìn sâu sắc về môi trường làm việc thực tế trong các doanh nghiệp, đặc biệt là trong lĩnh vực khoa học máy tính. Qua đó, sinh viên không chỉ nắm bắt được kiến thức lý thuyết đã học mà còn có cơ hội áp dụng những kiến thức đó vào thực tiễn, giúp họ hiểu rõ hơn về các thách thức, yêu cầu và cơ hội trong ngành. | -\nCG2 | Học phần này còn nhấn mạnh việc phát triển kỹ năng tư duy phản biện và kỹ năng đánh giá giải pháp. Sinh viên được khuyến khích phân tích các cách thức mà doanh nghiệp đang áp dụng để giải quyết vấn đề, đánh giá hiệu quả của chúng và đề xuất các cải tiến có thể. Qua đó, sinh viên có thể hiểu rõ hơn về cách thức các công nghệ mới được triển khai và điều chỉnh cho phù hợp với mục tiêu và môi trường cụ thể của từng doanh nghiệp. | -\nCG3 | Học phần này cũng hướng đến việc xây dựng mối quan hệ giữa sinh viên và các doanh nghiệp. Thông qua các buổi tham quan, thực tập ngắn hạn, hoặc dự án cụ thể, sinh viên có cơ hội tiếp xúc trực tiếp với các chuyên gia trong ngành và xây dựng mạng lưới chuyên nghiệp, mở rộng các cơ hội nghề nghiệp trong tương lai. Mối quan hệ này không chỉ giúp sinh viên tích lũy kinh nghiệm mà còn có thể hỗ trợ họ trong việc tìm kiếm và giành lấy các cơ hội việc làm sau khi tốt nghiệp | -",
       "word_count": 312,
       "char_count": 1379,
@@ -178,13 +194,13 @@
       "primary_heading": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "breadcrumbs": "5. MỤC TIÊU HỌC PHẦN (Course Goals)",
       "position": {
-        "order": 6,
+        "order": 7,
         "start_block": 32,
         "end_block": 33
       }
     },
     {
-      "chunk_id": "vi-cntt11101#007",
+      "chunk_id": "vi-cntt11101#008",
       "text": "Bảng 2. Chuẩn đầu ra học phần (CLO)\nMục tiêu | CLOij | Mô tả CLO | Mức độ đạt được\n[1] | [2] | [3] | [4]\nCG1 | CLO1.1 | Áp dụng các kiến thức lý thuyết đã học vào việc giải quyết các vấn đề thực tế tại doanh nghiệp | 3\nCG1 | CLO1.2 | Phân tích và đánh giá hiệu quả của các giải pháp hiện đang được áp dụng trong doanh nghiệp, nhận diện các thách thức và đề xuất các cải tiến phù hợp. | 4\nCG1 | CLO1.3 | Đánh giá tính bền vững và khả năng mở rộng của các giải pháp dựa trên các yếu tố như chi phí, hiệu quả, và tác động đến môi trường doanh nghiệp, cũng như đề xuất các chiến lược cải tiến. | 5\nCG2 | CLO2.1 | Làm theo cách thức cài đặt và cấu hình cơ bản các hệ thống phần mềm và phần cứng dựa trên hướng dẫn hoặc mô hình đã được thực hiện tại doanh nghiệp, đảm bảo hiểu các bước cơ bản và áp dụng chúng một cách chính xác. | 1\nCG2 | CLO2.2 | Thực hành việc sử dụng các công cụ và phần mềm công nghệ thông tin theo hướng dẫn để thực hiện các tác vụ cụ thể, cài đặt phần mềm của doanh nghiệp, và kiểm tra các chức năng cơ bản. | 2\nCG2 | CLO2.3 | Thực hiện và điều chỉnh các thiết lập hệ thống dựa trên các yêu cầu cụ thể, hoặc cài đặt các bản cập nhật, theo các quy trình chuẩn cúa Doanh nghiệp, từ đó đánh giá được sản phẩm của doanh nghiệp | 2\nCG3 | CLO3.1 | Đặt câu hỏi và trả lời các câu hỏi Giáo viên và Doanh nghiệp đưa ra, hoàn thành các yêu cầu, bài tập thực hành tại Doanh nghiệp cũng như bài tập về nhà | 2\nCG3 | CLO3.2 | Tham gia thảo luận nhóm để giải quyết vấn đề mà Giáo viên hoặc Doanh nghiệp đưa ra, bảo vệ ý kiến cá nhân trước tập thể. | 2\nCG3 | CLO3.3 | Thực hiện dự án Giáo viên hoặc Doanh nghiệp giao cho, phối hợp được với các thành viên trong nhóm để hoàn thành công việc. | 2",
       "word_count": 393,
       "char_count": 1697,
@@ -194,13 +210,13 @@
       "primary_heading": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "breadcrumbs": "6. CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcomes)",
       "position": {
-        "order": 7,
+        "order": 8,
         "start_block": 36,
         "end_block": 37
       }
     },
     {
-      "chunk_id": "vi-cntt11101#008",
+      "chunk_id": "vi-cntt11101#009",
       "text": "Bảng 3. Đánh giá học phần\nHình thức đánh giá | Nội dung/ \nBài đánh giá | Thời điểm | CLOs | Công cụ và tiêu chí \nđánh giá | Tỷ lệ (%) | CĐR của CTĐT\n[1] | [2] | [3] | [4] | [5] | [6] | -\nĐánh giá quá trình | Thái độ trong khi đi thực tế | Trong thời gian đi thực tế | CLO1.x CLO2.x CLO3.x | Phụ lục: Rubric 1 | 50% | -\nĐánh giá sau khi thực tế | Báo cáo nộp cho giảng viên | Sau thời gian đi thực tế | CLO1.x CLO2.x CLO3.x | Phụ lục: Rubric 2 | 50% | -",
       "word_count": 115,
       "char_count": 452,
@@ -210,13 +226,13 @@
       "primary_heading": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
       "breadcrumbs": "7. ĐÁNH GIÁ HỌC PHẦN (Course Assessment)",
       "position": {
-        "order": 8,
+        "order": 9,
         "start_block": 40,
         "end_block": 43
       }
     },
     {
-      "chunk_id": "vi-cntt11101#009",
+      "chunk_id": "vi-cntt11101#010",
       "text": "Tham gia thực tế theo kế hoạch của Khoa/Viện",
       "word_count": 9,
       "char_count": 44,
@@ -226,13 +242,13 @@
       "primary_heading": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "breadcrumbs": "8. KẾ HOẠCH DẠY HỌC (Lesson Plan)",
       "position": {
-        "order": 9,
+        "order": 10,
         "start_block": 44,
         "end_block": 45
       }
     },
     {
-      "chunk_id": "vi-cntt11101#010",
+      "chunk_id": "vi-cntt11101#011",
       "text": "Hệ thống quản lý đào tạo tự động đánh giá mức độ đạt được CLO theo thuật toán chung của Trường. Chuẩn đầu ra của học phần được sinh viên và trường đánh giá sau thi kết thúc học phần.",
       "word_count": 40,
       "char_count": 182,
@@ -242,13 +258,13 @@
       "primary_heading": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
       "breadcrumbs": "9. ĐÁNH GIÁ CHUẨN ĐẦU RA HỌC PHẦN (Course Learning Outcome Assessment)",
       "position": {
-        "order": 10,
+        "order": 11,
         "start_block": 46,
         "end_block": 47
       }
     },
     {
-      "chunk_id": "vi-cntt11101#011",
+      "chunk_id": "vi-cntt11101#012",
       "text": "Tuân theo quy định của Khoa/Viện về buổi thực tế và sau khi đi thực tế",
       "word_count": 16,
       "char_count": 70,
@@ -258,13 +274,13 @@
       "primary_heading": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
       "breadcrumbs": "10. QUY ĐỊNH CỦA HỌC PHẦN (Course Requirements and Expectation)",
       "position": {
-        "order": 11,
+        "order": 12,
         "start_block": 48,
         "end_block": 50
       }
     },
     {
-      "chunk_id": "vi-cntt11101#012",
+      "chunk_id": "vi-cntt11101#013",
       "text": "PHỤ TRÁCH KHOA | HIỆU TRƯỞNG\nTS Phạm Xuân Lâm | GS.TS Phạm Hồng Chương",
       "word_count": 15,
       "char_count": 70,
@@ -274,13 +290,13 @@
       "primary_heading": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
       "breadcrumbs": "11. THỜI ĐIỂM HIỆU CHỈNH ĐỀ CƯƠNG (Syllabus Adjustment Time): Tháng 6 năm 2024.",
       "position": {
-        "order": 12,
+        "order": 13,
         "start_block": 52,
         "end_block": 55
       }
     },
     {
-      "chunk_id": "vi-cntt11101#013",
+      "chunk_id": "vi-cntt11101#014",
       "text": "- Trọng số trong điểm học phần: 50%\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
       "word_count": 152,
       "char_count": 588,
@@ -291,13 +307,13 @@
       "primary_heading": "Rubric 1. Đánh giá trong buổi đi thực tế",
       "breadcrumbs": "Phụ lục > Rubric 1. Đánh giá trong buổi đi thực tế",
       "position": {
-        "order": 13,
+        "order": 14,
         "start_block": 57,
-        "end_block": 61
+        "end_block": 60
       }
     },
     {
-      "chunk_id": "vi-cntt11101#014",
+      "chunk_id": "vi-cntt11101#015",
       "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Đặt câu hỏi thảo luận - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi được yêu cầu trả lời; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không tham gia tương tác.",
       "word_count": 123,
       "char_count": 494,
@@ -308,13 +324,13 @@
       "primary_heading": "Rubric 1. Đánh giá trong buổi đi thực tế",
       "breadcrumbs": "Phụ lục > Rubric 1. Đánh giá trong buổi đi thực tế",
       "position": {
-        "order": 14,
+        "order": 15,
         "start_block": 61,
         "end_block": 62
       }
     },
     {
-      "chunk_id": "vi-cntt11101#015",
+      "chunk_id": "vi-cntt11101#016",
       "text": "- Trọng số trong điểm học phần: 50%\nTiêu chí đánh giá | CLO | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nBáo cáo sau buổi thực tế | 1.x 2.x 3.x | Hiểu rõ, sâu sắc về vấn đề, sản phẩm của DN, đề xuất giải pháp thích hợp. Trình bày báo cáo logic, sáng tạo, và hấp dẫn. Sử dụng phương tiện trực quan hiệu quả để minh họa ý tưởng. | Hiểu biết về các vấn đề, sản phẩm của DN, đưa ra ý kiến, giải pháp. Trình bày đầy đủ, có cấu trúc, và sử dụng ngôn ngữ chính xác. Cần cải thiện tính sáng tạo và tương tác. | Cơ bản hiểu về vấn đề, sản phẩm của DN nhưng cần sự hỗ trợ để phát triển ý kiến và giải pháp. Trình bày đơn giản, không có cấu trúc rõ ràng, thiếu sự tự tin và sáng tạo. | Hiểu biết hạn chế, không nhận diện được các vấn đề, sản phẩm của DN và không đưa ra được giải pháp đáng chú ý. Trình bày thiếu logic, không tự tin, và thiếu sự kết nối giữa các ý kiến.",
       "word_count": 247,
       "char_count": 1029,
@@ -325,7 +341,7 @@
       "primary_heading": "Rubric 2. Đánh giá bài báo cáo",
       "breadcrumbs": "Phụ lục > Rubric 2. Đánh giá bài báo cáo",
       "position": {
-        "order": 15,
+        "order": 16,
         "start_block": 63,
         "end_block": 64
       }

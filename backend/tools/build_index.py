@@ -349,6 +349,7 @@ def main() -> int:
     parser.add_argument("--legacy-max-len", type=int, default=900)
     parser.add_argument("--legacy-overlap", type=int, default=150)
     parser.add_argument("--embed-max-len", type=int, default=default_embed_max_len)
+    parser.add_argument("--chunk-mode", type=str, default=None, help="Chunking mode used to prepare documents.")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--save-chunks", action="store_true")
     args = parser.parse_args()
@@ -547,6 +548,8 @@ def main() -> int:
         "created_at": datetime.now(timezone.utc).isoformat(),
         "data_dir": str(_normalize_path(args.data_dir)),
     }
+    if args.chunk_mode:
+        manifest["chunk_mode"] = args.chunk_mode
     if failed_indices:
         manifest["skipped_chunks"] = len(failed_indices)
 

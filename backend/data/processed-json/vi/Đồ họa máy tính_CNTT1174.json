@@ -7,8 +7,8 @@
   "source_filename": "Đồ họa máy tính_CNTT1174.docx",
   "source_relpath": "data\\raw\\vi\\Đồ họa máy tính_CNTT1174.docx",
   "source_hash": "515c8071861f0418684c6f7866f0d63b",
-  "source_modified": "2025-10-11T10:42:50.663620+00:00",
-  "processed_at": "2025-10-12T13:24:21.944577+00:00",
+  "source_modified": "2025-10-19T17:31:17.249506+00:00",
+  "processed_at": "2025-11-05T15:52:54.468168+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1174#004",
-      "text": "Học phần mang lại những kiến thức cơ bản về lý thuyết nền tảng về biểu diễn, xử lý đồ họa trên máy tính. Tổng quan về hệ thống đồ hoạ máy tính, các kỹ thuật đồ hoạ cơ bản trên máy tính, các phép biến đổi đồ hoạ trong không gian hai chiều, các phép biến đổi đồ hoạ trong không gian đồ hoạ ba chiều, các thuật toán vẽ, cắt trong đồ họa. Học phần cũng cung cấp tấp thêm cho sinh viên tìm hiểu một số công cụ xây dựng đồ họa liên quan đến hình ảnh, video tạo khả năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến đồ họa, có thể làm việc độc lập và làm việc theo nhóm. Người học có kỹ năng áp dụng trong môi trường xây dựng các bài toán về liên quan đến thiết kế đồ họa sau này.\nNội dung chính:\n- Cung cấp các kiến thức về hệ thống đồ hoạ máy tính\n- Các kỹ thuật đồ hoạ cơ bản trên máy tính",
-      "word_count": 182,
-      "char_count": 799,
+      "text": "Học phần mang lại những kiến thức cơ bản về lý thuyết nền tảng về biểu diễn, xử lý đồ họa trên máy tính. Tổng quan về hệ thống đồ hoạ máy tính, các kỹ thuật đồ hoạ cơ bản trên máy tính, các phép biến đổi đồ hoạ trong không gian hai chiều, các phép biến đổi đồ hoạ trong không gian đồ hoạ ba chiều, các thuật toán vẽ, cắt trong đồ họa. Học phần cũng cung cấp tấp thêm cho sinh viên tìm hiểu một số công cụ xây dựng đồ họa liên quan đến hình ảnh, video tạo khả năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến đồ họa, có thể làm việc độc lập và làm việc theo nhóm. Người học có kỹ năng áp dụng trong môi trường xây dựng các bài toán về liên quan đến thiết kế đồ họa sau này.",
+      "word_count": 155,
+      "char_count": 687,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,14 +183,14 @@
       "position": {
         "order": 4,
         "start_block": 24,
-        "end_block": 27
+        "end_block": 24
       }
     },
     {
       "chunk_id": "vi-cntt1174#005",
-      "text": "- Đồ hoạ trên mặt phẳng (đồ hoạ 2D).\n- Các phép biến đổi đồ hoạ trong mặt phẳng (tịnh tiến, co dãn, quay,..)\n- Các kỹ thuật vẽ hình chuyển động; các kỹ thuật đồ hoạ tương tác\n- Đồ họa trong không gian (đồ hoạ 3D)\n- Lập trình đồ hoạ và ứng dụng.\n- Sử dụng thư viện lập trình đồ họa OpenGL.",
-      "word_count": 66,
-      "char_count": 288,
+      "text": "Nội dung chính:\n- Cung cấp các kiến thức về hệ thống đồ hoạ máy tính\n- Các kỹ thuật đồ hoạ cơ bản trên máy tính\n- Đồ hoạ trên mặt phẳng (đồ hoạ 2D).\n- Các phép biến đổi đồ hoạ trong mặt phẳng (tịnh tiến, co dãn, quay,..)\n- Các kỹ thuật vẽ hình chuyển động; các kỹ thuật đồ hoạ tương tác\n- Đồ họa trong không gian (đồ hoạ 3D)\n- Lập trình đồ hoạ và ứng dụng.\n- Sử dụng thư viện lập trình đồ họa OpenGL.",
+      "word_count": 93,
+      "char_count": 400,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,7 +198,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 28,
+        "start_block": 25,
         "end_block": 35
       }
     },
@@ -402,9 +402,9 @@
     },
     {
       "chunk_id": "vi-cntt1174#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua: 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 165,
-      "char_count": 654,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua: 7 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+: có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 157,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -414,14 +414,14 @@
       "position": {
         "order": 18,
         "start_block": 100,
-        "end_block": 106
+        "end_block": 104
       }
     },
     {
       "chunk_id": "vi-cntt1174#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 106,
-        "end_block": 109
+        "start_block": 105,
+        "end_block": 106
       }
     },
     {
       "chunk_id": "vi-cntt1174#020",
-      "text": "Câu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
-      "word_count": 206,
-      "char_count": 554,
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\nCâu hỏi | CLOs | Số điểm | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi thành phần\nCâu 1 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | - | 1\nCâu 2 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 2 | - | - | 2 | 2\nCâu 3 | 1.1 1.2 1.3 | - | - | - | - | -\na. | 1.1 1.2 1.3 | 2 | - | 2 | - | 2\nb. | 1.1 1.2 1.3 | 1 | - | 1 | 1 | 1\nTổng số câu hỏi thành phần | - | 10 | 0 | 7 | 3 | 10\nTổng số điểm | - | 10 | 0 | 5 | 5 | -\nTỷ trọng | - | 100% | 0% | 50% | 50% | 100%",
+      "word_count": 228,
+      "char_count": 654,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,7 +447,7 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 110,
+        "start_block": 108,
         "end_block": 110
       }
     },

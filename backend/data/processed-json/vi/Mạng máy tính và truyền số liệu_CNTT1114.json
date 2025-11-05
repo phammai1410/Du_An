@@ -7,8 +7,8 @@
   "source_filename": "Mạng máy tính và truyền số liệu_CNTT1114.docx",
   "source_relpath": "data\\raw\\vi\\Mạng máy tính và truyền số liệu_CNTT1114.docx",
   "source_hash": "ee4f4a0bf012c3aa2fe7aae55220b013",
-  "source_modified": "2025-10-11T10:42:50.643552+00:00",
-  "processed_at": "2025-10-12T13:24:19.080700+00:00",
+  "source_modified": "2025-10-19T17:31:17.232503+00:00",
+  "processed_at": "2025-11-05T15:52:51.382643+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -120,7 +120,7 @@
     "paragraphs": 78,
     "headings": 21,
     "tables": 12,
-    "chunks": 22,
+    "chunks": 24,
     "words": 4784
   },
   "chunks": [
@@ -172,9 +172,9 @@
     },
     {
       "chunk_id": "vi-cntt1114#004",
-      "text": "Mạng máy tính và truyền số liệu là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về mạng máy tính và truyền số liệu: kiến trúc mạng, các giao thức truyền thông; Các kỹ thuật truyền số liệu: các phương pháp mã hóa điều chế, phát hiện lỗi và sửa lỗi, điều khiển truyền số liệu; Các yếu tố cơ bản và các thiết bị mạng LAN; Các kỹ thuật mạng diện rộng; Giao thức TCP/IP và các dịch vụ mạng Internet phổ biến.\nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống mạng máy tính. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về hệ thống mạng máy tính và truyền số liệu trong thực tế.\nNội dung chính:\n- Kiến trúc phân tầng và các mô hình mạng",
-      "word_count": 186,
-      "char_count": 857,
+      "text": "Mạng máy tính và truyền số liệu là học phần bắt buộc nằm trong khối kiến thức ngành của ngành Công nghệ thông tin. Học phần bao gồm các nội dung tổng quan về mạng máy tính và truyền số liệu: kiến trúc mạng, các giao thức truyền thông; Các kỹ thuật truyền số liệu: các phương pháp mã hóa điều chế, phát hiện lỗi và sửa lỗi, điều khiển truyền số liệu; Các yếu tố cơ bản và các thiết bị mạng LAN; Các kỹ thuật mạng diện rộng; Giao thức TCP/IP và các dịch vụ mạng Internet phổ biến.\nHọc phần cũng giúp sinh viên rèn luyện kỹ năng tư duy, khả năng tự tìm hiểu các kiến thức liên quan đến hệ thống mạng máy tính. Sinh viên có năng lực làm việc độc lập và làm việc theo nhóm. Sinh viên có thể vận dụng các kiến thức đã học để giải quyết các vấn đề về hệ thống mạng máy tính và truyền số liệu trong thực tế.",
+      "word_count": 173,
+      "char_count": 799,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -183,14 +183,14 @@
       "position": {
         "order": 4,
         "start_block": 23,
-        "end_block": 26
+        "end_block": 24
       }
     },
     {
       "chunk_id": "vi-cntt1114#005",
-      "text": "- Các loại kênh truyền\n- Các kỹ thuật mã hóa, điều chế\n- Các kỹ thuật phát hiện lỗi và sửa lỗi\n- Điều khiển truyền số liệu\n- Các kỹ thuật mạng cục bộ - LAN\n- Các kỹ thuật mạng diện rộng - WAN\n- Giao thức TCP, UDP, IP\n- Địa chỉ IPv4, IP6.\n- Chia các mạng con theo FLSM, VLSM.\n- Mạng Internet và một số ứng dụng",
-      "word_count": 74,
-      "char_count": 309,
+      "text": "Nội dung chính:\n- Kiến trúc phân tầng và các mô hình mạng\n- Các loại kênh truyền\n- Các kỹ thuật mã hóa, điều chế\n- Các kỹ thuật phát hiện lỗi và sửa lỗi\n- Điều khiển truyền số liệu\n- Các kỹ thuật mạng cục bộ - LAN\n- Các kỹ thuật mạng diện rộng - WAN\n- Giao thức TCP, UDP, IP\n- Địa chỉ IPv4, IP6.\n- Chia các mạng con theo FLSM, VLSM.\n- Mạng Internet và một số ứng dụng",
+      "word_count": 87,
+      "char_count": 367,
       "heading_path": [
         "3. MÔ TẢ HỌC PHẦN (Course Descriptions)"
       ],
@@ -198,7 +198,7 @@
       "breadcrumbs": "3. MÔ TẢ HỌC PHẦN (Course Descriptions)",
       "position": {
         "order": 5,
-        "start_block": 27,
+        "start_block": 25,
         "end_block": 38
       }
     },
@@ -385,9 +385,9 @@
     },
     {
       "chunk_id": "vi-cntt1114#017",
-      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 60 phút\n- Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):\nNội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 2 | 4 | 3 | 9\nLecture 2 | 1.2 | 2 | 7 | 5 | 14\nLecture 3 | 1.3 | 2 | 2 | 1 | 5\nLecture 4 | 1.3;1.4 | 2 | 3 | 2 | 7\nLecture 5 | 1.5 | 1 | 2 | 5 | 8\nLecture 6 | 1.5 | 1 | 2 | 4 | 7\nTổng số câu hỏi | - | 10 | 20 | 20 | 50\nTỷ trọng | - | 20% | 40% | 40% | 100%",
-      "word_count": 154,
-      "char_count": 512,
+      "text": "- Trọng số trong điểm học phần: 50%\n- Hình thức: Thi trắc nghiệm khách quan trên máy tính\n- Thời gian: 60 phút\n- Số câu hỏi: 50 câu. Mỗi câu 0,2 điểm\nMa trận đề thi (trắc nghiệm):",
+      "word_count": 40,
+      "char_count": 179,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 1. MA TRẬN ĐỀ THI"
@@ -397,31 +397,31 @@
       "position": {
         "order": 17,
         "start_block": 93,
-        "end_block": 100
+        "end_block": 98
       }
     },
     {
       "chunk_id": "vi-cntt1114#018",
-      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.\nTiêu chí đánh giá tham gia thảo luận",
-      "word_count": 166,
-      "char_count": 654,
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Vận dụng | Tổng số câu hỏi\nLecture 1 | 1.1 | 2 | 4 | 3 | 9\nLecture 2 | 1.2 | 2 | 7 | 5 | 14\nLecture 3 | 1.3 | 2 | 2 | 1 | 5\nLecture 4 | 1.3;1.4 | 2 | 3 | 2 | 7\nLecture 5 | 1.5 | 1 | 2 | 5 | 8\nLecture 6 | 1.5 | 1 | 2 | 4 | 7\nTổng số câu hỏi | - | 10 | 20 | 20 | 50\nTỷ trọng | - | 20% | 40% | 40% | 100%",
+      "word_count": 114,
+      "char_count": 332,
       "heading_path": [
         "PHỤ LỤC",
-        "Phụ lục 2. CÁC RUBRICS"
+        "Phụ lục 1. MA TRẬN ĐỀ THI"
       ],
-      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
-      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "primary_heading": "Phụ lục 1. MA TRẬN ĐỀ THI",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 1. MA TRẬN ĐỀ THI",
       "position": {
         "order": 18,
-        "start_block": 101,
-        "end_block": 107
+        "start_block": 98,
+        "end_block": 100
       }
     },
     {
       "chunk_id": "vi-cntt1114#019",
-      "text": "Rất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.\nRubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)",
-      "word_count": 183,
-      "char_count": 748,
+      "text": "Rubric 1. Đánh giá điểm chuyên cần\n- Trọng số trong điểm học phần: 10%\n- Đánh giá qua 9 buổi seminar.\nSố buổi vắng (điểm danh) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá) | Tham gia thảo luận (GV seminar đánh giá)\nSố buổi vắng (điểm danh) | Rất tích cực | Tích cực | Có tham gia | Không tham gia\n0 | 10, 10+ | 9 | 8 | 7\n1 | 9, 10 | 8 | 7 | 6\n2 | 8, 9 | 7 | 6 | 5\n> 2 | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại | 0 điểm, học lại\n* Ghi chú: 10+ : có thể xem xét để cộng điểm vào điểm đánh giá 40% khi điểm chuyên cần là 10.",
+      "word_count": 158,
+      "char_count": 617,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -430,15 +430,15 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 19,
-        "start_block": 107,
-        "end_block": 111
+        "start_block": 101,
+        "end_block": 105
       }
     },
     {
       "chunk_id": "vi-cntt1114#020",
-      "text": "- Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên.\n- Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.\nNội dung | CLOs | Nhớ | Hiểu | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 3 | 6\nLecture 2 | 1.2 | 3 | 6 | 9\nLecture 3 | 1.3 | 3 | 3 | 6\nLecture 4 | 1.3;1.4 | 3 | 3 | 6\nLecture 5 | 1.5 | 3 | 4 | 7\nLecture 6 | 1.5 | 3 | 3 | 6\nTổng số câu hỏi | - | 18 | 22 | 40\nTỷ trọng | - | 45% | 55% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên được gợi ý một số chủ đề nghiên cứu, cập nhật công nghệ mới. Ví dụ các công nghệ, các chuẩn, kỹ thuật, tiêu chuẩn kỹ thuật, thiết bị, mô hình, giải pháp, xu hướng phát triển,… trong các lĩnh vực:",
-      "word_count": 195,
-      "char_count": 735,
+      "text": "Tiêu chí đánh giá tham gia thảo luận\nRất tích cực | Tích cực | Có tham gia | Không tham gia\n- Xung phong trả lời, chữa bài tập từ hai lần trở lên; - Chủ động trình bày vấn đề và ý kiến cá nhân, thảo luận; - Đề xuất các vấn đề, chủ đề mới; - Hoạt động nổi bật khác. | - Xung phong trả lời câu hỏi; - Xung phong chữa bài tập; - Đặt câu hỏi thảo luận với lớp; - Trả lời đúng câu hỏi mà các sinh viên khác chưa trả lời được; - Trả lời tốt về bài tập nhóm. | - Trả lời câu hỏi GV yêu cầu trả lời; - Trình bày đáp án bài tập do GV yêu cầu làm ở nhà; - Có phát biểu ý kiến; - Có trả lời về bài tập nhóm. | - Không trả lời câu hỏi; - Không trình bày đáp án bài tập; - Không tham gia tương tác.",
+      "word_count": 169,
+      "char_count": 685,
       "heading_path": [
         "PHỤ LỤC",
         "Phụ lục 2. CÁC RUBRICS"
@@ -447,12 +447,46 @@
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
         "order": 20,
-        "start_block": 112,
-        "end_block": 118
+        "start_block": 106,
+        "end_block": 107
       }
     },
     {
       "chunk_id": "vi-cntt1114#021",
+      "text": "Rubric 2. Đánh giá bài kiểm tra cá nhân\n- Trọng số: 20% (thành phần thứ nhất của điểm đánh giá 40%)\n- Cuối mỗi Lecture có 10 câu hỏi để đánh giá khả năng “Nhớ”, “Hiểu” của sinh viên.\n- Bài kiểm tra cá nhân sẽ hỏi lại các câu hỏi này ở mức độ khó hơn.",
+      "word_count": 58,
+      "char_count": 250,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 21,
+        "start_block": 110,
+        "end_block": 114
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1114#022",
+      "text": "Nội dung | CLOs | Nhớ | Hiểu | Tổng số câu hỏi\nLecture 1 | 1.1 | 3 | 3 | 6\nLecture 2 | 1.2 | 3 | 6 | 9\nLecture 3 | 1.3 | 3 | 3 | 6\nLecture 4 | 1.3;1.4 | 3 | 3 | 6\nLecture 5 | 1.5 | 3 | 4 | 7\nLecture 6 | 1.5 | 3 | 3 | 6\nTổng số câu hỏi | - | 18 | 22 | 40\nTỷ trọng | - | 45% | 55% | 100%\nRubric 3. Đánh giá bài tập nhóm\n- Trọng số: 20% (thành phần thứ hai của điểm đánh giá 40%)\n- Sinh viên được gợi ý một số chủ đề nghiên cứu, cập nhật công nghệ mới. Ví dụ các công nghệ, các chuẩn, kỹ thuật, tiêu chuẩn kỹ thuật, thiết bị, mô hình, giải pháp, xu hướng phát triển,… trong các lĩnh vực:",
+      "word_count": 159,
+      "char_count": 584,
+      "heading_path": [
+        "PHỤ LỤC",
+        "Phụ lục 2. CÁC RUBRICS"
+      ],
+      "primary_heading": "Phụ lục 2. CÁC RUBRICS",
+      "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
+      "position": {
+        "order": 22,
+        "start_block": 114,
+        "end_block": 118
+      }
+    },
+    {
+      "chunk_id": "vi-cntt1114#023",
       "text": "- Thông tin quang\n- Thông tin di động\n- Thông tin vệ tinh\n- Kết nối mạng Internet\n- Điện toán đám mây\n- Internet of Things (IoT)\n- An toàn và bảo mật thông tin trên mạng\nBên cạnh các nhóm chủ đề trên, các nhóm sinh viên có thể đề xuất các chủ đề khác cho Bài tập nhóm, tuy nhiên cần có sự đồng ý của giảng viên giảng dạy. Các tiêu chỉ để đánh giá kết quả của Bài tập nhóm như sau:",
       "word_count": 88,
       "char_count": 380,
@@ -463,13 +497,13 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 21,
+        "order": 23,
         "start_block": 119,
         "end_block": 128
       }
     },
     {
-      "chunk_id": "vi-cntt1114#022",
+      "chunk_id": "vi-cntt1114#024",
       "text": "Tiêu chí đánh giá | CLO | Trọng số (%) | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng | Mô tả mức chất lượng\nTiêu chí đánh giá | CLO | Trọng số (%) | Giỏi | Khá | Trung bình | Yếu\nTiêu chí đánh giá | CLO | Trọng số (%) | 8,5-10 | 7,0 – 8.4 | 4,5 – 6,9 | 0 - 4,4\nChủ đề - mục tiêu | 1.x 2.x 3.x | 10% | - Mục tiêu rõ ràng, logic, hợp lí, phù hợp với chủ đề - Có câu hỏi nghiên cứu cụ thể | - Mục tiêu rõ ràng - Câu hỏi nghiên cứu không rõ | - Mục tiêu không rõ - Câu hỏi nghiên cứu chưa phù hợp | - Mục tiêu không thực tế hoặc không có mục tiêu - Không có câu hỏi nghiên cứu\nNội dung | 1.x 2.x 3.x | 50% | - Kiến thức lý thuyết khoa học, đầy đủ, logic; - Có các ứng dụng phù hợp, chất lượng cao. | - Kiến thức lý thuyết đầy đủ, phù hợp; - Có ứng dụng. - chủ đề thiếu tính mới | - Kiến thức lý thuyết không đầy đủ; - Không có ứng dụng. | - Kiến thức lý thuyết không phù hợp hoặc không có kiến thức\nTrình bày quyển Báo cáo | 1.x 2.x 3.x | 20% | - Đúng định dạng yêu cầu; - Ngôn ngữ khoa học, logic, chặt chẽ, không lỗi chính tả; - Biểu đồ, bảng biểu đẹp, danh mục tham khảo theo chuẩn quốc tế. - Có sự sáng tạo và hấp dẫn | - Đúng định dạng yêu cầu; - Ngôn ngữ phù hợp, có ít lỗi chính tả, ngữ pháp; - Biểu đồ, bảng biểu phù hợp, danh mục tham khảo đầy đủ. - Thiếu tính sáng tạo, | - Chưa đúng định dạng yêu cầu; - Trình bày đơn giản, không rõ ràng - Ngôn ngữ chưa phù hợp, nhiều lỗi chính tả, ngữ pháp; - Biểu đồ bảng biểu không phù hợp hoặc không có. | - Không có định dạng; - Thiếu logic - Ngôn ngữ không phù hợp.\nThuyết trình và tương tác trả lời câu hỏi | 1.x 2.x 3.x | 20% | - Thể hiện sự hiểu biết sâu sắc về chủ đề; trình bày logic, sáng tạo, và hấp dẫn; tương tác tích cực. - Trả lời được tất cả các câu hỏi. | Thể hiện sự hiểu biết về chủ đề; nội dung trình bày đầy đủ, có cấu trúc nhưng chưa sáng tạo. Trả lời được 2/3 các câu hỏi. | - Thể hiện hiểu biết về chủ đề chưa sâu; trình bày đơn giản, không có cấu trúc rõ ràng; chưa tự tin khi tương tác, trao đổi. - Trả lời được 1/2 các câu hỏi. | - Thể hiện chưa rõ chủ đề; không tự tin khi tương tác. - Trả lời được dưới 1/2 số câu hỏi",
       "word_count": 513,
       "char_count": 2112,
@@ -480,7 +514,7 @@
       "primary_heading": "Phụ lục 2. CÁC RUBRICS",
       "breadcrumbs": "PHỤ LỤC > Phụ lục 2. CÁC RUBRICS",
       "position": {
-        "order": 22,
+        "order": 24,
         "start_block": 128,
         "end_block": 128
       }

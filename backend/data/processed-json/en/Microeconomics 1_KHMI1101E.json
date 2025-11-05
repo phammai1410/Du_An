@@ -7,8 +7,8 @@
   "source_filename": "Microeconomics 1_KHMI1101E.docx",
   "source_relpath": "data\\raw\\en\\Microeconomics 1_KHMI1101E.docx",
   "source_hash": "a9cf5fa76de7c62ba4ff623bac21e3b9",
-  "source_modified": "2025-10-11T10:42:50.601947+00:00",
-  "processed_at": "2025-10-12T13:24:13.853224+00:00",
+  "source_modified": "2025-10-19T17:31:17.196365+00:00",
+  "processed_at": "2025-11-05T15:52:45.842158+00:00",
   "outline": [
     {
       "sequence": 1,
@@ -105,9 +105,9 @@
     },
     {
       "chunk_id": "en-khmi1101e#002",
-      "text": "* Title: Microeconomics 1\tCode: KHMI1101E\n* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)\n* Credit hours for teaching and learning activities:\n+ Lecture: 27 hrs\n+ Exercise and discussion: 18 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): None.\n* Department conducting the course:\n+ Faculty: Economics\nAddress: 801-3, Building A1, National Economics University\nTel: 024 36 280280 Ext: 5817 – 5819\n+ Department: Microeconomics\n+ Lecturers:\n1 Assoc. Prof. Vu Kim Dung, PhD\tTel: 0912045463\tEmail: Dungvk@neu.edu.vn\n2 Assoc. Prof. Pham Van Minh, PhD\tTel: 0904240700\tEmail: Minhpv@neu.edu.vn\n3 Assoc. Prof. Cao Thuy Xiem, PhD\tTel: 0904538601\tEmail: Xiemct@neu.edu.vn\n4 Dinh Thien Duc, PhD\tTel: 0913214246\tEmail: Ducdt@neu.edu.vn\n5 Hoang Thi Thuy Nga, PhD\tTel: 0968158777\tEmail: Ngaht@neu.edu.vn\n6 Ngo Tuan Anh, PhD\tTel: 0926992989\tEmail: Ngotuananh@neu.edu.vn\n7 Dong Thi Ha, PhD\tTel: 0912440609\tEmail: Hadtkth@neu.edu.vn\n8 Doan Viet Dung, PhD\tTel: 0947171333\tEmail: Dungdv@neu.edu.vn\n9 Nguyen Hoai Son, PhD\tTel: 0904025016\tEmail: Hoaisonkt@gmail.com\n10 Assoc. Prof. Vu Ngoc Xuan, PhD\tTel: 0916866655\tEmail: Xuanvn@neu.edu.vn\n11 Le Thanh Ha, PhD\tTel: 0899464808\tEmail: Lethanhha@neu.edu.vn",
-      "word_count": 187,
-      "char_count": 1255,
+      "text": "* Title: Microeconomics 1\tCode: KHMI1101E\n* Credits: three-credit course (45 credit hours; 1 credit hour = 50 minutes of lecture)\n* Credit hours for teaching and learning activities:\n+ Lecture: 27 hrs\n+ Exercise and discussion: 18 hrs\n+ Self-study: 90 hrs.\n* Parallel course(s): None.\n* Prerequisite course(s): None.\n* Department conducting the course:\n+ Faculty: Economics\nAddress: 801-3, Building A1, National Economics University\nTel: 024 36 280280 Ext: 5817 – 5819\n+ Department: Microeconomics\n+ Lecturers:\n1 Assoc. Prof. Vu Kim Dung, PhD\tTel: 0912045463\tEmail: Dungvk@neu.edu.vn\n2 Assoc. Prof. Pham Van Minh, PhD\tTel: 0904240700\tEmail: Minhpv@neu.edu.vn\n3 Assoc. Prof. Cao Thuy Xiem, PhD\tTel: 0904538601\tEmail: Xiemct@neu.edu.vn\n4 Dinh Thien Duc, PhD\tTel: 0913214246\tEmail: Ducdt@neu.edu.vn\n5 Hoang Thi Thuy Nga, PhD\tTel: 0968158777\tEmail: Ngaht@neu.edu.vn\n6 Ngo Tuan Anh, PhD\tTel: 0926992989\tEmail: Ngotuananh@neu.edu.vn\n7 Dong Thi Ha, PhD\tTel: 0912440609\tEmail: Hadtkth@neu.edu.vn\n8 Doan Viet Dung, PhD\tTel: 0947171333\tEmail: Dungdv@neu.edu.vn",
+      "word_count": 158,
+      "char_count": 1050,
       "heading_path": [
         "1. COURSE INFORMATION"
       ],
@@ -116,14 +116,14 @@
       "position": {
         "order": 2,
         "start_block": 3,
-        "end_block": 27
+        "end_block": 24
       }
     },
     {
       "chunk_id": "en-khmi1101e#003",
-      "text": "12 Nguyen Pham Anh, MSc\tTel: 0983762605\tEmail: Anhnp@neu.edu.vn\n13 Dang Thi Hoa, MSc\tTel: 0977382205\tEmail: Dangthihoa@neu.edu.vn\n14 Hoang Thi Chinh Thon, MSc\tTel: 0868132052\tEmail: Chinhthon@neu.edu.vn\n15 Pham Xuan Nam, MSc\tTel: 0972172467\tEmail: Nampx@neu.edu.vn\n16 Truong Nhu Hieu, MSc\tTel: 0989048666\tEmail: Hieutn@neu.edu.vn\n17 Nguyen Ngoc Anh, MSc\tTel: 0916704558\tEmail: Nnanh@neu.edu.vn\n* Kind of the course:",
-      "word_count": 60,
-      "char_count": 415,
+      "text": "9 Nguyen Hoai Son, PhD\tTel: 0904025016\tEmail: Hoaisonkt@gmail.com\n10 Assoc. Prof. Vu Ngoc Xuan, PhD\tTel: 0916866655\tEmail: Xuanvn@neu.edu.vn\n11 Le Thanh Ha, PhD\tTel: 0899464808\tEmail: Lethanhha@neu.edu.vn\n12 Nguyen Pham Anh, MSc\tTel: 0983762605\tEmail: Anhnp@neu.edu.vn\n13 Dang Thi Hoa, MSc\tTel: 0977382205\tEmail: Dangthihoa@neu.edu.vn\n14 Hoang Thi Chinh Thon, MSc\tTel: 0868132052\tEmail: Chinhthon@neu.edu.vn\n15 Pham Xuan Nam, MSc\tTel: 0972172467\tEmail: Nampx@neu.edu.vn\n16 Truong Nhu Hieu, MSc\tTel: 0989048666\tEmail: Hieutn@neu.edu.vn\n17 Nguyen Ngoc Anh, MSc\tTel: 0916704558\tEmail: Nnanh@neu.edu.vn\n* Kind of the course:",
+      "word_count": 89,
+      "char_count": 620,
       "heading_path": [
         "1. COURSE INFORMATION"
       ],
@@ -131,7 +131,7 @@
       "breadcrumbs": "1. COURSE INFORMATION",
       "position": {
         "order": 3,
-        "start_block": 28,
+        "start_block": 25,
         "end_block": 35
       }
     },
@@ -230,7 +230,7 @@
       "position": {
         "order": 9,
         "start_block": 54,
-        "end_block": 56
+        "end_block": 55
       }
     },
     {
