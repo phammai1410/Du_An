@@ -50,6 +50,12 @@ DEFAULT_CHUNK_SIZE = 1200
 DEFAULT_CHUNK_OVERLAP = 200
 DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
 DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
+LOCALAI_IMAGE = os.getenv("LOCALAI_IMAGE", "localai/localai:latest")
+LOCALAI_CONTAINER_NAME = os.getenv("LOCALAI_CONTAINER_NAME", "localai-runtime")
+LOCALAI_PORT = int(os.getenv("LOCALAI_PORT", "8080"))
+LOCALAI_RUNTIME_MODEL = os.getenv("LOCALAI_RUNTIME_MODEL", "llama-3.2-1b-instruct:q4_k_m")
+LOCALAI_COMPOSE_PROJECT = os.getenv("LOCALAI_COMPOSE_PROJECT", "khoa_luan")
+LOCALAI_COMPOSE_SERVICE = os.getenv("LOCALAI_COMPOSE_SERVICE", "localai")
 SMALL_TALK_KEYWORDS = {
     "hi",
     "hello",
@@ -327,7 +333,7 @@ def localai_is_running() -> bool:
                 "--format",
                 "{{.Names}}",
                 "--filter",
-                "name=localai",
+                f"name={LOCALAI_CONTAINER_NAME}",
             ],
             capture_output=True,
             text=True,
@@ -345,10 +351,32 @@ def localai_is_running() -> bool:
 
 
 def start_localai_service() -> tuple[bool, str]:
+    if localai_is_running():
+        return True, "LocalAI service already running."
     try:
         result = subprocess.run(
-            ["docker", "compose", "up", "-d", "localai"],
-            cwd=str(PROJECT_ROOT.parent),
+            [
+                "docker",
+                "run",
+                "-d",
+                "--rm",
+                "--name",
+                LOCALAI_CONTAINER_NAME,
+                "--label",
+                f"com.docker.compose.project={LOCALAI_COMPOSE_PROJECT}",
+                "--label",
+                f"com.docker.compose.service={LOCALAI_COMPOSE_SERVICE}",
+                "--label",
+                "com.docker.compose.version=1.29.2",
+                "-p",
+                f"{LOCALAI_PORT}:8080",
+                "-e",
+                "LOG_LEVEL=info",
+                LOCALAI_IMAGE,
+                "local-ai",
+                "run",
+                LOCALAI_RUNTIME_MODEL,
+            ],
             capture_output=True,
             text=True,
             encoding="utf-8",
@@ -366,10 +394,11 @@ def start_localai_service() -> tuple[bool, str]:
 
 
 def stop_localai_service() -> tuple[bool, str]:
+    if not localai_is_running():
+        return True, "LocalAI service is not running."
     try:
         result = subprocess.run(
-            ["docker", "compose", "stop", "localai"],
-            cwd=str(PROJECT_ROOT.parent),
+            ["docker", "stop", LOCALAI_CONTAINER_NAME],
             capture_output=True,
             text=True,
             encoding="utf-8",
@@ -1365,7 +1394,7 @@ def render_settings_body():
         if st.session_state.openai_key:
             os.environ["OPENAI_API_KEY"] = st.session_state.openai_key
     else:
-        st.caption("Local mode uses TEI and LocalAI; no API key is required.")
+        st.caption("Local mode uses Text-Embeddings-Inference and LocalAI")
 
     st.divider()
 
@@ -1463,13 +1492,8 @@ def _render_runtime_control(
 
     st.markdown(f'<span class="runtime-status {status_class}">{status_label}</span>', unsafe_allow_html=True)
 
-    if status_detail:
-        st.caption(status_detail)
-
     action_label = "Stop" if running else "Start"
     action_cb = stop_cb if running else start_cb
-    spinner_label = "Stopping" if running else "Starting"
-
     if st.button(
         action_label,
         key=button_key,
@@ -1477,8 +1501,7 @@ def _render_runtime_control(
         use_container_width=True,
         disabled=disabled,
     ):
-        with st.spinner(f"{spinner_label} {title.lower()}..."):
-            success, message = action_cb()
+        success, message = action_cb()
         if success:
             st.session_state[feedback_key] = ("success", None)
         else:
@@ -1656,7 +1679,6 @@ def _render_tei_runtime_control(
 
     status_placeholder = st.empty()
     detail_placeholder = st.empty()
-
     if tei_running:
         status_label, status_class = "Running", "runtime-status--on"
     elif download_in_progress:
@@ -1679,17 +1701,15 @@ def _render_tei_runtime_control(
         disabled=action_disabled,
     ):
         if tei_running:
-            with st.spinner("Stopping embedding runtime..."):
-                success, message = stop_tei_runtime(model_key, runtime_mode)
+            success, message = stop_tei_runtime(model_key, runtime_mode)
         else:
             st.session_state["tei_download_in_progress"] = True
             try:
-                with st.spinner("Starting embedding runtime..."):
-                    success, message = _handle_start_tei_runtime(
-                        model_key,
-                        runtime_mode,
-                        status_placeholder,
-                    )
+                success, message = _handle_start_tei_runtime(
+                    model_key,
+                    runtime_mode,
+                    status_placeholder,
+                )
             finally:
                 st.session_state["tei_download_in_progress"] = False
 
@@ -1703,6 +1723,8 @@ def _render_tei_runtime_control(
         detail_placeholder.caption(status_detail)
     else:
         detail_placeholder.empty()
+
+    detail_placeholder = st.empty()
 
     feedback = st.session_state.get("tei_runtime_feedback")
     if feedback:
@@ -1720,14 +1742,12 @@ def render_local_runtime_controls() -> None:
     localai_running = localai_is_running()
     pipeline_request = st.session_state.get("pipeline_request")
 
-    st.subheader("Runtime control")
+    st.subheader("Docker Runtime control")
     tei_detail: Optional[str] = None
     if tei_status.get("error"):
         tei_detail = f"Docker error: {tei_status['error']}"
     elif tei_status.get("match"):
         port = get_tei_model_port(model_key)
-        label = format_tei_container_label(tei_status["match"])
-        tei_detail = f"{label} - http://localhost:{port}"
         if not st.session_state.get("tei_base_url"):
             st.session_state.tei_base_url = f"http://localhost:{port}"
     elif tei_status.get("others"):
@@ -1753,7 +1773,7 @@ def render_local_runtime_controls() -> None:
             start_localai_service,
             stop_localai_service,
             "localai_runtime_button",
-            status_detail="Docker container: localai" if localai_running else None,
+            status_detail=None,
             disabled=pipeline_running,
         )
 
@@ -1915,7 +1935,7 @@ def render_sidebar_quick_actions():
         if errors:
             messages.extend(errors)
         if saved_paths and errors:
-            status = 'warning'
+            status = 'info'
         elif saved_paths:
             status = 'success'
         elif errors:
@@ -1928,11 +1948,7 @@ def render_sidebar_quick_actions():
     upload_feedback = st.session_state.upload_feedback
     if upload_feedback:
         status, message = upload_feedback
-        if status == 'success':
-            st.success(message)
-        elif status == 'warning':
-            st.warning(message)
-        elif status == 'info':
+        if status in ('success', 'info'):
             st.info(message)
         else:
             st.error(message)
@@ -2155,7 +2171,7 @@ def render_sidebar_quick_actions():
         if not (backend_matches and model_matches and chunk_matches):
             current_summary = f"{expected_backend_label} / {expected_model_display} / {current_chunk_label}"
             index_summary = f"{backend_label} / {display_name} / {chunk_label}"
-            st.warning(
+            st.info(
                 'The current embedding selection differs from the index. Rebuild to avoid inconsistencies.\n\n'
                 f"Index: {index_summary}\n"
                 f"Current selection: {current_summary}"
@@ -2185,10 +2201,10 @@ def main():
         runtime_mode = st.session_state.tei_runtime_mode
         model_key = st.session_state.embed_model
         if not tei_backend_is_active(model_key, runtime_mode):
-            st.warning("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
+            st.info("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
 
     if not index_exists(current_index_dir):
-        st.warning("No backend index detected. Run the pipeline from the sidebar to build it from DOCX files.")
+        st.info("No backend index detected. Run the pipeline from the sidebar to build it from DOCX files.")
 
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
