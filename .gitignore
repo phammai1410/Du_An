@@ -8,7 +8,7 @@ __pycache__/
 logs/
 *.log
 
-/backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base/
+/backend/local-llm/Embedding/intfloat-e5-small-v2/
 /backend/local-llm/Embedding/sentence-transformers-all-MiniLM-L6-v2/
 
 backend/data/index/

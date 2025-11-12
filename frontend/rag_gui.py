@@ -90,6 +90,7 @@ EMBED_BACKENDS: Dict[str, str] = {
     "openai": "Open AI Chat GPT Embedding",
     "tei": "Local Text-Embeddings-Inference",
 }
+GLOBAL_DOCKER_ERROR_SNIPPETS = ("docker desktop is manually paused",)
 
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
     "sentence-transformers/all-MiniLM-L6-v2": {
@@ -99,11 +100,11 @@ TEI_MODELS: Dict[str, Dict[str, Any]] = {
         "download_script": TOOLS_DIR / "download_all_minilm_l6_v2_tei.py",
         "required_file": "model.safetensors",
     },
-    "Alibaba-NLP/gte-multilingual-base": {
-        "display": "Alibaba-NLP GTE 0.3B ",
-        "config_key": "Alibaba-NLP-gte-multilingual-base",
-        "local_dir": LOCAL_TEI_ROOT / "Alibaba-NLP-gte-multilingual-base",
-        "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
+    "intfloat/e5-small-v2": {
+        "display": "IntFloat E5 Small V2",
+        "config_key": "intfloat-e5-small-v2",
+        "local_dir": LOCAL_TEI_ROOT / "intfloat-e5-small-v2",
+        "download_script": TOOLS_DIR / "download_e5_small_v2_tei.py",
         "required_file": "model.safetensors",
     },
 }
@@ -1485,7 +1486,8 @@ def _render_runtime_control(
     button_key: str,
     status_detail: Optional[str] = None,
     disabled: bool = False,
-) -> None:
+) -> List[str]:
+    suppressed_messages: List[str] = []
     st.markdown(f"**{title}**")
     status_class = "runtime-status--on" if running else "runtime-status--off"
     status_label = "Running" if running else "Stopped"
@@ -1508,12 +1510,27 @@ def _render_runtime_control(
             st.session_state[feedback_key] = ("error", message)
         _trigger_streamlit_rerun()
 
+    if status_detail and _is_global_docker_error(status_detail):
+        suppressed_messages.append(status_detail)
+        status_detail = None
+
+    detail_placeholder = st.empty()
+    if status_detail:
+        detail_placeholder.caption(status_detail)
+    else:
+        detail_placeholder.empty()
+
     feedback = st.session_state.get(feedback_key)
     if feedback:
         status, message = feedback
         if status != "success" and message:
-            st.error(message)
+            if _is_global_docker_error(message):
+                suppressed_messages.append(message)
+            else:
+                st.error(message)
         st.session_state[feedback_key] = None
+
+    return suppressed_messages
 
 
 def _render_status_badge(target, label: str, css_class: str) -> None:
@@ -1522,6 +1539,13 @@ def _render_status_badge(target, label: str, css_class: str) -> None:
         f'<span class="runtime-status {css_class}">{label}</span>',
         unsafe_allow_html=True,
     )
+
+
+def _is_global_docker_error(message: Optional[str]) -> bool:
+    if not message:
+        return False
+    lowered = message.lower()
+    return any(snippet in lowered for snippet in GLOBAL_DOCKER_ERROR_SNIPPETS)
 
 
 def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
@@ -1670,7 +1694,8 @@ def _render_tei_runtime_control(
     runtime_mode: str,
     status_detail: Optional[str],
     disabled: bool,
-) -> None:
+) -> List[str]:
+    suppressed_messages: List[str] = []
     tei_running = bool(tei_status.get("running"))
     downloaded = tei_model_is_downloaded(model_key)
     download_in_progress = st.session_state.get("tei_download_in_progress", False)
@@ -1678,7 +1703,6 @@ def _render_tei_runtime_control(
     st.markdown("**Embedding runtime**")
 
     status_placeholder = st.empty()
-    detail_placeholder = st.empty()
     if tei_running:
         status_label, status_class = "Running", "runtime-status--on"
     elif download_in_progress:
@@ -1719,19 +1743,27 @@ def _render_tei_runtime_control(
             st.session_state["tei_runtime_feedback"] = ("error", message)
         _trigger_streamlit_rerun()
 
+    if status_detail and _is_global_docker_error(status_detail):
+        suppressed_messages.append(status_detail)
+        status_detail = None
+
+    detail_placeholder = st.empty()
     if status_detail:
         detail_placeholder.caption(status_detail)
     else:
         detail_placeholder.empty()
 
-    detail_placeholder = st.empty()
-
     feedback = st.session_state.get("tei_runtime_feedback")
     if feedback:
         status, message = feedback
         if status != "success" and message:
-            st.error(message)
+            if _is_global_docker_error(message):
+                suppressed_messages.append(message)
+            else:
+                st.error(message)
         st.session_state["tei_runtime_feedback"] = None
+
+    return suppressed_messages
 
 
 def render_local_runtime_controls() -> None:
@@ -1744,8 +1776,9 @@ def render_local_runtime_controls() -> None:
 
     st.subheader("Docker Runtime control")
     tei_detail: Optional[str] = None
-    if tei_status.get("error"):
-        tei_detail = f"Docker error: {tei_status['error']}"
+    error_detail = tei_status.get("error")
+    if error_detail:
+        tei_detail = error_detail
     elif tei_status.get("match"):
         port = get_tei_model_port(model_key)
         if not st.session_state.get("tei_base_url"):
@@ -1755,27 +1788,42 @@ def render_local_runtime_controls() -> None:
         tei_detail = f"Different TEI running: {label}"
 
     col_embed, col_chat = st.columns(2, gap="large")
+    shared_warnings: List[str] = []
 
     with col_embed:
-        _render_tei_runtime_control(
-            tei_status,
-            model_key,
-            runtime_mode,
-            tei_detail,
-            disabled=pipeline_running,
+        shared_warnings.extend(
+            _render_tei_runtime_control(
+                tei_status,
+                model_key,
+                runtime_mode,
+                tei_detail,
+                disabled=pipeline_running,
+            )
         )
 
     with col_chat:
-        _render_runtime_control(
-            "Chat runtime",
-            localai_running,
-            "localai_runtime_feedback",
-            start_localai_service,
-            stop_localai_service,
-            "localai_runtime_button",
-            status_detail=None,
-            disabled=pipeline_running,
+        shared_warnings.extend(
+            _render_runtime_control(
+                "Chat runtime",
+                localai_running,
+                "localai_runtime_feedback",
+                start_localai_service,
+                stop_localai_service,
+                "localai_runtime_button",
+                status_detail=None,
+                disabled=pipeline_running,
+            )
         )
+
+    if shared_warnings:
+        unique_messages: List[str] = []
+        for message in shared_warnings:
+            normalized = message.strip()
+            if not normalized or normalized in unique_messages:
+                continue
+            unique_messages.append(normalized)
+        if unique_messages:
+            st.error("\n\n".join(unique_messages))
 
     docx_langs = detect_docx_languages()
     current_index_dir = resolve_index_dir(model_key)

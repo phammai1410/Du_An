@@ -5,8 +5,11 @@
     "auto_truncate": true,
     "max_client_batch_size": 8
   },
-  "Alibaba-NLP-gte-multilingual-base": {
-    "path": "./Alibaba-NLP-gte-multilingual-base",
-    "port": 8801
+  "intfloat-e5-small-v2": {
+    "path": "./intfloat-e5-small-v2",
+    "port": 8801,
+    "auto_truncate": true,
+    "max_batch_tokens": 8192,
+    "max_client_batch_size": 8
   }
 }

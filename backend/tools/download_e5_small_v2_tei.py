@@ -8,9 +8,9 @@ from urllib.request import Request, urlopen
 import shutil
 
 
-BASE_URL = "https://huggingface.co/Alibaba-NLP/gte-multilingual-base/resolve/main"
+BASE_URL = "https://huggingface.co/intfloat/e5-small-v2/resolve/main"
 
-# Files required to run Alibaba-NLP/gte-multilingual-base with the TEI backend
+# Files required to run intfloat/e5-small-v2 with the TEI backend
 REQUIRED_FILES = (
     "config.json",
     "model.safetensors",
@@ -20,6 +20,21 @@ REQUIRED_FILES = (
     "modules.json",
     "sentence_bert_config.json",
     "1_Pooling/config.json",
+    "vocab.txt",
+)
+
+# Extra assets are nice-to-have but not critical for inference.
+OPTIONAL_FILES = (
+    "model.onnx",
+    "onnx/model_O4.onnx",
+    "onnx/model_qint8_avx512_vnni.onnx",
+    "openvino/openvino_model.bin",
+    "openvino/openvino_model.xml",
+    "openvino/openvino_model_qint8_quantized.bin",
+    "openvino/openvino_model_qint8_quantized.xml",
+    "pytorch_model.bin",
+    "tf_model.h5",
+    "README.md",
 )
 
 
@@ -27,7 +42,7 @@ def resolve_target_dir(custom_target: str | None = None) -> Path:
     """
     Resolve the directory where the assets should be stored.
 
-    Defaults to backend/local-llm/embedding/Alibaba-NLP-gte-multilingual-base relative to this file.
+    Defaults to backend/local-llm/embedding/intfloat-e5-small-v2 relative to this file.
     """
     if custom_target:
         target_path = Path(custom_target).expanduser().resolve()
@@ -36,7 +51,7 @@ def resolve_target_dir(custom_target: str | None = None) -> Path:
             Path(__file__)
             .resolve()
             .parents[1]
-            .joinpath("local-llm", "embedding", "Alibaba-NLP-gte-multilingual-base")
+            .joinpath("local-llm", "embedding", "intfloat-e5-small-v2")
         )
     target_path.mkdir(parents=True, exist_ok=True)
     return target_path
@@ -60,13 +75,13 @@ def download_file(relative_path: str, destination_dir: Path) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Download required Alibaba-NLP/gte-multilingual-base files for TEI backend."
+        description="Download required intfloat/e5-small-v2 files for TEI backend."
     )
     parser.add_argument(
         "--target",
         help=(
             "Custom directory to place the downloaded files. "
-            "Defaults to backend/local-llm/embedding/Alibaba-NLP-gte-multilingual-base."
+            "Defaults to backend/local-llm/embedding/intfloat-e5-small-v2."
         ),
     )
     args = parser.parse_args()
@@ -74,13 +89,23 @@ def main() -> int:
     target_dir = resolve_target_dir(args.target)
     print(f"Downloading files into {target_dir}")
 
-    for relative in REQUIRED_FILES:
-        destination_path = target_dir / relative
-        if destination_path.exists():
-            print(f"[skip] {relative} already exists")
-            continue
-        print(f"[download] {relative}")
-        download_file(relative, target_dir)
+    def _download_many(file_list: tuple[str, ...], is_optional: bool = False) -> None:
+        for relative in file_list:
+            destination_path = target_dir / relative
+            if destination_path.exists():
+                print(f"[skip] {relative} already exists")
+                continue
+            print(f"[download] {relative}")
+            try:
+                download_file(relative, target_dir)
+            except RuntimeError as exc:
+                if is_optional:
+                    print(f"[warn] optional download failed for {relative}: {exc}")
+                    continue
+                raise
+
+    _download_many(REQUIRED_FILES, is_optional=False)
+    _download_many(OPTIONAL_FILES, is_optional=True)
 
     print("Download complete.")
     return 0
