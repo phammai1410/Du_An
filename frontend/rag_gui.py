@@ -864,10 +864,12 @@ def run_backend_pipeline(
         SOFT_PID_REGISTRY.pop("backend_pipeline", None)
         st.session_state["pipeline_running"] = False
 
-    message = "\n".join(line for line in output_lines if line).strip()
     success = return_code == 0
-    if not message:
-        message = "No output."
+    if success:
+        message = "Pipeline completed successfully."
+    else:
+        tail_lines = [line for line in output_lines if line][-20:]
+        message = "\n".join(tail_lines).strip() or "Pipeline failed."
     return success, message
 
 
