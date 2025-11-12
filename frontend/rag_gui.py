@@ -18,6 +18,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
 import numpy as np
+import unicodedata
 
 try:
     import faiss  # type: ignore
@@ -42,9 +43,33 @@ TEI_CONTAINER_PREFIX = "tei-"
 
 DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL")
 DEFAULT_CHAT_MODEL = "gpt-4o-mini"
+DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
+DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
 
 DEFAULT_CHUNK_SIZE = 1200
 DEFAULT_CHUNK_OVERLAP = 200
+DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
+DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
+SMALL_TALK_KEYWORDS = {
+    "hi",
+    "hello",
+    "hey",
+    "xin chao",
+    "xin chào",
+    "chao",
+    "chào",
+    "alo",
+    "yo",
+}
+CAPABILITY_PHRASES = {
+    "ban co the lam gi",
+    "bạn có thể làm gì",
+    "what can you do",
+    "what can u do",
+    "can you help",
+    "ban lam duoc gi",
+    "bạn làm được gì",
+}
 
 CHUNK_MODES: Dict[str, str] = {
     "structured": "Structured-chunks",
@@ -972,16 +997,64 @@ def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
 
 def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
     parts: List[str] = []
-    for item in chunks:
+    for idx, item in enumerate(chunks, start=1):
         meta = item["meta"]
         source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
         heading = meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or ""
-        prefix = f"[{source}] "
+        prefix = f"[{idx}] {source}"
         if heading:
-            prefix += f"{heading} "
+            prefix += f" | {heading}"
         text = meta.get("text") or ""
-        parts.append(f"{prefix}{text}")
+        parts.append(f"{prefix}\n{text}")
     return "\n\n---\n\n".join(parts)
+
+
+def _build_chat_llm(chat_model: str) -> ChatOpenAI:
+    """Return a ChatOpenAI client configured for the active run mode."""
+    run_mode = st.session_state.get("run_mode", "local")
+    temperature = 0
+
+    if run_mode == "openai":
+        api_key = st.session_state.get("openai_key") or os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise RuntimeError(
+                "OpenAI API key is missing. Enter it in the sidebar or set OPENAI_API_KEY."
+            )
+        return ChatOpenAI(model=chat_model, temperature=temperature, api_key=api_key)
+
+    base_url = st.session_state.get("localai_base_url") or DEFAULT_LOCALAI_BASE_URL
+    api_key = os.getenv("LOCALAI_API_KEY") or DEFAULT_LOCALAI_API_KEY
+    return ChatOpenAI(model=chat_model, temperature=temperature, base_url=base_url, api_key=api_key)
+
+
+def _normalize_query(text: str) -> str:
+    normalized = unicodedata.normalize("NFKD", text or "")
+    return (
+        normalized.encode("ascii", "ignore")
+        .decode("ascii")
+        .lower()
+        .strip()
+    )
+
+
+def maybe_handle_smalltalk(question: str) -> Optional[str]:
+    normalized = _normalize_query(question)
+    if not normalized:
+        return None
+
+    if normalized in SMALL_TALK_KEYWORDS:
+        return (
+            "Xin chào! Tôi đang kết nối với kho đề cương học phần. "
+            "Bạn có thể hỏi về mục tiêu, nội dung, thời lượng, điều kiện của bất kỳ học phần nào."
+        )
+
+    if any(phrase in normalized for phrase in CAPABILITY_PHRASES):
+        return (
+            "Tôi có thể tìm thông tin trong các đề cương môn học, trích dẫn nguồn và tóm tắt nội dung chính. "
+            "Chỉ cần nêu tên học phần hoặc câu hỏi cụ thể, tôi sẽ tìm trong dữ liệu và trả lời kèm nguồn."
+        )
+
+    return None
 
 
 def call_llm(chat_model: str, question: str, context: str) -> str:
@@ -989,14 +1062,17 @@ def call_llm(chat_model: str, question: str, context: str) -> str:
         [
             (
                 "system",
-                "You are a precise assistant. Only answer using the provided context. "
-                "If the answer is not contained there, reply that you do not know.",
+                "Bạn là trợ lý RAG cho đề cương môn học. "
+                "Luôn ưu tiên sử dụng nội dung trong Context. "
+                "Mỗi khi trích dẫn, ghi chú dạng [số] tương ứng với mục trong Context. "
+                "Nếu Context không có thông tin phù hợp, hãy nói rõ và đề nghị người dùng cung cấp chi tiết hơn, "
+                "không tự bịa ra dữ kiện.",
             ),
             ("human", "Question:\n{question}\n\nContext:\n{context}\n\nAnswer in Vietnamese."),
         ]
     )
 
-    llm = ChatOpenAI(model=chat_model, temperature=0)
+    llm = _build_chat_llm(chat_model)
     messages = prompt.format_messages(question=question, context=context)
     response = llm.invoke(messages)
     return response.content if hasattr(response, "content") else str(response)
@@ -2273,6 +2349,11 @@ def main():
 
     if user_question:
         st.session_state.history.append({"role": "user", "content": user_question})
+
+        smalltalk_reply = maybe_handle_smalltalk(user_question)
+        if smalltalk_reply:
+            st.session_state.history.append({"role": "assistant", "content": smalltalk_reply})
+            st.rerun()
 
         runtime_mode = st.session_state.tei_runtime_mode
         tei_model_key = st.session_state.embed_model

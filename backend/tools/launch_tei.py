@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import platform
 import shutil
 import subprocess
@@ -31,6 +32,9 @@ DEFAULT_RUNTIME_KEY = "cpu"
 CONTAINER_MODEL_PATH = "/data"
 CONTAINER_PORT = 80
 CONTAINER_NAME_PREFIX = "tei-"
+COMPOSE_PROJECT_NAME = os.getenv("TEI_COMPOSE_PROJECT", "khoa_luan")
+COMPOSE_SERVICE_NAME = os.getenv("TEI_COMPOSE_SERVICE", "tei-runtime")
+COMPOSE_VERSION = os.getenv("TEI_COMPOSE_VERSION", "1.29.2")
 
 
 @dataclass(frozen=True)
@@ -270,6 +274,12 @@ def build_docker_command(
         mount_arg,
         "--pull",
         "always",
+        "--label",
+        f"com.docker.compose.project={COMPOSE_PROJECT_NAME}",
+        "--label",
+        f"com.docker.compose.service={COMPOSE_SERVICE_NAME}",
+        "--label",
+        f"com.docker.compose.version={COMPOSE_VERSION}",
     ]
 
     if detach:

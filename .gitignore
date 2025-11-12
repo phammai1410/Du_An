@@ -7,10 +7,8 @@ __pycache__/
 *.pyd
 logs/
 *.log
-/backend/local-llm/Embedding/AITeamVN-Vietnamese_Embedding_v2/
-/backend/local-llm/Embedding/BAAI-bge-m3/
+
 /backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base/
-/backend/local-llm/Embedding/Qwen-Qwen3-Embedding-0.6B/
 /backend/local-llm/Embedding/sentence-transformers-all-MiniLM-L6-v2/
 
 backend/data/processed-json/*
@@ -21,3 +19,9 @@ backend/data/processed-structured/*
 
 backend/data/index/*
 !backend/data/index/.gitkeep
+
+backend/data/index/sentence-transformers-all-minilm-l6-v2/*
+!backend/data/index/sentence-transformers-all-minilm-l6-v2/.gitkeep
+
+backend/data/index/alibaba-nlp-gte-multilingual-base/*
+!backend/data/index/alibaba-nlp-gte-multilingual-base/.gitkeep
