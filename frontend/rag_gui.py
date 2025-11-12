@@ -94,14 +94,14 @@ GLOBAL_DOCKER_ERROR_SNIPPETS = ("docker desktop is manually paused",)
 
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
     "sentence-transformers/all-MiniLM-L6-v2": {
-        "display": "MiniLM-L6 v2 0.2B (Q4)",
+        "display": "MiniLM L6 v2 (22M/Q4)",
         "config_key": "sentence-transformers-all-MiniLM-L6-v2",
         "local_dir": LOCAL_TEI_ROOT / "sentence-transformers-all-MiniLM-L6-v2",
         "download_script": TOOLS_DIR / "download_all_minilm_l6_v2_tei.py",
         "required_file": "model.safetensors",
     },
     "intfloat/e5-small-v2": {
-        "display": "IntFloat E5 Small V2",
+        "display": "IntFloat E5 Small v2 (33.4M)",
         "config_key": "intfloat-e5-small-v2",
         "local_dir": LOCAL_TEI_ROOT / "intfloat-e5-small-v2",
         "download_script": TOOLS_DIR / "download_e5_small_v2_tei.py",
