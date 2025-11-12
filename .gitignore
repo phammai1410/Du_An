@@ -11,17 +11,11 @@ logs/
 /backend/local-llm/Embedding/Alibaba-NLP-gte-multilingual-base/
 /backend/local-llm/Embedding/sentence-transformers-all-MiniLM-L6-v2/
 
-backend/data/processed-json/*
-!backend/data/processed-json/.gitkeep
-
-backend/data/processed-structured/*
-!backend/data/processed-structured/.gitkeep
-
-backend/data/index/*
+backend/data/index/
 !backend/data/index/.gitkeep
 
-backend/data/index/sentence-transformers-all-minilm-l6-v2/*
-!backend/data/index/sentence-transformers-all-minilm-l6-v2/.gitkeep
+backend/data/processed-json/
+!backend/data/processed-json/.gitkeep
 
-backend/data/index/alibaba-nlp-gte-multilingual-base/*
-!backend/data/index/alibaba-nlp-gte-multilingual-base/.gitkeep
+backend/data/processed-structured/
+!backend/data/processed-structured/.gitkeep

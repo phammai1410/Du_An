@@ -41,7 +41,7 @@ LOCAL_TEI_ROOT = BACKEND_ROOT / "local-llm" / "Embedding"
 MODELS_CONFIG_PATH = LOCAL_TEI_ROOT / "models.json"
 TEI_CONTAINER_PREFIX = "tei-"
 
-DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL")
+DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL") or "sentence-transformers/all-MiniLM-L6-v2"
 DEFAULT_CHAT_MODEL = "gpt-4o-mini"
 DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
 DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
@@ -86,18 +86,18 @@ EMBED_BACKENDS: Dict[str, str] = {
 }
 
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
-    "Alibaba-NLP/gte-multilingual-base": {
-        "display": "Alibaba-NLP GTE 0.3B ",
-        "config_key": "Alibaba-NLP-gte-multilingual-base",
-        "local_dir": LOCAL_TEI_ROOT / "Alibaba-NLP-gte-multilingual-base",
-        "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
-        "required_file": "model.safetensors",
-    },
     "sentence-transformers/all-MiniLM-L6-v2": {
         "display": "MiniLM-L6 v2 0.2B (Q4)",
         "config_key": "sentence-transformers-all-MiniLM-L6-v2",
         "local_dir": LOCAL_TEI_ROOT / "sentence-transformers-all-MiniLM-L6-v2",
         "download_script": TOOLS_DIR / "download_all_minilm_l6_v2_tei.py",
+        "required_file": "model.safetensors",
+    },
+    "Alibaba-NLP/gte-multilingual-base": {
+        "display": "Alibaba-NLP GTE 0.3B ",
+        "config_key": "Alibaba-NLP-gte-multilingual-base",
+        "local_dir": LOCAL_TEI_ROOT / "Alibaba-NLP-gte-multilingual-base",
+        "download_script": TOOLS_DIR / "download_gte_multilingual_base_tei.py",
         "required_file": "model.safetensors",
     },
 }
@@ -175,45 +175,11 @@ def format_embedding_display(backend_key: Optional[str], model_key: Optional[str
     return str(model_key)
 
 
-TEI_RUNTIME_MODES: Dict[str, Dict[str, Any]] = {
-    "cpu": {
-        "label": "CPU",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:cpu-1.8",
-        "requires_gpu": False,
-        "description": "Default mode for CPU-only machines.",
-    },
-    "turing": {
-        "label": "Turing (T4 / RTX 2000 series)",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:turing-1.8",
-        "requires_gpu": True,
-        "description": "Optimized build for NVIDIA Turing GPUs such as T4 or RTX 2000.",
-    },
-    "ampere_80": {
-        "label": "Ampere 80 (A100 / A30)",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:1.8",
-        "requires_gpu": True,
-        "description": "Use on A100 or A30 class Ampere GPUs.",
-    },
-    "ampere_86": {
-        "label": "Ampere 86 (A10 / A40)",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:86-1.8",
-        "requires_gpu": True,
-        "description": "Tune for Ampere 86 GPUs including A10, A40, and RTX A series.",
-    },
-    "ada_lovelace": {
-        "label": "Ada Lovelace (RTX 4000 series)",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:89-1.8",
-        "requires_gpu": True,
-        "description": "Optimized for the RTX 4000 Ada Lovelace family.",
-    },
-    "hopper": {
-        "label": "Hopper (H100, experimental)",
-        "image": "ghcr.io/huggingface/text-embeddings-inference:hopper-1.8",
-        "requires_gpu": True,
-        "description": "Experimental build for NVIDIA Hopper GPUs (H100).",
-    },
-}
 DEFAULT_TEI_RUNTIME_MODE = "cpu"
+DEFAULT_TEI_RUNTIME_LABEL = "CPU"
+DEFAULT_TEI_RUNTIME_IMAGE = os.getenv(
+    "TEI_RUNTIME_IMAGE", "ghcr.io/huggingface/text-embeddings-inference:cpu-1.8"
+)
 
 DOCKER_INSTALL_GUIDE_MD = """
 **Docker is required to start Text Embeddings Inference.**
@@ -333,29 +299,20 @@ def format_tei_container_label(container_name: str) -> str:
     parts = suffix.split("-")
     model_slug = suffix
     runtime_slug = ""
-    if len(parts) >= 2:
-        for i in range(1, len(parts) + 1):
-            candidate = "-".join(parts[-i:])
-            if any(_slugify_identifier(key) == candidate for key in TEI_RUNTIME_MODES):
-                runtime_slug = candidate
-                model_slug = "-".join(parts[:-i])
-                break
-        if not runtime_slug:
-            runtime_slug = parts[-1]
-            model_slug = "-".join(parts[:-1])
+    cpu_slug = _slugify_identifier(DEFAULT_TEI_RUNTIME_MODE)
+    if len(parts) >= 2 and parts[-1] == cpu_slug:
+        runtime_slug = parts[-1]
+        model_slug = "-".join(parts[:-1])
     model_label = None
     for key, meta in TEI_MODELS.items():
         slug = _slugify_identifier(resolve_tei_config_key(key))
         if slug == model_slug:
             model_label = meta.get("display") or key
             break
-    runtime_label = None
-    for runtime_key, runtime_meta in TEI_RUNTIME_MODES.items():
-        if _slugify_identifier(runtime_key) == runtime_slug:
-            runtime_label = runtime_meta.get("label", runtime_key)
-            break
-    if runtime_label is None:
-        runtime_label = runtime_slug.upper() if runtime_slug else "Unknown runtime"
+    if runtime_slug in {cpu_slug, DEFAULT_TEI_RUNTIME_MODE, ""}:
+        runtime_label = DEFAULT_TEI_RUNTIME_LABEL
+    else:
+        runtime_label = runtime_slug.upper() if runtime_slug else DEFAULT_TEI_RUNTIME_LABEL
     if model_label:
         return f"{model_label} - {runtime_label}"
     return f"{model_slug} - {runtime_label}"
@@ -489,7 +446,7 @@ def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool
     ]
     result = run_launch_tei(args)
     success = result.returncode == 0
-    runtime_label = TEI_RUNTIME_MODES.get(runtime_key, {}).get("label", runtime_key)
+    runtime_label = DEFAULT_TEI_RUNTIME_LABEL
     if success:
         set_tei_base_url(port)
         message = f"Started TEI ({runtime_label}) on http://localhost:{port}."
@@ -510,7 +467,7 @@ def stop_tei_runtime(model_key: str, runtime_key: str) -> Tuple[bool, str]:
     result = run_launch_tei(args)
     success = result.returncode == 0
     container_name = sanitize_tei_container_name(model_key, runtime_key)
-    runtime_label = TEI_RUNTIME_MODES.get(runtime_key, {}).get("label", runtime_key)
+    runtime_label = DEFAULT_TEI_RUNTIME_LABEL
     if success:
         message = (result.stdout or "").strip() or f"Stopped TEI container `{container_name}` ({runtime_label})."
     else:
@@ -1522,17 +1479,17 @@ def _render_runtime_control(
     ):
         with st.spinner(f"{spinner_label} {title.lower()}..."):
             success, message = action_cb()
-        st.session_state[feedback_key] = ("success" if success else "error", message)
+        if success:
+            st.session_state[feedback_key] = ("success", None)
+        else:
+            st.session_state[feedback_key] = ("error", message)
         _trigger_streamlit_rerun()
 
     feedback = st.session_state.get(feedback_key)
     if feedback:
         status, message = feedback
-        if message:
-            if status == "success":
-                st.success(message)
-            else:
-                st.error(message)
+        if status != "success" and message:
+            st.error(message)
         st.session_state[feedback_key] = None
 
 
@@ -1563,8 +1520,6 @@ def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[st
 def _download_tei_model_with_progress(
     model_key: str,
     status_placeholder,
-    info_placeholder,
-    progress_placeholder,
 ) -> Tuple[bool, str]:
     config = TEI_MODELS.get(model_key)
     if not config:
@@ -1589,11 +1544,9 @@ def _download_tei_model_with_progress(
         total_targets = 1
 
     _render_status_badge(status_placeholder, "Downloading", "runtime-status--pending")
-    info_placeholder.info("Downloading model files...")
-    progress_bar = progress_placeholder.progress(0)
 
     try:
-        process = subprocess.Popen(
+        result = subprocess.run(
             [
                 sys.executable,
                 str(script_path),
@@ -1601,103 +1554,56 @@ def _download_tei_model_with_progress(
                 str(base_dir),
             ],
             cwd=str(BACKEND_ROOT),
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
+            capture_output=True,
             text=True,
             encoding="utf-8",
             errors="replace",
+            check=False,
         )
     except OSError as exc:
-        message = f"Failed to start download: {exc}"
-        info_placeholder.error(message)
-        progress_placeholder.empty()
+        return False, f"Failed to start download: {exc}"
+
+    if result.returncode != 0:
+        message = (result.stdout or result.stderr or "").strip() or "Model download failed."
         return False, message
-
-    captured: List[str] = []
-    completed = 0
-
-    assert process.stdout is not None
-    for raw_line in process.stdout:
-        captured.append(raw_line)
-        stripped = raw_line.strip()
-        if stripped:
-            info_placeholder.info(stripped)
-        lower = stripped.lower()
-        if stripped.startswith(("[download]", "[skip]", "[warn]")):
-            completed = min(completed + 1, total_targets)
-            percent = min(100, max(0, int(completed * 100 / total_targets)))
-            progress_bar.progress(percent)
-        elif lower.startswith("download complete"):
-            progress_bar.progress(100)
-
-    process.wait()
-    process.stdout.close()
-
-    if process.returncode != 0:
-        message = captured[-1].strip() if captured else "Model download failed."
-        info_placeholder.error(message or "Model download failed.")
-        return False, message or "Model download failed."
 
     for rel_path in required:
         if not (base_dir / rel_path).exists():
             message = f"Missing required file after download: {rel_path}"
-            info_placeholder.error(message)
             return False, message
 
-    progress_bar.progress(100)
-    info_placeholder.empty()
-    progress_placeholder.empty()
     return True, "Model assets downloaded."
 
 
 def _pull_tei_image(
     runtime_key: str,
     status_placeholder,
-    info_placeholder,
 ) -> Tuple[bool, str]:
-    runtime_meta = TEI_RUNTIME_MODES.get(runtime_key, {})
-    image = runtime_meta.get("image")
+    _ = runtime_key  # runtime is fixed to CPU mode but kept for signature compatibility
+    image = DEFAULT_TEI_RUNTIME_IMAGE
     if not image:
         return True, "No Docker image configured for this runtime."
 
     _render_status_badge(status_placeholder, "Pulling image", "runtime-status--pending")
-    info_placeholder.info(f"Pulling Docker image {image}...")
 
     try:
-        process = subprocess.Popen(
+        result = subprocess.run(
             ["docker", "pull", image],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
+            capture_output=True,
             text=True,
             encoding="utf-8",
             errors="replace",
+            check=False,
         )
     except FileNotFoundError:
-        message = "Docker command not found. Install Docker Desktop/Engine and try again."
-        info_placeholder.error(message)
-        return False, message
+        return False, "Docker command not found. Install Docker Desktop/Engine and try again."
     except OSError as exc:
-        message = f"Failed to execute docker pull: {exc}"
-        info_placeholder.error(message)
+        return False, f"Failed to execute docker pull: {exc}"
+
+    if result.returncode != 0:
+        message = (result.stdout or result.stderr or "").strip() or "Failed to pull Docker image."
         return False, message
 
-    captured: List[str] = []
-    assert process.stdout is not None
-    for raw_line in process.stdout:
-        captured.append(raw_line)
-        stripped = raw_line.strip()
-        if stripped:
-            info_placeholder.info(stripped)
-
-    process.wait()
-    process.stdout.close()
-
-    if process.returncode != 0:
-        message = captured[-1].strip() if captured else "Failed to pull Docker image."
-        info_placeholder.error(message or "Failed to pull Docker image.")
-        return False, message or "Failed to pull Docker image."
-
-    info_placeholder.empty()
     return True, f"Docker image {image} ready."
 
 
@@ -1705,8 +1611,6 @@ def _handle_start_tei_runtime(
     model_key: str,
     runtime_mode: str,
     status_placeholder,
-    info_placeholder,
-    progress_placeholder,
 ) -> Tuple[bool, str]:
     needs_download = not tei_model_is_downloaded(model_key)
 
@@ -1714,27 +1618,22 @@ def _handle_start_tei_runtime(
         ok, message = _download_tei_model_with_progress(
             model_key,
             status_placeholder,
-            info_placeholder,
-            progress_placeholder,
         )
         if not ok:
             _render_status_badge(status_placeholder, "Not Downloaded", "runtime-status--missing")
             return False, message
         _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
     else:
-        progress_placeholder.empty()
-        info_placeholder.empty()
+        pass
 
-    pull_ok, pull_message = _pull_tei_image(runtime_mode, status_placeholder, info_placeholder)
+    pull_ok, pull_message = _pull_tei_image(runtime_mode, status_placeholder)
     if not pull_ok:
         _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
         return False, pull_message
 
     _render_status_badge(status_placeholder, "Starting", "runtime-status--pending")
-    info_placeholder.info("Starting TEI container...")
     port = get_tei_model_port(model_key)
     success, message = start_tei_runtime(model_key, runtime_mode, port)
-    info_placeholder.empty()
     if not success:
         _render_status_badge(status_placeholder, "Stopped", "runtime-status--off")
     else:
@@ -1757,8 +1656,6 @@ def _render_tei_runtime_control(
 
     status_placeholder = st.empty()
     detail_placeholder = st.empty()
-    info_placeholder = st.empty()
-    progress_placeholder = st.empty()
 
     if tei_running:
         status_label, status_class = "Running", "runtime-status--on"
@@ -1770,11 +1667,6 @@ def _render_tei_runtime_control(
         status_label, status_class = "Not Downloaded", "runtime-status--missing"
 
     _render_status_badge(status_placeholder, status_label, status_class)
-
-    if status_detail:
-        detail_placeholder.caption(status_detail)
-    else:
-        detail_placeholder.empty()
 
     action_label = "Stop" if tei_running else "Start"
     action_disabled = disabled or (download_in_progress and not tei_running)
@@ -1797,23 +1689,26 @@ def _render_tei_runtime_control(
                         model_key,
                         runtime_mode,
                         status_placeholder,
-                        info_placeholder,
-                        progress_placeholder,
                     )
             finally:
                 st.session_state["tei_download_in_progress"] = False
 
-        st.session_state["tei_runtime_feedback"] = ("success" if success else "error", message)
+        if success:
+            st.session_state["tei_runtime_feedback"] = ("success", None)
+        else:
+            st.session_state["tei_runtime_feedback"] = ("error", message)
         _trigger_streamlit_rerun()
+
+    if status_detail:
+        detail_placeholder.caption(status_detail)
+    else:
+        detail_placeholder.empty()
 
     feedback = st.session_state.get("tei_runtime_feedback")
     if feedback:
         status, message = feedback
-        if message:
-            if status == "success":
-                st.success(message)
-            else:
-                st.error(message)
+        if status != "success" and message:
+            st.error(message)
         st.session_state["tei_runtime_feedback"] = None
 
 
@@ -1839,26 +1734,28 @@ def render_local_runtime_controls() -> None:
         label = format_tei_container_label(tei_status["others"][0])
         tei_detail = f"Different TEI running: {label}"
 
-    _render_tei_runtime_control(
-        tei_status,
-        model_key,
-        runtime_mode,
-        tei_detail,
-        disabled=pipeline_running,
-    )
+    col_embed, col_chat = st.columns(2, gap="large")
 
-    st.markdown("")
+    with col_embed:
+        _render_tei_runtime_control(
+            tei_status,
+            model_key,
+            runtime_mode,
+            tei_detail,
+            disabled=pipeline_running,
+        )
 
-    _render_runtime_control(
-        "Chat runtime",
-        localai_running,
-        "localai_runtime_feedback",
-        start_localai_service,
-        stop_localai_service,
-        "localai_runtime_button",
-        status_detail="Docker container: localai" if localai_running else None,
-        disabled=pipeline_running,
-    )
+    with col_chat:
+        _render_runtime_control(
+            "Chat runtime",
+            localai_running,
+            "localai_runtime_feedback",
+            start_localai_service,
+            stop_localai_service,
+            "localai_runtime_button",
+            status_detail="Docker container: localai" if localai_running else None,
+            disabled=pipeline_running,
+        )
 
     docx_langs = detect_docx_languages()
     current_index_dir = resolve_index_dir(model_key)
@@ -1975,47 +1872,6 @@ def render_local_runtime_controls() -> None:
         st.session_state.pipeline_running = False
         _trigger_streamlit_rerun()
         st.stop()
-
-    if st.button(
-        "Rebuild backend index",
-        use_container_width=True,
-        disabled=pipeline_running,
-        key="runtime_rebuild_button",
-    ):
-        if st.session_state.embedding_backend != "tei":
-            st.error("Rebuild is only available in Local TEI mode.")
-        elif not tei_model_is_downloaded(model_key):
-            st.error("The selected TEI model has not been downloaded.")
-        else:
-            base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL")
-            if not base_url:
-                st.error("TEI base URL is not configured. Start the TEI runtime first.")
-            elif not tei_backend_is_active(model_key, runtime_mode):
-                st.error("TEI runtime is not running. Start it before rebuilding.")
-            else:
-                langs = docx_langs or ["vi"]
-                st.session_state.pipeline_request = {
-                    "model_key": st.session_state.embed_model,
-                    "runtime_mode": runtime_mode,
-                    "langs": langs,
-                    "base_url": base_url,
-                    "index_dir": str(current_index_dir),
-                    "chunk_mode": st.session_state.chunk_mode,
-                }
-                st.session_state.pipeline_running = True
-                st.session_state.pipeline_feedback = None
-                _trigger_streamlit_rerun()
-                st.stop()
-
-    if st.button(
-        "Clear chat history",
-        use_container_width=True,
-        disabled=pipeline_running,
-        key="runtime_clear_history_button",
-    ):
-        st.session_state.history = []
-        st.rerun()
-
 
 def render_sidebar_quick_actions():
     pipeline_running = st.session_state.get("pipeline_running", False)
