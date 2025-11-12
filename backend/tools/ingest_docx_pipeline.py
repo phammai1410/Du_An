@@ -28,7 +28,24 @@ def build_python_cmd(script_name: str, extra_args: Sequence[str] | None = None) 
     return command
 
 
-def run_step(label: str, command: Sequence[str]) -> None:
+def run_step(label: str, command: Sequence[str], quiet: bool = True) -> None:
+    if quiet:
+        completed = subprocess.run(
+            command,
+            cwd=str(BACKEND_ROOT),
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if completed.returncode != 0:
+            print(f"Pipeline step '{label}' failed with exit code {completed.returncode}.")
+            if completed.stdout:
+                print("stdout:\n" + completed.stdout)
+            if completed.stderr:
+                print("stderr:\n" + completed.stderr)
+            completed.check_returncode()
+        return
+
     print(f"\n=== {label} ===")
     print(shlex_join(str(part) for part in command))
     subprocess.run(command, cwd=str(BACKEND_ROOT), check=True)
@@ -162,7 +179,7 @@ def main() -> int:
     for label, command in steps:
         run_step(label, command)
 
-    print("\nPipeline completed successfully.")
+    print("Pipeline completed successfully.")
     return 0
 
 
