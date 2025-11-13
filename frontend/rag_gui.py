@@ -7,8 +7,10 @@ import subprocess
 import sys
 import platform
 import re
+import socket
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Tuple
+from urllib.parse import urlparse
 from uuid import uuid4
 
 import requests
@@ -31,6 +33,31 @@ SOFT_PID_REGISTRY: dict[str, int] = {}
 # -----------------------------------------------------------------------------#
 # Paths and configuration
 # -----------------------------------------------------------------------------#
+
+
+def _safe_int(value: Optional[str], default: int) -> int:
+    try:
+        return int(value) if value is not None else default
+    except (TypeError, ValueError):
+        return default
+
+
+def _port_from_url(url: str) -> Optional[int]:
+    if not url:
+        return None
+    try:
+        parsed = urlparse(url)
+    except Exception:
+        return None
+    if parsed.port:
+        return parsed.port
+    if parsed.scheme == "https":
+        return 443
+    if parsed.scheme == "http":
+        return 80
+    return None
+
+
 PROJECT_ROOT = Path(__file__).resolve().parent
 BACKEND_ROOT = PROJECT_ROOT.parent / "backend"
 DATA_DIR = BACKEND_ROOT / "data" / "raw"
@@ -43,16 +70,16 @@ TEI_CONTAINER_PREFIX = "tei-"
 
 DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL") or "sentence-transformers/all-MiniLM-L6-v2"
 DEFAULT_CHAT_MODEL = "gpt-4o-mini"
-DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
+DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8081/v1")
 DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
+_LOCALAI_PORT_ENV = os.getenv("LOCALAI_PORT")
+LOCALAI_PORT = _safe_int(_LOCALAI_PORT_ENV, _port_from_url(DEFAULT_LOCALAI_BASE_URL) or 8081)
+LOCALAI_PORT_LOCKED = _LOCALAI_PORT_ENV is not None
 
 DEFAULT_CHUNK_SIZE = 1200
 DEFAULT_CHUNK_OVERLAP = 200
-DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8080/v1")
-DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
 LOCALAI_IMAGE = os.getenv("LOCALAI_IMAGE", "localai/localai:latest")
 LOCALAI_CONTAINER_NAME = os.getenv("LOCALAI_CONTAINER_NAME", "localai-runtime")
-LOCALAI_PORT = int(os.getenv("LOCALAI_PORT", "8080"))
 LOCALAI_RUNTIME_MODEL = os.getenv("LOCALAI_RUNTIME_MODEL", "llama-3.2-1b-instruct:q4_k_m")
 LOCALAI_COMPOSE_PROJECT = os.getenv("LOCALAI_COMPOSE_PROJECT", "khoa_luan")
 LOCALAI_COMPOSE_SERVICE = os.getenv("LOCALAI_COMPOSE_SERVICE", "localai")
@@ -325,6 +352,49 @@ def format_tei_container_label(container_name: str) -> str:
     return f"{model_slug} - {runtime_label}"
 
 
+def _is_port_available(port: int, host: str = "0.0.0.0") -> bool:
+    """Return True if the given host/port combination can be bound."""
+    if port <= 0:
+        return False
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+        sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        sock.settimeout(0.5)
+        try:
+            sock.bind((host, port))
+        except OSError:
+            return False
+    return True
+
+
+def _reserve_localai_port() -> Tuple[Optional[int], Optional[int]]:
+    """Pick an available host port for the LocalAI container.
+
+    Returns (available_port, conflicted_port). If available_port is None,
+    the caller should report that conflicted_port is already in use.
+    """
+    preferred = LOCALAI_PORT or 8081
+    if _is_port_available(preferred):
+        return preferred, None
+    if LOCALAI_PORT_LOCKED:
+        return None, preferred
+    search_range = list(range(8081, 8105))
+    if preferred not in search_range:
+        search_range.insert(0, preferred)
+    for candidate in search_range:
+        if candidate == preferred:
+            continue
+        if _is_port_available(candidate):
+            return candidate, preferred
+    return None, preferred
+
+
+def set_localai_base_url(port: int) -> str:
+    base_url = f"http://localhost:{port}/v1"
+    os.environ["LOCALAI_BASE_URL"] = base_url
+    st.session_state["localai_base_url"] = base_url
+    return base_url
+
+
 def localai_is_running() -> bool:
     try:
         result = subprocess.run(
@@ -354,6 +424,15 @@ def localai_is_running() -> bool:
 def start_localai_service() -> tuple[bool, str]:
     if localai_is_running():
         return True, "LocalAI service already running."
+    selected_port, conflicted_port = _reserve_localai_port()
+    if selected_port is None:
+        return (
+            False,
+            (
+                f"Port {conflicted_port} is already in use. "
+                "Stop the service occupying it or set LOCALAI_PORT to a different free port."
+            ),
+        )
     try:
         result = subprocess.run(
             [
@@ -370,7 +449,7 @@ def start_localai_service() -> tuple[bool, str]:
                 "--label",
                 "com.docker.compose.version=1.29.2",
                 "-p",
-                f"{LOCALAI_PORT}:8080",
+                f"{selected_port}:8080",
                 "-e",
                 "LOG_LEVEL=info",
                 LOCALAI_IMAGE,
@@ -391,7 +470,11 @@ def start_localai_service() -> tuple[bool, str]:
     if result.returncode != 0:
         detail = result.stderr.strip() or result.stdout.strip() or "Failed to start localai service."
         return False, detail
-    return True, (result.stdout.strip() or "LocalAI service started.")
+    set_localai_base_url(selected_port)
+    message = result.stdout.strip() or f"LocalAI service started on port {selected_port}."
+    if conflicted_port and conflicted_port != selected_port:
+        message += f" (Port {conflicted_port} was busy, so {selected_port} was used instead.)"
+    return True, message
 
 
 def stop_localai_service() -> tuple[bool, str]:
