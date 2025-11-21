@@ -50,6 +50,15 @@ def _clean_text(value: Optional[str]) -> str:
     return "\n".join(lines)
 
 
+def _normalize_ascii_lower(value: Optional[str]) -> str:
+    """Return a lowercase ASCII-only version of the provided text."""
+    if not value:
+        return ""
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    return " ".join(ascii_text.lower().split())
+
+
 def _chunk_legacy(text: str, max_len: int, overlap: int) -> Iterator[str]:
     text = _clean_text(text)
     if not text:
@@ -92,6 +101,17 @@ def _compose_context(doc_meta: Dict[str, str], heading: str, breadcrumbs: str) -
     return " | ".join(parts)
 
 
+PRIORITY_SECTION_KEYWORDS: Tuple[str, ...] = (
+    "giang vien",
+    "giao vien",
+    "giang day",
+    "lecturer",
+    "teacher",
+    "instructor",
+    "faculty",
+)
+
+
 def _prepare_chunk(
     doc_meta: Dict[str, str],
     chunk_data: Dict,
@@ -103,10 +123,6 @@ def _prepare_chunk(
     if not raw_text:
         return None
 
-    word_count = int(chunk_data.get("word_count") or len(raw_text.split()))
-    if word_count < min_words:
-        return None
-
     heading_path = [h for h in chunk_data.get("heading_path", []) if h]
     breadcrumbs = chunk_data.get("breadcrumbs") or " > ".join(heading_path)
     primary_heading = chunk_data.get("primary_heading") or (heading_path[-1] if heading_path else "")
@@ -115,6 +131,19 @@ def _prepare_chunk(
         doc_meta, primary_heading, breadcrumbs
     )
     embed_text = f"{context}\n{raw_text}" if context else raw_text
+
+    priority_text_parts = [
+        " ".join(heading_path),
+        primary_heading,
+        breadcrumbs,
+        raw_text,
+    ]
+    normalized_priority_text = _normalize_ascii_lower(" ".join(part for part in priority_text_parts if part))
+    is_priority_chunk = any(keyword in normalized_priority_text for keyword in PRIORITY_SECTION_KEYWORDS)
+
+    word_count = int(chunk_data.get("word_count") or len(raw_text.split()))
+    if not is_priority_chunk and word_count < min_words:
+        return None
 
     if word_count <= short_threshold:
         length_category = "short"

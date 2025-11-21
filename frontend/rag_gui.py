@@ -1,5 +1,13 @@
 """Streamlit UI for the PDF RAG assistant."""
 
+# Tổng quan các phần của module:
+# 1. Biến cấu hình/đường dẫn (cấu trúc thư mục, giá trị mặc định, metadata TEI).
+# 2. Tiện ích quản lý runtime cho container TEI và LocalAI chat.
+# 3. Hỗ trợ chung dùng lại giữa backend và frontend.
+# 4. Tiện ích pipeline/index giao tiếp với các script ingest.
+# 5. Logic truy hồi + trả lời (tìm chunk, heuristic, prompt).
+# 6. Công cụ và widget Streamlit cho giao diện.
+
 import importlib.util
 import json
 import os
@@ -8,8 +16,11 @@ import sys
 import platform
 import re
 import socket
+import math
 from pathlib import Path
-from typing import Any, Callable, Dict, List, Optional, Tuple
+from typing import Any, Callable, Dict, List, Optional, Sequence, Tuple, Set, Union
+from dataclasses import dataclass
+from collections import defaultdict
 from urllib.parse import urlparse
 from uuid import uuid4
 
@@ -31,8 +42,12 @@ SOFT_PID_REGISTRY: dict[str, int] = {}
 
 
 # -----------------------------------------------------------------------------#
-# Paths and configuration
+# [S1] Paths and configuration
 # -----------------------------------------------------------------------------#
+# Gom cấu trúc thư mục, biến môi trường, model mặc định và bảng tra cứu giúp
+# các phần sau dùng cấu hình như dữ liệu thống nhất. Phần này cũng định nghĩa
+# mọi giá trị mặc định (model, chunking, backend URL) để khi dò lỗi cấu hình
+# chỉ cần tìm “[S1]” là thấy toàn bộ bối cảnh cấu hình.
 
 
 def _safe_int(value: Optional[str], default: int) -> int:
@@ -274,6 +289,14 @@ def sanitize_tei_container_name(model_key: str, runtime_key: str) -> str:
     while "--" in sanitized:
         sanitized = sanitized.replace("--", "-")
     return sanitized[:63] or f"{TEI_CONTAINER_PREFIX}runtime"
+
+
+# -----------------------------------------------------------------------------#
+# [S2] Runtime management (Docker orchestration)
+# -----------------------------------------------------------------------------#
+# Bộ hàm kiểm tra/khởi động/dừng runtime TEI và LocalAI để UI hiển thị trạng
+# thái/trình điều khiển runtime nhất quán. Khi cần xử lý container/port,
+# cứ tìm “[S2]” để thấy toàn bộ logic start/stop, health-check và cấp phát port.
 
 
 def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
@@ -604,8 +627,11 @@ def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
 
 
 # -----------------------------------------------------------------------------#
-# Utility helpers
+# [S3] Utility helpers
 # -----------------------------------------------------------------------------#
+# Các wrapper nhỏ dùng chung cho pipeline ingest, logic truy hồi và UI
+# Streamlit (chuẩn hóa đường dẫn, manifest, tạo thư mục, ...). Nhìn vào "[S3]"
+# sẽ thấy nơi chuẩn hoá model -> thư mục, đọc metadata index và client TEI.
 
 
 def safe_model_dir(model_name: str) -> str:
@@ -839,8 +865,11 @@ def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
 
 
 # -----------------------------------------------------------------------------#
-# Index utilities (backend pipeline)
+# [S4] Index utilities (backend pipeline)
 # -----------------------------------------------------------------------------#
+# Quản lý pipeline ingest DOCX, phát hiện artifact và các helper nối FAISS/
+# brute-force index với phía front-end. Dò các tác vụ ingest, tiến trình pipeline
+# hay DOCX -> index chỉ cần search “[S4]”.
 
 
 def detect_docx_languages() -> List[str]:
@@ -956,10 +985,161 @@ def run_backend_pipeline(
     return success, message
 
 
+# -----------------------------------------------------------------------------#
+# [S5] Retrieval and answer generation
+# -----------------------------------------------------------------------------#
+# Tải cache index, chạy truy hồi FAISS + kết hợp keyword, áp dụng heuristic đặc
+# thù đề cương (doc_id, giảng viên, tín chỉ, ...), build prompt và dựng câu trả
+# lời. Tìm “[S5]” để thấy toàn bộ tầng suy luận/tìm kiếm trước khi hiển thị UI.
+# Các tiểu mục [S5A..F] giúp định vị nhanh các heuristics đặc thù.
+
+
+# ----- [S5A] Chunk scoring & lexical fallback --------------------------------
+# Gom helper chuẩn hoá vector, xác định chunk_id và fallback lexicon để kết hợp
+# cùng FAISS. Đây là nơi cần soi khi muốn thay đổi thứ tự rank hoặc loại bỏ
+# chunk trùng.
+
+
 def _l2_normalize(array: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(array, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     return array / norms
+
+
+def _is_connection_issue(exc: Exception) -> bool:
+    """Return True if the exception looks like a transient connection failure."""
+    if isinstance(exc, (requests.RequestException, ConnectionError, TimeoutError)):
+        return True
+    message = str(exc).lower()
+    return any(token in message for token in ("connection", "timed out", "temporarily unavailable"))
+
+
+def _chunk_identity(meta: Dict[str, Any]) -> str:
+    """Return a deterministic identifier for a chunk for deduplication."""
+    if not isinstance(meta, dict):
+        return str(id(meta))
+    for key in ("chunk_id", "id"):
+        value = meta.get(key)
+        if value is not None:
+            return str(value)
+    doc_id = meta.get("doc_id") or "doc"
+    order = meta.get("chunk_order", "0")
+    subindex = meta.get("chunk_subindex", "0")
+    filename = meta.get("source_filename") or meta.get("filename") or "src"
+    return f"{doc_id}-{order}-{subindex}-{filename}"
+
+
+def _tokenize_keywords(question: str) -> List[str]:
+    normalized = _normalize_query(question)
+    if not normalized:
+        return []
+    tokens = re.split(r"[^a-z0-9]+", normalized)
+    return [token for token in tokens if len(token) >= 3]
+
+
+def _score_chunk_keywords(tokens: List[str], meta: Dict[str, Any]) -> float:
+    if not tokens:
+        return 0.0
+    haystack_parts = [
+        meta.get("section_heading"),
+        meta.get("primary_heading"),
+        meta.get("breadcrumbs"),
+        _get_chunk_text(meta),
+    ]
+    haystack = _normalize_query(" ".join(part for part in haystack_parts if part))
+    if not haystack:
+        return 0.0
+    raw_score = sum(1 for token in tokens if token in haystack)
+    if raw_score == 0:
+        return 0.0
+    penalty = math.log1p(max(len(haystack), 1))
+    return raw_score / penalty
+
+
+def _keyword_search_chunks(
+    question: str,
+    limit: int,
+    resources: Optional[Dict[str, Any]] = None,
+) -> List[Dict[str, Any]]:
+    """Perform a lightweight lexical scan over meta.jsonl chunks as a fallback."""
+    tokens = _tokenize_keywords(question)
+    if not tokens or limit <= 0:
+        return []
+    if resources is None:
+        resources = ensure_backend_index_cache(st.session_state.embed_model)
+    metas = resources.get("metas") or []
+    scored: List[Tuple[float, int]] = []
+    for idx, meta in enumerate(metas):
+        score = _score_chunk_keywords(tokens, meta)
+        if score > 0:
+            scored.append((score, idx))
+    if not scored:
+        return []
+    scored.sort(key=lambda item: item[0], reverse=True)
+    results: List[Dict[str, Any]] = []
+    seen: Set[str] = set()
+    for score, meta_idx in scored:
+        meta = metas[meta_idx]
+        ident = _chunk_identity(meta)
+        if ident in seen:
+            continue
+        seen.add(ident)
+        results.append({"score": float(score), "meta": meta})
+        if len(results) >= limit:
+            break
+    return results
+
+
+def _merge_ranked_chunks(
+    primary: List[Dict[str, Any]],
+    fallback: List[Dict[str, Any]],
+    limit: int,
+) -> List[Dict[str, Any]]:
+    """Merge vector and lexical results, keeping order and removing duplicates."""
+    merged: List[Dict[str, Any]] = []
+    seen: Set[str] = set()
+
+    def _consume(items: List[Dict[str, Any]]) -> None:
+        for item in items:
+            meta = item.get("meta") if isinstance(item, dict) else {}
+            ident = _chunk_identity(meta or {})
+            if ident in seen:
+                continue
+            seen.add(ident)
+            merged.append(item)
+            if len(merged) >= limit:
+                break
+
+    _consume(primary)
+    if len(merged) < limit:
+        _consume(fallback)
+    return merged[:limit]
+
+
+def _dedupe_chunks(chunks: List[Dict[str, Any]], max_items: Optional[int] = None) -> List[Dict[str, Any]]:
+    """Remove duplicate chunks by id/text to avoid repeated answers."""
+    deduped: List[Dict[str, Any]] = []
+    seen_ids: Set[str] = set()
+    seen_texts: Set[str] = set()
+    for chunk in chunks:
+        meta = chunk.get("meta") if isinstance(chunk, dict) else {}
+        ident = _chunk_identity(meta or {})
+        text = re.sub(r"\s+", " ", (_get_chunk_text(meta) or "").strip())
+        if ident in seen_ids or (text and text in seen_texts):
+            continue
+        seen_ids.add(ident)
+        if text:
+            seen_texts.add(text)
+        deduped.append(chunk)
+        if max_items and len(deduped) >= max_items:
+            break
+    return deduped
+
+
+# ----- [S5B] Backend index cache & vector search -----------------------------
+# Load manifest/meta.jsonl, giữ cache trong session và thực hiện FAISS/
+# brute-force retrieval rồi kết hợp với lexical search. Các hàm dưới đây xử lý
+# read/write cache, chuẩn hoá context và dựng chuỗi đầu vào LLM.
 
 
 def _load_backend_resources(index_dir: Path) -> Dict[str, Any]:
@@ -1009,6 +1189,40 @@ def ensure_backend_index_cache(model_name: str) -> Dict[str, Any]:
     return cache[key]
 
 
+def _get_doc_meta(doc_id: str) -> Optional[Dict[str, Any]]:
+    if not doc_id:
+        return None
+    meta_cache = st.session_state.setdefault("doc_meta_cache", {})
+    if doc_id in meta_cache:
+        return meta_cache[doc_id]
+    resources = ensure_backend_index_cache(st.session_state.embed_model)
+    for meta in resources.get("metas", []):
+        if meta.get("doc_id") == doc_id:
+            meta_cache[doc_id] = meta
+            return meta
+    return None
+
+
+def _load_course_document(doc_id: str) -> Optional[Dict[str, Any]]:
+    if not doc_id:
+        return None
+    doc_cache = st.session_state.setdefault("course_document_cache", {})
+    if doc_id in doc_cache:
+        return doc_cache[doc_id]
+    meta = _get_doc_meta(doc_id)
+    if not meta:
+        return None
+    source_path = meta.get("source_path")
+    if not source_path:
+        return None
+    try:
+        data = json.loads(Path(source_path).read_text(encoding="utf-8"))
+    except OSError:
+        return None
+    doc_cache[doc_id] = data
+    return data
+
+
 def invalidate_backend_index_cache(model_name: Optional[str] = None):
     if "backend_index_cache" not in st.session_state:
         return
@@ -1028,7 +1242,16 @@ def embed_query_vector(question: str, embedding_backend: str, embedding_model: s
 
 def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
     resources = ensure_backend_index_cache(st.session_state.embed_model)
-    qvec = embed_query_vector(question, st.session_state.embedding_backend, st.session_state.embed_model)
+    try:
+        qvec = embed_query_vector(
+            question,
+            st.session_state.embedding_backend,
+            st.session_state.embed_model,
+        )
+    except Exception as exc:
+        if _is_connection_issue(exc):
+            return _keyword_search_chunks(question, top_k, resources)
+        raise
 
     backend_type = resources["manifest"].get("backend", "faiss")
     metas = resources["metas"]
@@ -1064,7 +1287,26 @@ def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
             continue
         meta = metas[idx]
         ranked.append({"score": score, "meta": meta})
+
+    if len(ranked) < k:
+        lexical = _keyword_search_chunks(question, max(k * 2, 10), resources)
+        if lexical:
+            ranked = _merge_ranked_chunks(ranked, lexical, k)
+
+    if not ranked:
+        ranked = _keyword_search_chunks(question, k, resources)
+
     return ranked
+
+
+def retrieve_relevant_chunks(question: str) -> List[Dict[str, Any]]:
+    """Full retrieval pipeline with course filtering and attribute expansion."""
+    target_doc_ids = _identify_target_doc_ids(question)
+    chunks = search_backend_index(question, st.session_state.retriever_k)
+    chunks = _filter_chunks_by_course(question, chunks, target_doc_ids)
+    chunks = _maybe_expand_instructor_chunks(question, chunks, target_doc_ids)
+    chunks = _ensure_attribute_chunks(question, chunks, target_doc_ids)
+    return _dedupe_chunks(chunks)
 
 
 def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
@@ -1076,11 +1318,319 @@ def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
         prefix = f"[{idx}] {source}"
         if heading:
             prefix += f" | {heading}"
-        text = meta.get("text") or ""
+        text = _get_chunk_text(meta)
         parts.append(f"{prefix}\n{text}")
     return "\n\n---\n\n".join(parts)
 
 
+def _normalize_chunk_text(text: str) -> str:
+    normalized = (text or "").replace("\t", " ").replace("\u00a0", " ")
+    normalized = re.sub(r"[ ]{2,}", " ", normalized)
+    normalized = re.sub(r"\.{3,}", " ", normalized)
+    lines: List[str] = []
+    for raw in normalized.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        if "|" in line:
+            cells = [cell.strip() for cell in line.split("|")]
+            if any(cell for cell in cells if cell):
+                trimmed = [cell for cell in cells if cell]
+                if trimmed:
+                    line = "| " + " | ".join(trimmed) + " |"
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def _get_chunk_text(meta: Dict[str, Any]) -> str:
+    cached = meta.get("_normalized_text")
+    if isinstance(cached, str):
+        return cached
+    text = meta.get("text") or ""
+    normalized = _normalize_chunk_text(text)
+    meta["_normalized_text"] = normalized
+    return normalized
+
+
+def _is_table_line(line: str) -> bool:
+    if "|" not in line:
+        return False
+    segments = [segment.strip() for segment in line.split("|")]
+    return sum(1 for segment in segments if segment) >= 2
+
+
+def _format_markdown_table(lines: List[str]) -> str:
+    rows = []
+    max_cols = 0
+    for raw in lines:
+        if not _is_table_line(raw):
+            continue
+        parts = [part.strip() for part in raw.split("|") if part.strip()]
+        if not parts:
+            continue
+        rows.append(parts)
+        max_cols = max(max_cols, len(parts))
+    if len(rows) < 2:
+        return "\n".join(lines)
+    normalized_rows: List[List[str]] = []
+    for row in rows:
+        padded = row + ["" for _ in range(max_cols - len(row))]
+        normalized_rows.append(padded)
+    header = normalized_rows[0]
+    body = normalized_rows[1:]
+    sep = "| " + " | ".join("---" for _ in header) + " |"
+    output = ["| " + " | ".join(header) + " |", sep]
+    for row in body:
+        output.append("| " + " | ".join(row) + " |")
+    return "\n".join(output)
+
+
+def _render_tables_in_text(text: str) -> str:
+    lines = text.splitlines()
+    out: List[str] = []
+    table_buffer: List[str] = []
+
+    def flush_table():
+        if table_buffer:
+            out.append(_format_markdown_table(table_buffer))
+            table_buffer.clear()
+
+    for line in lines:
+        stripped = line.rstrip()
+        if _is_table_line(stripped):
+            table_buffer.append(stripped)
+        else:
+            flush_table()
+            out.append(stripped)
+    flush_table()
+    return "\n".join(part for part in out if part.strip())
+
+
+# ----- [S5C] Course scoping & matching heuristics ----------------------------
+# Gắn câu hỏi vào doc_id cụ thể (tên học phần, mã môn học) để filter chunk và
+# bổ sung chunk bắt buộc (giảng viên, tín chỉ). Khi muốn điều chỉnh cách dò
+# học phần, tìm tới “[S5C]”.
+def _slugify_match_text(value: str) -> str:
+    normalized = unicodedata.normalize("NFKD", value or "")
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    ascii_text = re.sub(r"[^a-z0-9]+", "-", ascii_text.lower()).strip("-")
+    return ascii_text
+
+
+def _normalize_alias_text(value: str) -> str:
+    value = value.strip(" \t-•")
+    if ":" in value:
+        value = value.split(":", 1)[1]
+    elif "-" in value:
+        parts = value.split("-", 1)
+        if len(parts[0].split()) <= 5:
+            value = parts[1]
+    value = value.strip(" \t:-•")
+    value = value.split("|", 1)[0].strip()
+    value = value.rstrip(".")
+    return value.strip()
+
+
+def _extract_course_alias_candidates(text: str) -> List[str]:
+    aliases: List[str] = []
+    for raw_line in text.splitlines():
+        cleaned = raw_line.strip()
+        if not cleaned:
+            continue
+        normalized = _normalize_query(cleaned)
+        if not normalized:
+            continue
+        has_marker = False
+        if "english" in normalized and "course" in normalized:
+            has_marker = True
+        elif "ten hoc phan" in normalized and "tieng anh" in normalized:
+            has_marker = True
+        if not has_marker:
+            continue
+        alias = _normalize_alias_text(cleaned)
+        if alias:
+            aliases.append(alias)
+    return aliases
+
+
+def _extract_course_aliases(meta: Dict[str, Any]) -> List[str]:
+    doc_id = meta.get("doc_id")
+    if not doc_id:
+        return []
+    cache = st.session_state.setdefault("course_alias_cache", {})
+    if doc_id in cache:
+        return cache[doc_id]
+    data = _load_course_document(doc_id)
+    aliases: List[str] = []
+    if data:
+        text = data.get("full_text") or ""
+        if text:
+            aliases.extend(_extract_course_alias_candidates(text))
+        for chunk in data.get("chunks", []):
+            chunk_text = chunk.get("text")
+            if not chunk_text:
+                continue
+            normalized = _normalize_query(chunk_text)
+            if "ten hoc phan" not in normalized and "course" not in normalized:
+                continue
+            aliases.extend(_extract_course_alias_candidates(chunk_text))
+    seen_aliases: List[str] = []
+    seen_norms: Set[str] = set()
+    for alias in aliases:
+        normalized = alias.lower()
+        if normalized in seen_norms:
+            continue
+        seen_norms.add(normalized)
+        seen_aliases.append(alias)
+    cache[doc_id] = seen_aliases
+    return seen_aliases
+
+
+def _extract_possible_course_slugs(meta: Dict[str, Any]) -> List[str]:
+    slugs: List[str] = []
+    course_name = meta.get("course_name")
+    if course_name:
+        slug_value = _slugify_match_text(course_name)
+        if slug_value:
+            slugs.append(slug_value)
+    source_filename = meta.get("source_filename")
+    if source_filename:
+        stem = Path(source_filename).stem
+        prefix = stem.split("_")[0]
+        slug_value = _slugify_match_text(prefix)
+        if slug_value:
+            slugs.append(slug_value)
+    for alias in _extract_course_aliases(meta):
+        slug_value = _slugify_match_text(alias)
+        if slug_value:
+            slugs.append(slug_value)
+    deduped: List[str] = []
+    seen: Set[str] = set()
+    for slug in slugs:
+        if slug in seen:
+            continue
+        deduped.append(slug)
+        seen.add(slug)
+    return deduped
+
+
+def _get_course_registry() -> Dict[str, Dict[str, Any]]:
+    cache = st.session_state.setdefault("course_registry_cache", {})
+    key = safe_model_dir(st.session_state.embed_model)
+    if key in cache:
+        return cache[key]
+
+    resources = ensure_backend_index_cache(st.session_state.embed_model)
+    registry: Dict[str, Dict[str, Any]] = {}
+    for meta in resources.get("metas", []):
+        doc_id = meta.get("doc_id")
+        if not doc_id:
+            continue
+        entry = registry.setdefault(
+            doc_id,
+            {
+                "course_name": meta.get("course_name"),
+                "course_code": meta.get("course_code"),
+                "slugs": set(),
+            },
+        )
+        entry["slugs"].update(_extract_possible_course_slugs(meta))
+    cache[key] = registry
+    return registry
+
+
+def _identify_target_doc_ids(question: str) -> List[str]:
+    registry = _get_course_registry()
+    question_slug = _slugify_match_text(question)
+    question_upper = question.upper()
+    code_matches: List[str] = []
+    name_matches: List[str] = []
+
+    for doc_id, entry in registry.items():
+        course_code = (entry.get("course_code") or "").upper()
+        if course_code and course_code in question_upper:
+            code_matches.append(doc_id)
+            continue
+
+        for slug in entry.get("slugs", []):
+            if slug and slug in question_slug:
+                name_matches.append(doc_id)
+                break
+
+    if code_matches:
+        return code_matches
+    if name_matches:
+        return name_matches
+    return []
+
+
+def _course_matches_question(
+    question: str,
+    meta: Dict[str, Any],
+    target_doc_ids: Optional[List[str]] = None,
+) -> bool:
+    if target_doc_ids:
+        doc_id = meta.get("doc_id")
+        if doc_id and doc_id in target_doc_ids:
+            return True
+    normalized_question = _slugify_match_text(question)
+    if not normalized_question:
+        return False
+
+    course_code = (meta.get("course_code") or "").upper()
+    if course_code and course_code in question.upper():
+        return True
+
+    course_name = meta.get("course_name") or ""
+    if course_name:
+        course_slug = _slugify_match_text(course_name)
+        if course_slug and course_slug in normalized_question:
+            return True
+    return False
+
+
+def _search_course_chunks_from_index(
+    question: str,
+    limit: int,
+    target_doc_ids: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    try:
+        resources = ensure_backend_index_cache(st.session_state.embed_model)
+    except Exception:
+        return []
+
+    metas = resources.get("metas") or []
+    hits: List[Dict[str, Any]] = []
+    for meta in metas:
+        if not _course_matches_question(question, meta, target_doc_ids):
+            continue
+        hits.append({"score": 0.0, "meta": meta})
+        if len(hits) >= limit:
+            break
+    return hits
+
+
+def _filter_chunks_by_course(
+    question: str,
+    chunks: List[Dict[str, Any]],
+    target_doc_ids: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    matched = [
+        chunk for chunk in chunks if _course_matches_question(question, chunk["meta"], target_doc_ids)
+    ]
+    if matched:
+        return matched
+    fallback = _search_course_chunks_from_index(
+        question,
+        st.session_state.retriever_k,
+        target_doc_ids,
+    )
+    return fallback or chunks
+
+
+# ----- [S5D] Prompt/LLM wiring & small talk guardrails -----------------------
+# Quản lý client ChatOpenAI/LocalAI, chuẩn hóa text người dùng và các phản hồi
+# small-talk để trước khi truy hồi tập trung vào câu hỏi hợp lệ.
 def _build_chat_llm(chat_model: str) -> ChatOpenAI:
     """Return a ChatOpenAI client configured for the active run mode."""
     run_mode = st.session_state.get("run_mode", "local")
@@ -1135,12 +1685,19 @@ def call_llm(chat_model: str, question: str, context: str) -> str:
             (
                 "system",
                 "Bạn là trợ lý RAG cho đề cương môn học. "
-                "Luôn ưu tiên sử dụng nội dung trong Context. "
+                "Luôn trả lời dựa 100% vào phần Context kèm theo, không suy luận chung chung. "
+                "Nếu Context có bảng hoặc danh sách (ví dụ mục Giảng viên, kế hoạch dạy học), hãy trích xuất rõ ràng "
+                "các mục trong bảng theo thứ tự xuất hiện và nêu đủ họ tên, email, ghi chú nếu có. "
+                "Khi câu hỏi dạng 'Ai/những ai/giảng viên nào', chỉ liệt kê những người được Context nhắc tới, không mô tả lý thuyết. "
                 "Mỗi khi trích dẫn, ghi chú dạng [số] tương ứng với mục trong Context. "
                 "Nếu Context không có thông tin phù hợp, hãy nói rõ và đề nghị người dùng cung cấp chi tiết hơn, "
-                "không tự bịa ra dữ kiện.",
+                "không tự bịa ra dữ kiện. Trả lời rõ ràng và đầy đủ theo Context, không cần giới hạn số câu cố định.",
             ),
-            ("human", "Question:\n{question}\n\nContext:\n{context}\n\nAnswer in Vietnamese."),
+            (
+                "human",
+                "Question:\n{question}\n\nContext:\n{context}\n\n"
+                "Answer using the same language as the Question.",
+            ),
         ]
     )
 
@@ -1150,9 +1707,1147 @@ def call_llm(chat_model: str, question: str, context: str) -> str:
     return response.content if hasattr(response, "content") else str(response)
 
 
+# ----- [S5E] Domain heuristics (giảng viên, tín chỉ, CLO, khoa) --------------
+# Bộ constants + parser đọc bảng/đoạn text để nhận biết từ khóa đặc thù đề
+# cương. Các hàm kế tiếp xử lý nhận dạng giảng viên, tín chỉ, giờ học, CLO,
+# khoa viện để khi không cần LLM vẫn trả lời chính xác.
+INSTRUCTOR_KEYWORDS = {
+    "giang vien",
+    "giao vien",
+    "giang day",
+    "giao vien phu trach",
+    "teacher",
+    "instructor",
+    "faculty",
+    "lecturer",
+    "lecturers",
+    "full name",
+}
+CREDIT_KEYWORDS = {
+    "tin chi",
+    "tinchl",  # safeguard for missing accents
+    "credits",
+    "credit hours",
+    "so tin chi",
+    "credit",
+}
+CLASS_HOUR_KEYWORDS = {
+    "so gio tren lop",
+    "so gio ly thuyet",
+    "gio tren lop",
+    "gio ly thuyet",
+    "tin chi ly thuyet",
+    "thoi luong tren lop",
+    "class hours",
+    "lecture hours",
+    "contact hours",
+    "in-class hours",
+}
+SELF_STUDY_KEYWORDS = {
+    "so gio tu hoc",
+    "gio tu hoc",
+    "tu hoc",
+    "self study",
+    "independent study",
+    "self-learning hours",
+}
+@dataclass(frozen=True)
+class SectionFocus:
+    label: str
+    keywords: Tuple[str, ...]
+    slug_prefixes: Tuple[str, ...] = ()
+    min_segments: int = 2
+    exclude_keys: Tuple[str, ...] = ()
+
+
+def _focus(
+    label: str,
+    keywords: Sequence[str],
+    *,
+    slug_prefixes: Optional[Sequence[str]] = None,
+    min_segments: int = 2,
+    exclude_keys: Optional[Sequence[str]] = None,
+) -> SectionFocus:
+    return SectionFocus(
+        label=label,
+        keywords=tuple(keywords),
+        slug_prefixes=tuple(slug_prefixes or ()),
+        min_segments=min_segments,
+        exclude_keys=tuple(exclude_keys or ()),
+    )
+
+
+SECTION_FOCUS_CONFIG: Dict[str, SectionFocus] = {
+    "general": _focus(
+        "Thông tin chung",
+        (
+            "thong tin chung",
+            "general information",
+            "ten hoc phan",
+            "ma hoc phan",
+            "course information",
+            "course code",
+            "course name",
+            "trinh do dao tao",
+        ),
+        slug_prefixes=("1-thong-tin-chung", "thong-tin-chung", "general-information"),
+    ),
+    "description": _focus(
+        "Mô tả học phần",
+        ("mo ta", "course description", "overview", "tong quan", "gioi thieu hoc phan"),
+        slug_prefixes=("3-mo-ta-hoc-phan-course-descriptions", "mo-ta-hoc-phan-course-descriptions", "mo-ta-hoc-phan"),
+        min_segments=3,
+        exclude_keys=("goals",),
+    ),
+    "goals": _focus(
+        "Mục tiêu học phần",
+        ("muc tieu", "course goal", "course goals", "muc tieu hoc phan", "course objective", "muc tieu hoc tap"),
+        slug_prefixes=("5-muc-tieu-hoc-phan-course-goals", "muc-tieu-hoc-phan-course-goals", "muc-tieu-hoc-phan"),
+    ),
+    "outcomes": _focus(
+        "Chuẩn đầu ra học phần",
+        ("chuan dau ra", "learning outcome", "clo", "muc tieu dau ra", "ket qua hoc tap"),
+        slug_prefixes=("bang-2-chuan-dau-ra-hoc-phan-clo", "chuan-dau-ra-hoc-phan", "course-learning-outcome"),
+    ),
+    "resources": _focus(
+        "Tài liệu học tập",
+        ("tai lieu", "tai lieu tham khao", "giao trinh", "reference book", "learning resource", "tai lieu hoc tap"),
+        slug_prefixes=("4-tai-lieu-hoc-tap", "tai-lieu-hoc-tap", "tai-lieu-tham-khao", "leaning-resources"),
+    ),
+    "assessment": _focus(
+        "Đánh giá học phần",
+        ("danh gia", "co cau diem", "course assessment", "evaluation", "assessment method", "bai danh gia"),
+        slug_prefixes=("7-danh-gia-hoc-phan", "danh-gia-hoc-phan", "co-cau-diem-thanh-phan", "course-assessment"),
+    ),
+    "lesson_plan": _focus(
+        "Kế hoạch dạy học",
+        ("ke hoach day hoc", "lesson plan", "ke hoach giang day", "noi dung day hoc", "lecture plan"),
+        slug_prefixes=("8-ke-hoach-day-hoc", "ke-hoach-day-hoc", "ke-hoach-va-noi-dung-day-hoc", "lesson-plan"),
+    ),
+    "requirements": _focus(
+        "Quy định học phần",
+        ("quy dinh", "course requirement", "yeu cau hoc phan", "class rule", "expectation"),
+        slug_prefixes=(
+            "10-quy-dinh-cua-hoc-phan",
+            "quy-dinh-cua-hoc-phan",
+            "course-requirements",
+            "course-requirements-and-expectation",
+        ),
+        min_segments=1,
+    ),
+    "outcome_assessment": _focus(
+        "Đánh giá chuẩn đầu ra",
+        ("danh gia chuan dau ra", "clo assessment", "learning outcomes assessment"),
+        slug_prefixes=("9-danh-gia-chuan-dau-ra-hoc-phan", "course-leaning-outcomes-assessment"),
+        min_segments=1,
+    ),
+    "exam_matrix": _focus(
+        "Ma trận đề thi",
+        ("ma tran de thi", "exam matrix", "phu luc 1", "so cau hoi thi"),
+        slug_prefixes=("phu-luc-1-ma-tran-de-thi", "ma-tran-de-thi", "exam-matrix"),
+        min_segments=1,
+    ),
+    "rubrics": _focus(
+        "Rubric đánh giá",
+        ("rubric", "phu luc 2", "tieu chi danh gia", "rubric danh gia"),
+        slug_prefixes=("phu-luc-2", "rubric", "rubrics"),
+        min_segments=1,
+    ),
+}
+
+
+def _normalize_segment_key(value: str) -> str:
+    return re.sub(r"\s+", " ", value.strip()).lower()
+
+
+def _segment_mentions_focus(text: str, focus_key: str) -> bool:
+    config = SECTION_FOCUS_CONFIG.get(focus_key)
+    if not config:
+        return False
+    normalized = _normalize_query(text)
+    return any(keyword in normalized for keyword in config.keywords)
+
+
+def _filter_section_segments(segments: List[str], config: SectionFocus) -> List[str]:
+    filtered: List[str] = []
+    seen: Set[str] = set()
+    for segment in segments:
+        trimmed = segment.strip()
+        if not trimmed:
+            continue
+        if config.exclude_keys and any(_segment_mentions_focus(trimmed, key) for key in config.exclude_keys):
+            continue
+        norm = _normalize_segment_key(trimmed)
+        if norm in seen:
+            continue
+        seen.add(norm)
+        filtered.append(trimmed)
+    return filtered
+DEPARTMENT_SECTION_SLUGS = [
+    "2-khoa-vien-quan-ly-va-giang-vien-giang-day",
+    "khoa-vien-quan-ly-va-giang-vien-giang-day",
+]
+INSTRUCTOR_SECTION_SLUGS = [
+    "2-khoa-vien-quan-ly-va-giang-vien-giang-day",
+    "khoa-vien-quan-ly-va-giang-vien-giang-day",
+    "giang-vien-giang-day",
+    "giang-vien",
+    "lecturers-information",
+]
+DEPARTMENT_KEYWORDS = {
+    "khoa",
+    "viện",
+    "vien",
+    "phu trach",
+    "phụ trách",
+    "khoa quan ly",
+    "department",
+    "faculty",
+}
+
+
+def _question_targets_instructors(question: str) -> bool:
+    normalized = _normalize_query(question)
+    return any(keyword in normalized for keyword in INSTRUCTOR_KEYWORDS)
+
+
+def _iter_context_entries(context: str) -> List[Tuple[Optional[str], str]]:
+    entries: List[Tuple[Optional[str], str]] = []
+    for block in context.split("\n\n---\n\n"):
+        block = block.strip()
+        if not block:
+            continue
+        lines = block.splitlines()
+        if not lines:
+            continue
+        header = lines[0]
+        match = re.match(r"\[(\d+)\]", header)
+        chunk_id = match.group(1) if match else None
+        body = "\n".join(lines[1:]).strip()
+        if not body:
+            continue
+        entries.append((chunk_id, body))
+    return entries
+
+
+def _collect_instructors_from_text(text: str) -> List[Dict[str, str]]:
+    rows: List[Dict[str, str]] = []
+    seen: set[Tuple[str, str]] = set()
+
+    table_rows = _extract_instructor_rows(text)
+    if table_rows:
+        collectors = (lambda t: table_rows, )
+    else:
+        collectors = (_extract_instructor_key_values,)
+
+    for collector in collectors:
+        for row in collector(text):
+            name = (row.get("name") or "").strip()
+            email = (row.get("email") or "").strip()
+            if not _is_valid_instructor_name(name):
+                continue
+            key = (name, email)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append({"name": name, "email": email})
+
+    inline_patterns = [
+        re.compile(r"(?P<name>[A-Za-zÀ-ỹĐđ\.'`\-\s]{3,})\s*\((?P<email>[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,})\)"),
+        re.compile(
+            r"(?P<name>[A-Za-zÀ-ỹĐđ\.'`\-\s]{3,})\s*(?:Email|E-mail)\s*[:：]\s*(?P<email>[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,})",
+            re.IGNORECASE,
+        ),
+    ]
+
+    for pattern in inline_patterns:
+        for match in pattern.finditer(text):
+            name = match.group("name").strip()
+            email = match.group("email").strip()
+            if not _is_valid_instructor_name(name):
+                continue
+            key = (name, email)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append({"name": name, "email": email})
+
+    return rows
+
+
+def _extract_instructor_names_from_text(text: str) -> List[str]:
+    names: List[str] = []
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    header_seen = False
+    for line in lines:
+        normalized = _normalize_query(line)
+        if not header_seen:
+            if "ho va ten" in normalized and "email" in normalized:
+                header_seen = True
+            continue
+        if "|" not in line:
+            if names:
+                break
+            continue
+        parts = [part.strip() for part in line.split("|") if part.strip()]
+        if len(parts) < 2:
+            continue
+        candidate = parts[1]
+        if _is_valid_instructor_name(candidate):
+            names.append(candidate)
+    return names
+
+
+def _collect_instructors_from_doc(doc_id: str) -> List[str]:
+    texts = _collect_section_texts(doc_id, INSTRUCTOR_SECTION_SLUGS)
+    seen: set[str] = set()
+    names: List[str] = []
+    if not texts:
+        data = _load_course_document(doc_id)
+        if data:
+            texts = [chunk.get("text") or "" for chunk in data.get("chunks", [])]
+    for block in texts:
+        for name in _extract_instructor_names_from_text(block):
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            names.append(name)
+    return names
+
+
+def _looks_like_name(value: str) -> bool:
+    if not value:
+        return False
+    normalized = value.lower()
+    prefixes = ("ts", "ths", "pgs", "gs", "dr", "prof")
+    if any(prefix + "." in normalized for prefix in prefixes):
+        return True
+    tokens = [token for token in value.split() if token]
+    capitalized = sum(1 for token in tokens if token[0].isalpha() and token[0].isupper())
+    return capitalized >= 2
+
+
+def _is_valid_instructor_name(name: str) -> bool:
+    if not name:
+        return False
+    stripped = name.strip()
+    if len(stripped) < 3 or len(stripped) > 80:
+        return False
+    normalized = _normalize_query(stripped)
+    banned_keywords = {
+        "khoa",
+        "vien",
+        "quan ly",
+        "giang vien giang day",
+        "giang vien giang day hoc phan",
+        "course",
+        "description",
+        "lesson",
+        "giang vien",
+        "dia chi",
+        "bang",
+        "bảng",
+        "phu trach khoa",
+        "phụ trách khoa",
+        "ten hoc phan",
+        "ma hoc phan",
+        "so tin chi",
+        "trinh do",
+        "noi dung",
+        "cau truc",
+        "bao ve",
+        "hinh thuc",
+        "ma tran",
+        "tai lieu",
+        "ket qua",
+    }
+    if any(keyword in normalized for keyword in banned_keywords):
+        return False
+    if "|" in stripped or stripped.endswith(":"):
+        return False
+    if re.search(r"\d", stripped):
+        return False
+    if not _looks_like_name(stripped):
+        return False
+    if any(char in stripped for char in [",", ";", ":", "(", ")", "[", "]"]):
+        return False
+    if len(stripped.split()) > 6:
+        return False
+    return True
+
+
+def _extract_instructor_rows(text: str) -> List[Dict[str, str]]:
+    rows: List[Dict[str, str]] = []
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    header_seen = False
+    for line in lines:
+        if not header_seen:
+            normalized = _normalize_query(line)
+            if "ho va ten" in normalized and "email" in normalized:
+                header_seen = True
+            continue
+        if "|" not in line:
+            if rows:
+                break
+            continue
+        cells = [cell.strip() for cell in line.split("|")]
+        if len(cells) < 3:
+            continue
+        stt = cells[0].strip(" .-")
+        name = cells[1].strip()
+        email = cells[2].strip()
+        if not name:
+            continue
+        rows.append({"stt": stt, "name": name, "email": email})
+    return rows
+
+
+def _extract_instructor_key_values(text: str) -> List[Dict[str, str]]:
+    markers = (
+        "Full name",
+        "Lecturer",
+        "Giảng viên",
+        "Giang vien",
+        "Họ và tên",
+        "Ho va ten",
+        "Email",
+    )
+    normalized = text
+    for marker in markers:
+        normalized = re.sub(
+            rf"\s*({re.escape(marker)})\s*:",
+            r"\n\1:",
+            normalized,
+            flags=re.IGNORECASE,
+        )
+    entries: List[Dict[str, str]] = []
+    current: Dict[str, str] = {}
+    for raw in normalized.splitlines():
+        line = raw.strip(" -\t")
+        if not line or ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        key = key.strip()
+        value = value.strip()
+        if not value:
+            continue
+        lowered = _normalize_query(key)
+        if lowered in {"full name", "lecturer", "giang vien", "ho va ten", "teacher", "instructor"}:
+            if current.get("name"):
+                entries.append(current)
+                current = {}
+            current["name"] = value
+        elif lowered == "email":
+            current["email"] = value
+        elif lowered in {"phone number", "title", "address"}:
+            continue
+    if current.get("name"):
+        entries.append(current)
+    return entries
+
+
+def _extract_instructor_list_entries(text: str) -> List[Dict[str, str]]:
+    entries: List[Dict[str, str]] = []
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        email_match = re.search(r"email[:\s]+([^\s,]+)", line, flags=re.IGNORECASE)
+        email = email_match.group(1).strip() if email_match else ""
+        cleaned = re.sub(r"\.{2,}", " ", line)
+        cleaned = re.sub(r"tel[:\s].*", "", cleaned, flags=re.IGNORECASE)
+        cleaned = cleaned.split("Email", 1)[0]
+        cleaned = re.sub(r"^\s*\d+[\.)]?\s*", "", cleaned)
+        cleaned = cleaned.strip(" -:")
+        if not cleaned:
+            continue
+        lowered = _normalize_query(cleaned)
+        if lowered.startswith("lecturer"):
+            continue
+        entries.append({"name": cleaned, "email": email})
+    return entries
+
+
+def _chunk_contains_instructor_info(meta: Dict[str, Any]) -> bool:
+    text = _get_chunk_text(meta)
+    if not text:
+        return False
+
+    heading_parts = [
+        meta.get("section_heading"),
+        meta.get("primary_heading"),
+        " > ".join(meta.get("heading_path") or []),
+    ]
+    normalized_heading = _normalize_query(" ".join(part for part in heading_parts if part))
+    normalized_text = _normalize_query(text)
+
+    heading_has_keyword = any(keyword in normalized_heading for keyword in INSTRUCTOR_KEYWORDS)
+    text_has_keyword = any(keyword in normalized_text for keyword in INSTRUCTOR_KEYWORDS)
+    if not (heading_has_keyword or text_has_keyword):
+        return False
+
+    return bool(
+        _extract_instructor_rows(text)
+        or _extract_instructor_key_values(text)
+        or _extract_instructor_list_entries(text)
+        or _collect_instructors_from_text(text)
+    )
+
+
+def _extract_course_codes(question: str) -> List[str]:
+    pattern = re.compile(r"[A-Z]{2,}[A-Z0-9]*\d{2,}[A-Z0-9]*")
+    return pattern.findall(question.upper())
+
+
+def _search_instructor_chunks_from_index(
+    question: str,
+    target_doc_ids: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    try:
+        resources = ensure_backend_index_cache(st.session_state.embed_model)
+    except Exception:
+        return []
+
+    metas = resources.get("metas") or []
+    if not metas:
+        return []
+
+    hits: List[Dict[str, Any]] = []
+    for meta in metas:
+        if not _chunk_contains_instructor_info(meta):
+            continue
+
+        if not _course_matches_question(question, meta, target_doc_ids):
+            continue
+
+        hits.append({"score": 0.0, "meta": meta})
+        if len(hits) >= 2:
+            break
+    return hits
+
+
+def _maybe_expand_instructor_chunks(
+    question: str,
+    chunks: List[Dict[str, Any]],
+    target_doc_ids: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    if not _question_targets_instructors(question):
+        return chunks
+
+    relevant = [
+        item
+        for item in chunks
+        if _chunk_contains_instructor_info(item["meta"])
+        and _course_matches_question(question, item["meta"], target_doc_ids)
+    ]
+    if relevant:
+        return relevant
+
+    extras = _search_instructor_chunks_from_index(question, target_doc_ids)
+    return extras or chunks
+
+
+def _ensure_attribute_chunks(
+    question: str,
+    chunks: List[Dict[str, Any]],
+    target_doc_ids: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    need_credit = _question_targets_credits(question) and not any(
+        _extract_credit_value(_get_chunk_text(chunk["meta"])) for chunk in chunks
+    )
+    need_hours = _question_targets_class_hours(question) and not any(
+        _extract_class_hours_value(_get_chunk_text(chunk["meta"])) for chunk in chunks
+    )
+    need_self_study = _question_targets_self_study_hours(question) and not any(
+        _extract_self_study_hours_value(_get_chunk_text(chunk["meta"])) for chunk in chunks
+    )
+    focus_matches = _match_section_focus(question)
+    section_needs = {key: config.min_segments for key, config in focus_matches.items()}
+
+    if not (need_credit or need_hours or need_self_study or section_needs):
+        return chunks
+
+    existing_ids = {chunk["meta"].get("chunk_id") for chunk in chunks}
+    extras: List[Dict[str, Any]] = []
+    search_limit = max(st.session_state.retriever_k * 4, 20)
+    candidates = _search_course_chunks_from_index(
+        question,
+        search_limit,
+        target_doc_ids,
+    )
+    for candidate in candidates:
+        chunk_id = candidate["meta"].get("chunk_id")
+        if chunk_id in existing_ids:
+            continue
+        text = _get_chunk_text(candidate["meta"])
+        added = False
+        if need_credit and _extract_credit_value(text):
+            extras.append(candidate)
+            need_credit = False
+            added = True
+        if not added and need_hours and _extract_class_hours_value(text):
+            extras.append(candidate)
+            need_hours = False
+            added = True
+        if not added and need_self_study and _extract_self_study_hours_value(text):
+            extras.append(candidate)
+            need_self_study = False
+            added = True
+        if not added and section_needs:
+            section_key = _detect_section_key(candidate["meta"], text, focus_matches)
+            if section_key and section_needs.get(section_key, 0) > 0:
+                extras.append(candidate)
+                section_needs[section_key] -= 1
+                added = True
+        if added:
+            existing_ids.add(chunk_id)
+        if not (need_credit or need_hours or need_self_study or any(value > 0 for value in section_needs.values())):
+            break
+
+    return chunks + extras if extras else chunks
+
+
+def _should_answer_in_english(question: str) -> bool:
+    normalized = question.strip()
+    if not normalized:
+        return False
+    ascii_chars = sum(1 for ch in normalized if ord(ch) < 128)
+    ratio = ascii_chars / max(1, len(normalized))
+    if ratio < 0.85:
+        return False
+    lowered = normalized.lower()
+    return any(word in lowered for word in ("who", "lecturer", "teacher"))
+
+
+def _question_targets_credits(question: str) -> bool:
+    normalized = _normalize_query(question)
+    return any(keyword in normalized for keyword in CREDIT_KEYWORDS)
+
+
+def _question_targets_class_hours(question: str) -> bool:
+    normalized = _normalize_query(question)
+    return any(keyword in normalized for keyword in CLASS_HOUR_KEYWORDS)
+
+
+def _question_targets_self_study_hours(question: str) -> bool:
+    normalized = _normalize_query(question)
+    return any(keyword in normalized for keyword in SELF_STUDY_KEYWORDS)
+
+
+def _question_targets_department(question: str) -> bool:
+    normalized = _normalize_query(question)
+    return any(keyword in normalized for keyword in DEPARTMENT_KEYWORDS)
+
+
+def _match_section_focus(question: str) -> Dict[str, SectionFocus]:
+    normalized = _normalize_query(question)
+    matches: Dict[str, SectionFocus] = {}
+    for key, config in SECTION_FOCUS_CONFIG.items():
+        if any(keyword in normalized for keyword in config.keywords):
+            matches[key] = config
+    return matches
+
+
+def _section_focus_matches(heading: str, text: str, config: SectionFocus) -> bool:
+    slug = _slugify_identifier(heading or "")
+    normalized_heading = _normalize_query(heading)
+
+    if config.slug_prefixes:
+        if slug and any(slug.startswith(prefix) for prefix in config.slug_prefixes):
+            return True
+        return any(keyword in normalized_heading for keyword in config.keywords)
+
+    normalized_text = _normalize_query(f"{heading} {text}")
+    return any(keyword in normalized_text for keyword in config.keywords)
+
+
+def _detect_section_key(meta: Dict[str, Any], text: str, focus_matches: Dict[str, SectionFocus]) -> Optional[str]:
+    heading_raw = meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or ""
+    for key, config in focus_matches.items():
+        if _section_focus_matches(heading_raw, text, config):
+            return key
+    return None
+
+
+CRE_CREDIT_PATTERNS = [
+    re.compile(r"(số\s+tín\s+chỉ|so\s+tin\s+chi)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"(credits?)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"([0-9]+)\s*(tín\s*chỉ|tin\s*chi|credits?)", re.IGNORECASE),
+]
+
+
+def _extract_credit_value(text: str) -> Optional[str]:
+    for pattern in CRE_CREDIT_PATTERNS:
+        match = pattern.search(text)
+        if not match:
+            continue
+        for group in reversed(match.groups()):
+            if group and group.strip().isdigit():
+                return group.strip()
+        digits = re.findall(r"[0-9]+", match.group(0))
+        if digits:
+            return digits[-1]
+    text_lower = text.lower()
+    for token in ("credit", "tín chỉ", "tin chi"):
+        if token in text_lower:
+            digits = re.findall(r"[0-9]+", text)
+            if digits:
+                return digits[-1]
+    return None
+
+
+HOUR_PATTERNS = [
+    re.compile(r"(số\s+giờ\s+trên\s+lớp|số\s+giờ\s+lý\s+thuyết)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"(class\s+hours|contact\s+hours|lecture\s+hours)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"([0-9]+)\s*(giờ|gio)\s*(trên\s+lớp|lý\s+thuyết)", re.IGNORECASE),
+]
+SELF_STUDY_PATTERNS = [
+    re.compile(r"(số\s+giờ\s+tự\s+học|so\s+gio\s+tu\s+hoc)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"(self[\-\s]*study\s+hours|independent\s+study)\s*[:\-]?\s*([0-9]+)", re.IGNORECASE),
+    re.compile(r"([0-9]+)\s*(giờ|gio)\s*(tự\s+học|tu\s+hoc)", re.IGNORECASE),
+]
+
+
+def _extract_class_hours_value(text: str) -> Optional[str]:
+    for pattern in HOUR_PATTERNS:
+        match = pattern.search(text)
+        if not match:
+            continue
+        for group in reversed(match.groups()):
+            if group and group.strip().isdigit():
+                return group.strip()
+        digits = re.findall(r"[0-9]+", match.group(0))
+        if digits:
+            return digits[-1]
+    return None
+
+
+def _extract_self_study_hours_value(text: str) -> Optional[str]:
+    for pattern in SELF_STUDY_PATTERNS:
+        match = pattern.search(text)
+        if not match:
+            continue
+        for group in reversed(match.groups()):
+            if group and group.strip().isdigit():
+                return group.strip()
+        digits = re.findall(r"[0-9]+", match.group(0))
+        if digits:
+            return digits[-1]
+    return None
+
+
+def _extract_self_study_hours_from_doc(doc_id: str) -> Optional[str]:
+    data = _load_course_document(doc_id)
+    if not data:
+        return None
+    for chunk in data.get("chunks", []):
+        text = _normalize_chunk_text(chunk.get("text") or "")
+        value = _extract_self_study_hours_value(text)
+        if value:
+            return value
+    return None
+
+
+def _answer_course_credits(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    if not _question_targets_credits(question):
+        return None
+    english = _should_answer_in_english(question)
+    label = "Credits" if english else "Số tín chỉ"
+    for idx, chunk in enumerate(chunks, start=1):
+        text = _get_chunk_text(chunk["meta"])
+        value = _extract_credit_value(text)
+        if value:
+            return f"{label}: {value} [{idx}]"
+    return None
+
+
+def _answer_class_hours(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    if not _question_targets_class_hours(question):
+        return None
+    english = _should_answer_in_english(question)
+    label = "Class hours" if english else "Số giờ trên lớp"
+    for idx, chunk in enumerate(chunks, start=1):
+        text = _get_chunk_text(chunk["meta"])
+        value = _extract_class_hours_value(text)
+        if value:
+            return f"{label}: {value} [{idx}]"
+    return None
+
+
+def _answer_self_study_hours(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    if not _question_targets_self_study_hours(question):
+        return None
+    english = _should_answer_in_english(question)
+    label = "Self-study hours" if english else "Số giờ tự học"
+    for idx, chunk in enumerate(chunks, start=1):
+        text = _get_chunk_text(chunk["meta"])
+        value = _extract_self_study_hours_value(text)
+        if value:
+            return f"{label}: {value} [{idx}]"
+    doc_ids = _identify_target_doc_ids(question)
+    for doc_id in doc_ids:
+        value = _extract_self_study_hours_from_doc(doc_id)
+        if value:
+            citation = ""
+            for idx, chunk in enumerate(chunks, start=1):
+                if chunk["meta"].get("doc_id") == doc_id:
+                    citation = f" [{idx}]"
+                    break
+            return f"{label}: {value}{citation}"
+    return None
+
+
+def _answer_instructors(question: str, chunks: List[Dict[str, Any]], context: str) -> Optional[str]:
+    if not _question_targets_instructors(question):
+        return None
+    english = _should_answer_in_english(question)
+
+    target_doc_ids: List[str] = []
+    for chunk in chunks:
+        meta = chunk.get("meta") or {}
+        doc_id = meta.get("doc_id")
+        if doc_id and doc_id not in target_doc_ids:
+            target_doc_ids.append(doc_id)
+
+    names: List[str] = []
+    seen: set[str] = set()
+    for doc_id in target_doc_ids:
+        for name in _collect_instructors_from_doc(doc_id):
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            names.append(name)
+
+    if not names:
+        for chunk in chunks:
+            for name in _extract_instructor_names_from_text(_get_chunk_text(chunk.get("meta") or {})):
+                if not name or name in seen:
+                    continue
+                seen.add(name)
+                names.append(name)
+
+    if not names:
+        extras = _search_instructor_chunks_from_index(
+            question,
+            target_doc_ids or None,
+        )
+        for extra in extras:
+            for name in _extract_instructor_names_from_text(_get_chunk_text(extra["meta"])):
+                if not name or name in seen:
+                    continue
+                seen.add(name)
+                names.append(name)
+
+    if not names:
+        return None
+
+    label = "Lecturers" if english else "Giảng viên"
+    body = "\n".join(f"- {entry}" for entry in names)
+    return f"{label}:\n{body}"
+
+
+def _answer_section_focus(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    focus_matches = _match_section_focus(question)
+    if not focus_matches:
+        return None
+
+    def _normalize_order(value: Any) -> int:
+        try:
+            return int(value)
+        except (TypeError, ValueError):
+            return 0
+
+    doc_ids: List[str] = _identify_target_doc_ids(question)
+    doc_first_idx: Dict[str, int] = {}
+    unordered_doc_ids: List[str] = []
+    for idx, chunk in enumerate(chunks, start=1):
+        meta = chunk.get("meta") or {}
+        doc_id = meta.get("doc_id")
+        if doc_id and doc_id not in doc_first_idx:
+            doc_first_idx[doc_id] = idx
+        if doc_id and doc_id not in unordered_doc_ids:
+            unordered_doc_ids.append(doc_id)
+
+    if not doc_ids:
+        doc_ids = unordered_doc_ids
+
+    sections_map: Dict[str, Dict[str, List[Tuple[int, int, int, str]]]] = defaultdict(lambda: defaultdict(list))
+    for idx, chunk in enumerate(chunks, start=1):
+        meta = chunk.get("meta") or {}
+        text = _get_chunk_text(meta)
+        matched_key = _detect_section_key(meta, text, focus_matches)
+        if matched_key is None:
+            continue
+        heading = meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or matched_key
+        section_id = _slugify_identifier(f"{meta.get('doc_id', '')}-{heading}")
+        order_val = _normalize_order(meta.get("chunk_order"))
+        subindex_val = _normalize_order(meta.get("chunk_subindex"))
+        sections_map[matched_key][section_id].append((idx, order_val, subindex_val, text.strip()))
+
+    sections: List[str] = []
+    for key, config in focus_matches.items():
+        combined_parts: List[str] = []
+        citations: List[str] = []
+        for doc_id in doc_ids:
+            texts = _collect_section_texts(doc_id, config)
+            if texts:
+                combined_parts.extend(texts)
+                if doc_id in doc_first_idx:
+                    citations.append(f"[{doc_first_idx[doc_id]}]")
+        section_groups = sections_map.get(key)
+        if not combined_parts and section_groups:
+            section_id, segments = max(
+                section_groups.items(),
+                key=lambda item: sum(len(seg[3]) for seg in item[1]),
+            )
+            sorted_segments = sorted(segments, key=lambda seg: (seg[1], seg[2], seg[0]))
+            combined_parts = [seg[3] for seg in sorted_segments if seg[3]]
+            citations = [f"[{seg[0]}]" for seg in sorted_segments]
+        combined_parts = _filter_section_segments(combined_parts, config)
+        combined = "\n".join(part for part in combined_parts if part).strip()
+        if not combined:
+            continue
+        label = config.label or key.title()
+        citation_text = " ".join(citations)
+        sections.append(f"{label}: {combined} {citation_text}".strip())
+
+    if not sections:
+        return None
+    return "\n\n".join(sections)
+
+
+def _collect_department_sections(doc_id: str) -> List[str]:
+    data = _load_course_document(doc_id)
+    if not data:
+        return []
+    sections: List[str] = []
+    seen: set[str] = set()
+    for chunk in data.get("chunks", []):
+        heading = chunk.get("primary_heading") or chunk.get("breadcrumbs") or ""
+        slug = _slugify_identifier(heading)
+        text = (chunk.get("text") or "").strip()
+        normalized = _normalize_query(text)
+        if not (
+            any(slug.startswith(target) for target in DEPARTMENT_SECTION_SLUGS)
+            or "phu trach khoa" in normalized
+            or "phụ trách khoa" in text.lower()
+        ):
+            continue
+        if text and text not in seen:
+            sections.append(text)
+            seen.add(text)
+    return sections
+
+
+def _collect_section_texts(doc_id: str, selector: Union[SectionFocus, Sequence[str]]) -> List[str]:
+    data = _load_course_document(doc_id)
+    if not data:
+        return []
+    texts: List[str] = []
+    seen: set[str] = set()
+    config = selector if isinstance(selector, SectionFocus) else None
+    slug_targets = tuple(selector) if not isinstance(selector, SectionFocus) else ()
+    for chunk in data.get("chunks", []):
+        heading = chunk.get("primary_heading") or chunk.get("breadcrumbs") or ""
+        raw_text = _normalize_chunk_text(chunk.get("text") or "")
+        if config:
+            if not _section_focus_matches(heading, raw_text, config):
+                continue
+        else:
+            slug = _slugify_identifier(heading)
+            if not any(slug.startswith(target) for target in slug_targets):
+                continue
+        if raw_text and raw_text not in seen:
+            texts.append(raw_text)
+            seen.add(raw_text)
+    return texts
+
+
+def _answer_department(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    if not _question_targets_department(question):
+        return None
+    doc_ids: List[str] = []
+    for chunk in chunks:
+        meta = chunk.get("meta") or {}
+        doc_id = meta.get("doc_id")
+        if doc_id and doc_id not in doc_ids:
+            doc_ids.append(doc_id)
+
+    sections: List[str] = []
+    seen: set[str] = set()
+    for chunk in chunks:
+        meta = chunk.get("meta") or {}
+        heading_slug = _slugify_identifier(
+            meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or ""
+        )
+        if not any(heading_slug.startswith(target) for target in DEPARTMENT_SECTION_SLUGS):
+            continue
+        cleaned = _get_chunk_text(meta).strip()
+        if cleaned and cleaned not in seen:
+            sections.append(cleaned)
+            seen.add(cleaned)
+
+    for doc_id in doc_ids:
+        for section_text in _collect_department_sections(doc_id):
+            if section_text not in seen:
+                sections.append(section_text)
+                seen.add(section_text)
+
+    if not sections:
+        return None
+    body = _render_tables_in_text("\n\n".join(sections))
+    return f"Khoa/Viện phụ trách:\n{body}"
+
+
+# ----- [S5F] Answer assembly & fallback responses ---------------------------
+# Chọn chiến lược trả lời (heuristic hoặc LLM), trình bày citations và xây
+# fallback deterministic nếu thiếu dữ kiện. Khi cần sửa logic trả lời, tìm "[S5F]".
+@dataclass
+class AnswerStrategy:
+    name: str
+    matcher: Callable[[str], bool]
+    builder: Callable[[str, List[Dict[str, Any]], str], Optional[str]]
+
+
+ANSWER_STRATEGIES: List[AnswerStrategy] = [
+    AnswerStrategy("instructors", _question_targets_instructors, _answer_instructors),
+    AnswerStrategy("department", _question_targets_department, _answer_department),
+    AnswerStrategy("section_focus", lambda q: bool(_match_section_focus(q)), _answer_section_focus),
+    AnswerStrategy("course_credits", _question_targets_credits, _answer_course_credits),
+    AnswerStrategy("class_hours", _question_targets_class_hours, _answer_class_hours),
+    AnswerStrategy("self_study_hours", _question_targets_self_study_hours, _answer_self_study_hours),
+]
+
+
+def _apply_answer_strategies(question: str, chunks: List[Dict[str, Any]], context: str) -> Optional[str]:
+    for strategy in ANSWER_STRATEGIES:
+        if not strategy.matcher(question):
+            continue
+        try:
+            answer = strategy.builder(question, chunks, context)
+        except Exception:
+            answer = None
+        if answer:
+            return answer
+    return None
+
+
+def _build_no_info_response(question: str, chunks: List[Dict[str, Any]]) -> str:
+    english = _should_answer_in_english(question)
+    if english:
+        base = "No matching fact was found in the syllabus sections I retrieved."
+        hint = "Please double-check the course name/code or add the document that contains this info."
+    else:
+        base = "Tôi chưa thấy thông tin này trong các đoạn đã trích."
+        hint = "Bạn hãy kiểm tra lại tên/mã học phần hoặc bổ sung tài liệu chứa thông tin đó."
+
+    courses: List[str] = []
+    for chunk in chunks:
+        meta = chunk["meta"]
+        course_name = meta.get("course_name")
+        course_code = meta.get("course_code")
+        if course_name or course_code:
+            label = course_name or ""
+            if course_code:
+                label = f"{label} ({course_code})" if label else course_code
+            if label and label not in courses:
+                courses.append(label)
+
+    if courses:
+        course_line = ", ".join(courses[:3])
+        detail = f" (Ngữ cảnh hiện có: {course_line})" if not english else f" (Context: {course_line})"
+    else:
+        detail = ""
+    return f"{base}{detail} {hint}"
+
+
+def _build_context_summary_answer(question: str, chunks: List[Dict[str, Any]]) -> str:
+    """Provide a deterministic fallback answer by echoing key context chunks."""
+    pieces: List[str] = []
+    english = _should_answer_in_english(question)
+    header = "Extracted context:" if english else "Thông tin trích từ tài liệu:"
+
+    for idx, chunk in enumerate(chunks, start=1):
+        meta = chunk.get("meta") or {}
+        snippet = (_get_chunk_text(meta) or "").strip()
+        if not snippet:
+            continue
+        heading = (
+            meta.get("section_heading")
+            or meta.get("primary_heading")
+            or meta.get("breadcrumbs")
+            or meta.get("course_name")
+            or meta.get("doc_id")
+            or "Chi tiết"
+        )
+        snippet = _render_tables_in_text(snippet)
+        snippet = re.sub(r"\s+", " ", snippet).strip()
+        max_len = 900
+        if len(snippet) > max_len:
+            snippet = snippet[:max_len].rstrip() + "..."
+        pieces.append(f"[{idx}] {heading}\n{snippet}")
+        if len(pieces) >= 2:
+            break
+
+    if not pieces:
+        return ""
+    return f"{header}\n\n" + "\n\n".join(pieces)
+
+
+def _generate_answer_from_chunks(question: str, chunks: List[Dict[str, Any]]) -> Tuple[str, List[Dict[str, Any]], str]:
+    """Run answer strategies/LLM with lexical context fallback."""
+    chunks = _dedupe_chunks(chunks)
+    context = format_backend_context(chunks)
+    if not context.strip():
+        lexical_chunks = _keyword_search_chunks(
+            question,
+            st.session_state.retriever_k,
+        )
+        if lexical_chunks:
+            chunks = _dedupe_chunks(lexical_chunks)
+            context = format_backend_context(chunks)
+    if not context.strip():
+        return _build_no_info_response(question, chunks), chunks, context
+
+    answer = _apply_answer_strategies(question, chunks, context)
+    connection_note: Optional[str] = None
+    if not answer:
+        try:
+            answer = call_llm(st.session_state.chat_model, question, context)
+        except Exception as exc:
+            if _is_connection_issue(exc):
+                connection_note = str(exc)
+                answer = ""
+            else:
+                raise
+        if not (answer or "").strip():
+            answer = _build_context_summary_answer(question, chunks)
+            if not answer:
+                answer = _build_no_info_response(question, chunks)
+
+    if connection_note and answer:
+        english = _should_answer_in_english(question)
+        note = (
+            "Could not reach the language model, so the response is composed directly from the retrieved context."
+            if english
+            else "Không thể kết nối tới mô hình trả lời, nên tôi trích xuất trực tiếp từ ngữ cảnh hiện có."
+        )
+        answer = f"{answer}\n\n_{note}_"
+
+    return answer, chunks, context
+
+
 # -----------------------------------------------------------------------------#
-# Streamlit helpers
+# [S6] Streamlit helpers
 # -----------------------------------------------------------------------------#
+# Phụ trách theme, bố cục, widget điều khiển runtime và trải nghiệm chat giúp
+# kết nối tầng truy hồi với người dùng. Nhìn “[S6]” để lần ra UI nào điều khiển
+# embedding/pipeline/run-mode.
+
+
+# ----- [S6A] Theme & session bootstrap --------------------------------------
+# apply_material_theme áp dụng giao diện, init_session thiết lập session_state
+# mặc định, đảm bảo việc reload UI/pipeline luôn có cùng cấu hình nền.
 
 
 def apply_material_theme():
@@ -1456,6 +3151,9 @@ def init_session():
 
 
 
+# ----- [S6B] Settings & sidebar widgets --------------------------------------
+# Các hàm render_* ở phần này quản lý trải nghiệm sidebar: lựa chọn backend,
+# điều khiển runtime Docker, upload/pipeline và action nhanh cho người dùng.
 def render_settings_body():
     st.title("Settings")
 
@@ -1851,6 +3549,9 @@ def _render_tei_runtime_control(
     return suppressed_messages
 
 
+# ----- [S6C] Docker runtime monitor -----------------------------------------
+# render_local_runtime_controls hiển thị trạng thái + nút điều khiển TEI/LocalAI
+# và kích hoạt pipeline ingest nên mọi vấn đề Docker -> tìm “[S6C]”.
 def render_local_runtime_controls() -> None:
     pipeline_running = st.session_state.get("pipeline_running", False)
     model_key = st.session_state.embed_model
@@ -2026,6 +3727,10 @@ def render_local_runtime_controls() -> None:
         _trigger_streamlit_rerun()
         st.stop()
 
+
+# ----- [S6D] Quick actions & pipeline controls -------------------------------
+# render_sidebar_quick_actions gom các nút rebuild index, tải tài liệu, clear
+# history... giúp vận hành nhanh không cần cuộn cả sidebar.
 def render_sidebar_quick_actions():
     pipeline_running = st.session_state.get("pipeline_running", False)
     pipeline_request = st.session_state.get('pipeline_request')
@@ -2393,7 +4098,7 @@ def main():
 
         try:
             with st.spinner("Retrieving and reasoning..."):
-                chunks = search_backend_index(user_question, st.session_state.retriever_k)
+                chunks = retrieve_relevant_chunks(user_question)
                 if not chunks:
                     st.session_state.history.append({
                         "role": "assistant",
@@ -2401,14 +4106,19 @@ def main():
                     })
                     st.rerun()
 
-                context = format_backend_context(chunks)
-                answer = call_llm(st.session_state.chat_model, user_question, context)
+                answer, used_chunks, _ = _generate_answer_from_chunks(user_question, chunks)
+                if not answer:
+                    st.session_state.history.append({
+                        "role": "assistant",
+                        "content": _build_no_info_response(user_question, used_chunks),
+                    })
+                    st.rerun()
 
                 sources = []
-                for item in chunks:
+                for item in used_chunks:
                     meta = item["meta"]
                     source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
-                    snippet = meta.get("text") or ""
+                    snippet = _get_chunk_text(meta)
                     breadcrumbs = meta.get("breadcrumbs") or meta.get("section_heading")
                     sources.append({
                         "source": source,
