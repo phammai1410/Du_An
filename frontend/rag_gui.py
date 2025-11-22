@@ -7,6 +7,24 @@
 # 4. Tiện ích pipeline/index giao tiếp với các script ingest.
 # 5. Logic truy hồi + trả lời (tìm chunk, heuristic, prompt).
 # 6. Công cụ và widget Streamlit cho giao diện.
+#
+# Bảng tra cứu nhãn (Ctrl+F theo mã sau để nhảy đến phần mong muốn):
+#   [S1]  Cấu hình & biến đường dẫn.
+#   [S2]  Quản lý runtime Docker (TEI/LocalAI).
+#   [S3]  Tiện ích chung (path, manifest, FS) dùng lại giữa backend/frontend.
+#   [S4]  Tiện ích pipeline/index giao tiếp backend.
+#   [S5A] Chấm điểm chunk + fallback lexical.
+#   [S5B] Cache index & truy hồi vector.
+#   [S5C] Heuristic giới hạn phạm vi khóa học.
+#   [S5D] Prompt/LLM + xử lý small-talk.
+#   [S5E] Heuristic đặc thù domain (giảng viên/tín chỉ...).
+#   [S5F] Lắp ráp câu trả lời & phản hồi mặc định.
+#   [S6A] Theme + khởi tạo session.
+#   [S6B] Sidebar Settings (model, chunking, retriever).
+#   [S6C] Điều khiển Docker runtime TEI/LocalAI.
+#   [S6D] Quick actions: upload, rebuild index, feedback.
+#   [S6E] View switcher + đăng nhập admin + quản lý file.
+#   [S6F] Giao diện người dùng & điểm vào ứng dụng.
 
 import importlib.util
 import json
@@ -17,6 +35,7 @@ import platform
 import re
 import socket
 import math
+from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional, Sequence, Tuple, Set, Union
 from dataclasses import dataclass
@@ -28,7 +47,7 @@ import requests
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 
 import numpy as np
 import unicodedata
@@ -84,7 +103,7 @@ MODELS_CONFIG_PATH = LOCAL_TEI_ROOT / "models.json"
 TEI_CONTAINER_PREFIX = "tei-"
 
 DEFAULT_EMBED_MODEL = os.getenv("EMBEDDING_MODEL") or "sentence-transformers/all-MiniLM-L6-v2"
-DEFAULT_CHAT_MODEL = "gpt-4o-mini"
+
 DEFAULT_LOCALAI_BASE_URL = os.getenv("LOCALAI_BASE_URL", "http://localhost:8081/v1")
 DEFAULT_LOCALAI_API_KEY = os.getenv("LOCALAI_API_KEY", "localai-temp-key")
 _LOCALAI_PORT_ENV = os.getenv("LOCALAI_PORT")
@@ -96,6 +115,8 @@ DEFAULT_CHUNK_OVERLAP = 200
 LOCALAI_IMAGE = os.getenv("LOCALAI_IMAGE", "localai/localai:latest")
 LOCALAI_CONTAINER_NAME = os.getenv("LOCALAI_CONTAINER_NAME", "localai-runtime")
 LOCALAI_RUNTIME_MODEL = os.getenv("LOCALAI_RUNTIME_MODEL", "llama-3.2-1b-instruct:q4_k_m")
+
+DEFAULT_CHAT_MODEL = LOCALAI_RUNTIME_MODEL
 LOCALAI_COMPOSE_PROJECT = os.getenv("LOCALAI_COMPOSE_PROJECT", "khoa_luan")
 LOCALAI_COMPOSE_SERVICE = os.getenv("LOCALAI_COMPOSE_SERVICE", "localai")
 SMALL_TALK_KEYWORDS = {
@@ -126,10 +147,9 @@ CHUNK_MODES: Dict[str, str] = {
 DEFAULT_CHUNK_MODE = "structured"
 
 UPLOAD_ALLOWED_EXTS = {"pdf", "docx", "xlsx"}
+TEXT_EDITABLE_EXTS = {"txt", "md", "markdown", "json", "yaml", "yml", "csv", "tsv", "ini", "toml"}
 
-OPENAI_EMBED_MODELS = ["text-embedding-3-small", "text-embedding-3-large"]
 EMBED_BACKENDS: Dict[str, str] = {
-    "openai": "Open AI Chat GPT Embedding",
     "tei": "Local Text-Embeddings-Inference",
 }
 GLOBAL_DOCKER_ERROR_SNIPPETS = ("docker desktop is manually paused",)
@@ -151,24 +171,13 @@ TEI_MODELS: Dict[str, Dict[str, Any]] = {
     },
 }
 
-RUN_MODE_OPTIONS = {
-    "Open AI ChatGPT": "openai",
-    "Local Embedding/LLM": "local",
-}
-
-OPENAI_CHAT_MODELS = [
-    "gpt-5",
-    "gpt-5-mini",
-    "gpt-5-nano",
-    "gpt-4.1",
-    "gpt-4.1-mini",
-    "gpt-4o",
-    "gpt-4o-mini",
-]
-
 LOCAL_CHAT_MODELS = {
     "LLAMA 3.1 1B": "llama-3.2-1b-instruct:q4_k_m",
 }
+
+USER_VIEW = "user"
+ADMIN_VIEW = "admin"
+ADMIN_PASSWORD_ENV_VAR = "ADMIN_PASSWORD"
 
 
 def _slugify_identifier(value: str) -> str:
@@ -799,13 +808,11 @@ def docker_supports_nvidia() -> Tuple[bool, Optional[str]]:
 
 
 def make_embeddings_client(backend: str, model_name: str):
-    if backend == "openai":
-        return OpenAIEmbeddings(model=model_name)
-    if backend == "tei":
-        base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL", "http://localhost:8080")
-        api_key = os.getenv("TEI_API_KEY")
-        return TEIEmbeddings(base_url=base_url, model=model_name, api_key=api_key)
-    raise ValueError(f"Unsupported embedding backend: {backend}")
+    base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL", "http://localhost:8080")
+    api_key = os.getenv("TEI_API_KEY")
+    if backend != "tei":
+        raise ValueError(f"Unsupported embedding backend: {backend}")
+    return TEIEmbeddings(base_url=base_url, model=model_name, api_key=api_key)
 
 
 def _resolve_model_targets(model_key: str) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
@@ -1632,18 +1639,8 @@ def _filter_chunks_by_course(
 # Quản lý client ChatOpenAI/LocalAI, chuẩn hóa text người dùng và các phản hồi
 # small-talk để trước khi truy hồi tập trung vào câu hỏi hợp lệ.
 def _build_chat_llm(chat_model: str) -> ChatOpenAI:
-    """Return a ChatOpenAI client configured for the active run mode."""
-    run_mode = st.session_state.get("run_mode", "local")
+    """Return a ChatOpenAI-compatible client for the LocalAI runtime."""
     temperature = 0
-
-    if run_mode == "openai":
-        api_key = st.session_state.get("openai_key") or os.getenv("OPENAI_API_KEY")
-        if not api_key:
-            raise RuntimeError(
-                "OpenAI API key is missing. Enter it in the sidebar or set OPENAI_API_KEY."
-            )
-        return ChatOpenAI(model=chat_model, temperature=temperature, api_key=api_key)
-
     base_url = st.session_state.get("localai_base_url") or DEFAULT_LOCALAI_BASE_URL
     api_key = os.getenv("LOCALAI_API_KEY") or DEFAULT_LOCALAI_API_KEY
     return ChatOpenAI(model=chat_model, temperature=temperature, base_url=base_url, api_key=api_key)
@@ -3100,9 +3097,6 @@ def init_session():
     st.session_state["backend_pipeline_proc"] = None
     SOFT_PID_REGISTRY.pop("backend_pipeline", None)
 
-    if "run_mode" not in st.session_state:
-        default_mode = "local" if st.session_state.get("embedding_backend") == "tei" else "openai"
-        st.session_state.run_mode = default_mode
     if "history" not in st.session_state:
         st.session_state.history = []
     if "retriever_k" not in st.session_state:
@@ -3112,19 +3106,9 @@ def init_session():
     if "chunk_mode" not in st.session_state:
         st.session_state.chunk_mode = DEFAULT_CHUNK_MODE
     if "embedding_backend" not in st.session_state:
-        if DEFAULT_EMBED_MODEL and DEFAULT_EMBED_MODEL in TEI_MODELS:
-            st.session_state.embedding_backend = "tei"
-        else:
-            st.session_state.embedding_backend = "openai"
+        st.session_state.embedding_backend = "tei"
     if "embed_model" not in st.session_state:
-        if DEFAULT_EMBED_MODEL:
-            st.session_state.embed_model = DEFAULT_EMBED_MODEL
-        else:
-            st.session_state.embed_model = (
-                list(TEI_MODELS.keys())[0] if st.session_state.embedding_backend == "tei" else OPENAI_EMBED_MODELS[0]
-            )
-    if "openai_key" not in st.session_state:
-        st.session_state.openai_key = os.getenv("OPENAI_API_KEY") or ""
+        st.session_state.embed_model = DEFAULT_EMBED_MODEL or list(TEI_MODELS.keys())[0]
     if "download_feedback" not in st.session_state:
         st.session_state.download_feedback = None
     if "upload_feedback" not in st.session_state:
@@ -3141,9 +3125,19 @@ def init_session():
         st.session_state.pipeline_request = None
     if "pipeline_feedback" not in st.session_state:
         st.session_state.pipeline_feedback = None
+    if "active_view" not in st.session_state:
+        st.session_state.active_view = USER_VIEW
+    if "admin_authenticated" not in st.session_state:
+        st.session_state.admin_authenticated = False
+    if "admin_selected_file" not in st.session_state:
+        st.session_state.admin_selected_file = None
+    if "admin_text_editor_value" not in st.session_state:
+        st.session_state.admin_text_editor_value = ""
+    if "admin_file_feedback" not in st.session_state:
+        st.session_state.admin_file_feedback = None
+    if "admin_editor_loaded_file" not in st.session_state:
+        st.session_state.admin_editor_loaded_file = None
 
-    if st.session_state.embedding_backend == "openai" and st.session_state.embed_model not in OPENAI_EMBED_MODELS:
-        st.session_state.embed_model = OPENAI_EMBED_MODELS[0]
     if st.session_state.embedding_backend == "tei" and st.session_state.embed_model not in TEI_MODELS:
         st.session_state.embed_model = list(TEI_MODELS.keys())[0]
     if "backend_index_cache" not in st.session_state:
@@ -3156,80 +3150,42 @@ def init_session():
 # điều khiển runtime Docker, upload/pipeline và action nhanh cho người dùng.
 def render_settings_body():
     st.title("Settings")
-
-    run_mode_display = st.selectbox(
-        "Run mode",
-        options=list(RUN_MODE_OPTIONS.keys()),
-        index=list(RUN_MODE_OPTIONS.values()).index(st.session_state.get("run_mode", "local")),
-        disabled=st.session_state.get("pipeline_running", False),
+    st.button(
+        "Trang quản trị",
+        use_container_width=True,
+        key="sidebar_admin_nav_button",
+        on_click=_set_active_view,
+        args=(ADMIN_VIEW,),
     )
-    run_mode = RUN_MODE_OPTIONS[run_mode_display]
-    st.session_state.run_mode = run_mode
-    st.session_state.embedding_backend = "openai" if run_mode == "openai" else "tei"
-
-    if run_mode == "openai":
-        st.session_state.openai_key = st.text_input(
-            "OpenAI API Key",
-            value=st.session_state.openai_key,
-            type="password",
-            help="Enter your API key here if you do not have a .env file.",
-            disabled=st.session_state.get("pipeline_running", False),
-        )
-        if st.session_state.openai_key:
-            os.environ["OPENAI_API_KEY"] = st.session_state.openai_key
-    else:
-        st.caption("Local mode uses Text-Embeddings-Inference and LocalAI")
+    st.session_state.embedding_backend = "tei"
+    st.caption("Run mode: Local TEI embeddings with LocalAI chat runtime.")
 
     st.divider()
 
-    if run_mode == "openai":
-        embed_options = OPENAI_EMBED_MODELS
-        if st.session_state.embed_model not in embed_options:
-            st.session_state.embed_model = embed_options[0]
-        selected_embed = st.selectbox(
-            "Embedding model",
-            options=embed_options,
-            index=embed_options.index(st.session_state.embed_model),
-            disabled=st.session_state.get("pipeline_running", False),
-        )
-        st.session_state.embed_model = selected_embed
-    else:
-        tei_options = list(TEI_MODELS.keys())
-        if st.session_state.embed_model not in tei_options:
-            st.session_state.embed_model = tei_options[0]
-        selected_embed = st.selectbox(
-            "Embedding model",
-            options=tei_options,
-            index=tei_options.index(st.session_state.embed_model),
-            format_func=lambda key: TEI_MODELS[key]["display"],
-            disabled=st.session_state.get("pipeline_running", False),
-        )
-        st.session_state.embed_model = selected_embed
+    tei_options = list(TEI_MODELS.keys())
+    if st.session_state.embed_model not in tei_options:
+        st.session_state.embed_model = tei_options[0]
+    selected_embed = st.selectbox(
+        "Embedding model",
+        options=tei_options,
+        index=tei_options.index(st.session_state.embed_model),
+        format_func=lambda key: TEI_MODELS[key]["display"],
+        disabled=st.session_state.get("pipeline_running", False),
+    )
+    st.session_state.embed_model = selected_embed
 
-    if run_mode == "openai":
-        chat_options = OPENAI_CHAT_MODELS
-        if st.session_state.chat_model not in chat_options:
-            st.session_state.chat_model = chat_options[0]
-        selected_chat = st.selectbox(
-            "Chat model",
-            options=chat_options,
-            index=chat_options.index(st.session_state.chat_model),
-            disabled=st.session_state.get("pipeline_running", False),
-        )
-        st.session_state.chat_model = selected_chat
-    else:
-        display_options = list(LOCAL_CHAT_MODELS.keys())
-        current_display = next(
-            (name for name, value in LOCAL_CHAT_MODELS.items() if value == st.session_state.chat_model),
-            display_options[0],
-        )
-        selected_display = st.selectbox(
-            "Chat model",
-            options=display_options,
-            index=display_options.index(current_display),
-            disabled=st.session_state.get("pipeline_running", False),
-        )
-        st.session_state.chat_model = LOCAL_CHAT_MODELS[selected_display]
+    display_options = list(LOCAL_CHAT_MODELS.keys())
+    current_display = next(
+        (name for name, value in LOCAL_CHAT_MODELS.items() if value == st.session_state.chat_model),
+        display_options[0],
+    )
+    selected_display = st.selectbox(
+        "Chat model",
+        options=display_options,
+        index=display_options.index(current_display),
+        disabled=st.session_state.get("pipeline_running", False),
+    )
+    st.session_state.chat_model = LOCAL_CHAT_MODELS[selected_display]
 
     current_chunk_mode = st.session_state.get("chunk_mode", DEFAULT_CHUNK_MODE)
     new_chunk_mode = st.selectbox(
@@ -3249,8 +3205,7 @@ def render_settings_body():
         disabled=st.session_state.get("pipeline_running", False),
     )
 
-    if run_mode == "local":
-        render_local_runtime_controls()
+    render_local_runtime_controls()
 
 def _trigger_streamlit_rerun() -> None:
     """Call the available Streamlit rerun API across versions."""
@@ -3258,6 +3213,22 @@ def _trigger_streamlit_rerun() -> None:
     if rerun_fn is None:
         raise RuntimeError("Streamlit rerun function not available.")
     rerun_fn()
+
+
+def _set_active_view(target: str) -> None:
+    st.session_state.active_view = target
+    if target != ADMIN_VIEW:
+        st.session_state.admin_authenticated = False
+
+
+def _logout_admin() -> None:
+    st.session_state.admin_authenticated = False
+    st.session_state.active_view = USER_VIEW
+
+
+def _get_admin_password() -> str:
+    value = os.getenv(ADMIN_PASSWORD_ENV_VAR, "")
+    return value.strip() if value else ""
 
 
 def _render_runtime_control(
@@ -3329,6 +3300,41 @@ def _is_global_docker_error(message: Optional[str]) -> bool:
         return False
     lowered = message.lower()
     return any(snippet in lowered for snippet in GLOBAL_DOCKER_ERROR_SNIPPETS)
+
+
+def _list_raw_document_paths() -> List[Path]:
+    if not DATA_DIR.exists():
+        return []
+    files: List[Path] = []
+    for path in DATA_DIR.rglob("*"):
+        if path.is_file():
+            files.append(path)
+    files.sort()
+    return files
+
+
+def _format_filesize(num_bytes: int) -> str:
+    if num_bytes < 1024:
+        return f"{num_bytes} B"
+    units = ["KB", "MB", "GB", "TB"]
+    size = float(num_bytes)
+    for unit in units:
+        size /= 1024
+        if size < 1024:
+            return f"{size:.1f} {unit}"
+    return f"{size:.1f} PB"
+
+
+def _read_text_file_with_fallback(path: Path) -> Tuple[str, str]:
+    encodings = ("utf-8", "utf-16", "latin-1")
+    last_error: Optional[Exception] = None
+    for encoding in encodings:
+        try:
+            return path.read_text(encoding=encoding), encoding
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            continue
+    raise RuntimeError(f"Không thể đọc {path.name}: {last_error}")
 
 
 def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
@@ -3733,6 +3739,21 @@ def render_local_runtime_controls() -> None:
 # history... giúp vận hành nhanh không cần cuộn cả sidebar.
 def render_sidebar_quick_actions():
     pipeline_running = st.session_state.get("pipeline_running", False)
+    active_view = st.session_state.get("active_view", USER_VIEW)
+
+    if active_view != ADMIN_VIEW:
+        st.subheader("Conversation")
+        if st.button(
+            "Clear chat history",
+            use_container_width=True,
+            disabled=pipeline_running,
+            key="sidebar_clear_history_button",
+        ):
+            st.session_state.history = []
+            st.rerun()
+        st.caption("Upload tài liệu và rebuild index nằm trong trang quản trị.")
+        return
+
     pipeline_request = st.session_state.get('pipeline_request')
     pipeline_feedback = st.session_state.get("pipeline_feedback")
 
@@ -4020,30 +4041,183 @@ def render_sidebar_quick_actions():
             f"{expected_backend_label} / {expected_model_display} / {current_chunk_label}"
         )
 
-def main():
-    load_dotenv()
-    ensure_dirs()
-    init_session()
 
-    st.set_page_config(page_title="RAG over PDFs", page_icon=":books:", layout="wide")
-    apply_material_theme()
+# ----- [S6E] View switching & admin tools ------------------------------------
+# Phần này gom điều khiển chuyển Trang người dùng/Trang quản trị, đăng nhập
+# admin, quản lý file gốc và layout trang quản trị. Tìm "[S6E]" để sửa UI admin.
+def ensure_admin_access() -> bool:
+    admin_password = _get_admin_password()
+    already_authenticated = st.session_state.get("admin_authenticated", False)
 
-    with st.sidebar:
-        render_sidebar()
+    if not admin_password:
+        st.subheader("Đăng nhập trang quản trị")
+        st.warning("ADMIN_PASSWORD chưa được cấu hình. Cho phép truy cập tạm thời vào trang quản trị.")
+        st.session_state.admin_authenticated = True
+        return True
 
-    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+    if already_authenticated:
+        return True
 
-    if st.session_state.embedding_backend == "openai" and not st.session_state.openai_key:
-        st.info("No OpenAI API key detected. Enter it in the sidebar or the .env file before generating embeddings.")
-    elif st.session_state.embedding_backend == "tei":
-        runtime_mode = st.session_state.tei_runtime_mode
-        model_key = st.session_state.embed_model
-        if not tei_backend_is_active(model_key, runtime_mode):
-            st.info("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
+    st.subheader("Đăng nhập trang quản trị")
+    with st.form("admin_login_form"):
+        entered_password = st.text_input("Mật khẩu", type="password")
+        submitted = st.form_submit_button("Đăng nhập")
+        if submitted:
+            if entered_password == admin_password:
+                st.session_state.admin_authenticated = True
+                st.success("Đăng nhập admin thành công.")
+                _trigger_streamlit_rerun()
+            else:
+                st.error("Mật khẩu không đúng.")
+    st.info("Nhập đúng mật khẩu để mở khóa trang quản trị.")
+    return False
+
+
+def render_admin_file_manager() -> None:
+    st.subheader("Quản lý tài liệu gốc")
+    all_files = _list_raw_document_paths()
+    if not all_files:
+        st.info("Chưa có tệp nào trong `backend/data/raw`. Hãy upload tài liệu trước.")
+        return
+
+    relative_labels: List[str] = []
+    for path in all_files:
+        try:
+            label = str(path.relative_to(BACKEND_ROOT))
+        except ValueError:
+            label = str(path.relative_to(PROJECT_ROOT.parent))
+        relative_labels.append(label)
+
+    selected_label = st.session_state.get("admin_selected_file")
+    default_index = 0
+    if selected_label and selected_label in relative_labels:
+        default_index = relative_labels.index(selected_label)
+
+    selected_option = st.selectbox(
+        "Chọn tệp để xem/sửa",
+        options=relative_labels,
+        index=default_index,
+        key="admin_file_selectbox",
+    )
+    selected_idx = relative_labels.index(selected_option)
+    selected_path = all_files[selected_idx]
+    st.session_state.admin_selected_file = selected_option
+
+    stat = selected_path.stat()
+    size_label = _format_filesize(stat.st_size)
+    modified_label = datetime.fromtimestamp(stat.st_mtime).strftime("%Y-%m-%d %H:%M:%S")
+    st.caption(f"Kích thước: {size_label} | Cập nhật lần cuối: {modified_label}")
+    st.caption(f"Toàn đường dẫn: `{selected_path}`")
+
+    download_bytes = selected_path.read_bytes()
+    st.download_button(
+        "Tải tệp",
+        data=download_bytes,
+        file_name=selected_path.name,
+        mime="application/octet-stream",
+        use_container_width=True,
+        key=f"admin_download_{selected_option}",
+    )
+
+    editable_ext = selected_path.suffix.lower().lstrip(".")
+    can_edit_inline = editable_ext in TEXT_EDITABLE_EXTS
+
+    if st.session_state.get("admin_editor_loaded_file") != selected_option:
+        if can_edit_inline:
+            try:
+                text_value, encoding = _read_text_file_with_fallback(selected_path)
+            except Exception as exc:  # noqa: BLE001
+                can_edit_inline = False
+                st.warning(f"Không thể đọc nội dung dạng text: {exc}")
+            else:
+                st.session_state.admin_text_editor_value = text_value
+                st.session_state.admin_editor_loaded_file = selected_option
+                st.session_state.admin_text_editor_encoding = encoding
+        else:
+            st.session_state.admin_text_editor_value = ""
+            st.session_state.admin_editor_loaded_file = selected_option
+
+    if can_edit_inline:
+        st.text_area(
+            "Chỉnh sửa nội dung (lưu ý chỉ hỗ trợ tệp văn bản thuần)",
+            key="admin_text_editor_value",
+            height=320,
+        )
+        if st.button(
+            "Lưu nội dung",
+            key="admin_save_text_button",
+            use_container_width=True,
+        ):
+            try:
+                selected_path.write_text(st.session_state.admin_text_editor_value, encoding="utf-8")
+                st.session_state.admin_file_feedback = ("success", f"Đã lưu {selected_option}.")
+            except Exception as exc:  # noqa: BLE001
+                st.session_state.admin_file_feedback = ("error", f"Lỗi khi lưu {selected_option}: {exc}")
+            _trigger_streamlit_rerun()
+    else:
+        st.info(
+            "Đây là tệp nhị phân (PDF/DOCX/XLSX...). Hãy tải xuống, chỉnh sửa bằng công cụ chuyên dụng và upload lại để thay thế."
+        )
+
+    replacement = st.file_uploader(
+        "Upload để thay thế tệp hiện tại",
+        type=None,
+        key=f"admin_replace_uploader_{selected_option}",
+    )
+    if replacement is not None and st.button(
+        "Ghi đè tệp bằng bản tải lên",
+        key=f"admin_replace_button_{selected_option}",
+        use_container_width=True,
+    ):
+        try:
+            with open(selected_path, "wb") as target:
+                target.write(replacement.getbuffer())
+            st.session_state.admin_file_feedback = ("success", f"Đã cập nhật {selected_option} từ bản tải lên.")
+            st.session_state.admin_editor_loaded_file = None
+        except Exception as exc:  # noqa: BLE001
+            st.session_state.admin_file_feedback = ("error", f"Không thể ghi đè {selected_option}: {exc}")
+        _trigger_streamlit_rerun()
+
+    feedback = st.session_state.get("admin_file_feedback")
+    if feedback:
+        status, message = feedback
+        if status == "success":
+            st.success(message)
+        elif status == "error":
+            st.error(message)
+        else:
+            st.info(message)
+        st.session_state.admin_file_feedback = None
+
+
+def render_admin_page() -> None:
+    st.header("Trang quản trị")
+    st.caption("Quản lý tài liệu, pipeline và thiết lập runtime.")
+    st.button(
+        "Đăng xuất admin",
+        key="admin_logout_button",
+        on_click=_logout_admin,
+    )
+    st.divider()
+    render_admin_file_manager()
+    st.divider()
+    render_sidebar_quick_actions()
+
+
+# ----- [S6F] User chat view & app entrypoint ---------------------------------
+# Các hàm dưới quản lý cảnh báo runtime, lịch sử chat, hộp thoại hỏi đáp và
+# entrypoint Streamlit. Tìm "[S6F]" khi cần điều chỉnh trải nghiệm người dùng.
+def _render_user_runtime_notices(current_index_dir: Path) -> None:
+    runtime_mode = st.session_state.tei_runtime_mode
+    model_key = st.session_state.embed_model
+    if not tei_backend_is_active(model_key, runtime_mode):
+        st.info("The Docker-based TEI service is not running. Start it from the sidebar before continuing.")
 
     if not index_exists(current_index_dir):
         st.info("No backend index detected. Run the pipeline from the sidebar to build it from DOCX files.")
 
+
+def _render_chat_history() -> None:
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
             st.markdown(turn["content"])
@@ -4054,90 +4228,157 @@ def main():
                         if source.get("snippet"):
                             st.caption(source["snippet"])
 
+
+def _collect_user_question() -> Optional[str]:
     pending_question = st.session_state.pop("_pending_question", None)
-    user_question = pending_question or st.chat_input("Ask something about your documents...")
+    return pending_question or st.chat_input("Ask something about your documents...")
 
-    if user_question:
-        st.session_state.history.append({"role": "user", "content": user_question})
 
-        smalltalk_reply = maybe_handle_smalltalk(user_question)
-        if smalltalk_reply:
-            st.session_state.history.append({"role": "assistant", "content": smalltalk_reply})
-            st.rerun()
+def _handle_user_question(current_index_dir: Path, user_question: str) -> None:
+    st.session_state.history.append({"role": "user", "content": user_question})
 
-        runtime_mode = st.session_state.tei_runtime_mode
-        tei_model_key = st.session_state.embed_model
+    smalltalk_reply = maybe_handle_smalltalk(user_question)
+    if smalltalk_reply:
+        st.session_state.history.append({"role": "assistant", "content": smalltalk_reply})
+        st.rerun()
 
-        if st.session_state.embedding_backend != "tei":
-            st.session_state.history.append({
-                "role": "assistant",
-                "content": "Retrieval requires Local TEI. Switch to Local TEI in the sidebar.",
-            })
-            st.rerun()
+    runtime_mode = st.session_state.tei_runtime_mode
+    tei_model_key = st.session_state.embed_model
 
-        if st.session_state.embedding_backend == "tei" and not tei_backend_is_active(tei_model_key, runtime_mode):
-            st.session_state.history.append({
-                "role": "assistant",
-                "content": "TEI is not running. Start the container from the sidebar before continuing.",
-            })
-            st.rerun()
+    if st.session_state.embedding_backend != "tei":
+        st.session_state.history.append({
+            "role": "assistant",
+            "content": "Retrieval requires Local TEI. Switch to Local TEI in the sidebar.",
+        })
+        st.rerun()
 
-        if not tei_model_is_downloaded(tei_model_key):
-            st.session_state.history.append({
-                "role": "assistant",
-                "content": "The selected TEI model has not been downloaded. Download it from the sidebar.",
-            })
-            st.rerun()
+    if st.session_state.embedding_backend == "tei" and not tei_backend_is_active(tei_model_key, runtime_mode):
+        st.session_state.history.append({
+            "role": "assistant",
+            "content": "TEI is not running. Start the container from the sidebar before continuing.",
+        })
+        st.rerun()
 
-        if not backend_index_exists(current_index_dir):
-            st.session_state.history.append({
-                "role": "assistant",
-                "content": 'No backend index detected. Click "Rebuild backend index" in the sidebar after preparing DOCX files.',
-            })
-            st.rerun()
+    if not tei_model_is_downloaded(tei_model_key):
+        st.session_state.history.append({
+            "role": "assistant",
+            "content": "The selected TEI model has not been downloaded. Download it from the sidebar.",
+        })
+        st.rerun()
 
-        try:
-            with st.spinner("Retrieving and reasoning..."):
-                chunks = retrieve_relevant_chunks(user_question)
-                if not chunks:
-                    st.session_state.history.append({
-                        "role": "assistant",
-                        "content": "No relevant chunks found in the current index.",
-                    })
-                    st.rerun()
+    if not backend_index_exists(current_index_dir):
+        st.session_state.history.append({
+            "role": "assistant",
+            "content": 'No backend index detected. Click "Rebuild backend index" in the sidebar after preparing DOCX files.',
+        })
+        st.rerun()
 
-                answer, used_chunks, _ = _generate_answer_from_chunks(user_question, chunks)
-                if not answer:
-                    st.session_state.history.append({
-                        "role": "assistant",
-                        "content": _build_no_info_response(user_question, used_chunks),
-                    })
-                    st.rerun()
-
-                sources = []
-                for item in used_chunks:
-                    meta = item["meta"]
-                    source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
-                    snippet = _get_chunk_text(meta)
-                    breadcrumbs = meta.get("breadcrumbs") or meta.get("section_heading")
-                    sources.append({
-                        "source": source,
-                        "page": breadcrumbs,
-                        "snippet": snippet[:400] + ("..." if snippet and len(snippet) > 400 else ""),
-                    })
-
+    try:
+        with st.spinner("Retrieving and reasoning..."):
+            chunks = retrieve_relevant_chunks(user_question)
+            if not chunks:
                 st.session_state.history.append({
                     "role": "assistant",
-                    "content": answer,
-                    "sources": sources,
+                    "content": "No relevant chunks found in the current index.",
                 })
-        except Exception as exc:
-            st.session_state.history.append({"role": "assistant", "content": f"An error occurred: {exc}"})
+                st.rerun()
 
-        st.rerun()
+            answer, used_chunks, _ = _generate_answer_from_chunks(user_question, chunks)
+            if not answer:
+                st.session_state.history.append({
+                    "role": "assistant",
+                    "content": _build_no_info_response(user_question, used_chunks),
+                })
+                st.rerun()
+
+            sources = []
+            for item in used_chunks:
+                meta = item["meta"]
+                source = meta.get("source_filename") or meta.get("filename") or meta.get("doc_id", "unknown")
+                snippet = _get_chunk_text(meta)
+                breadcrumbs = meta.get("breadcrumbs") or meta.get("section_heading")
+                sources.append({
+                    "source": source,
+                    "page": breadcrumbs,
+                    "snippet": snippet[:400] + ("..." if snippet and len(snippet) > 400 else ""),
+                })
+
+            st.session_state.history.append({
+                "role": "assistant",
+                "content": answer,
+                "sources": sources,
+            })
+    except Exception as exc:
+        st.session_state.history.append({"role": "assistant", "content": f"An error occurred: {exc}"})
+
+    st.rerun()
+
+
+def render_user_view() -> None:
+    current_index_dir = resolve_index_dir(st.session_state.embed_model)
+    _render_user_runtime_notices(current_index_dir)
+    _render_chat_history()
+    user_question = _collect_user_question()
+    if user_question:
+        _handle_user_question(current_index_dir, user_question)
+
+def _load_project_envs() -> None:
+    dotenv_files = [
+        Path(".env"),
+        PROJECT_ROOT.parent / ".env",
+        PROJECT_ROOT / ".env",
+        BACKEND_ROOT / ".env",
+    ]
+    for env_path in dotenv_files:
+        if env_path.exists():
+            load_dotenv(dotenv_path=env_path, override=True)
+
+
+def main():
+    _load_project_envs()
+    ensure_dirs()
+    init_session()
+
+    st.set_page_config(page_title="RAG over PDFs", page_icon=":books:", layout="wide")
+    apply_material_theme()
+
+    active_view = st.session_state.get("active_view", USER_VIEW)
+
+    with st.sidebar:
+        render_sidebar()
+
+    if active_view == ADMIN_VIEW:
+        if ensure_admin_access():
+            render_admin_page()
+        return
+
+    st.header("Trang người dùng")
+    st.divider()
+    render_user_view()
 
 
 def render_sidebar():
+    active_view = st.session_state.get("active_view", USER_VIEW)
+    if active_view == ADMIN_VIEW:
+        st.header("Trang quản trị")
+        st.caption("Các công cụ upload và pipeline hiển thị ở phần nội dung chính.")
+        if st.session_state.get("admin_authenticated"):
+            st.button(
+                "Đăng xuất admin",
+                use_container_width=True,
+                key="sidebar_admin_logout_button",
+                on_click=_logout_admin,
+            )
+        else:
+            st.button(
+                "Về trang người dùng",
+                use_container_width=True,
+                key="sidebar_back_to_user_button",
+                on_click=_set_active_view,
+                args=(USER_VIEW,),
+            )
+        return
+
     render_settings_body()
     st.divider()
     render_sidebar_quick_actions()
