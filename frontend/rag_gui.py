@@ -1648,12 +1648,10 @@ def _build_chat_llm(chat_model: str) -> ChatOpenAI:
 
 def _normalize_query(text: str) -> str:
     normalized = unicodedata.normalize("NFKD", text or "")
-    return (
-        normalized.encode("ascii", "ignore")
-        .decode("ascii")
-        .lower()
-        .strip()
-    )
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    ascii_text = ascii_text.replace("-", " ")
+    ascii_text = re.sub(r"\s+", " ", ascii_text)
+    return ascii_text.lower().strip()
 
 
 def maybe_handle_smalltalk(question: str) -> Optional[str]:
@@ -1714,12 +1712,64 @@ INSTRUCTOR_KEYWORDS = {
     "giang day",
     "giao vien phu trach",
     "teacher",
+    "teachers",
     "instructor",
+    "instructors",
     "faculty",
     "lecturer",
     "lecturers",
     "full name",
 }
+INSTRUCTOR_NAME_FIELD_MARKERS = (
+    "Full name",
+    "Lecturer",
+    "Lecturers",
+    "Instructor",
+    "Instructors",
+    "Teacher",
+    "Teachers",
+    "Giảng viên",
+    "Giảng viên phụ trách",
+    "Giang vien",
+    "Giang vien phu trach",
+    "Giáo viên",
+    "Giáo viên phụ trách",
+    "Giao vien",
+    "Giao vien phu trach",
+    "Họ và tên",
+    "Ho va ten",
+)
+INSTRUCTOR_AUX_FIELD_MARKERS = (
+    "Email",
+    "E-mail",
+    "Title",
+    "Address",
+    "Office",
+    "Department",
+    "Position",
+    "Phone number",
+    "Phone",
+    "Tel",
+    "Telephone",
+    "Mobile",
+    "Cellphone",
+)
+INSTRUCTOR_FIELD_SPLIT_MARKERS = INSTRUCTOR_NAME_FIELD_MARKERS + INSTRUCTOR_AUX_FIELD_MARKERS
+INSTRUCTOR_NAME_FIELD_TOKENS = {
+    "full name",
+    "lecturer",
+    "lecturers",
+    "instructor",
+    "instructors",
+    "teacher",
+    "teachers",
+    "giang vien",
+    "giang vien phu trach",
+    "giao vien",
+    "giao vien phu trach",
+    "ho va ten",
+}
+INSTRUCTOR_EMAIL_FIELD_TOKENS = {"email", "e mail"}
 CREDIT_KEYWORDS = {
     "tin chi",
     "tinchl",  # safeguard for missing accents
@@ -1738,7 +1788,7 @@ CLASS_HOUR_KEYWORDS = {
     "class hours",
     "lecture hours",
     "contact hours",
-    "in-class hours",
+    "in class hours",
 }
 SELF_STUDY_KEYWORDS = {
     "so gio tu hoc",
@@ -1746,8 +1796,86 @@ SELF_STUDY_KEYWORDS = {
     "tu hoc",
     "self study",
     "independent study",
-    "self-learning hours",
+    "self learning hours",
 }
+SELF_STUDY_LABEL_TOKENS = (
+    "self study",
+    "self learning",
+    "independent study",
+    "tu hoc",
+)
+DATASET_LANGUAGE_KEYWORDS: Dict[str, Tuple[str, ...]] = {
+    "en": (
+        "data en",
+        "file en",
+        "english data",
+        "english syllabus",
+        "dataset en",
+        "file data en",
+    ),
+    "vi": (
+        "data vi",
+        "file vi",
+        "vietnamese data",
+        "vietnamese syllabus",
+        "dataset vi",
+        "file data vi",
+    ),
+}
+LANGUAGE_DISPLAY_NAMES = {
+    "en": "English",
+    "vi": "Vietnamese",
+}
+
+
+def _question_targets_dataset_inventory(question: str) -> Optional[str]:
+    normalized = _normalize_query(question)
+    if not normalized:
+        return None
+    for lang, keywords in DATASET_LANGUAGE_KEYWORDS.items():
+        if any(keyword in normalized for keyword in keywords):
+            return lang
+    return None
+
+
+def _collect_dataset_entries(directory: Path, limit: int = 5) -> Tuple[int, List[str]]:
+    if not directory.exists():
+        return 0, []
+    names = sorted(path.stem for path in directory.glob("*.json"))
+    return len(names), names[:limit]
+
+
+def _summarize_dataset_language(lang: str) -> Dict[str, Any]:
+    root = BACKEND_ROOT / "data"
+    structured_dir = root / "processed-structured" / lang
+    json_dir = root / "processed-json" / lang
+    structured_count, structured_samples = _collect_dataset_entries(structured_dir)
+    json_count, json_samples = _collect_dataset_entries(json_dir)
+    return {
+        "lang": lang,
+        "structured_dir": structured_dir,
+        "structured_count": structured_count,
+        "structured_samples": structured_samples,
+        "json_dir": json_dir,
+        "json_count": json_count,
+        "json_samples": json_samples,
+    }
+
+
+def _format_relative_path(path: Path) -> str:
+    try:
+        return str(path.relative_to(PROJECT_ROOT.parent))
+    except ValueError:
+        return str(path)
+
+
+LEARNING_ACTIVITY_LINE_PATTERN = re.compile(
+    r"[+*\-•·\s]*"
+    r"(?P<label>[A-Za-zÀ-ỹ0-9/(),.&%\-\s]{3,}?)"
+    r"\s*[:：\-–—]\s*"
+    r"(?P<value>[0-9]{1,3})\s*(?P<unit>h(?:ou)?rs?|gio|giờ)\b",
+    re.IGNORECASE,
+)
 @dataclass(frozen=True)
 class SectionFocus:
     label: str
@@ -1880,6 +2008,29 @@ def _filter_section_segments(segments: List[str], config: SectionFocus) -> List[
         seen.add(norm)
         filtered.append(trimmed)
     return filtered
+
+
+def _extract_learning_activity_entries(text: str) -> List[Dict[str, Any]]:
+    entries: List[Dict[str, Any]] = []
+    for match in LEARNING_ACTIVITY_LINE_PATTERN.finditer(text):
+        label = match.group("label").strip(" .")
+        value = match.group("value")
+        try:
+            hours = int(value)
+        except (TypeError, ValueError):
+            continue
+        unit_token = match.group("unit").lower()
+        normalized_label = _normalize_query(label)
+        is_self_study = any(keyword in normalized_label for keyword in SELF_STUDY_LABEL_TOKENS)
+        entries.append(
+            {
+                "label": label,
+                "hours": hours,
+                "unit": "hrs" if unit_token.startswith("h") else "giờ",
+                "is_self_study": is_self_study,
+            }
+        )
+    return entries
 DEPARTMENT_SECTION_SLUGS = [
     "2-khoa-vien-quan-ly-va-giang-vien-giang-day",
     "khoa-vien-quan-ly-va-giang-vien-giang-day",
@@ -1889,6 +2040,8 @@ INSTRUCTOR_SECTION_SLUGS = [
     "khoa-vien-quan-ly-va-giang-vien-giang-day",
     "giang-vien-giang-day",
     "giang-vien",
+    "2-lecturer-s-information",
+    "lecturer-s-information",
     "lecturers-information",
 ]
 DEPARTMENT_KEYWORDS = {
@@ -2004,7 +2157,11 @@ def _collect_instructors_from_doc(doc_id: str) -> List[str]:
         if data:
             texts = [chunk.get("text") or "" for chunk in data.get("chunks", [])]
     for block in texts:
-        for name in _extract_instructor_names_from_text(block):
+        entries = _collect_instructors_from_text(block)
+        if not entries:
+            entries = [{"name": raw_name, "email": ""} for raw_name in _extract_instructor_names_from_text(block)]
+        for entry in entries:
+            name = (entry.get("name") or "").strip()
             if not name or name in seen:
                 continue
             seen.add(name)
@@ -2100,17 +2257,8 @@ def _extract_instructor_rows(text: str) -> List[Dict[str, str]]:
 
 
 def _extract_instructor_key_values(text: str) -> List[Dict[str, str]]:
-    markers = (
-        "Full name",
-        "Lecturer",
-        "Giảng viên",
-        "Giang vien",
-        "Họ và tên",
-        "Ho va ten",
-        "Email",
-    )
     normalized = text
-    for marker in markers:
+    for marker in INSTRUCTOR_FIELD_SPLIT_MARKERS:
         normalized = re.sub(
             rf"\s*({re.escape(marker)})\s*:",
             r"\n\1:",
@@ -2129,15 +2277,13 @@ def _extract_instructor_key_values(text: str) -> List[Dict[str, str]]:
         if not value:
             continue
         lowered = _normalize_query(key)
-        if lowered in {"full name", "lecturer", "giang vien", "ho va ten", "teacher", "instructor"}:
+        if lowered in INSTRUCTOR_NAME_FIELD_TOKENS:
             if current.get("name"):
                 entries.append(current)
                 current = {}
             current["name"] = value
-        elif lowered == "email":
+        elif lowered in INSTRUCTOR_EMAIL_FIELD_TOKENS:
             current["email"] = value
-        elif lowered in {"phone number", "title", "address"}:
-            continue
     if current.get("name"):
         entries.append(current)
     return entries
@@ -2406,6 +2552,15 @@ SELF_STUDY_PATTERNS = [
 
 
 def _extract_class_hours_value(text: str) -> Optional[str]:
+    entries = _extract_learning_activity_entries(text)
+    in_class_entries = [entry for entry in entries if not entry["is_self_study"]]
+    if in_class_entries:
+        total = sum(entry["hours"] for entry in in_class_entries)
+        unit_label = "hours" if any(entry["unit"] == "hrs" for entry in in_class_entries) else "giờ"
+        breakdown = "; ".join(
+            f"{entry['label']}: {entry['hours']} {entry['unit']}" for entry in in_class_entries
+        )
+        return f"{total} {unit_label} ({breakdown})"
     for pattern in HOUR_PATTERNS:
         match = pattern.search(text)
         if not match:
@@ -2420,6 +2575,10 @@ def _extract_class_hours_value(text: str) -> Optional[str]:
 
 
 def _extract_self_study_hours_value(text: str) -> Optional[str]:
+    for entry in _extract_learning_activity_entries(text):
+        if entry["is_self_study"]:
+            unit_label = "hours" if entry["unit"] == "hrs" else entry["unit"]
+            return f"{entry['hours']} {unit_label}"
     for pattern in SELF_STUDY_PATTERNS:
         match = pattern.search(text)
         if not match:
@@ -2696,6 +2855,62 @@ def _answer_department(question: str, chunks: List[Dict[str, Any]], _: str) -> O
     return f"Khoa/Viện phụ trách:\n{body}"
 
 
+def _answer_dataset_inventory(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
+    lang = _question_targets_dataset_inventory(question)
+    if not lang:
+        return None
+    summary = _summarize_dataset_language(lang)
+    structured_count = summary["structured_count"]
+    json_count = summary["json_count"]
+    english = _should_answer_in_english(question)
+    lang_label = LANGUAGE_DISPLAY_NAMES.get(lang, lang.upper())
+
+    if not structured_count and not json_count:
+        if english:
+            return (
+                f"No {lang_label} syllabus data found under "
+                f"`backend/data/processed-structured/{lang}` or `backend/data/processed-json/{lang}`."
+            )
+        return (
+            f"Chưa tìm thấy dữ liệu {lang_label} trong `backend/data/processed-structured/{lang}` "
+            f"hoặc `backend/data/processed-json/{lang}`."
+        )
+
+    header = "Dataset overview" if english else "Tổng quan dữ liệu"
+    lines = [f"{header} ({lang_label}):"]
+
+    def _format_line(label: str, directory: Path, count: int, samples: List[str]) -> str:
+        rel_dir = _format_relative_path(directory)
+        if not count:
+            missing = "No files yet" if english else "Chưa có tệp"
+            return f"- {label}: {missing} (`{rel_dir}`)"
+        sample_text = ""
+        if samples:
+            prefix = "e.g." if english else "Ví dụ"
+            sample_text = f"{prefix}: {', '.join(samples[:5])}"
+        file_word = "files" if english else "tệp"
+        detail = f" ({sample_text})" if sample_text else ""
+        return f"- {label}: {count} {file_word}{detail} (`{rel_dir}`)"
+
+    lines.append(
+        _format_line(
+            "processed-structured",
+            summary["structured_dir"],
+            structured_count,
+            summary["structured_samples"],
+        )
+    )
+    lines.append(
+        _format_line(
+            "processed-json",
+            summary["json_dir"],
+            json_count,
+            summary["json_samples"],
+        )
+    )
+    return "\n".join(lines)
+
+
 # ----- [S5F] Answer assembly & fallback responses ---------------------------
 # Chọn chiến lược trả lời (heuristic hoặc LLM), trình bày citations và xây
 # fallback deterministic nếu thiếu dữ kiện. Khi cần sửa logic trả lời, tìm "[S5F]".
@@ -2707,6 +2922,11 @@ class AnswerStrategy:
 
 
 ANSWER_STRATEGIES: List[AnswerStrategy] = [
+    AnswerStrategy(
+        "dataset_inventory",
+        lambda q: _question_targets_dataset_inventory(q) is not None,
+        _answer_dataset_inventory,
+    ),
     AnswerStrategy("instructors", _question_targets_instructors, _answer_instructors),
     AnswerStrategy("department", _question_targets_department, _answer_department),
     AnswerStrategy("section_focus", lambda q: bool(_match_section_focus(q)), _answer_section_focus),
@@ -4352,7 +4572,6 @@ def main():
             render_admin_page()
         return
 
-    st.header("Trang người dùng")
     st.divider()
     render_user_view()
 
