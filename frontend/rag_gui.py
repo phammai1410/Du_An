@@ -4033,6 +4033,59 @@ def render_sidebar_quick_actions():
             st.error(message)
         st.session_state.upload_feedback = None
 
+    st.caption("Xóa tài liệu trong backend")
+    delete_candidates = _list_raw_document_paths()
+    if delete_candidates:
+        delete_labels: List[str] = []
+        for path in delete_candidates:
+            try:
+                label = str(path.relative_to(BACKEND_ROOT))
+            except ValueError:
+                label = str(path.relative_to(PROJECT_ROOT.parent))
+            delete_labels.append(label)
+
+        selected_label = st.session_state.get("sidebar_selected_data_file")
+        default_index = 0
+        if selected_label and selected_label in delete_labels:
+            default_index = delete_labels.index(selected_label)
+
+        selected_option = st.selectbox(
+            "Chọn tệp dữ liệu để xóa",
+            options=delete_labels,
+            index=default_index,
+            disabled=pipeline_running,
+            key="sidebar_data_delete_selectbox",
+        )
+        selected_idx = delete_labels.index(selected_option)
+        selected_path = delete_candidates[selected_idx]
+        st.session_state.sidebar_selected_data_file = selected_option
+
+        if st.button(
+            "Xóa tệp đã chọn",
+            use_container_width=True,
+            disabled=pipeline_running,
+            key="sidebar_data_delete_button",
+            type="primary",
+        ):
+            try:
+                selected_path.unlink()
+                st.session_state.data_delete_feedback = ("success", f"Đã xóa {selected_option}.")
+                st.session_state.sidebar_selected_data_file = None
+            except Exception as exc:  # noqa: BLE001
+                st.session_state.data_delete_feedback = ("error", f"Không thể xóa {selected_option}: {exc}")
+            _trigger_streamlit_rerun()
+    else:
+        st.info("Chưa có tệp nào trong `backend/data/raw` để xóa.")
+
+    delete_feedback = st.session_state.get("data_delete_feedback")
+    if delete_feedback:
+        status, message = delete_feedback
+        if status == "success":
+            st.success(message)
+        else:
+            st.error(message)
+        st.session_state.data_delete_feedback = None
+
     st.divider()
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
     docx_langs = detect_docx_languages()
