@@ -59,10 +59,12 @@ pip install -r requirements.txt
 | --- | --- | --- |
 | `extract_docx_sections.py` | Chuẩn hoá DOCX, tách heading/bảng, ghi JSON “structured” | `python backend\tools\extract_docx_sections.py` |
 | `convert_docx_to_json.py` | Tạo chunk + metadata từ structured JSON | `python backend\tools\convert_docx_to_json.py` |
-| `build_index.py` | Embed chunk bằng TEI/LocalAI và sinh index FAISS/bruteforce | `python backend\tools\build_index.py --model <model> --base-url http://localhost:8800` |
-| `answer_rag.py` | CLI RAG đầy đủ: truy hồi + chat + citation (qua LocalAI) | `python backend\tools\answer_rag.py "Câu hỏi?" --model <model> --base-url http://localhost:8800` |
+| `build_index.py` | Embed chunk bằng TEI/LocalAI và sinh index FAISS/bruteforce | `python backend\tools\build_index.py --model <model> --base-url http://localhost:8081/v1` |
+| `answer_rag.py` | CLI RAG đầy đủ: truy hồi + chat + citation (qua LocalAI) | `python backend\tools\answer_rag.py "Câu hỏi?" --model <model> --base-url http://localhost:8081/v1` |
 | `ingest_docx_pipeline.py` | Gom toàn bộ pipeline (DOCX → JSON → Index) vào một lệnh | xem mục 3 |
 | `launch_tei.py` | Quản lý container TEI (list/start/stop) dựa trên `models.json` | `python backend\tools\launch_tei.py --list` |
+
+> Thay `http://localhost:8081/v1` bằng URL của dịch vụ embedding bạn dùng (ví dụ `http://localhost:8800` nếu chạy TEI trực tiếp bằng `launch_tei.py`).
 
 ---
 
@@ -73,7 +75,7 @@ pip install -r requirements.txt
 ```powershell
 python backend\tools\ingest_docx_pipeline.py ^
        --model sentence-transformers-all-MiniLM-L6-v2 ^
-       --base-url http://localhost:8800 ^
+       --base-url http://localhost:8081/v1 ^
        --langs vi en
 ```
 
@@ -94,28 +96,28 @@ Sau khi xong, index sẵn sàng cho Streamlit và CLI ở `backend/data/index/<m
 ## 4. Chuẩn bị hạ tầng Local TEI + LocalAI
 
 1. **Tải model embedding** (mỗi thư mục trong `backend/local-llm/Embedding/` phải có file trọng số ví dụ `model.safetensors`). Nếu thiếu, chạy một trong các script `backend/tools/download_*.py`.
-2. **Tạo `.env` từ `.env.sample`** để định nghĩa `TEI_BASE_URL`, `LOCALAI_BASE_URL`, `EMBEDDING_MODEL` mặc định…
-3. **Khởi động stack Docker** (TEI + LocalAI). LocalAI sẽ tự tải model chat `llama-3.2-1b-instruct:q4_k_m` nhờ câu lệnh `local-ai run ...` trong `docker-compose.yml`. Chỉnh sửa chuỗi sau `run` nếu muốn model khác.
-   ```powershell
-   docker compose up -d
-   docker ps    # xác nhận các container tei-*, localai chạy
-   ```
+2. **Cấu hình biến môi trường**: điền các giá trị trong `.env` (Streamlit tự load `.env` ở root và `backend/.env`). Đảm bảo `LOCALAI_BASE_URL` (mặc định `http://localhost:8081/v1`), `TEI_BASE_URL` và `EMBEDDING_MODEL` khớp với dịch vụ bạn muốn dùng.
+3. **Khởi động TEI + LocalAI**. Có thể dùng các nút trong sidebar Streamlit (mục *Docker Runtime control*) hoặc chạy thủ công:
+   - TEI (port mặc định 8800 theo `backend/local-llm/Embedding/models.json`):
+     ```powershell
+     python backend\tools\launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu --port 8800 --detach
+     ```
+   - LocalAI (chat + embedding backend, map port host 8081 → container 8080):
+     ```powershell
+     docker run -d --rm --name localai-runtime -p 8081:8080 `
+         -e LOG_LEVEL=info localai/localai:latest local-ai run llama-3.2-1b-instruct:q4_k_m
+     ```
+     Thay model sau `local-ai run` nếu bạn đặt `LOCALAI_RUNTIME_MODEL` khác.
    Kiểm tra nhanh:
    ```powershell
-   curl.exe http://localhost:8800/health
-   curl.exe http://localhost:8080/v1/models
+   curl.exe http://localhost:8800/health          # thay 8800 = port TEI bạn dùng
+   curl.exe http://localhost:8081/v1/models       # LocalAI API
    ```
-   Muốn chạy LocalAI thủ công (không dùng docker compose), có thể dùng trực tiếp `docker run` hoặc CLI:
+   TEI MiniLM chỉ nhận tối đa 8 chunk/lần; pipeline và UI mặc định gửi batch=8.
+4. **(Tuỳ chọn) Điều khiển TEI riêng** bằng `launch_tei.py` nếu muốn xem trạng thái hoặc tắt từng container:
    ```powershell
-   docker run -ti --name local-ai -p 8080:8080 localai/localai:latest local-ai run llama-3.2-1b-instruct:q4_k_m
-   docker run -ti --name local-ai -p 8080:8080 --gpus all localai/localai:latest-gpu-nvidia-cuda-12 local-ai run llama-3.2-1b-instruct:q4_k_m
-   local-ai run huggingface://TheBloke/phi-2-GGUF/phi-2.Q8_0.gguf
-   ```
-   # TEI MiniLM chỉ nhận tối đa 8 chunk/lần; pipeline và UI mặc định gửi batch=8.
-   ```
-4. **(Tuỳ chọn) Điều khiển TEI riêng** bằng `launch_tei.py` nếu bạn muốn bật/tắt từng model:
-   ```powershell
-  python backend\tools\launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu --detach
+   python backend\tools\launch_tei.py --status
+   python backend\tools\launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu --stop
    ```
 5. **Chạy pipeline** (mục 3) để tạo index cho model đang dùng.
 
@@ -131,7 +133,7 @@ streamlit run frontend\rag_gui.py
 Trong sidebar bạn có thể:
 - Nhập OpenAI API key (dùng cho chat khi cần, nhưng truy hồi vẫn yêu cầu Local TEI).
 - Chọn model TEI, runtime, kiểm tra Docker, tải model và bật/tắt container qua `launch_tei.py`.
-- Upload DOCX (được lưu ở `backend/data/raw/uploads/<ext>/` cho pipeline xử lý sau).
+- Upload PDF/DOCX/XLSX (được lưu ở `backend/data/raw/uploads/<ext>/` cho pipeline xử lý sau).
 - Nhấn **Rebuild backend index** → UI sẽ chạy `ingest_docx_pipeline.py` với các DOCX hiện có và làm mới cache index.
 
 Khi chat:
@@ -147,21 +149,21 @@ Lưu ý: Luồng rebuild bằng PDF trong UI đã bị loại bỏ; mọi dữ l
 ```powershell
 python backend\tools\answer_rag.py "Nội dung câu hỏi" ^
        --model sentence-transformers-all-MiniLM-L6-v2 ^
-       --base-url http://localhost:8800 ^
+       --base-url http://localhost:8081/v1 ^
        --k 5
 ```
 
 Hoặc chỉ kiểm tra truy hồi:
 ```powershell
-python backend\tools\search_index.py "Từ khoá" --model sentence-transformers-all-MiniLM-L6-v2 --base-url http://localhost:8800
+python backend\tools\search_index.py "Từ khoá" --model sentence-transformers-all-MiniLM-L6-v2 --base-url http://localhost:8081/v1
 ```
 
 ---
 
 ## 7. Khắc phục sự cố
 
-- **TEI không khởi động**: `docker compose logs tei-<model> --tail=200`, kiểm tra đường dẫn model mount đúng chưa.
-- **LocalAI không tải được model**: kiểm tra câu lệnh `local-ai run ...` trong `docker-compose.yml` (hoặc command bạn dùng khi chạy container) và đảm bảo máy có quyền truy cập mạng tới nguồn model.
+- **TEI không khởi động**: `python backend\tools\launch_tei.py --status` hoặc `docker logs <container>` để xem lỗi, kiểm tra đường dẫn model mount đúng chưa.
+- **LocalAI không tải được model**: `docker logs localai-runtime`, kiểm tra chuỗi `local-ai run ...` và đảm bảo máy có quyền truy cập mạng tới nguồn model.
 - **`build_index.py` báo thiếu FAISS**: cài `faiss-cpu` phù hợp, hoặc chuyển `--backend bruteforce` để lưu vector NumPy.
 - **Pipeline timeout / lỗi batch size**: với TEI MiniLM giữ `--batch-size 8` (mặc định đã đặt), hoặc tăng `--embed-timeout` nếu cần. Với model khác, điều chỉnh theo thông báo trong log.
 - **UI báo “chưa có index”**: chắc chắn đã chạy “Rebuild backend index” (hoặc chạy `ingest_docx_pipeline.py`) sau khi thêm DOCX mới.
@@ -178,4 +180,4 @@ python backend\tools\search_index.py "Từ khoá" --model sentence-transformers-
 
 ---
 
-**Ghi chú:** luôn chạy `python backend\tools\<script>.py --help` để xem đầy đủ tham số; file `backend/local-llm/Embedding/README.md` giải thích chi tiết cách tải model TEI và cấu hình runtime. README này phản ánh luồng mới (UI dùng chung index backend); nếu bạn mở rộng thêm mode khác, hãy cập nhật tài liệu tương ứng.
+**Ghi chú:** luôn chạy `python backend\tools\<script>.py --help` để xem đầy đủ tham số; tham khảo README tương ứng trong `backend/local-llm/Embedding/<model>/README.md` để biết chi tiết cách tải model và cấu hình runtime. README này phản ánh luồng mới (UI dùng chung index backend); nếu bạn mở rộng thêm mode khác, hãy cập nhật tài liệu tương ứng.

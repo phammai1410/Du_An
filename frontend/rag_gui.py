@@ -3635,7 +3635,7 @@ def _pull_tei_image(
     runtime_key: str,
     status_placeholder,
 ) -> Tuple[bool, str]:
-    _ = runtime_key  # runtime is fixed to CPU mode but kept for signature compatibility
+    _ = runtime_key  
     image = DEFAULT_TEI_RUNTIME_IMAGE
     if not image:
         return True, "No Docker image configured for this runtime."
@@ -4317,7 +4317,7 @@ def render_sidebar_quick_actions():
 
 # ----- [S6E] View switching & admin tools ------------------------------------
 # Phần này gom điều khiển chuyển Trang người dùng/Trang quản trị, đăng nhập
-# admin, quản lý file gốc và layout trang quản trị. Tìm "[S6E]" để sửa UI admin.
+# admin, quản lý file gốc và layout trang quản trị. .
 def ensure_admin_access() -> bool:
     admin_password = _get_admin_password()
     already_authenticated = st.session_state.get("admin_authenticated", False)
