@@ -3094,6 +3094,20 @@ def apply_material_theme():
             color: var(--text-primary);
             font-family: "Google Sans", "Segoe UI", sans-serif;
         }
+                /* Ép màu chữ trong ô nhập câu hỏi luôn đen (kể cả dark mode) */
+        .stTextInput input,
+        .stTextArea textarea,
+        div[data-baseweb="input"] input,
+        div[data-baseweb="textarea"] textarea {
+            color: #111 !important;
+        }
+
+        [data-theme="dark"] .stTextInput input,
+        [data-theme="dark"] .stTextArea textarea,
+        [data-theme="dark"] div[data-baseweb="input"] input,
+        [data-theme="dark"] div[data-baseweb="textarea"] textarea {
+            color: #111 !important;
+        }
 
         .stApp [data-testid="stToolbar"] {
             background: transparent;
