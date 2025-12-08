@@ -3783,7 +3783,37 @@ def render_local_runtime_controls() -> None:
     model_key = st.session_state.embed_model
     runtime_mode = st.session_state.tei_runtime_mode
     tei_status = get_tei_runtime_status(model_key, runtime_mode)
+    tei_running = bool(tei_status.get("running"))
+    auto_start_embed = os.getenv("AUTO_START_TEI_RUNTIME", "1") == "1"
+    already_embed_started = st.session_state.get("tei_runtime_autostarted", False)
+
+    if auto_start_embed and not tei_running and not already_embed_started:
+     status_placeholder = st.empty()
+     st.session_state["tei_download_in_progress"] = True
+     try:
+        success, message = _handle_start_tei_runtime(
+            model_key,
+            runtime_mode,
+            status_placeholder,
+        )
+     finally:
+        st.session_state["tei_download_in_progress"] = False
+
+     st.session_state["tei_runtime_autostarted"] = True
+     st.session_state["tei_runtime_feedback"] = ("success" if success else "error", message)
+     tei_status = get_tei_runtime_status(model_key, runtime_mode)
     localai_running = localai_is_running()
+    auto_start_chat = os.getenv("AUTO_START_CHAT_RUNTIME", "1") == "1"
+    already_autostarted = st.session_state.get("chat_runtime_autostarted", False)
+
+    if auto_start_chat and not localai_running and not already_autostarted:
+     success, message = start_localai_service()
+     st.session_state["chat_runtime_autostarted"] = True
+     st.session_state["localai_runtime_feedback"] = (
+        "success" if success else "error",
+        message,
+     )
+     localai_running = success
     pipeline_request = st.session_state.get("pipeline_request")
 
     st.subheader("Docker Runtime control")
