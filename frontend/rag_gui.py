@@ -142,7 +142,7 @@ CAPABILITY_PHRASES = {
 
 CHUNK_MODES: Dict[str, str] = {
     "structured": "Structured-chunks",
-    "direct": "Direct-chunks",
+    #"direct": "Direct-chunks",
 }
 DEFAULT_CHUNK_MODE = "structured"
 
