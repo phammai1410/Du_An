@@ -118,7 +118,7 @@ DEFAULT_CHUNK_OVERLAP = 200
 LOCALAI_IMAGE = os.getenv("LOCALAI_IMAGE", "localai/localai:latest")
 LOCALAI_CONTAINER_NAME = os.getenv("LOCALAI_CONTAINER_NAME", "localai-runtime")
 LOCALAI_RUNTIME_MODEL = os.getenv("LOCALAI_RUNTIME_MODEL", "llama-3.2-1b-instruct:q4_k_m")
-
+# Mô hình chat mặc định nếu không xác định được mô hình phù hợp khác.
 DEFAULT_CHAT_MODEL = LOCALAI_RUNTIME_MODEL
 LOCALAI_COMPOSE_PROJECT = os.getenv("LOCALAI_COMPOSE_PROJECT", "khoa_luan")
 LOCALAI_COMPOSE_SERVICE = os.getenv("LOCALAI_COMPOSE_SERVICE", "localai")
@@ -148,15 +148,16 @@ CHUNK_MODES: Dict[str, str] = {
     #"direct": "Direct-chunks",
 }
 DEFAULT_CHUNK_MODE = "structured"
-
+# Các định dạng tệp được phép tải lên.
 UPLOAD_ALLOWED_EXTS = {"pdf", "docx", "xlsx"}
+# Các định dạng tệp có thể chỉnh sửa văn bản trực tiếp.
 TEXT_EDITABLE_EXTS = {"txt", "md", "markdown", "json", "yaml", "yml", "csv", "tsv", "ini", "toml"}
 
 EMBED_BACKENDS: Dict[str, str] = {
     "tei": "Local Text-Embeddings-Inference",
 }
 GLOBAL_DOCKER_ERROR_SNIPPETS = ("docker desktop is manually paused",)
-
+# Bảng tra cứu mô hình TEI được hỗ trợ với metadata cần thiết.
 TEI_MODELS: Dict[str, Dict[str, Any]] = {
     "sentence-transformers/all-MiniLM-L6-v2": {
         "display": "MiniLM L6 v2 (22M/Q4)",
@@ -210,6 +211,7 @@ def resolve_tei_config_key(model_key: str) -> str:
 
 
 # Làm ngược lại: map config_key từ models.json về key hiển thị ở UI.
+# Tra cứu qua các mục trong TEI_MODELS.
 def resolve_tei_ui_key(config_key: str) -> Optional[str]:
     if not config_key:
         return None
@@ -226,6 +228,7 @@ def resolve_tei_ui_key(config_key: str) -> Optional[str]:
 
 
 # Ghép nhãn backend + tên model để hiển thị trong dropdown.
+# Nếu không có tên hiển thị, trả về tên model thô.
 def format_embedding_display(backend_key: Optional[str], model_key: Optional[str]) -> str:
     if not model_key:
         return "Unknown model"
@@ -239,7 +242,7 @@ def format_embedding_display(backend_key: Optional[str], model_key: Optional[str
         return model_key
     return str(model_key)
 
-
+# Các giá trị mặc định cho runtime TEI.
 DEFAULT_TEI_RUNTIME_MODE = "cpu"
 DEFAULT_TEI_RUNTIME_LABEL = "CPU"
 DEFAULT_TEI_RUNTIME_IMAGE = os.getenv(

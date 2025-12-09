@@ -12,13 +12,16 @@ try:
 except Exception:  # noqa: BLE001
     faiss = None  # type: ignore
 
-
+# hàm để chuẩn hóa vector theo chuẩn L2
+# trả về vector đã chuẩn hóa
 def _l2_normalize(v: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(v, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     return v / norms
 
-
+# hàm để nhúng truy vấn văn bản sử dụng API LocalAI
+# trả về vector nhúng đã chuẩn hóa
+# xử lý thời gian chờ kết nối
 def _embed_query(base_url: str, model: str, text: str, timeout: int = 60) -> np.ndarray:
     resp = requests.post(
         f"{base_url.rstrip('/')}/embeddings",
@@ -31,7 +34,9 @@ def _embed_query(base_url: str, model: str, text: str, timeout: int = 60) -> np.
     arr = np.asarray([vec], dtype="float32")
     return _l2_normalize(arr)
 
-
+# hàm để phân tích các đối số dòng lệnh
+# trả về Namespace chứa các đối số đã phân tích
+# sử dụng các tham số cấu hình tìm kiếm chỉ mục
 def main() -> int:
     parser = argparse.ArgumentParser(description="Search FAISS index built from LocalAI embeddings.")
     parser.add_argument("query", nargs="+", help="Query text")

@@ -22,7 +22,9 @@ except Exception:  # noqa: BLE001
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
-
+# hàm để tải biến môi trường từ file .env nếu có
+# sử dụng thư viện python-dotenv nếu có
+# nếu không thì tự triển khai tải biến môi trường từ file .env
 def _fallback_load_env(path: Path) -> None:
     if not path.exists():
         return
@@ -43,13 +45,16 @@ if load_dotenv:
 else:
     _fallback_load_env(ROOT_DIR / ".env")
 
-
+# hàm để chuẩn hóa vector theo chuẩn L2
+# trả về vector đã chuẩn hóa
 def l2_normalize(v: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(v, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     return v / norms
 
-
+# hàm để nhúng văn bản sử dụng API LocalAI
+# trả về mảng numpy của các vector nhúng đã chuẩn hóa
+# xử lý thời gian chờ kết nối
 def embed(base_url: str, model: str, texts: List[str], timeout: int = 120) -> np.ndarray:
     resp = requests.post(
         f"{base_url.rstrip('/')}/embeddings",
@@ -62,12 +67,14 @@ def embed(base_url: str, model: str, texts: List[str], timeout: int = 120) -> np
     arr = np.asarray(vecs, dtype="float32")
     return l2_normalize(arr)
 
-
+# hàm để tải manifest của chỉ mục từ thư mục chỉ mục đã cho
+# trả về từ điển chứa thông tin manifest
 def load_manifest(index_dir: Path) -> Dict:
     mf = json.loads((index_dir / "index_manifest.json").read_text(encoding="utf-8"))
     return mf
 
-
+# hàm để tải metadata của chỉ mục từ thư mục chỉ mục đã cho
+# trả về danh sách các từ điển chứa thông tin metadata
 def load_meta(index_dir: Path) -> List[Dict]:
     metas: List[Dict] = []
     with open(index_dir / "meta.jsonl", "r", encoding="utf-8") as f:
@@ -75,7 +82,9 @@ def load_meta(index_dir: Path) -> List[Dict]:
             metas.append(json.loads(line))
     return metas
 
-
+# hàm để tải bản đồ các đoạn văn từ thư mục chỉ mục đã cho
+# trả về từ điển ánh xạ khóa đoạn văn sang nội dung đoạn văn
+# khóa đoạn văn là tuple (source_path, section_heading, chunk_id)
 def load_chunks_map(index_dir: Path) -> Optional[Dict[Tuple[str, str, str], str]]:
     path = index_dir / "chunks.jsonl"
     if not path.exists():
@@ -89,13 +98,18 @@ def load_chunks_map(index_dir: Path) -> Optional[Dict[Tuple[str, str, str], str]
             mapping[key] = row.get("text", "")
     return mapping
 
-
+# hàm để làm sạch văn bản bằng cách chuẩn hóa Unicode và loại bỏ khoảng trắng thừa
+# trả về chuỗi văn bản đã làm sạch
 def _clean_text(value: Optional[str]) -> str:
     text = unicodedata.normalize("NFC", (value or "").replace("\xa0", " "))
     lines = [line.strip() for line in str(text).splitlines() if line.strip()]
     return "\n".join(lines)
 
-
+# hàm để chia nhỏ văn bản thành các đoạn con dựa trên độ dài tối đa và chồng lắp
+# trả về danh sách các đoạn con
+# sử dụng hàm làm sạch văn bản trước khi chia nhỏ
+# mỗi đoạn con có độ dài không vượt quá max_len
+# các đoạn con có thể chồng lắp với nhau theo tham số overlap
 def _chunk_text(text: str, max_len: int, overlap: int) -> List[str]:
     text = _clean_text(text)
     if not text:
@@ -114,7 +128,8 @@ def _chunk_text(text: str, max_len: int, overlap: int) -> List[str]:
         start = max(0, end - overlap)
     return chunks
 
-
+# hàm để xác định đường dẫn nguồn từ metadata
+# trả về đối tượng Path nếu tìm thấy
 def _resolve_source_path(meta: Dict) -> Optional[Path]:
     path_str = meta.get("source_path") or meta.get("source_relpath")
     if not path_str:
@@ -126,7 +141,10 @@ def _resolve_source_path(meta: Dict) -> Optional[Path]:
         return None
     return candidate
 
-
+# hàm để tái tạo đoạn văn từ metadata
+# trả về chuỗi văn bản của đoạn văn
+# sử dụng các thông tin trong metadata để tìm và trích xuất đoạn văn
+# nếu đoạn văn không có trong metadata, cố gắng tải từ file nguồn
 def reconstruct_chunk(meta: Dict, max_len: int = 1000, overlap: int = 200) -> str:
     text = meta.get("text")
     if text:
@@ -191,7 +209,10 @@ def reconstruct_chunk(meta: Dict, max_len: int = 1000, overlap: int = 200) -> st
         return pieces[ci]
     return ""
 
-
+# hàm để tìm kiếm trong chỉ mục với vector truy vấn và số kết quả k
+# trả về danh sách các tuple (điểm số, chỉ mục) của các kết quả tìm được    
+# sử dụng backend phù hợp dựa trên manifest của chỉ mục
+# hỗ trợ backend faiss và bruteforce
 def search(index_dir: Path, query_vec: np.ndarray, k: int) -> List[Tuple[float, int]]:
     manifest = load_manifest(index_dir)
     backend = manifest.get("backend", "faiss")
@@ -209,14 +230,19 @@ def search(index_dir: Path, query_vec: np.ndarray, k: int) -> List[Tuple[float, 
     else:
         raise RuntimeError(f"Unsupported backend: {backend}")
 
-
+# hàm để định dạng một mục ngữ cảnh với chỉ số, điểm số, văn bản và metadata
+# trả về chuỗi văn bản đã định dạng
+# sử dụng thông tin trong metadata để tạo phần tham khảo
 def format_context_item(i: int, score: float, text: str, meta: Dict) -> str:
     src = meta.get("filename", meta.get("source_path", ""))
     heading = meta.get("section_heading", "")
     ref = f"[{i}] {src} | {heading} | retrieval_score={score:.3f}"
     return ref + "\n" + text.strip()
 
-
+# hàm để chọn mô hình chat từ API LocalAI
+# trả về tên mô hình đã chọn hoặc None nếu không có mô hình phù hợp
+# ưu tiên mô hình được chỉ định nếu có
+# sử dụng heuristics để chọn mô hình hướng dẫn/chat nếu không có mô hình ưu tiên
 def pick_chat_model(base_url: str, preferred: Optional[str]) -> Optional[str]:
     try:
         r = requests.get(f"{base_url.rstrip('/')}/models", timeout=10)
@@ -233,7 +259,9 @@ def pick_chat_model(base_url: str, preferred: Optional[str]) -> Optional[str]:
     except Exception:
         return preferred
 
-
+# hàm để gọi API chat của LocalAI với các tham số đã cho
+# trả về chuỗi văn bản của câu trả lời
+# sử dụng hệ thống và người dùng prompt đã cho
 def chat_answer(base_url: str, model: str, system_prompt: str, user_prompt: str, temperature: float = 0.2, timeout: int = 120) -> str:
     payload = {
         "model": model,
@@ -251,7 +279,9 @@ def chat_answer(base_url: str, model: str, system_prompt: str, user_prompt: str,
         return ""
     return choices[0].get("message", {}).get("content", "")
 
-
+# hàm để phân tích các đối số dòng lệnh
+# trả về Namespace chứa các đối số đã phân tích
+# sử dụng các tham số cấu hình RAG và mô hình chat
 def main() -> int:
     parser = argparse.ArgumentParser(description="RAG: retrieve top-k contexts and call LocalAI chat model with citations")
     parser.add_argument("query", nargs="+", help="The user question")

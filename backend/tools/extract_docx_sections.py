@@ -1,14 +1,4 @@
-"""Structured DOCX extractor.
 
-This script performs step (1) of the RAG pipeline:
-  * Normalize and extract paragraphs and tables from raw DOCX syllabi
-  * Preserve section hierarchy and emit table data as structured JSON
-  * Clean whitespace while keeping accents and special characters
-
-Outputs are written to ``backend/data/processed-structured/<lang>/*.json``.
-The file includes per-section content, normalized labels, table metadata,
-and a manifest so the script can be re-run incrementally.
-"""
 
 from __future__ import annotations
 
@@ -29,7 +19,7 @@ from docx.oxml.table import CT_Tbl  # type: ignore[attr-defined]
 from docx.oxml.text.paragraph import CT_P  # type: ignore[attr-defined]
 from docx.table import _Cell, Table  # type: ignore
 from docx.text.paragraph import Paragraph
-
+# định nghĩa các hằng số và đường dẫn thư mục
 ROOT_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT_DIR / "data" / "raw"
 OUTPUT_DIR = ROOT_DIR / "data" / "processed-structured"
@@ -37,7 +27,8 @@ MANIFEST_PATH = OUTPUT_DIR / "_manifest.json"
 
 LANGUAGES = ("vi", "en")
 
-
+# hàm để đảm bảo sử dụng mã hóa UTF-8 cho đầu vào/đầu ra tiêu chuẩn
+# tránh lỗi mã hóa trên Windows
 def _ensure_utf8_stdio() -> None:
     """Force UTF-8 stdio to avoid Windows codepage errors."""
     preferred_encoding = os.environ.get("PYTHONIOENCODING")
@@ -54,11 +45,13 @@ def _ensure_utf8_stdio() -> None:
 
 _ensure_utf8_stdio()
 
-
+# hàm để tạo thư mục đầu ra nếu chưa tồn tại
+# đảm bảo rằng các file đã trích xuất có nơi để lưu trữ
 def ensure_output_dir() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-
+# hàm để chuẩn hóa văn bản
+# loại bỏ khoảng trắng thừa và chuẩn hóa Unicode
 def normalize_text(value: str) -> str:
     """Return NFC normalized text with collapsed whitespace."""
     if not value:
@@ -68,7 +61,8 @@ def normalize_text(value: str) -> str:
     text = re.sub(r"[ ]{2,}", " ", text)
     return text.strip()
 
-
+# hàm để tạo slug từ văn bản
+# sử dụng để tạo nhãn định danh cho các phần
 def slugify(value: str) -> str:
     """Generate a lowercase ASCII slug for section labels."""
     if not value:
@@ -79,7 +73,8 @@ def slugify(value: str) -> str:
     ascii_text = ascii_text.strip("-").lower()
     return ascii_text
 
-
+# hàm để tính toán hàm băm MD5 của một file
+# sử dụng để kiểm tra thay đổi nội dung file
 def compute_md5(path: Path) -> str:
     """Return md5 hash for the provided file path."""
     import hashlib
@@ -90,7 +85,8 @@ def compute_md5(path: Path) -> str:
             hasher.update(chunk)
     return hasher.hexdigest()
 
-
+# hàm để xác định cấp độ tiêu đề từ tên kiểu dáng
+# sử dụng để phân đoạn tài liệu thành các phần
 def heading_level(style_name: Optional[str]) -> Optional[int]:
     if not style_name:
         return None
@@ -102,7 +98,9 @@ def heading_level(style_name: Optional[str]) -> Optional[int]:
             return None
     return None
 
-
+# hàm để lặp qua các khối trong tài liệu
+# bao gồm đoạn văn và bảng, theo thứ tự xuất hiện
+# sử dụng để trích xuất nội dung có cấu trúc
 def iter_blocks(document: Document) -> Iterable[Tuple[str, object]]:
     """Yield paragraphs and tables in document order."""
     parent_element = document._element  # type: ignore[attr-defined]
@@ -112,7 +110,9 @@ def iter_blocks(document: Document) -> Iterable[Tuple[str, object]]:
         elif isinstance(child, CT_Tbl):
             yield "table", Table(child, document)
 
-
+# hàm để kiểm tra xem đoạn văn có phải là một mục trong danh sách hay không
+# sử dụng để đánh dấu các đoạn văn liệt kê
+# trả về True nếu đoạn văn là mục danh sách, ngược lại False
 def is_list_paragraph(paragraph: Paragraph) -> bool:
     props = paragraph._p.pPr  # type: ignore[attr-defined]
     return props is not None and props.numPr is not None
@@ -135,7 +135,9 @@ SECTION_LABEL_MAP = {
     "quy-dinh-cua-hoc-phan": "course_policies",
 }
 
-
+# hàm để chuẩn hóa nhãn phần từ tiêu đề
+# loại bỏ số thứ tự và tạo slug
+# sử dụng để tạo nhãn định danh cho các phần
 def normalize_section_label(title: str) -> str:
     cleaned = normalize_text(title)
     cleaned = re.sub(r"^[0-9]+(\.[0-9]+)*\s*", "", cleaned)
@@ -151,7 +153,8 @@ TABLE_NAME_PATTERNS = (
     re.compile(r"^Ma trận", re.IGNORECASE),
 )
 
-
+# hàm để suy luận tên bảng từ các đoạn văn gần nhất
+# sử dụng các mẫu regex để nhận diện tiêu đề bảng
 def infer_table_name(candidates: Iterable[str]) -> Optional[str]:
     for candidate in reversed(list(candidates)):
         text = normalize_text(candidate)
@@ -162,12 +165,14 @@ def infer_table_name(candidates: Iterable[str]) -> Optional[str]:
             if match:
                 tail = match.group(0).strip()
                 return tail
-        # Fallback: short preceding paragraph can be a caption.
+        # Fallback: đoạn văn ngắn ngay phía trước có thể được xem như một chú thích (caption).
         if len(text.split()) <= 7:
             return text
     return None
 
-
+# hàm để chuyển đổi nội dung ô bảng thành văn bản
+# loại bỏ trùng lặp và chuẩn hóa văn bản
+# sử dụng để trích xuất nội dung từ các ô bảng
 def cell_to_text(cell: _Cell) -> str:
     parts: List[str] = []
     for paragraph in cell.paragraphs:
@@ -180,7 +185,8 @@ def cell_to_text(cell: _Cell) -> str:
             unique_parts.append(item)
     return " ".join(unique_parts).strip()
 
-
+# hàm để phát hiện xem hàng đầu tiên của bảng có phải là hàng tiêu đề hay không
+# sử dụng các đặc điểm như độ dài ô và từ khóa
 def detect_header_row(rows: List[List[str]]) -> bool:
     if not rows:
         return False
@@ -200,7 +206,7 @@ def detect_header_row(rows: List[List[str]]) -> bool:
             score += 1
     return score >= max(1, len(first_row) // 2)
 
-
+# lớp dữ liệu để biểu diễn một phần trong tài liệu
 @dataclass
 class Section:
     section_id: str
@@ -211,7 +217,8 @@ class Section:
     path_labels: List[str]
     content: List[Dict[str, object]] = field(default_factory=list)
 
-
+# hàm để phân tích tên file và trích xuất thông tin khóa học
+# sử dụng để tạo định danh tài liệu
 def parse_filename(stem: str) -> Tuple[str, str, str]:
     parts = [part.strip() for part in stem.split("_") if part.strip()]
     if not parts:
@@ -223,7 +230,9 @@ def parse_filename(stem: str) -> Tuple[str, str, str]:
     course_variant = "_".join(parts[1:-1]) if len(parts) > 2 else ""
     return course_name, course_variant, course_code
 
-
+# hàm để trích xuất nội dung có cấu trúc từ tài liệu .docx
+# sử dụng các hàm phụ để phân đoạn và trích xuất văn bản và bảng
+# trả về một từ điển chứa dữ liệu đã trích xuất
 def extract_document(doc_path: Path, language: str) -> Dict[str, object]:
     document = Document(doc_path)
     course_name, course_variant, course_code = parse_filename(doc_path.stem)
@@ -248,7 +257,8 @@ def extract_document(doc_path: Path, language: str) -> Dict[str, object]:
     paragraph_counter = 0
     full_text_parts: List[str] = []
     recent_paragraphs: Deque[str] = deque(maxlen=3)
-
+# hàm phụ để lấy phần hiện tại từ ngăn xếp
+# sử dụng để xác định phần mà nội dung hiện tại thuộc về
     def current_section() -> Section:
         return section_stack[-1] if section_stack else root_section
 
@@ -386,7 +396,7 @@ def extract_document(doc_path: Path, language: str) -> Dict[str, object]:
             all_tables.append(table_entry)
             recent_paragraphs.clear()
 
-    # Remove root section wrapper
+    # Loại bỏ lớp bao (wrapper) của mục gốc (root section)
     structured_sections: List[Dict[str, object]] = []
     for section in sections:
         structured_sections.append(
@@ -427,7 +437,9 @@ def extract_document(doc_path: Path, language: str) -> Dict[str, object]:
     }
     return payload
 
-
+# hàm để tải và lưu trữ bản ghi manifest
+# sử dụng để theo dõi trạng thái xử lý của các tài liệu
+# trả về từ điển biểu diễn manifest
 def load_manifest() -> Dict[str, Dict[str, object]]:
     if MANIFEST_PATH.exists():
         try:
@@ -437,12 +449,15 @@ def load_manifest() -> Dict[str, Dict[str, object]]:
             pass
     return {"version": 1, "entries": {}}
 
-
+# hàm để lưu bản ghi manifest vào file
+# sử dụng để cập nhật trạng thái xử lý của các tài liệu
 def save_manifest(manifest: Dict[str, Dict[str, object]]) -> None:
     with MANIFEST_PATH.open("w", encoding="utf-8") as stream:
         json.dump(manifest, stream, ensure_ascii=False, indent=2)
 
-
+# hàm chính để trích xuất các phần từ tài liệu .docx
+# sử dụng các hàm phụ đã định nghĩa để xử lý từng tài liệu
+# báo cáo tiến trình và kết quả cuối cùng
 def main() -> None:
     ensure_output_dir()
     manifest = load_manifest()

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Utility script to launch Hugging Face Text Embeddings Inference (TEI) servers
-using Docker images and locally downloaded models.
+Script tiện ích dùng để khởi chạy các server Hugging Face Text Embeddings Inference (TEI) 
+bằng Docker images và các mô hình đã được tải về cục bộ
 """
 from __future__ import annotations
 
@@ -23,7 +23,7 @@ except ImportError:  # pragma: no cover - Python < 3.8 fallback
     def shlex_join(parts: List[str]) -> str:
         return " ".join(parts)
 
-
+# Định nghĩa các hằng số cấu hình và đường dẫn
 BACKEND_ROOT = Path(__file__).resolve().parent.parent
 EMBEDDING_ROOT = BACKEND_ROOT / "local-llm" / "Embedding"
 CONFIG_PATH = EMBEDDING_ROOT / "models.json"
@@ -36,7 +36,7 @@ COMPOSE_PROJECT_NAME = os.getenv("TEI_COMPOSE_PROJECT", "khoa_luan")
 COMPOSE_SERVICE_NAME = os.getenv("TEI_COMPOSE_SERVICE", "tei-runtime")
 COMPOSE_VERSION = os.getenv("TEI_COMPOSE_VERSION", "1.29.2")
 
-
+# Định nghĩa lớp dữ liệu để lưu trữ thông tin về các chế độ runtime TEI
 @dataclass(frozen=True)
 class RuntimeSpec:
     """Container metadata for a TEI runtime mode."""
@@ -45,7 +45,9 @@ class RuntimeSpec:
     image: str
     requires_gpu: bool
 
-
+# Định nghĩa các chế độ runtime TEI có sẵn
+# Các chế độ này xác định Docker image và yêu cầu GPU hay không
+# Người dùng có thể chọn chế độ runtime khi khởi chạy container
 RUNTIME_SPECS: Dict[str, RuntimeSpec] = {
     "cpu": RuntimeSpec(
         label="CPU",
@@ -79,7 +81,8 @@ RUNTIME_SPECS: Dict[str, RuntimeSpec] = {
     ),
 }
 
-
+# Hướng dẫn cài đặt Docker nếu chưa có
+# Người dùng cần cài đặt Docker để chạy các container TEI
 DOCKER_INSTALL_HELP = textwrap.dedent(
     """\
     Docker is required to run Text Embeddings Inference with this helper.
@@ -99,7 +102,8 @@ DOCKER_INSTALL_HELP = textwrap.dedent(
     Install Docker, restart your terminal, and then re-run this command.
     """
 )
-
+# Hướng dẫn thiết lập môi trường GPU trên Linux
+# Người dùng cần cài đặt NVIDIA Container Toolkit để sử dụng GPU trong container
 LINUX_GPU_HELP = textwrap.dedent(
     """\
     GPU runtimes on Linux require the NVIDIA Container Toolkit:
@@ -114,7 +118,9 @@ LINUX_GPU_HELP = textwrap.dedent(
 class LaunchError(RuntimeError):
     """Raised when the launch configuration is invalid."""
 
-
+# hàm để tải cấu hình mô hình từ file JSON
+# trả về từ điển chứa cấu hình của các mô hình
+# ném lỗi LaunchError nếu file không tồn tại hoặc không hợp lệ
 def load_models_config() -> Dict[str, Dict[str, object]]:
     if not CONFIG_PATH.exists():
         raise LaunchError(f"Config file not found: {CONFIG_PATH}")
@@ -130,14 +136,17 @@ def load_models_config() -> Dict[str, Dict[str, object]]:
 
     return data
 
-
+# hàm để xác định đường dẫn mô hình từ cấu hình
+#nếu đường dẫn không phải là tuyệt đối thì chuyển thành đường dẫn tuyệt đối
 def resolve_model_path(raw_path: str) -> Path:
     path = Path(raw_path)
     if not path.is_absolute():
         path = (CONFIG_PATH.parent / path).resolve()
     return path
 
-
+# hàm để đảm bảo Docker đã được cài đặt và có thể sử dụng
+# trả về đường dẫn đến lệnh Docker
+# ném lỗi LaunchError nếu Docker không khả dụng hoặc có lỗi
 def ensure_docker_available() -> str:
     docker_cmd = shutil.which("docker")
     if not docker_cmd:
@@ -159,7 +168,7 @@ def ensure_docker_available() -> str:
 
     return docker_cmd
 
-
+# hàm để đảm bảo môi trường runtime GPU đã sẵn sàng trên Linux
 def ensure_gpu_runtime_ready(docker_cmd: str) -> None:
     if platform.system().lower() != "linux":
         return
@@ -189,7 +198,9 @@ def ensure_gpu_runtime_ready(docker_cmd: str) -> None:
             f"{LINUX_GPU_HELP}"
         )
 
-
+# hàm để tạo tên container Docker hợp lệ từ tên mô hình và chế độ runtime
+# thay thế các ký tự không hợp lệ bằng dấu gạch ngang
+# giới hạn độ dài tên container tối đa là 63 ký tự
 def sanitize_container_name(model_name: str, runtime_key: str) -> str:
     base = f"{CONTAINER_NAME_PREFIX}{model_name}-{runtime_key}"
     slug_chars: List[str] = []
@@ -203,7 +214,8 @@ def sanitize_container_name(model_name: str, runtime_key: str) -> str:
         slug = slug.replace("--", "-")
     return slug[:63] or "tei-runtime"
 
-
+# hàm để liệt kê các container TEI đang chạy
+# trả về danh sách tên container
 def list_active_containers(docker_cmd: str) -> List[str]:
     result = subprocess.run(
         [
@@ -224,6 +236,7 @@ def list_active_containers(docker_cmd: str) -> List[str]:
 
     return [line.strip() for line in result.stdout.splitlines() if line.strip()]
 
+# hàm để dừng một container TEI cụ thể theo tên
 
 def stop_container(docker_cmd: str, container_name: str) -> None:
     result = subprocess.run(
@@ -236,7 +249,8 @@ def stop_container(docker_cmd: str, container_name: str) -> None:
         details = result.stderr.strip() or result.stdout.strip()
         raise LaunchError(f"Failed to stop container `{container_name}`: {details}")
 
-
+# hàm để dừng tất cả các container TEI đang chạy
+# trả về danh sách tên các container đã dừng
 def stop_all_containers(docker_cmd: str) -> List[str]:
     running = list_active_containers(docker_cmd)
     stopped: List[str] = []
@@ -245,7 +259,9 @@ def stop_all_containers(docker_cmd: str) -> List[str]:
         stopped.append(name)
     return stopped
 
-
+# hàm để xây dựng lệnh Docker run với các tham số đã cho
+# trả về danh sách các thành phần lệnh
+# sử dụng các tham số cấu hình mô hình và runtime để tạo lệnh phù hợp
 def build_docker_command(
     docker_cmd: str,
     runtime_spec: RuntimeSpec,
@@ -324,7 +340,9 @@ def build_docker_command(
     command.extend(router_command)
     return command
 
-
+# hàm để tải một file từ URL dựa trên đường dẫn tương đối
+# lưu file vào thư mục đích đã cho
+# xử lý lỗi HTTP và lỗi kết nối
 def list_models(models_cfg: Dict[str, Dict[str, object]]) -> None:
     print("Available TEI models:\n")
     for name, cfg in models_cfg.items():
@@ -344,7 +362,9 @@ def list_models(models_cfg: Dict[str, Dict[str, object]]) -> None:
         "  python backend/tools/launch_tei.py --model sentence-transformers-all-MiniLM-L6-v2 --runtime cpu\n"
     )
 
-
+# hàm để phân tích các đối số dòng lệnh
+# trả về Namespace chứa các đối số đã phân tích
+# sử dụng các tham số cấu hình mô hình và runtime để tạo lệnh phù hợp
 def parse_arguments(argv: Optional[List[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Launch a Hugging Face TEI container for local embedding models."
@@ -420,7 +440,9 @@ def parse_arguments(argv: Optional[List[str]] = None) -> argparse.Namespace:
     )
     return parser.parse_args(argv)
 
-
+# hàm chính để xử lý các đối số dòng lệnh và khởi chạy container TEI
+# sử dụng các hàm phụ để xây dựng và chạy lệnh Docker
+# báo cáo tiến trình và kết quả cuối cùng
 def main(argv: Optional[List[str]] = None) -> int:
     args = parse_arguments(argv)
     models_cfg: Optional[Dict[str, Dict[str, object]]] = None

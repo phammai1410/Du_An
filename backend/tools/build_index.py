@@ -43,13 +43,13 @@ def _configure_utf8_io() -> None:
 
 _configure_utf8_io()
 
-
+#chuẩn hóa text trước khi đưa vào embedding (xóa ký tự thừa, khoảng trắng thừa, chuẩn hóa unicode)
 def _clean_text(value: Optional[str]) -> str:
     text = unicodedata.normalize("NFC", (value or "").replace("\xa0", " "))
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     return "\n".join(lines)
 
-
+# chuẩn hóa text thành chữ thường và chỉ giữ ký tự ASCII
 def _normalize_ascii_lower(value: Optional[str]) -> str:
     """Return a lowercase ASCII-only version of the provided text."""
     if not value:
@@ -58,7 +58,7 @@ def _normalize_ascii_lower(value: Optional[str]) -> str:
     ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
     return " ".join(ascii_text.lower().split())
 
-
+#chia nhỏ văn bản thành các đoạn nhỏ (chunk) với độ dài tối đa và chồng lặp
 def _chunk_legacy(text: str, max_len: int, overlap: int) -> Iterator[str]:
     text = _clean_text(text)
     if not text:
@@ -76,14 +76,14 @@ def _chunk_legacy(text: str, max_len: int, overlap: int) -> Iterator[str]:
             break
         start = end - overlap
 
-
+# chuẩn hóa đường dẫn tương đối so với thư mục hiện tại
 def _normalize_path(path: Path) -> str:
     try:
         return str(path.relative_to(Path.cwd()))
     except ValueError:
         return str(path)
 
-
+# tạo ngữ cảnh cho đoạn văn bản dựa trên metadata và tiêu đề -> giúp cải thiện chất lượng embedding
 def _compose_context(doc_meta: Dict[str, str], heading: str, breadcrumbs: str) -> str:
     parts: List[str] = []
     course_name = doc_meta.get("course_name")
@@ -100,7 +100,7 @@ def _compose_context(doc_meta: Dict[str, str], heading: str, breadcrumbs: str) -
         parts.append(breadcrumbs)
     return " | ".join(parts)
 
-
+# Các từ khóa ưu tiên trong tiêu đề hoặc nội dung để xác định các đoạn quan trọng
 PRIORITY_SECTION_KEYWORDS: Tuple[str, ...] = (
     "giang vien",
     "giao vien",
@@ -111,7 +111,8 @@ PRIORITY_SECTION_KEYWORDS: Tuple[str, ...] = (
     "faculty",
 )
 
-
+# chuẩn bị đoạn văn bản để đưa vào embedding, bao gồm việc làm sạch, tạo ngữ cảnh và xác định độ dài
+#quan trọng nhất trong file
 def _prepare_chunk(
     doc_meta: Dict[str, str],
     chunk_data: Dict,
@@ -182,7 +183,7 @@ def _prepare_chunk(
             meta["chunk_subindex"] = position["split_index"]
     return embed_text, meta
 
-
+#chia nhỏ đoạn văn bản thành các đoạn nhỏ hơn nếu vượt quá độ dài tối đa cho phép của mô hình embedding
 def _split_chunk_data(
     doc_meta: Dict[str, str],
     chunk_data: Dict,
@@ -255,7 +256,7 @@ def _split_chunk_data(
         split_chunk["source_chunk_id"] = source_chunk_id
         yield split_chunk
 
-
+#Đọc từng file JSON đã convert từ DOCX → yield từng chunk 
 def _iter_document_chunks(
     json_path: Path,
     min_words: int,
@@ -321,12 +322,12 @@ def _iter_document_chunks(
                 if prepared:
                     yield prepared
 
-
+#chia nhỏ danh sách thành các lô (batch) có kích thước nhất định
 def _batched(items: List, size: int) -> Iterable[List]:
     for i in range(0, len(items), size):
         yield items[i : i + size]
 
-
+#gửi yêu cầu tới dịch vụ embedding để lấy vector embeddings cho một lô văn bản
 def _embed_batch(
     base_url: str,
     model: str,
@@ -345,13 +346,15 @@ def _embed_batch(
         raise RuntimeError(f"Bad embeddings response: {payload}")
     return [row["embedding"] for row in data]
 
-
+#chuẩn hóa vector về độ dài 1 để tính toán tương đồng cosine
 def _l2_normalize(vectors: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(vectors, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     return vectors / norms
 
-
+#chính hàm để xây dựng chỉ mục vector từ các file JSON đã xử lý
+# thu thập các chunk, lấy embeddings, lưu chỉ mục và metadata
+# hỗ trợ hai backend: faiss và brute-force
 def main() -> int:
     default_model = os.environ.get("EMBEDDING_MODEL", "granite-embedding-107m-multilingual")
     default_base_url = os.environ.get("LOCALAI_BASE_URL", "http://localhost:8080/v1")
@@ -425,6 +428,7 @@ def main() -> int:
     kept_indices: List[int] = []
     failed_indices: List[int] = []
 
+# xử lý từng lô văn bản để lấy embeddings, với cơ chế retry và xử lý lỗi
     def process_batch(batch_indices: List[int]) -> None:
         if not batch_indices:
             return

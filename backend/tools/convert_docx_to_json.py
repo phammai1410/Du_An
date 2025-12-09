@@ -19,6 +19,7 @@ try:
 except ImportError:  # pragma: no cover
     load_dotenv = None  # type: ignore[assignment]
 
+
 ROOT_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT_DIR / "data" / "raw"
 OUTPUT_DIR = ROOT_DIR / "data" / "processed-json"
@@ -29,11 +30,12 @@ LANGUAGES = ("en", "vi")
 if load_dotenv:
     load_dotenv(ROOT_DIR / ".env")
 
+#các tham số chunking với giá trị mặc định
 DEFAULT_CHUNK_WORD_TARGET = 180
 DEFAULT_CHUNK_WORD_MAX = 240
 DEFAULT_CHUNK_MIN_WORDS = 60
 
-
+# đảm bảo đầu ra UTF-8 để tránh lỗi codepage trên Windows
 def _ensure_utf8_stdio() -> None:
     """Force UTF-8 output to avoid Windows codepage errors."""
     for stream_name in ("stdout", "stderr"):
@@ -47,7 +49,8 @@ def _ensure_utf8_stdio() -> None:
 
 _ensure_utf8_stdio()
 
-
+# đọc biến môi trường và chuyển đổi sang int với giá trị mặc định
+# điều chỉnh các tham số chunking nếu cần thiết
 def _int_env(name: str, default: int) -> int:
     """Return an int from environment variables with fallback."""
     raw_value = os.getenv(name)
@@ -63,11 +66,11 @@ def _int_env(name: str, default: int) -> int:
         return default
     return value
 
-
+# đọc và điều chỉnh các tham số chunking từ biến môi trường
 CHUNK_WORD_TARGET = _int_env("CHUNK_WORD_TARGET", DEFAULT_CHUNK_WORD_TARGET)
 CHUNK_WORD_MAX = _int_env("CHUNK_WORD_MAX", DEFAULT_CHUNK_WORD_MAX)
 CHUNK_MIN_WORDS = _int_env("CHUNK_MIN_WORDS", DEFAULT_CHUNK_MIN_WORDS)
-
+# điều chỉnh các tham số nếu không hợp lệ
 if CHUNK_WORD_TARGET > CHUNK_WORD_MAX:
     print(
         "[WARN] CHUNK_WORD_TARGET greater than CHUNK_WORD_MAX; "
@@ -82,7 +85,8 @@ if CHUNK_MIN_WORDS > CHUNK_WORD_TARGET:
     )
     CHUNK_MIN_WORDS = CHUNK_WORD_TARGET
 
-
+# hàm tính toán hàm băm md5 cho một file
+# để phát hiện thay đổi nội dung file docx (làm việc với manifest.json)
 def compute_md5(file_path: Path) -> str:
     """Return an md5 hash for the given file path."""
     hasher = hashlib.md5()
@@ -91,7 +95,8 @@ def compute_md5(file_path: Path) -> str:
             hasher.update(chunk)
     return hasher.hexdigest()
 
-
+# Biến chuỗi thành dạng "an toàn" để làm ID hoặc tên file
+# loại bỏ ký tự đặc biệt, chuyển về chữ thường, thay khoảng trắng bằng dấu gạch ngang
 def slugify(value: str) -> str:
     """Generate a lowercase slug made of ASCII characters only."""
     normalized = (
@@ -102,7 +107,8 @@ def slugify(value: str) -> str:
     cleaned = re.sub(r"[^a-zA-Z0-9]+", "-", normalized).strip("-")
     return cleaned.lower() or "doc"
 
-
+# hàm xác định cấp độ heading từ tên style của đoạn văn bản
+# giúp chunk dựa vào cấu trúc heading trong tài liệu
 def heading_level(style_name: Optional[str]) -> Optional[int]:
     """Infer heading level from a paragraph style name."""
     if not style_name:
@@ -115,13 +121,15 @@ def heading_level(style_name: Optional[str]) -> Optional[int]:
             return None
     return None
 
-
+# hàm kiểm tra đoạn văn bản có phải là phần của danh sách không
+# để giữ nguyên ngữ nghĩa khi chuyển đổi sang text
 def is_list_paragraph(paragraph: Paragraph) -> bool:
     """Detect if the paragraph is part of a numbered or bulleted list."""
     props = paragraph._p.pPr  # type: ignore[attr-defined]
     return props is not None and props.numPr is not None
 
-
+# hàm chuyển đoạn văn bản thành text đã làm sạch
+# giữ nguyên ngữ nghĩa danh sách nếu có
 def paragraph_to_text(paragraph: Paragraph) -> str:
     """Convert a paragraph into cleaned text while keeping list semantics."""
     text = paragraph.text.strip()
@@ -131,7 +139,8 @@ def paragraph_to_text(paragraph: Paragraph) -> str:
         return f"- {text}"
     return text
 
-
+# hàm chuyển bảng thành dạng text phẳng
+# giữ cấu trúc hàng cột bằng dấu phân cách
 def table_to_text(table: Table) -> str:
     """Flatten a table into a plain-text representation."""
     rows: List[str] = []
@@ -148,7 +157,8 @@ def table_to_text(table: Table) -> str:
             rows.append(" | ".join(cell if cell else "-" for cell in cells))
     return "\n".join(rows).strip()
 
-
+# hàm lặp qua các khối (đoạn văn và bảng) trong tài liệu theo thứ tự
+# để xử lý tuần tự khi chunking
 def iter_blocks(document: Document) -> Iterable[Tuple[str, object]]:
     """Yield paragraphs and tables in document order."""
     parent_element = document._element  # type: ignore[attr-defined]
@@ -158,7 +168,8 @@ def iter_blocks(document: Document) -> Iterable[Tuple[str, object]]:
         elif isinstance(child, CT_Tbl):
             yield "table", Table(child, document)
 
-
+# hàm phân tích tên file để lấy thông tin khóa học
+# tên khóa học, biến thể và mã khóa học
 def parse_filename(stem: str) -> Tuple[str, str, str]:
     """Split a document stem into course name, variant and code."""
     parts = [part.strip() for part in stem.split("_") if part.strip()]
@@ -171,7 +182,8 @@ def parse_filename(stem: str) -> Tuple[str, str, str]:
     course_variant = "_".join(parts[1:-1]) if len(parts) > 2 else ""
     return course_name, course_variant, course_code
 
-
+# hàm chính để trích xuất các chunk từ tài liệu
+# thu thập thống kê và thông tin outline
 def extract_chunks(document: Document, doc_id: str) -> Tuple[List[Dict[str, object]], Dict[str, int], List[Dict[str, object]], str]:
     """Chunk the document and collect statistics and outline information."""
     heading_stack: List[str] = []
@@ -189,13 +201,13 @@ def extract_chunks(document: Document, doc_id: str) -> Tuple[List[Dict[str, obje
     table_count = 0
     full_text_items: List[str] = []
     block_index = -1
-
+# hàm bắt đầu một chunk mới nếu cần thiết
     def start_chunk_if_needed(current_block: int) -> None:
         nonlocal chunk_heading_path, chunk_start_block
         if not chunk_buffer:
             chunk_heading_path = heading_stack.copy()
             chunk_start_block = current_block
-
+# hàm ghi đệm chunk hiện tại thành một chunk hoàn chỉnh
     def flush_chunk(current_block: int) -> None:
         nonlocal chunk_buffer, chunk_heading_path, chunk_start_block, chunk_words, chunk_index
         text = "\n".join(chunk_buffer).strip()
@@ -307,7 +319,8 @@ def extract_chunks(document: Document, doc_id: str) -> Tuple[List[Dict[str, obje
     full_text = "\n".join(full_text_items)
     return chunks, stats, outline, full_text
 
-
+# hàm tải manifest từ file JSON
+# nếu file không tồn tại hoặc lỗi định dạng thì trả về manifest rỗng
 def load_manifest() -> Dict[str, Dict[str, object]]:
     if MANIFEST_PATH.exists():
         try:
@@ -317,13 +330,17 @@ def load_manifest() -> Dict[str, Dict[str, object]]:
             return {"version": 1, "entries": {}}
     return {"version": 1, "entries": {}}
 
-
+# hàm lưu manifest vào file JSON
 def save_manifest(manifest: Dict[str, Dict[str, object]]) -> None:
     MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
     with MANIFEST_PATH.open("w", encoding="utf-8") as stream:
         json.dump(manifest, stream, ensure_ascii=False, indent=2)
 
-
+# hàm chính để chuyển đổi các file DOCX sang JSON
+# với chunking và thu thập metadata
+# cập nhật manifest để theo dõi trạng thái xử lý
+# xử lý từng ngôn ngữ và từng file trong thư mục raw
+# bỏ qua file không thay đổi dựa trên hàm băm md5
 def main() -> None:
     print("=" * 72)
     print("DOCX -> JSON RAG converter")

@@ -20,20 +20,25 @@ except ImportError:  # pragma: no cover - fallback for very old interpreters
 TOOLS_DIR = Path(__file__).resolve().parent
 BACKEND_ROOT = TOOLS_DIR.parent
 
-
+# hàm để xây dựng lệnh Python để chạy một script trong thư mục tools
+# thêm các đối số bổ sung nếu có
 def build_python_cmd(script_name: str, extra_args: Sequence[str] | None = None) -> List[str]:
     command = [sys.executable, str(TOOLS_DIR / script_name)]
     if extra_args:
         command.extend(extra_args)
     return command
 
-
+# hàm để chạy một bước trong pipeline với nhãn và lệnh đã cho
+# in ra lệnh trước khi thực thi
 def run_step(label: str, command: Sequence[str]) -> None:
     print(f"\n=== {label} ===")
     print(shlex_join(str(part) for part in command))
     subprocess.run(command, cwd=str(BACKEND_ROOT), check=True)
 
-
+# hàm để phân tích các đối số dòng lệnh
+# trả về Namespace chứa các đối số đã phân tích
+# sử dụng biến môi trường làm giá trị mặc định nếu có
+# trả về giá trị mặc định khác nếu không có biến môi trường
 def parse_args() -> argparse.Namespace:
     env_model = os.environ.get("EMBEDDING_MODEL", "")
     env_base_url = os.environ.get("LOCALAI_BASE_URL", "http://localhost:8080/v1")
@@ -91,7 +96,10 @@ def parse_args() -> argparse.Namespace:
     )
     return parser.parse_args()
 
-
+# hàm chính để chạy toàn bộ pipeline DOCX → JSON → vector index
+# sử dụng các hàm phụ để xây dựng và chạy từng bước
+# báo cáo tiến trình và kết quả cuối cùng
+# trả về mã thoát 0 nếu thành công
 def main() -> int:
     args = parse_args()
 

@@ -7,7 +7,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 import shutil
 
-
+# URL cơ sở để tải các tài sản mô hình từ Hugging Face
 BASE_URL = "https://huggingface.co/intfloat/e5-small-v2/resolve/main"
 
 # Files required to run intfloat/e5-small-v2 with the TEI backend
@@ -23,7 +23,7 @@ REQUIRED_FILES = (
     "vocab.txt",
 )
 
-# Extra assets are nice-to-have but not critical for inference.
+# mở rộng các file tùy chọn cho các định dạng khác nhau như ONNX và OpenVINO
 OPTIONAL_FILES = (
     "model.onnx",
     "onnx/model_O4.onnx",
@@ -37,7 +37,8 @@ OPTIONAL_FILES = (
     "README.md",
 )
 
-
+# hàm để xác định thư mục đích lưu trữ tài sản
+# nếu không chỉ định thì sử dụng thư mục mặc định trong backend/local-llm/embedding
 def resolve_target_dir(custom_target: str | None = None) -> Path:
     """
     Resolve the directory where the assets should be stored.
@@ -56,7 +57,8 @@ def resolve_target_dir(custom_target: str | None = None) -> Path:
     target_path.mkdir(parents=True, exist_ok=True)
     return target_path
 
-
+# hàm để tải một file từ URL và lưu vào thư mục đích
+# xử lý lỗi HTTP và lỗi kết nối
 def download_file(relative_path: str, destination_dir: Path) -> None:
     destination_path = destination_dir / relative_path
     destination_path.parent.mkdir(parents=True, exist_ok=True)
@@ -72,7 +74,9 @@ def download_file(relative_path: str, destination_dir: Path) -> None:
     except URLError as exc:
         raise RuntimeError(f"Failed to reach server for {relative_path}: {exc}") from exc
 
-
+# hàm chính để xử lý đối số dòng lệnh và tải các file cần thiết
+# sử dụng các hàm phụ để kiểm tra và tải từng file
+# báo cáo tiến trình và kết quả cuối cùng
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Download required intfloat/e5-small-v2 files for TEI backend."
@@ -88,7 +92,8 @@ def main() -> int:
 
     target_dir = resolve_target_dir(args.target)
     print(f"Downloading files into {target_dir}")
-
+# hàm phụ để đảm bảo tải các file trong danh sách
+# bỏ qua các file đã tồn tại
     def _download_many(file_list: tuple[str, ...], is_optional: bool = False) -> None:
         for relative in file_list:
             destination_path = target_dir / relative
@@ -110,7 +115,7 @@ def main() -> int:
     print("Download complete.")
     return 0
 
-
+# chạy hàm chính nếu được gọi trực tiếp
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
