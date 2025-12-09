@@ -29,6 +29,7 @@
 import importlib.util
 import json
 import os
+import shutil
 import subprocess
 import sys
 import platform
@@ -69,6 +70,7 @@ SOFT_PID_REGISTRY: dict[str, int] = {}
 # chỉ cần tìm “[S1]” là thấy toàn bộ bối cảnh cấu hình.
 
 
+# Hàm chuyển chuỗi/giá trị ENV thành số nguyên, lỗi thì trả về mặc định.
 def _safe_int(value: Optional[str], default: int) -> int:
     try:
         return int(value) if value is not None else default
@@ -76,6 +78,7 @@ def _safe_int(value: Optional[str], default: int) -> int:
         return default
 
 
+# Hàm suy port từ URL (hoặc trả về None nếu URL không hợp lệ).
 def _port_from_url(url: str) -> Optional[int]:
     if not url:
         return None
@@ -180,6 +183,7 @@ ADMIN_VIEW = "admin"
 ADMIN_PASSWORD_ENV_VAR = "ADMIN_PASSWORD"
 
 
+# Chuẩn hoá chuỗi thành slug an toàn để dùng làm tên container/tệp.
 def _slugify_identifier(value: str) -> str:
     chars: List[str] = []
     for char in value:
@@ -194,6 +198,7 @@ def _slugify_identifier(value: str) -> str:
     return slug or "default"
 
 
+# Chuyển khóa model ở UI thành key tương ứng trong cấu hình TEI.
 def resolve_tei_config_key(model_key: str) -> str:
     """Map UI model keys to the config key expected by launch_tei.py/models.json."""
     config = TEI_MODELS.get(model_key, {})
@@ -204,6 +209,7 @@ def resolve_tei_config_key(model_key: str) -> str:
     return model_key.replace("/", "-")
 
 
+# Làm ngược lại: map config_key từ models.json về key hiển thị ở UI.
 def resolve_tei_ui_key(config_key: str) -> Optional[str]:
     if not config_key:
         return None
@@ -219,6 +225,7 @@ def resolve_tei_ui_key(config_key: str) -> Optional[str]:
     return None
 
 
+# Ghép nhãn backend + tên model để hiển thị trong dropdown.
 def format_embedding_display(backend_key: Optional[str], model_key: Optional[str]) -> str:
     if not model_key:
         return "Unknown model"
@@ -263,6 +270,7 @@ sudo docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi
 """
 
 
+# Đọc models.json dưới thư mục Local TEI để lấy bảng config runtime.
 def load_tei_models_config() -> Dict[str, Dict[str, Any]]:
     try:
         with MODELS_CONFIG_PATH.open("r", encoding="utf-8") as fh:
@@ -276,6 +284,7 @@ def load_tei_models_config() -> Dict[str, Dict[str, Any]]:
     return {}
 
 
+# Tra cứu port được gán cho model TEI cụ thể từ file config.
 def get_tei_model_port(model_key: str) -> int:
     config = load_tei_models_config()
     config_key = resolve_tei_config_key(model_key)
@@ -286,12 +295,14 @@ def get_tei_model_port(model_key: str) -> int:
         return 8800
 
 
+# Tạo tiền tố thống nhất cho tên container (model + runtime).
 def _tei_container_prefix(model_key: str, runtime_key: str) -> str:
     model_slug = _slugify_identifier(resolve_tei_config_key(model_key))
     runtime_slug = _slugify_identifier(runtime_key)
     return f"{TEI_CONTAINER_PREFIX}{model_slug}-{runtime_slug}"
 
 
+# Đảm bảo tên container TEI không vượt quá 63 ký tự và không ký tự lạ.
 def sanitize_tei_container_name(model_key: str, runtime_key: str) -> str:
     base = _tei_container_prefix(model_key, runtime_key)
     sanitized = base.strip("-")
@@ -308,6 +319,7 @@ def sanitize_tei_container_name(model_key: str, runtime_key: str) -> str:
 # cứ tìm “[S2]” để thấy toàn bộ logic start/stop, health-check và cấp phát port.
 
 
+# Liệt kê các container TEI đang chạy kèm thông điệp lỗi (nếu có).
 def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
     try:
         result = subprocess.run(
@@ -338,6 +350,7 @@ def get_running_tei_containers() -> Tuple[List[str], Optional[str]]:
     return names, None
 
 
+# Đánh dấu runtime TEI mong đợi có chạy không và các container khác đang tồn tại.
 def get_tei_runtime_status(model_key: str, runtime_key: str) -> Dict[str, Any]:
     expected_prefix = _tei_container_prefix(model_key, runtime_key)
     names, error = get_running_tei_containers()
@@ -356,6 +369,7 @@ def get_tei_runtime_status(model_key: str, runtime_key: str) -> Dict[str, Any]:
     }
 
 
+# Chuyển tên container dạng slug về nhãn thân thiện hiển thị trên UI.
 def format_tei_container_label(container_name: str) -> str:
     if not container_name.startswith(TEI_CONTAINER_PREFIX):
         return container_name
@@ -384,6 +398,7 @@ def format_tei_container_label(container_name: str) -> str:
     return f"{model_slug} - {runtime_label}"
 
 
+# Kiểm tra nhanh port có thể bind được hay đang bị chiếm.
 def _is_port_available(port: int, host: str = "0.0.0.0") -> bool:
     """Return True if the given host/port combination can be bound."""
     if port <= 0:
@@ -398,6 +413,7 @@ def _is_port_available(port: int, host: str = "0.0.0.0") -> bool:
     return True
 
 
+# Dò port khả dụng cho LocalAI, ưu tiên port cố định rồi fallback.
 def _reserve_localai_port() -> Tuple[Optional[int], Optional[int]]:
     """Pick an available host port for the LocalAI container.
 
@@ -420,6 +436,7 @@ def _reserve_localai_port() -> Tuple[Optional[int], Optional[int]]:
     return None, preferred
 
 
+# Cập nhật BASE URL LocalAI vào env + session state dựa trên port cấp phát.
 def set_localai_base_url(port: int) -> str:
     base_url = f"http://localhost:{port}/v1"
     os.environ["LOCALAI_BASE_URL"] = base_url
@@ -427,6 +444,7 @@ def set_localai_base_url(port: int) -> str:
     return base_url
 
 
+# Kiểm tra container LocalAI có đang chạy bằng docker ps.
 def localai_is_running() -> bool:
     try:
         result = subprocess.run(
@@ -453,6 +471,7 @@ def localai_is_running() -> bool:
     return any(line.strip() for line in result.stdout.splitlines())
 
 
+# Gọi docker-compose để khởi động LocalAI và trả status + thông báo.
 def start_localai_service() -> tuple[bool, str]:
     if localai_is_running():
         return True, "LocalAI service already running."
@@ -509,6 +528,7 @@ def start_localai_service() -> tuple[bool, str]:
     return True, message
 
 
+# Dừng dịch vụ LocalAI đang chạy bằng docker stop/remove.
 def stop_localai_service() -> tuple[bool, str]:
     if not localai_is_running():
         return True, "LocalAI service is not running."
@@ -531,6 +551,7 @@ def stop_localai_service() -> tuple[bool, str]:
     return True, (result.stdout.strip() or "LocalAI service stopped.")
 
 
+# Wrapper chạy script launch_tei.py với tham số tùy chỉnh từ UI.
 def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
     command = [sys.executable, str(TOOLS_DIR / "launch_tei.py"), *args]
     return subprocess.run(
@@ -543,6 +564,7 @@ def run_launch_tei(args: List[str]) -> subprocess.CompletedProcess[str]:
     )
 
 
+# Chạy một script/tool thuộc backend/tools với command tùy chọn.
 def run_backend_tool(
     script_name: str,
     *args: str,
@@ -563,6 +585,7 @@ def run_backend_tool(
     )
 
 
+# Gom stdout/stderr của tiến trình thành chuỗi gọn để hiển thị.
 def summarize_process(result: subprocess.CompletedProcess[str]) -> str:
     stdout = (result.stdout or "").strip()
     stderr = (result.stderr or "").strip()
@@ -571,6 +594,7 @@ def summarize_process(result: subprocess.CompletedProcess[str]) -> str:
     return stdout or stderr or "No output."
 
 
+# Lưu lại URL endpoint TEI theo port runtime để client embeddings dùng.
 def set_tei_base_url(port: int) -> str:
     base_url = f"http://localhost:{port}"
     os.environ["TEI_BASE_URL"] = base_url
@@ -578,6 +602,7 @@ def set_tei_base_url(port: int) -> str:
     return base_url
 
 
+# Khởi động container TEI cho model/runtime tương ứng và trả thông tin lỗi.
 def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool, str]:
     config_key = resolve_tei_config_key(model_key)
     args = [
@@ -600,6 +625,7 @@ def start_tei_runtime(model_key: str, runtime_key: str, port: int) -> Tuple[bool
     return success, message
 
 
+# Dừng container TEI cụ thể nếu tồn tại.
 def stop_tei_runtime(model_key: str, runtime_key: str) -> Tuple[bool, str]:
     config_key = resolve_tei_config_key(model_key)
     args = [
@@ -620,6 +646,7 @@ def stop_tei_runtime(model_key: str, runtime_key: str) -> Tuple[bool, str]:
     return success, message
 
 
+# Dừng toàn bộ container TEI còn chạy để giải phóng tài nguyên.
 def stop_all_tei_runtimes() -> Tuple[bool, str]:
     result = run_launch_tei(["--stop-all"])
     success = result.returncode == 0
@@ -630,6 +657,7 @@ def stop_all_tei_runtimes() -> Tuple[bool, str]:
     return success, message
 
 
+# Kiểm tra trạng thái runtime TEI đã sẵn sàng (đã download + port OK).
 def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
     status = get_tei_runtime_status(model_key, runtime_key)
     return bool(status.get("running"))
@@ -643,6 +671,7 @@ def tei_backend_is_active(model_key: str, runtime_key: str) -> bool:
 # sẽ thấy nơi chuẩn hoá model -> thư mục, đọc metadata index và client TEI.
 
 
+# Chuẩn hoá tên model thành thư mục an toàn để lưu index.
 def safe_model_dir(model_name: str) -> str:
     slug = model_name.strip().lower().replace("/", "-")
     cleaned = []
@@ -657,14 +686,17 @@ def safe_model_dir(model_name: str) -> str:
     return safe or "default"
 
 
+# Trả về đường dẫn thư mục index tương ứng với model.
 def resolve_index_dir(model_name: str) -> Path:
     return INDEX_ROOT / safe_model_dir(model_name)
 
 
+# Lấy đường dẫn file embeddings.json trong thư mục index.
 def get_embed_meta_path(index_dir: Path) -> Path:
     return index_dir / "embeddings.json"
 
 
+# Tạo đầy đủ cây thư mục dữ liệu/uploads/index và local TEI nếu thiếu.
 def ensure_dirs():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     INDEX_ROOT.mkdir(parents=True, exist_ok=True)
@@ -676,14 +708,17 @@ def ensure_dirs():
         local_dir.mkdir(parents=True, exist_ok=True)
 
 
+# Liệt kê toàn bộ file DOCX hiện có trong data/raw.
 def list_docx_files() -> List[Path]:
     return sorted(DATA_DIR.rglob("*.docx"))
 
 
+# Kiểm tra index tương ứng đã tồn tại bằng cách nhìn backend artifacts.
 def index_exists(index_dir: Path) -> bool:
     return backend_index_exists(index_dir)
 
 
+# Đọc metadata index để biết backend/model/chunk mode hiện tại.
 def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
     try:
         manifest_path = index_dir / "index_manifest.json"
@@ -727,12 +762,14 @@ def load_embed_meta(index_dir: Path) -> Optional[Dict[str, Optional[str]]]:
 class TEIEmbeddings:
     """Client for text-embeddings-inference endpoint."""
 
+    # Khởi tạo client với base_url/model/api_key và session HTTP dùng lại.
     def __init__(self, base_url: str, model: str, api_key: Optional[str] = None):
         self.base_url = base_url.rstrip("/")
         self.model = model
         self.api_key = api_key
         self.session = requests.Session()
 
+    # Gửi request lên TEI embeddings endpoint và trả về vector cho danh sách text.
     def _request(self, texts: List[str]) -> List[List[float]]:
         if not texts:
             return []
@@ -752,14 +789,17 @@ class TEIEmbeddings:
         data = response.json().get("data", [])
         return [item["embedding"] for item in data]
 
+    # API công khai: embed hàng loạt văn bản (document chunks).
     def embed_documents(self, texts: List[str]) -> List[List[float]]:
         return self._request(texts)
 
+    # API công khai: embed một câu truy vấn, trả về vector duy nhất.
     def embed_query(self, text: str) -> List[float]:
         result = self._request([text])
         return result[0] if result else []
 
 
+# Kiểm tra docker CLI khả dụng và trả về phiên bản/chi tiết lỗi.
 def check_docker_cli() -> Tuple[bool, str]:
     try:
         result = subprocess.run(
@@ -782,6 +822,7 @@ def check_docker_cli() -> Tuple[bool, str]:
     return True, result.stdout.strip()
 
 
+# Xác định docker có hỗ trợ runtime NVIDIA (GPU) hay không.
 def docker_supports_nvidia() -> Tuple[bool, Optional[str]]:
     try:
         result = subprocess.run(
@@ -807,6 +848,7 @@ def docker_supports_nvidia() -> Tuple[bool, Optional[str]]:
     return False, "NVIDIA runtime not detected."
 
 
+# Tạo client embeddings tương ứng backend (hiện hỗ trợ TEI).
 def make_embeddings_client(backend: str, model_name: str):
     base_url = st.session_state.get("tei_base_url") or os.getenv("TEI_BASE_URL", "http://localhost:8080")
     api_key = os.getenv("TEI_API_KEY")
@@ -815,6 +857,7 @@ def make_embeddings_client(backend: str, model_name: str):
     return TEIEmbeddings(base_url=base_url, model=model_name, api_key=api_key)
 
 
+# Lấy danh sách file bắt buộc/tùy chọn mà một model TEI cần có.
 def _resolve_model_targets(model_key: str) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
     """Return (required, optional) file tuples for the given model."""
     config = TEI_MODELS.get(model_key)
@@ -835,6 +878,7 @@ def _resolve_model_targets(model_key: str) -> Tuple[Tuple[str, ...], Tuple[str, 
     return required, optional
 
 
+# Kiểm tra các file bắt buộc của model TEI đã được tải xuống hay chưa.
 def tei_model_is_downloaded(model_key: str) -> bool:
     config = TEI_MODELS.get(model_key)
     if not config:
@@ -851,6 +895,7 @@ def tei_model_is_downloaded(model_key: str) -> bool:
     return True
 
 
+# Chạy script download tương ứng để tải model TEI về máy local.
 def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
     config = TEI_MODELS.get(model_key)
     if not config:
@@ -879,6 +924,7 @@ def run_tei_download(model_key: str) -> subprocess.CompletedProcess[str]:
 # hay DOCX -> index chỉ cần search “[S4]”.
 
 
+# Phát hiện các thư mục ngôn ngữ có chứa DOCX nguồn để ingest.
 def detect_docx_languages() -> List[str]:
     languages: List[str] = []
     if not DATA_DIR.exists():
@@ -893,6 +939,25 @@ def detect_docx_languages() -> List[str]:
     return languages
 
 
+# Di chuyển DOCX upload (uploads/docx) sang thư mục ngôn ngữ đích.
+def prepare_uploaded_docx(target_langs: List[str]) -> None:
+    uploads_dir = UPLOADS_ROOT / "docx"
+    if not uploads_dir.exists():
+        return
+    lang = target_langs[0] if target_langs else "vi"
+    dest_dir = DATA_DIR / lang
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    for docx_path in uploads_dir.glob("*.docx"):
+        dest_path = dest_dir / docx_path.name
+        if dest_path.exists():
+            continue  # đã có -> bỏ qua, tránh nhân bản
+        try:
+            shutil.move(docx_path, dest_path)  # di chuyển khỏi thư mục uploads
+        except Exception:
+            continue
+
+
+# Kiểm tra thư mục index có manifest và file FAISS/vectors tương ứng.
 def backend_index_exists(index_dir: Path) -> bool:
     manifest = index_dir / "index_manifest.json"
     if not manifest.exists():
@@ -909,6 +974,7 @@ PIPELINE_STEP_MESSAGES: Dict[int, str] = {
 }
 
 
+# Chạy pipeline ingest DOCX -> index bằng script backend tương ứng.
 def run_backend_pipeline(
     model_name: str,
     langs: List[str],
@@ -1007,12 +1073,14 @@ def run_backend_pipeline(
 # chunk trùng.
 
 
+# Chuẩn hoá vector về độ dài 1 để lấy cosine similarity chuẩn xác.
 def _l2_normalize(array: np.ndarray) -> np.ndarray:
     norms = np.linalg.norm(array, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
     return array / norms
 
 
+# Nhận diện lỗi mạng/timeout để đưa ra thông báo thân thiện.
 def _is_connection_issue(exc: Exception) -> bool:
     """Return True if the exception looks like a transient connection failure."""
     if isinstance(exc, (requests.RequestException, ConnectionError, TimeoutError)):
@@ -1021,6 +1089,7 @@ def _is_connection_issue(exc: Exception) -> bool:
     return any(token in message for token in ("connection", "timed out", "temporarily unavailable"))
 
 
+# Tạo khóa định danh duy nhất cho chunk dựa vào doc_id + vị trí.
 def _chunk_identity(meta: Dict[str, Any]) -> str:
     """Return a deterministic identifier for a chunk for deduplication."""
     if not isinstance(meta, dict):
@@ -1036,6 +1105,7 @@ def _chunk_identity(meta: Dict[str, Any]) -> str:
     return f"{doc_id}-{order}-{subindex}-{filename}"
 
 
+# Tokenize câu hỏi thành danh sách từ khoá (chỉ chữ+ số) để so sánh.
 def _tokenize_keywords(question: str) -> List[str]:
     normalized = _normalize_query(question)
     if not normalized:
@@ -1044,6 +1114,7 @@ def _tokenize_keywords(question: str) -> List[str]:
     return [token for token in tokens if len(token) >= 3]
 
 
+# Cho điểm chunk dựa trên số từ khóa trùng khớp metadata.
 def _score_chunk_keywords(tokens: List[str], meta: Dict[str, Any]) -> float:
     if not tokens:
         return 0.0
@@ -1063,6 +1134,7 @@ def _score_chunk_keywords(tokens: List[str], meta: Dict[str, Any]) -> float:
     return raw_score / penalty
 
 
+# Thực hiện tìm kiếm fallback bằng từ khóa khi vector search không có kết quả.
 def _keyword_search_chunks(
     question: str,
     limit: int,
@@ -1097,6 +1169,7 @@ def _keyword_search_chunks(
     return results
 
 
+# Hợp nhất danh sách chunk xếp hạng từ vector và lexical search.
 def _merge_ranked_chunks(
     primary: List[Dict[str, Any]],
     fallback: List[Dict[str, Any]],
@@ -1106,6 +1179,7 @@ def _merge_ranked_chunks(
     merged: List[Dict[str, Any]] = []
     seen: Set[str] = set()
 
+    # Hàm phụ thêm các item vào danh sách hợp nhất và tránh trùng.
     def _consume(items: List[Dict[str, Any]]) -> None:
         for item in items:
             meta = item.get("meta") if isinstance(item, dict) else {}
@@ -1123,6 +1197,7 @@ def _merge_ranked_chunks(
     return merged[:limit]
 
 
+# Loại bỏ chunk trùng lặp theo identity và giới hạn số lượng nếu cần.
 def _dedupe_chunks(chunks: List[Dict[str, Any]], max_items: Optional[int] = None) -> List[Dict[str, Any]]:
     """Remove duplicate chunks by id/text to avoid repeated answers."""
     deduped: List[Dict[str, Any]] = []
@@ -1149,6 +1224,7 @@ def _dedupe_chunks(chunks: List[Dict[str, Any]], max_items: Optional[int] = None
 # read/write cache, chuẩn hoá context và dựng chuỗi đầu vào LLM.
 
 
+# Đọc manifest/index backend (FAISS, meta JSON) để dùng cho truy hồi.
 def _load_backend_resources(index_dir: Path) -> Dict[str, Any]:
     manifest_path = index_dir / "index_manifest.json"
     meta_path = index_dir / "meta.jsonl"
@@ -1188,6 +1264,7 @@ def _load_backend_resources(index_dir: Path) -> Dict[str, Any]:
     }
 
 
+# Cache tài nguyên backend theo model để tránh đọc đĩa lặp lại.
 def ensure_backend_index_cache(model_name: str) -> Dict[str, Any]:
     key = safe_model_dir(model_name)
     cache: Dict[str, Dict[str, Any]] = st.session_state.setdefault("backend_index_cache", {})
@@ -1196,6 +1273,7 @@ def ensure_backend_index_cache(model_name: str) -> Dict[str, Any]:
     return cache[key]
 
 
+# Tìm metadata của doc_id từ cache đã load.
 def _get_doc_meta(doc_id: str) -> Optional[Dict[str, Any]]:
     if not doc_id:
         return None
@@ -1210,6 +1288,7 @@ def _get_doc_meta(doc_id: str) -> Optional[Dict[str, Any]]:
     return None
 
 
+# Tải nội dung JSON của một course document dựa trên doc_id.
 def _load_course_document(doc_id: str) -> Optional[Dict[str, Any]]:
     if not doc_id:
         return None
@@ -1230,6 +1309,7 @@ def _load_course_document(doc_id: str) -> Optional[Dict[str, Any]]:
     return data
 
 
+# Xoá cache tài nguyên backend (toàn bộ hoặc theo model cụ thể).
 def invalidate_backend_index_cache(model_name: Optional[str] = None):
     if "backend_index_cache" not in st.session_state:
         return
@@ -1240,6 +1320,7 @@ def invalidate_backend_index_cache(model_name: Optional[str] = None):
     st.session_state.backend_index_cache.pop(key, None)
 
 
+# Gọi client embeddings để embed câu hỏi thành vector chuẩn hoá.
 def embed_query_vector(question: str, embedding_backend: str, embedding_model: str) -> np.ndarray:
     embeddings = make_embeddings_client(embedding_backend, embedding_model)
     vector = embeddings.embed_query(question)
@@ -1247,6 +1328,7 @@ def embed_query_vector(question: str, embedding_backend: str, embedding_model: s
     return _l2_normalize(array)
 
 
+# Chạy truy vấn vector search (hoặc fallback lexical) để lấy top chunk.
 def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
     resources = ensure_backend_index_cache(st.session_state.embed_model)
     try:
@@ -1306,6 +1388,7 @@ def search_backend_index(question: str, top_k: int) -> List[Dict[str, Any]]:
     return ranked
 
 
+# Quy trình đầy đủ: embed câu hỏi, tìm chunk, hợp nhất và trả kết quả sắp xếp.
 def retrieve_relevant_chunks(question: str) -> List[Dict[str, Any]]:
     """Full retrieval pipeline with course filtering and attribute expansion."""
     target_doc_ids = _identify_target_doc_ids(question)
@@ -1316,6 +1399,7 @@ def retrieve_relevant_chunks(question: str) -> List[Dict[str, Any]]:
     return _dedupe_chunks(chunks)
 
 
+# Ghép các chunk thành context dạng markdown gửi vào LLM.
 def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
     parts: List[str] = []
     for idx, item in enumerate(chunks, start=1):
@@ -1330,6 +1414,7 @@ def format_backend_context(chunks: List[Dict[str, Any]]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
+# Chuẩn hoá text chunk (strip, thay newline) để đồng nhất hiển thị.
 def _normalize_chunk_text(text: str) -> str:
     normalized = (text or "").replace("\t", " ").replace("\u00a0", " ")
     normalized = re.sub(r"[ ]{2,}", " ", normalized)
@@ -1349,6 +1434,7 @@ def _normalize_chunk_text(text: str) -> str:
     return "\n".join(lines)
 
 
+# Lấy nội dung text thực tế của chunk, fallback nếu thiếu.
 def _get_chunk_text(meta: Dict[str, Any]) -> str:
     cached = meta.get("_normalized_text")
     if isinstance(cached, str):
@@ -1359,6 +1445,7 @@ def _get_chunk_text(meta: Dict[str, Any]) -> str:
     return normalized
 
 
+# Xác định dòng có thuộc bảng markdown đơn giản hay không.
 def _is_table_line(line: str) -> bool:
     if "|" not in line:
         return False
@@ -1366,6 +1453,7 @@ def _is_table_line(line: str) -> bool:
     return sum(1 for segment in segments if segment) >= 2
 
 
+# Chuẩn lại bảng markdown (thêm header/delimiter) để Streamlit render đẹp.
 def _format_markdown_table(lines: List[str]) -> str:
     rows = []
     max_cols = 0
@@ -1392,11 +1480,13 @@ def _format_markdown_table(lines: List[str]) -> str:
     return "\n".join(output)
 
 
+# Quét text, phát hiện bảng thô và định dạng lại trước khi trả lời.
 def _render_tables_in_text(text: str) -> str:
     lines = text.splitlines()
     out: List[str] = []
     table_buffer: List[str] = []
 
+    # Hàm phụ push buffer bảng vào output và reset.
     def flush_table():
         if table_buffer:
             out.append(_format_markdown_table(table_buffer))
@@ -1417,6 +1507,7 @@ def _render_tables_in_text(text: str) -> str:
 # Gắn câu hỏi vào doc_id cụ thể (tên học phần, mã môn học) để filter chunk và
 # bổ sung chunk bắt buộc (giảng viên, tín chỉ). Khi muốn điều chỉnh cách dò
 # học phần, tìm tới “[S5C]”.
+# Chuyển text thành slug để so sánh alias khoá học ổn định.
 def _slugify_match_text(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", value or "")
     ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
@@ -1424,6 +1515,7 @@ def _slugify_match_text(value: str) -> str:
     return ascii_text
 
 
+# Chuẩn hoá alias bằng cách loại bỏ ký tự thừa/chuẩn chữ thường.
 def _normalize_alias_text(value: str) -> str:
     value = value.strip(" \t-•")
     if ":" in value:
@@ -1438,6 +1530,7 @@ def _normalize_alias_text(value: str) -> str:
     return value.strip()
 
 
+# Từ text chunk, lọc ra các chuỗi có thể là alias tên môn học.
 def _extract_course_alias_candidates(text: str) -> List[str]:
     aliases: List[str] = []
     for raw_line in text.splitlines():
@@ -1460,6 +1553,7 @@ def _extract_course_alias_candidates(text: str) -> List[str]:
     return aliases
 
 
+# Kết hợp metadata + text chunk để suy ra danh sách alias môn học.
 def _extract_course_aliases(meta: Dict[str, Any]) -> List[str]:
     doc_id = meta.get("doc_id")
     if not doc_id:
@@ -1493,6 +1587,7 @@ def _extract_course_aliases(meta: Dict[str, Any]) -> List[str]:
     return seen_aliases
 
 
+# Sinh các slug khả thi của môn học dựa trên alias/metadata.
 def _extract_possible_course_slugs(meta: Dict[str, Any]) -> List[str]:
     slugs: List[str] = []
     course_name = meta.get("course_name")
@@ -1521,6 +1616,7 @@ def _extract_possible_course_slugs(meta: Dict[str, Any]) -> List[str]:
     return deduped
 
 
+# Cache danh sách môn học cùng alias và metadata phục vụ lọc phạm vi.
 def _get_course_registry() -> Dict[str, Dict[str, Any]]:
     cache = st.session_state.setdefault("course_registry_cache", {})
     key = safe_model_dir(st.session_state.embed_model)
@@ -1546,6 +1642,7 @@ def _get_course_registry() -> Dict[str, Dict[str, Any]]:
     return registry
 
 
+# Từ câu hỏi xác định doc_id môn học tiềm năng cần ưu tiên.
 def _identify_target_doc_ids(question: str) -> List[str]:
     registry = _get_course_registry()
     question_slug = _slugify_match_text(question)
@@ -1571,6 +1668,7 @@ def _identify_target_doc_ids(question: str) -> List[str]:
     return []
 
 
+# Xác định chunk môn học có phù hợp câu hỏi dựa trên alias/slug kèm heuristics.
 def _course_matches_question(
     question: str,
     meta: Dict[str, Any],
@@ -1596,6 +1694,7 @@ def _course_matches_question(
     return False
 
 
+# Tìm chunk thuộc môn học mục tiêu trong index để ưu tiên trước khi hỏi LLM.
 def _search_course_chunks_from_index(
     question: str,
     limit: int,
@@ -1617,6 +1716,7 @@ def _search_course_chunks_from_index(
     return hits
 
 
+# Lọc danh sách chunk theo danh sách doc_id đã xác định.
 def _filter_chunks_by_course(
     question: str,
     chunks: List[Dict[str, Any]],
@@ -1638,6 +1738,7 @@ def _filter_chunks_by_course(
 # ----- [S5D] Prompt/LLM wiring & small talk guardrails -----------------------
 # Quản lý client ChatOpenAI/LocalAI, chuẩn hóa text người dùng và các phản hồi
 # small-talk để trước khi truy hồi tập trung vào câu hỏi hợp lệ.
+# Khởi tạo client LLM (LocalAI/OpenAI) theo chat_model được chọn.
 def _build_chat_llm(chat_model: str) -> ChatOpenAI:
     """Return a ChatOpenAI-compatible client for the LocalAI runtime."""
     temperature = 0
@@ -1646,6 +1747,7 @@ def _build_chat_llm(chat_model: str) -> ChatOpenAI:
     return ChatOpenAI(model=chat_model, temperature=temperature, base_url=base_url, api_key=api_key)
 
 
+# Chuẩn hoá câu hỏi người dùng để phục vụ small-talk và heuristics khác.
 def _normalize_query(text: str) -> str:
     normalized = unicodedata.normalize("NFKD", text or "")
     ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
@@ -1654,6 +1756,7 @@ def _normalize_query(text: str) -> str:
     return ascii_text.lower().strip()
 
 
+# Nhận diện câu chào/hỏi khả năng -> trả lời sẵn không cần truy hồi.
 def maybe_handle_smalltalk(question: str) -> Optional[str]:
     normalized = _normalize_query(question)
     if not normalized:
@@ -1674,6 +1777,7 @@ def maybe_handle_smalltalk(question: str) -> Optional[str]:
     return None
 
 
+# Gửi prompt chuẩn (context + câu hỏi) tới LLM và lấy phản hồi.
 def call_llm(chat_model: str, question: str, context: str) -> str:
     prompt = ChatPromptTemplate.from_messages(
         [
@@ -1828,6 +1932,7 @@ LANGUAGE_DISPLAY_NAMES = {
 }
 
 
+# Nhận diện câu hỏi đang yêu cầu thông tin dataset inventory (VI/EN).
 def _question_targets_dataset_inventory(question: str) -> Optional[str]:
     normalized = _normalize_query(question)
     if not normalized:
@@ -1838,6 +1943,7 @@ def _question_targets_dataset_inventory(question: str) -> Optional[str]:
     return None
 
 
+# Đếm số file JSON trong thư mục dữ liệu và lấy mẫu vài tên đại diện.
 def _collect_dataset_entries(directory: Path, limit: int = 5) -> Tuple[int, List[str]]:
     if not directory.exists():
         return 0, []
@@ -1845,6 +1951,7 @@ def _collect_dataset_entries(directory: Path, limit: int = 5) -> Tuple[int, List
     return len(names), names[:limit]
 
 
+# Gom thống kê dataset (structured/json) cho một ngôn ngữ cụ thể.
 def _summarize_dataset_language(lang: str) -> Dict[str, Any]:
     root = BACKEND_ROOT / "data"
     structured_dir = root / "processed-structured" / lang
@@ -1862,6 +1969,7 @@ def _summarize_dataset_language(lang: str) -> Dict[str, Any]:
     }
 
 
+# Chuyển path tuyệt đối thành đường dẫn tương đối để hiển thị gọn.
 def _format_relative_path(path: Path) -> str:
     try:
         return str(path.relative_to(PROJECT_ROOT.parent))
@@ -1885,6 +1993,7 @@ class SectionFocus:
     exclude_keys: Tuple[str, ...] = ()
 
 
+# Helper tạo cấu hình SectionFocus gọn thay vì khởi tạo thủ công.
 def _focus(
     label: str,
     keywords: Sequence[str],
@@ -1981,10 +2090,12 @@ SECTION_FOCUS_CONFIG: Dict[str, SectionFocus] = {
 }
 
 
+# Chuẩn hoá khóa đoạn (heading) để so sánh section focus.
 def _normalize_segment_key(value: str) -> str:
     return re.sub(r"\s+", " ", value.strip()).lower()
 
 
+# Kiểm tra nội dung đoạn có nhắc tới keyword focus cho section cụ thể.
 def _segment_mentions_focus(text: str, focus_key: str) -> bool:
     config = SECTION_FOCUS_CONFIG.get(focus_key)
     if not config:
@@ -1993,6 +2104,7 @@ def _segment_mentions_focus(text: str, focus_key: str) -> bool:
     return any(keyword in normalized for keyword in config.keywords)
 
 
+# Lọc danh sách đoạn theo cấu hình focus (keywords, min_segments...).
 def _filter_section_segments(segments: List[str], config: SectionFocus) -> List[str]:
     filtered: List[str] = []
     seen: Set[str] = set()
@@ -2010,6 +2122,7 @@ def _filter_section_segments(segments: List[str], config: SectionFocus) -> List[
     return filtered
 
 
+# Parse text thành danh sách hoạt động học tập và số giờ tương ứng.
 def _extract_learning_activity_entries(text: str) -> List[Dict[str, Any]]:
     entries: List[Dict[str, Any]] = []
     for match in LEARNING_ACTIVITY_LINE_PATTERN.finditer(text):
@@ -2056,11 +2169,13 @@ DEPARTMENT_KEYWORDS = {
 }
 
 
+# Nhận diện câu hỏi đang hỏi về giảng viên/phụ trách môn.
 def _question_targets_instructors(question: str) -> bool:
     normalized = _normalize_query(question)
     return any(keyword in normalized for keyword in INSTRUCTOR_KEYWORDS)
 
 
+# Tách context markdown thành từng đoạn cùng tiêu đề để regex dễ xử lý.
 def _iter_context_entries(context: str) -> List[Tuple[Optional[str], str]]:
     entries: List[Tuple[Optional[str], str]] = []
     for block in context.split("\n\n---\n\n"):
@@ -2080,6 +2195,7 @@ def _iter_context_entries(context: str) -> List[Tuple[Optional[str], str]]:
     return entries
 
 
+# Lấy danh sách giảng viên từ đoạn text dựa trên pattern tên/email.
 def _collect_instructors_from_text(text: str) -> List[Dict[str, str]]:
     rows: List[Dict[str, str]] = []
     seen: set[Tuple[str, str]] = set()
@@ -2125,6 +2241,7 @@ def _collect_instructors_from_text(text: str) -> List[Dict[str, str]]:
     return rows
 
 
+# Trích tên giảng viên từ đoạn text bằng heuristics đơn giản.
 def _extract_instructor_names_from_text(text: str) -> List[str]:
     names: List[str] = []
     lines = [line.strip() for line in text.splitlines() if line.strip()]
@@ -2148,6 +2265,7 @@ def _extract_instructor_names_from_text(text: str) -> List[str]:
     return names
 
 
+# Đọc toàn bộ document của môn để lấy danh sách giảng viên fallback.
 def _collect_instructors_from_doc(doc_id: str) -> List[str]:
     texts = _collect_section_texts(doc_id, INSTRUCTOR_SECTION_SLUGS)
     seen: set[str] = set()
@@ -2169,6 +2287,7 @@ def _collect_instructors_from_doc(doc_id: str) -> List[str]:
     return names
 
 
+# Kiểm tra chuỗi có hình dáng như tên người (ít nhất 2 từ, ít số).
 def _looks_like_name(value: str) -> bool:
     if not value:
         return False
@@ -2181,6 +2300,7 @@ def _looks_like_name(value: str) -> bool:
     return capitalized >= 2
 
 
+# Ràng lọc thêm để loại các cụm không phải tên giảng viên hợp lệ.
 def _is_valid_instructor_name(name: str) -> bool:
     if not name:
         return False
@@ -2230,6 +2350,7 @@ def _is_valid_instructor_name(name: str) -> bool:
     return True
 
 
+# Phân tích bảng/dòng dạng "Tên | Email" để lấy thông tin giảng viên.
 def _extract_instructor_rows(text: str) -> List[Dict[str, str]]:
     rows: List[Dict[str, str]] = []
     lines = [line.strip() for line in text.splitlines() if line.strip()]
@@ -2256,6 +2377,7 @@ def _extract_instructor_rows(text: str) -> List[Dict[str, str]]:
     return rows
 
 
+# Trích cặp key/value (ví dụ Name:, Email:) nói về giảng viên.
 def _extract_instructor_key_values(text: str) -> List[Dict[str, str]]:
     normalized = text
     for marker in INSTRUCTOR_FIELD_SPLIT_MARKERS:
@@ -2289,6 +2411,7 @@ def _extract_instructor_key_values(text: str) -> List[Dict[str, str]]:
     return entries
 
 
+# Nhận diện danh sách bullet chứa tên + mô tả giảng viên.
 def _extract_instructor_list_entries(text: str) -> List[Dict[str, str]]:
     entries: List[Dict[str, str]] = []
     for raw in text.splitlines():
@@ -2311,6 +2434,7 @@ def _extract_instructor_list_entries(text: str) -> List[Dict[str, str]]:
     return entries
 
 
+# Xác định chunk chứa dữ liệu giảng viên qua metadata tiêu đề/alias.
 def _chunk_contains_instructor_info(meta: Dict[str, Any]) -> bool:
     text = _get_chunk_text(meta)
     if not text:
@@ -2337,11 +2461,13 @@ def _chunk_contains_instructor_info(meta: Dict[str, Any]) -> bool:
     )
 
 
+# Rút mã môn học trực tiếp từ câu hỏi (ví dụ IT001).
 def _extract_course_codes(question: str) -> List[str]:
     pattern = re.compile(r"[A-Z]{2,}[A-Z0-9]*\d{2,}[A-Z0-9]*")
     return pattern.findall(question.upper())
 
 
+# Truy xuất các chunk có thông tin giảng viên cho những doc_id cụ thể.
 def _search_instructor_chunks_from_index(
     question: str,
     target_doc_ids: Optional[List[str]] = None,
@@ -2369,6 +2495,7 @@ def _search_instructor_chunks_from_index(
     return hits
 
 
+# Nếu thiếu dữ liệu giảng viên, nạp thêm từ document/từ khoá liên quan.
 def _maybe_expand_instructor_chunks(
     question: str,
     chunks: List[Dict[str, Any]],
@@ -2390,6 +2517,7 @@ def _maybe_expand_instructor_chunks(
     return extras or chunks
 
 
+# Đảm bảo đã có chunk chứa dữ kiện cần lấy (giảng viên/tín chỉ...) trước khi trả lời.
 def _ensure_attribute_chunks(
     question: str,
     chunks: List[Dict[str, Any]],
@@ -2450,6 +2578,7 @@ def _ensure_attribute_chunks(
     return chunks + extras if extras else chunks
 
 
+# Heuristic xem câu hỏi cần trả lời bằng tiếng Anh hay không.
 def _should_answer_in_english(question: str) -> bool:
     normalized = question.strip()
     if not normalized:
@@ -2462,26 +2591,31 @@ def _should_answer_in_english(question: str) -> bool:
     return any(word in lowered for word in ("who", "lecturer", "teacher"))
 
 
+# Nhận diện câu hỏi đang hỏi về số tín chỉ.
 def _question_targets_credits(question: str) -> bool:
     normalized = _normalize_query(question)
     return any(keyword in normalized for keyword in CREDIT_KEYWORDS)
 
 
+# Nhận diện câu hỏi đang hỏi về số giờ học trên lớp.
 def _question_targets_class_hours(question: str) -> bool:
     normalized = _normalize_query(question)
     return any(keyword in normalized for keyword in CLASS_HOUR_KEYWORDS)
 
 
+# Nhận diện câu hỏi hỏi về số giờ tự học.
 def _question_targets_self_study_hours(question: str) -> bool:
     normalized = _normalize_query(question)
     return any(keyword in normalized for keyword in SELF_STUDY_KEYWORDS)
 
 
+# Nhận diện câu hỏi đang yêu cầu thông tin khoa/bộ môn quản lý.
 def _question_targets_department(question: str) -> bool:
     normalized = _normalize_query(question)
     return any(keyword in normalized for keyword in DEPARTMENT_KEYWORDS)
 
 
+# So khớp câu hỏi với các SectionFocus cấu hình để biết nên trích đoạn nào.
 def _match_section_focus(question: str) -> Dict[str, SectionFocus]:
     normalized = _normalize_query(question)
     matches: Dict[str, SectionFocus] = {}
@@ -2491,6 +2625,7 @@ def _match_section_focus(question: str) -> Dict[str, SectionFocus]:
     return matches
 
 
+# Kiểm tra heading/text có phù hợp focus (keyword, slug) hay không.
 def _section_focus_matches(heading: str, text: str, config: SectionFocus) -> bool:
     slug = _slugify_identifier(heading or "")
     normalized_heading = _normalize_query(heading)
@@ -2504,6 +2639,7 @@ def _section_focus_matches(heading: str, text: str, config: SectionFocus) -> boo
     return any(keyword in normalized_text for keyword in config.keywords)
 
 
+# Với mỗi chunk, xác định nó thuộc section focus nào (nếu có).
 def _detect_section_key(meta: Dict[str, Any], text: str, focus_matches: Dict[str, SectionFocus]) -> Optional[str]:
     heading_raw = meta.get("section_heading") or meta.get("primary_heading") or meta.get("breadcrumbs") or ""
     for key, config in focus_matches.items():
@@ -2519,6 +2655,7 @@ CRE_CREDIT_PATTERNS = [
 ]
 
 
+# Tìm số tín chỉ từ text (ví dụ '3 tín chỉ', '3 credits').
 def _extract_credit_value(text: str) -> Optional[str]:
     for pattern in CRE_CREDIT_PATTERNS:
         match = pattern.search(text)
@@ -2551,6 +2688,7 @@ SELF_STUDY_PATTERNS = [
 ]
 
 
+# Tìm số giờ trên lớp từ text chunk.
 def _extract_class_hours_value(text: str) -> Optional[str]:
     entries = _extract_learning_activity_entries(text)
     in_class_entries = [entry for entry in entries if not entry["is_self_study"]]
@@ -2574,6 +2712,7 @@ def _extract_class_hours_value(text: str) -> Optional[str]:
     return None
 
 
+# Tìm giá trị giờ tự học từ text chunk (có thể ở bảng/liệt kê).
 def _extract_self_study_hours_value(text: str) -> Optional[str]:
     for entry in _extract_learning_activity_entries(text):
         if entry["is_self_study"]:
@@ -2592,6 +2731,7 @@ def _extract_self_study_hours_value(text: str) -> Optional[str]:
     return None
 
 
+# Nếu chunk không có, mở cả document để tìm giá trị giờ tự học.
 def _extract_self_study_hours_from_doc(doc_id: str) -> Optional[str]:
     data = _load_course_document(doc_id)
     if not data:
@@ -2604,6 +2744,7 @@ def _extract_self_study_hours_from_doc(doc_id: str) -> Optional[str]:
     return None
 
 
+# Trả lời số tín chỉ bằng cách quét chunk/doc tương ứng.
 def _answer_course_credits(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     if not _question_targets_credits(question):
         return None
@@ -2617,6 +2758,7 @@ def _answer_course_credits(question: str, chunks: List[Dict[str, Any]], _: str) 
     return None
 
 
+# Trả lời số giờ học trên lớp nếu tìm thấy.
 def _answer_class_hours(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     if not _question_targets_class_hours(question):
         return None
@@ -2630,6 +2772,7 @@ def _answer_class_hours(question: str, chunks: List[Dict[str, Any]], _: str) -> 
     return None
 
 
+# Trả lời số giờ tự học dựa trên chunk/doc nếu có.
 def _answer_self_study_hours(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     if not _question_targets_self_study_hours(question):
         return None
@@ -2653,6 +2796,7 @@ def _answer_self_study_hours(question: str, chunks: List[Dict[str, Any]], _: str
     return None
 
 
+# Trả lời danh sách giảng viên bằng cách phân tích chunk/context.
 def _answer_instructors(question: str, chunks: List[Dict[str, Any]], context: str) -> Optional[str]:
     if not _question_targets_instructors(question):
         return None
@@ -2702,11 +2846,13 @@ def _answer_instructors(question: str, chunks: List[Dict[str, Any]], context: st
     return f"{label}:\n{body}"
 
 
+# Trích nguyên văn đoạn thuộc section focus mà người dùng hỏi.
 def _answer_section_focus(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     focus_matches = _match_section_focus(question)
     if not focus_matches:
         return None
 
+    # Chuẩn hoá giá trị order trong metadata thành số để sort.
     def _normalize_order(value: Any) -> int:
         try:
             return int(value)
@@ -2772,6 +2918,7 @@ def _answer_section_focus(question: str, chunks: List[Dict[str, Any]], _: str) -
     return "\n\n".join(sections)
 
 
+# Thu thập các đoạn văn liên quan tới khoa/bộ môn từ toàn bộ document.
 def _collect_department_sections(doc_id: str) -> List[str]:
     data = _load_course_document(doc_id)
     if not data:
@@ -2795,6 +2942,7 @@ def _collect_department_sections(doc_id: str) -> List[str]:
     return sections
 
 
+# Lấy text thuộc section cụ thể (SectionFocus hoặc danh sách slug).
 def _collect_section_texts(doc_id: str, selector: Union[SectionFocus, Sequence[str]]) -> List[str]:
     data = _load_course_document(doc_id)
     if not data:
@@ -2819,6 +2967,7 @@ def _collect_section_texts(doc_id: str, selector: Union[SectionFocus, Sequence[s
     return texts
 
 
+# Trả lời câu hỏi về khoa/bộ môn phụ trách môn học.
 def _answer_department(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     if not _question_targets_department(question):
         return None
@@ -2855,6 +3004,7 @@ def _answer_department(question: str, chunks: List[Dict[str, Any]], _: str) -> O
     return f"Khoa/Viện phụ trách:\n{body}"
 
 
+# Trả lời câu hỏi về tình trạng dataset (số lượng file, thư mục) theo ngôn ngữ.
 def _answer_dataset_inventory(question: str, chunks: List[Dict[str, Any]], _: str) -> Optional[str]:
     lang = _question_targets_dataset_inventory(question)
     if not lang:
@@ -2879,6 +3029,7 @@ def _answer_dataset_inventory(question: str, chunks: List[Dict[str, Any]], _: st
     header = "Dataset overview" if english else "Tổng quan dữ liệu"
     lines = [f"{header} ({lang_label}):"]
 
+    # Render một dòng mô tả thư mục + số lượng file dataset.
     def _format_line(label: str, directory: Path, count: int, samples: List[str]) -> str:
         rel_dir = _format_relative_path(directory)
         if not count:
@@ -2936,6 +3087,7 @@ ANSWER_STRATEGIES: List[AnswerStrategy] = [
 ]
 
 
+# Chạy lần lượt các chiến lược trả lời đặc thù domain; trả kết quả đầu tiên thành công.
 def _apply_answer_strategies(question: str, chunks: List[Dict[str, Any]], context: str) -> Optional[str]:
     for strategy in ANSWER_STRATEGIES:
         if not strategy.matcher(question):
@@ -2949,6 +3101,7 @@ def _apply_answer_strategies(question: str, chunks: List[Dict[str, Any]], contex
     return None
 
 
+# Tạo phản hồi mặc định khi không tìm được thông tin liên quan.
 def _build_no_info_response(question: str, chunks: List[Dict[str, Any]]) -> str:
     english = _should_answer_in_english(question)
     if english:
@@ -2978,6 +3131,7 @@ def _build_no_info_response(question: str, chunks: List[Dict[str, Any]]) -> str:
     return f"{base}{detail} {hint}"
 
 
+# Tạo câu trả lời dựa trên tóm tắt chunk (không dùng LLM) để fallback.
 def _build_context_summary_answer(question: str, chunks: List[Dict[str, Any]]) -> str:
     """Provide a deterministic fallback answer by echoing key context chunks."""
     pieces: List[str] = []
@@ -3011,6 +3165,7 @@ def _build_context_summary_answer(question: str, chunks: List[Dict[str, Any]]) -
     return f"{header}\n\n" + "\n\n".join(pieces)
 
 
+# Lắp ráp pipeline trả lời: chuẩn bị context, gọi LLM/vấn đáp heuristics rồi trả text + nguồn.
 def _generate_answer_from_chunks(question: str, chunks: List[Dict[str, Any]]) -> Tuple[str, List[Dict[str, Any]], str]:
     """Run answer strategies/LLM with lexical context fallback."""
     chunks = _dedupe_chunks(chunks)
@@ -3067,6 +3222,7 @@ def _generate_answer_from_chunks(question: str, chunks: List[Dict[str, Any]]) ->
 # mặc định, đảm bảo việc reload UI/pipeline luôn có cùng cấu hình nền.
 
 
+# Thiết lập theme Material tùy biến cho Streamlit (CSS + màu sắc).
 def apply_material_theme():
     """Inject a pastel blue Material-inspired theme into the Streamlit app."""
     st.markdown(
@@ -3318,6 +3474,7 @@ def apply_material_theme():
     )
 
 
+# Khởi tạo các biến session_state mặc định khi app được load.
 def init_session():
     existing_proc = st.session_state.get("backend_pipeline_proc")
     if existing_proc and existing_proc.poll() is None:
@@ -3382,6 +3539,7 @@ def init_session():
 # ----- [S6B] Settings & sidebar widgets --------------------------------------
 # Các hàm render_* ở phần này quản lý trải nghiệm sidebar: lựa chọn backend,
 # điều khiển runtime Docker, upload/pipeline và action nhanh cho người dùng.
+# Tạo nội dung phần cài đặt: chọn model, backend, chunking, ...
 def render_settings_body():
     st.title("Settings")
     st.button(
@@ -3441,6 +3599,7 @@ def render_settings_body():
 
     render_local_runtime_controls()
 
+# Yêu cầu Streamlit rerun (dùng khi thay đổi cấu hình cần reload UI).
 def _trigger_streamlit_rerun() -> None:
     """Call the available Streamlit rerun API across versions."""
     rerun_fn = getattr(st, "rerun", None) or getattr(st, "experimental_rerun", None)
@@ -3449,22 +3608,26 @@ def _trigger_streamlit_rerun() -> None:
     rerun_fn()
 
 
+# Cập nhật view hiện tại (user/admin) và rerun nếu cần.
 def _set_active_view(target: str) -> None:
     st.session_state.active_view = target
     if target != ADMIN_VIEW:
         st.session_state.admin_authenticated = False
 
 
+# Đăng xuất admin bằng cách xoá flag session tương ứng.
 def _logout_admin() -> None:
     st.session_state.admin_authenticated = False
     st.session_state.active_view = USER_VIEW
 
 
+# Lấy mật khẩu admin từ env (hoặc session cache) để đối chiếu.
 def _get_admin_password() -> str:
     value = os.getenv(ADMIN_PASSWORD_ENV_VAR, "")
     return value.strip() if value else ""
 
 
+# Hiển thị khối điều khiển start/stop và trạng thái cho một runtime.
 def _render_runtime_control(
     title: str,
     running: bool,
@@ -3521,6 +3684,7 @@ def _render_runtime_control(
     return suppressed_messages
 
 
+# In badge trạng thái (đang chạy, lỗi, ...) với CSS tương ứng.
 def _render_status_badge(target, label: str, css_class: str) -> None:
     """Render or update the runtime status pill."""
     target.markdown(
@@ -3529,6 +3693,7 @@ def _render_status_badge(target, label: str, css_class: str) -> None:
     )
 
 
+# Nhận biết lỗi Docker chung (VD Docker Desktop bị pause) để cảnh báo.
 def _is_global_docker_error(message: Optional[str]) -> bool:
     if not message:
         return False
@@ -3536,6 +3701,7 @@ def _is_global_docker_error(message: Optional[str]) -> bool:
     return any(snippet in lowered for snippet in GLOBAL_DOCKER_ERROR_SNIPPETS)
 
 
+# Liệt kê các file dữ liệu gốc (PDF/DOCX/JSON) phục vụ trang admin.
 def _list_raw_document_paths() -> List[Path]:
     if not DATA_DIR.exists():
         return []
@@ -3547,6 +3713,7 @@ def _list_raw_document_paths() -> List[Path]:
     return files
 
 
+# Chuyển số byte thành chuỗi dung lượng dễ đọc (KB/MB).
 def _format_filesize(num_bytes: int) -> str:
     if num_bytes < 1024:
         return f"{num_bytes} B"
@@ -3559,6 +3726,7 @@ def _format_filesize(num_bytes: int) -> str:
     return f"{size:.1f} PB"
 
 
+# Đọc nội dung file text với fallback mã hóa nếu UTF-8 thất bại.
 def _read_text_file_with_fallback(path: Path) -> Tuple[str, str]:
     encodings = ("utf-8", "utf-16", "latin-1")
     last_error: Optional[Exception] = None
@@ -3571,6 +3739,7 @@ def _read_text_file_with_fallback(path: Path) -> Tuple[str, str]:
     raise RuntimeError(f"Không thể đọc {path.name}: {last_error}")
 
 
+# Đọc script download để lấy danh sách file bắt buộc/tùy chọn (dùng eval an toàn).
 def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[str, ...]]:
     """Return required/optional file lists declared by a download helper script."""
     try:
@@ -3587,6 +3756,7 @@ def _load_download_targets(script_path: Path) -> Tuple[Tuple[str, ...], Tuple[st
         return (), ()
 
 
+# Tải model TEI và stream log vào UI để người dùng theo dõi.
 def _download_tei_model_with_progress(
     model_key: str,
     status_placeholder,
@@ -3645,6 +3815,7 @@ def _download_tei_model_with_progress(
     return True, "Model assets downloaded."
 
 
+# Thực hiện docker pull image TEI kèm hiển thị log/cảnh báo lỗi.
 def _pull_tei_image(
     runtime_key: str,
     status_placeholder,
@@ -3677,6 +3848,7 @@ def _pull_tei_image(
     return True, f"Docker image {image} ready."
 
 
+# Bao trọn logic chuẩn bị, chạy script TEI và cập nhật trạng thái trong UI.
 def _handle_start_tei_runtime(
     model_key: str,
     runtime_mode: str,
@@ -3711,6 +3883,7 @@ def _handle_start_tei_runtime(
     return success, message
 
 
+# UI điều khiển cho từng TEI model: kiểm tra download, start/stop, logs.
 def _render_tei_runtime_control(
     tei_status: Dict[str, Any],
     model_key: str,
@@ -3792,6 +3965,7 @@ def _render_tei_runtime_control(
 # ----- [S6C] Docker runtime monitor -----------------------------------------
 # render_local_runtime_controls hiển thị trạng thái + nút điều khiển TEI/LocalAI
 # và kích hoạt pipeline ingest nên mọi vấn đề Docker -> tìm “[S6C]”.
+# Phần UI quản lý LocalAI + TEI (start/stop, chọn model).
 def render_local_runtime_controls() -> None:
     pipeline_running = st.session_state.get("pipeline_running", False)
     model_key = st.session_state.embed_model
@@ -3906,6 +4080,8 @@ def render_local_runtime_controls() -> None:
             "last_values": {},
         }
 
+        # Khởi tạo progress bar cho từng bước pipeline (chỉ chạy một lần).
+        # Khởi tạo UI progress bars cho từng bước pipeline ingest (bản admin).
         def ensure_step_bars(total_steps: int) -> None:
             if progress_state["bars"]:
                 return
@@ -3918,6 +4094,8 @@ def render_local_runtime_controls() -> None:
                 progress_state["bars"][idx] = {"bar": bar, "percent": percent_placeholder}
                 progress_state["last_values"][idx] = 0
 
+        # Đánh dấu một bước pipeline đã hoàn thành 100%.
+        # Đánh dấu bước pipeline cụ thể đã hoàn thành trên UI admin.
         def mark_complete(step_idx: Optional[int]) -> None:
             if not step_idx:
                 return
@@ -3927,6 +4105,8 @@ def render_local_runtime_controls() -> None:
                 entry["percent"].markdown("**100%**")
                 progress_state["last_values"][step_idx] = 100
 
+        # Phân tích log realtime từ pipeline để cập nhật thanh tiến trình.
+        # Theo dõi log pipeline trên trang admin để cập nhật tiến độ.
         def handle_pipeline_output(line: str) -> None:
             match = step_pattern.search(line)
             if match:
@@ -4001,6 +4181,7 @@ def render_local_runtime_controls() -> None:
 # ----- [S6D] Quick actions & pipeline controls -------------------------------
 # render_sidebar_quick_actions gom các nút rebuild index, tải tài liệu, clear
 # history... giúp vận hành nhanh không cần cuộn cả sidebar.
+# Sidebar chứa các hành động nhanh: upload, rebuild index, feedback.
 def render_sidebar_quick_actions():
     pipeline_running = st.session_state.get("pipeline_running", False)
     active_view = st.session_state.get("active_view", USER_VIEW)
@@ -4043,8 +4224,12 @@ def render_sidebar_quick_actions():
             target_dir.mkdir(parents=True, exist_ok=True)
             stem = Path(file.name).stem.strip()
             safe_stem = ''.join(ch if ch.isalnum() or ch in {'-', '_'} else '-' for ch in stem).strip('-') or 'document'
-            unique_name = f"{safe_stem}-{uuid4().hex[:8]}{suffix}"
+            unique_name = f"{safe_stem}{suffix}"
             target_path = target_dir / unique_name
+            if target_path.exists():
+                errors.append(f"{unique_name} đã tồn tại trong uploads. Xóa hoặc đổi tên file trước khi upload lại.")
+                continue
+
             try:
                 with open(target_path, 'wb') as out_file:
                     out_file.write(file.getbuffer())
@@ -4162,6 +4347,7 @@ def render_sidebar_quick_actions():
             'last_values': {},
         }
 
+        # Khởi tạo các progress bar cho từng bước pipeline (phiên bản admin này).
         def ensure_step_bars(total_steps: int) -> None:
             if progress_state['bars']:
                 return
@@ -4174,6 +4360,7 @@ def render_sidebar_quick_actions():
                 progress_state['bars'][idx] = {'bar': bar, 'percent': percent_placeholder}
                 progress_state['last_values'][idx] = 0
 
+        # Đánh dấu một bước ingest hoàn tất 100% trên UI admin.
         def mark_complete(step_idx: Optional[int]) -> None:
             if not step_idx:
                 return
@@ -4183,6 +4370,7 @@ def render_sidebar_quick_actions():
                 entry['percent'].markdown('**100%**')
                 progress_state['last_values'][step_idx] = 100
 
+        # Xử lý từng dòng log pipeline để cập nhật trạng thái tiến trình.
         def handle_pipeline_output(line: str) -> None:
             match = step_pattern.search(line)
             if match:
@@ -4279,6 +4467,7 @@ def render_sidebar_quick_actions():
                 st.error('TEI runtime is not running. Start it before rebuilding.')
             else:
                 langs = docx_langs or ['vi']
+                prepare_uploaded_docx(langs)  # thêm dòng này
                 st.session_state.pipeline_request = {
                     'model_key': st.session_state.embed_model,
                     'runtime_mode': runtime_mode,
@@ -4362,6 +4551,7 @@ def render_sidebar_quick_actions():
 # ----- [S6E] View switching & admin tools ------------------------------------
 # Phần này gom điều khiển chuyển Trang người dùng/Trang quản trị, đăng nhập
 # admin, quản lý file gốc và layout trang quản trị. .
+# Kiểm tra mật khẩu admin và cập nhật session tương ứng; trả True nếu đã xác thực.
 def ensure_admin_access() -> bool:
     admin_password = _get_admin_password()
     already_authenticated = st.session_state.get("admin_authenticated", False)
@@ -4390,6 +4580,7 @@ def ensure_admin_access() -> bool:
     return False
 
 
+# Trang quản lý file: xem danh sách, nội dung, và xóa/tải lên tùy định nghĩa.
 def render_admin_file_manager() -> None:
     st.subheader("Quản lý tài liệu gốc")
     all_files = _list_raw_document_paths()
@@ -4507,6 +4698,7 @@ def render_admin_file_manager() -> None:
         st.session_state.admin_file_feedback = None
 
 
+# Hiển thị toàn bộ giao diện admin (runtime, file manager, pipelines...).
 def render_admin_page() -> None:
     st.header("Trang quản trị")
     st.caption("Quản lý tài liệu, pipeline và thiết lập runtime.")
@@ -4524,6 +4716,7 @@ def render_admin_page() -> None:
 # ----- [S6F] User chat view & app entrypoint ---------------------------------
 # Các hàm dưới quản lý cảnh báo runtime, lịch sử chat, hộp thoại hỏi đáp và
 # entrypoint Streamlit. Tìm "[S6F]" khi cần điều chỉnh trải nghiệm người dùng.
+# Hiển thị cảnh báo cho người dùng nếu index chưa build hoặc thiếu runtime.
 def _render_user_runtime_notices(current_index_dir: Path) -> None:
     runtime_mode = st.session_state.tei_runtime_mode
     model_key = st.session_state.embed_model
@@ -4534,6 +4727,7 @@ def _render_user_runtime_notices(current_index_dir: Path) -> None:
         st.info("No backend index detected. Run the pipeline from the sidebar to build it from DOCX files.")
 
 
+# In lịch sử hội thoại hiện có từ session_state ra UI.
 def _render_chat_history() -> None:
     for turn in st.session_state.history:
         with st.chat_message(turn["role"]):
@@ -4546,11 +4740,13 @@ def _render_chat_history() -> None:
                             st.caption(source["snippet"])
 
 
+# Thu nhận câu hỏi người dùng nhập (text input) và chuẩn hóa session.
 def _collect_user_question() -> Optional[str]:
     pending_question = st.session_state.pop("_pending_question", None)
     return pending_question or st.chat_input("Ask something about your documents...")
 
 
+# Pipeline xử lý câu hỏi: truy hồi chunk, gọi LLM, log lịch sử.
 def _handle_user_question(current_index_dir: Path, user_question: str) -> None:
     st.session_state.history.append({"role": "user", "content": user_question})
 
@@ -4631,6 +4827,7 @@ def _handle_user_question(current_index_dir: Path, user_question: str) -> None:
     st.rerun()
 
 
+# Giao diện chính cho người dùng cuối (chatbot + thông báo runtime).
 def render_user_view() -> None:
     current_index_dir = resolve_index_dir(st.session_state.embed_model)
     _render_user_runtime_notices(current_index_dir)
@@ -4639,6 +4836,7 @@ def render_user_view() -> None:
     if user_question:
         _handle_user_question(current_index_dir, user_question)
 
+# Đọc file .env chung của project và cập nhật env hiện tại.
 def _load_project_envs() -> None:
     dotenv_files = [
         Path(".env"),
@@ -4651,6 +4849,7 @@ def _load_project_envs() -> None:
             load_dotenv(dotenv_path=env_path, override=True)
 
 
+# Điểm vào chính của app Streamlit: load env, init session, render layout.
 def main():
     _load_project_envs()
     ensure_dirs()
@@ -4673,6 +4872,7 @@ def main():
     render_user_view()
 
 
+# Vẽ nội dung sidebar (settings + actions) dựa trên view hiện tại.
 def render_sidebar():
     active_view = st.session_state.get("active_view", USER_VIEW)
     if active_view == ADMIN_VIEW:
